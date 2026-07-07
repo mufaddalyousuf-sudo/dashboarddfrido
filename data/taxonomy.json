@@ -60,8 +60,9 @@
     {"id": "footrest-frido-check", "keyword": "frido footrest", "brandQualified": true}
   ], "correctionNote": "Verified with a brand-qualified search: Frido has no dedicated under-desk footrest SKU. Closest match is a Leg Elevation Wedge Pillow (a different product) — a genuine catalog gap, not a research miss."},
   {"id": "mobility-devices", "name": "Mobility Devices", "icon": "♿", "priority": "P3", "datasets": [
-    {"id": "wheelchair-mobility-cushion", "keyword": "wheelchair cushion", "primary": true}
-  ]},
+    {"id": "mobility-devices-frido", "keyword": "foldable travel wheelchair", "primary": true},
+    {"id": "wheelchair-mobility-cushion", "keyword": "wheelchair cushion"}
+  ], "correctionNote": "Corrects an earlier session finding: myfrido.com has no Mobility Devices collection, but Frido genuinely sells wheelchairs, commode wheelchairs and patient-lift chairs on Amazon under manufacturer Arcatron Mobility Pvt Ltd (the same manufacturer behind the verified Frido Hot & Cold Therapy Cap) — an Amazon-only sub-line absent from Frido's own website."},
   {"id": "chairs", "name": "Chairs", "icon": "🪑", "priority": "P2", "datasets": [
     {"id": "ergonomic-chair-frido", "keyword": "Frido 3D Posture Plus Ergonomic Chair", "primary": true, "brandQualified": true},
     {"id": "ergonomic-chair", "keyword": "ergonomic office chair"}

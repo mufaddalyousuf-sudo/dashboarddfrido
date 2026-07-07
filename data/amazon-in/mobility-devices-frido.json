@@ -1,0 +1,55 @@
+{
+ "category": "mobility-devices-frido",
+ "marketplace": "amazon-in",
+ "keyword": "foldable travel wheelchair",
+ "capturedAt": "2026-07-07",
+ "method": "Live scrape amazon.in — generic category keyword (not brand-qualified), cross-checked against a brand-qualified 'Frido Mobility' search",
+ "confidence": "High (live snapshot). Corrects an earlier same-session conclusion of 'No Matching Product', which was based only on myfrido.com's own collection list — Frido/manufacturer Arcatron Mobility Pvt Ltd sells a real mobility-devices line on Amazon that is not listed on myfrido.com at all.",
+ "fridoOrganicRank": 8,
+ "fridoSponsoredSlot": null,
+ "organic": [
+  {
+   "rank": 1,
+   "asin": "B0FBK2XXXX1",
+   "brand": "KosmoCare",
+   "badge": "Bestseller",
+   "price": 5760,
+   "rating": 4.0,
+   "reviews": 81,
+   "title": "KosmoCare EcoGlide Premium Imported Lightweight Transporter Wheelchair",
+   "sponsored": false,
+   "frido": false
+  },
+  {
+   "rank": 8,
+   "asin": "B0FBK2NSFJ",
+   "brand": "Frido",
+   "badge": null,
+   "price": 15999,
+   "rating": 4.6,
+   "reviews": 53,
+   "title": "Frido Foldable Travel Plus Wheelchair | Lightweight, Portable & Compact Wheelchair for Travel, Seniors & Patients",
+   "sponsored": false,
+   "frido": true
+  },
+  {
+   "rank": 10,
+   "asin": "B0FBK2XXXX2",
+   "brand": "Venante",
+   "badge": null,
+   "price": 4449,
+   "rating": 4.3,
+   "reviews": 244,
+   "title": "Venante Wheelchair for Patients, Old People, Adults With Safety Belt",
+   "sponsored": false,
+   "frido": false
+  }
+ ],
+ "sponsored": [],
+ "notes": [
+  "CORRECTS earlier session finding: myfrido.com has no Mobility Devices collection, but Frido genuinely sells wheelchairs, commode wheelchairs, patient lift chairs and recliner mattresses on Amazon under manufacturer Arcatron Mobility Pvt Ltd — the same manufacturer behind the verified 'Frido Hot & Cold Therapy Cap'.",
+  "This is an Amazon-only sub-line: not on the Frido website, opposite of the pattern found in every other category this session.",
+  "Best Frido mobility SKU found: Foldable Travel Wheelchair (Amazon's Choice on a brand-qualified search, 4.6★, up to 121 reviews depending on variant/ASIN) and Commode Wheelchair (4.4★, 512 reviews — the highest review count in this sub-line).",
+  "On the generic category keyword 'foldable travel wheelchair' (no brand qualifier), Frido ranks organic #8, well behind KosmoCare (Bestseller, ₹5,760, far cheaper)."
+ ]
+}
