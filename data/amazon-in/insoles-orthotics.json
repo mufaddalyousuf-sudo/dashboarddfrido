@@ -1,0 +1,335 @@
+{
+ "category": "insoles-orthotics",
+ "marketplace": "amazon-in",
+ "keyword": "orthopedic insoles",
+ "capturedAt": "2026-07-07",
+ "method": "Live scrape amazon.in search page 1",
+ "confidence": "High (live snapshot, single keyword)",
+ "fridoOrganicRank": 2,
+ "fridoSponsoredSlot": 4,
+ "organic": [
+  {
+   "idx": 7,
+   "asin": "B0GQSRQRF8",
+   "sponsored": false,
+   "badge": null,
+   "price": "395",
+   "rating": "4.0",
+   "reviews": "79",
+   "title": "FOVERA Gel Insole for Shoes Men | Dual Gel Technology for All Day Comfort | Trimmable Sole for Walking, Running, Sports, Formal and Safety Shoes (Male",
+   "rank": 1
+  },
+  {
+   "idx": 8,
+   "asin": "B09RV5MGQ2",
+   "sponsored": false,
+   "badge": "Bestseller",
+   "price": "629",
+   "rating": "3.8",
+   "reviews": "9,638",
+   "title": "Frido Dual Gel Heavy Duty Trimmable Insoles | For Loose Shoes or Replacing Existing Insoles | Thick Shoe Inserts | Extra Comfort and Support | Proudly",
+   "rank": 2
+  },
+  {
+   "idx": 13,
+   "asin": "B0F4DPDR6B",
+   "sponsored": false,
+   "badge": null,
+   "price": "209",
+   "rating": "3.9",
+   "reviews": "95",
+   "title": "ATIRAMANIYA Orthopedic Insoles for Plantar Fasciitis Medium Arch Support Shoe Inserts for Flat Feet, Heel Spurs & Foot Pain Relief – Shock Absorbing C",
+   "rank": 3
+  },
+  {
+   "idx": 14,
+   "asin": "B0D37LQZBY",
+   "sponsored": false,
+   "badge": null,
+   "price": "224",
+   "rating": "4.2",
+   "reviews": "2,125",
+   "title": "RENESMEE Memory Foam Shoe Insoles, Elastic Shock Absorbing Height Increasing Sports Shoe Insoles For Men And Women Cuttable Soft Breathable Honeycomb ",
+   "rank": 4
+  },
+  {
+   "idx": 15,
+   "asin": "B0DSFNVVCJ",
+   "sponsored": false,
+   "badge": null,
+   "price": "588",
+   "rating": "4.0",
+   "reviews": "239",
+   "title": "betterhood PosturePro Arch Support Insoles | Large, 8-11 UK | Gel Insoles for Shoes, Flat Feet Arch Support Ergonomic Orthopedic Shoe Inserts, Thin an",
+   "rank": 5
+  },
+  {
+   "idx": 16,
+   "asin": "B0CN5HXHHZ",
+   "sponsored": false,
+   "badge": null,
+   "price": "263",
+   "rating": "3.8",
+   "reviews": "1,625",
+   "title": "RENESMEE Orthotic Arch Support Shoe Insoles, Children Pu Cushioning Inserts, Shock Absorption Velvet Surfaces Deep Heel Cup Inner Sole for Flat Feet, ",
+   "rank": 6
+  },
+  {
+   "idx": 17,
+   "asin": "B0DJKR4763",
+   "sponsored": false,
+   "badge": "Bestseller",
+   "price": "759",
+   "rating": "3.8",
+   "reviews": "9,638",
+   "title": "Frido Dual Gel Pro Shoe Insoles -Trimmable Shoe Sole for Men & Women for Stability, Shock Absorption & Comfort | Anti-Sweat Sports Insole, Foot Suppor",
+   "rank": 7
+  },
+  {
+   "idx": 18,
+   "asin": "B0CVH63GQ4",
+   "sponsored": false,
+   "badge": null,
+   "price": "299",
+   "rating": "4.0",
+   "reviews": "1,578",
+   "title": "Soft Glide Performance Insoles | Plush Cushioning | Anti-Slip | Soft & Breathable | Personalized Comfort for Any Shoe | Unisex | 1 Pair",
+   "rank": 8
+  },
+  {
+   "idx": 24,
+   "asin": "B0BD7YHZWT",
+   "sponsored": false,
+   "badge": null,
+   "price": "178",
+   "rating": "4.0",
+   "reviews": "2,644",
+   "title": "Footvital Memory Foam Shoe Insoles for Men and Women | Soft Cushioned Inserts for Long Standing and Walking | Supports Heel and Arch | Shock Absorbing",
+   "rank": 9
+  },
+  {
+   "idx": 25,
+   "asin": "B0FDVHLQQ6",
+   "sponsored": false,
+   "badge": null,
+   "price": "399",
+   "rating": "5.0",
+   "reviews": "6",
+   "title": "CRENTILA Orthopedic Arch Support Insoles for Men & Women – Gel Memory Foam Shoe Inserts for Flat Feet, Plantar Fasciitis & Heel Pain Relief – Shock Ab",
+   "rank": 10
+  }
+ ],
+ "sponsored": [
+  {
+   "idx": 3,
+   "asin": "B0DSFPK9LM",
+   "sponsored": true,
+   "badge": null,
+   "price": "588",
+   "rating": "4.0",
+   "reviews": "239",
+   "title": "betterhood PosturePro Arch Support Insoles | Small, 5-8 UK | Gel Insoles for Shoes, Flat Feet Arch Support Ergonomic Orthopedic Shoe Inserts, Thin and",
+   "slot": 1
+  },
+  {
+   "idx": 4,
+   "asin": "B0FRS559XT",
+   "sponsored": true,
+   "badge": null,
+   "price": "1,999",
+   "rating": "4.1",
+   "reviews": "36",
+   "title": "5D Comfort insoles for Men & Women, Insole with 5-Layer Cushion with Poron, Gel & TPU, Arch Support Insole for Flat Feet and Feet Pain | Plantar Fasci",
+   "slot": 2
+  },
+  {
+   "idx": 5,
+   "asin": "B0FBLXVGPQ",
+   "sponsored": true,
+   "badge": null,
+   "price": "448",
+   "rating": "4.0",
+   "reviews": "2",
+   "title": "BEAR GRIPS Orthotic Shoe Insoles for Diabetics & Elderly – Gel Cushioning, Pain Relief & Fall Prevention – Senior+ Insoles | Men & Women | UK Size 9 t",
+   "slot": 3
+  },
+  {
+   "idx": 6,
+   "asin": "B0C96XN5D8",
+   "sponsored": true,
+   "badge": null,
+   "price": "945",
+   "rating": "4.1",
+   "reviews": "950",
+   "title": "Frido Semi Rigid Arch Support Insole for Flat Feet | Relieves Feet Pain | Plantar Fasciitis & Heel Spurs | Orthotic Inserts for Stability | Comfortabl",
+   "slot": 4
+  },
+  {
+   "idx": 9,
+   "asin": "B0CVS3V7MH",
+   "sponsored": true,
+   "badge": "Amazon's Choice",
+   "price": "249",
+   "rating": "4.1",
+   "reviews": "1,692",
+   "title": "SILENCIO Memory Foam Shoe Insole, Shock Absorption Sports Inserts Anti-Slip Cropable Insoles Arch Support Orthotic Insoles Soft Elastic Insoles for Me",
+   "slot": 5
+  },
+  {
+   "idx": 19,
+   "asin": "B0H2FBMYCC",
+   "sponsored": true,
+   "badge": null,
+   "price": "199",
+   "rating": "4.8",
+   "reviews": "13",
+   "title": "DOSJNI Flat Foot Arch Support Insole for Men & Women | Medial Arch Support Sleeve with Gel Cushion | Plantar Fasciitis & Fallen Arch Pain Relief | Ort",
+   "slot": 6
+  },
+  {
+   "idx": 30,
+   "asin": "B0GLYMD7Y5",
+   "sponsored": true,
+   "badge": null,
+   "price": "472",
+   "rating": "4.0",
+   "reviews": "24",
+   "title": "UltraCare PRO ERGO PROformance Gel Insoles for Shoes | Shock Absorbing Gel Cushioning for All-Day Comfort | Anti-Slip, Anti-Sweat | Ideal for Walking,",
+   "slot": 7
+  },
+  {
+   "idx": 31,
+   "asin": "B0DJKR4763",
+   "sponsored": true,
+   "badge": "Bestseller",
+   "price": "759",
+   "rating": "3.8",
+   "reviews": "9,638",
+   "title": "Frido Dual Gel Pro Shoe Insoles -Trimmable Shoe Sole for Men & Women for Stability, Shock Absorption & Comfort | Anti-Sweat Sports Insole, Foot Suppor",
+   "slot": 8
+  },
+  {
+   "idx": 32,
+   "asin": "B0BKZMYX87",
+   "sponsored": true,
+   "badge": null,
+   "price": "185",
+   "rating": "4.0",
+   "reviews": "967",
+   "title": "Home Genie Memory Foam Shoes Insole | shoe Insoles for All Shoes | Shoe Insole for heel pain | Super Soft Absorption Pads Comfortable, Soft, Durable, ",
+   "slot": 9
+  },
+  {
+   "idx": 33,
+   "asin": "B0GVW4RLXZ",
+   "sponsored": true,
+   "badge": null,
+   "price": "449",
+   "rating": "3.7",
+   "reviews": "52",
+   "title": "ARKITTO Arch Support Insoles Size Medium (UK 6,7,8) for Men & Women | Flat Foot Relief, All-Day Comfort & Footbed Support | Lightweight, Soft, Odourle",
+   "slot": 10
+  }
+ ],
+ "combinedPageOrder": [
+  {
+   "pos": 1,
+   "type": "sponsored",
+   "asin": "B0DSFPK9LM",
+   "title": "betterhood PosturePro Arch Support Insoles | Small, 5-8 UK | Gel Insol",
+   "isFrido": false
+  },
+  {
+   "pos": 2,
+   "type": "sponsored",
+   "asin": "B0FRS559XT",
+   "title": "5D Comfort insoles for Men & Women, Insole with 5-Layer Cushion with P",
+   "isFrido": false
+  },
+  {
+   "pos": 3,
+   "type": "sponsored",
+   "asin": "B0FBLXVGPQ",
+   "title": "BEAR GRIPS Orthotic Shoe Insoles for Diabetics & Elderly – Gel Cushion",
+   "isFrido": false
+  },
+  {
+   "pos": 4,
+   "type": "sponsored",
+   "asin": "B0C96XN5D8",
+   "title": "Frido Semi Rigid Arch Support Insole for Flat Feet | Relieves Feet Pai",
+   "isFrido": true
+  },
+  {
+   "pos": 5,
+   "type": "organic",
+   "asin": "B0GQSRQRF8",
+   "title": "FOVERA Gel Insole for Shoes Men | Dual Gel Technology for All Day Comf",
+   "isFrido": false
+  },
+  {
+   "pos": 6,
+   "type": "organic",
+   "asin": "B09RV5MGQ2",
+   "title": "Frido Dual Gel Heavy Duty Trimmable Insoles | For Loose Shoes or Repla",
+   "isFrido": true
+  },
+  {
+   "pos": 7,
+   "type": "sponsored",
+   "asin": "B0CVS3V7MH",
+   "title": "SILENCIO Memory Foam Shoe Insole, Shock Absorption Sports Inserts Anti",
+   "isFrido": false
+  },
+  {
+   "pos": 8,
+   "type": "organic",
+   "asin": "B0F4DPDR6B",
+   "title": "ATIRAMANIYA Orthopedic Insoles for Plantar Fasciitis Medium Arch Suppo",
+   "isFrido": false
+  },
+  {
+   "pos": 9,
+   "type": "organic",
+   "asin": "B0D37LQZBY",
+   "title": "RENESMEE Memory Foam Shoe Insoles, Elastic Shock Absorbing Height Incr",
+   "isFrido": false
+  },
+  {
+   "pos": 10,
+   "type": "organic",
+   "asin": "B0DSFNVVCJ",
+   "title": "betterhood PosturePro Arch Support Insoles | Large, 8-11 UK | Gel Inso",
+   "isFrido": false
+  },
+  {
+   "pos": 11,
+   "type": "organic",
+   "asin": "B0CN5HXHHZ",
+   "title": "RENESMEE Orthotic Arch Support Shoe Insoles, Children Pu Cushioning In",
+   "isFrido": false
+  },
+  {
+   "pos": 12,
+   "type": "organic",
+   "asin": "B0DJKR4763",
+   "title": "Frido Dual Gel Pro Shoe Insoles -Trimmable Shoe Sole for Men & Women f",
+   "isFrido": true
+  },
+  {
+   "pos": 13,
+   "type": "organic",
+   "asin": "B0CVH63GQ4",
+   "title": "Soft Glide Performance Insoles | Plush Cushioning | Anti-Slip | Soft &",
+   "isFrido": false
+  },
+  {
+   "pos": 14,
+   "type": "sponsored",
+   "asin": "B0H2FBMYCC",
+   "title": "DOSJNI Flat Foot Arch Support Insole for Men & Women | Medial Arch Sup",
+   "isFrido": false
+  }
+ ],
+ "notes": []
+}

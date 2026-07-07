@@ -1,0 +1,335 @@
+{
+ "category": "lumbar-back-support",
+ "marketplace": "amazon-in",
+ "keyword": "lumbar support for office chair",
+ "capturedAt": "2026-07-07",
+ "method": "Live scrape amazon.in search page 1",
+ "confidence": "High (live snapshot, single keyword)",
+ "fridoOrganicRank": null,
+ "fridoSponsoredSlot": 6,
+ "organic": [
+  {
+   "idx": 8,
+   "asin": "B0G1M89DX9",
+   "sponsored": false,
+   "badge": "Amazon's Choice",
+   "price": "614",
+   "rating": "4.1",
+   "reviews": "1,740",
+   "title": "Voltonix Memory Foam Car Seat Back Support, Orthopedic Lumbar Back Rest for Back Pain Relief, Back Support Pillow for Office ChairCar Support Pillow,-",
+   "rank": 1
+  },
+  {
+   "idx": 9,
+   "asin": "B0GMGDMZBH",
+   "sponsored": false,
+   "badge": null,
+   "price": "262",
+   "rating": "4.1",
+   "reviews": "50",
+   "title": "Nylon Ventilation Back Rest with Lumbar Support Mesh Cushion Pad,Universal Back Lumbar Support for Chairs,Office Chair,Home,Car Seat Lumber Back Suppo",
+   "rank": 2
+  },
+  {
+   "idx": 14,
+   "asin": "B09CQCL7RS",
+   "sponsored": false,
+   "badge": null,
+   "price": "175",
+   "rating": "3.7",
+   "reviews": "1,937",
+   "title": "Sulfar Mesh Back Support with Lumbar Cushion for Chair| Ergonomic Ventilated Nylon Backrest for Office Chair, Car Seat & Home Use| Posture Support, Br",
+   "rank": 3
+  },
+  {
+   "idx": 15,
+   "asin": "B0DSBN9FLL",
+   "sponsored": false,
+   "badge": null,
+   "price": "474",
+   "rating": "4.2",
+   "reviews": "484",
+   "title": "Eder Care Back Support for Chair, Car Seat Back Support, Orthopedic Lumbar Support Back Rest for Back Pain Relief - Back Pillow for Sitting",
+   "rank": 4
+  },
+  {
+   "idx": 16,
+   "asin": "B0G7Y4X9WD",
+   "sponsored": false,
+   "badge": null,
+   "price": "699",
+   "rating": "4.0",
+   "reviews": "71",
+   "title": "Lifelong Back Support Cushion for Office Chair & Car | Ergonomic Memory Foam Design for Better Posture, Reduced Fatigue, and Comfortable Sitting Durin",
+   "rank": 5
+  },
+  {
+   "idx": 17,
+   "asin": "B07DYV1NL4",
+   "sponsored": false,
+   "badge": null,
+   "price": "1,225",
+   "rating": "4.2",
+   "reviews": "4,370",
+   "title": "FOVERA Lumbar Support for Office Chair, Orthopedic Back Support Memory Foam Backrest Cushion - Designed for Back Pain Relief - Ideal Back Pillow for C",
+   "rank": 6
+  },
+  {
+   "idx": 18,
+   "asin": "B09QCY1MYS",
+   "sponsored": false,
+   "badge": null,
+   "price": "848",
+   "rating": "4.1",
+   "reviews": "3,574",
+   "title": "Wakefit Back Support Cushion for Chair | 1 Year Warranty | Back Support for Office Chair, Car Seat Back Support, Velvet Finish (45 x 41 x 12cms - Blac",
+   "rank": 7
+  },
+  {
+   "idx": 19,
+   "asin": "B0FL21C8JJ",
+   "sponsored": false,
+   "badge": null,
+   "price": "999",
+   "rating": "4.0",
+   "reviews": "168",
+   "title": "ComfyHug Lumbar Support Pillow for Office Chair & Car Seat – Orthopedic Memory Foam Back Cushion for Posture & Back Pain Relief | Ergonomic Backrest f",
+   "rank": 8
+  },
+  {
+   "idx": 25,
+   "asin": "B0FCD8VMV9",
+   "sponsored": false,
+   "badge": null,
+   "price": "825",
+   "rating": "4.1",
+   "reviews": "233",
+   "title": "WELLGIVER Memory Foam Lumbar Support Pillow for Office Chair & Car Seat – Ergonomic Back Cushion for Lower Back Pain Relief, Posture Support & Comfort",
+   "rank": 9
+  },
+  {
+   "idx": 26,
+   "asin": "B0FXS2MRFG",
+   "sponsored": false,
+   "badge": null,
+   "price": "464",
+   "rating": "3.8",
+   "reviews": "26",
+   "title": "Orthopedic Lumbar Support Pillow for Office Chair, Car & Home | Memory Foam Back Cushion for Lower Back Pain Relief & Posture Correction – Ergonomic D",
+   "rank": 10
+  }
+ ],
+ "sponsored": [
+  {
+   "idx": 4,
+   "asin": "B0CH33D6GN",
+   "sponsored": true,
+   "badge": "Bestseller",
+   "price": "1,290",
+   "rating": "4.1",
+   "reviews": "1,684",
+   "title": "FOVERA Back Support for Office Chair | 2 Years Warranty | Gel Memory Foam Car Seat Back Support, Orthopedic Lumbar Back Rest for Back Pain Relief - Ba",
+   "slot": 1
+  },
+  {
+   "idx": 5,
+   "asin": "B0GQ9NY7FP",
+   "sponsored": true,
+   "badge": null,
+   "price": "1,471",
+   "rating": "4.4",
+   "reviews": "38",
+   "title": "Back Support for Office Chair | 5-Year Warranty | Premium Memory Foam Lumbar Support Pillow | Orthopedic Backrest for Lower Back Pain Relief | Ergonom",
+   "slot": 2
+  },
+  {
+   "idx": 6,
+   "asin": "B0FJ5VSL26",
+   "sponsored": true,
+   "badge": null,
+   "price": "749",
+   "rating": "4.5",
+   "reviews": "11",
+   "title": "Lumbar Support Pillow for Office Chair & Car Seat – Memory Foam Back Support Cushion for Lower Back Pain Relief, Orthopedic Backrest for Posture Corre",
+   "slot": 3
+  },
+  {
+   "idx": 7,
+   "asin": "B0DHQYYXTT",
+   "sponsored": true,
+   "badge": null,
+   "price": "1,294",
+   "rating": "4.2",
+   "reviews": "182",
+   "title": "betterhood PosturePro Premium Back Support Cushion for Office Chair and Car Seat | High Density 100% Memory Foam, Cotton Cover | Large Size | Orthoped",
+   "slot": 4
+  },
+  {
+   "idx": 20,
+   "asin": "B0CZ9NPSWM",
+   "sponsored": true,
+   "badge": null,
+   "price": "993",
+   "rating": "4.0",
+   "reviews": "1,352",
+   "title": "Sleepsia Back Support for Office Chair, 1 Year Warranty, Lumbar Support for Office Chair Cushion with Contoured Memory Foam, Adjustable Strap Design, ",
+   "slot": 5
+  },
+  {
+   "idx": 32,
+   "asin": "B0CJ8VYBQP",
+   "sponsored": true,
+   "badge": null,
+   "price": "2,559",
+   "rating": "4.0",
+   "reviews": "3,072",
+   "title": "Frido Ultimate Pro Seat Cushion & Posture Corrector Backrest Cushion Combo | Relieves Back | Coccyx Pain | Hi-Per Foam Tech for Orthopedic Support | f",
+   "slot": 6
+  },
+  {
+   "idx": 33,
+   "asin": "B0F3NMWX4J",
+   "sponsored": true,
+   "badge": null,
+   "price": "1,402",
+   "rating": "5.0",
+   "reviews": "2",
+   "title": "Pro Back Support Cushion for Office Chair – Memory Foam Orthopedic Lumbar Support Backrest for Back Pain Relief, Posture Corrector Cushion with Soft B",
+   "slot": 7
+  },
+  {
+   "idx": 34,
+   "asin": "B0BSDMRVD2",
+   "sponsored": true,
+   "badge": null,
+   "price": "1,081",
+   "rating": "4.2",
+   "reviews": "115",
+   "title": "Back Support for Office Chair | 5-Year Warranty | Premium High Density Foam Lumbar Pillow | Orthopedic Backrest for Lower Back & Sciatica Pain Relief ",
+   "slot": 8
+  },
+  {
+   "idx": 67,
+   "asin": "B0H4D54ZRG",
+   "sponsored": true,
+   "badge": null,
+   "price": "1,999",
+   "rating": null,
+   "reviews": null,
+   "title": "Backrest Memory Foam Lumbar Support Pillow, Ergonomic Back Cushion for Office Chair and Car Seat, Posture Corrector with Adjustable Strap, Breathable ",
+   "slot": 9
+  },
+  {
+   "idx": 68,
+   "asin": "B0DQTT29J5",
+   "sponsored": true,
+   "badge": null,
+   "price": "1,398",
+   "rating": "5.0",
+   "reviews": "4",
+   "title": "Back Support Cushion for Office Chair - Memory Foam Orthopedic Lumbar Support Backrest for Back Pain Relief, Posture Corrector Cushion with Soft Breat",
+   "slot": 10
+  }
+ ],
+ "combinedPageOrder": [
+  {
+   "pos": 1,
+   "type": "sponsored",
+   "asin": "B0CH33D6GN",
+   "title": "FOVERA Back Support for Office Chair | 2 Years Warranty | Gel Memory F",
+   "isFrido": false
+  },
+  {
+   "pos": 2,
+   "type": "sponsored",
+   "asin": "B0GQ9NY7FP",
+   "title": "Back Support for Office Chair | 5-Year Warranty | Premium Memory Foam ",
+   "isFrido": false
+  },
+  {
+   "pos": 3,
+   "type": "sponsored",
+   "asin": "B0FJ5VSL26",
+   "title": "Lumbar Support Pillow for Office Chair & Car Seat – Memory Foam Back S",
+   "isFrido": false
+  },
+  {
+   "pos": 4,
+   "type": "sponsored",
+   "asin": "B0DHQYYXTT",
+   "title": "betterhood PosturePro Premium Back Support Cushion for Office Chair an",
+   "isFrido": false
+  },
+  {
+   "pos": 5,
+   "type": "organic",
+   "asin": "B0G1M89DX9",
+   "title": "Voltonix Memory Foam Car Seat Back Support, Orthopedic Lumbar Back Res",
+   "isFrido": false
+  },
+  {
+   "pos": 6,
+   "type": "organic",
+   "asin": "B0GMGDMZBH",
+   "title": "Nylon Ventilation Back Rest with Lumbar Support Mesh Cushion Pad,Unive",
+   "isFrido": false
+  },
+  {
+   "pos": 7,
+   "type": "organic",
+   "asin": "B09CQCL7RS",
+   "title": "Sulfar Mesh Back Support with Lumbar Cushion for Chair| Ergonomic Vent",
+   "isFrido": false
+  },
+  {
+   "pos": 8,
+   "type": "organic",
+   "asin": "B0DSBN9FLL",
+   "title": "Eder Care Back Support for Chair, Car Seat Back Support, Orthopedic Lu",
+   "isFrido": false
+  },
+  {
+   "pos": 9,
+   "type": "organic",
+   "asin": "B0G7Y4X9WD",
+   "title": "Lifelong Back Support Cushion for Office Chair & Car | Ergonomic Memor",
+   "isFrido": false
+  },
+  {
+   "pos": 10,
+   "type": "organic",
+   "asin": "B07DYV1NL4",
+   "title": "FOVERA Lumbar Support for Office Chair, Orthopedic Back Support Memory",
+   "isFrido": false
+  },
+  {
+   "pos": 11,
+   "type": "organic",
+   "asin": "B09QCY1MYS",
+   "title": "Wakefit Back Support Cushion for Chair | 1 Year Warranty | Back Suppor",
+   "isFrido": false
+  },
+  {
+   "pos": 12,
+   "type": "organic",
+   "asin": "B0FL21C8JJ",
+   "title": "ComfyHug Lumbar Support Pillow for Office Chair & Car Seat – Orthopedi",
+   "isFrido": false
+  },
+  {
+   "pos": 13,
+   "type": "sponsored",
+   "asin": "B0CZ9NPSWM",
+   "title": "Sleepsia Back Support for Office Chair, 1 Year Warranty, Lumbar Suppor",
+   "isFrido": false
+  },
+  {
+   "pos": 14,
+   "type": "organic",
+   "asin": "B0FCD8VMV9",
+   "title": "WELLGIVER Memory Foam Lumbar Support Pillow for Office Chair & Car Sea",
+   "isFrido": false
+  }
+ ],
+ "notes": []
+}

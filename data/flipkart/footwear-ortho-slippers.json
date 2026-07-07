@@ -1,0 +1,139 @@
+{
+ "category": "footwear-ortho-slippers",
+ "marketplace": "flipkart",
+ "keyword": "orthopedic slippers",
+ "capturedAt": "2026-07-07",
+ "method": "Live scrape flipkart.com mobile search page 1 (__INITIAL_STATE__)",
+ "confidence": "Medium-High (live; sponsored flags not exposed on mobile)",
+ "fridoRank": 3,
+ "fridoPresent": true,
+ "results": [
+  {
+   "pos": 1,
+   "title": "TOE CANDY Men Clogs",
+   "price": null,
+   "rating": 4,
+   "ratings": 10319,
+   "reviews": null,
+   "isFrido": false
+  },
+  {
+   "pos": 2,
+   "title": "TOE CANDY Men Sandals",
+   "price": null,
+   "rating": 3.9,
+   "ratings": 7663,
+   "reviews": null,
+   "isFrido": false
+  },
+  {
+   "pos": 3,
+   "title": "Frido Unisex Cloud Comfort Arch Support Orthopedic Soft Home Chappal with Anti-Skid Sole Slippers",
+   "price": null,
+   "rating": 4.2,
+   "ratings": 576,
+   "reviews": 44,
+   "isFrido": true
+  },
+  {
+   "pos": 4,
+   "title": "Doctor Health Super Soft Men Orthopedic Doctor Slippers for Men Soft Cushion, Anti Skid, Lightweight Comfort Slides",
+   "price": null,
+   "rating": 4,
+   "ratings": 208,
+   "reviews": 10,
+   "isFrido": false
+  },
+  {
+   "pos": 5,
+   "title": "ORTHORAISE Men Extra Soft Orthopaedic Slippers|Arch Support & Pain Relief Flip Flops",
+   "price": null,
+   "rating": 3.8,
+   "ratings": 54,
+   "reviews": 3,
+   "isFrido": false
+  },
+  {
+   "pos": 6,
+   "title": "DOCTOR ORTHO PLUS COMFY Women Extra Soft Slippers For Womens Orthopedic Diabetic Light Weight Flip Flops",
+   "price": null,
+   "rating": 4.2,
+   "ratings": 23715,
+   "reviews": 888,
+   "isFrido": false
+  },
+  {
+   "pos": 7,
+   "title": "DrArzt Men Super Soft|Ortho Care|Orthopedic|Stylish|Comfortable Men Slippers Slippers",
+   "price": null,
+   "rating": 0,
+   "ratings": null,
+   "reviews": 0,
+   "isFrido": false
+  },
+  {
+   "pos": 8,
+   "title": "ALVOXX Men Flip Flops",
+   "price": null,
+   "rating": 0,
+   "ratings": null,
+   "reviews": 0,
+   "isFrido": false
+  },
+  {
+   "pos": 9,
+   "title": "DR STTEP Men Slippers",
+   "price": null,
+   "rating": 0,
+   "ratings": null,
+   "reviews": 0,
+   "isFrido": false
+  },
+  {
+   "pos": 10,
+   "title": "PAHNAVA Women Flip Flops",
+   "price": null,
+   "rating": 0,
+   "ratings": null,
+   "reviews": 0,
+   "isFrido": false
+  },
+  {
+   "pos": 11,
+   "title": "DOCTOR FEEL SOFT Men Flip Flops",
+   "price": null,
+   "rating": 0,
+   "ratings": null,
+   "reviews": 0,
+   "isFrido": false
+  },
+  {
+   "pos": 12,
+   "title": "Frido Unisex Cloud Comfort Orthopedic Soft Home Chappal with Anti-Skid Sole Slippers",
+   "price": null,
+   "rating": 4.3,
+   "ratings": 334,
+   "reviews": 20,
+   "isFrido": true
+  },
+  {
+   "pos": 13,
+   "title": "Vortek Men Flip Flops",
+   "price": null,
+   "rating": 0,
+   "ratings": null,
+   "reviews": null,
+   "isFrido": false
+  },
+  {
+   "pos": 14,
+   "title": "Vortek Men Slippers",
+   "price": null,
+   "rating": 0,
+   "ratings": null,
+   "reviews": null,
+   "isFrido": false
+  }
+ ],
+ "notes": []
+}

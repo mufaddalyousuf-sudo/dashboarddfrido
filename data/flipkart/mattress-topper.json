@@ -1,0 +1,94 @@
+{
+ "category": "mattress-topper",
+ "marketplace": "flipkart",
+ "keyword": "mattress topper",
+ "capturedAt": "2026-07-07",
+ "method": "Live scrape flipkart.com mobile search page 1 (__INITIAL_STATE__)",
+ "confidence": "Medium-High (live; sponsored flags not exposed on mobile)",
+ "fridoRank": null,
+ "fridoPresent": false,
+ "results": [
+  {
+   "pos": 1,
+   "title": "Relaxfeel 3 inch (7.62 cm) King Size Poly Fiber Waterproof Mattress Topper",
+   "price": null,
+   "rating": 3.9,
+   "ratings": 1205,
+   "reviews": 137,
+   "isFrido": false
+  },
+  {
+   "pos": 2,
+   "title": "AVI 2 inch (5.08 cm) Queen Size Poly Fiber Breathable Mattress Topper",
+   "price": null,
+   "rating": 3.9,
+   "ratings": 2816,
+   "reviews": 306,
+   "isFrido": false
+  },
+  {
+   "pos": 3,
+   "title": "Jaipurlinen 2 inch (5.08 cm) King Size Poly Fiber Breathable, Stretchable Mattress Topper",
+   "price": null,
+   "rating": 4,
+   "ratings": 239,
+   "reviews": 22,
+   "isFrido": false
+  },
+  {
+   "pos": 4,
+   "title": "RRC King Size Microfibre Breathable, Stretchable, Waterproof Mattress Topper",
+   "price": null,
+   "rating": 4.2,
+   "ratings": 1959,
+   "reviews": 188,
+   "isFrido": false
+  },
+  {
+   "pos": 5,
+   "title": "WELLGIVER 2 inch (5.08 cm) Queen Size Memory Foam Breathable Mattress Topper",
+   "price": null,
+   "rating": 0,
+   "ratings": null,
+   "reviews": 0,
+   "isFrido": false
+  },
+  {
+   "pos": 6,
+   "title": "Aeronix 2 inch (5.08 cm) Double Size Latex Breathable Mattress Topper",
+   "price": null,
+   "rating": 3.2,
+   "ratings": 36,
+   "reviews": 4,
+   "isFrido": false
+  },
+  {
+   "pos": 7,
+   "title": "Comfort Shield Double Size Breathable, Stretchable, Waterproof Mattress Topper",
+   "price": null,
+   "rating": 0,
+   "ratings": null,
+   "reviews": 0,
+   "isFrido": false
+  },
+  {
+   "pos": 8,
+   "title": "Jaipurlinen 2 inch (5.08 cm) King Size Poly Fiber Breathable Mattress Topper",
+   "price": null,
+   "rating": 0,
+   "ratings": null,
+   "reviews": 0,
+   "isFrido": false
+  },
+  {
+   "pos": 9,
+   "title": "SleepyCat 1 inch (2.54 cm) Single Size Foam Breathable Mattress Topper",
+   "price": null,
+   "rating": 3.2,
+   "ratings": 21,
+   "reviews": 3,
+   "isFrido": false
+  }
+ ],
+ "notes": []
+}

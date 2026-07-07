@@ -1,0 +1,130 @@
+{
+ "category": "sleep-pillow",
+ "marketplace": "flipkart",
+ "keyword": "memory foam pillow",
+ "capturedAt": "2026-07-07",
+ "method": "Live scrape flipkart.com mobile search page 1 (__INITIAL_STATE__)",
+ "confidence": "Medium-High (live; sponsored flags not exposed on mobile)",
+ "fridoRank": 9,
+ "fridoPresent": true,
+ "results": [
+  {
+   "pos": 1,
+   "title": "Roma Puf Microfibre Sleeping Pillow Pack of 2 Solid",
+   "price": null,
+   "rating": 4.3,
+   "ratings": 3,
+   "reviews": null,
+   "isFrido": false
+  },
+  {
+   "pos": 2,
+   "title": "Roma Puf Microfibre Sleeping Pillow Pack of 2 Solid Stardust Virgin Microfiber Pillow",
+   "price": null,
+   "rating": 4.5,
+   "ratings": 24,
+   "reviews": null,
+   "isFrido": false
+  },
+  {
+   "pos": 3,
+   "title": "Roma Puf Microfibre Sleeping Pillow Pack of 1 Solid Stardust Virgin Microfiber Pillow",
+   "price": null,
+   "rating": 3.9,
+   "ratings": 8,
+   "reviews": null,
+   "isFrido": false
+  },
+  {
+   "pos": 4,
+   "title": "Roma Puf Memory Foam Sleeping Pillow Pack of 1 Solid",
+   "price": null,
+   "rating": 4,
+   "ratings": 8,
+   "reviews": null,
+   "isFrido": false
+  },
+  {
+   "pos": 5,
+   "title": "HOMESO Memory Foam Orthopaedic Pillow Pack of 1 Solid Wedge Plus Pillow for Sleeping Back & Neck Pain Relief Leg Elevator",
+   "price": null,
+   "rating": 4.3,
+   "ratings": 866,
+   "reviews": 77,
+   "isFrido": false
+  },
+  {
+   "pos": 6,
+   "title": "Cervixa Memory Foam Orthopaedic Pillow Pack of 1 Geometric Orthopedic Cervical Memory Foam Pillow",
+   "price": null,
+   "rating": 4.2,
+   "ratings": 76,
+   "reviews": 17,
+   "isFrido": false
+  },
+  {
+   "pos": 7,
+   "title": "Woomzy Cotton Orthopaedic Pillow Pack of 1 Solid Cervical Contour Memory Foam Pillow, Stomached, Anti-Snoring, Side Sleepers",
+   "price": null,
+   "rating": 4.1,
+   "ratings": 554,
+   "reviews": 141,
+   "isFrido": false
+  },
+  {
+   "pos": 8,
+   "title": "LA VERNE Memory Foam Sleeping Pillow Pack of 2 Geometric Luxury",
+   "price": null,
+   "rating": 4.2,
+   "ratings": 53929,
+   "reviews": 3756,
+   "isFrido": false
+  },
+  {
+   "pos": 9,
+   "title": "Frido Memory Foam Body Pillow Pack of 1 Solid Adjustable Wedge Max Cushion, 12-Way Adjustable Pregnancy & Leg Elevation Pillow",
+   "price": null,
+   "rating": 0,
+   "ratings": null,
+   "reviews": 0,
+   "isFrido": true
+  },
+  {
+   "pos": 10,
+   "title": "FLO Memory Foam Sleeping Pillow Pack of 1 Solid",
+   "price": null,
+   "rating": 4,
+   "ratings": 45,
+   "reviews": 8,
+   "isFrido": false
+  },
+  {
+   "pos": 11,
+   "title": "velvure Memory Foam Orthopaedic Pillow Pack of 1 Geometric Cervical Contour Memory Foam Pillow, Stomached, Anti-Snoring, Side Slee",
+   "price": null,
+   "rating": 0,
+   "ratings": null,
+   "reviews": 0,
+   "isFrido": false
+  },
+  {
+   "pos": 12,
+   "title": "Sleepsia Memory Foam Sleeping Pillow Pack of 2 Geometric Contour Cervical Orthopedic for Neck and Shoulder Pain-",
+   "price": null,
+   "rating": 4,
+   "ratings": 1358,
+   "reviews": 240,
+   "isFrido": false
+  },
+  {
+   "pos": 13,
+   "title": "HKZ-YG Memory Foam Orthopaedic Pillow Pack of 1 Geometric Cervical Contour Memory Foam Pillow, Stomached, Anti-Snoring, Side Sleep",
+   "price": null,
+   "rating": 4,
+   "ratings": 6130,
+   "reviews": 904,
+   "isFrido": false
+  }
+ ],
+ "notes": []
+}

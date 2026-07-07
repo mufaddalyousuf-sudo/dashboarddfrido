@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Frido Marketplace Intelligence</title>
+<link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>📊</text></svg>">
+<link rel="stylesheet" href="assets/style.css">
+</head>
+<body>
+<header class="topbar">
+  <div class="brand">
+    <span class="logo">F</span>
+    <div>
+      <h1>Frido Marketplace Intelligence</h1>
+      <p class="sub">Amazon India &amp; Flipkart · snapshot <span id="asof">—</span> · organic, sponsored &amp; combined views</p>
+    </div>
+  </div>
+  <div class="controls">
+    <select id="catSelect" aria-label="Category"></select>
+    <button id="themeBtn" aria-label="Toggle theme">◐</button>
+  </div>
+</header>
+
+<main>
+  <section id="kpis" class="kpi-row" aria-label="Executive summary"></section>
+
+  <section class="panel">
+    <div class="panel-head"><h2>Category Overview</h2><span class="hint">Rank = organic position on page 1 for the tracked keyword · “—” = not present in top 10</span></div>
+    <div class="scroll"><table id="overviewTable" class="tbl"></table></div>
+  </section>
+
+  <section id="detail"></section>
+
+  <section class="panel" id="actions"></section>
+
+  <section class="panel" id="method"></section>
+</main>
+
+<footer class="foot">Data: live page-1 scrapes of amazon.in &amp; flipkart.com (mobile) · Prices in ₹ INR · Built as a static snapshot — refresh by re-running the capture scripts and redeploying.</footer>
+
+<div id="tip" class="tooltip" hidden></div>
+<script src="assets/app.js"></script>
+</body>
+</html>

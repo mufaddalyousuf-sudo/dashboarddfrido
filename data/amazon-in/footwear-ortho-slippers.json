@@ -1,0 +1,335 @@
+{
+ "category": "footwear-ortho-slippers",
+ "marketplace": "amazon-in",
+ "keyword": "orthopedic slippers",
+ "capturedAt": "2026-07-07",
+ "method": "Live scrape amazon.in search page 1",
+ "confidence": "High (live snapshot, single keyword)",
+ "fridoOrganicRank": null,
+ "fridoSponsoredSlot": null,
+ "organic": [
+  {
+   "idx": 8,
+   "asin": "B0FW5HWDDQ",
+   "sponsored": false,
+   "badge": "Bestseller",
+   "price": "299",
+   "rating": "4.5",
+   "reviews": "693",
+   "title": "DAZIBAO® Spring Acupressure and Magnetic Therapy Accu Paduka Slippers Foot Massager for Full Body Blood Circulation Slippers Foot Massager For Men and",
+   "rank": 1
+  },
+  {
+   "idx": 9,
+   "asin": "B0CKF5WWQX",
+   "sponsored": false,
+   "badge": "Amazon's Choice",
+   "price": "399",
+   "rating": "4.2",
+   "reviews": "7,994",
+   "title": "Orthopedic Slippers | Acupressure Slippers | Flip-Flops | For Men & Women's Slippers",
+   "rank": 2
+  },
+  {
+   "idx": 17,
+   "asin": "B0BFTJNKPT",
+   "sponsored": false,
+   "badge": null,
+   "price": "497",
+   "rating": "4.2",
+   "reviews": "2,419",
+   "title": "Ultra Cushion Slippers for Men's| Lightweight & Comfortable| Orthopedic & Diabetic| Casual & Stylish| Non-Slip Durable Mcr Dr Chappals & House Flip fl",
+   "rank": 3
+  },
+  {
+   "idx": 18,
+   "asin": "B09D8CXJ2Q",
+   "sponsored": false,
+   "badge": "Bestseller",
+   "price": "427",
+   "rating": "4.0",
+   "reviews": "59,837",
+   "title": "Care Diabetic Orthopedic Pregnancy Flat Super Comfort Dr Flipflops and House Slippers For Women's and Girl's",
+   "rank": 4
+  },
+  {
+   "idx": 19,
+   "asin": "B09Y5ZTK5B",
+   "sponsored": false,
+   "badge": null,
+   "price": "597",
+   "rating": "4.0",
+   "reviews": "4,600",
+   "title": "Men's Care Orthopaedic and Diabetic Adjustable Strape Super Comfort DR Sliders Flipflops and House Slippers for Gent's & Boy's Slides-OR-D-51",
+   "rank": 5
+  },
+  {
+   "idx": 20,
+   "asin": "B07BVNPHKL",
+   "sponsored": false,
+   "badge": null,
+   "price": "497",
+   "rating": "4.1",
+   "reviews": "13,194",
+   "title": "Men Flip Flop",
+   "rank": 6
+  },
+  {
+   "idx": 21,
+   "asin": "B0FSTDCNV7",
+   "sponsored": false,
+   "badge": null,
+   "price": "699",
+   "rating": "4.1",
+   "reviews": "748",
+   "title": "Thong Arch Support Ortho Slippers for Mens| Orthopedic Diabetic & Stylish| Lightweight Comfortable & Casual| Cushion Anti-Skid Bedroom Daily Use House",
+   "rank": 7
+  },
+  {
+   "idx": 22,
+   "asin": "B07931P7LD",
+   "sponsored": false,
+   "badge": "Bestseller",
+   "price": "375",
+   "rating": "4.0",
+   "reviews": "59,837",
+   "title": "Care Diabetic Orthopedic Pregnancy Flat Super Comfort Dr Flipflops and House Slippers For Women's and Girl's",
+   "rank": 8
+  },
+  {
+   "idx": 23,
+   "asin": "B0D5VC4N29",
+   "sponsored": false,
+   "badge": null,
+   "price": "429",
+   "rating": "4.1",
+   "reviews": "1,665",
+   "title": "Doctor Slippers for Women Orthopedic Non Slip Lightweight Comfortable Flat Casual Stylish Dr Chappals and House Flip flops For Ladies and Girl’s",
+   "rank": 9
+  },
+  {
+   "idx": 24,
+   "asin": "B0DZ6Y86LK",
+   "sponsored": false,
+   "badge": null,
+   "price": "399",
+   "rating": "4.2",
+   "reviews": "7,994",
+   "title": "Orthopedic Slippers | Acupressure Slippers | Flip-Flops | For Men & Women's Slippers",
+   "rank": 10
+  }
+ ],
+ "sponsored": [
+  {
+   "idx": 4,
+   "asin": "B0FPQJTYWN",
+   "sponsored": true,
+   "badge": null,
+   "price": "749",
+   "rating": "4.1",
+   "reviews": "1,742",
+   "title": "Cloud Comfort Slippers for Women & Men | Available in 2 Options- Arch Support & Without Arch |Orthopedic Soft Home Chappal Unisex Slipper, House Slipp",
+   "slot": 1
+  },
+  {
+   "idx": 5,
+   "asin": "B074CZZQ8V",
+   "sponsored": true,
+   "badge": "Bestseller",
+   "price": "427",
+   "rating": "4.0",
+   "reviews": "59,837",
+   "title": "Care Diabetic Orthopedic Pregnancy Flat Super Comfort Dr Flipflops and House Slippers For Women's and Girl's",
+   "slot": 2
+  },
+  {
+   "idx": 6,
+   "asin": "B0FSTDCNV7",
+   "sponsored": true,
+   "badge": null,
+   "price": "699",
+   "rating": "4.1",
+   "reviews": "748",
+   "title": "Thong Arch Support Ortho Slippers for Mens| Orthopedic Diabetic & Stylish| Lightweight Comfortable & Casual| Cushion Anti-Skid Bedroom Daily Use House",
+   "slot": 3
+  },
+  {
+   "idx": 7,
+   "asin": "B0FGTZLMNF",
+   "sponsored": true,
+   "badge": null,
+   "price": "956",
+   "rating": "3.8",
+   "reviews": "94",
+   "title": "Premium Acupressure Slippers",
+   "slot": 4
+  },
+  {
+   "idx": 10,
+   "asin": "B0BYT95V22",
+   "sponsored": true,
+   "badge": "Bestseller",
+   "price": "377",
+   "rating": "4.2",
+   "reviews": "6,194",
+   "title": "Doctor Slippers for Women Orthopedic Diabetic Pregnancy Non Slip Lightweight Comfortable Flat Casual Stylish DR Chappals and House Flip flops For Ladi",
+   "slot": 5
+  },
+  {
+   "idx": 30,
+   "asin": "B0F1CXC148",
+   "sponsored": true,
+   "badge": null,
+   "price": "398",
+   "rating": "4.0",
+   "reviews": "7",
+   "title": "Women's Healthcare, Diabetic and Orthopedic MCR/MCP Footwear/Sandals/Slipper/Chappal",
+   "slot": 6
+  },
+  {
+   "idx": 31,
+   "asin": "B092637CN6",
+   "sponsored": true,
+   "badge": null,
+   "price": "369",
+   "rating": "4.1",
+   "reviews": "280",
+   "title": "Women's Healthcare, Diabetic and Orthopedic Light Weight MCR/MCP Footwear/Sandals/Slipper/Chappal",
+   "slot": 7
+  },
+  {
+   "idx": 32,
+   "asin": "B0BZL9L6X1",
+   "sponsored": true,
+   "badge": null,
+   "price": "398",
+   "rating": "4.4",
+   "reviews": "79",
+   "title": "Women's Healthcare, Diabetic and Orthopedic MCR/MCP Footwear/Sandals/Slipper/Chappal",
+   "slot": 8
+  },
+  {
+   "idx": 33,
+   "asin": "B07R79779M",
+   "sponsored": true,
+   "badge": null,
+   "price": "398",
+   "rating": "4.1",
+   "reviews": "118",
+   "title": "Women's",
+   "slot": 9
+  },
+  {
+   "idx": 66,
+   "asin": "B07R7CX4DT",
+   "sponsored": true,
+   "badge": null,
+   "price": "398",
+   "rating": "4.1",
+   "reviews": "513",
+   "title": "Women's Healthcare, Diabetic and Orthopedic Light Weight MCR/MCP Slipper/Chappal/Flip-Flops",
+   "slot": 10
+  }
+ ],
+ "combinedPageOrder": [
+  {
+   "pos": 1,
+   "type": "sponsored",
+   "asin": "B0FPQJTYWN",
+   "title": "Cloud Comfort Slippers for Women & Men | Available in 2 Options- Arch ",
+   "isFrido": false
+  },
+  {
+   "pos": 2,
+   "type": "sponsored",
+   "asin": "B074CZZQ8V",
+   "title": "Care Diabetic Orthopedic Pregnancy Flat Super Comfort Dr Flipflops and",
+   "isFrido": false
+  },
+  {
+   "pos": 3,
+   "type": "sponsored",
+   "asin": "B0FSTDCNV7",
+   "title": "Thong Arch Support Ortho Slippers for Mens| Orthopedic Diabetic & Styl",
+   "isFrido": false
+  },
+  {
+   "pos": 4,
+   "type": "sponsored",
+   "asin": "B0FGTZLMNF",
+   "title": "Premium Acupressure Slippers",
+   "isFrido": false
+  },
+  {
+   "pos": 5,
+   "type": "organic",
+   "asin": "B0FW5HWDDQ",
+   "title": "DAZIBAO® Spring Acupressure and Magnetic Therapy Accu Paduka Slippers ",
+   "isFrido": false
+  },
+  {
+   "pos": 6,
+   "type": "organic",
+   "asin": "B0CKF5WWQX",
+   "title": "Orthopedic Slippers | Acupressure Slippers | Flip-Flops | For Men & Wo",
+   "isFrido": false
+  },
+  {
+   "pos": 7,
+   "type": "sponsored",
+   "asin": "B0BYT95V22",
+   "title": "Doctor Slippers for Women Orthopedic Diabetic Pregnancy Non Slip Light",
+   "isFrido": false
+  },
+  {
+   "pos": 8,
+   "type": "organic",
+   "asin": "B0BFTJNKPT",
+   "title": "Ultra Cushion Slippers for Men's| Lightweight & Comfortable| Orthopedi",
+   "isFrido": false
+  },
+  {
+   "pos": 9,
+   "type": "organic",
+   "asin": "B09D8CXJ2Q",
+   "title": "Care Diabetic Orthopedic Pregnancy Flat Super Comfort Dr Flipflops and",
+   "isFrido": false
+  },
+  {
+   "pos": 10,
+   "type": "organic",
+   "asin": "B09Y5ZTK5B",
+   "title": "Men's Care Orthopaedic and Diabetic Adjustable Strape Super Comfort DR",
+   "isFrido": false
+  },
+  {
+   "pos": 11,
+   "type": "organic",
+   "asin": "B07BVNPHKL",
+   "title": "Men Flip Flop",
+   "isFrido": false
+  },
+  {
+   "pos": 12,
+   "type": "organic",
+   "asin": "B0FSTDCNV7",
+   "title": "Thong Arch Support Ortho Slippers for Mens| Orthopedic Diabetic & Styl",
+   "isFrido": false
+  },
+  {
+   "pos": 13,
+   "type": "organic",
+   "asin": "B07931P7LD",
+   "title": "Care Diabetic Orthopedic Pregnancy Flat Super Comfort Dr Flipflops and",
+   "isFrido": false
+  },
+  {
+   "pos": 14,
+   "type": "organic",
+   "asin": "B0D5VC4N29",
+   "title": "Doctor Slippers for Women Orthopedic Non Slip Lightweight Comfortable ",
+   "isFrido": false
+  }
+ ],
+ "notes": []
+}

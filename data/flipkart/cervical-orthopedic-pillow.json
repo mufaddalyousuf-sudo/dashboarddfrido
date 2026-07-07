@@ -1,0 +1,139 @@
+{
+ "category": "cervical-orthopedic-pillow",
+ "marketplace": "flipkart",
+ "keyword": "cervical pillow for neck pain",
+ "capturedAt": "2026-07-07",
+ "method": "Live scrape flipkart.com mobile search page 1 (__INITIAL_STATE__)",
+ "confidence": "Medium-High (live; sponsored flags not exposed on mobile)",
+ "fridoRank": null,
+ "fridoPresent": false,
+ "results": [
+  {
+   "pos": 1,
+   "title": "MY ARMOR Orthopedic Memory Foam Cervical Pillow for Neck & Shoulder Pain with Outer Cover Cervical Pillow",
+   "price": null,
+   "rating": 4.1,
+   "ratings": 2520,
+   "reviews": null,
+   "isFrido": false
+  },
+  {
+   "pos": 2,
+   "title": "MY ARMOR Cool Gel Memory Foam Cervical Pillow for Neck Pain and Shoulder Pain Relief Cervical Pillow",
+   "price": null,
+   "rating": 4.6,
+   "ratings": 135,
+   "reviews": null,
+   "isFrido": false
+  },
+  {
+   "pos": 3,
+   "title": "FOVERA Cervical Pillow for Neck Pain | Orthopedic Memory Foam Contour Sleeping Pillow, Cervical Pillow",
+   "price": null,
+   "rating": 4.1,
+   "ratings": 164,
+   "reviews": 25,
+   "isFrido": false
+  },
+  {
+   "pos": 4,
+   "title": "FOVERA Cervical Pillow Cool Gel Memory Foam for Neck & Shoulder Pain Relief Cervical Pillow",
+   "price": null,
+   "rating": 4.2,
+   "ratings": 2620,
+   "reviews": 309,
+   "isFrido": false
+  },
+  {
+   "pos": 5,
+   "title": "AGEasy Cervical Pillow Memory Foam Solid Orthopaedic Pillow Cervical Pillow",
+   "price": null,
+   "rating": 4.2,
+   "ratings": 122,
+   "reviews": 28,
+   "isFrido": false
+  },
+  {
+   "pos": 6,
+   "title": "betterhood PosturePro Contour Pillow for Neck Shoulder Pain, Ergonomic Ortho Memory Foam Cervical Pillow",
+   "price": null,
+   "rating": 4.2,
+   "ratings": 103,
+   "reviews": 14,
+   "isFrido": false
+  },
+  {
+   "pos": 7,
+   "title": "Kartona Orthopaedic Cervical Pillow - Memory Foam Pillow Cervical Pillow",
+   "price": null,
+   "rating": 4.2,
+   "ratings": 1893,
+   "reviews": 289,
+   "isFrido": false
+  },
+  {
+   "pos": 8,
+   "title": "betterhood PosturePro Pillow for Neck Shoulder Pain, 100% Memory Foam, Ergonomic Orthopedic Cervical Pillow",
+   "price": null,
+   "rating": 4.3,
+   "ratings": 381,
+   "reviews": 29,
+   "isFrido": false
+  },
+  {
+   "pos": 9,
+   "title": "Fitolym Cervical Neck Traction Device Pillow for Pain Relief, Muscle Relax Neck Support",
+   "price": null,
+   "rating": 3.6,
+   "ratings": 821,
+   "reviews": 50,
+   "isFrido": false
+  },
+  {
+   "pos": 10,
+   "title": "Strivex Professional Wrap Band ,Strap For Gym and Fitness Wrist Support",
+   "price": null,
+   "rating": 4.4,
+   "ratings": 148,
+   "reviews": null,
+   "isFrido": false
+  },
+  {
+   "pos": 11,
+   "title": "Strivex GYM BELT LEATHER BLACK COLOUR MEDIUM Weight Lifting Belt",
+   "price": null,
+   "rating": 4.7,
+   "ratings": 13,
+   "reviews": null,
+   "isFrido": false
+  },
+  {
+   "pos": 12,
+   "title": "Strivex Fitness Mens Gym Gloves with half Wrist Support / Anti Slip Gloves Gym & Fitness Gloves",
+   "price": null,
+   "rating": 0,
+   "ratings": null,
+   "reviews": null,
+   "isFrido": false
+  },
+  {
+   "pos": 13,
+   "title": "Strivex POLYESTER BELT ADJUSTABLE X-LARGE Weight Lifting Belt",
+   "price": null,
+   "rating": 4.7,
+   "ratings": 13,
+   "reviews": null,
+   "isFrido": false
+  },
+  {
+   "pos": 14,
+   "title": "Strivex Fitness Mens Gym Gloves with half Wrist Support and Anti Slip Gloves Gym & Fitness Gloves",
+   "price": null,
+   "rating": 3.3,
+   "ratings": 3,
+   "reviews": null,
+   "isFrido": false
+  }
+ ],
+ "notes": []
+}
