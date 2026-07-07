@@ -1,0 +1,121 @@
+{
+ "category": "barefoot-shoes",
+ "marketplace": "flipkart",
+ "keyword": "barefoot shoes",
+ "capturedAt": "2026-07-07",
+ "method": "Live scrape flipkart.com mobile search page 1 (__INITIAL_STATE__)",
+ "confidence": "Medium-High (live; sponsored flags not exposed on mobile)",
+ "fridoRank": 2,
+ "fridoPresent": true,
+ "results": [
+  {
+   "pos": 1,
+   "title": "leo shoes Leo's Men's Barefoot Hiking Shoes Quick Dry Breathable Mesh Lightweight Outdoor Training Hiking Walking Shoes Hiking & T",
+   "price": null,
+   "rating": 4,
+   "ratings": 213,
+   "reviews": 23,
+   "isFrido": false
+  },
+  {
+   "pos": 2,
+   "title": "Frido Cloud Comfort Casual Slip-On Shoes | Zero-Drop Barefoot Style With Wide Toe Box Slip On Sneakers For Women",
+   "price": null,
+   "rating": 0,
+   "ratings": null,
+   "reviews": 0,
+   "isFrido": true
+  },
+  {
+   "pos": 3,
+   "title": "leo shoes Leo's Men's Barefoot Hiking Shoes(896) Shoe Hiking & Trekking Shoes For Men",
+   "price": null,
+   "rating": 4,
+   "ratings": 850,
+   "reviews": 86,
+   "isFrido": false
+  },
+  {
+   "pos": 4,
+   "title": "Impakto by Ajanta Big Toe Box Gym,Training,Running, Walking Shoes for Men Black Barefoot Shoes For Men",
+   "price": null,
+   "rating": 4.4,
+   "ratings": 1066,
+   "reviews": 89,
+   "isFrido": false
+  },
+  {
+   "pos": 5,
+   "title": "Impakto by Ajanta Barefoot Wide Toe Box Gym,Training,Running, Walking Shoes Barefoot Shoes For Men",
+   "price": null,
+   "rating": 4.4,
+   "ratings": 1066,
+   "reviews": 89,
+   "isFrido": false
+  },
+  {
+   "pos": 6,
+   "title": "Frido Active Walking Shoes | Zero-Drop Sole with Wide Toe Box for Natural Movement Walking Shoes For Men",
+   "price": null,
+   "rating": 0,
+   "ratings": null,
+   "reviews": 0,
+   "isFrido": true
+  },
+  {
+   "pos": 7,
+   "title": "Grade WINNER Badminton Shoes For Men",
+   "price": null,
+   "rating": 3.9,
+   "ratings": 503,
+   "reviews": 16,
+   "isFrido": false
+  },
+  {
+   "pos": 8,
+   "title": "Impakto by Ajanta Barefoot Big Toe Box Running & Training Shoes For Men Barefoot Shoes For Men",
+   "price": null,
+   "rating": 4.1,
+   "ratings": 691,
+   "reviews": 70,
+   "isFrido": false
+  },
+  {
+   "pos": 9,
+   "title": "ADIDAS STREETALK Sneakers For Men",
+   "price": null,
+   "rating": 4.3,
+   "ratings": 1722,
+   "reviews": null,
+   "isFrido": false
+  },
+  {
+   "pos": 10,
+   "title": "ADIDAS ExcelCourt M High Tops For Men",
+   "price": null,
+   "rating": 4.1,
+   "ratings": 20115,
+   "reviews": null,
+   "isFrido": false
+  },
+  {
+   "pos": 11,
+   "title": "ADIDAS ADVANTAGE 2.0 IKD Tennis Shoes For Men",
+   "price": null,
+   "rating": 3.9,
+   "ratings": 346,
+   "reviews": null,
+   "isFrido": false
+  },
+  {
+   "pos": 12,
+   "title": "ADIDAS Blockz Sneaker Sneakers For Men",
+   "price": null,
+   "rating": 4,
+   "ratings": 4653,
+   "reviews": null,
+   "isFrido": false
+  }
+ ],
+ "notes": []
+}

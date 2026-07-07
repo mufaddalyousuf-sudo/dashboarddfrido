@@ -1,0 +1,24 @@
+{
+  "asOf": "2026-07-07",
+  "source": "Frido official website taxonomy (myfrido.com) — master hierarchy for all marketplace mapping",
+  "marketplaces": ["amazon-in", "flipkart"],
+  "myntra": "not tracked (stakeholder decision 2026-07-07)",
+  "categories": [
+    {"id": "orthotics", "name": "Orthotics", "icon": "🦵", "priority": "P2", "datasets": [], "pendingReason": "Keyword not confirmed — awaiting stakeholder input on which orthotics line to track"},
+    {"id": "footwear", "name": "Footwear", "icon": "👟", "priority": "P2", "datasets": [{"id": "footwear-ortho-slippers", "keyword": "orthopedic slippers", "primary": true}]},
+    {"id": "pillows", "name": "Pillows", "icon": "🛏️", "priority": "P1", "datasets": [{"id": "cervical-orthopedic-pillow", "keyword": "cervical pillow for neck pain", "primary": true}, {"id": "sleep-pillow", "keyword": "memory foam pillow"}]},
+    {"id": "socks", "name": "Socks", "icon": "🧦", "priority": "P3", "datasets": [{"id": "socks", "keyword": "cushioned socks", "primary": true}]},
+    {"id": "insoles", "name": "Insoles", "icon": "👣", "priority": "P1", "datasets": [{"id": "insoles-orthotics", "keyword": "orthopedic insoles", "primary": true}]},
+    {"id": "cushions", "name": "Cushions", "icon": "💺", "priority": "P1", "datasets": [{"id": "coccyx-seat-cushion", "keyword": "coccyx seat cushion", "primary": true}, {"id": "wedge-car-seat-cushion", "keyword": "car wedge seat cushion"}, {"id": "lumbar-back-support", "keyword": "lumbar support for office chair"}]},
+    {"id": "personal-care", "name": "Personal Care", "icon": "🧴", "priority": "P3", "datasets": [], "pendingReason": "Keyword not confirmed"},
+    {"id": "mattress-topper-protector", "name": "Mattress Topper & Protector", "icon": "🛌", "priority": "P2", "datasets": [{"id": "mattress-topper", "keyword": "mattress topper", "primary": true}]},
+    {"id": "barefoot", "name": "Barefoot", "icon": "🦶", "priority": "P2", "datasets": [{"id": "barefoot-shoes", "keyword": "barefoot shoes", "primary": true}]},
+    {"id": "maternity-baby-care", "name": "Maternity & Baby Care", "icon": "🤰", "priority": "P2", "datasets": [{"id": "maternity-pregnancy-pillow", "keyword": "pregnancy pillow", "primary": true}]},
+    {"id": "chairs", "name": "Chairs", "icon": "🪑", "priority": "P2", "datasets": [{"id": "ergonomic-chair", "keyword": "ergonomic office chair", "primary": true}]},
+    {"id": "masks", "name": "Masks", "icon": "😷", "priority": "P3", "datasets": [], "pendingReason": "Keyword not confirmed"},
+    {"id": "workspace", "name": "Workspace", "icon": "🖥️", "priority": "P2", "datasets": [{"id": "footrest", "keyword": "foot rest under desk", "primary": true}]},
+    {"id": "accessories", "name": "Accessories", "icon": "🎒", "priority": "P3", "datasets": [], "pendingReason": "Keyword not confirmed"},
+    {"id": "covers", "name": "Covers", "icon": "🧺", "priority": "P3", "datasets": [], "pendingReason": "Keyword not confirmed"},
+    {"id": "mobility-devices", "name": "Mobility Devices", "icon": "♿", "priority": "P3", "datasets": [{"id": "wheelchair-mobility-cushion", "keyword": "wheelchair cushion", "primary": true}]}
+  ]
+}

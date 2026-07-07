@@ -10,34 +10,20 @@
 <body>
 <header class="topbar">
   <div class="brand">
-    <span class="logo">F</span>
+    <a class="logo" href="#/" aria-label="Home">F</a>
     <div>
-      <h1>Frido Marketplace Intelligence</h1>
-      <p class="sub">Amazon India &amp; Flipkart · snapshot <span id="asof">—</span> · organic, sponsored &amp; combined views</p>
+      <h1><a href="#/" style="color:inherit;text-decoration:none">Frido Marketplace Intelligence</a></h1>
+      <p class="sub">Organized by Frido's official product taxonomy · Amazon India &amp; Flipkart · snapshot <span id="asof">—</span></p>
     </div>
   </div>
   <div class="controls">
-    <select id="catSelect" aria-label="Category"></select>
     <button id="themeBtn" aria-label="Toggle theme">◐</button>
   </div>
 </header>
 
-<main>
-  <section id="kpis" class="kpi-row" aria-label="Executive summary"></section>
+<main id="app"><p class="hint" style="padding:20px">Loading…</p></main>
 
-  <section class="panel">
-    <div class="panel-head"><h2>Category Overview</h2><span class="hint">Rank = organic position on page 1 for the tracked keyword · “—” = not present in top 10</span></div>
-    <div class="scroll"><table id="overviewTable" class="tbl"></table></div>
-  </section>
-
-  <section id="detail"></section>
-
-  <section class="panel" id="actions"></section>
-
-  <section class="panel" id="method"></section>
-</main>
-
-<footer class="foot">Data: live page-1 scrapes of amazon.in &amp; flipkart.com (mobile) · Prices in ₹ INR · Built as a static snapshot — refresh by re-running the capture scripts and redeploying.</footer>
+<footer class="foot">Data: live page-1 scrapes of amazon.in &amp; flipkart.com · Prices in ₹ INR · Myntra not tracked (stakeholder decision) · Static snapshot — refresh by re-running capture scripts and redeploying.</footer>
 
 <div id="tip" class="tooltip" hidden></div>
 <script src="assets/app.js"></script>
