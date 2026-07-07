@@ -38,26 +38,7 @@
     if (t) { tip.textContent = t.dataset.tip; tip.hidden = false; tip.style.left = Math.min(e.clientX + 14, innerWidth - 300) + "px"; tip.style.top = Math.min(e.clientY + 16, innerHeight - 60) + "px"; }
     else tip.hidden = true;
   });
-  let pop = null;
-  const closePop = () => { pop?.remove(); pop = null; };
-  $("#settingsBtn").onclick = (e) => {
-    e.stopPropagation();
-    if (pop) return closePop();
-    pop = document.createElement("div");
-    pop.className = "glass pop";
-    pop.style.position = "fixed"; pop.style.zIndex = "60";
-    pop.innerHTML = `<b style="color:var(--ink)">Data &amp; method</b>
-      <p>Live page-1 scrapes of amazon.in and flipkart.com, one tracked keyword per product line. Compared only against Bestseller-badged competitors by default.</p>
-      <p><b>Corrections applied 2026-07-07:</b> Masks and Covers were previously mislabeled "not found" from a generic-keyword search. Brand-qualified re-checks confirmed both are real Frido listings — Covers has a live Bestseller badge.</p>
-      <p><b>Status labels</b> are rule-based, never a numeric score: Leading (#1 bestseller) · Ranked (badge or top-10) · Listed, Not Ranked (verified to exist, not competitive on this keyword) · No Matching Product (verified gap) · Needs Verification (evidence incomplete).</p>`;
-    document.body.appendChild(pop);
-    const r = e.currentTarget.getBoundingClientRect();
-    pop.style.top = r.bottom + 8 + "px"; pop.style.right = Math.max(8, innerWidth - r.right) + "px";
-  };
-  document.addEventListener("click", (e) => { if (pop && !pop.contains(e.target)) closePop(); });
-  $("#sbSettings").onclick = (e) => { e.preventDefault(); $("#settingsBtn").click(); };
-
-  app.innerHTML = `<div class="kpi-row">${'<div class="glass kpi" style="min-height:96px"></div>'.repeat(6)}</div>`;
+  app.innerHTML = `<div class="kpi-row">${'<div class="glass kpi" style="min-height:96px"></div>'.repeat(5)}</div>`;
 
   const tax = await (await fetch("data/taxonomy.json")).json();
   const dsIds = tax.categories.flatMap((c) => c.datasets.map((d) => d.id));
@@ -91,37 +72,45 @@
   };
   const catInfos = (c, bestOnly) => c.datasets.map((d) => ({ meta: d, ...dsInfo(d.id, bestOnly) }));
 
-  // ---------- status: deterministic rules, plain language ----------
-  const STATUS_LABEL = { leading: "Leading", ranked: "Ranked", "listed-not-ranked": "Listed, Not Ranked", "no-match": "No Matching Product", "needs-verification": "Needs Verification", pending: "Pending Research" };
-  function catStatus(c, bestOnly) {
+  // ---------- marketplace rank: always states which marketplace, never a bare "#N" ----------
+  function mpRank(infosAll, mp) {
+    const vals = infosAll.map((i) => (mp === "az" ? i.fridoOrg?.rank : i.fridoFk?.pos)).filter((v) => v != null);
+    if (vals.length) return { kind: "rank", value: Math.min(...vals) };
+    if (mp === "az") {
+      if (infosAll.some((i) => i.fridoSp)) return { kind: "sponsored" };
+      if (infosAll.some((i) => i.verifiedAsin)) return { kind: "listed" };
+      if (infosAll.some((i) => i.brandQualified)) return { kind: "not-listed" };
+    }
+    return { kind: "needs-verification" }; // Flipkart has no brand-qualified check yet — never assumed absent
+  }
+  const mpRankLabel = (r, mp) => {
+    if (r.kind === "rank") return `${mp === "az" ? "Amazon" : "Flipkart"} Rank #${r.value}`;
+    if (r.kind === "sponsored") return "Amazon: Sponsored only";
+    if (r.kind === "listed") return `${mp === "az" ? "Amazon" : "Flipkart"}: Listed`;
+    if (r.kind === "not-listed") return `${mp === "az" ? "Amazon" : "Flipkart"}: Not Listed`;
+    return `${mp === "az" ? "Amazon" : "Flipkart"}: Needs Verification`;
+  };
+  // a category-level verified "not-listed" override always wins — even if a brand-check turned up a different, non-matching product
+  const catMpRank = (c, infosAll, mp) => (c.forcedStatus === "not-listed" ? { kind: "not-listed" } : mpRank(infosAll, mp));
+  const mpRankShort = (r) => {
+    if (r.kind === "rank") return "#" + r.value;
+    if (r.kind === "sponsored") return "Sponsored";
+    if (r.kind === "listed") return "Listed";
+    if (r.kind === "not-listed") return "Not Listed";
+    return "Needs Verification";
+  };
+
+  // ---------- status: exactly 3 values, deterministic rules, never assumes absence ----------
+  const STATUS_LABEL = { listed: "Listed", "not-listed": "Not Listed", "needs-verification": "Needs Verification" };
+  function catStatus(c) {
     if (c.forcedStatus) return c.forcedStatus;
-    if (c.manualVerification) return c.manualVerification.status;
-    if (!c.datasets.length) return "pending";
-    // strict view: only literal Bestseller-badged rows count as "ranked"/"leading"
-    const infosBest = catInfos(c, true);
-    const org1 = infosBest.find((i) => i.fridoOrg?.rank === 1);
-    if (org1) return "leading";
-    const ranked = infosBest.find((i) => i.fridoOrg || i.fridoSp);
-    if (ranked) return "ranked";
-    // full view: does Frido exist at all (organic top-10, Flipkart, or a verified brand-search hit)?
-    const infosAll = catInfos(c, false);
-    const existsOrganic = infosAll.find((i) => i.fridoOrg || i.fridoFk);
-    if (existsOrganic) return "listed-not-ranked";
-    const verified = infosAll.find((i) => i.verifiedAsin);
-    if (verified) return "listed-not-ranked";
-    const brandChecked = infosAll.find((i) => i.brandQualified);
-    if (brandChecked) return "no-match"; // a brand-qualified search ran and found nothing at all
-    return "needs-verification"; // never brand-verified, no organic hit — genuinely unclear
+    if (!c.datasets.length) return "needs-verification";
+    const infosAll = catInfos(c, false); // true facts — never hidden by the Bestseller toggle
+    if (infosAll.some((i) => i.fridoOrg || i.fridoSp || i.fridoFk || i.verifiedAsin)) return "listed";
+    if (infosAll.some((i) => i.brandQualified)) return "not-listed"; // a brand-qualified search ran and found nothing at all
+    return "needs-verification"; // never brand-verified, no organic hit — genuinely unclear, not absent
   }
   const Status = (s) => `<span class="status ${s}" data-tip="${esc(tax.statusLegend[s] || "")}"><i></i>${STATUS_LABEL[s]}</span>`;
-
-  // opportunity: rule-based qualitative label, not a score
-  function opportunity(status) {
-    if (status === "leading") return "Low — defend position";
-    if (status === "ranked") return "Medium — close the gap to #1";
-    if (status === "listed-not-ranked" || status === "no-match") return "High — no bestseller visibility";
-    return "Unclear — verify first";
-  }
 
   // ---------- evidence-based "why" (max 3 lines, only measured deltas) ----------
   function whyAbove(r, frido) {
@@ -188,10 +177,11 @@
   // sidebar: CSV export (real data, same shape as the overview table)
   $("#sbExport").onclick = (e) => {
     e.preventDefault();
-    const rows = [["Category", "Priority", "Keyword", "Amazon rank", "Status"]];
+    const rows = [["Category", "Priority", "SKUs", "Amazon Rank", "Flipkart Rank", "Status"]];
     tax.categories.forEach((c) => {
-      const prim = catInfos(c, bestOnly)[0];
-      rows.push([c.name, c.priority, prim?.keyword || "", prim?.fridoOrg?.rank || "", STATUS_LABEL[catStatus(c, bestOnly)]]);
+      const infosAll = catInfos(c, false);
+      const azR = catMpRank(c, infosAll, "az"), fkR = catMpRank(c, infosAll, "fk");
+      rows.push([c.name, c.priority, c.datasets.length, mpRankShort(azR), mpRankShort(fkR), STATUS_LABEL[catStatus(c)]]);
     });
     const csv = rows.map((r) => r.map((v) => `"${String(v).replace(/"/g, '""')}"`).join(",")).join("\n");
     const a = document.createElement("a");
@@ -213,49 +203,50 @@
     sel.value = "";
     syncSidebarActive(null);
     const rows = tax.categories.map((c) => {
-      const infos = catInfos(c, bestOnly);
-      const prim = infos[0];
-      const status = catStatus(c, bestOnly);
+      const infosAll = catInfos(c, false); // true facts — never hidden by the Bestseller toggle
+      const infosBest = catInfos(c, true); // for the "has a Bestseller-badged rank" opportunity check
+      const infos = catInfos(c, bestOnly); // competitor list respects the UI toggle
+      const prim = infosAll[0];
+      const status = catStatus(c);
       const leader = prim?.org[0];
-      const azMp = infos.some((i) => i.org.length || i.verifiedAsin);
-      const fkMp = infos.some((i) => i.fkr.length);
-      const ranks = infos.map((i) => i.fridoOrg?.rank).filter(Boolean);
-      const avgRank = ranks.length ? (ranks.reduce((a, b) => a + b, 0) / ranks.length) : null;
-      const listings = infos.reduce((a, i) => a + i.org.length + i.sp.length + i.fkr.length, 0);
-      return { c, infos, prim, status, leader, azMp, fkMp, avgRank, listings };
+      const azRank = catMpRank(c, infosAll, "az");
+      const fkRank = catMpRank(c, infosAll, "fk");
+      const hasBadgeRank = infosBest.some((i) => i.fridoOrg || i.fridoSp);
+      return { c, infos, infosAll, prim, status, leader, azRank, fkRank, hasBadgeRank };
     });
     const live = rows.filter((r) => r.c.datasets.length);
-    const leading = rows.filter((r) => r.status === "leading");
-    const ranked = rows.filter((r) => r.status === "ranked");
-    const needsAction = rows.filter((r) => ["listed-not-ranked", "no-match", "needs-verification"].includes(r.status));
-    const bestsellerCoverage = live.length ? Math.round(((leading.length + ranked.length) / live.length) * 100) : 0;
-    const ranksWithValue = live.map((r) => r.avgRank).filter((v) => v != null);
-    const avgFridoRank = ranksWithValue.length ? (ranksWithValue.reduce((a, b) => a + b, 0) / ranksWithValue.length).toFixed(1) : "—";
-    const totalActionsAvailable = Object.values(actions).reduce((a, list) => a + list.length, 0);
+    const needsAction = rows.filter((r) => r.status !== "listed" || !r.hasBadgeRank);
+
+    const totalSkus = tax.categories.reduce((a, c) => a + c.datasets.length, 0);
+    const rankedSkuCount = rows.reduce((a, r) => a + r.infosAll.filter((i) => i.fridoOrg || i.fridoFk).length, 0);
+    const azRanks = rows.flatMap((r) => r.infosAll.map((i) => i.fridoOrg?.rank).filter((v) => v != null));
+    const fkRanks = rows.flatMap((r) => r.infosAll.map((i) => i.fridoFk?.pos).filter((v) => v != null));
+    const avgAz = azRanks.length ? (azRanks.reduce((a, b) => a + b, 0) / azRanks.length).toFixed(1) : "—";
+    const avgFk = fkRanks.length ? (fkRanks.reduce((a, b) => a + b, 0) / fkRanks.length).toFixed(1) : "—";
 
     const kpis = [
       ["layers", "Categories Tracked", tax.categories.length, `${live.length} live`],
-      ["award", "Frido Bestseller SKUs", leading.length + ranked.length, "Leading + Ranked"],
-      ["crown", "Categories Leading", leading.length, "#1 Bestseller"],
-      ["trending-up", "Avg Frido Rank", avgFridoRank, "where ranked"],
-      ["target", "Bestseller Coverage", bestsellerCoverage + "%", "of live categories"],
-      ["lightbulb", "Actions Available", totalActionsAvailable, needsAction.length + " categories need action"],
+      ["package", "Total SKUs", totalSkus, "tracked SKUs/keywords"],
+      ["award", "Ranked SKUs", rankedSkuCount, "ranked on Amazon or Flipkart"],
+      ["trending-up", "Average Amazon Rank", avgAz, azRanks.length ? `across ${azRanks.length} SKUs` : "no ranked SKUs"],
+      ["trending-up", "Average Flipkart Rank", avgFk, fkRanks.length ? `across ${fkRanks.length} SKUs` : "no ranked SKUs"],
     ];
 
     // Top Opportunities — real, computed from status + a measured review/price gap to the nearest bestseller rival, never an invented score
     const oppRows = needsAction.map((r) => {
-      const primAll = catInfos(r.c, false)[0]; // true facts, not hidden by the Bestseller toggle
+      const primAll = r.infosAll[0];
       let gapText = "Evidence incomplete";
       if (primAll?.fridoOrg) {
         const rivalTop = (primAll.org || []).find((x) => !x.frido && x.badge === "Bestseller");
         if (rivalTop) gapText = `${esc(rivalTop.brand)} ${fmt(rivalTop.reviews)} rev vs Frido ${fmt(primAll.fridoOrg.reviews)}`;
         else gapText = `Ranks #${primAll.fridoOrg.rank}, no Bestseller badge`;
       } else if (primAll?.verifiedAsin) gapText = "Verified listing, no top-10 rank";
-      else if (r.status === "no-match") gapText = "Verified catalog gap";
+      else if (r.status === "not-listed") gapText = "Verified catalog gap";
       return { r, gapText, n: (actions[r.c.id] || []).length };
     }).sort((a, b) => (a.r.c.priority < b.r.c.priority ? -1 : 1)).slice(0, 5);
 
-    const bestRows = [...leading, ...ranked].sort((a, b) => (a.avgRank ?? 99) - (b.avgRank ?? 99)).slice(0, 5);
+    const bestRows = rows.filter((r) => r.status === "listed" && r.hasBadgeRank)
+      .sort((a, b) => (a.azRank.value ?? 99) - (b.azRank.value ?? 99)).slice(0, 5);
 
     app.innerHTML = `
       <div class="kpi-row">${kpis.map(([ic, l, v, t]) => `
@@ -281,16 +272,16 @@
               <a class="insight-row" href="#/${r.c.id}"><span class="ic-sm">${r.c.icon}</span>
                 <span class="txt"><b>${esc(r.c.name)}</b><span>${esc(gapText)}</span></span>
                 <span class="tag">${n} action${n === 1 ? "" : "s"}</span></a>`).join("")
-              : `<p class="t-muted">All live categories are leading or ranked.</p>`}
+              : `<p class="t-muted">All live categories already hold a Bestseller-badged rank.</p>`}
           </div>
 
           <div class="glass insight-card">
             <div class="panel-head" style="margin-bottom:10px"><span class="ic">${I("crown")}</span><h2 style="font-size:13.5px">Best Performing</h2></div>
             ${bestRows.length ? bestRows.map((r) => `
               <a class="insight-row" href="#/${r.c.id}"><span class="ic-sm">${r.c.icon}</span>
-                <span class="txt"><b>${esc(r.c.name)}</b><span>Avg rank #${r.avgRank?.toFixed(1) ?? "—"}</span></span>
+                <span class="txt"><b>${esc(r.c.name)}</b><span>${mpRankLabel(r.azRank, "az")}</span></span>
                 ${Status(r.status)}</a>`).join("")
-              : `<p class="t-muted">No categories leading or ranked yet.</p>`}
+              : `<p class="t-muted">No categories with a Bestseller-badged rank yet.</p>`}
           </div>
 
           <div class="glass insight-card">
@@ -313,14 +304,15 @@
         const c = r.c;
         if (!c.datasets.length) return `<a class="glass cat-card pending" href="#/${c.id}">
           <div class="cc-top"><span class="cc-ic">${c.icon}</span><h3>${esc(c.name)}</h3></div>
-          ${Status("pending")}</a>`;
-        const rank = r.prim?.fridoOrg?.rank ? "#" + r.prim.fridoOrg.rank : (r.prim?.fridoSp ? "Ad" : "—");
+          ${Status("needs-verification")}</a>`;
+        const leaderName = r.leader ? (r.leader.frido ? "Frido" : esc(r.leader.brand.slice(0, 14))) : "—";
         return `<a class="glass cat-card" href="#/${c.id}">
           <div class="cc-top"><span class="cc-ic">${c.icon}</span><h3>${esc(c.name)}</h3></div>
           <div class="cc-stats">
-            <div><b>${rank}</b>Rank</div>
-            <div><b>${r.listings}</b>Listings</div>
-            <div><b>${r.leader ? esc(r.leader.frido ? "Frido" : r.leader.brand.slice(0, 10)) : "—"}</b>Leader</div>
+            <div><b>${mpRankShort(r.azRank)}</b>Amazon Rank</div>
+            <div><b>${mpRankShort(r.fkRank)}</b>Flipkart Rank</div>
+            <div><b>${c.datasets.length}</b>SKUs</div>
+            <div><b>${leaderName}</b>Leader</div>
           </div>
           ${Status(r.status)}</a>`;
       }).join("") || `<p class="t-muted" style="padding:20px 4px">No categories match.</p>`;
@@ -356,10 +348,12 @@
     const infosBest = catInfos(c, bestOnly); // competitor list — respects the Bestseller toggle
     const prim = infosAll[0];
     const primBest = infosBest[0];
-    const status = catStatus(c, bestOnly);
+    const status = catStatus(c);
     // Frido's own row: prefer a Bestseller-badged one if the toggle found one, else fall back to the true unfiltered row
     const fr = primBest.fridoOrg || prim.fridoOrg;
     const frSp = primBest.fridoSp || prim.fridoSp;
+    const azR = catMpRank(c, infosAll, "az");
+    const fkR = catMpRank(c, infosAll, "fk");
 
     // competitors, ranked by position, capped at 5 — drawn from the toggle-respecting list
     const compMap = {};
@@ -373,23 +367,32 @@
     const comps = Object.values(compMap).sort((a, b) => a.bestRank - b.bestRank).slice(0, 5);
 
     const correctionNote = c.correctionNote ? `<div class="correction-note">${I("info")}<span><b>Corrected:</b> ${esc(c.correctionNote)}</span></div>` : "";
-    const manualNote = c.manualVerification ? `<div class="correction-note">${I("info")}<span><b>${STATUS_LABEL[c.manualVerification.status]}:</b> ${esc(c.manualVerification.note)}</span></div>` : "";
 
-    // executive summary line — one sentence, states the fact plainly
+    // executive summary line — one sentence, states the fact plainly, always names the marketplace
     let summary;
-    if (status === "leading") summary = `Frido is the #1 Bestseller on “${prim.keyword}.”`;
-    else if (status === "ranked") summary = `Frido holds a Bestseller badge but isn't #1 on “${prim.keyword}.” ${comps[0] ? `${esc(comps[0].brand)} leads.` : ""}`;
-    else if (status === "listed-not-ranked") summary = fr ? `Frido ranks #${fr.rank} organically on “${prim.keyword}” but doesn't carry the Bestseller badge.${comps[0] ? ` ${esc(comps[0].brand)} does.` : ""}` : `Frido has a real, verified listing but no Bestseller badge or top-10 rank on “${prim.keyword}.”`;
-    else if (status === "no-match") summary = `Frido has no product that matches this category — a verified catalog gap.`;
-    else summary = c.manualVerification ? esc(c.manualVerification.note) : `Evidence is incomplete for this category — treat as unverified, not absent.`;
+    if (status === "listed") {
+      const parts = [];
+      if (azR.kind === "rank") parts.push(`Amazon Rank #${azR.value}${fr?.badge === "Bestseller" ? " (Bestseller badge)" : ""}`);
+      else if (azR.kind === "sponsored") parts.push("sponsored-only on Amazon");
+      else if (azR.kind === "listed") parts.push("a verified Amazon listing (rank unclear)");
+      else parts.push("Amazon: Needs Verification");
+      if (fkR.kind === "rank") parts.push(`Flipkart Rank #${fkR.value}`);
+      else parts.push("Flipkart: Needs Verification");
+      summary = `Frido is listed for “${prim.keyword}” — ${parts.join(" · ")}.${comps[0] && azR.kind === "rank" && azR.value > 1 ? ` ${esc(comps[0].brand)} ranks above Frido.` : ""}`;
+    } else if (status === "not-listed") {
+      summary = `Frido has no product that matches this category — a verified catalog gap.`;
+    } else {
+      summary = `Evidence is incomplete for this category — treat as unverified, not absent.`;
+    }
 
-    const posFacts = fr || frSp || prim.verifiedAsin ? [
-      ["Rank", fr ? "#" + fr.rank : (frSp ? "Sponsored only" : "Not ranked")],
+    const posFacts = [
+      ["Amazon Rank", mpRankShort(azR)],
+      ["Flipkart Rank", mpRankShort(fkR)],
       ["Price", inr(fr?.price ?? frSp?.price ?? prim.verifiedPrice)],
       ["Rating", (fr?.rating ?? frSp?.rating ?? prim.verifiedRating) != null ? (fr?.rating ?? frSp?.rating ?? prim.verifiedRating) + "★" : "—"],
       ["Reviews", fmt(fr?.reviews ?? frSp?.reviews ?? prim.verifiedReviews)],
       ["Badge", (fr?.badge ?? frSp?.badge ?? prim.verifiedBadge) || "None"],
-    ] : null;
+    ];
 
     const compListRows = comps.map((m) => `
       <div class="comp-row">
@@ -445,7 +448,7 @@
 
     app.innerHTML = `
       <a class="crumb" href="#/">${I("arrow-left")} All categories</a>
-      ${correctionNote}${manualNote}
+      ${correctionNote}
 
       <div class="section glass glass-block">
         <div style="display:flex;align-items:baseline;gap:12px;flex-wrap:wrap">
@@ -456,9 +459,7 @@
 
       <div class="section glass glass-block">
         <div class="panel-head"><span class="ic">${I("target")}</span><h2 style="font-size:13.5px">Frido Position</h2></div>
-        ${posFacts ? `<div class="pos-grid">${posFacts.map(([l, v]) => `<div><div class="k">${v}</div><div class="l">${l}</div></div>`).join("")}</div>`
-          : `<p class="t-ink2">No verified Frido listing found for this keyword.</p>`}
-        <p class="t-muted" style="margin-top:10px">Opportunity: ${opportunity(status)}</p>
+        <div class="pos-grid">${posFacts.map(([l, v]) => `<div><div class="k">${v}</div><div class="l">${l}</div></div>`).join("")}</div>
       </div>
 
       <div class="section glass glass-block">
@@ -494,7 +495,6 @@
   }
 
   function route() {
-    closePop();
     const m = location.hash.match(/^#\/([\w-]+)/);
     if (m && m[1]) renderCat(m[1]); else renderHome();
     scrollTo(0, 0);

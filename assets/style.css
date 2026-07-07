@@ -180,7 +180,7 @@ main { position: relative; z-index: 1; max-width: 1280px; margin: 0 auto; paddin
 .crumb:hover { color: var(--ink); }
 
 /* ---------- KPI row ---------- */
-.kpi-row { display: grid; grid-template-columns: repeat(6, 1fr); gap: 14px; margin-bottom: 28px; }
+.kpi-row { display: grid; grid-template-columns: repeat(5, 1fr); gap: 14px; margin-bottom: 28px; }
 .kpi {
   padding: 18px; display: flex; flex-direction: column; gap: 8px;
   transition: transform .18s ease, box-shadow .18s ease; animation: fadeUp .5s ease both;
@@ -225,8 +225,8 @@ main { position: relative; z-index: 1; max-width: 1280px; margin: 0 auto; paddin
   background: linear-gradient(155deg, color-mix(in srgb, var(--yellow) 35%, transparent), color-mix(in srgb, var(--yellow) 10%, transparent));
 }
 .cc-top h3 { font-size: 14px; font-weight: 650; flex: 1; line-height: 1.25; }
-.cc-stats { display: flex; gap: 14px; font-size: 11.5px; color: var(--muted); }
-.cc-stats b { color: var(--ink); font-weight: 650; display: block; font-size: 14px; }
+.cc-stats { display: grid; grid-template-columns: repeat(2, 1fr); gap: 10px 14px; font-size: 11.5px; color: var(--muted); }
+.cc-stats b { color: var(--ink); font-weight: 650; display: block; font-size: 14px; white-space: nowrap; overflow: hidden; text-overflow: ellipsis; }
 
 /* status pill — glass glow, no fake numeric scores */
 .status {
@@ -234,17 +234,12 @@ main { position: relative; z-index: 1; max-width: 1280px; margin: 0 auto; paddin
   padding: 5px 11px; border-radius: 100px; width: fit-content;
 }
 .status i { width: 6px; height: 6px; border-radius: 50%; flex: none; }
-.status.leading { background: color-mix(in srgb, var(--good) 16%, transparent); color: var(--good); }
-.status.leading i { background: var(--good); box-shadow: 0 0 6px var(--good); }
-.status.ranked { background: color-mix(in srgb, var(--yellow) 26%, transparent); color: var(--yellow-ink); }
-:root[data-theme="dark"] .status.ranked { color: var(--yellow); }
-.status.ranked i { background: var(--yellow-strong); box-shadow: 0 0 6px var(--yellow); }
-.status.listed-not-ranked { background: color-mix(in srgb, var(--warn) 16%, transparent); color: var(--warn); }
-.status.listed-not-ranked i { background: var(--warn); }
-.status.no-match, .status.needs-verification { background: color-mix(in srgb, var(--muted) 16%, transparent); color: var(--muted); }
-.status.no-match i, .status.needs-verification i { background: var(--muted); }
-.status.pending { background: var(--line); color: var(--muted); }
-.status.pending i { border: 1px solid var(--muted); background: transparent; }
+.status.listed { background: color-mix(in srgb, var(--good) 16%, transparent); color: var(--good); }
+.status.listed i { background: var(--good); box-shadow: 0 0 6px var(--good); }
+.status.not-listed { background: color-mix(in srgb, var(--muted) 16%, transparent); color: var(--muted); }
+.status.not-listed i { background: var(--muted); }
+.status.needs-verification { background: color-mix(in srgb, var(--warn) 16%, transparent); color: var(--warn); }
+.status.needs-verification i { background: var(--warn); }
 
 /* ---------- right insights panel ---------- */
 .insight-panel { display: flex; flex-direction: column; gap: 18px; }
@@ -343,8 +338,6 @@ details.more h4:first-child { margin-top: 4px; }
   backdrop-filter: var(--blur); box-shadow: var(--glass-shadow);
 }
 :root[data-theme="dark"] .tooltip { background: var(--glass-bg-strong); border: 1px solid var(--glass-border); color: var(--ink); }
-
-.pop { padding: 18px; width: 320px; font-size: 12.5px; color: var(--ink-2); display: grid; gap: 8px; }
 
 .foot { position: relative; z-index: 1; text-align: center; color: var(--muted); font-size: 11px; padding: 20px 32px 40px; }
 

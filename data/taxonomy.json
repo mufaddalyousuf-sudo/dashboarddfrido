@@ -4,12 +4,9 @@
  "marketplaces": ["amazon-in", "flipkart"],
  "myntra": "not tracked (stakeholder decision 2026-07-07)",
  "statusLegend": {
-  "leading": "Frido is the #1 Bestseller-badged product on the tracked keyword.",
-  "ranked": "Frido holds a Bestseller badge or top-10 organic rank, but is not #1.",
-  "listed-not-ranked": "A real, live Frido listing was verified to exist, but it does not rank top-10 or carry a Bestseller badge on the tracked keyword.",
-  "no-match": "A brand-qualified search was run and Frido has no product that genuinely fits this category — a verified gap, not a research miss.",
-  "needs-verification": "Evidence is incomplete or a live check was blocked — do not treat as absent.",
-  "pending": "Not yet researched."
+  "listed": "A real, verified Frido listing exists on Amazon and/or Flipkart for this SKU/keyword — ranked organically, sponsored, carrying a Bestseller badge, or brand-verified to exist.",
+  "not-listed": "A brand-qualified search was run and Frido has no product that genuinely fits this category — a verified gap, not a research miss.",
+  "needs-verification": "Evidence is incomplete, not yet researched, or a live check was blocked — never treat as absent until verified."
  },
  "categories": [
   {"id": "cushions", "name": "Cushions", "icon": "💺", "priority": "P1", "datasets": [
@@ -55,7 +52,7 @@
   {"id": "personal-care", "name": "Personal Care", "icon": "🧴", "priority": "P3", "datasets": [
     {"id": "personal-care-nasal-strips", "keyword": "nasal strips", "primary": true}
   ]},
-  {"id": "workspace", "name": "Workspace", "icon": "🖥️", "priority": "P2", "forcedStatus": "no-match", "datasets": [
+  {"id": "workspace", "name": "Workspace", "icon": "🖥️", "priority": "P2", "forcedStatus": "not-listed", "datasets": [
     {"id": "footrest", "keyword": "foot rest under desk", "primary": true},
     {"id": "footrest-frido-check", "keyword": "frido footrest", "brandQualified": true}
   ], "correctionNote": "Verified with a brand-qualified search: Frido has no dedicated under-desk footrest SKU. Closest match is a Leg Elevation Wedge Pillow (a different product) — a genuine catalog gap, not a research miss."},
