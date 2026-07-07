@@ -1,0 +1,94 @@
+{
+ "category": "socks-frido-check",
+ "marketplace": "flipkart",
+ "keyword": "frido socks",
+ "capturedAt": "2026-07-07",
+ "method": "Live scrape flipkart.com mobile search page 1 (__INITIAL_STATE__), brand-qualified query",
+ "confidence": "Medium-High (live; sponsored flags not exposed on mobile)",
+ "fridoRank": 3,
+ "fridoPresent": true,
+ "results": [
+  {
+   "pos": 1,
+   "title": "Brucella Men Solid Ankle Length",
+   "price": null,
+   "rating": 3.8,
+   "ratings": 18794,
+   "reviews": null,
+   "isFrido": false
+  },
+  {
+   "pos": 2,
+   "title": "Brucella Men Self Design Ankle Length",
+   "price": null,
+   "rating": 4,
+   "ratings": 369,
+   "reviews": null,
+   "isFrido": false
+  },
+  {
+   "pos": 3,
+   "title": "Frido Anti Sweat Active Socks for Badminton, Walking, Running, Gym & Sports, Odor-Free Men & Women Ankle Length",
+   "price": null,
+   "rating": 4.3,
+   "ratings": 39,
+   "reviews": 7,
+   "isFrido": true
+  },
+  {
+   "pos": 4,
+   "title": "Frido Anti Sweat Active Socks for Badminton, Walking, Running, Gym & Sports, Odor-Free Men & Women Mid-Calf/Crew",
+   "price": null,
+   "rating": 4.1,
+   "ratings": 98,
+   "reviews": 7,
+   "isFrido": true
+  },
+  {
+   "pos": 5,
+   "title": "Frido Anti Sweat Active Socks for Badminton, Walking, Running, Gym & Sports, Odor-Free Men & Women Printed Mid-Calf/Crew",
+   "price": null,
+   "rating": 4.1,
+   "ratings": 98,
+   "reviews": 7,
+   "isFrido": true
+  },
+  {
+   "pos": 6,
+   "title": "Bahuzo Men Solid Ankle Length, Low Cut",
+   "price": null,
+   "rating": 4,
+   "ratings": 8684,
+   "reviews": null,
+   "isFrido": false
+  },
+  {
+   "pos": 7,
+   "title": "Bahuzo Men Solid Ankle Length",
+   "price": null,
+   "rating": 4.1,
+   "ratings": 85,
+   "reviews": null,
+   "isFrido": false
+  },
+  {
+   "pos": 8,
+   "title": "Bahuzo Women Self Design Ankle Length",
+   "price": null,
+   "rating": 4,
+   "ratings": 206,
+   "reviews": null,
+   "isFrido": false
+  },
+  {
+   "pos": 9,
+   "title": "Bahuzo Men & Women Mid-Calf/Crew",
+   "price": null,
+   "rating": 4.2,
+   "ratings": 221,
+   "reviews": null,
+   "isFrido": false
+  }
+ ],
+ "notes": []
+}

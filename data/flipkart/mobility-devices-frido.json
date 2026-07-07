@@ -1,0 +1,112 @@
+{
+ "category": "mobility-devices-frido",
+ "marketplace": "flipkart",
+ "keyword": "foldable travel wheelchair",
+ "capturedAt": "2026-07-07",
+ "method": "Live scrape flipkart.com mobile search page 1 (__INITIAL_STATE__), brand-qualified query",
+ "confidence": "Medium-High (live; sponsored flags not exposed on mobile)",
+ "fridoRank": null,
+ "fridoPresent": false,
+ "results": [
+  {
+   "pos": 1,
+   "title": "Entros KL875 Premium Aluminum, Foldable Design, Ideal for Patients & Handicaps Manual Wheelchair",
+   "price": null,
+   "rating": 4.3,
+   "ratings": 1467,
+   "reviews": null,
+   "isFrido": false
+  },
+  {
+   "pos": 2,
+   "title": "Entros SC8005A Manual Wheelchair",
+   "price": null,
+   "rating": 4.1,
+   "ratings": 692,
+   "reviews": null,
+   "isFrido": false
+  },
+  {
+   "pos": 3,
+   "title": "Entros SC8005S Manual Wheelchair",
+   "price": null,
+   "rating": 4.1,
+   "ratings": 665,
+   "reviews": null,
+   "isFrido": false
+  },
+  {
+   "pos": 4,
+   "title": "Entros Liberty Foldable for Adults & Patients Manual Wheelchair",
+   "price": null,
+   "rating": 4.2,
+   "ratings": 192,
+   "reviews": null,
+   "isFrido": false
+  },
+  {
+   "pos": 5,
+   "title": "Entros SC5025C Manual Wheelchair",
+   "price": null,
+   "rating": 2.3,
+   "ratings": 3,
+   "reviews": null,
+   "isFrido": false
+  },
+  {
+   "pos": 6,
+   "title": "VMS Careline TRIP Transit Lightweight Portable Traveling Wheel Chair With Seat Belt Manual Wheelchair",
+   "price": null,
+   "rating": 3.9,
+   "ratings": 26,
+   "reviews": 2,
+   "isFrido": false
+  },
+  {
+   "pos": 7,
+   "title": "HealthEmate Magwheel Foldable with SEAT and Leg Belt Manual Wheelchair",
+   "price": null,
+   "rating": 4.3,
+   "ratings": 1818,
+   "reviews": 127,
+   "isFrido": false
+  },
+  {
+   "pos": 8,
+   "title": "TR Foldable Wheelchair with dual Brake Manual Wheelchair",
+   "price": null,
+   "rating": 4,
+   "ratings": 110,
+   "reviews": 10,
+   "isFrido": false
+  },
+  {
+   "pos": 9,
+   "title": "TR Foldable Wheelchair for Old People and Patient with Adjustable Seat Belt Manual Wheelchair",
+   "price": null,
+   "rating": 4.2,
+   "ratings": 85,
+   "reviews": 14,
+   "isFrido": false
+  },
+  {
+   "pos": 10,
+   "title": "Karma Rainbow5 Manual Wheelchair",
+   "price": null,
+   "rating": 4.1,
+   "ratings": 191,
+   "reviews": 28,
+   "isFrido": false
+  },
+  {
+   "pos": 11,
+   "title": "HealthEmate UltraLight Ryder 1 Pro IndoorOutdoor Stylish Manual Wheelchair",
+   "price": null,
+   "rating": 4.3,
+   "ratings": 71,
+   "reviews": 2,
+   "isFrido": false
+  }
+ ],
+ "notes": []
+}

@@ -1,0 +1,139 @@
+{
+ "category": "ergonomic-chair-frido",
+ "marketplace": "flipkart",
+ "keyword": "Frido 3D Posture Plus Ergonomic Chair",
+ "capturedAt": "2026-07-07",
+ "method": "Live scrape flipkart.com mobile search page 1 (__INITIAL_STATE__), brand-qualified query",
+ "confidence": "Medium-High (live; sponsored flags not exposed on mobile)",
+ "fridoRank": 6,
+ "fridoPresent": true,
+ "results": [
+  {
+   "pos": 1,
+   "title": "TENACT Posture Corrector Belt Pro Fix for Men & Women Straight Back pain Relief Posture Corrector",
+   "price": null,
+   "rating": 3.8,
+   "ratings": 8140,
+   "reviews": null,
+   "isFrido": false
+  },
+  {
+   "pos": 2,
+   "title": "TENACT Posture Corrector Belt for men & women Back Support & Posture Corrector",
+   "price": null,
+   "rating": 3.8,
+   "ratings": 3645,
+   "reviews": null,
+   "isFrido": false
+  },
+  {
+   "pos": 3,
+   "title": "TENACT Posture Corrector Belt Pro for Men & Women Adjustable Back & Quality Fabric Posture Corrector",
+   "price": null,
+   "rating": 3.8,
+   "ratings": 3645,
+   "reviews": null,
+   "isFrido": false
+  },
+  {
+   "pos": 4,
+   "title": "TENACT Posture Corrector Belt Pro for Men & Women Straight Back pain Relief Belt Posture Corrector",
+   "price": null,
+   "rating": 3.9,
+   "ratings": 302,
+   "reviews": null,
+   "isFrido": false
+  },
+  {
+   "pos": 5,
+   "title": "TENACT Posture Corrector Belt Pro for Men & Women Straight Back Support Posture Corrector",
+   "price": null,
+   "rating": 3.8,
+   "ratings": 8140,
+   "reviews": null,
+   "isFrido": false
+  },
+  {
+   "pos": 6,
+   "title": "Frido Ultimate Pro Seat Cushion & Posture Corrector Backrest Combo Back / Lumbar Support",
+   "price": null,
+   "rating": 4,
+   "ratings": 385,
+   "reviews": 32,
+   "isFrido": true
+  },
+  {
+   "pos": 7,
+   "title": "betterhood PosturePro Coccyx Seat Cushion for Chair, 100% Memory Foam, Ergonomic Orthopedic Back / Lumbar Support",
+   "price": null,
+   "rating": 4.1,
+   "ratings": 46,
+   "reviews": 13,
+   "isFrido": false
+  },
+  {
+   "pos": 8,
+   "title": "betterhood PosturePro Backrest Cushion for Chair, 100% Memory Foam, Ergonomic Orthopedic Back / Lumbar Support",
+   "price": null,
+   "rating": 4.2,
+   "ratings": 191,
+   "reviews": 28,
+   "isFrido": false
+  },
+  {
+   "pos": 9,
+   "title": "Dr Trust USA Memory Foam Backrest Chair Cushion Posture Corrector Spine Pain 360 Back / Lumbar Support",
+   "price": null,
+   "rating": 4.1,
+   "ratings": 1332,
+   "reviews": 104,
+   "isFrido": false
+  },
+  {
+   "pos": 10,
+   "title": "FOVERA Backrest Cushion Pillow for Chair & Car, Orthopedic Memory Foam Back / Lumbar Support",
+   "price": null,
+   "rating": 4.4,
+   "ratings": 102,
+   "reviews": 5,
+   "isFrido": false
+  },
+  {
+   "pos": 11,
+   "title": "RelifeSupport Comfort Car Seat Back Mesh Cushion for Road Trips Back / Lumbar Support",
+   "price": null,
+   "rating": 4.6,
+   "ratings": 16,
+   "reviews": 0,
+   "isFrido": false
+  },
+  {
+   "pos": 12,
+   "title": "FOVERA Memory Foam Tailbone Pain & Back Support Seat Cushion Combo for Chair, Back / Lumbar Support",
+   "price": null,
+   "rating": 5,
+   "ratings": 15,
+   "reviews": 11,
+   "isFrido": false
+  },
+  {
+   "pos": 13,
+   "title": "Alark AL - 334 - Chair Back Support Back / Lumbar Support",
+   "price": null,
+   "rating": 3.7,
+   "ratings": 7,
+   "reviews": 0,
+   "isFrido": false
+  },
+  {
+   "pos": 14,
+   "title": "FOVERA Orthopedic Coccyx Seat Cushion Pillow - For Office Chair, Tailbone Pain Relief Back / Lumbar Support",
+   "price": null,
+   "rating": 4.2,
+   "ratings": 3872,
+   "reviews": 613,
+   "isFrido": false
+  }
+ ],
+ "notes": []
+}
