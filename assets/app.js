@@ -44,8 +44,8 @@
     e.stopPropagation();
     if (pop) return closePop();
     pop = document.createElement("div");
-    pop.className = "pop";
-    pop.style.cssText = "position:fixed;z-index:60;width:320px;background:var(--surface);border:1px solid var(--line);border-radius:12px;padding:16px;font-size:12.5px;color:var(--ink-2);display:grid;gap:8px;box-shadow:0 12px 32px rgba(0,0,0,.14)";
+    pop.className = "glass pop";
+    pop.style.position = "fixed"; pop.style.zIndex = "60";
     pop.innerHTML = `<b style="color:var(--ink)">Data &amp; method</b>
       <p>Live page-1 scrapes of amazon.in and flipkart.com, one tracked keyword per product line. Compared only against Bestseller-badged competitors by default.</p>
       <p><b>Corrections applied 2026-07-07:</b> Masks and Covers were previously mislabeled "not found" from a generic-keyword search. Brand-qualified re-checks confirmed both are real Frido listings — Covers has a live Bestseller badge.</p>
@@ -55,8 +55,9 @@
     pop.style.top = r.bottom + 8 + "px"; pop.style.right = Math.max(8, innerWidth - r.right) + "px";
   };
   document.addEventListener("click", (e) => { if (pop && !pop.contains(e.target)) closePop(); });
+  $("#sbSettings").onclick = (e) => { e.preventDefault(); $("#settingsBtn").click(); };
 
-  app.innerHTML = `<div class="stat-row">${'<div class="skel" style="width:100px;height:50px;border-radius:8px;background:var(--line)"></div>'.repeat(4)}</div>`;
+  app.innerHTML = `<div class="kpi-row">${'<div class="glass kpi" style="min-height:96px"></div>'.repeat(6)}</div>`;
 
   const tax = await (await fetch("data/taxonomy.json")).json();
   const dsIds = tax.categories.flatMap((c) => c.datasets.map((d) => d.id));
@@ -65,7 +66,8 @@
     const g = async (mp) => { try { return await (await fetch(`data/${mp}/${id}.json`)).json(); } catch { return null; } };
     store[id] = { az: await g("amazon-in"), fk: await g("flipkart") };
   }));
-  $("#tbMeta").innerHTML = `Snapshot ${tax.asOf} · last updated ${tax.asOf}`;
+  $("#tbMeta").innerHTML = `Snapshot <span class="yl">${tax.asOf}</span> · last updated ${tax.asOf}`;
+  $("#sbUpdated").textContent = tax.asOf;
 
   const azRows = (doc, key) => (doc && doc[key] ? doc[key].map((r) => ({ ...r, price: num(r.price), rating: num(r.rating), reviews: num(r.reviews), brand: r.brand || brandOf(r.title), frido: isFrido(r) })) : []);
   const fkRows = (doc) => (doc && doc.results ? doc.results.map((r) => ({ ...r, price: num(r.price), rating: num(r.rating), reviews: num(r.ratings), brand: r.brand || brandOf(r.title), frido: isFrido(r) })) : []);
@@ -170,14 +172,46 @@
 
   let bestOnly = localStorage.getItem("fmi-best") !== "0"; // default ON — bestseller-only is the primary mode
   const bestToggle = $("#bestToggle");
-  const syncBestToggle = () => bestToggle.querySelectorAll("button").forEach((b) => b.classList.toggle("on", (b.dataset.best === "1") === bestOnly));
+  const syncBestToggle = () => {
+    bestToggle.querySelectorAll("button").forEach((b) => b.classList.toggle("on", (b.dataset.best === "1") === bestOnly));
+    $("#sbBestsellers").classList.toggle("on", bestOnly);
+  };
   bestToggle.querySelectorAll("button").forEach((b) => b.onclick = () => { bestOnly = b.dataset.best === "1"; localStorage.setItem("fmi-best", bestOnly ? "1" : "0"); syncBestToggle(); route(); });
   syncBestToggle();
+  $("#sbBestsellers").onclick = (e) => { e.preventDefault(); bestOnly = true; localStorage.setItem("fmi-best", "1"); syncBestToggle(); location.hash = "#/"; route(); };
+
+  // sidebar: category flyout list (real nav, not decorative)
+  const sbCats = $("#sbCats"), sbCatsToggle = $("#sbCatsToggle");
+  sbCats.innerHTML = tax.categories.map((c) => `<a href="#/${c.id}" data-cat-link="${c.id}">${c.icon} ${esc(c.name)}</a>`).join("");
+  sbCatsToggle.onclick = (e) => { e.preventDefault(); sbCats.hidden = !sbCats.hidden; };
+
+  // sidebar: CSV export (real data, same shape as the overview table)
+  $("#sbExport").onclick = (e) => {
+    e.preventDefault();
+    const rows = [["Category", "Priority", "Keyword", "Amazon rank", "Status"]];
+    tax.categories.forEach((c) => {
+      const prim = catInfos(c, bestOnly)[0];
+      rows.push([c.name, c.priority, prim?.keyword || "", prim?.fridoOrg?.rank || "", STATUS_LABEL[catStatus(c, bestOnly)]]);
+    });
+    const csv = rows.map((r) => r.map((v) => `"${String(v).replace(/"/g, '""')}"`).join(",")).join("\n");
+    const a = document.createElement("a");
+    a.href = URL.createObjectURL(new Blob([csv], { type: "text/csv" }));
+    a.download = `frido-marketplace-overview-${tax.asOf}.csv`; a.click();
+  };
+
+  function syncSidebarActive(catId) {
+    document.querySelectorAll(".sb-item[data-nav]").forEach((el) => el.classList.remove("on"));
+    document.querySelectorAll(".sb-cats a").forEach((el) => el.classList.toggle("on", el.dataset.catLink === catId));
+    if (catId) { sbCatsToggle.classList.add("on"); sbCats.hidden = false; }
+    else { $('.sb-item[data-nav="overview"]').classList.add("on"); }
+    if (bestOnly) $("#sbBestsellers").classList.add("on");
+  }
 
   // ================= HOME =================
   function renderHome() {
     document.title = "Frido Marketplace Intelligence";
     sel.value = "";
+    syncSidebarActive(null);
     const rows = tax.categories.map((c) => {
       const infos = catInfos(c, bestOnly);
       const prim = infos[0];
@@ -185,54 +219,120 @@
       const leader = prim?.org[0];
       const azMp = infos.some((i) => i.org.length || i.verifiedAsin);
       const fkMp = infos.some((i) => i.fkr.length);
-      return { c, infos, prim, status, leader, azMp, fkMp };
+      const ranks = infos.map((i) => i.fridoOrg?.rank).filter(Boolean);
+      const avgRank = ranks.length ? (ranks.reduce((a, b) => a + b, 0) / ranks.length) : null;
+      const listings = infos.reduce((a, i) => a + i.org.length + i.sp.length + i.fkr.length, 0);
+      return { c, infos, prim, status, leader, azMp, fkMp, avgRank, listings };
     });
     const live = rows.filter((r) => r.c.datasets.length);
-    const leading = rows.filter((r) => r.status === "leading").length;
-    const needsAction = rows.filter((r) => ["listed-not-ranked", "no-match", "needs-verification"].includes(r.status)).length;
-    const bestsellerCoverage = live.length ? Math.round((rows.filter((r) => r.status === "leading" || r.status === "ranked").length / live.length) * 100) : 0;
+    const leading = rows.filter((r) => r.status === "leading");
+    const ranked = rows.filter((r) => r.status === "ranked");
+    const needsAction = rows.filter((r) => ["listed-not-ranked", "no-match", "needs-verification"].includes(r.status));
+    const bestsellerCoverage = live.length ? Math.round(((leading.length + ranked.length) / live.length) * 100) : 0;
+    const ranksWithValue = live.map((r) => r.avgRank).filter((v) => v != null);
+    const avgFridoRank = ranksWithValue.length ? (ranksWithValue.reduce((a, b) => a + b, 0) / ranksWithValue.length).toFixed(1) : "—";
+    const totalActionsAvailable = Object.values(actions).reduce((a, list) => a + list.length, 0);
+
+    const kpis = [
+      ["layers", "Categories Tracked", tax.categories.length, `${live.length} live`],
+      ["award", "Frido Bestseller SKUs", leading.length + ranked.length, "Leading + Ranked"],
+      ["crown", "Categories Leading", leading.length, "#1 Bestseller"],
+      ["trending-up", "Avg Frido Rank", avgFridoRank, "where ranked"],
+      ["target", "Bestseller Coverage", bestsellerCoverage + "%", "of live categories"],
+      ["lightbulb", "Actions Available", totalActionsAvailable, needsAction.length + " categories need action"],
+    ];
+
+    // Top Opportunities — real, computed from status + a measured review/price gap to the nearest bestseller rival, never an invented score
+    const oppRows = needsAction.map((r) => {
+      const primAll = catInfos(r.c, false)[0]; // true facts, not hidden by the Bestseller toggle
+      let gapText = "Evidence incomplete";
+      if (primAll?.fridoOrg) {
+        const rivalTop = (primAll.org || []).find((x) => !x.frido && x.badge === "Bestseller");
+        if (rivalTop) gapText = `${esc(rivalTop.brand)} ${fmt(rivalTop.reviews)} rev vs Frido ${fmt(primAll.fridoOrg.reviews)}`;
+        else gapText = `Ranks #${primAll.fridoOrg.rank}, no Bestseller badge`;
+      } else if (primAll?.verifiedAsin) gapText = "Verified listing, no top-10 rank";
+      else if (r.status === "no-match") gapText = "Verified catalog gap";
+      return { r, gapText, n: (actions[r.c.id] || []).length };
+    }).sort((a, b) => (a.r.c.priority < b.r.c.priority ? -1 : 1)).slice(0, 5);
+
+    const bestRows = [...leading, ...ranked].sort((a, b) => (a.avgRank ?? 99) - (b.avgRank ?? 99)).slice(0, 5);
 
     app.innerHTML = `
-      <div class="stat-row">
-        <div class="stat"><b>${leading}</b><span>Categories leading</span></div>
-        <div class="stat"><b>${bestsellerCoverage}%</b><span>Bestseller coverage</span></div>
-        <div class="stat"><b>${needsAction}</b><span>Need action</span></div>
-        <div class="stat"><b>${tax.categories.length}</b><span>Categories tracked</span></div>
-      </div>
+      <div class="kpi-row">${kpis.map(([ic, l, v, t]) => `
+        <div class="glass kpi"><span class="k-ic">${I(ic)}</span><span class="k-val">${v}</span><span class="k-lbl">${l}</span><span class="k-trend">${t} · first snapshot</span></div>`).join("")}</div>
 
-      <div class="search-select">
-        <input id="q" placeholder="Search categories…" aria-label="Search categories">
-        <select id="statusFilter" aria-label="Filter by status">
-          <option value="">All statuses</option>
-          ${Object.entries(STATUS_LABEL).map(([k, l]) => `<option value="${k}">${l}</option>`).join("")}
-        </select>
-      </div>
+      <div class="dash-layout">
+        <div>
+          <div class="panel-head"><span class="ic">${I("layout-grid")}</span><h2>Category Overview</h2><span class="cnt">${tax.categories.length} categories</span></div>
+          <div class="search-select">
+            <input id="q" placeholder="Search categories…" aria-label="Search categories">
+            <select id="statusFilter" aria-label="Filter by status">
+              <option value="">All statuses</option>
+              ${Object.entries(STATUS_LABEL).map(([k, l]) => `<option value="${k}">${l}</option>`).join("")}
+            </select>
+          </div>
+          <div class="cat-grid" id="catGrid"></div>
+        </div>
 
-      <div class="cat-list-head t-label">
-        <span>Category</span><span>Rank</span><span class="mp-h">Marketplace</span><span>Leader</span><span>Status</span>
-      </div>
-      <div class="cat-list" id="catList"></div>`;
+        <div class="insight-panel">
+          <div class="glass insight-card">
+            <div class="panel-head" style="margin-bottom:10px"><span class="ic">${I("lightbulb")}</span><h2 style="font-size:13.5px">Top Opportunities</h2></div>
+            ${oppRows.length ? oppRows.map(({ r, gapText, n }) => `
+              <a class="insight-row" href="#/${r.c.id}"><span class="ic-sm">${r.c.icon}</span>
+                <span class="txt"><b>${esc(r.c.name)}</b><span>${esc(gapText)}</span></span>
+                <span class="tag">${n} action${n === 1 ? "" : "s"}</span></a>`).join("")
+              : `<p class="t-muted">All live categories are leading or ranked.</p>`}
+          </div>
+
+          <div class="glass insight-card">
+            <div class="panel-head" style="margin-bottom:10px"><span class="ic">${I("crown")}</span><h2 style="font-size:13.5px">Best Performing</h2></div>
+            ${bestRows.length ? bestRows.map((r) => `
+              <a class="insight-row" href="#/${r.c.id}"><span class="ic-sm">${r.c.icon}</span>
+                <span class="txt"><b>${esc(r.c.name)}</b><span>Avg rank #${r.avgRank?.toFixed(1) ?? "—"}</span></span>
+                ${Status(r.status)}</a>`).join("")
+              : `<p class="t-muted">No categories leading or ranked yet.</p>`}
+          </div>
+
+          <div class="glass insight-card">
+            <div class="panel-head" style="margin-bottom:10px"><span class="ic">${I("zap")}</span><h2 style="font-size:13.5px">Quick Actions</h2></div>
+            <div class="qa-grid">
+              <button class="qa-btn" id="qaTop">${I("target")}Top Opportunity</button>
+              <button class="qa-btn" id="qaCompetitors">${I("swords")}View Competitors</button>
+              <button class="qa-btn" id="qaExport">${I("download")}Export Report</button>
+              <button class="qa-btn" id="qaToggle">${I("award")}Toggle Bestsellers</button>
+            </div>
+          </div>
+        </div>
+      </div>`;
 
     function paint() {
       const q = ($("#q").value || "").toLowerCase();
       const sf = $("#statusFilter").value;
       const visible = rows.filter((r) => (!q || r.c.name.toLowerCase().includes(q)) && (!sf || r.status === sf));
-      $("#catList").innerHTML = visible.map((r) => {
+      $("#catGrid").innerHTML = visible.map((r) => {
         const c = r.c;
-        if (!c.datasets.length) return `<a class="cat-row pending" href="#/${c.id}">
-          <span class="name">${c.icon} ${esc(c.name)}</span><span class="rank">—</span><span class="mp"></span><span>—</span><span>${Status("pending")}</span></a>`;
-        const rank = r.prim?.fridoOrg?.rank ? "#" + r.prim.fridoOrg.rank : (r.prim?.fridoSp ? "Ad only" : "—");
-        return `<a class="cat-row" href="#/${c.id}">
-          <span class="name">${c.icon} ${esc(c.name)}</span>
-          <span class="rank">${rank}</span>
-          <span class="mp">${r.azMp ? "Amazon" : ""}${r.azMp && r.fkMp ? " · " : ""}${r.fkMp ? "Flipkart" : ""}${!r.azMp && !r.fkMp ? "—" : ""}</span>
-          <span>${r.leader ? esc(r.leader.frido ? "Frido" : r.leader.brand) : "—"}</span>
-          <span>${Status(r.status)}</span></a>`;
+        if (!c.datasets.length) return `<a class="glass cat-card pending" href="#/${c.id}">
+          <div class="cc-top"><span class="cc-ic">${c.icon}</span><h3>${esc(c.name)}</h3></div>
+          ${Status("pending")}</a>`;
+        const rank = r.prim?.fridoOrg?.rank ? "#" + r.prim.fridoOrg.rank : (r.prim?.fridoSp ? "Ad" : "—");
+        return `<a class="glass cat-card" href="#/${c.id}">
+          <div class="cc-top"><span class="cc-ic">${c.icon}</span><h3>${esc(c.name)}</h3></div>
+          <div class="cc-stats">
+            <div><b>${rank}</b>Rank</div>
+            <div><b>${r.listings}</b>Listings</div>
+            <div><b>${r.leader ? esc(r.leader.frido ? "Frido" : r.leader.brand.slice(0, 10)) : "—"}</b>Leader</div>
+          </div>
+          ${Status(r.status)}</a>`;
       }).join("") || `<p class="t-muted" style="padding:20px 4px">No categories match.</p>`;
     }
     paint();
     $("#q").addEventListener("input", paint);
     $("#statusFilter").addEventListener("change", paint);
+
+    $("#qaTop").onclick = () => { if (oppRows[0]) location.hash = "#/" + oppRows[0].r.c.id; };
+    $("#qaCompetitors").onclick = () => { if (oppRows[0]) location.hash = "#/" + oppRows[0].r.c.id; else if (bestRows[0]) location.hash = "#/" + bestRows[0].c.id; };
+    $("#qaExport").onclick = () => $("#sbExport").click();
+    $("#qaToggle").onclick = () => bestToggle.querySelector(`button[data-best="${bestOnly ? 0 : 1}"]`).click();
   }
 
   // ================= CATEGORY =================
@@ -241,11 +341,14 @@
     if (!c) return renderHome();
     document.title = `${c.name} — Frido Intelligence`;
     sel.value = c.id;
+    syncSidebarActive(c.id);
 
     if (!c.datasets.length) {
       app.innerHTML = `<a class="crumb" href="#/">${I("arrow-left")} All categories</a>
-        <h1 class="t-h1">${c.icon} ${esc(c.name)}</h1>
-        <p class="t-ink2" style="margin-top:10px;max-width:56ch">${esc(c.pendingReason || "Not yet researched.")}</p>`;
+        <div class="glass glass-block">
+          <h1 class="t-h1">${c.icon} ${esc(c.name)}</h1>
+          <p class="t-ink2" style="margin-top:10px;max-width:56ch">${esc(c.pendingReason || "Not yet researched.")}</p>
+        </div>`;
       return;
     }
 
@@ -344,36 +447,36 @@
       <a class="crumb" href="#/">${I("arrow-left")} All categories</a>
       ${correctionNote}${manualNote}
 
-      <div class="section">
+      <div class="section glass glass-block">
         <div style="display:flex;align-items:baseline;gap:12px;flex-wrap:wrap">
           <h1 class="t-h1">${c.icon} ${esc(c.name)}</h1>${Status(status)}
         </div>
         <p class="t-ink2" style="margin-top:10px;max-width:64ch;font-size:15px">${summary}</p>
       </div>
 
-      <div class="section">
-        ${`<div class="t-label" style="margin-bottom:10px">Frido position</div>`}
+      <div class="section glass glass-block">
+        <div class="panel-head"><span class="ic">${I("target")}</span><h2 style="font-size:13.5px">Frido Position</h2></div>
         ${posFacts ? `<div class="pos-grid">${posFacts.map(([l, v]) => `<div><div class="k">${v}</div><div class="l">${l}</div></div>`).join("")}</div>`
           : `<p class="t-ink2">No verified Frido listing found for this keyword.</p>`}
-        <p class="t-muted" style="margin-top:6px">Opportunity: ${opportunity(status)}</p>
+        <p class="t-muted" style="margin-top:10px">Opportunity: ${opportunity(status)}</p>
       </div>
 
-      <div class="section">
-        <div class="t-label" style="margin-bottom:10px">${bestOnly ? "Top Bestseller competitors" : "Top competitors"}</div>
+      <div class="section glass glass-block">
+        <div class="panel-head"><span class="ic">${I("swords")}</span><h2 style="font-size:13.5px">${bestOnly ? "Top Bestseller Competitors" : "Top Competitors"}</h2></div>
         ${comps.length ? `<div class="comp-list-head t-label"><span></span><span>Brand</span><span class="num">Price</span><span class="num">Rating</span><span class="num">Reviews</span><span class="bd-h">Badge</span></div><div class="comp-list">${compListRows}</div>` : `<p class="t-muted">None found — ${bestOnly ? "no Bestseller-badged competitors on this keyword." : "no competitors captured."}</p>`}
       </div>
 
-      <div class="section">
-        <div class="t-label" style="margin-bottom:10px">Why they rank higher</div>
+      <div class="section glass glass-block">
+        <div class="panel-head"><span class="ic">${I("info")}</span><h2 style="font-size:13.5px">Why They Rank Higher</h2></div>
         <div class="why-list">${whyRows}</div>
       </div>
 
-      <div class="section">
-        <div class="t-label" style="margin-bottom:10px">Top 3 actions</div>
+      <div class="section glass glass-block">
+        <div class="panel-head"><span class="ic">${I("lightbulb")}</span><h2 style="font-size:13.5px">Top 3 Actions</h2></div>
         <div class="action-list">${actionRows}</div>
       </div>
 
-      <details class="more">
+      <details class="more glass glass-block">
         <summary>${I("chevron-down")}More data: keyword breakdown, full rankings, pricing<span class="chev">${I("chevron-down")}</span></summary>
         <div class="inner">
           <h4>Keyword breakdown</h4>

@@ -7,34 +7,56 @@
 <link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><rect width='100' height='100' rx='22' fill='%23FFD100'/><text x='50' y='72' font-size='60' font-family='sans-serif' font-weight='700' text-anchor='middle' fill='%23101820'>F</text></svg>">
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-<link href="https://fonts.googleapis.com/css2?family=Outfit:wght@400;500;600;700&display=swap" rel="stylesheet">
+<link href="https://fonts.googleapis.com/css2?family=Outfit:wght@400;500;600;700;800&display=swap" rel="stylesheet">
 <link rel="stylesheet" href="assets/style.css">
 </head>
 <body>
-<header class="topbar" id="topbar">
-  <div class="tb-left">
-    <a class="logo" href="#/" aria-label="Home">F</a>
-    <div class="tb-title">
-      <h1><a href="#/">Frido <span>Marketplace Intelligence</span></a></h1>
-      <p class="tb-meta" id="tbMeta">Loading snapshot…</p>
-    </div>
-  </div>
-  <div class="tb-right" role="toolbar" aria-label="Dashboard controls">
-    <div id="bestToggle" role="group" aria-label="Bestseller filter" data-tip="Compares Frido only against Bestseller-badged competitors. Flipkart's bestseller status can't be detected from this capture method, so it's marked Needs Verification rather than assumed absent.">
-      <button class="on" data-best="1"><span data-icon="award"></span>Bestsellers</button>
-      <button data-best="0"><span data-icon="package"></span>All products</button>
-    </div>
-    <label class="ctrl select-wrap" data-tip="Jump to category">
-      <select id="catSelect" aria-label="Category"><option value="">All categories</option></select>
-    </label>
-    <button class="ctrl icon-btn" id="themeBtn" aria-label="Toggle theme" data-tip="Theme"><span data-icon="sun-moon"></span></button>
-    <button class="ctrl icon-btn" id="settingsBtn" aria-label="Data &amp; method" data-tip="Data &amp; method"><span data-icon="info"></span></button>
-  </div>
-</header>
 
-<main id="app" aria-live="polite"></main>
+<div class="shapes" aria-hidden="true">
+  <div class="shape ring s1"></div>
+  <div class="shape blob s2"></div>
+  <div class="shape s3"></div>
+  <div class="shape blob s4"></div>
+</div>
 
-<footer class="foot">Live page-1 snapshots of amazon.in &amp; flipkart.com · Prices in ₹ INR · Myntra not tracked (stakeholder decision) · Frido taxonomy is the master hierarchy.</footer>
+<div class="shell">
+  <aside class="sidebar glass">
+    <div class="sb-logo"><span class="mark">F</span><b>Frido</b></div>
+    <nav class="sb-nav" aria-label="Primary">
+      <a class="sb-item on" href="#/" data-nav="overview"><span data-icon="layout-grid"></span>Overview</a>
+      <a class="sb-item" href="#/" id="sbCatsToggle" data-nav="categories"><span data-icon="layers"></span>Categories<span data-icon="chevron-down" style="margin-left:auto"></span></a>
+      <div class="sb-cats" id="sbCats" hidden></div>
+      <a class="sb-item" href="#/" id="sbBestsellers" data-nav="bestsellers"><span data-icon="award"></span>Bestsellers Only</a>
+      <a class="sb-item" href="#" id="sbExport" data-nav="export"><span data-icon="download"></span>Export CSV</a>
+      <a class="sb-item" href="#" id="sbSettings" data-nav="settings"><span data-icon="info"></span>Data &amp; Method</a>
+    </nav>
+    <div class="sb-status"><span class="dot"></span>Live snapshot · updated <span id="sbUpdated">—</span></div>
+  </aside>
+
+  <div class="main-col">
+    <header class="topbar glass" id="topbar">
+      <div class="tb-left">
+        <h1><a href="#/">Frido <span>Marketplace Intelligence</span></a></h1>
+        <p class="tb-meta" id="tbMeta">Loading snapshot…</p>
+      </div>
+      <div class="tb-right" role="toolbar" aria-label="Dashboard controls">
+        <div id="bestToggle" role="group" aria-label="Bestseller filter" data-tip="Compares Frido only against Bestseller-badged competitors. Flipkart's bestseller status can't be detected from this capture method, so it's marked Needs Verification rather than assumed absent.">
+          <button class="on" data-best="1"><span data-icon="award"></span>Bestsellers</button>
+          <button data-best="0"><span data-icon="package"></span>All products</button>
+        </div>
+        <label class="ctrl select-wrap" data-tip="Jump to category">
+          <select id="catSelect" aria-label="Category"><option value="">All categories</option></select>
+        </label>
+        <button class="ctrl icon-btn" id="themeBtn" aria-label="Toggle theme" data-tip="Theme"><span data-icon="sun-moon"></span></button>
+        <button class="ctrl icon-btn" id="settingsBtn" aria-label="Data &amp; method" data-tip="Data &amp; method"><span data-icon="info"></span></button>
+      </div>
+    </header>
+
+    <main id="app" aria-live="polite"></main>
+
+    <footer class="foot">Live page-1 snapshots of amazon.in &amp; flipkart.com · Prices in ₹ INR · Myntra not tracked (stakeholder decision) · Frido taxonomy is the master hierarchy.</footer>
+  </div>
+</div>
 
 <div id="tip" class="tooltip" role="tooltip" hidden></div>
 <script src="assets/icons.js"></script>
