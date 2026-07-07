@@ -1,0 +1,94 @@
+{
+ "category": "personal-care-nasal-strips",
+ "marketplace": "flipkart",
+ "keyword": "nasal strips",
+ "capturedAt": "2026-07-07",
+ "method": "Live scrape flipkart.com mobile search page 1 (__INITIAL_STATE__)",
+ "confidence": "Medium-High (live; sponsored flags not exposed on mobile)",
+ "fridoRank": null,
+ "fridoPresent": false,
+ "results": [
+  {
+   "pos": 1,
+   "title": "Amazheal Magnetic Nose Clip for snoring Relief Anti-snoring Device",
+   "price": null,
+   "rating": 4.7,
+   "ratings": 91,
+   "reviews": 76,
+   "isFrido": false
+  },
+  {
+   "pos": 2,
+   "title": "atovio BreatheX Nasal Strips for Snoring, Breathing & Sleep - Black (10 Pcs) Anti-snoring Device",
+   "price": null,
+   "rating": 3.7,
+   "ratings": 3,
+   "reviews": 0,
+   "isFrido": false
+  },
+  {
+   "pos": 3,
+   "title": "atovio BreatheX Anti Snoring Device for Better Breathing & Sleep - Black (20 Pcs) Anti-snoring Device",
+   "price": null,
+   "rating": 0,
+   "ratings": null,
+   "reviews": 0,
+   "isFrido": false
+  },
+  {
+   "pos": 4,
+   "title": "atovio BreatheX Clear Nose Strips for Breathing, Sleep & Nasal Airflow - Pack of 20 Anti-snoring Device",
+   "price": null,
+   "rating": 0,
+   "ratings": null,
+   "reviews": 0,
+   "isFrido": false
+  },
+  {
+   "pos": 5,
+   "title": "RR LOOK Magnetic Nasal Strips for Breathing | Anti Snoring Nose Clip Skin Safe Anti-snoring Device",
+   "price": null,
+   "rating": 0,
+   "ratings": null,
+   "reviews": 0,
+   "isFrido": false
+  },
+  {
+   "pos": 6,
+   "title": "JINCHA Magnetic Nasal Strips for Breathing | Anti Snoring Nose Clip Skin Safe pake of 1 Anti-snoring Device",
+   "price": null,
+   "rating": 3.7,
+   "ratings": 16,
+   "reviews": 1,
+   "isFrido": false
+  },
+  {
+   "pos": 7,
+   "title": "LAXIT Anti Snoring Nasal Strips for Better Breathing Sleep Aid Pack of 15 Anti-snoring Device",
+   "price": null,
+   "rating": 0,
+   "ratings": null,
+   "reviews": 0,
+   "isFrido": false
+  },
+  {
+   "pos": 8,
+   "title": "atovio BreatheX Nasal Strips for Congestion Relief & Better Breathing - Clear (10 Pcs) Anti-snoring Device",
+   "price": null,
+   "rating": 0,
+   "ratings": null,
+   "reviews": 0,
+   "isFrido": false
+  },
+  {
+   "pos": 9,
+   "title": "HIYAN'S IMPORT EXPORT Anti-Snoring Magnetic Nasal Strips For Breathing, Peaceful Sleep For Men & Women Anti-snoring Device",
+   "price": null,
+   "rating": 3,
+   "ratings": 6,
+   "reviews": 3,
+   "isFrido": false
+  }
+ ],
+ "notes": []
+}

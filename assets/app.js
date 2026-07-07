@@ -188,6 +188,9 @@
     footwear: [["MED", "Ortho slippers absent on Amazon keyword", "Flipkart #3 but no Amazon top-10 for “orthopedic slippers” — check Amazon listing keyword coverage."]],
     socks: [["LOW", "Socks not found on tracked keyword", "Confirm which sock keyword Frido targets (“cushioned socks” shows no Frido) before investing."]],
     "mattress-topper-protector": [["MED", "Topper #4 with slot 2 ads", "Solid position; watch price band and push for badge."]],
+    orthotics: [["LOW", "Posture corrector: no page-1 presence", "Frido's Orthotics Posture Corrector is absent from Amazon/Flipkart top-10 for “posture corrector” — a huge, belt-brand-dominated category (TENACT owns Flipkart page 1). Assess if marketplace push is worth it vs D2C."]],
+    "personal-care": [["LOW", "Nasal strips: no page-1 presence", "Frido Nasal Strip absent from top-10 on both marketplaces; category led by established pharma/breathing brands. New line — likely needs ads to seed visibility."]],
+    accessories: [["MED", "Car neck rest: #8 organic + slot 8 ads", "Frido ranks #8 on Amazon and #9 on Flipkart for “car neck rest pillow” — mid-pack on both. Review price band and hero image vs the leaders on this keyword."]],
   };
 
   // ---------- home ----------
