@@ -1,0 +1,24 @@
+{
+  "asOf": "2026-07-07",
+  "scope": {
+    "marketplaces": ["amazon-in", "flipkart", "myntra"],
+    "myntraOnly": ["footwear-ortho-slippers", "insoles-orthotics", "socks"],
+    "rankDepth": 10,
+    "views": ["organic", "sponsored", "combined"],
+    "combosExcluded": true
+  },
+  "categories": [
+    {"id": "coccyx-seat-cushion", "name": "Coccyx / Tailbone Seat Cushion", "priority": "P1", "status": "researched"},
+    {"id": "wedge-car-seat-cushion", "name": "Wedge / Car Seat Cushion", "priority": "P1", "status": "pending"},
+    {"id": "cervical-orthopedic-pillow", "name": "Cervical / Orthopedic Pillow", "priority": "P1", "status": "pending"},
+    {"id": "sleep-pillow", "name": "Sleep Pillow (Memory Foam / Fibre)", "priority": "P2", "status": "pending"},
+    {"id": "insoles-orthotics", "name": "Insoles / Orthotics", "priority": "P1", "status": "pending"},
+    {"id": "lumbar-back-support", "name": "Lumbar / Back Support & Backrest", "priority": "P2", "status": "pending"},
+    {"id": "footrest", "name": "Footrest", "priority": "P2", "status": "pending"},
+    {"id": "ergonomic-chair", "name": "Ergonomic Chair", "priority": "P2", "status": "pending"},
+    {"id": "mattress-topper", "name": "Mattress Topper", "priority": "P3", "status": "pending"},
+    {"id": "footwear-ortho-slippers", "name": "Footwear / Ortho Slippers", "priority": "P3", "status": "pending"},
+    {"id": "socks", "name": "Socks", "priority": "P3", "status": "pending"},
+    {"id": "wheelchair-mobility-cushion", "name": "Wheelchair / Mobility Cushion", "priority": "P3", "status": "pending"}
+  ]
+}
