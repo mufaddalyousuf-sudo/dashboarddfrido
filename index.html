@@ -4,28 +4,47 @@
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>Frido Marketplace Intelligence</title>
-<link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>📊</text></svg>">
+<link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><rect width='100' height='100' rx='22' fill='%23FFD100'/><text x='50' y='72' font-size='60' font-family='sans-serif' font-weight='700' text-anchor='middle' fill='%23101820'>F</text></svg>">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Outfit:wght@400;500;600;700&display=swap" rel="stylesheet">
 <link rel="stylesheet" href="assets/style.css">
 </head>
 <body>
-<header class="topbar">
-  <div class="brand">
+<header class="topbar" id="topbar">
+  <div class="tb-left">
     <a class="logo" href="#/" aria-label="Home">F</a>
-    <div>
-      <h1><a href="#/" style="color:inherit;text-decoration:none">Frido Marketplace Intelligence</a></h1>
-      <p class="sub">Organized by Frido's official product taxonomy · Amazon India &amp; Flipkart · snapshot <span id="asof">—</span></p>
+    <div class="tb-title">
+      <h1><a href="#/">Frido <span>Marketplace Intelligence</span></a></h1>
+      <p class="tb-meta" id="tbMeta">Loading snapshot…</p>
     </div>
   </div>
-  <div class="controls">
-    <button id="themeBtn" aria-label="Toggle theme">◐</button>
+  <div class="tb-right" role="toolbar" aria-label="Dashboard controls">
+    <label class="ctrl select-wrap" data-tip="Marketplace focus">
+      <span class="ctrl-ic" data-icon="store"></span>
+      <select id="mpSelect" aria-label="Marketplace">
+        <option value="all">All marketplaces</option>
+        <option value="az">Amazon India</option>
+        <option value="fk">Flipkart</option>
+      </select>
+    </label>
+    <label class="ctrl select-wrap" data-tip="Jump to category">
+      <span class="ctrl-ic" data-icon="layers"></span>
+      <select id="catSelect" aria-label="Category"><option value="">All categories</option></select>
+    </label>
+    <button class="ctrl icon-btn" id="themeBtn" aria-label="Toggle theme" data-tip="Theme"><span data-icon="sun-moon"></span></button>
+    <button class="ctrl icon-btn" id="refreshBtn" aria-label="About data refresh" data-tip="Static snapshot — data refreshes when capture scripts re-run"><span data-icon="refresh-cw"></span></button>
+    <button class="ctrl icon-btn" id="exportBtn" aria-label="Export overview CSV" data-tip="Export overview as CSV"><span data-icon="download"></span></button>
+    <button class="ctrl icon-btn" id="settingsBtn" aria-label="Data &amp; method" data-tip="Data &amp; method"><span data-icon="settings"></span></button>
   </div>
 </header>
 
-<main id="app"><p class="hint" style="padding:20px">Loading…</p></main>
+<main id="app" aria-live="polite"></main>
 
-<footer class="foot">Data: live page-1 scrapes of amazon.in &amp; flipkart.com · Prices in ₹ INR · Myntra not tracked (stakeholder decision) · Static snapshot — refresh by re-running capture scripts and redeploying.</footer>
+<footer class="foot">Live page-1 snapshots of amazon.in &amp; flipkart.com · Prices in ₹ INR · Myntra not tracked (stakeholder decision) · Frido taxonomy is the master hierarchy.</footer>
 
-<div id="tip" class="tooltip" hidden></div>
+<div id="tip" class="tooltip" role="tooltip" hidden></div>
+<script src="assets/icons.js"></script>
 <script src="assets/app.js"></script>
 </body>
 </html>
