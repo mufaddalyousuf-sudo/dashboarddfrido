@@ -63,11 +63,8 @@
     {"id": "wheelchair-mobility-cushion", "keyword": "wheelchair cushion", "primary": true}
   ]},
   {"id": "chairs", "name": "Chairs", "icon": "🪑", "priority": "P2", "datasets": [
-    {"id": "ergonomic-chair", "keyword": "ergonomic office chair", "primary": true}
-  ], "manualVerification": {
-    "status": "needs-verification",
-    "note": "Frido 3D Posture Plus Ergonomic Chair is confirmed live on Amazon (ASIN B0DR2RX2SK, ~4.2★, 101 ratings, ~₹18,999) via a third-party price tracker, and separately on Flipkart. A live Amazon search for its organic rank was blocked by anti-bot protection during this pass — rank is unconfirmed, not absent.",
-    "source": "pricehistory.app / ratebud.ai product pages, checked 2026-07-07"
-  }}
+    {"id": "ergonomic-chair-frido", "keyword": "Frido 3D Posture Plus Ergonomic Chair", "primary": true, "brandQualified": true},
+    {"id": "ergonomic-chair", "keyword": "ergonomic office chair"}
+  ], "correctionNote": "Previously 'Needs Verification' — the live Amazon rank check was blocked by anti-bot protection. It succeeded on retry: Frido 3D Posture Plus Ergonomic Chair is #1 organic on its own name (ASIN B0DR2R1RJQ, ₹19,999, 4.0★, 204 reviews, Amazon's Choice, no Bestseller badge)."}
  ]
 }
