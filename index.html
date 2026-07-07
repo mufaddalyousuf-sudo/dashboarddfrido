@@ -20,6 +20,10 @@
     </div>
   </div>
   <div class="tb-right" role="toolbar" aria-label="Dashboard controls">
+    <div class="seg" id="bestToggle" role="group" aria-label="Bestseller filter" data-tip="Filters every table, chart, competitor card and metric to Amazon Bestseller-badged products only. Flipkart bestseller status is not exposed by the current capture method, so Flipkart sections show &quot;No Bestseller Products Found&quot; while this is active.">
+      <button class="on" data-best="0"><span data-icon="package"></span>All products</button>
+      <button data-best="1"><span data-icon="award"></span>Best sellers</button>
+    </div>
     <label class="ctrl select-wrap" data-tip="Marketplace focus">
       <span class="ctrl-ic" data-icon="store"></span>
       <select id="mpSelect" aria-label="Marketplace">

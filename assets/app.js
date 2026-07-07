@@ -25,6 +25,11 @@
     const s = `${r.brand || ""} ${r.title || ""}`;
     return /frido/i.test(s) && !/copycat|copies|generic/i.test(s);
   };
+  // Bestseller = Amazon's literal "Bestseller" badge, captured on-page. Flipkart's
+  // mobile search state exposes no equivalent designation — never simulated.
+  const isBestseller = (r) => r.badge === "Bestseller";
+  const BestsellerBadge = () => `<span class="chip warn">${I("award")}Bestseller</span>`;
+  const NoBestsellers = (scope) => `<div class="empty-state">${I("award")}No Bestseller Products Found${scope ? ` — ${scope}` : ""}.</div>`;
 
   // theme
   $("#themeBtn").onclick = () => {
@@ -55,7 +60,8 @@
     pop.innerHTML = `<h4>Data &amp; method</h4>
       <p>Live page-1 scrapes of amazon.in (desktop) and flipkart.com (mobile), one tracked keyword per product line. Organic ranks exclude ad slots.</p>
       <p><b>Confidence:</b> High for on-page facts (rank, price, rating, reviews, badges). Interpretations cite measured deltas only — unmeasured is shown as “—”.</p>
-      <p><b>Limits:</b> single keyword per line · page 1 only · Flipkart hides prices/ad flags on mobile · trends need a second snapshot.</p>`;
+      <p><b>Limits:</b> single keyword per line · page 1 only · Flipkart hides prices/ad flags on mobile · trends need a second snapshot.</p>
+      <p><b>Bestseller filter:</b> matches Amazon's literal on-page “Bestseller” badge only. Flipkart exposes no equivalent designation in this capture method, so Flipkart sections show “No Bestseller Products Found” rather than a fabricated status.</p>`;
     document.body.appendChild(pop);
     const r = e.currentTarget.getBoundingClientRect();
     pop.style.top = r.bottom + 8 + "px";
@@ -86,18 +92,24 @@
     ...r, price: num(r.price), rating: num(r.rating), reviews: num(r.ratings),
     brand: r.brand || brandOf(r.title), frido: isFrido(r),
   })) : []);
-  const dsInfo = (id) => {
+  const dsInfo = (id, bestOnly) => {
     const { az, fk } = store[id] || {};
-    const org = azRows(az, "organic"), sp = azRows(az, "sponsored"), fkr = fkRows(fk);
+    let org = azRows(az, "organic"), sp = azRows(az, "sponsored"), fkr = fkRows(fk);
+    const fkHadCapture = fkr.length > 0;
+    if (bestOnly) {
+      org = org.filter(isBestseller);
+      sp = sp.filter(isBestseller);
+      fkr = []; // no Flipkart bestseller signal is ever captured — never fabricated
+    }
     return {
-      az, fk, org, sp, fkr,
+      az, fk, org, sp, fkr, fkHadCapture, bestOnly: !!bestOnly,
       fridoOrg: org.find((r) => r.frido) || null,
       fridoSp: sp.find((r) => r.frido) || null,
       fridoFk: fkr.find((r) => r.frido) || null,
       keyword: az?.keyword || fk?.keyword,
     };
   };
-  const catInfos = (c) => c.datasets.map((d) => ({ meta: d, ...dsInfo(d.id) }));
+  const catInfos = (c, bestOnly) => c.datasets.map((d) => ({ meta: d, ...dsInfo(d.id, bestOnly) }));
 
   // ================= scoring (unchanged logic) =================
   function oppScore(rows, r) {
@@ -134,9 +146,9 @@
     parts.push(["Sales velocity", vel, r.boughtPastMonth || "unknown"]);
     return { total: Math.round(parts.reduce((a, p) => a + p[1], 0)), parts };
   }
-  function health(cat) {
+  function health(cat, bestOnly) {
     if (!cat.datasets.length) return null;
-    const infos = catInfos(cat);
+    const infos = catInfos(cat, bestOnly);
     const ranks = infos.map((i) => i.fridoOrg?.rank).filter(Boolean);
     const best = ranks.length ? Math.min(...ranks) : null;
     const rank40 = best ? Math.round(((11 - best) / 10) * 40) : 0;
@@ -198,10 +210,12 @@
     attention: `<span class="chip warn">${I("triangle-alert")}Needs attention</span>`,
     absent: `<span class="chip bad">${I("circle-alert")}Absent</span>`,
     pending: `<span class="chip">${I("clock")}Pending</span>`,
+    "no-bestsellers": `<span class="chip">${I("award")}No bestsellers</span>`,
   })[sig];
-  const catSignal = (c) => {
+  const catSignal = (c, bestOnly) => {
     if (!c.datasets.length) return "pending";
-    const infos = catInfos(c);
+    const infos = catInfos(c, bestOnly);
+    if (bestOnly && infos.every((i) => !i.org.length && !i.sp.length)) return "no-bestsellers";
     const best = Math.min(...infos.map((i) => i.fridoOrg?.rank ?? 99));
     if (best === 1) return "leader";
     if (best <= 10) return "contender";
@@ -225,7 +239,8 @@
     <details class="brk"><summary>${I("info")} why ${label ?? "this score"}?</summary>
       <div class="why">${s.parts.map((p) => `<div><span>${p[0]}</span><b>+${Math.round(p[1])}</b><span class="hint">${esc(p[2])}</span></div>`).join("")}
       <div><span><b>Total</b></span><b>${s.total}</b><span></span></div></div></details>`;
-  function Bars(rows, field, fmtV, note, max) {
+  function Bars(rows, field, fmtV, note, max, bestOnly) {
+    if (bestOnly && !rows.length) return NoBestsellers("nothing to chart for this keyword");
     const vals = rows.filter((r) => r[field] != null);
     if (!vals.length) return `<p class="hint">No ${field} data captured — shown as “—”, never guessed.</p>`;
     const mx = max || Math.max(...vals.map((r) => r[field]));
@@ -238,8 +253,8 @@
         <span class="bv">${fmtV(v)}</span></div>`;
     }).join("")}</div><p class="kv-note">${note}</p>`;
   }
-  function RankTable(rows, az) {
-    if (!rows.length) return `<p class="hint">No results captured.</p>`;
+  function RankTable(rows, az, bestOnly) {
+    if (!rows.length) return bestOnly ? NoBestsellers() : `<p class="hint">No results captured.</p>`;
     return `<div style="overflow-x:auto;margin:0 -20px"><table class="tbl" style="min-width:640px">
       <thead><tr><th style="top:0">#</th><th style="top:0">Product</th><th style="top:0" class="num">Price</th>
       <th style="top:0" class="num">Rating</th><th style="top:0" class="num">Reviews</th>${az ? '<th style="top:0">Badge</th>' : ""}</tr></thead>
@@ -251,7 +266,7 @@
         <td class="num">${inr(r.price)}</td>
         <td class="num">${Stars(r.rating)}</td>
         <td class="num">${fmt(r.reviews)}</td>
-        ${az ? `<td>${r.badge ? `<span class="chip info">${I("badge-check")}${r.badge}</span>` : '<span class="hint">—</span>'}</td>` : ""}
+        ${az ? `<td>${r.badge === "Bestseller" ? BestsellerBadge() : r.badge ? `<span class="chip info">${I("badge-check")}${r.badge}</span>` : '<span class="hint">—</span>'}</td>` : ""}
       </tr>`).join("")}</tbody></table></div>`;
   }
   function MetricCard({ icon, label, value, small, desc, trend, accent, tipTxt }) {
@@ -328,33 +343,66 @@
   let mpFocus = "all";
   $("#mpSelect").onchange = (e) => { mpFocus = e.target.value; route(); };
 
+  // global bestseller filter — modular across home + every category page
+  let bestOnly = localStorage.getItem("fmi-best") === "1";
+  const bestToggle = $("#bestToggle");
+  const syncBestToggle = () => bestToggle.querySelectorAll("button").forEach((b) =>
+    b.classList.toggle("on", (b.dataset.best === "1") === bestOnly));
+  bestToggle.querySelectorAll("button").forEach((b) => b.onclick = () => {
+    bestOnly = b.dataset.best === "1";
+    localStorage.setItem("fmi-best", bestOnly ? "1" : "0");
+    syncBestToggle();
+    route();
+  });
+  syncBestToggle();
+  const FilterBanner = () => `<div class="filter-banner">${I("award")}
+    <span><b>Best sellers only</b> — every table, chart, score and metric below reflects Amazon Bestseller-badged products only. Flipkart has no captured bestseller signal, so its sections show “No Bestseller Products Found”.</span>
+    <button id="clearBestBtn">Show all products</button></div>`;
+  const wireFilterBanner = () => { $("#clearBestBtn")?.addEventListener("click", () => { bestOnly = false; localStorage.setItem("fmi-best", "0"); syncBestToggle(); route(); }); };
+
+  // global bestseller landscape — always computed from full (unfiltered) data
+  function bestsellerStats() {
+    const azSeen = new Set(); let fridoCount = 0; const competitorSet = new Set();
+    tax.categories.forEach((c) => c.datasets.forEach((d) => {
+      const info = dsInfo(d.id, false);
+      [...info.org, ...info.sp].forEach((r) => {
+        if (r.badge !== "Bestseller") return;
+        const key = r.asin || `${d.id}:${r.title}`;
+        if (azSeen.has(key)) return;
+        azSeen.add(key);
+        if (r.frido) fridoCount++; else competitorSet.add(r.brand);
+      });
+    }));
+    return { azCount: azSeen.size, fkCount: 0, fridoCount, competitorCount: competitorSet.size };
+  }
+
   // export CSV (overview)
   $("#exportBtn").onclick = () => {
-    const rows = [["Category", "Priority", "Keyword", "Amazon organic", "Amazon ad slot", "Flipkart", "Health", "Signal"]];
+    const rows = [["Category", "Priority", "Keyword", "Amazon organic", "Amazon ad slot", "Flipkart", "Health", "Signal", "Filter"]];
     tax.categories.forEach((c) => {
-      const infos = catInfos(c); const prim = infos[0]; const h = health(c);
-      rows.push([c.name, c.priority, prim?.keyword || "", prim?.fridoOrg?.rank || "", prim?.fridoSp?.slot || prim?.az?.fridoSponsoredSlot || "", prim?.fridoFk?.pos || "", h?.total ?? "", catSignal(c)]);
+      const infos = catInfos(c, bestOnly); const prim = infos[0]; const h = health(c, bestOnly);
+      rows.push([c.name, c.priority, prim?.keyword || "", prim?.fridoOrg?.rank || "", prim?.fridoSp?.slot || prim?.az?.fridoSponsoredSlot || "", prim?.fridoFk?.pos || "", h?.total ?? "", catSignal(c, bestOnly), bestOnly ? "Bestsellers only" : "All products"]);
     });
     const csv = rows.map((r) => r.map((v) => `"${String(v).replace(/"/g, '""')}"`).join(",")).join("\n");
     const a = document.createElement("a");
     a.href = URL.createObjectURL(new Blob([csv], { type: "text/csv" }));
-    a.download = `frido-marketplace-overview-${tax.asOf}.csv`; a.click();
+    a.download = `frido-marketplace-overview-${tax.asOf}${bestOnly ? "-bestsellers" : ""}.csv`; a.click();
   };
 
   // ================= HOME =================
   let view = localStorage.getItem("fmi-view") || "table";
   let query = "", filter = "all", sortKey = "health", sortDir = -1;
 
-  function homeData() {
+  function homeData(bestOnly) {
     return tax.categories.map((c) => {
-      const infos = catInfos(c);
+      const infos = catInfos(c, bestOnly);
       const prim = infos[0];
-      const h = health(c);
+      const h = health(c, bestOnly);
       const ranks = infos.map((i) => i.fridoOrg?.rank).filter(Boolean);
       const opp = prim?.org.length ? prim.org.map((r) => ({ r, s: oppScore(prim.org, r) })).sort((a, b) => b.s.total - a.s.total)[0] : null;
       return {
         c, infos, prim, h,
-        signal: catSignal(c),
+        signal: catSignal(c, bestOnly),
         azRank: ranks.length ? Math.min(...ranks) : null,
         avgRank: ranks.length ? ranks.reduce((a, b) => a + b, 0) / ranks.length : null,
         fkRank: prim?.fridoFk?.pos ?? (infos.find((i) => i.fridoFk)?.fridoFk?.pos ?? null),
@@ -369,7 +417,7 @@
   function renderHome() {
     document.title = "Frido Marketplace Intelligence";
     sel.value = "";
-    const rows = homeData();
+    const rows = homeData(bestOnly);
     const live = rows.filter((r) => r.c.datasets.length);
     const organicIn = live.filter((r) => r.azRank || r.fkRank);
     const leaders = live.filter((r) => r.azRank === 1);
@@ -378,6 +426,7 @@
     const avgRank = (() => { const a = live.map((r) => r.avgRank).filter(Boolean); return a.length ? (a.reduce((x, y) => x + y, 0) / a.length).toFixed(1) : "—"; })();
     const avgHealth = Math.round(live.reduce((a, r) => a + (r.h?.total || 0), 0) / live.length);
     const quickWins = Object.values(curated).flat().filter((x) => x[0] === "HIGH").length;
+    const bs = bestsellerStats();
 
     const metrics = [
       MetricCard({ icon: "layers", label: "Categories tracked", value: tax.categories.length, small: `· ${live.length} live`, desc: `${tax.categories.length - live.length} pending keyword confirmation`, accent: "var(--accent)" }),
@@ -389,6 +438,10 @@
       MetricCard({ icon: "target", label: "Avg health score", value: avgHealth, small: "/100", desc: "rank + coverage + reviews + badges + ads", accent: "var(--accent)" }),
       MetricCard({ icon: "wallet", label: "Revenue opportunity", value: "—", desc: "needs sales/volume data (Helium10 · Keepa export)", accent: "var(--muted)", tipTxt: "Not fabricated — plug in a keyword-tool export to light this up" }),
       MetricCard({ icon: "zap", label: "Quick wins", value: quickWins, desc: "high-impact actions ready in category pages", accent: "var(--frido-yellow)" }),
+      MetricCard({ icon: "award", label: "Amazon Bestsellers", value: bs.azCount, desc: "distinct Bestseller-badged listings across tracked keywords", accent: "var(--warn-fg)" }),
+      MetricCard({ icon: "store", label: "Flipkart Bestsellers", value: bs.fkCount, desc: "no bestseller signal captured for Flipkart", accent: "var(--muted)", tipTxt: "Flipkart's mobile search page exposes no bestseller/equivalent designation in this capture method — shown as 0, not fabricated." }),
+      MetricCard({ icon: "crown", label: "Frido Bestseller products", value: bs.fridoCount, desc: "Frido listings carrying the Bestseller badge", accent: "var(--ok-fg)" }),
+      MetricCard({ icon: "swords", label: "Competitors w/ Bestsellers", value: bs.competitorCount, desc: "distinct competitor brands holding a Bestseller badge", accent: "var(--bad-fg)" }),
     ].join("");
 
     const visible = rows
@@ -410,7 +463,7 @@
     const tableView = `<div class="panel">
       <div class="toolbar">
         <span class="searchbox">${I("search")}<input id="q" placeholder="Search categories or keywords…" value="${esc(query)}" aria-label="Search"></span>
-        <span class="seg" role="tablist">${[["all", "All"], ["leader", "Leaders"], ["contender", "Contenders"], ["attention", "Needs attention"], ["absent", "Absent"], ["pending", "Pending"]].map(([k, l]) =>
+        <span class="seg" role="tablist">${[["all", "All"], ["leader", "Leaders"], ["contender", "Contenders"], ["attention", "Needs attention"], ["absent", "Absent"], ["pending", "Pending"], ...(bestOnly ? [["no-bestsellers", "No bestsellers"]] : [])].map(([k, l]) =>
           `<button class="${filter === k ? "on" : ""}" data-filter="${k}">${l}</button>`).join("")}</span>
         <span class="seg" style="margin-left:auto">
           <button class="${view === "table" ? "on" : ""}" data-view="table">${I("table-2")}Table</button>
@@ -428,9 +481,10 @@
           ${showAz ? `<td class="num">${RankChip(r.azRank, r.avgRank && r.avgRank !== r.azRank ? `best rank · avg #${r.avgRank.toFixed(1)}` : "organic rank")}</td>
           <td class="num hide-m">${r.adSlot ? `<span class="chip warn">${I("megaphone")}${r.adSlot}</span>` : '<span class="hint">—</span>'}</td>` : ""}
           ${showFk ? `<td class="num">${RankChip(r.fkRank)}</td>` : ""}
-          <td class="hide-m">${r.leader ? esc(r.leader.frido ? "Frido" : r.leader.brand) : "—"}</td>
+          <td class="hide-m">${r.leader ? `${esc(r.leader.frido ? "Frido" : r.leader.brand)}${r.leader.badge === "Bestseller" ? " " + BestsellerBadge() : ""}` : bestOnly && r.c.datasets.length ? '<span class="hint">no bestsellers</span>' : "—"}</td>
           <td class="num"><b>${r.h ? r.h.total : "—"}</b></td>
-        </tr>`).join("")}</tbody></table></div></div>`;
+        </tr>`).join("")}</tbody></table></div>
+        ${!visible.length ? (bestOnly ? NoBestsellers("try clearing search or switching off the bestseller filter") : `<div class="empty-state">${I("search")}No categories match your search/filter.</div>`) : ""}</div>`;
 
     const cardsView = `<div class="cat-grid">${visible.map((r) => {
       const c = r.c;
@@ -444,11 +498,11 @@
           <div class="st"><b>${r.infos.some((i) => i.org.length) ? "AZ" : ""}${r.infos.some((i) => i.org.length) && r.infos.some((i) => i.fkr.length) ? " · " : ""}${r.infos.some((i) => i.fkr.length) ? "FK" : ""}</b><span>Coverage</span></div>
           <div class="st"><b>${r.listings}</b><span>Listings tracked</span></div>
           <div class="st"><b>${r.avgRank ? "#" + r.avgRank.toFixed(1) : "—"}</b><span>Avg organic rank</span></div>
-          <div class="st"><b>${r.leader ? esc(r.leader.frido ? "Frido" : r.leader.brand) : "—"}</b><span>Current leader</span></div>
+          <div class="st"><b>${r.leader ? esc(r.leader.frido ? "Frido" : r.leader.brand) : (bestOnly ? "no bestsellers" : "—")}</b><span>Current leader</span></div>
           <div class="st"><b>${r.opp ? esc(r.opp.r.frido ? "Frido" : r.opp.r.brand) + " · " + r.opp.s.total : "—"}</b><span>Top opportunity</span></div>
           <div class="st"><b>—</b><span>Trend (first snapshot)</span></div>
         </div>
-        <div class="cc-foot">${PriorityBadge(c.priority)}${SignalChip(r.signal)}</div></a>`;
+        <div class="cc-foot">${PriorityBadge(c.priority)}${SignalChip(r.signal)}${r.leader?.badge === "Bestseller" ? BestsellerBadge() : ""}</div></a>`;
     }).join("")}</div>`;
 
     app.innerHTML = `
@@ -458,10 +512,12 @@
       </section>
       <section class="section">
         ${SectionHeader("layers", "Category intelligence", "Frido's official taxonomy — click any category")}
+        ${bestOnly ? FilterBanner() : ""}
         ${view === "table" ? tableView : cardsView}
       </section>`;
 
     animateCounters(app);
+    wireFilterBanner();
     $("#q")?.addEventListener("input", (e) => { query = e.target.value.toLowerCase(); renderHome(); $("#q").focus(); const v = $("#q").value; $("#q").setSelectionRange(v.length, v.length); });
     app.querySelectorAll("[data-filter]").forEach((b) => b.onclick = () => { filter = b.dataset.filter; renderHome(); });
     app.querySelectorAll("[data-view]").forEach((b) => b.onclick = () => { view = b.dataset.view; localStorage.setItem("fmi-view", view); renderHome(); });
@@ -493,9 +549,9 @@
       return;
     }
 
-    const infos = catInfos(c);
+    const infos = catInfos(c, bestOnly);
     const prim = infos[0];
-    const h = health(c);
+    const h = health(c, bestOnly);
 
     // competitor aggregation
     const compMap = {};
@@ -552,7 +608,7 @@
         <td class="num">${RankChip(i.fridoOrg?.rank ?? null)}</td>
         <td class="num">${(i.fridoSp?.slot || i.az?.fridoSponsoredSlot) ? `<span class="chip warn">${i.fridoSp?.slot || i.az.fridoSponsoredSlot}</span>` : '<span class="hint">—</span>'}</td>
         <td class="num">${RankChip(i.fridoFk?.pos ?? null)}</td>
-        <td>${i.org[0] ? (i.org[0].frido ? '<span class="chip brand">Frido</span>' : esc(i.org[0].brand)) : "—"}</td></tr>`).join("")}</tbody></table></div>
+        <td>${i.org[0] ? `${i.org[0].frido ? '<span class="chip brand">Frido</span>' : esc(i.org[0].brand)}${i.org[0].badge === "Bestseller" ? " " + BestsellerBadge() : ""}` : bestOnly ? '<span class="hint">no bestsellers</span>' : "—"}</td></tr>`).join("")}</tbody></table></div>
       <p class="kv-note">One keyword per product line so far — more can be added on request.</p>`;
 
     // competitor hero cards
@@ -564,7 +620,7 @@
           <span class="ttl"><b>${esc(m.brand)}</b>
             ${m.entry.asin ? `<a href="https://www.amazon.in/dp/${m.entry.asin}" target="_blank" rel="noopener">View listing ${I("external-link")}</a>` : `<span class="caption">listing link n/a</span>`}</span>
           ${RankChip(m.bestRank, "best organic rank")}
-          <span style="display:flex;gap:4px">${[...m.mps].map(MpBadge).join("")}</span>
+          <span style="display:flex;gap:4px">${[...m.mps].map(MpBadge).join("")}${m.entry.badge === "Bestseller" ? BestsellerBadge() : ""}</span>
         </div>
         <div class="comp-nums">
           <div class="n"><b>${inr(m.entry.price)}</b><span>Price</span></div>
@@ -588,19 +644,21 @@
       `<button class="${n === 0 ? "on" : ""}" data-kw="${n}">${esc(i.keyword)}</button>`).join("")}</div>`;
     const kwPanes = infos.map((i, n) => {
       const opp = i.org.map((r) => ({ r, s: oppScore(i.org, r) })).sort((a, b) => b.s.total - a.s.total);
+      const fkBody = i.fkr.length ? RankTable(i.fkr, false)
+        : bestOnly ? NoBestsellers("Flipkart exposes no bestseller signal in this capture method")
+        : `<p class="hint">No Flipkart capture for this keyword.</p>` + (i.fk?.notes?.length ? `<p class="kv-note">${i.fk.notes.map(esc).join(" · ")}</p>` : "");
       return `<div class="kwpane" data-pane="${n}" ${n ? "hidden" : ""}>
-        ${Collapse("list-ordered", "Organic rankings — Amazon", RankTable(i.org, true), true, i.org.length)}
-        ${Collapse("megaphone", "Sponsored rankings — Amazon", RankTable(i.sp, true), false, i.sp.length)}
-        ${Collapse("store", "Flipkart page 1", i.fkr.length ? RankTable(i.fkr, false) : `<p class="hint">No Flipkart capture for this keyword.</p>` +
-          (i.fk?.notes?.length ? `<p class="kv-note">${i.fk.notes.map(esc).join(" · ")}</p>` : ""), false, i.fkr.length || null)}
-        ${Collapse("tag", "Pricing comparison", Bars(i.org, "price", inr, "Organic top 10, listed price ₹ — Frido in blue."), false)}
-        ${Collapse("message-square", "Review comparison", Bars(i.org, "reviews", fmt, "Rating counts — social proof gap at a glance."), false)}
-        ${Collapse("star", "Rating comparison", Bars(i.org, "rating", (v) => v == null ? "—" : v + "★", "Average star rating (bar starts at 0 — differences are small, read the numbers).", 5), false)}
-        ${Collapse("sparkles", "Opportunity scores", `<div style="display:grid;gap:8px">${opp.map(({ r, s }) => `
+        ${Collapse("list-ordered", "Organic rankings — Amazon", RankTable(i.org, true, bestOnly), true, i.org.length)}
+        ${Collapse("megaphone", "Sponsored rankings — Amazon", RankTable(i.sp, true, bestOnly), false, i.sp.length)}
+        ${Collapse("store", "Flipkart page 1", fkBody, false, i.fkr.length || null)}
+        ${Collapse("tag", "Pricing comparison", Bars(i.org, "price", inr, "Organic top 10, listed price ₹ — Frido in blue.", null, bestOnly), false)}
+        ${Collapse("message-square", "Review comparison", Bars(i.org, "reviews", fmt, "Rating counts — social proof gap at a glance.", null, bestOnly), false)}
+        ${Collapse("star", "Rating comparison", Bars(i.org, "rating", (v) => v == null ? "—" : v + "★", "Average star rating (bar starts at 0 — differences are small, read the numbers).", 5, bestOnly), false)}
+        ${Collapse("sparkles", "Opportunity scores", opp.length ? `<div style="display:grid;gap:8px">${opp.map(({ r, s }) => `
           <div class="prog"><span class="pl" title="${esc(r.title)}">#${r.rank} ${r.frido ? "Frido" : esc(r.brand)}</span>
           <span class="track"><span class="fill" style="width:${s.total}%;${r.frido ? "" : "background:color-mix(in srgb,var(--ink-2) 45%,var(--line))"}"></span></span>
           <span class="pv">${s.total}</span></div>${Breakdown(s, `#${r.rank} ${r.frido ? "Frido" : esc(r.brand)}`)}`).join("")}</div>
-          <p class="kv-note">Rating /25 · reviews /25 (log vs category max) · price /20 · badge /15 · rank /15 — identical formula for every product.</p>`, false)}
+          <p class="kv-note">Rating /25 · reviews /25 (log vs category max) · price /20 · badge /15 · rank /15 — identical formula for every product.</p>` : NoBestsellers(), false)}
         ${(i.az?.notes || []).length ? Collapse("info", "Analyst notes", `<ul style="padding-left:18px;display:grid;gap:6px;font-size:12.5px;color:var(--ink-2)">${i.az.notes.map((x) => `<li>${esc(x)}</li>`).join("")}</ul>`, false, i.az.notes.length) : ""}
       </div>`;
     }).join("");
@@ -617,6 +675,7 @@
         <td>${r.prime == null ? "?" : r.prime ? `<span class="chip ok">${I("check")}</span>` : `<span class="chip bad">${I("x")}</span>`}</td>
         <td class="caption">${esc(r.warranty || "?")}</td></tr>`).join("")}</tbody></table></div>
       <p class="kv-note">“?” = not captured for that listing. Detail pages fetched for the deep-dive set only — nothing guessed.</p>`
+      : bestOnly && !prim.org.length ? NoBestsellers("nothing to compare features for")
       : `<p class="hint">Detail-page features (images, A+, video, warranty) are captured only for deep-dive categories so far — currently Cushions. Ask to deep-dive this one.</p>`;
 
     const recos = (curated[c.id] || []).map(([imp, t, b]) => `
@@ -630,8 +689,9 @@
           <span class="cc-ic" style="width:44px;height:44px;font-size:22px">${c.icon}</span>
           <div><h2 class="h-xl">${esc(c.name)}</h2>
           <p class="caption">${infos.map((i) => `“${esc(i.keyword)}”`).join(" · ")} · captured ${prim.az?.capturedAt || tax.asOf}</p></div>
-          <span style="margin-left:auto;display:flex;gap:8px;align-items:center">${PriorityBadge(c.priority)}${SignalChip(catSignal(c))}</span>
+          <span style="margin-left:auto;display:flex;gap:8px;align-items:center">${PriorityBadge(c.priority)}${SignalChip(catSignal(c, bestOnly))}</span>
         </div>
+        ${bestOnly ? FilterBanner() : ""}
         <div class="metrics" style="grid-template-columns:repeat(auto-fill,minmax(200px,1fr))">${strip}</div>
       </section>
 
@@ -642,7 +702,7 @@
 
       <section class="section">
         ${SectionHeader("swords", "Competitive landscape", "ranked by threat to Frido")}
-        <div class="comp-grid">${compCards || '<p class="hint">No competitor rows captured.</p>'}</div>
+        <div class="comp-grid">${compCards || (bestOnly ? NoBestsellers("among competitors for this keyword") : '<p class="hint">No competitor rows captured.</p>')}</div>
       </section>
 
       <section class="section">
@@ -668,6 +728,7 @@
       <p class="caption" style="text-align:center">Marketplace coverage: Amazon India ✓ · Flipkart ✓ · Myntra not tracked. Rankings vary with time, geo and personalisation.</p>`;
 
     animateCounters(app);
+    wireFilterBanner();
     $("#kwTabs")?.querySelectorAll("[data-kw]").forEach((b) => b.onclick = () => {
       $("#kwTabs").querySelectorAll("button").forEach((x) => x.classList.toggle("on", x === b));
       app.querySelectorAll(".kwpane").forEach((p) => { p.hidden = p.dataset.pane !== b.dataset.kw; });
