@@ -20,26 +20,15 @@
     </div>
   </div>
   <div class="tb-right" role="toolbar" aria-label="Dashboard controls">
-    <div class="seg" id="bestToggle" role="group" aria-label="Bestseller filter" data-tip="Filters every table, chart, competitor card and metric to Amazon Bestseller-badged products only. Flipkart bestseller status is not exposed by the current capture method, so Flipkart sections show &quot;No Bestseller Products Found&quot; while this is active.">
-      <button class="on" data-best="0"><span data-icon="package"></span>All products</button>
-      <button data-best="1"><span data-icon="award"></span>Best sellers</button>
+    <div id="bestToggle" role="group" aria-label="Bestseller filter" data-tip="Compares Frido only against Bestseller-badged competitors. Flipkart's bestseller status can't be detected from this capture method, so it's marked Needs Verification rather than assumed absent.">
+      <button class="on" data-best="1"><span data-icon="award"></span>Bestsellers</button>
+      <button data-best="0"><span data-icon="package"></span>All products</button>
     </div>
-    <label class="ctrl select-wrap" data-tip="Marketplace focus">
-      <span class="ctrl-ic" data-icon="store"></span>
-      <select id="mpSelect" aria-label="Marketplace">
-        <option value="all">All marketplaces</option>
-        <option value="az">Amazon India</option>
-        <option value="fk">Flipkart</option>
-      </select>
-    </label>
     <label class="ctrl select-wrap" data-tip="Jump to category">
-      <span class="ctrl-ic" data-icon="layers"></span>
       <select id="catSelect" aria-label="Category"><option value="">All categories</option></select>
     </label>
     <button class="ctrl icon-btn" id="themeBtn" aria-label="Toggle theme" data-tip="Theme"><span data-icon="sun-moon"></span></button>
-    <button class="ctrl icon-btn" id="refreshBtn" aria-label="About data refresh" data-tip="Static snapshot — data refreshes when capture scripts re-run"><span data-icon="refresh-cw"></span></button>
-    <button class="ctrl icon-btn" id="exportBtn" aria-label="Export overview CSV" data-tip="Export overview as CSV"><span data-icon="download"></span></button>
-    <button class="ctrl icon-btn" id="settingsBtn" aria-label="Data &amp; method" data-tip="Data &amp; method"><span data-icon="settings"></span></button>
+    <button class="ctrl icon-btn" id="settingsBtn" aria-label="Data &amp; method" data-tip="Data &amp; method"><span data-icon="info"></span></button>
   </div>
 </header>
 
