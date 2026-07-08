@@ -141,7 +141,6 @@
   // removed rather than left showing an outdated claim; fresh ones are pending a
   // data-driven pass once all 16 categories are on the new research.
   const actions = {
-    accessories: [["Improve the car-neck-rest listing content", "Frido sits mid-pack (#8 Amazon, #9 Flipkart) — review price, hero image and title against the leaders on this keyword."]],
     "maternity-baby-care": [["Close the review gap on pregnancy pillow", "Frido ranks #6; leaders carry a larger review base. A post-purchase review prompt is the fastest lever."]],
     masks: [["Decide: invest or retire the mask line", "Frido has 3+ real mask/eye-mask listings, none with a Bestseller badge and all under 65 reviews — low velocity suggests either a keyword/content fix or deprioritizing the line."]],
     socks: [["Scale the Five Toe Socks ad", "The only Frido sock SKU carries a Bestseller badge via a sponsored ad, but has just 14 reviews and no generic-keyword visibility — increase ad spend and seed reviews before pulling back."]],

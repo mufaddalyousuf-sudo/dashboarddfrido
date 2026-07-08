@@ -23934,6 +23934,862 @@
    },
    "status": "listed",
    "capturedAt": "2026-07-08"
+  },
+  {
+   "category": "accessories",
+   "categoryName": "Accessories",
+   "sku": "Wedge Neck Rest Pillow",
+   "keyword": "Frido Wedge Neck Rest Pillow",
+   "amazon": {
+    "fetchOk": true,
+    "organic": [
+     {
+      "asin": "B0FD3HXT7T",
+      "badge": "Amazon's Choice",
+      "price": "799",
+      "rating": "4.2",
+      "reviews": "3,012",
+      "title": "Frido Wedge Neck Rest Pillow | Multipurpose Neck Pillow | Memory Foam Roll with Adjustable Strap | Relieves Neck, Knee & Lumbar Pressure | Compatible with Wedge",
+      "rank": 1,
+      "isFridoBrand": true
+     },
+     {
+      "asin": "B0FD3L5WN1",
+      "badge": "Bestseller",
+      "price": "2,699",
+      "rating": "4.2",
+      "reviews": "3,012",
+      "title": "Frido Wedge Plus Cushion with Neck Rest Pillow Combo | Dual Foam Wedge Cushion with Adjustable Roll | Back, Neck, Knee & Leg Support | for Post-Surgery, Pregnan",
+      "rank": 2
+     },
+     {
+      "asin": "B0CN4CFGQQ",
+      "badge": null,
+      "price": "1,399",
+      "rating": "4.0",
+      "reviews": "46",
+      "title": "Dr Trust USA Orthopedic Wedge Back Neck Rest Pillow-365, Bed Sitting & Sleeping Memory Foam Support, Cervical Pain Relief, Coccyx, Spine, Pregnancy, Acid Reflux",
+      "rank": 3
+     },
+     {
+      "asin": "B0C5FD6BPD",
+      "badge": "Bestseller",
+      "price": "1,490",
+      "rating": "4.1",
+      "reviews": "3,206",
+      "title": "FOVERA Memory Foam Wedge Pillow | 2 Years Warranty | Bed Wedge Cushion, Orthopedic Back Support for Bed | for Acid Reflux, Snoring, GERD, Leg Elevation (Dark Gr",
+      "rank": 4
+     },
+     {
+      "asin": "B0DBZMP1Z6",
+      "badge": null,
+      "price": "2,589",
+      "rating": "4.1",
+      "reviews": "3,948",
+      "title": "Amazon Basics Adjustable Wedge Pillow with Memory Foam & Head Rest | Multi-Purpose Back & Leg Support Cushion for Bed & Sofa | Soft Removable Washable Cover | D",
+      "rank": 5
+     },
+     {
+      "asin": "B0C7BM7L45",
+      "badge": "Bestseller",
+      "price": "1,329",
+      "rating": "4.3",
+      "reviews": "1,763",
+      "title": "Amazon Basics Memory Foam Orthopedic Wedge Pillow |for Neck, Back Support, Cervical Pain, Acid Reflux, Snoring, GERD, Leg Elevation, Pregnancy -Ultra Soft Washa",
+      "rank": 6
+     },
+     {
+      "asin": "B0BRL263VB",
+      "badge": null,
+      "price": "2,999",
+      "rating": "4.1",
+      "reviews": "1,009",
+      "title": "FOVERA Wedge Pillow Memory Foam with Head Rest, Adjustable Wedge Cushion for Back Support, Acid Reflux, Leg Elevator, Pregnancy, GERD, Snoring (Dark Grey, 22 x ",
+      "rank": 7
+     },
+     {
+      "asin": "B0D9TG3TLV",
+      "badge": null,
+      "price": "2,295",
+      "rating": "4.3",
+      "reviews": "45",
+      "title": "CUSHIO Adjustable Memory Foam Wedge Pillow with Headrest for Back Support, 12-in-1 Versatile Design for Sleeping, Leg Elevation with Removable Cover (Grey)",
+      "rank": 8
+     },
+     {
+      "asin": "B0CYCGPGR3",
+      "badge": null,
+      "price": "2,819",
+      "rating": "4.0",
+      "reviews": "457",
+      "title": "The White Willow Adjustable Wedge Pillow with Headrest – Memory Foam & HR Foam for Back Support, Acid Reflux & Leg Elevation – Standard Size – 12\" H – Grey",
+      "rank": 9
+     },
+     {
+      "asin": "B0GC5FZQV1",
+      "badge": null,
+      "price": "1,324",
+      "rating": "2.9",
+      "reviews": "8",
+      "title": "Carefoam Orthopedic Wedge Pillow with Headrest for Sleeping, Reading & Acid Reflux Relief | Premium Memory Foam Bed Cushion | Ideal for Back Support, Leg Elevat",
+      "rank": 10
+     }
+    ],
+    "sponsored": [
+     {
+      "asin": "B0D3XX9TJZ",
+      "badge": null,
+      "price": "1,799",
+      "rating": "4.2",
+      "reviews": "3,012",
+      "title": "Frido Wedge Plus Cushion for Sleeping, Sitting & Acid Reflux Relief | Memory Foam Pillow | High Resillience Foam | Orthopedic Wedge Cushion for Leg Elevator | P",
+      "slot": 1
+     },
+     {
+      "asin": "B0DMKDY515",
+      "badge": null,
+      "price": "1,619",
+      "rating": "4.1",
+      "reviews": "1,120",
+      "title": "Frido Travel Neck Pillow, 100% Hi-Per Foam, Lightweight Neck Support Pillow, Neck Pillow for Flight Travel, Memory Foam Car Neck Pillow, Adjustable Velcro Strap",
+      "slot": 2
+     },
+     {
+      "asin": "B0D4ZFJFD5",
+      "badge": null,
+      "price": "1,199",
+      "rating": "4.3",
+      "reviews": "646",
+      "title": "CareFoam Memory Foam Wedge Pillow for Neck & Back Pain Relief (Wedge Pillow, Greyone Size)",
+      "slot": 3
+     },
+     {
+      "asin": "B0F8B9X5NT",
+      "badge": null,
+      "price": "2,999",
+      "rating": "3.5",
+      "reviews": "3",
+      "title": "Carefoam Wedge Pillow for Back Support, Adjustable with Headrest Memory Foam Bed Wedge Pillow for Sleeping, Acid Reflux, GERD, Snoring, Pregnancy, Post-Surgical",
+      "slot": 4
+     },
+     {
+      "asin": "B0FD3KBT6Q",
+      "badge": "Bestseller",
+      "price": "794",
+      "rating": "4.2",
+      "reviews": "3,012",
+      "title": "Frido Wedge Neck Rest Pillow | Multipurpose Neck Pillow | Memory Foam Roll with Adjustable Strap | Relieves Neck, Knee & Lumbar Pressure | Compatible with Wedge",
+      "slot": 5,
+      "isFridoBrand": true
+     },
+     {
+      "asin": "B0C7BM7L45",
+      "badge": "Bestseller",
+      "price": "1,329",
+      "rating": "4.3",
+      "reviews": "1,763",
+      "title": "Amazon Basics Memory Foam Orthopedic Wedge Pillow |for Neck, Back Support, Cervical Pain, Acid Reflux, Snoring, GERD, Leg Elevation, Pregnancy -Ultra Soft Washa",
+      "slot": 6
+     },
+     {
+      "asin": "B0DWK94V14",
+      "badge": null,
+      "price": "2,999",
+      "rating": "3.9",
+      "reviews": "11",
+      "title": "CareFoam Memory Foam Wedge Pillow for Neck & Back Pain Relief (Grey Jacquard, Adjustable Wedge Pillow with Headrest)",
+      "slot": 7
+     },
+     {
+      "asin": "B0DBZMTPKJ",
+      "badge": null,
+      "price": "2,589",
+      "rating": "4.1",
+      "reviews": "3,948",
+      "title": "Amazon Basics Adjustable Wedge Pillow with Memory Foam & Head Rest | Multi-Purpose Back & Leg Support Cushion for Bed & Sofa | Soft Removable Washable Cover | D",
+      "slot": 8
+     },
+     {
+      "asin": "B0CJ2M4CLG",
+      "badge": null,
+      "price": "1,399",
+      "rating": "4.1",
+      "reviews": "534",
+      "title": "Sleepsia Wedge Pillows for Bed | 1 Year Warranty | Back Rest for Bed and Back Support Pillow for Bed, Orthopedic Memory Foam Wedge Cushion for Back Pain Relief,",
+      "slot": 9
+     },
+     {
+      "asin": "B0D9SNGD2X",
+      "badge": null,
+      "price": "2,999",
+      "rating": "4.1",
+      "reviews": "14",
+      "title": "CareFoam Wedge Pillow with Memory Foam Top & Head Rest, Adjustable Wedge Cushion for Sleeping & Acid Reflux, Heartburn, GERD | Premium Velvet Cover (Adjustable ",
+      "slot": 10
+     }
+    ],
+    "fridoOrganicRank": 1,
+    "fridoSponsoredSlot": 5,
+    "fridoBadge": "Amazon's Choice"
+   },
+   "flipkart": {
+    "fetchOk": true,
+    "results": [
+     {
+      "pos": 1,
+      "title": "AYKA Microfibre Sleeping Pillow Pack of 1 Solid Soft Microfiber Pillow for Sleeping",
+      "price": null,
+      "rating": 4.3,
+      "ratings": 148,
+      "isFrido": false
+     },
+     {
+      "pos": 2,
+      "title": "AYKA Microfibre Sleeping Pillow Pack of 1 Solid Soft Microfiber Pillows",
+      "price": null,
+      "rating": 4.3,
+      "ratings": 2410,
+      "isFrido": false
+     },
+     {
+      "pos": 3,
+      "title": "AYKA Polyester Fibre, Cotton Sleeping Pillow Pack of 1 Geometric Cord Pillow",
+      "price": null,
+      "rating": 4.3,
+      "ratings": 55,
+      "isFrido": false
+     },
+     {
+      "pos": 4,
+      "title": "AYKA Microfibre Sleeping Pillow Pack of 2 Solid Soft Microfiber Pillows",
+      "price": null,
+      "rating": 4.3,
+      "ratings": 147,
+      "isFrido": false
+     },
+     {
+      "pos": 5,
+      "title": "Frido Memory Foam Cushion Pack of 2 Solid Wedge Plus with Neck Rest Pillow | Back, Neck, Knee & Leg Support",
+      "price": null,
+      "rating": 4,
+      "ratings": 23,
+      "isFrido": true
+     },
+     {
+      "pos": 6,
+      "title": "Frido Memory Foam Cushion Pack of 1 Solid Wedge Plus Cushion for Sleeping, Acid Reflux Relief, Leg Elevator, Pregnancy",
+      "price": null,
+      "rating": 4.2,
+      "ratings": 217,
+      "isFrido": true
+     },
+     {
+      "pos": 7,
+      "title": "Frido Grey Memory Foam Car Pillow Cushion for Universal For Car",
+      "price": null,
+      "rating": 4.1,
+      "ratings": 523,
+      "isFrido": true
+     },
+     {
+      "pos": 8,
+      "title": "Frido Black Memory Foam Car Pillow Cushion for Universal For Car",
+      "price": null,
+      "rating": 4.1,
+      "ratings": 523,
+      "isFrido": true
+     },
+     {
+      "pos": 9,
+      "title": "Frido Memory Foam Orthopaedic Pillow Pack of 1 Solid Ultimate Deep Sleep Pillow for Neck & Shoulder Pain Relief, King Size 5 Inch",
+      "price": null,
+      "rating": 4.1,
+      "ratings": 805,
+      "isFrido": true
+     }
+    ],
+    "fridoRank": 5
+   },
+   "status": "listed",
+   "capturedAt": "2026-07-08"
+  },
+  {
+   "category": "accessories",
+   "categoryName": "Accessories",
+   "sku": "Anti-Slip Bath Mat",
+   "keyword": "Frido Anti-Slip Bath Mat",
+   "amazon": {
+    "fetchOk": true,
+    "organic": [
+     {
+      "asin": "B0GZW44FWH",
+      "badge": null,
+      "price": "1,699",
+      "rating": "4.4",
+      "reviews": "37",
+      "title": "Frido Anti-Slip Bath Mat with Dense Suction Cups | Quick-Drain Design for Faster Drying | Helps Prevent Mould Buildup | PVC Shower Mat for Wet Bathroom Floors |",
+      "rank": 1,
+      "isFridoBrand": true
+     },
+     {
+      "asin": "B0GZW1W7DT",
+      "badge": null,
+      "price": "1,699",
+      "rating": "4.4",
+      "reviews": "37",
+      "title": "Frido Anti-Slip Bath Mat with Dense Suction Cups | Quick-Drain Design for Faster Drying | Helps Prevent Mould Buildup | PVC Shower Mat for Wet Bathroom Floors |",
+      "rank": 2
+     },
+     {
+      "asin": "B0GTW57FN7",
+      "badge": null,
+      "price": "1,599",
+      "rating": "4.4",
+      "reviews": "70",
+      "title": "Frido Hot & Cold Therapy Cap | 360° Full Head Coverage | Reusable Cooling & Warming Cap with Gentle Compression | Purple",
+      "rank": 3
+     },
+     {
+      "asin": "B082P17SP5",
+      "badge": null,
+      "price": "1,297",
+      "rating": "4.4",
+      "reviews": "611",
+      "title": "Eurotex Rectangular Shower Mat Non Slip for Bathroom, Anti Skid Bathtub Mat (Plastic Stripped- Rubber Base, 46cm x 61cm)- Beige",
+      "rank": 4
+     },
+     {
+      "asin": "B0G1Y6J2T8",
+      "badge": null,
+      "price": "779",
+      "rating": "4.0",
+      "reviews": "45",
+      "title": "HOMEZE TPE Anti-Slip Shower Mat – Elevate Your Bathing Experience | Strong Suction Grips & Drain Holes | Anti-Skid Bath Mat for Elderly | Premium Bathtub & Show",
+      "rank": 5
+     },
+     {
+      "asin": "B0CXV37WRG",
+      "badge": null,
+      "price": "799",
+      "rating": "4.1",
+      "reviews": "283",
+      "title": "RichAxis PVC Anti Skid Mat For Bathroom Anti Slip Bathroom Mat Shower Area Anti Skid Mats With Suction Cups And Drain Holes For Bathtub Floor Mat (68X38 Cm,Grey",
+      "rank": 6
+     },
+     {
+      "asin": "B0FTVLFTC3",
+      "badge": null,
+      "price": "449",
+      "rating": "4.0",
+      "reviews": "1,105",
+      "title": "VHKD 2PCS PVC Bathroom mats Anti Slip Bathroom mat Non Slip Bath Anti Skid Doormat Rectangle (Grey+Blue)[70x35cm]",
+      "rank": 7
+     },
+     {
+      "asin": "B0FKTF1VBC",
+      "badge": null,
+      "price": "949",
+      "rating": "4.1",
+      "reviews": "147",
+      "title": "HomeCloud Non-Slip Shower Mat for Bathroom & Bathtub – Anti-Skid Mat with Strong Suction Cups, Drainage Holes & Foot Massage Surface-Exfoliating Textured Bath M",
+      "rank": 8
+     },
+     {
+      "asin": "B0GJ4K8XPZ",
+      "badge": null,
+      "price": "899",
+      "rating": "4.0",
+      "reviews": "24",
+      "title": "HomeCloud Non-Slip Shower Mat for Bathtub, Anti-Slip Bath Mat with Suction Cups, Drainage Holes & Foot Massage Exfoliating Surface (D_Grey)",
+      "rank": 9
+     },
+     {
+      "asin": "B0F2MG5L71",
+      "badge": null,
+      "price": "238",
+      "rating": "3.9",
+      "reviews": "3",
+      "title": "VATTU PVC Silicone Shower Bath Mat Anti Slip Bathtub Bathroom Met with Suction Cup Drain Hole & Anti Skid Floormat for Toilet Kitchen Bathroom 70 X 35 CM (Grey ",
+      "rank": 10
+     }
+    ],
+    "sponsored": [
+     {
+      "asin": "B0DTKQGBTK",
+      "badge": null,
+      "price": "838",
+      "rating": "4.3",
+      "reviews": "7",
+      "title": "BEAR GRIPS BubbleGuard Anti-Slip Bathroom Shower mat with Anti-Skid Suction Cups and Foot Scrub | TPE Material | Large Size 80 X 50 Cm| Sky Blue",
+      "slot": 1
+     },
+     {
+      "asin": "B0DTKR132F",
+      "badge": null,
+      "price": "838",
+      "rating": "3.7",
+      "reviews": "7",
+      "title": "BEAR GRIPS BubbleGuard Anti-Slip Bathroom Shower mat with Anti-Skid Suction Cups and Foot Scrub | TPE Material | Large Size 80 X 50 Cm| Stone Grey",
+      "slot": 2
+     },
+     {
+      "asin": "B0CL9TRN8D",
+      "badge": null,
+      "price": "1,163",
+      "rating": "3.9",
+      "reviews": "1,114",
+      "title": "The Artment your artistic apartment TerraDry Stone Bathroom Diatomaceous Earth Shower Mat, Non-Slip Super Absorbent Quick Drying Bathroom Mat | Natural, Easy to",
+      "slot": 3
+     },
+     {
+      "asin": "B0B6W7M12N",
+      "badge": null,
+      "price": "1,195",
+      "rating": "4.4",
+      "reviews": "63",
+      "title": "Eurotex Anti Skid Mat for Bathroom Floor, Bathroom Anti Skid Mats for Bathing Area, Kitchen, Pool Wet Area, Non Slip (43x61 cm, Beige)",
+      "slot": 4
+     },
+     {
+      "asin": "B0GZVW61S8",
+      "badge": null,
+      "price": "838",
+      "rating": "4.4",
+      "reviews": "37",
+      "title": "Frido Anti-Slip Bath Mat With Dense Suction Cups | Quick-Drain Design for Faster Drying | Helps Prevent Mould Buildup | PVC Shower Mat For Wet Bathroom Floors |",
+      "slot": 5,
+      "isFridoBrand": true
+     },
+     {
+      "asin": "B09C6DWSLT",
+      "badge": null,
+      "price": "499",
+      "rating": "4.3",
+      "reviews": "5,733",
+      "title": "ishro home Anti Skid & Multipurpose Rectangular Rubihr/Bathroom Mat/Shower Mat/Carpet/Rugs/Rainmat/Swimming Pool Mat||2X3 Feet",
+      "slot": 6
+     },
+     {
+      "asin": "B0FTGCX89P",
+      "badge": null,
+      "price": "749",
+      "rating": "4.0",
+      "reviews": "1,043",
+      "title": "LUXE HOME INTERNATIONAL Polyester Contour Bath Mat – Washable, Anti Skid, Water Absorbent Contour Mats for Bathroom, Toilet, Wash Basin & Bathroom Contour Mat S",
+      "slot": 7
+     },
+     {
+      "asin": "B082P17SP5",
+      "badge": null,
+      "price": "1,297",
+      "rating": "4.4",
+      "reviews": "611",
+      "title": "Eurotex Rectangular Shower Mat Non Slip for Bathroom, Anti Skid Bathtub Mat (Plastic Stripped- Rubber Base, 46cm x 61cm)- Beige",
+      "slot": 8
+     },
+     {
+      "asin": "B076ZRSLDJ",
+      "badge": null,
+      "price": "319",
+      "rating": "4.0",
+      "reviews": "5,223",
+      "title": "Amazon Brand - Solimo Premium Anti-Slip Microfibre Bathmat - 60cm x 40cm, Light Taupe",
+      "slot": 9
+     },
+     {
+      "asin": "B0G449MNQ5",
+      "badge": null,
+      "price": "659",
+      "rating": "4.1",
+      "reviews": "38",
+      "title": "enera Stella Microfibre Bathmat, Soft & Absorbent High GSM, Non-Slip Latex Backing, Quick Dry, Washable Multipurpose Floormat for Bathroom, Bedroom & Home (Beig",
+      "slot": 10
+     }
+    ],
+    "fridoOrganicRank": 1,
+    "fridoSponsoredSlot": 5,
+    "fridoBadge": null
+   },
+   "flipkart": {
+    "fetchOk": true,
+    "results": [
+     {
+      "pos": 1,
+      "title": "Sunvibe Rubber Bathroom Mat",
+      "price": null,
+      "rating": 4.2,
+      "ratings": 3136,
+      "isFrido": false
+     },
+     {
+      "pos": 2,
+      "title": "Frido PVC (Polyvinyl Chloride) Bathroom Mat",
+      "price": null,
+      "rating": 0,
+      "ratings": 0,
+      "isFrido": true
+     },
+     {
+      "pos": 3,
+      "title": "Frido PP (Polypropylene) Bathroom Mat",
+      "price": null,
+      "rating": 0,
+      "ratings": 0,
+      "isFrido": true
+     },
+     {
+      "pos": 4,
+      "title": "DALUCI Rubber Bathroom Mat",
+      "price": null,
+      "rating": 4.1,
+      "ratings": 4816,
+      "isFrido": false
+     },
+     {
+      "pos": 5,
+      "title": "Helu International PVC (Polyvinyl Chloride) Bathroom Mat",
+      "price": null,
+      "rating": 0,
+      "ratings": 0,
+      "isFrido": false
+     },
+     {
+      "pos": 6,
+      "title": "DALUCI Rubber Floor Mat",
+      "price": null,
+      "rating": 4,
+      "ratings": 367,
+      "isFrido": false
+     },
+     {
+      "pos": 7,
+      "title": "DestinyHome Rubber Bathroom Mat",
+      "price": null,
+      "rating": 0,
+      "ratings": 0,
+      "isFrido": false
+     }
+    ],
+    "fridoRank": 2
+   },
+   "status": "listed",
+   "capturedAt": "2026-07-08"
+  },
+  {
+   "category": "accessories",
+   "categoryName": "Accessories",
+   "sku": "Wallet",
+   "keyword": "Frido Wallet",
+   "amazon": {
+    "fetchOk": true,
+    "organic": [
+     {
+      "asin": "B0D7TD4BGJ",
+      "badge": null,
+      "price": "447",
+      "rating": "4.0",
+      "reviews": "801",
+      "title": "Aluminium Men and Women Pop Up Slim Card Wallet RFID Blocking with Money Pocket | Minimalist Credit Card Holder | Holds up to 8 Cards (Black)",
+      "rank": 1
+     },
+     {
+      "asin": "B0DM2C6SL3",
+      "badge": null,
+      "price": "447",
+      "rating": "3.7",
+      "reviews": "1,964",
+      "title": "Men's Genuine Leather Wallet | RFID Blocking Aluminum Automatic Pop Up Credit Card Holder Case | Holds up to 9 Cards (24 Carbon Black)",
+      "rank": 2
+     },
+     {
+      "asin": "B075F45CGB",
+      "badge": null,
+      "price": "219",
+      "rating": "4.1",
+      "reviews": "14,004",
+      "title": "6 Slots RFID Protected Metal Credit Card Holder Wallet for Men & Women(Shiny Black,9.5 x 6.5 x 1.3 cm)",
+      "rank": 3
+     },
+     {
+      "asin": "B0B6Q5JKF3",
+      "badge": null,
+      "price": "447",
+      "rating": "4.1",
+      "reviews": "1,226",
+      "title": "Unisex Pop up Wallet Credit Card Holder with Extra Leather Slots RFID Blocking Slim Metal Card Case | 9 Card Slots (Black)",
+      "rank": 4
+     },
+     {
+      "asin": "B0GSV9GL7T",
+      "badge": null,
+      "price": "274",
+      "rating": "4.1",
+      "reviews": "72",
+      "title": "Card Holder RFID Blocking Aluminum Pop Up Smart Credit/Debit ATM Wallet for Men's and Women's Corporate Gift for Employees Black (Minimalist)",
+      "rank": 5
+     },
+     {
+      "asin": "B0H1NS7Z92",
+      "badge": null,
+      "price": "999",
+      "rating": "4.7",
+      "reviews": "16",
+      "title": "Slim Leather Card Holder Wallet, Black, RFID Blocking, Zipper Pocket, Pop-Up Card Ejector (TAN)",
+      "rank": 6
+     },
+     {
+      "asin": "B0GF2P3H5G",
+      "badge": null,
+      "price": "1,899",
+      "rating": "4.2",
+      "reviews": "90",
+      "title": "Stash Bifold Wallet for Men | Monostriped | Genuine Leather | RFID Protected | Holds Up to 12 Cards | Double Currency Compartment | Money Moves (Black)",
+      "rank": 7
+     },
+     {
+      "asin": "B0H1NM4KSW",
+      "badge": null,
+      "price": "999",
+      "rating": "4.7",
+      "reviews": "16",
+      "title": "Slim Leather Card Holder Wallet, Black, RFID Blocking, Zipper Pocket, Pop-Up Card Ejector (Brown)",
+      "rank": 8
+     },
+     {
+      "asin": "B0DR88GGBP",
+      "badge": null,
+      "price": "699",
+      "rating": "4.0",
+      "reviews": "312",
+      "title": "Slim Aluminum Card Holder Wallet for Men, Durable Expandable Backplate, RFID Blocking Minimalist Metal Pop Up Wallet, Holds 10 to 12 Cards Plus Cash (Black)",
+      "rank": 9
+     },
+     {
+      "asin": "B091P47CQ5",
+      "badge": null,
+      "price": "249",
+      "rating": "4.2",
+      "reviews": "121",
+      "title": "Tanker Series Nylon Wallet for Men Women (Black) (Jet Black)",
+      "rank": 10
+     }
+    ],
+    "sponsored": [
+     {
+      "asin": "B0GRBDTQHL",
+      "badge": null,
+      "price": "1,499",
+      "rating": "4.4",
+      "reviews": "22",
+      "title": "SlideX Neo RFID-Protected Pop-Up Card Holder Wallet for Men | Minimalist Leather Smart Wallet with Quick Access Ejector | Compact Dual-Color Card Case | Holds 6",
+      "slot": 1
+     },
+     {
+      "asin": "B0GF2P3H5G",
+      "badge": null,
+      "price": "1,899",
+      "rating": "4.2",
+      "reviews": "90",
+      "title": "Stash Bifold Wallet for Men | Monostriped | Genuine Leather | RFID Protected | Holds Up to 12 Cards | Double Currency Compartment | Money Moves (Black)",
+      "slot": 2
+     },
+     {
+      "asin": "B0D4M22VSZ",
+      "badge": null,
+      "price": "999",
+      "rating": "4.0",
+      "reviews": "347",
+      "title": "Maverick RFID Protected Vegan Leather Wallet Cardholder | Pop-up Cardholder | Scan Proof Wallets for Men | Aluminium Case | Up to 8 Cards | Credit & Debit Cardh",
+      "slot": 3
+     },
+     {
+      "asin": "B0BYXYZHJD",
+      "badge": null,
+      "price": "889",
+      "rating": "4.0",
+      "reviews": "498",
+      "title": "Personalised Leather Gift Set for Men | Wallet, Reversible Belt, Engraved Pen & Keychain Combo with Name | Premium Gift Box for Birthday & Corporate Gifts (PN03",
+      "slot": 4
+     },
+     {
+      "asin": "B07SCQHFKR",
+      "badge": null,
+      "price": "449",
+      "rating": "4.2",
+      "reviews": "6,683",
+      "title": "Eddy Black/Orange Money Clip Leather Wallet for Men - Minimal Leather Wallet for Men",
+      "slot": 5
+     },
+     {
+      "asin": "B092JJHMYY",
+      "badge": null,
+      "price": "279",
+      "rating": "4.2",
+      "reviews": "1,079",
+      "title": "New Imported RFID Protected 9 Slot Men's Wallets Genuine PU Leather Credit Debit ATM Business Card Holder Protector with Zipper Case Money Coin Purse for Men, W",
+      "slot": 6
+     },
+     {
+      "asin": "B0G52H6C8T",
+      "badge": null,
+      "price": "2,241",
+      "rating": "5.0",
+      "reviews": "2",
+      "title": "Slim Line Tri Fold Wallet for Man | Premium Leather RFID Protection | Wallet for Men Leather Original (Tan)",
+      "slot": 7
+     },
+     {
+      "asin": "B09W9MQH8L",
+      "badge": null,
+      "price": "2,151",
+      "rating": "4.3",
+      "reviews": "328",
+      "title": "Wallet for Man, Pure Nappa Wallet for Men Leather Original, Stylish, Certified RFID Protected Slim Purse for Gents with Eight Card Pockets",
+      "slot": 8
+     },
+     {
+      "asin": "B08KT71FKZ",
+      "badge": null,
+      "price": "609",
+      "rating": "4.2",
+      "reviews": "403",
+      "title": "Men's Genuine Leather Wallet Keyring Combo, Valentine's Gift for Boyfriend and Husband, Birthday Gift for Boyfriend, Leather Wallet & Keyring Combo, Brown",
+      "slot": 9
+     },
+     {
+      "asin": "B0CHJYNF75",
+      "badge": null,
+      "price": "2,035",
+      "rating": "4.1",
+      "reviews": "410",
+      "title": "Slim Bifold Wallet for Men | RFID Blocking Faux Leather Wallet | Minimalist Mens Wallet with 6 Card Slots & 2 Hidden Cash Pockets | Premium Bifold Card Holder P",
+      "slot": 10
+     }
+    ],
+    "fridoOrganicRank": null,
+    "fridoSponsoredSlot": null,
+    "fridoBadge": null
+   },
+   "flipkart": {
+    "fetchOk": true,
+    "results": [
+     {
+      "pos": 1,
+      "title": "Baben Free Size Posture Corrector For Men And Women Back / Lumbar Support",
+      "price": null,
+      "rating": 4.1,
+      "ratings": 377,
+      "isFrido": false
+     },
+     {
+      "pos": 2,
+      "title": "Baben Posture corrector belt for men and women for back pain Posture Corrector Posture Corrector",
+      "price": null,
+      "rating": 4.2,
+      "ratings": 74,
+      "isFrido": false
+     },
+     {
+      "pos": 3,
+      "title": "Baben Free Size Sciatica Pain Relief Belt – Adjustable Lower Back & Hip Support Abdominal Belt",
+      "price": null,
+      "rating": 5,
+      "ratings": 21,
+      "isFrido": false
+     },
+     {
+      "pos": 4,
+      "title": "Baben 3 in 1 Postpartum Support - Recovery Belly Belt Free Size Abdominal Support Abdominal Belt",
+      "price": null,
+      "rating": 0,
+      "ratings": null,
+      "isFrido": false
+     },
+     {
+      "pos": 5,
+      "title": "Baben Posture Corrector Belt for Men & Women Back Support Brace Shoulder Pain Relief Posture Corrector",
+      "price": null,
+      "rating": 3.5,
+      "ratings": 4,
+      "isFrido": false
+     },
+     {
+      "pos": 6,
+      "title": "RWIITAMRIT Men Brown Genuine Leather Wallet",
+      "price": null,
+      "rating": 0,
+      "ratings": 0,
+      "isFrido": false
+     },
+     {
+      "pos": 7,
+      "title": "eXcorio Men Casual, Trendy Black Genuine Leather Wallet",
+      "price": null,
+      "rating": 4.3,
+      "ratings": 23,
+      "isFrido": false
+     },
+     {
+      "pos": 8,
+      "title": "Wildedge Men Black Artificial Leather Wallet",
+      "price": null,
+      "rating": 4.4,
+      "ratings": 63,
+      "isFrido": false
+     },
+     {
+      "pos": 9,
+      "title": "Amor Fashido Men Casual Black Genuine Leather Wallet",
+      "price": null,
+      "rating": 0,
+      "ratings": 0,
+      "isFrido": false
+     },
+     {
+      "pos": 10,
+      "title": "URBAN FOREST Men Brown Genuine Leather Wallet",
+      "price": null,
+      "rating": 4.2,
+      "ratings": 1325,
+      "isFrido": false
+     },
+     {
+      "pos": 11,
+      "title": "STORITE Men & Women Casual, Formal, Travel Tan Artificial Leather Card Holder",
+      "price": null,
+      "rating": 4.2,
+      "ratings": 1210,
+      "isFrido": false
+     },
+     {
+      "pos": 12,
+      "title": "Cuerosmith Men Formal, Casual, Evening/Party, Travel Black Genuine Leather Wallet",
+      "price": null,
+      "rating": 0,
+      "ratings": 0,
+      "isFrido": false
+     },
+     {
+      "pos": 13,
+      "title": "Amor Fashido Men Formal, Casual Brown Genuine Leather Wallet",
+      "price": null,
+      "rating": 0,
+      "ratings": 0,
+      "isFrido": false
+     },
+     {
+      "pos": 14,
+      "title": "DOECRAFT Men Casual, Formal Black Genuine Leather Wallet",
+      "price": null,
+      "rating": 4,
+      "ratings": 6,
+      "isFrido": false
+     }
+    ],
+    "fridoRank": null
+   },
+   "status": "not-listed",
+   "capturedAt": "2026-07-08"
   }
  ]
 }
