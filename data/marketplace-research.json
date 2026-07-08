@@ -94,6 +94,35 @@
    },
    "status": "listed",
    "capturedAt": "2026-07-08"
+  },
+  {
+   "category": "workspace",
+   "categoryName": "Workspace",
+   "sku": "Portable Standing Desk",
+   "keyword": "Frido Portable Standing Desk",
+   "amazon": {
+    "fetchOk": true,
+    "rank": 1,
+    "sponsoredSlot": 7,
+    "asin": "B0FCMKYWPH",
+    "price": "9,999",
+    "rating": "4.3",
+    "reviews": "124",
+    "bestseller": false,
+    "badge": "Amazon's Choice",
+    "topBestsellerRival": null,
+    "resultCount": 60
+   },
+   "flipkart": {
+    "fetchOk": true,
+    "rank": 3,
+    "price": null,
+    "rating": 5,
+    "reviews": 1,
+    "resultCount": 9
+   },
+   "status": "listed",
+   "capturedAt": "2026-07-08"
   }
  ]
 }
