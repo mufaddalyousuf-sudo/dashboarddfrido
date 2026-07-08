@@ -468,7 +468,7 @@
       </div>
 
       <details class="more glass glass-block">
-        <summary>${I("chevron-down")}More data: keyword breakdown, full rankings, pricing<span class="chev">${I("chevron-down")}</span></summary>
+        <summary>${I("chart-bar")}<span>More data: keyword breakdown, full rankings, pricing</span><span class="chev">${I("chevron-down")}</span></summary>
         <div class="inner">
           <h4>Keyword breakdown</h4>
           <div class="comp-list-head t-label" style="grid-template-columns:1.4fr .8fr .6fr .8fr"><span>Keyword</span><span class="num">Amazon</span><span class="num">Ad slot</span><span class="num">Flipkart</span></div>

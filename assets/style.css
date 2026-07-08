@@ -303,9 +303,19 @@ main { position: relative; z-index: 1; max-width: 1280px; margin: 0 auto; paddin
 .action p { font-size: 12.5px; color: var(--ink-2); }
 
 details.more { padding: 4px 0; }
-details.more > summary { list-style: none; cursor: pointer; padding: 12px 4px; display: flex; align-items: center; gap: 8px; color: var(--muted); font-size: 13px; font-weight: 550; }
+details.more > summary {
+  list-style: none; cursor: pointer; display: flex; align-items: center; gap: 10px;
+  padding: 15px 18px; border-radius: 14px; font-size: 14.5px; font-weight: 700; color: var(--ink);
+  background: color-mix(in srgb, var(--yellow) 16%, transparent);
+  border: 1px solid color-mix(in srgb, var(--yellow) 34%, transparent);
+  transition: background .15s ease, transform .15s ease, box-shadow .15s ease;
+}
+details.more > summary:hover { background: color-mix(in srgb, var(--yellow) 26%, transparent); transform: translateY(-1px); box-shadow: var(--glass-shadow-hover); }
+details.more > summary .ic { color: var(--yellow-ink); flex: none; }
+:root[data-theme="dark"] details.more > summary .ic { color: var(--yellow); }
 details.more > summary::-webkit-details-marker { display: none; }
-details.more > summary .chev { margin-left: auto; transition: transform .2s; }
+details.more > summary .chev { margin-left: auto; color: var(--muted); transition: transform .2s; flex: none; }
+details.more[open] > summary { border-bottom-left-radius: 0; border-bottom-right-radius: 0; }
 details.more[open] > summary .chev { transform: rotate(180deg); }
 details.more .inner { padding: 8px 4px 10px; }
 details.more h4 { font-size: 11.5px; font-weight: 650; letter-spacing: .04em; text-transform: uppercase; color: var(--muted); margin: 22px 0 10px; }
