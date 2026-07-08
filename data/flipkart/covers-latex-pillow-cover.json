@@ -1,0 +1,85 @@
+{
+ "category": "covers-latex-pillow-cover",
+ "marketplace": "flipkart",
+ "keyword": "Frido Latex Pillow Cover",
+ "capturedAt": "2026-07-08",
+ "method": "Live scrape flipkart.com mobile search page 1 (__INITIAL_STATE__), query = exact SKU name",
+ "confidence": "Medium-High (live; sponsored flags not exposed on mobile)",
+ "fridoRank": 1,
+ "fridoPresent": true,
+ "results": [
+  {
+   "pos": 1,
+   "title": "Frido Latex Sleeping Pillow Pack of 2 Solid Latex Orthopaedic Pillow with Cooling Cover | 100% Natural Latex, Air Vent Holes",
+   "price": null,
+   "rating": 0,
+   "ratings": 0,
+   "isFrido": true
+  },
+  {
+   "pos": 2,
+   "title": "Frido Foam Orthopaedic Pillow Pack of 1 Solid High Density Foam Support Cushion",
+   "price": null,
+   "rating": 4.4,
+   "ratings": 31,
+   "isFrido": true
+  },
+  {
+   "pos": 3,
+   "title": "Frido Latex Sleeping Pillow Pack of 1 Solid Latex Orthopaedic Pillow with Cooling Cover | 100% Natural Latex, Air Vent Holes",
+   "price": null,
+   "rating": 0,
+   "ratings": 0,
+   "isFrido": true
+  },
+  {
+   "pos": 4,
+   "title": "Frido Blended Cushions & Pillows Cover",
+   "price": null,
+   "rating": 0,
+   "ratings": 0,
+   "isFrido": true
+  },
+  {
+   "pos": 5,
+   "title": "Sleepsia Memory Foam Orthopaedic Pillow Pack of 1 Solid Cool Gel Memory Foam Donut Pillow - Piles Pillow, Tailbone Pain Seat Support",
+   "price": null,
+   "rating": 4.2,
+   "ratings": 410,
+   "isFrido": false
+  },
+  {
+   "pos": 6,
+   "title": "Frido Memory Foam Orthopaedic Pillow Pack of 1 Solid Knee Pillow with Adjustable Strap | Leg Pillow for Side Sleepers | Melange Cover",
+   "price": null,
+   "rating": 3.5,
+   "ratings": 6,
+   "isFrido": true
+  },
+  {
+   "pos": 7,
+   "title": "Dr. Mashur Memory Foam Orthopaedic Pillow Pack of 1 Solid Orthopedic Comfort Plus, Body Support, Neck Care, Sleep Essentials",
+   "price": null,
+   "rating": 4.6,
+   "ratings": 167,
+   "isFrido": false
+  },
+  {
+   "pos": 8,
+   "title": "CUSHIO Memory Foam Sleeping Pillow Pack of 1 Polka Cervical Butterfly Pillow | Neck Pain Relief with Dual Height Design & Arm Rest",
+   "price": null,
+   "rating": 4,
+   "ratings": 5,
+   "isFrido": false
+  },
+  {
+   "pos": 9,
+   "title": "Frido Memory Foam Orthopaedic Pillow Pack of 1 Solid Ultimate Deep Sleep Pillow for Neck & Shoulder Pain Relief, King Size 5 Inch",
+   "price": null,
+   "rating": 4.1,
+   "ratings": 805,
+   "isFrido": true
+  }
+ ],
+ "notes": []
+}

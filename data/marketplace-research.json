@@ -15813,6 +15813,807 @@
    },
    "status": "listed",
    "capturedAt": "2026-07-08"
+  },
+  {
+   "category": "covers",
+   "categoryName": "Covers",
+   "sku": "Wedge Plus Cushion Cover",
+   "keyword": "Frido Wedge Plus Cushion Cover",
+   "amazon": {
+    "fetchOk": true,
+    "organic": [
+     {
+      "asin": "B0FG2NDX8Q",
+      "badge": null,
+      "price": "599",
+      "rating": "4.2",
+      "reviews": "3,012",
+      "title": "Frido Wedge Plus Cushion Cover | Ultrasoft, Breathable & Cool Pillow Cover | Aesthetic Pillow Cover for Home | Durable & Machine Washable | Black",
+      "rank": 1,
+      "isFridoBrand": true
+     },
+     {
+      "asin": "B0FH2LLXKB",
+      "badge": null,
+      "price": "449",
+      "rating": "5.0",
+      "reviews": "1",
+      "title": "NEERA Wedge Plus Orthopedic Pillow Cover – Premium Zippered Protector for Wedge Pillows – Soft | Breathable & Washable Fabric(White)",
+      "rank": 2
+     },
+     {
+      "asin": "B0FD3KBT6Q",
+      "badge": "Amazon's Choice",
+      "price": "794",
+      "rating": "4.2",
+      "reviews": "3,012",
+      "title": "Frido Wedge Neck Rest Pillow | Multipurpose Neck Pillow | Memory Foam Roll with Adjustable Strap | Relieves Neck, Knee & Lumbar Pressure | Compatible with Wedge",
+      "rank": 3
+     },
+     {
+      "asin": "B0D4ZFJFD5",
+      "badge": null,
+      "price": "1,199",
+      "rating": "4.3",
+      "reviews": "646",
+      "title": "CareFoam Memory Foam Wedge Pillow for Neck & Back Pain Relief (Wedge Pillow, Greyone Size)",
+      "rank": 4
+     },
+     {
+      "asin": "B0DBZMTPKJ",
+      "badge": null,
+      "price": "2,589",
+      "rating": "4.1",
+      "reviews": "3,948",
+      "title": "Amazon Basics Adjustable Wedge Pillow with Memory Foam & Head Rest | Multi-Purpose Back & Leg Support Cushion for Bed & Sofa | Soft Removable Washable Cover | D",
+      "rank": 5
+     },
+     {
+      "asin": "B0H2D2QLRF",
+      "badge": null,
+      "price": "4,291",
+      "rating": null,
+      "reviews": null,
+      "title": "Frido Ultimate Wedge Plus Cushion (White & Grey) with 3 Extra Velvet Cover (Brown, Pink & Green) | Comfortable Wedge Pillow for Better Sitting Posture, Back Sup",
+      "rank": 6
+     },
+     {
+      "asin": "B0CJ8VYBQP",
+      "badge": null,
+      "price": "2,999",
+      "rating": "4.0",
+      "reviews": "3,077",
+      "title": "Frido Ultimate Pro Seat Cushion & Posture Corrector Backrest Cushion Combo | Relieves Back | Coccyx Pain | Hi-Per Foam Tech for Orthopedic Support | for Long Si",
+      "rank": 7
+     },
+     {
+      "asin": "B0FW4VPBLS",
+      "badge": null,
+      "price": "1,189",
+      "rating": "4.4",
+      "reviews": "6",
+      "title": "WELLGIVER Wedge Plus Cushion for Sleeping & Acid Reflux Relief | Memory Foam Pillow | Orthopedic Wedge Cushion for Leg Elevator | Pregnancy | GERD | White & Bla",
+      "rank": 8
+     },
+     {
+      "asin": "B0C7BM7L45",
+      "badge": "Bestseller",
+      "price": "1,329",
+      "rating": "4.3",
+      "reviews": "1,763",
+      "title": "Amazon Basics Memory Foam Orthopedic Wedge Pillow |for Neck, Back Support, Cervical Pain, Acid Reflux, Snoring, GERD, Leg Elevation, Pregnancy -Ultra Soft Washa",
+      "rank": 9
+     },
+     {
+      "asin": "B0GC6Y2M26",
+      "badge": null,
+      "price": "1,099",
+      "rating": "3.8",
+      "reviews": "5",
+      "title": "Wedge Pillow with Memory Foam Layer & Velvet Jacket|Prevents Acid Reflux, Snoring, GERD|Leg Elevation to Help in Injury,Plantar Fasciitis and Pregnancy|Laptop B",
+      "rank": 10
+     }
+    ],
+    "sponsored": [
+     {
+      "asin": "B0FD3J1XGF",
+      "badge": "Bestseller",
+      "price": "2,699",
+      "rating": "4.2",
+      "reviews": "3,012",
+      "title": "Frido Wedge Plus Cushion with Neck Rest Pillow Combo | Dual Foam Wedge Cushion with Adjustable Roll | Back, Neck, Knee & Leg Support | for Post-Surgery, Pregnan",
+      "slot": 1,
+      "isFridoBrand": true
+     },
+     {
+      "asin": "B0FDBFW7PM",
+      "badge": null,
+      "price": "1,893",
+      "rating": "4.6",
+      "reviews": "272",
+      "title": "Frido Leg Elevation Wedge Pillow for Edema, Varicose Veins, Fracture | High Resilience Foam Cushion for Leg, Knee & Thigh Support | Back Pain & Swelling Relief ",
+      "slot": 2
+     },
+     {
+      "asin": "B0DMKCT2C5",
+      "badge": null,
+      "price": "1,694",
+      "rating": "4.1",
+      "reviews": "1,120",
+      "title": "Frido Travel Neck Pillow, 100% Hi-Per Foam, Lightweight Neck Support Pillow, Neck Pillow for Flight Travel, Memory Foam, Adjustable Velcro Straps, Free Travel P",
+      "slot": 3
+     },
+     {
+      "asin": "B0CPZQK127",
+      "badge": null,
+      "price": "1,239",
+      "rating": "4.2",
+      "reviews": "687",
+      "title": "Frido Ultimate Cervical Neck Pillow for Pain Relief Sleep | Improves Posture & Spinal Alignment | Neck Pain Relief Cushion with Ultra Responsive Memory Foam & S",
+      "slot": 4
+     },
+     {
+      "asin": "B0FD3L5WN1",
+      "badge": "Bestseller",
+      "price": "2,699",
+      "rating": "4.2",
+      "reviews": "3,012",
+      "title": "Frido Wedge Plus Cushion with Neck Rest Pillow Combo | Dual Foam Wedge Cushion with Adjustable Roll | Back, Neck, Knee & Leg Support | for Post-Surgery, Pregnan",
+      "slot": 5
+     },
+     {
+      "asin": "B0D9TG3TLV",
+      "badge": null,
+      "price": "2,295",
+      "rating": "4.3",
+      "reviews": "45",
+      "title": "CUSHIO Adjustable Memory Foam Wedge Pillow with Headrest for Back Support, 12-in-1 Versatile Design for Sleeping, Leg Elevation with Removable Cover (Grey)",
+      "slot": 6
+     },
+     {
+      "asin": "B0GW5ZLDRF",
+      "badge": null,
+      "price": "1,799",
+      "rating": null,
+      "reviews": null,
+      "title": "Starlon Wedge Pillow, Memory Foam, White, L51 X W50 X H25 cm | Back Support, Acid Reflux Relief, Snoring Relief, GERD Relief, Leg Elevation & Pregnancy",
+      "slot": 7
+     },
+     {
+      "asin": "B0GQ399LML",
+      "badge": null,
+      "price": "1,179",
+      "rating": "3.0",
+      "reviews": "3",
+      "title": "Restify Bed Wedge Pillow for Back Support – Triangle Cushion for Sleeping, Acid Reflux, Leg Elevation & Reading | High Density Foam Incline Pillow for Bed | Was",
+      "slot": 8
+     },
+     {
+      "asin": "B0FP98B58G",
+      "badge": null,
+      "price": "1,299",
+      "rating": "4.5",
+      "reviews": "23",
+      "title": "WELLGIVER Wedge Plus Cushion for Sleeping & Acid Reflux Relief | Memory Foam Pillow | Orthopedic Wedge Cushion for Leg Elevator | Pregnancy | GERD | White & Bla",
+      "slot": 9
+     },
+     {
+      "asin": "B0GT4MJW43",
+      "badge": null,
+      "price": "1,499",
+      "rating": null,
+      "reviews": null,
+      "title": "SafeCo Bed Wedge Pillow for Back Support – Triangle Cushion for Sleeping, Acid Reflux, Leg Elevation & Reading | High Density Foam Incline Pillow for Bed | Wash",
+      "slot": 10
+     }
+    ],
+    "fridoOrganicRank": 1,
+    "fridoSponsoredSlot": 1,
+    "fridoBadge": null
+   },
+   "flipkart": {
+    "fetchOk": true,
+    "results": [
+     {
+      "pos": 1,
+      "title": "FEXMY Heel Pain Relief Cracked Repair Foot Care Heel Pad and Heel Socks Combo Heel Support",
+      "price": null,
+      "rating": 3.8,
+      "ratings": 450,
+      "isFrido": false
+     },
+     {
+      "pos": 2,
+      "title": "FEXMY Shoe Bite Protector Heel Grips, Liner Cushions & Inserts for Loose Shoes Support Heel Support",
+      "price": null,
+      "rating": 3.8,
+      "ratings": 1478,
+      "isFrido": false
+     },
+     {
+      "pos": 3,
+      "title": "FEXMY Heel Grips Liner Cushions Inserts for Loose Shoes Insoles for Men Heel Support",
+      "price": null,
+      "rating": 3.8,
+      "ratings": 1478,
+      "isFrido": false
+     },
+     {
+      "pos": 4,
+      "title": "Frido Ultimate Pro Seat Cushion for Hip & Tailbone Pain Relief- Light Grey Back / Lumbar Support",
+      "price": null,
+      "rating": 4.1,
+      "ratings": 297,
+      "isFrido": true
+     },
+     {
+      "pos": 5,
+      "title": "Frido Wedge Plus Memory Foam Cushion for Sleeping, Acid Reflux Relief & Leg Elevator Back / Lumbar Support",
+      "price": null,
+      "rating": 4.2,
+      "ratings": 435,
+      "isFrido": true
+     },
+     {
+      "pos": 6,
+      "title": "Frido Slim Ortho Coccyx Seat Cushion |Tailbone & Sciatica Relief | Anti Slip Support Back / Lumbar Support",
+      "price": null,
+      "rating": 0,
+      "ratings": 0,
+      "isFrido": true
+     },
+     {
+      "pos": 7,
+      "title": "Frido Complete Back Support Wedge Cushion Made with Memory Foam, For Bed, Sofa & Chair Back / Lumbar Support",
+      "price": null,
+      "rating": 4,
+      "ratings": 260,
+      "isFrido": true
+     },
+     {
+      "pos": 8,
+      "title": "FOVERA Donut Pillow Orthopedic Memory Foam Piles Cushion for Hemorrhoids Back / Lumbar Support",
+      "price": null,
+      "rating": 4.1,
+      "ratings": 816,
+      "isFrido": false
+     },
+     {
+      "pos": 9,
+      "title": "Frido Cloud Seat Cushion with Memory Foam & Anti-Slip Base Supporter",
+      "price": null,
+      "rating": 4.3,
+      "ratings": 6,
+      "isFrido": true
+     },
+     {
+      "pos": 10,
+      "title": "Guqlidab Egg Holder Aid Mat – Comfy Sitting Pillow Shoulder Support",
+      "price": null,
+      "rating": 0,
+      "ratings": 0,
+      "isFrido": false
+     },
+     {
+      "pos": 11,
+      "title": "FOVERA Donut Ring Pillow for Piles, Coccyx Seat Cushion for Tailbone Pain, Back / Lumbar Support",
+      "price": null,
+      "rating": 4.6,
+      "ratings": 15,
+      "isFrido": false
+     },
+     {
+      "pos": 12,
+      "title": "Frexis Egg Occupant Aid Pillow – Cozy Sitting Seat Shoulder Support",
+      "price": null,
+      "rating": 0,
+      "ratings": 0,
+      "isFrido": false
+     },
+     {
+      "pos": 13,
+      "title": "Baben Free Size Posture Corrector For Men And Women Back / Lumbar Support",
+      "price": null,
+      "rating": 4.1,
+      "ratings": 377,
+      "isFrido": false
+     },
+     {
+      "pos": 14,
+      "title": "Baben Posture corrector belt for men and women for back pain Posture Corrector Posture Corrector",
+      "price": null,
+      "rating": 4.2,
+      "ratings": 74,
+      "isFrido": false
+     }
+    ],
+    "fridoRank": 4
+   },
+   "status": "listed",
+   "capturedAt": "2026-07-08"
+  },
+  {
+   "category": "covers",
+   "categoryName": "Covers",
+   "sku": "Deep Sleep Pillow Cover",
+   "keyword": "Frido Deep Sleep Pillow Cover",
+   "amazon": {
+    "fetchOk": true,
+    "organic": [
+     {
+      "asin": "B0GY4RM3K7",
+      "badge": null,
+      "price": "499",
+      "rating": "4.0",
+      "reviews": "2",
+      "title": "Deep Sleep Pillow Cooling Cover | Soft, Breathable & Odor-Resistant | Durable Zipper & Machine Washable | Premium Cooling Fabric for Comfort",
+      "rank": 1,
+      "isFridoBrand": true
+     },
+     {
+      "asin": "B0BS74W4Y7",
+      "badge": null,
+      "price": "1,619",
+      "rating": "4.2",
+      "reviews": "2,099",
+      "title": "Ultimate Deep Sleep Pillow | King Size 4 Inch Height | Orthopedic Grade Gel Memory Foam for Neck & Shoulder Pain Relief, Includes Bamboo Pillow Cover, Pack of 1",
+      "rank": 2
+     },
+     {
+      "asin": "B0GWRBV8Z5",
+      "badge": null,
+      "price": "1,999",
+      "rating": "4.3",
+      "reviews": "11",
+      "title": "Ultimate Deep Sleep Pillow with Cooling Cover | Orthopaedic Gel Memory Foam Pillow for Neck & Shoulder Pain Relief | Breathable, Pressure Relief for Side & Back",
+      "rank": 3
+     },
+     {
+      "asin": "B09Y5BHJ4X",
+      "badge": null,
+      "price": "416",
+      "rating": "4.4",
+      "reviews": "789",
+      "title": "Ultra Soft Terry Waterproof Pillow Protector Cover with Zippered Closure | Dust Mite - Bed Bug Protection | Oil and Water Spill Protection Covers (Large: 20 x 3",
+      "rank": 4
+     },
+     {
+      "asin": "B0GWRP1DB9",
+      "badge": null,
+      "price": "1,999",
+      "rating": "4.3",
+      "reviews": "11",
+      "title": "Ultimate Deep Sleep Pillow with Cooling Cover | Orthopedic Gel Memory Foam Pillow for Neck & Shoulder Pain Relief | Breathable, Pressure Relief for Side & Back ",
+      "rank": 5
+     },
+     {
+      "asin": "B0BFP1WSMG",
+      "badge": "Bestseller",
+      "price": "439",
+      "rating": "4.2",
+      "reviews": "861",
+      "title": "Pillow Protector Waterproof | Pillow Covers Set of 2 & Dustproof Cotton Terry Pillow, 220+ GSM Standard Size Pillow Cover (18 x 28 Inches) – Grey",
+      "rank": 6
+     },
+     {
+      "asin": "B0FG2NDX8Q",
+      "badge": null,
+      "price": "599",
+      "rating": "4.2",
+      "reviews": "3,012",
+      "title": "Wedge Plus Cushion Cover | Ultrasoft, Breathable & Cool Pillow Cover | Aesthetic Pillow Cover for Home | Durable & Machine Washable | Black",
+      "rank": 7
+     },
+     {
+      "asin": "B0DJ1JT76F",
+      "badge": null,
+      "price": "599",
+      "rating": "4.2",
+      "reviews": "137",
+      "title": "Solid Bamboo Pillow Cover Set of 2 | 100% Bamboo Pillow Cover For Hair And Skin|Breathable,Silky Soft & Cooling Envelope Pillowcases For Hot Sleepers & Night Sw",
+      "rank": 8
+     },
+     {
+      "asin": "B0G4VKMWTS",
+      "badge": "Bestseller",
+      "price": "299",
+      "rating": "4.3",
+      "reviews": "7,121",
+      "title": "Solid Satin Silk Pillow Covers Pack of 2 for Hair and Skin-with Satin Scrunchies |Satin Pillow coves for Hair and Skin|scrunchies for Women 3-Piece|Silk Pillow ",
+      "rank": 9
+     },
+     {
+      "asin": "B0DMKCT2C5",
+      "badge": null,
+      "price": "1,694",
+      "rating": "4.1",
+      "reviews": "1,120",
+      "title": "Travel Neck Pillow, 100% Hi-Per Foam, Lightweight Neck Support Pillow, Neck Pillow for Flight Travel, Memory Foam, Adjustable Velcro Straps, Free Travel Pouch (",
+      "rank": 10
+     }
+    ],
+    "sponsored": [
+     {
+      "asin": "B09NVS9TX2",
+      "badge": null,
+      "price": "1,376",
+      "rating": "4.0",
+      "reviews": "287",
+      "title": "100% Pure Mulberry Silk Pillowcase | 22 Momme 6A Grade Silk Pillow Cover for Hair & Skin | Cooling, Breathable, Smooth & Soft | Hidden Zipper Closure | Anti-Fri",
+      "slot": 1
+     },
+     {
+      "asin": "B09PK3QPLR",
+      "badge": "Bestseller",
+      "price": "265",
+      "rating": "4.3",
+      "reviews": "7,121",
+      "title": "Solid Satin Silk Pillow Covers Pack of 2 for Hair and Skin-with Satin Scrunchies |Satin Pillow coves for Hair and Skin|scrunchies for Women 3-Pieces|Silk Pillow",
+      "slot": 2
+     },
+     {
+      "asin": "B0CWLCGJDC",
+      "badge": null,
+      "price": "539",
+      "rating": "4.4",
+      "reviews": "324",
+      "title": "Cotton ?Solid Pillow Case with Envelope Closure - Pack of 2 Count | Coloured with AZO-Free Dyes and Oeko-Tex Certified | Machine Washable, Twilight Blue (Standa",
+      "slot": 3
+     },
+     {
+      "asin": "B0F2JN3KGN",
+      "badge": null,
+      "price": "859",
+      "rating": "4.3",
+      "reviews": "615",
+      "title": "Printed Cotton Quilted Pillow Cover - Set of 2|Ultra-Soft,Cooling&Breathable|Skin&Hair Friendly|Zipper Closure|Sweat-Absorbent&Hypoallergenic (20x36 Inches,Crim",
+      "slot": 4
+     },
+     {
+      "asin": "B0GYYNBCNF",
+      "badge": "Bestseller",
+      "price": "499",
+      "rating": "4.3",
+      "reviews": "7,121",
+      "title": "Latex Pillow Cover | Soft, Breathable & Odor-Resistant | Durable Zipper & Machine Washable | Premium Cooling Fabric for Comfort | Colling Cover",
+      "slot": 5
+     },
+     {
+      "asin": "B0FPMFG9NW",
+      "badge": null,
+      "price": "799",
+      "rating": "4.2",
+      "reviews": "1,267",
+      "title": "Ultimate Cozy Classic Pillow - A Super Soft & Fluffy Pillow for Sleeping - Premium Comfort for Side, Back & Stomach Sleepers - White, Set of 1",
+      "slot": 6,
+      "isFridoBrand": true
+     },
+     {
+      "asin": "B0C33FCLGZ",
+      "badge": null,
+      "price": "1,215",
+      "rating": "4.5",
+      "reviews": "4",
+      "title": "Madison Avenue Cotton with Light Silky and Sateen 400 Thread Count 2 Pillow Cover (18\" x 27\" inch Black)",
+      "slot": 7
+     },
+     {
+      "asin": "B09PGD5V7F",
+      "badge": null,
+      "price": "1,400",
+      "rating": "4.2",
+      "reviews": "18",
+      "title": "Italian Cotton 500 Thread Count King Size Pillowcases Super Soft and Breathable Envelope Closure Pillow Cases 22\" x 34\" Inches White",
+      "slot": 8
+     },
+     {
+      "asin": "B0F93VMPJ2",
+      "badge": null,
+      "price": "1,328",
+      "rating": "4.0",
+      "reviews": "36",
+      "title": "Mulberry Silk Pillowcase – Standard 20x26 Inch – 22 Momme Highest Grade Silk – Cooling for Hair & Skin – Breathable Anti-Frizz with Hidden Zipper – Soft Luxury ",
+      "slot": 9
+     },
+     {
+      "asin": "B0DVZBWZZB",
+      "badge": null,
+      "price": "689",
+      "rating": "4.0",
+      "reviews": "359",
+      "title": "Waterproof Pillow Protector Covers Pack of 4, Ultra Soft Cotton Terry Fabric, 220+ GSM, Dustproof & Breathable Pillow Covers, Dust Mite & Bed Bug Protection,Sta",
+      "slot": 10
+     }
+    ],
+    "fridoOrganicRank": 1,
+    "fridoSponsoredSlot": 6,
+    "fridoBadge": null
+   },
+   "flipkart": {
+    "fetchOk": false,
+    "results": [],
+    "fridoRank": null
+   },
+   "status": "needs-verification",
+   "capturedAt": "2026-07-08"
+  },
+  {
+   "category": "covers",
+   "categoryName": "Covers",
+   "sku": "Latex Pillow Cover",
+   "keyword": "Frido Latex Pillow Cover",
+   "amazon": {
+    "fetchOk": true,
+    "organic": [
+     {
+      "asin": "B0GYYNBCNF",
+      "badge": null,
+      "price": "499",
+      "rating": null,
+      "reviews": null,
+      "title": "Latex Pillow Cover | Soft, Breathable & Odor-Resistant | Durable Zipper & Machine Washable | Premium Cooling Fabric for Comfort | Colling Cover",
+      "rank": 1,
+      "isFridoBrand": true
+     },
+     {
+      "asin": "B0GWRLMZMS",
+      "badge": null,
+      "price": "2,999",
+      "rating": "3.3",
+      "reviews": "4",
+      "title": "Latex Pillow with Cooling Cover |100% Natural Latex Orthopaedic Pillow for Neck & Shoulder Pain Relief |Reversible Cooling Design with Air Vent Holes | Ergonomi",
+      "rank": 2
+     },
+     {
+      "asin": "B0GY4RM3K7",
+      "badge": null,
+      "price": "499",
+      "rating": "4.0",
+      "reviews": "2",
+      "title": "Deep Sleep Pillow Cooling Cover | Soft, Breathable & Odor-Resistant | Durable Zipper & Machine Washable | Premium Cooling Fabric for Comfort",
+      "rank": 3
+     },
+     {
+      "asin": "B0DYJKLKVC",
+      "badge": "Bestseller",
+      "price": "599",
+      "rating": "4.2",
+      "reviews": "3,012",
+      "title": "Wedge Plus Cushion Velvet Cover | Ultrasoft, Breathable & Cool Pillow Cover | Aesthetic Pillow Cover for Home | Durable & Machine-Washable | White & Grey",
+      "rank": 4
+     },
+     {
+      "asin": "B0G9R9X9BM",
+      "badge": null,
+      "price": "1,999",
+      "rating": "4.0",
+      "reviews": "322",
+      "title": "100% Natural Cervical Latex Pillow 35 Density Ultra Plush Latex Foam Bed Pillow for Sleeping, Side and Stomach Sleepers- with Inner Cotton Cover, Pack of 1, Whi",
+      "rank": 5
+     },
+     {
+      "asin": "B0G5XZCBN6",
+      "badge": null,
+      "price": "1,199",
+      "rating": "4.3",
+      "reviews": "124",
+      "title": "Waterproof Mattress Protector King Size with 100% Spill-Proof TPU Membrane, Breathable Anti-Allergen Terry Fabric, Machine Washable, Bed Protector Cover (Warm B",
+      "rank": 6
+     },
+     {
+      "asin": "B0F12Y1SXM",
+      "badge": null,
+      "price": "349",
+      "rating": "4.0",
+      "reviews": "110",
+      "title": "Waterproof & Dustproof Cotton Terry Pillow Protectors – Standard Size, Breathable & Soft Pillow Cover, Zippered Enclosure, Hypoallergenic (Coffee, 20x30 Inches,",
+      "rank": 7
+     },
+     {
+      "asin": "B0DKVBV9GT",
+      "badge": null,
+      "price": "9,233",
+      "rating": "5.0",
+      "reviews": "8",
+      "title": "Latex Pillow Cover Queen, Ultra-Soft, Breathable Cotton-Blend Pillowcase with Zipper, Machine Washable, Eco-Friendly, Quilted Cover for Adjustable Pillows",
+      "rank": 8
+     },
+     {
+      "asin": "B0F29H1PQX",
+      "badge": "Bestseller",
+      "price": "729",
+      "rating": "4.2",
+      "reviews": "861",
+      "title": "Waterproof & Dustproof Cotton Quilted Pillow Cover Protectors, Standard Size | 220+ GSM- Set of 2, Grey (18\" x28\")",
+      "rank": 9
+     },
+     {
+      "asin": "B0CRTWGS37",
+      "badge": null,
+      "price": "5,499",
+      "rating": "5.0",
+      "reviews": "1",
+      "title": "All Natural Premium Latex Pillow, Comes with Organic Cotton Fixed Cover | 24 x 15.5 x 4.7 Inches Standard Size | Set of 4 Pillows | Suitable for All Sleeping Po",
+      "rank": 10
+     }
+    ],
+    "sponsored": [
+     {
+      "asin": "B0DMKG9SMZ",
+      "badge": null,
+      "price": "1,619",
+      "rating": "4.1",
+      "reviews": "1,120",
+      "title": "Travel Neck Pillow, 100% Hi-Per Foam, Lightweight Neck Support Pillow, Neck Pillow for Flight Travel, Memory Foam Car Neck Pillow, Adjustable Velcro Straps, Fre",
+      "slot": 1
+     },
+     {
+      "asin": "B09NVS9TX2",
+      "badge": null,
+      "price": "1,376",
+      "rating": "4.0",
+      "reviews": "287",
+      "title": "100% Pure Mulberry Silk Pillowcase | 22 Momme 6A Grade Silk Pillow Cover for Hair & Skin | Cooling, Breathable, Smooth & Soft | Hidden Zipper Closure | Anti-Fri",
+      "slot": 2
+     },
+     {
+      "asin": "B07DLSRB1P",
+      "badge": null,
+      "price": "599",
+      "rating": "4.1",
+      "reviews": "102",
+      "title": "Premium Terry Waterproof Pillow Protector | Dust Mite - Bed Bug Protection | Pillow Protection Cover for Hair Oil and Fluids Spill (Small , 17 x 25 inch, Grey)-",
+      "slot": 3
+     },
+     {
+      "asin": "B09Y5BHJ4X",
+      "badge": null,
+      "price": "416",
+      "rating": "4.4",
+      "reviews": "789",
+      "title": "Ultra Soft Terry Waterproof Pillow Protector Cover with Zippered Closure | Dust Mite - Bed Bug Protection | Oil and Water Spill Protection Covers (Large: 20 x 3",
+      "slot": 4
+     },
+     {
+      "asin": "B0GY97X2VR",
+      "badge": null,
+      "price": "5,999",
+      "rating": "3.3",
+      "reviews": "4",
+      "title": "Latex Pillow with Cooling Cover |100% Natural Latex Orthopaedic Pillow for Neck & Shoulder Pain Relief |Reversible Cooling Design with Air Vent Holes | for Side",
+      "slot": 5,
+      "isFridoBrand": true
+     },
+     {
+      "asin": "B0BFP1WSMG",
+      "badge": "Bestseller",
+      "price": "439",
+      "rating": "4.2",
+      "reviews": "861",
+      "title": "Pillow Protector Waterproof | Pillow Covers Set of 2 & Dustproof Cotton Terry Pillow, 220+ GSM Standard Size Pillow Cover (18 x 28 Inches) – Grey",
+      "slot": 6
+     },
+     {
+      "asin": "B0GNZRJBWX",
+      "badge": null,
+      "price": "1,590",
+      "rating": "3.1",
+      "reviews": "5",
+      "title": "Certified 100% Natural Latex Pillow Shredded Pillow with Aloe-Vera Zipper Fabric for Side and Stomach Sleepers | Organic Bed Pillow Size 24x15 Inches - with Org",
+      "slot": 7
+     },
+     {
+      "asin": "B09HC543TY",
+      "badge": null,
+      "price": "549",
+      "rating": "4.4",
+      "reviews": "113",
+      "title": "400 TC Premium 100% Cotton Pillow Covers | Pillow Cases | Set of 2 Piece Pillow Covers only |Large Size (Plain White, 20 X 30 inch)",
+      "slot": 8
+     },
+     {
+      "asin": "B09W8XVZ9W",
+      "badge": null,
+      "price": "259",
+      "rating": "4.0",
+      "reviews": "359",
+      "title": "Waterproof Pillow Protector Covers Pack of 2, Ultra Soft Cotton Terry Fabric, 220+ GSM, Dustproof & Breathable Pillow Covers, Dust Mite & Bed Bug Protection,Sta",
+      "slot": 9
+     },
+     {
+      "asin": "B07VTQHBV4",
+      "badge": null,
+      "price": "474",
+      "rating": "3.9",
+      "reviews": "569",
+      "title": "Sateen Stripe 300 TC Cotton Pillow Cover, 20 x 36 inch, Sky Blue, 2 Pieces",
+      "slot": 10
+     }
+    ],
+    "fridoOrganicRank": 1,
+    "fridoSponsoredSlot": 5,
+    "fridoBadge": null
+   },
+   "flipkart": {
+    "fetchOk": true,
+    "results": [
+     {
+      "pos": 1,
+      "title": "Frido Latex Sleeping Pillow Pack of 2 Solid Latex Orthopaedic Pillow with Cooling Cover | 100% Natural Latex, Air Vent Holes",
+      "price": null,
+      "rating": 0,
+      "ratings": 0,
+      "isFrido": true
+     },
+     {
+      "pos": 2,
+      "title": "Frido Foam Orthopaedic Pillow Pack of 1 Solid High Density Foam Support Cushion",
+      "price": null,
+      "rating": 4.4,
+      "ratings": 31,
+      "isFrido": true
+     },
+     {
+      "pos": 3,
+      "title": "Frido Latex Sleeping Pillow Pack of 1 Solid Latex Orthopaedic Pillow with Cooling Cover | 100% Natural Latex, Air Vent Holes",
+      "price": null,
+      "rating": 0,
+      "ratings": 0,
+      "isFrido": true
+     },
+     {
+      "pos": 4,
+      "title": "Frido Blended Cushions & Pillows Cover",
+      "price": null,
+      "rating": 0,
+      "ratings": 0,
+      "isFrido": true
+     },
+     {
+      "pos": 5,
+      "title": "Sleepsia Memory Foam Orthopaedic Pillow Pack of 1 Solid Cool Gel Memory Foam Donut Pillow - Piles Pillow, Tailbone Pain Seat Support",
+      "price": null,
+      "rating": 4.2,
+      "ratings": 410,
+      "isFrido": false
+     },
+     {
+      "pos": 6,
+      "title": "Frido Memory Foam Orthopaedic Pillow Pack of 1 Solid Knee Pillow with Adjustable Strap | Leg Pillow for Side Sleepers | Melange Cover",
+      "price": null,
+      "rating": 3.5,
+      "ratings": 6,
+      "isFrido": true
+     },
+     {
+      "pos": 7,
+      "title": "Dr. Mashur Memory Foam Orthopaedic Pillow Pack of 1 Solid Orthopedic Comfort Plus, Body Support, Neck Care, Sleep Essentials",
+      "price": null,
+      "rating": 4.6,
+      "ratings": 167,
+      "isFrido": false
+     },
+     {
+      "pos": 8,
+      "title": "CUSHIO Memory Foam Sleeping Pillow Pack of 1 Polka Cervical Butterfly Pillow | Neck Pain Relief with Dual Height Design & Arm Rest",
+      "price": null,
+      "rating": 4,
+      "ratings": 5,
+      "isFrido": false
+     },
+     {
+      "pos": 9,
+      "title": "Frido Memory Foam Orthopaedic Pillow Pack of 1 Solid Ultimate Deep Sleep Pillow for Neck & Shoulder Pain Relief, King Size 5 Inch",
+      "price": null,
+      "rating": 4.1,
+      "ratings": 805,
+      "isFrido": true
+     }
+    ],
+    "fridoRank": 1
+   },
+   "status": "listed",
+   "capturedAt": "2026-07-08"
   }
  ]
 }

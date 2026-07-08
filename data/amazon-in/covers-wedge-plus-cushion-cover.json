@@ -1,0 +1,197 @@
+{
+ "category": "covers-wedge-plus-cushion-cover",
+ "marketplace": "amazon-in",
+ "keyword": "Frido Wedge Plus Cushion Cover",
+ "capturedAt": "2026-07-08",
+ "method": "Live scrape amazon.in search page 1, query = exact SKU name (brand-qualified)",
+ "confidence": "High (live snapshot, single keyword)",
+ "fridoOrganicRank": 1,
+ "fridoSponsoredSlot": 1,
+ "organic": [
+  {
+   "asin": "B0FG2NDX8Q",
+   "badge": null,
+   "price": "599",
+   "rating": "4.2",
+   "reviews": "3,012",
+   "title": "Frido Wedge Plus Cushion Cover | Ultrasoft, Breathable & Cool Pillow Cover | Aesthetic Pillow Cover for Home | Durable & Machine Washable | Black",
+   "rank": 1,
+   "isFridoBrand": true
+  },
+  {
+   "asin": "B0FH2LLXKB",
+   "badge": null,
+   "price": "449",
+   "rating": "5.0",
+   "reviews": "1",
+   "title": "NEERA Wedge Plus Orthopedic Pillow Cover – Premium Zippered Protector for Wedge Pillows – Soft | Breathable & Washable Fabric(White)",
+   "rank": 2
+  },
+  {
+   "asin": "B0FD3KBT6Q",
+   "badge": "Amazon's Choice",
+   "price": "794",
+   "rating": "4.2",
+   "reviews": "3,012",
+   "title": "Frido Wedge Neck Rest Pillow | Multipurpose Neck Pillow | Memory Foam Roll with Adjustable Strap | Relieves Neck, Knee & Lumbar Pressure | Compatible with Wedge",
+   "rank": 3
+  },
+  {
+   "asin": "B0D4ZFJFD5",
+   "badge": null,
+   "price": "1,199",
+   "rating": "4.3",
+   "reviews": "646",
+   "title": "CareFoam Memory Foam Wedge Pillow for Neck & Back Pain Relief (Wedge Pillow, Greyone Size)",
+   "rank": 4
+  },
+  {
+   "asin": "B0DBZMTPKJ",
+   "badge": null,
+   "price": "2,589",
+   "rating": "4.1",
+   "reviews": "3,948",
+   "title": "Amazon Basics Adjustable Wedge Pillow with Memory Foam & Head Rest | Multi-Purpose Back & Leg Support Cushion for Bed & Sofa | Soft Removable Washable Cover | D",
+   "rank": 5
+  },
+  {
+   "asin": "B0H2D2QLRF",
+   "badge": null,
+   "price": "4,291",
+   "rating": null,
+   "reviews": null,
+   "title": "Frido Ultimate Wedge Plus Cushion (White & Grey) with 3 Extra Velvet Cover (Brown, Pink & Green) | Comfortable Wedge Pillow for Better Sitting Posture, Back Sup",
+   "rank": 6
+  },
+  {
+   "asin": "B0CJ8VYBQP",
+   "badge": null,
+   "price": "2,999",
+   "rating": "4.0",
+   "reviews": "3,077",
+   "title": "Frido Ultimate Pro Seat Cushion & Posture Corrector Backrest Cushion Combo | Relieves Back | Coccyx Pain | Hi-Per Foam Tech for Orthopedic Support | for Long Si",
+   "rank": 7
+  },
+  {
+   "asin": "B0FW4VPBLS",
+   "badge": null,
+   "price": "1,189",
+   "rating": "4.4",
+   "reviews": "6",
+   "title": "WELLGIVER Wedge Plus Cushion for Sleeping & Acid Reflux Relief | Memory Foam Pillow | Orthopedic Wedge Cushion for Leg Elevator | Pregnancy | GERD | White & Bla",
+   "rank": 8
+  },
+  {
+   "asin": "B0C7BM7L45",
+   "badge": "Bestseller",
+   "price": "1,329",
+   "rating": "4.3",
+   "reviews": "1,763",
+   "title": "Amazon Basics Memory Foam Orthopedic Wedge Pillow |for Neck, Back Support, Cervical Pain, Acid Reflux, Snoring, GERD, Leg Elevation, Pregnancy -Ultra Soft Washa",
+   "rank": 9
+  },
+  {
+   "asin": "B0GC6Y2M26",
+   "badge": null,
+   "price": "1,099",
+   "rating": "3.8",
+   "reviews": "5",
+   "title": "Wedge Pillow with Memory Foam Layer & Velvet Jacket|Prevents Acid Reflux, Snoring, GERD|Leg Elevation to Help in Injury,Plantar Fasciitis and Pregnancy|Laptop B",
+   "rank": 10
+  }
+ ],
+ "sponsored": [
+  {
+   "asin": "B0FD3J1XGF",
+   "badge": "Bestseller",
+   "price": "2,699",
+   "rating": "4.2",
+   "reviews": "3,012",
+   "title": "Frido Wedge Plus Cushion with Neck Rest Pillow Combo | Dual Foam Wedge Cushion with Adjustable Roll | Back, Neck, Knee & Leg Support | for Post-Surgery, Pregnan",
+   "slot": 1,
+   "isFridoBrand": true
+  },
+  {
+   "asin": "B0FDBFW7PM",
+   "badge": null,
+   "price": "1,893",
+   "rating": "4.6",
+   "reviews": "272",
+   "title": "Frido Leg Elevation Wedge Pillow for Edema, Varicose Veins, Fracture | High Resilience Foam Cushion for Leg, Knee & Thigh Support | Back Pain & Swelling Relief ",
+   "slot": 2
+  },
+  {
+   "asin": "B0DMKCT2C5",
+   "badge": null,
+   "price": "1,694",
+   "rating": "4.1",
+   "reviews": "1,120",
+   "title": "Frido Travel Neck Pillow, 100% Hi-Per Foam, Lightweight Neck Support Pillow, Neck Pillow for Flight Travel, Memory Foam, Adjustable Velcro Straps, Free Travel P",
+   "slot": 3
+  },
+  {
+   "asin": "B0CPZQK127",
+   "badge": null,
+   "price": "1,239",
+   "rating": "4.2",
+   "reviews": "687",
+   "title": "Frido Ultimate Cervical Neck Pillow for Pain Relief Sleep | Improves Posture & Spinal Alignment | Neck Pain Relief Cushion with Ultra Responsive Memory Foam & S",
+   "slot": 4
+  },
+  {
+   "asin": "B0FD3L5WN1",
+   "badge": "Bestseller",
+   "price": "2,699",
+   "rating": "4.2",
+   "reviews": "3,012",
+   "title": "Frido Wedge Plus Cushion with Neck Rest Pillow Combo | Dual Foam Wedge Cushion with Adjustable Roll | Back, Neck, Knee & Leg Support | for Post-Surgery, Pregnan",
+   "slot": 5
+  },
+  {
+   "asin": "B0D9TG3TLV",
+   "badge": null,
+   "price": "2,295",
+   "rating": "4.3",
+   "reviews": "45",
+   "title": "CUSHIO Adjustable Memory Foam Wedge Pillow with Headrest for Back Support, 12-in-1 Versatile Design for Sleeping, Leg Elevation with Removable Cover (Grey)",
+   "slot": 6
+  },
+  {
+   "asin": "B0GW5ZLDRF",
+   "badge": null,
+   "price": "1,799",
+   "rating": null,
+   "reviews": null,
+   "title": "Starlon Wedge Pillow, Memory Foam, White, L51 X W50 X H25 cm | Back Support, Acid Reflux Relief, Snoring Relief, GERD Relief, Leg Elevation & Pregnancy",
+   "slot": 7
+  },
+  {
+   "asin": "B0GQ399LML",
+   "badge": null,
+   "price": "1,179",
+   "rating": "3.0",
+   "reviews": "3",
+   "title": "Restify Bed Wedge Pillow for Back Support – Triangle Cushion for Sleeping, Acid Reflux, Leg Elevation & Reading | High Density Foam Incline Pillow for Bed | Was",
+   "slot": 8
+  },
+  {
+   "asin": "B0FP98B58G",
+   "badge": null,
+   "price": "1,299",
+   "rating": "4.5",
+   "reviews": "23",
+   "title": "WELLGIVER Wedge Plus Cushion for Sleeping & Acid Reflux Relief | Memory Foam Pillow | Orthopedic Wedge Cushion for Leg Elevator | Pregnancy | GERD | White & Bla",
+   "slot": 9
+  },
+  {
+   "asin": "B0GT4MJW43",
+   "badge": null,
+   "price": "1,499",
+   "rating": null,
+   "reviews": null,
+   "title": "SafeCo Bed Wedge Pillow for Back Support – Triangle Cushion for Sleeping, Acid Reflux, Leg Elevation & Reading | High Density Foam Incline Pillow for Bed | Wash",
+   "slot": 10
+  }
+ ],
+ "notes": []
+}

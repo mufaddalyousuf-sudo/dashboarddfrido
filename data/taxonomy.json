@@ -283,13 +283,20 @@
    "priority": "P3",
    "datasets": [
     {
-     "id": "covers-frido",
-     "keyword": "frido cushion cover",
-     "primary": true,
-     "brandQualified": true
+     "id": "covers-wedge-plus-cushion-cover",
+     "keyword": "Frido Wedge Plus Cushion Cover",
+     "primary": true
+    },
+    {
+     "id": "covers-deep-sleep-pillow-cover",
+     "keyword": "Frido Deep Sleep Pillow Cover"
+    },
+    {
+     "id": "covers-latex-pillow-cover",
+     "keyword": "Frido Latex Pillow Cover"
     }
    ],
-   "correctionNote": "Previously marked 'no competitive category' in error. Frido sells cushion covers and one variant carries a live Bestseller badge."
+   "skuSource": "frido-product-catalog.json (full base-SKU research, 2026-07-08)"
   },
   {
    "id": "barefoot",

@@ -1,0 +1,197 @@
+{
+ "category": "covers-latex-pillow-cover",
+ "marketplace": "amazon-in",
+ "keyword": "Frido Latex Pillow Cover",
+ "capturedAt": "2026-07-08",
+ "method": "Live scrape amazon.in search page 1, query = exact SKU name (brand-qualified)",
+ "confidence": "High (live snapshot, single keyword)",
+ "fridoOrganicRank": 1,
+ "fridoSponsoredSlot": 5,
+ "organic": [
+  {
+   "asin": "B0GYYNBCNF",
+   "badge": null,
+   "price": "499",
+   "rating": null,
+   "reviews": null,
+   "title": "Latex Pillow Cover | Soft, Breathable & Odor-Resistant | Durable Zipper & Machine Washable | Premium Cooling Fabric for Comfort | Colling Cover",
+   "rank": 1,
+   "isFridoBrand": true
+  },
+  {
+   "asin": "B0GWRLMZMS",
+   "badge": null,
+   "price": "2,999",
+   "rating": "3.3",
+   "reviews": "4",
+   "title": "Latex Pillow with Cooling Cover |100% Natural Latex Orthopaedic Pillow for Neck & Shoulder Pain Relief |Reversible Cooling Design with Air Vent Holes | Ergonomi",
+   "rank": 2
+  },
+  {
+   "asin": "B0GY4RM3K7",
+   "badge": null,
+   "price": "499",
+   "rating": "4.0",
+   "reviews": "2",
+   "title": "Deep Sleep Pillow Cooling Cover | Soft, Breathable & Odor-Resistant | Durable Zipper & Machine Washable | Premium Cooling Fabric for Comfort",
+   "rank": 3
+  },
+  {
+   "asin": "B0DYJKLKVC",
+   "badge": "Bestseller",
+   "price": "599",
+   "rating": "4.2",
+   "reviews": "3,012",
+   "title": "Wedge Plus Cushion Velvet Cover | Ultrasoft, Breathable & Cool Pillow Cover | Aesthetic Pillow Cover for Home | Durable & Machine-Washable | White & Grey",
+   "rank": 4
+  },
+  {
+   "asin": "B0G9R9X9BM",
+   "badge": null,
+   "price": "1,999",
+   "rating": "4.0",
+   "reviews": "322",
+   "title": "100% Natural Cervical Latex Pillow 35 Density Ultra Plush Latex Foam Bed Pillow for Sleeping, Side and Stomach Sleepers- with Inner Cotton Cover, Pack of 1, Whi",
+   "rank": 5
+  },
+  {
+   "asin": "B0G5XZCBN6",
+   "badge": null,
+   "price": "1,199",
+   "rating": "4.3",
+   "reviews": "124",
+   "title": "Waterproof Mattress Protector King Size with 100% Spill-Proof TPU Membrane, Breathable Anti-Allergen Terry Fabric, Machine Washable, Bed Protector Cover (Warm B",
+   "rank": 6
+  },
+  {
+   "asin": "B0F12Y1SXM",
+   "badge": null,
+   "price": "349",
+   "rating": "4.0",
+   "reviews": "110",
+   "title": "Waterproof & Dustproof Cotton Terry Pillow Protectors – Standard Size, Breathable & Soft Pillow Cover, Zippered Enclosure, Hypoallergenic (Coffee, 20x30 Inches,",
+   "rank": 7
+  },
+  {
+   "asin": "B0DKVBV9GT",
+   "badge": null,
+   "price": "9,233",
+   "rating": "5.0",
+   "reviews": "8",
+   "title": "Latex Pillow Cover Queen, Ultra-Soft, Breathable Cotton-Blend Pillowcase with Zipper, Machine Washable, Eco-Friendly, Quilted Cover for Adjustable Pillows",
+   "rank": 8
+  },
+  {
+   "asin": "B0F29H1PQX",
+   "badge": "Bestseller",
+   "price": "729",
+   "rating": "4.2",
+   "reviews": "861",
+   "title": "Waterproof & Dustproof Cotton Quilted Pillow Cover Protectors, Standard Size | 220+ GSM- Set of 2, Grey (18\" x28\")",
+   "rank": 9
+  },
+  {
+   "asin": "B0CRTWGS37",
+   "badge": null,
+   "price": "5,499",
+   "rating": "5.0",
+   "reviews": "1",
+   "title": "All Natural Premium Latex Pillow, Comes with Organic Cotton Fixed Cover | 24 x 15.5 x 4.7 Inches Standard Size | Set of 4 Pillows | Suitable for All Sleeping Po",
+   "rank": 10
+  }
+ ],
+ "sponsored": [
+  {
+   "asin": "B0DMKG9SMZ",
+   "badge": null,
+   "price": "1,619",
+   "rating": "4.1",
+   "reviews": "1,120",
+   "title": "Travel Neck Pillow, 100% Hi-Per Foam, Lightweight Neck Support Pillow, Neck Pillow for Flight Travel, Memory Foam Car Neck Pillow, Adjustable Velcro Straps, Fre",
+   "slot": 1
+  },
+  {
+   "asin": "B09NVS9TX2",
+   "badge": null,
+   "price": "1,376",
+   "rating": "4.0",
+   "reviews": "287",
+   "title": "100% Pure Mulberry Silk Pillowcase | 22 Momme 6A Grade Silk Pillow Cover for Hair & Skin | Cooling, Breathable, Smooth & Soft | Hidden Zipper Closure | Anti-Fri",
+   "slot": 2
+  },
+  {
+   "asin": "B07DLSRB1P",
+   "badge": null,
+   "price": "599",
+   "rating": "4.1",
+   "reviews": "102",
+   "title": "Premium Terry Waterproof Pillow Protector | Dust Mite - Bed Bug Protection | Pillow Protection Cover for Hair Oil and Fluids Spill (Small , 17 x 25 inch, Grey)-",
+   "slot": 3
+  },
+  {
+   "asin": "B09Y5BHJ4X",
+   "badge": null,
+   "price": "416",
+   "rating": "4.4",
+   "reviews": "789",
+   "title": "Ultra Soft Terry Waterproof Pillow Protector Cover with Zippered Closure | Dust Mite - Bed Bug Protection | Oil and Water Spill Protection Covers (Large: 20 x 3",
+   "slot": 4
+  },
+  {
+   "asin": "B0GY97X2VR",
+   "badge": null,
+   "price": "5,999",
+   "rating": "3.3",
+   "reviews": "4",
+   "title": "Latex Pillow with Cooling Cover |100% Natural Latex Orthopaedic Pillow for Neck & Shoulder Pain Relief |Reversible Cooling Design with Air Vent Holes | for Side",
+   "slot": 5,
+   "isFridoBrand": true
+  },
+  {
+   "asin": "B0BFP1WSMG",
+   "badge": "Bestseller",
+   "price": "439",
+   "rating": "4.2",
+   "reviews": "861",
+   "title": "Pillow Protector Waterproof | Pillow Covers Set of 2 & Dustproof Cotton Terry Pillow, 220+ GSM Standard Size Pillow Cover (18 x 28 Inches) – Grey",
+   "slot": 6
+  },
+  {
+   "asin": "B0GNZRJBWX",
+   "badge": null,
+   "price": "1,590",
+   "rating": "3.1",
+   "reviews": "5",
+   "title": "Certified 100% Natural Latex Pillow Shredded Pillow with Aloe-Vera Zipper Fabric for Side and Stomach Sleepers | Organic Bed Pillow Size 24x15 Inches - with Org",
+   "slot": 7
+  },
+  {
+   "asin": "B09HC543TY",
+   "badge": null,
+   "price": "549",
+   "rating": "4.4",
+   "reviews": "113",
+   "title": "400 TC Premium 100% Cotton Pillow Covers | Pillow Cases | Set of 2 Piece Pillow Covers only |Large Size (Plain White, 20 X 30 inch)",
+   "slot": 8
+  },
+  {
+   "asin": "B09W8XVZ9W",
+   "badge": null,
+   "price": "259",
+   "rating": "4.0",
+   "reviews": "359",
+   "title": "Waterproof Pillow Protector Covers Pack of 2, Ultra Soft Cotton Terry Fabric, 220+ GSM, Dustproof & Breathable Pillow Covers, Dust Mite & Bed Bug Protection,Sta",
+   "slot": 9
+  },
+  {
+   "asin": "B07VTQHBV4",
+   "badge": null,
+   "price": "474",
+   "rating": "3.9",
+   "reviews": "569",
+   "title": "Sateen Stripe 300 TC Cotton Pillow Cover, 20 x 36 inch, Sky Blue, 2 Pieces",
+   "slot": 10
+  }
+ ],
+ "notes": []
+}

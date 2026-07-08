@@ -1,0 +1,125 @@
+{
+ "category": "covers-wedge-plus-cushion-cover",
+ "marketplace": "flipkart",
+ "keyword": "Frido Wedge Plus Cushion Cover",
+ "capturedAt": "2026-07-08",
+ "method": "Live scrape flipkart.com mobile search page 1 (__INITIAL_STATE__), query = exact SKU name",
+ "confidence": "Medium-High (live; sponsored flags not exposed on mobile)",
+ "fridoRank": 4,
+ "fridoPresent": true,
+ "results": [
+  {
+   "pos": 1,
+   "title": "FEXMY Heel Pain Relief Cracked Repair Foot Care Heel Pad and Heel Socks Combo Heel Support",
+   "price": null,
+   "rating": 3.8,
+   "ratings": 450,
+   "isFrido": false
+  },
+  {
+   "pos": 2,
+   "title": "FEXMY Shoe Bite Protector Heel Grips, Liner Cushions & Inserts for Loose Shoes Support Heel Support",
+   "price": null,
+   "rating": 3.8,
+   "ratings": 1478,
+   "isFrido": false
+  },
+  {
+   "pos": 3,
+   "title": "FEXMY Heel Grips Liner Cushions Inserts for Loose Shoes Insoles for Men Heel Support",
+   "price": null,
+   "rating": 3.8,
+   "ratings": 1478,
+   "isFrido": false
+  },
+  {
+   "pos": 4,
+   "title": "Frido Ultimate Pro Seat Cushion for Hip & Tailbone Pain Relief- Light Grey Back / Lumbar Support",
+   "price": null,
+   "rating": 4.1,
+   "ratings": 297,
+   "isFrido": true
+  },
+  {
+   "pos": 5,
+   "title": "Frido Wedge Plus Memory Foam Cushion for Sleeping, Acid Reflux Relief & Leg Elevator Back / Lumbar Support",
+   "price": null,
+   "rating": 4.2,
+   "ratings": 435,
+   "isFrido": true
+  },
+  {
+   "pos": 6,
+   "title": "Frido Slim Ortho Coccyx Seat Cushion |Tailbone & Sciatica Relief | Anti Slip Support Back / Lumbar Support",
+   "price": null,
+   "rating": 0,
+   "ratings": 0,
+   "isFrido": true
+  },
+  {
+   "pos": 7,
+   "title": "Frido Complete Back Support Wedge Cushion Made with Memory Foam, For Bed, Sofa & Chair Back / Lumbar Support",
+   "price": null,
+   "rating": 4,
+   "ratings": 260,
+   "isFrido": true
+  },
+  {
+   "pos": 8,
+   "title": "FOVERA Donut Pillow Orthopedic Memory Foam Piles Cushion for Hemorrhoids Back / Lumbar Support",
+   "price": null,
+   "rating": 4.1,
+   "ratings": 816,
+   "isFrido": false
+  },
+  {
+   "pos": 9,
+   "title": "Frido Cloud Seat Cushion with Memory Foam & Anti-Slip Base Supporter",
+   "price": null,
+   "rating": 4.3,
+   "ratings": 6,
+   "isFrido": true
+  },
+  {
+   "pos": 10,
+   "title": "Guqlidab Egg Holder Aid Mat – Comfy Sitting Pillow Shoulder Support",
+   "price": null,
+   "rating": 0,
+   "ratings": 0,
+   "isFrido": false
+  },
+  {
+   "pos": 11,
+   "title": "FOVERA Donut Ring Pillow for Piles, Coccyx Seat Cushion for Tailbone Pain, Back / Lumbar Support",
+   "price": null,
+   "rating": 4.6,
+   "ratings": 15,
+   "isFrido": false
+  },
+  {
+   "pos": 12,
+   "title": "Frexis Egg Occupant Aid Pillow – Cozy Sitting Seat Shoulder Support",
+   "price": null,
+   "rating": 0,
+   "ratings": 0,
+   "isFrido": false
+  },
+  {
+   "pos": 13,
+   "title": "Baben Free Size Posture Corrector For Men And Women Back / Lumbar Support",
+   "price": null,
+   "rating": 4.1,
+   "ratings": 377,
+   "isFrido": false
+  },
+  {
+   "pos": 14,
+   "title": "Baben Posture corrector belt for men and women for back pain Posture Corrector Posture Corrector",
+   "price": null,
+   "rating": 4.2,
+   "ratings": 74,
+   "isFrido": false
+  }
+ ],
+ "notes": []
+}
