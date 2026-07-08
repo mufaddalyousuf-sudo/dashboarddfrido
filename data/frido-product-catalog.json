@@ -1,0 +1,736 @@
+{
+ "generatedAt": "2026-07-08",
+ "source": "myfrido.com category collection pages (Remix/Hydrogen __remixContext product list, hits[].title), base SKU names only — colours/sizes/variants excluded. Mobility Devices sourced from Amazon brand search (no website presence).",
+ "totalCategories": 16,
+ "totalSkus": 148,
+ "reviewNotes": [
+  "Barefoot: 'x HRX Barefoot Sock Shoe Pro' is a genuine Frido x HRX co-branded product, distinct from 'Barefoot Sock Shoe Pro' — not a parsing error.",
+  "Personal Care / Accessories: 'Anti-Slip Bath Mat' appears in both category collections on myfrido.com — genuinely cross-listed, not a duplicate to remove.",
+  "Socks: 'Five Toe Socks - Patterned' and 'Five Toe Socks - Solid' were kept as distinct SKUs (separate listings on-site) rather than treated as a color variant of one SKU — flagging for human review since the line is close to a style/variant split.",
+  "Chairs: 'AeroMesh Classic Ergo Chair - With Headrest' / '- Without Headrest' were kept as distinct SKUs for the same reason — flagging for human review.",
+  "Mobility Devices has no myfrido.com collection at all; its 4 SKUs come from a single Amazon brand-search snapshot and should be treated as a starting list, not a confirmed-complete one."
+ ],
+ "categories": [
+  {
+   "id": "cushions",
+   "name": "Cushions",
+   "skuSource": "frido-website",
+   "skuCount": 25,
+   "skus": [
+    {
+     "sku": "Adjustable Wedge Max Cushion",
+     "keyword": "Frido Adjustable Wedge Max Cushion"
+    },
+    {
+     "sku": "Ultimate Car Neck Rest Pillow",
+     "keyword": "Frido Ultimate Car Neck Rest Pillow"
+    },
+    {
+     "sku": "Ultimate Wedge Plus Cushion",
+     "keyword": "Frido Ultimate Wedge Plus Cushion"
+    },
+    {
+     "sku": "Ultimate Car Comfort Bundle",
+     "keyword": "Frido Ultimate Car Comfort Bundle"
+    },
+    {
+     "sku": "Travel Neck Pillow",
+     "keyword": "Frido Travel Neck Pillow"
+    },
+    {
+     "sku": "Ultimate Car Backrest Cushion",
+     "keyword": "Frido Ultimate Car Backrest Cushion"
+    },
+    {
+     "sku": "Ultimate Car Wedge Seat Cushion",
+     "keyword": "Frido Ultimate Car Wedge Seat Cushion"
+    },
+    {
+     "sku": "Maternity Pillow",
+     "keyword": "Frido Maternity Pillow"
+    },
+    {
+     "sku": "Ultimate Pro Seat Cushion",
+     "keyword": "Frido Ultimate Pro Seat Cushion"
+    },
+    {
+     "sku": "Ultimate Pro Posture Corrector",
+     "keyword": "Frido Ultimate Pro Posture Corrector"
+    },
+    {
+     "sku": "Premium Car Comfort Bundle",
+     "keyword": "Frido Premium Car Comfort Bundle"
+    },
+    {
+     "sku": "Cloud Backrest Cushion",
+     "keyword": "Frido Cloud Backrest Cushion"
+    },
+    {
+     "sku": "Maternity Pillow Bundle Plus",
+     "keyword": "Frido Maternity Pillow Bundle Plus"
+    },
+    {
+     "sku": "Ultimate Wedge Plus Max Cushion",
+     "keyword": "Frido Ultimate Wedge Plus Max Cushion"
+    },
+    {
+     "sku": "Cloud Seat Cushion",
+     "keyword": "Frido Cloud Seat Cushion"
+    },
+    {
+     "sku": "Ultimate Tailbone Pain Relief Seat Cushion",
+     "keyword": "Frido Ultimate Tailbone Pain Relief Seat Cushion"
+    },
+    {
+     "sku": "Leg Elevation Pillow",
+     "keyword": "Frido Leg Elevation Pillow"
+    },
+    {
+     "sku": "Ultimate Lap Desk Pillow",
+     "keyword": "Frido Ultimate Lap Desk Pillow"
+    },
+    {
+     "sku": "Premium Car Neck Rest Cushion",
+     "keyword": "Frido Premium Car Neck Rest Cushion"
+    },
+    {
+     "sku": "Slim Seat Cushion",
+     "keyword": "Frido Slim Seat Cushion"
+    },
+    {
+     "sku": "Wedge Plus Cushion Cover",
+     "keyword": "Frido Wedge Plus Cushion Cover"
+    },
+    {
+     "sku": "Knee Pillow",
+     "keyword": "Frido Knee Pillow"
+    },
+    {
+     "sku": "Dual Car Comfort Combo",
+     "keyword": "Frido Dual Car Comfort Combo"
+    },
+    {
+     "sku": "Ultimate Wedge Cushion",
+     "keyword": "Frido Ultimate Wedge Cushion"
+    },
+    {
+     "sku": "Ultimate Pro Seating Combo",
+     "keyword": "Frido Ultimate Pro Seating Combo"
+    }
+   ]
+  },
+  {
+   "id": "insoles",
+   "name": "Insoles",
+   "skuSource": "frido-website",
+   "skuCount": 15,
+   "skus": [
+    {
+     "sku": "Arch Support Insoles",
+     "keyword": "Frido Arch Support Insoles"
+    },
+    {
+     "sku": "Arch Sports Insole",
+     "keyword": "Frido Arch Sports Insole"
+    },
+    {
+     "sku": "Dual Gel Pro Insoles",
+     "keyword": "Frido Dual Gel Pro Insoles"
+    },
+    {
+     "sku": "Plantar Fasciitis Pain Relief Ortho Insoles",
+     "keyword": "Frido Plantar Fasciitis Pain Relief Ortho Insoles"
+    },
+    {
+     "sku": "Dual Gel Insoles",
+     "keyword": "Frido Dual Gel Insoles"
+    },
+    {
+     "sku": "Arch Support Insoles Rigid + Semi Rigid Combo",
+     "keyword": "Frido Arch Support Insoles Rigid + Semi Rigid Combo"
+    },
+    {
+     "sku": "Orthopedic Heel Pad",
+     "keyword": "Frido Orthopedic Heel Pad"
+    },
+    {
+     "sku": "Max Comfort Memory Hi-Per Foam Insole",
+     "keyword": "Frido Max Comfort Memory Hi-Per Foam Insole"
+    },
+    {
+     "sku": "Orthopedic Heel Pad Pro Insole",
+     "keyword": "Frido Orthopedic Heel Pad Pro Insole"
+    },
+    {
+     "sku": "Gel Max Comfort Insole",
+     "keyword": "Frido Gel Max Comfort Insole"
+    },
+    {
+     "sku": "Silicone Gel Insole",
+     "keyword": "Frido Silicone Gel Insole"
+    },
+    {
+     "sku": "Ultimate Flat Feet Combo",
+     "keyword": "Frido Ultimate Flat Feet Combo"
+    },
+    {
+     "sku": "Orthotics Heel Protector",
+     "keyword": "Frido Orthotics Heel Protector"
+    },
+    {
+     "sku": "Max Comfort Arch Cushion Insoles",
+     "keyword": "Frido Max Comfort Arch Cushion Insoles"
+    },
+    {
+     "sku": "Ball of Foot Cushions Pro",
+     "keyword": "Frido Ball of Foot Cushions Pro"
+    }
+   ]
+  },
+  {
+   "id": "pillows",
+   "name": "Pillows",
+   "skuSource": "frido-website",
+   "skuCount": 13,
+   "skus": [
+    {
+     "sku": "Ultimate Deep Sleep Pillow",
+     "keyword": "Frido Ultimate Deep Sleep Pillow"
+    },
+    {
+     "sku": "Ultimate Cozy Pillow",
+     "keyword": "Frido Ultimate Cozy Pillow"
+    },
+    {
+     "sku": "Ultimate Neck Contour Cervical Plus Pillow",
+     "keyword": "Frido Ultimate Neck Contour Cervical Plus Pillow"
+    },
+    {
+     "sku": "Ultra Slim Deep Sleep Pillow",
+     "keyword": "Frido Ultra Slim Deep Sleep Pillow"
+    },
+    {
+     "sku": "Cervical Butterfly Pillow",
+     "keyword": "Frido Cervical Butterfly Pillow"
+    },
+    {
+     "sku": "Latex Pillow",
+     "keyword": "Frido Latex Pillow"
+    },
+    {
+     "sku": "Crescent Adjustable Pillow",
+     "keyword": "Frido Crescent Adjustable Pillow"
+    },
+    {
+     "sku": "Cuddle Sleep Pillow",
+     "keyword": "Frido Cuddle Sleep Pillow"
+    },
+    {
+     "sku": "Ultimate Neck Contour Cervical Pillow",
+     "keyword": "Frido Ultimate Neck Contour Cervical Pillow"
+    },
+    {
+     "sku": "Ultimate Cozy Classic Pillow",
+     "keyword": "Frido Ultimate Cozy Classic Pillow"
+    },
+    {
+     "sku": "Deep Sleep Pillow Cover",
+     "keyword": "Frido Deep Sleep Pillow Cover"
+    },
+    {
+     "sku": "Latex Pillow Cover",
+     "keyword": "Frido Latex Pillow Cover"
+    },
+    {
+     "sku": "Ortho Memory Foam Pillow",
+     "keyword": "Frido Ortho Memory Foam Pillow"
+    }
+   ]
+  },
+  {
+   "id": "mattress-topper-protector",
+   "name": "Mattress Topper & Protector",
+   "skuSource": "frido-website",
+   "skuCount": 3,
+   "skus": [
+    {
+     "sku": "Ultimate Mattress Topper",
+     "keyword": "Frido Ultimate Mattress Topper"
+    },
+    {
+     "sku": "Mattress Protector",
+     "keyword": "Frido Mattress Protector"
+    },
+    {
+     "sku": "Mattress Protector - Bamboo Terry Fabric",
+     "keyword": "Frido Mattress Protector - Bamboo Terry Fabric"
+    }
+   ]
+  },
+  {
+   "id": "covers",
+   "name": "Covers",
+   "skuSource": "frido-website",
+   "skuCount": 3,
+   "skus": [
+    {
+     "sku": "Wedge Plus Cushion Cover",
+     "keyword": "Frido Wedge Plus Cushion Cover"
+    },
+    {
+     "sku": "Deep Sleep Pillow Cover",
+     "keyword": "Frido Deep Sleep Pillow Cover"
+    },
+    {
+     "sku": "Latex Pillow Cover",
+     "keyword": "Frido Latex Pillow Cover"
+    }
+   ]
+  },
+  {
+   "id": "barefoot",
+   "name": "Barefoot",
+   "skuSource": "frido-website",
+   "skuCount": 3,
+   "skus": [
+    {
+     "sku": "Barefoot Sock Shoe Classic",
+     "keyword": "Frido Barefoot Sock Shoe Classic"
+    },
+    {
+     "sku": "x HRX Barefoot Sock Shoe Pro",
+     "keyword": "Frido x HRX Barefoot Sock Shoe Pro"
+    },
+    {
+     "sku": "Barefoot Sock Shoe Pro",
+     "keyword": "Frido Barefoot Sock Shoe Pro"
+    }
+   ]
+  },
+  {
+   "id": "footwear",
+   "name": "Footwear",
+   "skuSource": "frido-website",
+   "skuCount": 25,
+   "skus": [
+    {
+     "sku": "Women's Arch Comfort Wedge Sandals - Buckle Strap",
+     "keyword": "Frido Women's Arch Comfort Wedge Sandals - Buckle Strap"
+    },
+    {
+     "sku": "Women's Cloud Comfort Shoes - Slip Ons",
+     "keyword": "Frido Women's Cloud Comfort Shoes - Slip Ons"
+    },
+    {
+     "sku": "Women's Arch Support Wedge Sandals",
+     "keyword": "Frido Women's Arch Support Wedge Sandals"
+    },
+    {
+     "sku": "Cloud Comfort Arch Support Slippers",
+     "keyword": "Frido Cloud Comfort Arch Support Slippers"
+    },
+    {
+     "sku": "Men's Comfort Dual Strap Sandals",
+     "keyword": "Frido Men's Comfort Dual Strap Sandals"
+    },
+    {
+     "sku": "Cloud Comfort Slippers",
+     "keyword": "Frido Cloud Comfort Slippers"
+    },
+    {
+     "sku": "Women's Arch Comfort Sandals",
+     "keyword": "Frido Women's Arch Comfort Sandals"
+    },
+    {
+     "sku": "Men's Cloud Comfort Shoes - Slip Ons",
+     "keyword": "Frido Men's Cloud Comfort Shoes - Slip Ons"
+    },
+    {
+     "sku": "Women's Cloud Comfort Shoes - Lace ups",
+     "keyword": "Frido Women's Cloud Comfort Shoes - Lace ups"
+    },
+    {
+     "sku": "Women's Cloud Comfort Sandal",
+     "keyword": "Frido Women's Cloud Comfort Sandal"
+    },
+    {
+     "sku": "Men's Cloud Comfort Shoes - Lace Ups",
+     "keyword": "Frido Men's Cloud Comfort Shoes - Lace Ups"
+    },
+    {
+     "sku": "Men's Cloud Comfort Sandal",
+     "keyword": "Frido Men's Cloud Comfort Sandal"
+    },
+    {
+     "sku": "Women's Comfort Flat Sandal",
+     "keyword": "Frido Women's Comfort Flat Sandal"
+    },
+    {
+     "sku": "Women's Ethnic Comfort Flat Sandal",
+     "keyword": "Frido Women's Ethnic Comfort Flat Sandal"
+    },
+    {
+     "sku": "Women's Cloud Comfort Sandal - Toeless",
+     "keyword": "Frido Women's Cloud Comfort Sandal - Toeless"
+    },
+    {
+     "sku": "Comfort Formal Shoes",
+     "keyword": "Frido Comfort Formal Shoes"
+    },
+    {
+     "sku": "Active Casual Sneakers - Men's",
+     "keyword": "Frido Active Casual Sneakers - Men's"
+    },
+    {
+     "sku": "Active Casual Sneakers - Women's",
+     "keyword": "Frido Active Casual Sneakers - Women's"
+    },
+    {
+     "sku": "Puneri Chappal - Men",
+     "keyword": "Frido Puneri Chappal - Men"
+    },
+    {
+     "sku": "Active Walking Shoes - Men's",
+     "keyword": "Frido Active Walking Shoes - Men's"
+    },
+    {
+     "sku": "Men's Puneri Arch Comfort Sandal",
+     "keyword": "Frido Men's Puneri Arch Comfort Sandal"
+    },
+    {
+     "sku": "Men's Orthotics Toe Ring Sandals",
+     "keyword": "Frido Men's Orthotics Toe Ring Sandals"
+    },
+    {
+     "sku": "Unisex Orthotics V-Strap Sandals",
+     "keyword": "Frido Unisex Orthotics V-Strap Sandals"
+    },
+    {
+     "sku": "Men's Orthotics Dual Strap Sandals",
+     "keyword": "Frido Men's Orthotics Dual Strap Sandals"
+    },
+    {
+     "sku": "Puneri Chappal - Women",
+     "keyword": "Frido Puneri Chappal - Women"
+    }
+   ]
+  },
+  {
+   "id": "accessories",
+   "name": "Accessories",
+   "skuSource": "frido-website",
+   "skuCount": 3,
+   "skus": [
+    {
+     "sku": "Wedge Neck Rest Pillow",
+     "keyword": "Frido Wedge Neck Rest Pillow"
+    },
+    {
+     "sku": "Anti-Slip Bath Mat",
+     "keyword": "Frido Anti-Slip Bath Mat"
+    },
+    {
+     "sku": "Wallet",
+     "keyword": "Frido Wallet"
+    }
+   ]
+  },
+  {
+   "id": "maternity-baby-care",
+   "name": "Maternity & Baby Care",
+   "skuSource": "frido-website",
+   "skuCount": 5,
+   "skus": [
+    {
+     "sku": "Maternity Pillow Plus",
+     "keyword": "Frido Maternity Pillow Plus"
+    },
+    {
+     "sku": "Autofold Travel Stroller",
+     "keyword": "Frido Autofold Travel Stroller"
+    },
+    {
+     "sku": "Maternity Pillow",
+     "keyword": "Frido Maternity Pillow"
+    },
+    {
+     "sku": "Maternity Pillow Bundle Plus",
+     "keyword": "Frido Maternity Pillow Bundle Plus"
+    },
+    {
+     "sku": "Maternity U-Shaped Pillow",
+     "keyword": "Frido Maternity U-Shaped Pillow"
+    }
+   ]
+  },
+  {
+   "id": "masks",
+   "name": "Masks",
+   "skuSource": "frido-website",
+   "skuCount": 3,
+   "skus": [
+    {
+     "sku": "Ultimate Pro Face Mask",
+     "keyword": "Frido Ultimate Pro Face Mask"
+    },
+    {
+     "sku": "Silver Plus Face Mask",
+     "keyword": "Frido Silver Plus Face Mask"
+    },
+    {
+     "sku": "Ultimate Face Mask",
+     "keyword": "Frido Ultimate Face Mask"
+    }
+   ]
+  },
+  {
+   "id": "socks",
+   "name": "Socks",
+   "skuSource": "frido-website",
+   "skuCount": 6,
+   "skus": [
+    {
+     "sku": "Five Toe Socks - Patterned",
+     "keyword": "Frido Five Toe Socks - Patterned"
+    },
+    {
+     "sku": "Five Toe Socks - Solid",
+     "keyword": "Frido Five Toe Socks - Solid"
+    },
+    {
+     "sku": "Active Socks",
+     "keyword": "Frido Active Socks"
+    },
+    {
+     "sku": "Five Toe Socks",
+     "keyword": "Frido Five Toe Socks"
+    },
+    {
+     "sku": "Kids Socks",
+     "keyword": "Frido Kids Socks"
+    },
+    {
+     "sku": "Winter Socks",
+     "keyword": "Frido Winter Socks"
+    }
+   ]
+  },
+  {
+   "id": "orthotics",
+   "name": "Orthotics",
+   "skuSource": "frido-website",
+   "skuCount": 17,
+   "skus": [
+    {
+     "sku": "Orthotics Bamboo Knee Cap",
+     "keyword": "Frido Orthotics Bamboo Knee Cap"
+    },
+    {
+     "sku": "Orthotics Posture Corrector Pro",
+     "keyword": "Frido Orthotics Posture Corrector Pro"
+    },
+    {
+     "sku": "Orthotics Posture Corrector",
+     "keyword": "Frido Orthotics Posture Corrector"
+    },
+    {
+     "sku": "Orthotics Heel Protector",
+     "keyword": "Frido Orthotics Heel Protector"
+    },
+    {
+     "sku": "Orthotics Knee Support Wrap",
+     "keyword": "Frido Orthotics Knee Support Wrap"
+    },
+    {
+     "sku": "Active Knee Cap Support",
+     "keyword": "Frido Active Knee Cap Support"
+    },
+    {
+     "sku": "Orthotics Toe Separator",
+     "keyword": "Frido Orthotics Toe Separator"
+    },
+    {
+     "sku": "Lumbo Sacral Belt",
+     "keyword": "Frido Lumbo Sacral Belt"
+    },
+    {
+     "sku": "Orthotics Bunion Corrector",
+     "keyword": "Frido Orthotics Bunion Corrector"
+    },
+    {
+     "sku": "Kinesiology Tape",
+     "keyword": "Frido Kinesiology Tape"
+    },
+    {
+     "sku": "Mouse Wrist Support",
+     "keyword": "Frido Mouse Wrist Support"
+    },
+    {
+     "sku": "Orthotics Compression Gloves",
+     "keyword": "Frido Orthotics Compression Gloves"
+    },
+    {
+     "sku": "Orthotics Sports Knee Cap Support",
+     "keyword": "Frido Orthotics Sports Knee Cap Support"
+    },
+    {
+     "sku": "Orthotics Wrist Support Brace",
+     "keyword": "Frido Orthotics Wrist Support Brace"
+    },
+    {
+     "sku": "Orthotics Comfort Gym Gloves",
+     "keyword": "Frido Orthotics Comfort Gym Gloves"
+    },
+    {
+     "sku": "Orthotics Posture Corrector Seat",
+     "keyword": "Frido Orthotics Posture Corrector Seat"
+    },
+    {
+     "sku": "Orthotics Sports Elbow Brace",
+     "keyword": "Frido Orthotics Sports Elbow Brace"
+    }
+   ]
+  },
+  {
+   "id": "personal-care",
+   "name": "Personal Care",
+   "skuSource": "frido-website",
+   "skuCount": 9,
+   "skus": [
+    {
+     "sku": "Nasal Strip Pro",
+     "keyword": "Frido Nasal Strip Pro"
+    },
+    {
+     "sku": "Nasal Strips",
+     "keyword": "Frido Nasal Strips"
+    },
+    {
+     "sku": "Cold & Hot Therapy Cap",
+     "keyword": "Frido Cold & Hot Therapy Cap"
+    },
+    {
+     "sku": "Electric Heating Pad",
+     "keyword": "Frido Electric Heating Pad"
+    },
+    {
+     "sku": "Sleep Eye Mask",
+     "keyword": "Frido Sleep Eye Mask"
+    },
+    {
+     "sku": "3D Eye Mask",
+     "keyword": "Frido 3D Eye Mask"
+    },
+    {
+     "sku": "Anti-Slip Bath Mat",
+     "keyword": "Frido Anti-Slip Bath Mat"
+    },
+    {
+     "sku": "Five Finger Neck Massager",
+     "keyword": "Frido Five Finger Neck Massager"
+    },
+    {
+     "sku": "Cramp Relief Belt",
+     "keyword": "Frido Cramp Relief Belt"
+    }
+   ]
+  },
+  {
+   "id": "workspace",
+   "name": "Workspace",
+   "skuSource": "frido-website",
+   "skuCount": 5,
+   "skus": [
+    {
+     "sku": "ErgoLuxe Monitor Arm - Single",
+     "keyword": "Frido ErgoLuxe Monitor Arm - Single"
+    },
+    {
+     "sku": "Ergoluxe Monitor Arm - Dual",
+     "keyword": "Frido Ergoluxe Monitor Arm - Dual"
+    },
+    {
+     "sku": "Ergoluxe Electric Standing Desk",
+     "keyword": "Frido Ergoluxe Electric Standing Desk"
+    },
+    {
+     "sku": "Portable Standing Desk",
+     "keyword": "Frido Portable Standing Desk"
+    },
+    {
+     "sku": "Standing Desk Converter",
+     "keyword": "Frido Standing Desk Converter"
+    }
+   ]
+  },
+  {
+   "id": "mobility-devices",
+   "name": "Mobility Devices",
+   "skuSource": "amazon-cross-reference",
+   "skuSourceNote": "No Mobility Devices collection exists on myfrido.com. These SKUs were identified via a live Amazon brand search (site:amazon.in, query \"frido wheelchair\") and confirmed as genuine Frido-branded listings by URL slug. Treat as needs-verification pending a second manufacturer cross-check, not as exhaustive — other Arcatron-manufactured Frido mobility SKUs (e.g. commode wheelchair, patient-lift chair) were mentioned in a prior research pass but are not yet confirmed at the individual-SKU level.",
+   "skuCount": 4,
+   "skus": [
+    {
+     "sku": "Foldable Travel Wheelchair",
+     "keyword": "Frido Foldable Travel Wheelchair"
+    },
+    {
+     "sku": "Foldable Travel Plus Wheelchair",
+     "keyword": "Frido Foldable Travel Plus Wheelchair"
+    },
+    {
+     "sku": "2000 Wheelchair",
+     "keyword": "Frido 2000 Wheelchair"
+    },
+    {
+     "sku": "Prime Plus Electric Wheelchair",
+     "keyword": "Frido Prime Plus Electric Wheelchair"
+    }
+   ]
+  },
+  {
+   "id": "chairs",
+   "name": "Chairs",
+   "skuSource": "frido-website",
+   "skuCount": 9,
+   "skus": [
+    {
+     "sku": "Vajra Gaming Chair",
+     "keyword": "Frido Vajra Gaming Chair"
+    },
+    {
+     "sku": "ErgoLuxe Executive Chair",
+     "keyword": "Frido ErgoLuxe Executive Chair"
+    },
+    {
+     "sku": "3D Posture Plus Ergonomic Chair",
+     "keyword": "Frido 3D Posture Plus Ergonomic Chair"
+    },
+    {
+     "sku": "AeroMesh Ergo Chair",
+     "keyword": "Frido AeroMesh Ergo Chair"
+    },
+    {
+     "sku": "Glide Ergo Chair",
+     "keyword": "Frido Glide Ergo Chair"
+    },
+    {
+     "sku": "AeroMesh Classic Ergo Chair - Without Headrest",
+     "keyword": "Frido AeroMesh Classic Ergo Chair - Without Headrest"
+    },
+    {
+     "sku": "Embrace Ergo Chair",
+     "keyword": "Frido Embrace Ergo Chair"
+    },
+    {
+     "sku": "AeroMesh Classic Ergo Chair - With Headrest",
+     "keyword": "Frido AeroMesh Classic Ergo Chair - With Headrest"
+    },
+    {
+     "sku": "Aeroluxe Massage Chair",
+     "keyword": "Frido Aeroluxe Massage Chair"
+    }
+   ]
+  }
+ ]
+}
