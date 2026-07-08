@@ -1,0 +1,197 @@
+{
+ "category": "pillows-cuddle-sleep-pillow",
+ "marketplace": "amazon-in",
+ "keyword": "Frido Cuddle Sleep Pillow",
+ "capturedAt": "2026-07-08",
+ "method": "Live scrape amazon.in search page 1, query = exact SKU name (brand-qualified)",
+ "confidence": "High (live snapshot, single keyword)",
+ "fridoOrganicRank": 1,
+ "fridoSponsoredSlot": 5,
+ "organic": [
+  {
+   "asin": "B0DWFY2QVZ",
+   "badge": "Amazon's Choice",
+   "price": "2,850",
+   "rating": "4.2",
+   "reviews": "118",
+   "title": "Cuddle Pillow | Breathable & Ultra-Soft Memory Foam | Sleeping Support for Adults | Best Hugging Pillow for Side Sleepers & Travel | Anti-Frizz & Skin-Friendly ",
+   "rank": 1,
+   "isFridoBrand": true
+  },
+  {
+   "asin": "B0GTDNPYFC",
+   "badge": null,
+   "price": "949",
+   "rating": "4.0",
+   "reviews": "604",
+   "title": "USA 3210 Cuddlee Cuddle Pillow for Cozy Comfort, Deep Sleep, Lounging & Curved Memory Foam Hugging for Side Sleepers, Neck & Shoulder Support, Breathable Soft F",
+   "rank": 2
+  },
+  {
+   "asin": "B0FB3Z77CF",
+   "badge": null,
+   "price": "2,694",
+   "rating": "3.9",
+   "reviews": "146",
+   "title": "Maternity Pillow Bundle | Full Body Pregnancy Pillow for Back, Belly, Leg & Bum Support | Adjustable Butterfly Design | Travel-Friendly Cuddle Pillow | Hypoalle",
+   "rank": 3
+  },
+  {
+   "asin": "B0FFSZF3W8",
+   "badge": null,
+   "price": "1,299",
+   "rating": "4.3",
+   "reviews": "31",
+   "title": "USA 398 Yawnicorn Long Large Cuddle Pillow for Sleeping and Pregnancy, Microfibre Body Side Pillow for Hugging, Relaxing, Washable with Premium Velvet Cover-53x",
+   "rank": 4
+  },
+  {
+   "asin": "B0FKBY1FWP",
+   "badge": null,
+   "price": "1,194",
+   "rating": "4.0",
+   "reviews": "264",
+   "title": "Orthopedic Knee Pillow with Adjustable Strap | Memory Foam Leg Pillow for Side Sleepers | Sciatica Pain Relief, Hip, Back & Knee Support | Leg Rest Cushion with",
+   "rank": 5
+  },
+  {
+   "asin": "B0CPZQK127",
+   "badge": null,
+   "price": "1,239",
+   "rating": "4.2",
+   "reviews": "687",
+   "title": "Ultimate Cervical Neck Pillow for Pain Relief Sleep | Improves Posture & Spinal Alignment | Neck Pain Relief Cushion with Ultra Responsive Memory Foam & Skin Fr",
+   "rank": 6
+  },
+  {
+   "asin": "B08KS2YSFR",
+   "badge": null,
+   "price": "1,699",
+   "rating": "4.3",
+   "reviews": "761",
+   "title": "Microfiber Cuddle Pillow Covered with Luxe Modal Fabric for Body Support | Ideal for Side Sleepers and Expecting Mothers | Machine Washable | 50x19 inches | 1 P",
+   "rank": 7
+  },
+  {
+   "asin": "B0FPM8XK96",
+   "badge": null,
+   "price": "999",
+   "rating": "5.0",
+   "reviews": "8",
+   "title": "Body Pillow for Sleeping – 4 Feet Long Full Body Support Cuddle Pillow with Soft Plush Cover | Side Sleeper Pillow & Posture Alignment Support (Color-Grey)",
+   "rank": 8
+  },
+  {
+   "asin": "B0FPMFG9NW",
+   "badge": null,
+   "price": "799",
+   "rating": "4.2",
+   "reviews": "1,267",
+   "title": "Ultimate Cozy Classic Pillow - A Super Soft & Fluffy Pillow for Sleeping - Premium Comfort for Side, Back & Stomach Sleepers - White, Set of 1",
+   "rank": 9
+  },
+  {
+   "asin": "B0GWRP1DB9",
+   "badge": null,
+   "price": "1,999",
+   "rating": "4.3",
+   "reviews": "11",
+   "title": "Ultimate Deep Sleep Pillow with Cooling Cover | Orthopedic Gel Memory Foam Pillow for Neck & Shoulder Pain Relief | Breathable, Pressure Relief for Side & Back ",
+   "rank": 10
+  }
+ ],
+ "sponsored": [
+  {
+   "asin": "B0DMKDY515",
+   "badge": null,
+   "price": "1,619",
+   "rating": "4.1",
+   "reviews": "1,120",
+   "title": "Travel Neck Pillow, 100% Hi-Per Foam, Lightweight Neck Support Pillow, Neck Pillow for Flight Travel, Memory Foam Car Neck Pillow, Adjustable Velcro Straps, Fre",
+   "slot": 1
+  },
+  {
+   "asin": "B0DS629J17",
+   "badge": null,
+   "price": "1,189",
+   "rating": "4.2",
+   "reviews": "381",
+   "title": "PosturePro Premium Cervical Pillow for Neck Pain and Shoulder Pain, Memory Foam Pillow, Cervical Pillow for Spondylitis Neck, Contour Pillow for Neck Pain Sleep",
+   "slot": 2
+  },
+  {
+   "asin": "B0CPZQK127",
+   "badge": null,
+   "price": "1,239",
+   "rating": "4.2",
+   "reviews": "687",
+   "title": "Ultimate Cervical Neck Pillow for Pain Relief Sleep | Improves Posture & Spinal Alignment | Neck Pain Relief Cushion with Ultra Responsive Memory Foam & Skin Fr",
+   "slot": 3
+  },
+  {
+   "asin": "B0D3XX9TJZ",
+   "badge": null,
+   "price": "1,799",
+   "rating": "4.2",
+   "reviews": "3,012",
+   "title": "Wedge Plus Cushion for Sleeping, Sitting & Acid Reflux Relief | Memory Foam Pillow | High Resillience Foam | Orthopedic Wedge Cushion for Leg Elevator | Pregnan",
+   "slot": 4
+  },
+  {
+   "asin": "B0BS74W4Y7",
+   "badge": null,
+   "price": "1,619",
+   "rating": "4.2",
+   "reviews": "2,099",
+   "title": "Ultimate Deep Sleep Pillow | King Size 4 Inch Height | Orthopedic Grade Gel Memory Foam for Neck & Shoulder Pain Relief, Includes Bamboo Pillow Cover, Pack of 1",
+   "slot": 5,
+   "isFridoBrand": true
+  },
+  {
+   "asin": "B0GWRBV8Z5",
+   "badge": null,
+   "price": "1,999",
+   "rating": "4.3",
+   "reviews": "11",
+   "title": "Ultimate Deep Sleep Pillow with Cooling Cover | Orthopaedic Gel Memory Foam Pillow for Neck & Shoulder Pain Relief | Breathable, Pressure Relief for Side & Back",
+   "slot": 6
+  },
+  {
+   "asin": "B0CLDN29H7",
+   "badge": null,
+   "price": "999",
+   "rating": "4.1",
+   "reviews": "192",
+   "title": "Careforce Orthopedic Cervical Pillow for Neck and Shoulder Pain Relief Ergonomic Memory Foam Pillows for Sleeping Ideal for Chronic Neck Pain & Spinal Alignment",
+   "slot": 7
+  },
+  {
+   "asin": "B097H8RR2B",
+   "badge": null,
+   "price": "1,750",
+   "rating": "4.0",
+   "reviews": "9,709",
+   "title": "Memory Foam Set of 2-Cool Gel Pillow for Neck & Shoulder Pain-Cervical Pillow for Sleeping-Orthopedic for Back, Side & Stomach Sleepers-Medium Firm-Standard-4\" ",
+   "slot": 8
+  },
+  {
+   "asin": "B0CPPLGHN8",
+   "badge": null,
+   "price": "1,699",
+   "rating": "3.9",
+   "reviews": "236",
+   "title": "Cervical Memory Foam Pillow for Neck Pain Relief | Butterfly Orthopedic Contour Pillow | Dual Height Ergonomic Design for Side, Back Sleepers | Shoulder Support",
+   "slot": 9
+  },
+  {
+   "asin": "B0F8C5Y45R",
+   "badge": null,
+   "price": "1,499",
+   "rating": "3.9",
+   "reviews": "6",
+   "title": "J-Shape Pregnancy Pillows for Sleeping, Maternity Support, Nursing | Multipurpose Pillow for Back, HIPS, Legs, Belly Support with Removable Washable Velvet Cove",
+   "slot": 10
+  }
+ ],
+ "notes": []
+}

@@ -1,0 +1,197 @@
+{
+ "category": "pillows-latex-pillow",
+ "marketplace": "amazon-in",
+ "keyword": "Frido Latex Pillow",
+ "capturedAt": "2026-07-08",
+ "method": "Live scrape amazon.in search page 1, query = exact SKU name (brand-qualified)",
+ "confidence": "High (live snapshot, single keyword)",
+ "fridoOrganicRank": 1,
+ "fridoSponsoredSlot": 5,
+ "organic": [
+  {
+   "asin": "B0GWRLMZMS",
+   "badge": null,
+   "price": "2,999",
+   "rating": "3.3",
+   "reviews": "4",
+   "title": "Frido Latex Pillow with Cooling Cover |100% Natural Latex Orthopaedic Pillow for Neck & Shoulder Pain Relief |Reversible Cooling Design with Air Vent Holes | Er",
+   "rank": 1,
+   "isFridoBrand": true
+  },
+  {
+   "asin": "B0GWRBV8Z5",
+   "badge": null,
+   "price": "1,999",
+   "rating": "4.3",
+   "reviews": "11",
+   "title": "Frido Ultimate Deep Sleep Pillow with Cooling Cover | Orthopaedic Gel Memory Foam Pillow for Neck & Shoulder Pain Relief | Breathable, Pressure Relief for Side ",
+   "rank": 2
+  },
+  {
+   "asin": "B0BS74W4Y7",
+   "badge": null,
+   "price": "1,619",
+   "rating": "4.2",
+   "reviews": "2,099",
+   "title": "Frido Ultimate Deep Sleep Pillow | King Size 4 Inch Height | Orthopedic Grade Gel Memory Foam for Neck & Shoulder Pain Relief, Includes Bamboo Pillow Cover, Pac",
+   "rank": 3
+  },
+  {
+   "asin": "B0F2SWXPMT",
+   "badge": null,
+   "price": "2,330",
+   "rating": "4.3",
+   "reviews": "761",
+   "title": "SleepyCat Natural Latex Pillow | Medium Firm Support for Neck & Shoulder Pain Relief | GOLS-Certified Organic Latex | Hypoallergenic & Breathable | 24 x 16 inch",
+   "rank": 4
+  },
+  {
+   "asin": "B0FPMFG9NW",
+   "badge": null,
+   "price": "799",
+   "rating": "4.2",
+   "reviews": "1,267",
+   "title": "Frido Ultimate Cozy Classic Pillow - A Super Soft & Fluffy Pillow for Sleeping - Premium Comfort for Side, Back & Stomach Sleepers - White, Set of 1",
+   "rank": 5
+  },
+  {
+   "asin": "B0DCC799DN",
+   "badge": null,
+   "price": "1,619",
+   "rating": "4.0",
+   "reviews": "97",
+   "title": "Frido Ultimate Neck Contour Cervical Plus Pillow for Neck, Back Pain, Shoulder Pain, Orthopedic Ergonomic Memory Foam Best Pillow for Cervical Spine Neck Pain R",
+   "rank": 6
+  },
+  {
+   "asin": "B0G3B3L7JN",
+   "badge": null,
+   "price": "2,390",
+   "rating": "4.3",
+   "reviews": "50",
+   "title": "DREAMZEE Certified 100% Natural Latex Pillow Slim Pillow with Aloe-Vera Zipper Fabric for Side and Stomach Sleepers | Organic Bed Pillow Size 24x15 Inches - wit",
+   "rank": 7
+  },
+  {
+   "asin": "B0CBLYQZ2Z",
+   "badge": null,
+   "price": "2,739",
+   "rating": "4.0",
+   "reviews": "322",
+   "title": "AVI 100% Natural Cervical Latex Pillow 35 Density Ultra Plush Latex Foam Bed Pillow for Sleeping, Side and Stomach Sleepers- with Inner Cotton Cover, Pack of 2,",
+   "rank": 8
+  },
+  {
+   "asin": "B0H4W2WHCR",
+   "badge": null,
+   "price": "1,499",
+   "rating": "4.2",
+   "reviews": "1,267",
+   "title": "Frido Crescent Adjustable Pillow for Side Sleepers, Ergonomic Neck & Shoulder Support, Customizable Loft, Cooling Airflow & Adaptive Comfort for Better Sleep, H",
+   "rank": 9
+  },
+  {
+   "asin": "B0DCC8WKSX",
+   "badge": null,
+   "price": "1,619",
+   "rating": "4.0",
+   "reviews": "97",
+   "title": "Frido Ultimate Neck Contour Cervical Plus Pillow for Neck, Back Pain, Shoulder Pain, Orthopedic Ergonomic Memory Foam Best Pillow for Cervical Spine Neck Pain R",
+   "rank": 10
+  }
+ ],
+ "sponsored": [
+  {
+   "asin": "B0DHQZ1F8Y",
+   "badge": null,
+   "price": "1,389",
+   "rating": "4.2",
+   "reviews": "381",
+   "title": "betterhood PosturePro Premium Cervical Pillow for Neck Pain and Shoulder Pain, Memory Foam Pillow, Cervical Pillow for Spondylitis Neck, Contour Pillow for Neck",
+   "slot": 1
+  },
+  {
+   "asin": "B0CPZQK127",
+   "badge": null,
+   "price": "1,239",
+   "rating": "4.2",
+   "reviews": "687",
+   "title": "Frido Ultimate Cervical Neck Pillow for Pain Relief Sleep | Improves Posture & Spinal Alignment | Neck Pain Relief Cushion with Ultra Responsive Memory Foam & S",
+   "slot": 2
+  },
+  {
+   "asin": "B0FPMFG9NW",
+   "badge": null,
+   "price": "799",
+   "rating": "4.2",
+   "reviews": "1,267",
+   "title": "Frido Ultimate Cozy Classic Pillow - A Super Soft & Fluffy Pillow for Sleeping - Premium Comfort for Side, Back & Stomach Sleepers - White, Set of 1",
+   "slot": 3
+  },
+  {
+   "asin": "B08PYQ22WP",
+   "badge": null,
+   "price": "2,199",
+   "rating": "4.0",
+   "reviews": "1,198",
+   "title": "The Sleep Company SmartGRID Hybrid Pillow | Neck & Shoulder Support Sleeping Pillow | Ideal for Side Sleepers | 26 x 16 Inches | 5\" Height | White | Pack of 1",
+   "slot": 4
+  },
+  {
+   "asin": "B0GYYNBCNF",
+   "badge": null,
+   "price": "499",
+   "rating": "4.0",
+   "reviews": "9,709",
+   "title": "Frido Latex Pillow Cover | Soft, Breathable & Odor-Resistant | Durable Zipper & Machine Washable | Premium Cooling Fabric for Comfort | Colling Cover",
+   "slot": 5,
+   "isFridoBrand": true
+  },
+  {
+   "asin": "B0DXBCP7M4",
+   "badge": "Bestseller",
+   "price": "599",
+   "rating": "3.9",
+   "reviews": "1,776",
+   "title": "CareFoam Cervical Memory Foam Pillow for Neck Support | 2-Year Manufacturing Warranty | Orthopedic Contour Pillow for Cervical Spine Alignment & Shoulder Suppor",
+   "slot": 6
+  },
+  {
+   "asin": "B097H8RR2B",
+   "badge": null,
+   "price": "1,750",
+   "rating": "4.0",
+   "reviews": "9,709",
+   "title": "The White Willow Memory Foam Set of 2-Cool Gel Pillow for Neck & Shoulder Pain-Cervical Pillow for Sleeping-Orthopedic for Back, Side & Stomach Sleepers-Medium ",
+   "slot": 7
+  },
+  {
+   "asin": "B0DPL237H1",
+   "badge": null,
+   "price": "494",
+   "rating": "4.0",
+   "reviews": "912",
+   "title": "MYARMOR Cervical Pillow for Neck Pain | 2 Years Warranty | for Spondylitis Neck & Shoulder Pain, Orthopedic Memory Foam Pillow for Sleeping, Regular Size - 18.5",
+   "slot": 8
+  },
+  {
+   "asin": "B08YNPKBLL",
+   "badge": null,
+   "price": "1,319",
+   "rating": "4.0",
+   "reviews": "3,622",
+   "title": "The White Willow Ultra Thin Pillow for Sleeping-Ultra Slim Memory Foam-Slim Support for Neck & Shoulder Pain-Flat Design-Orthopedic Cervical Support for Neck Su",
+   "slot": 9
+  },
+  {
+   "asin": "B0F332522D",
+   "badge": null,
+   "price": "3,499",
+   "rating": null,
+   "reviews": null,
+   "title": "CUSHIO Cervical Butterfly Pillow – Orthopedic Memory Foam for Neck & Shoulder Pain Relief | Contour Pillow with Arm Rest | Dual Height Design for Side & Back Sl",
+   "slot": 10
+  }
+ ],
+ "notes": []
+}

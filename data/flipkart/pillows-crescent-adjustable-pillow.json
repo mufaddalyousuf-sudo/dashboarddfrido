@@ -1,0 +1,77 @@
+{
+ "category": "pillows-crescent-adjustable-pillow",
+ "marketplace": "flipkart",
+ "keyword": "Frido Crescent Adjustable Pillow",
+ "capturedAt": "2026-07-08",
+ "method": "Live scrape flipkart.com mobile search page 1 (__INITIAL_STATE__), query = exact SKU name",
+ "confidence": "Medium-High (live; sponsored flags not exposed on mobile)",
+ "fridoRank": 3,
+ "fridoPresent": true,
+ "results": [
+  {
+   "pos": 1,
+   "title": "AYKA Microfibre Sleeping Pillow Pack of 2 Solid Soft Microfiber Pillows",
+   "price": null,
+   "rating": 4.3,
+   "ratings": 2410,
+   "isFrido": false
+  },
+  {
+   "pos": 2,
+   "title": "AYKA Microfibre Sleeping Pillow Pack of 2 Solid Soft Microfiber Pillow for Sleeping",
+   "price": null,
+   "rating": 4.3,
+   "ratings": 148,
+   "isFrido": false
+  },
+  {
+   "pos": 3,
+   "title": "Frido Memory Foam, Microfibre Orthopaedic Pillow Pack of 1 Geometric Crescent Adjustable Sleeping Pillow | Neck & Shoulder Support| Half-Moon Design",
+   "price": null,
+   "rating": 0,
+   "ratings": 0,
+   "isFrido": true
+  },
+  {
+   "pos": 4,
+   "title": "Frido Memory Foam Cushion Pack of 1 Solid Wedge Plus Cushion for Sleeping, Acid Reflux Relief, Leg Elevator, Pregnancy",
+   "price": null,
+   "rating": 4.2,
+   "ratings": 217,
+   "isFrido": true
+  },
+  {
+   "pos": 5,
+   "title": "Frido Foam Orthopaedic Pillow Pack of 1 Solid High Density Foam Support Cushion",
+   "price": null,
+   "rating": 4.4,
+   "ratings": 31,
+   "isFrido": true
+  },
+  {
+   "pos": 6,
+   "title": "Frido Memory Foam Cushion Pack of 2 Solid Wedge Plus with Neck Rest Pillow | Back, Neck, Knee & Leg Support",
+   "price": null,
+   "rating": 4,
+   "ratings": 23,
+   "isFrido": true
+  },
+  {
+   "pos": 7,
+   "title": "Frido Memory Foam Sleeping Pillow Pack of 1 Solid Cuddle Pillow | Ultra-Soft Hugging Memory Foam Pillow , Side Sleepers & Travel",
+   "price": null,
+   "rating": 4.5,
+   "ratings": 23,
+   "isFrido": true
+  },
+  {
+   "pos": 8,
+   "title": "Frido Ultimate Contour Cervical Neck Pillow for Pain Relief Sleep Cervical Pillow",
+   "price": null,
+   "rating": 3.7,
+   "ratings": 58,
+   "isFrido": true
+  }
+ ],
+ "notes": []
+}

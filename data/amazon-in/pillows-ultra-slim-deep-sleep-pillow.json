@@ -1,0 +1,197 @@
+{
+ "category": "pillows-ultra-slim-deep-sleep-pillow",
+ "marketplace": "amazon-in",
+ "keyword": "Frido Ultra Slim Deep Sleep Pillow",
+ "capturedAt": "2026-07-08",
+ "method": "Live scrape amazon.in search page 1, query = exact SKU name (brand-qualified)",
+ "confidence": "High (live snapshot, single keyword)",
+ "fridoOrganicRank": 1,
+ "fridoSponsoredSlot": 5,
+ "organic": [
+  {
+   "asin": "B0D31TT9X9",
+   "badge": "Amazon's Choice",
+   "price": "1,429",
+   "rating": "4.2",
+   "reviews": "2,099",
+   "title": "Ultra Slim Deep Sleep Pillow | King Size 2 Inch Height | Orthopedic Grade Gel Memory Foam for Neck & Shoulder Pain Relief, Includes Bamboo Pillow Cover, Pack of",
+   "rank": 1,
+   "isFridoBrand": true
+  },
+  {
+   "asin": "B0GWRP1DB9",
+   "badge": null,
+   "price": "1,999",
+   "rating": "4.3",
+   "reviews": "11",
+   "title": "Ultimate Deep Sleep Pillow with Cooling Cover | Orthopedic Gel Memory Foam Pillow for Neck & Shoulder Pain Relief | Breathable, Pressure Relief for Side & Back ",
+   "rank": 2
+  },
+  {
+   "asin": "B0FKBY1FWP",
+   "badge": null,
+   "price": "1,194",
+   "rating": "4.0",
+   "reviews": "264",
+   "title": "Orthopedic Knee Pillow with Adjustable Strap | Memory Foam Leg Pillow for Side Sleepers | Sciatica Pain Relief, Hip, Back & Knee Support | Leg Rest Cushion with",
+   "rank": 3
+  },
+  {
+   "asin": "B0D7QF9ZW7",
+   "badge": null,
+   "price": "1,999",
+   "rating": "4.0",
+   "reviews": "1,198",
+   "title": "SmartGRID Thin Pillow | for Stomach & Back Sleepers | Neck Pain Relief | Ultra Slim Design | (24 x 15 x 2.25 Inch) | Washable Cover | Pack of 1",
+   "rank": 4
+  },
+  {
+   "asin": "B079VTR75Z",
+   "badge": null,
+   "price": "1,275",
+   "rating": "4.0",
+   "reviews": "3,622",
+   "title": "Ultra Slim Pillow-Memory Foam Support for Sleeping-Ultra Thin Support for Neck Pain Relief-Thin Cervical Pillow for Neck Support-Thinnest Orthopedic Design-King",
+   "rank": 5
+  },
+  {
+   "asin": "B0CYV68HV1",
+   "badge": null,
+   "price": "949",
+   "rating": "4.2",
+   "reviews": "1,267",
+   "title": "Ultimate Cozy Sleeping Pillow | (High Density) Gel Microfiber Bed Pillow | Breathable & Hypo-Allergenic Cushion for Bed | Bed Pillow for Long Lasting Fluffiness",
+   "rank": 6
+  },
+  {
+   "asin": "B0DP25DYTS",
+   "badge": null,
+   "price": "840",
+   "rating": "3.8",
+   "reviews": "98",
+   "title": "Orthopaedic Ultra Thin Memory Foam Pillow, Bed Pillow for Sleeping-Cervical Pillow for Neck & Shoulder Pain, Medium Firm - White (20\" x 12.5\" x 2\")",
+   "rank": 7
+  },
+  {
+   "asin": "B0H7MQ74CY",
+   "badge": null,
+   "price": "999",
+   "rating": null,
+   "reviews": null,
+   "title": "Ultra Slim Deep Sleep Pillow | King Size 5 Inch Height | Orthopedic Grade Gel Memory Foam for Neck & Shoulder Pain Relief, Includes Bamboo Pillow Cover",
+   "rank": 8
+  },
+  {
+   "asin": "B07Q4DG34W",
+   "badge": null,
+   "price": "684",
+   "rating": "4.4",
+   "reviews": "635",
+   "title": "Ultra-Thin Memory Foam Pillow with Pillow Cover, 60 x 40 x 5.5 cm, White, 1 Piece",
+   "rank": 9
+  },
+  {
+   "asin": "B0H4W2WHCR",
+   "badge": null,
+   "price": "1,499",
+   "rating": "4.2",
+   "reviews": "1,267",
+   "title": "Crescent Adjustable Pillow for Side Sleepers, Ergonomic Neck & Shoulder Support, Customizable Loft, Cooling Airflow & Adaptive Comfort for Better Sleep, Half-Mo",
+   "rank": 10
+  }
+ ],
+ "sponsored": [
+  {
+   "asin": "B079VTR75Z",
+   "badge": null,
+   "price": "1,275",
+   "rating": "4.0",
+   "reviews": "3,622",
+   "title": "Ultra Slim Pillow-Memory Foam Support for Sleeping-Ultra Thin Support for Neck Pain Relief-Thin Cervical Pillow for Neck Support-Thinnest Orthopedic Design-King",
+   "slot": 1
+  },
+  {
+   "asin": "B0B2MY7YBD",
+   "badge": null,
+   "price": "1,199",
+   "rating": "3.9",
+   "reviews": "68",
+   "title": "Ultra Slim Pillow - Memory Foam for Sleeping - Ultra Thin for Neck Pain Relief - Thin Cervical for Neck Support - Thinnest Orthopedic (1, Luxe, 25.5\" x 16.5\" x ",
+   "slot": 2
+  },
+  {
+   "asin": "B0CPZQK127",
+   "badge": null,
+   "price": "1,239",
+   "rating": "4.2",
+   "reviews": "687",
+   "title": "Ultimate Cervical Neck Pillow for Pain Relief Sleep | Improves Posture & Spinal Alignment | Neck Pain Relief Cushion with Ultra Responsive Memory Foam & Skin Fr",
+   "slot": 3
+  },
+  {
+   "asin": "B0FPMFG9NW",
+   "badge": null,
+   "price": "799",
+   "rating": "4.2",
+   "reviews": "1,267",
+   "title": "Ultimate Cozy Classic Pillow - A Super Soft & Fluffy Pillow for Sleeping - Premium Comfort for Side, Back & Stomach Sleepers - White, Set of 1",
+   "slot": 4
+  },
+  {
+   "asin": "B0CPZGCS4L",
+   "badge": null,
+   "price": "1,234",
+   "rating": "4.2",
+   "reviews": "687",
+   "title": "Ultimate Cervical Neck Pillow for Pain Relief Sleep | Improves Posture & Spinal Alignment | Neck Pain Relief Cushion with Ultra Responsive Memory Foam & Skin Fr",
+   "slot": 5,
+   "isFridoBrand": true
+  },
+  {
+   "asin": "B0DWFVF3J5",
+   "badge": null,
+   "price": "2,850",
+   "rating": "4.2",
+   "reviews": "118",
+   "title": "Cuddle Pillow | Breathable & Ultra-Soft Memory Foam | Sleeping Support for Adults | Best Hugging Pillow for Side Sleepers & Travel | Anti-Frizz & Skin-Friendly ",
+   "slot": 6
+  },
+  {
+   "asin": "B097H8RR2B",
+   "badge": null,
+   "price": "1,750",
+   "rating": "4.0",
+   "reviews": "9,709",
+   "title": "Memory Foam Set of 2-Cool Gel Pillow for Neck & Shoulder Pain-Cervical Pillow for Sleeping-Orthopedic for Back, Side & Stomach Sleepers-Medium Firm-Standard-4\" ",
+   "slot": 7
+  },
+  {
+   "asin": "B09R3X8V8C",
+   "badge": null,
+   "price": "937",
+   "rating": "4.0",
+   "reviews": "1,694",
+   "title": "Memory Foam Pillow of 2.5 Inch Height, Slim Orthopedic Pillow for Sleeping | 2 Years Warranty | with No Cover - Pack of 1",
+   "slot": 8
+  },
+  {
+   "asin": "B08B3ZS3WZ",
+   "badge": null,
+   "price": "836",
+   "rating": "4.0",
+   "reviews": "2,160",
+   "title": "Cervical Pillow for Neck & Shoulder Pain Relief Cooling Gel Memory Foam Pillow Contour Cervical Neck Orthopedic Pillow for Sleeping with Bamboo Cover- Standard ",
+   "slot": 9
+  },
+  {
+   "asin": "B0CLDN29H7",
+   "badge": null,
+   "price": "999",
+   "rating": "4.1",
+   "reviews": "192",
+   "title": "Careforce Orthopedic Cervical Pillow for Neck and Shoulder Pain Relief Ergonomic Memory Foam Pillows for Sleeping Ideal for Chronic Neck Pain & Spinal Alignment",
+   "slot": 10
+  }
+ ],
+ "notes": []
+}

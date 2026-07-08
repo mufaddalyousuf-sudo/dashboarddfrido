@@ -1,0 +1,197 @@
+{
+ "category": "pillows-ortho-memory-foam-pillow",
+ "marketplace": "amazon-in",
+ "keyword": "Frido Ortho Memory Foam Pillow",
+ "capturedAt": "2026-07-08",
+ "method": "Live scrape amazon.in search page 1, query = exact SKU name (brand-qualified)",
+ "confidence": "High (live snapshot, single keyword)",
+ "fridoOrganicRank": 1,
+ "fridoSponsoredSlot": 6,
+ "organic": [
+  {
+   "asin": "B0F2YY3JFZ",
+   "badge": "Amazon's Choice",
+   "price": "999",
+   "rating": "4.2",
+   "reviews": "1,267",
+   "title": "Ortho Memory Foam Pillow | Height-Adjustable Ergonomic Pillow for Neck & Spine Support | Premium Comfort for Side, Back, and Stomach Sleepers | Breathable, Wash",
+   "rank": 1,
+   "isFridoBrand": true
+  },
+  {
+   "asin": "B0BS74W4Y7",
+   "badge": null,
+   "price": "1,619",
+   "rating": "4.2",
+   "reviews": "2,099",
+   "title": "Ultimate Deep Sleep Pillow | King Size 4 Inch Height | Orthopedic Grade Gel Memory Foam for Neck & Shoulder Pain Relief, Includes Bamboo Pillow Cover, Pack of 1",
+   "rank": 2
+  },
+  {
+   "asin": "B0F88C6B8N",
+   "badge": null,
+   "price": "548",
+   "rating": "4.0",
+   "reviews": "129",
+   "title": "Memory Foam Pillow for Sleeping-Cervical Pillow for Neck Pain,Shoulder & Back Pain Relief-Orthopedic Pillow for Neck Support-Ortho Pillow",
+   "rank": 3
+  },
+  {
+   "asin": "B0H361NFBW",
+   "badge": null,
+   "price": "449",
+   "rating": "4.6",
+   "reviews": "64",
+   "title": "𝗞𝗢𝗦𝗠𝗘𝗥 Memory Foam Pillow, Contour Cervical Orthopedic Memory Foam Pillows Supports Neck Pain and Shoulder Pain for Sleeping, Ergonomic Cervical Neck Support Pi",
+   "rank": 4
+  },
+  {
+   "asin": "B08F3LDL8L",
+   "badge": null,
+   "price": "1,174",
+   "rating": "4.0",
+   "reviews": "968",
+   "title": "Orthopaedic Cervical Pillow - Memory Foam Pillow (Universal Size, Black), One Size",
+   "rank": 5
+  },
+  {
+   "asin": "B0GWRBV8Z5",
+   "badge": null,
+   "price": "1,999",
+   "rating": "4.3",
+   "reviews": "11",
+   "title": "Ultimate Deep Sleep Pillow with Cooling Cover | Orthopaedic Gel Memory Foam Pillow for Neck & Shoulder Pain Relief | Breathable, Pressure Relief for Side & Back",
+   "rank": 6
+  },
+  {
+   "asin": "B0FKM69BB5",
+   "badge": "Bestseller",
+   "price": "599",
+   "rating": "4.0",
+   "reviews": "602",
+   "title": "Cervical Pillow for Neck Pain | 2 Years Warranty | for Spondylitis Neck & Shoulder Pain, Orthopedic Memory Foam Pillow for Sleeping, Standard Size, 18 x 11 x 3.",
+   "rank": 7
+  },
+  {
+   "asin": "B0C3CGR8VQ",
+   "badge": null,
+   "price": "1,199",
+   "rating": "3.9",
+   "reviews": "456",
+   "title": "Premium Orthopedic Cervical Memory Foam Neck Pillow For Pain Relief Sleep, Improves Posture, Vaccum-Squeezed Packaging (Full Size - 60X36X10 Cm),White",
+   "rank": 8
+  },
+  {
+   "asin": "B097H8RR2B",
+   "badge": null,
+   "price": "1,750",
+   "rating": "4.0",
+   "reviews": "9,709",
+   "title": "Memory Foam Set of 2-Cool Gel Pillow for Neck & Shoulder Pain-Cervical Pillow for Sleeping-Orthopedic for Back, Side & Stomach Sleepers-Medium Firm-Standard-4\" ",
+   "rank": 9
+  },
+  {
+   "asin": "B0GWRP1DB9",
+   "badge": null,
+   "price": "1,999",
+   "rating": "4.3",
+   "reviews": "11",
+   "title": "Ultimate Deep Sleep Pillow with Cooling Cover | Orthopedic Gel Memory Foam Pillow for Neck & Shoulder Pain Relief | Breathable, Pressure Relief for Side & Back ",
+   "rank": 10
+  }
+ ],
+ "sponsored": [
+  {
+   "asin": "B097H8RR2B",
+   "badge": null,
+   "price": "1,750",
+   "rating": "4.0",
+   "reviews": "9,709",
+   "title": "Memory Foam Set of 2-Cool Gel Pillow for Neck & Shoulder Pain-Cervical Pillow for Sleeping-Orthopedic for Back, Side & Stomach Sleepers-Medium Firm-Standard-4\" ",
+   "slot": 1
+  },
+  {
+   "asin": "B0CLDN29H7",
+   "badge": null,
+   "price": "999",
+   "rating": "4.1",
+   "reviews": "192",
+   "title": "Careforce Orthopedic Cervical Pillow for Neck and Shoulder Pain Relief Ergonomic Memory Foam Pillows for Sleeping Ideal for Chronic Neck Pain & Spinal Alignment",
+   "slot": 2
+  },
+  {
+   "asin": "B0CC684ZSP",
+   "badge": null,
+   "price": "3,099",
+   "rating": "4.2",
+   "reviews": "119",
+   "title": "Memory Foam Pillow - 22\"x14\"x3.5\" Inches (Pack of 4) Orthopedic Bed Pillow for Neck & Shoulder Pain Relief - Wake Up Refreshed - Free Pillow Cover (White)",
+   "slot": 3
+  },
+  {
+   "asin": "B0CSFVK8TJ",
+   "badge": null,
+   "price": "949",
+   "rating": "3.9",
+   "reviews": "726",
+   "title": "Cervical Pillow for Neck Pain | 1 Year Warranty | Orthopedic Pillows for Neck Pain and Shoulder Pain, Cervical Pillow for Spondylitis Neck, Contour Memory Foam ",
+   "slot": 4
+  },
+  {
+   "asin": "B0CPZQK127",
+   "badge": null,
+   "price": "1,239",
+   "rating": "4.2",
+   "reviews": "687",
+   "title": "Ultimate Cervical Neck Pillow for Pain Relief Sleep | Improves Posture & Spinal Alignment | Neck Pain Relief Cushion with Ultra Responsive Memory Foam & Skin Fr",
+   "slot": 5
+  },
+  {
+   "asin": "B0822SXQGH",
+   "badge": null,
+   "price": "999",
+   "rating": "4.2",
+   "reviews": "3,557",
+   "title": "Orthopaedic Memory Foam Pillow for Better Shoulder and Neck Support, 1 Piece (Standard Size, 25x16 inches, White, Bamboo Fabric)",
+   "slot": 6,
+   "isFridoBrand": true
+  },
+  {
+   "asin": "B0CPZGCS4L",
+   "badge": null,
+   "price": "1,234",
+   "rating": "4.2",
+   "reviews": "687",
+   "title": "Ultimate Cervical Neck Pillow for Pain Relief Sleep | Improves Posture & Spinal Alignment | Neck Pain Relief Cushion with Ultra Responsive Memory Foam & Skin Fr",
+   "slot": 7
+  },
+  {
+   "asin": "B0F332522D",
+   "badge": null,
+   "price": "3,499",
+   "rating": null,
+   "reviews": null,
+   "title": "Cervical Butterfly Pillow – Orthopedic Memory Foam for Neck & Shoulder Pain Relief | Contour Pillow with Arm Rest | Dual Height Design for Side & Back Sleepers ",
+   "slot": 8
+  },
+  {
+   "asin": "B0DHQZ1F8Y",
+   "badge": null,
+   "price": "1,389",
+   "rating": "4.2",
+   "reviews": "381",
+   "title": "PosturePro Premium Cervical Pillow for Neck Pain and Shoulder Pain, Memory Foam Pillow, Cervical Pillow for Spondylitis Neck, Contour Pillow for Neck Pain Sleep",
+   "slot": 9
+  },
+  {
+   "asin": "B08F3LDL8L",
+   "badge": null,
+   "price": "1,174",
+   "rating": "4.0",
+   "reviews": "968",
+   "title": "Orthopaedic Cervical Pillow - Memory Foam Pillow (Universal Size, Black), One Size",
+   "slot": 10
+  }
+ ],
+ "notes": []
+}

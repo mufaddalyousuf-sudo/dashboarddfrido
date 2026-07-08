@@ -1,0 +1,178 @@
+{
+ "category": "mattress-topper-protector-mattress-protector",
+ "marketplace": "amazon-in",
+ "keyword": "Frido Mattress Protector",
+ "capturedAt": "2026-07-08",
+ "method": "Live scrape amazon.in search page 1, query = exact SKU name (brand-qualified)",
+ "confidence": "High (live snapshot, single keyword)",
+ "fridoOrganicRank": 1,
+ "fridoSponsoredSlot": null,
+ "organic": [
+  {
+   "asin": "B0G5XJ9ZLQ",
+   "badge": null,
+   "price": "1,094",
+   "rating": "4.3",
+   "reviews": "124",
+   "title": "Waterproof Mattress Protector Queen Size with 100% Spill-Proof TPU Membrane, Breathable Anti-Allergen Terry Fabric, Machine Washable, Bed Protector Cover (Steel",
+   "rank": 1,
+   "isFridoBrand": true
+  },
+  {
+   "asin": "B0G5XVRWK4",
+   "badge": null,
+   "price": "829",
+   "rating": "4.3",
+   "reviews": "124",
+   "title": "Waterproof Mattress Protector Single Size with 100% Spill-Proof TPU Membrane, Breathable Anti-Allergen Terry Fabric, Machine Washable, Bed Protector Cover (Warm",
+   "rank": 2
+  },
+  {
+   "asin": "B0G5XSVTZR",
+   "badge": "Amazon's Choice",
+   "price": "1,094",
+   "rating": "4.3",
+   "reviews": "124",
+   "title": "Waterproof Mattress Protector Queen Size with 100% Spill-Proof TPU Membrane, Breathable Anti-Allergen Terry Fabric, Machine Washable, Bed Protector Cover (Warm ",
+   "rank": 3
+  },
+  {
+   "asin": "B0B8JWDSWC",
+   "badge": null,
+   "price": "797",
+   "rating": "4.2",
+   "reviews": "3,625",
+   "title": "Waterproof Mattress Protector King Size, 78x72, 6.5x6 feet, Double Bed Protector Sheet Cover, Breathable and Hypoallergenic Ultra Soft Fitted Terry Cotton Feel ",
+   "rank": 4
+  },
+  {
+   "asin": "B09VL8SLLG",
+   "badge": null,
+   "price": "649",
+   "rating": "4.3",
+   "reviews": "12,947",
+   "title": "100% Waterproof Premium Cotton Feel Mattress Protector Double Bed 72x72 Inch|Ultra Soft Breathable & Hypoallergenic Fitted Bed Protector Terry Cover(6x6 feet, F",
+   "rank": 5
+  },
+  {
+   "asin": "B0DMFFYS58",
+   "badge": null,
+   "price": "1,699",
+   "rating": "4.1",
+   "reviews": "4,193",
+   "title": "100% Waterproof Cotton Quilted Mattress Protector King Size Breathable Hypoallergenic Noiseless Ultra Soft Fitted Bed Protector 78x72 inch Mattress/Bed Cover (M",
+   "rank": 6
+  },
+  {
+   "asin": "B0FQNKRM5X",
+   "badge": null,
+   "price": "882",
+   "rating": "4.4",
+   "reviews": "67",
+   "title": "Livspace 100% Waterproof Premium Cotton Feel Ultra Soft Mattress Protector King Size | 78\" x 72\" | Noiseless, Breathable & Hypoallergenic Bed Protector, Fits Up",
+   "rank": 7
+  },
+  {
+   "asin": "B0DHS3HGCG",
+   "badge": "Bestseller",
+   "price": "4,799",
+   "rating": "4.4",
+   "reviews": "633",
+   "title": "Ultimate Mattress Topper with Premium Cover for Single Bed | Single Bed Topper 72\"x36\" | 2\" Padding | Mattress Topper for Back Pain & Neck Pain | Soft & Support",
+   "rank": 8
+  },
+  {
+   "asin": "B0822WWZRV",
+   "badge": null,
+   "price": "1,035",
+   "rating": "4.2",
+   "reviews": "3,791",
+   "title": "Waterproof Ultra Soft Mattress Protector | Cotton Feel Fitted Cover for King Bed | Breathable, Hypoallergenic & Durable Protection | 78x72 Inches | Grey",
+   "rank": 9
+  },
+  {
+   "asin": "B0837TRT3Z",
+   "badge": null,
+   "price": "699",
+   "rating": "4.2",
+   "reviews": "41,253",
+   "title": "Cotton Feel Terry Ultra Soft Waterproof Mattress Protector | Breathable - Hypoallergenic Mattresses Cover (75x72 inch | 6.25x6 feet, Grey - Pack of 1)",
+   "rank": 10
+  }
+ ],
+ "sponsored": [
+  {
+   "asin": "B0DHS3HGCG",
+   "badge": "Bestseller",
+   "price": "4,799",
+   "rating": "4.4",
+   "reviews": "633",
+   "title": "Ultimate Mattress Topper with Premium Cover for Single Bed | Single Bed Topper 72\"x36\" | 2\" Padding | Mattress Topper for Back Pain & Neck Pain | Soft & Support",
+   "slot": 1
+  },
+  {
+   "asin": "B0H7CJLVGS",
+   "badge": null,
+   "price": "1,565",
+   "rating": null,
+   "reviews": null,
+   "title": "100% Waterproof Natural Bamboo Mattress Protector Single Bed 78\" x 36\" inch | 360° Elasticated fit, Breathable, Hypoallergenic, Noiseless, Ultra-Soft Fitted Bed",
+   "slot": 2
+  },
+  {
+   "asin": "B0C1S894S3",
+   "badge": "Bestseller",
+   "price": "894",
+   "rating": "4.3",
+   "reviews": "41,116",
+   "title": "100% Waterproof Premium Cotton Mattress Protector | Breathable and Hypoallergenic Ultra Soft Fitted Bed Protector 78\"x72\" - King, Grey",
+   "slot": 3
+  },
+  {
+   "asin": "B09WDJ1C3Q",
+   "badge": null,
+   "price": "1,189",
+   "rating": "4.2",
+   "reviews": "7,368",
+   "title": "100% Waterproof Bamboo Mattress Protector | Queen Size, 78 x 60 Inches | Soft Terry Breathable & Ultra Soft Fitted Bed Protector | Grey",
+   "slot": 4
+  },
+  {
+   "asin": "B0GRB1218M",
+   "badge": null,
+   "price": "599",
+   "rating": "4.8",
+   "reviews": "3",
+   "title": "Premium 100% Waterproof Mattress Protector King Size, 72x72 Inches | Breathable and Hypoallergenic Ultra Soft Fitted Bed Protector Cover 72\"x72\" - King, Light G",
+   "slot": 5
+  },
+  {
+   "asin": "B0GWJB5B6B",
+   "badge": null,
+   "price": "199",
+   "rating": "2.5",
+   "reviews": "2",
+   "title": "New Born Baby Godadi Soft Cotton godi| Godari | Baby Bed | Crib Sheet | Cartoon Mat Baby Godadi | Bedding Set | Mattress Protector| Multicolor (Silver)",
+   "slot": 6
+  },
+  {
+   "asin": "B0FV2T1TV4",
+   "badge": null,
+   "price": "199",
+   "rating": "3.5",
+   "reviews": "14",
+   "title": "Waterproof Mattress/Bed Protector for Kids Urine | Baby, Elderly & Adult Reusable Dry Sheet | Absorbent, Washable, Soft Fabric (Color-Golden Green Size-70x50cm)",
+   "slot": 7
+  },
+  {
+   "asin": "B0DX28KT98",
+   "badge": null,
+   "price": "1,367",
+   "rating": "4.2",
+   "reviews": "3,625",
+   "title": "Mattress Protector King Size | Quilted Cotton Waterproof Bed Protector King Size, 78x72 Inch | Breathable Noiseless Ultra Soft Fitted Cover with Elastic Skirtin",
+   "slot": 8
+  }
+ ],
+ "notes": []
+}

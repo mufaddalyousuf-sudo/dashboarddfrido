@@ -141,11 +141,6 @@
   // removed rather than left showing an outdated claim; fresh ones are pending a
   // data-driven pass once all 16 categories are on the new research.
   const actions = {
-    pillows: [
-      ["Fix sleep-pillow keyword targeting", "Frido runs a sponsored ad on “memory foam pillow” with zero organic top-10 — the listing's title/backend keywords likely don't match this search."],
-      ["Push cervical pillow toward a badge", "Cervical pillow ranks #4 organically; sustained review velocity is the most direct path to Amazon's Choice."],
-    ],
-    "mattress-topper-protector": [["Chase a Bestseller badge at #4", "Frido already ranks #4 organic with an active ad — a badge here is the highest-leverage single move available."]],
     covers: [["Promote the badge-holding cover variant", "The Bestseller-badged Wedge Plus Cooling Cover (₹2,519) is outranked in visibility by Frido's own cheaper, badge-less variant (₹399, rank #1) — align ad spend to the badge holder."]],
     barefoot: [["Replicate the Flipkart listing on Amazon", "Frido ranks #2 on Flipkart for “barefoot shoes” but has no Amazon top-10 presence for the same keyword."]],
     footwear: [["Fix Amazon keyword coverage for slippers", "Flipkart #3 for “orthopedic slippers”, but no Amazon top-10 for the identical keyword — check the Amazon listing's title and backend search terms."]],

@@ -1,0 +1,117 @@
+{
+ "category": "pillows-latex-pillow",
+ "marketplace": "flipkart",
+ "keyword": "Frido Latex Pillow",
+ "capturedAt": "2026-07-08",
+ "method": "Live scrape flipkart.com mobile search page 1 (__INITIAL_STATE__), query = exact SKU name",
+ "confidence": "Medium-High (live; sponsored flags not exposed on mobile)",
+ "fridoRank": 4,
+ "fridoPresent": true,
+ "results": [
+  {
+   "pos": 1,
+   "title": "AYKA Microfibre Sleeping Pillow Pack of 2 Solid Soft Microfiber Pillows",
+   "price": null,
+   "rating": 4.3,
+   "ratings": 2410,
+   "isFrido": false
+  },
+  {
+   "pos": 2,
+   "title": "AYKA Microfibre Sleeping Pillow Pack of 4 Solid Soft Microfiber Pillows",
+   "price": null,
+   "rating": 4.3,
+   "ratings": 2410,
+   "isFrido": false
+  },
+  {
+   "pos": 3,
+   "title": "AYKA Polyester Fibre, Cotton Sleeping Pillow Pack of 1 Geometric Cord Pillow",
+   "price": null,
+   "rating": 4.3,
+   "ratings": 55,
+   "isFrido": false
+  },
+  {
+   "pos": 4,
+   "title": "Frido Memory Foam Orthopaedic Pillow Pack of 1 Solid Ultimate Deep Sleep Pillow for Neck & Shoulder Pain Relief, King Size 5 Inch",
+   "price": null,
+   "rating": 4.1,
+   "ratings": 805,
+   "isFrido": true
+  },
+  {
+   "pos": 5,
+   "title": "Frido Memory Foam Orthopaedic Pillow Pack of 1 Solid Ultimate Deep Sleep Pillow for Neck & Shoulder Pain Relief, King Size 4 Inch",
+   "price": null,
+   "rating": 4.1,
+   "ratings": 805,
+   "isFrido": true
+  },
+  {
+   "pos": 6,
+   "title": "Frido Memory Foam Orthopaedic Pillow Pack of 2 Solid Ultimate Deep Sleep Pillow for Neck & Shoulder Pain Relief, King Size 4 Inch",
+   "price": null,
+   "rating": 4.1,
+   "ratings": 805,
+   "isFrido": true
+  },
+  {
+   "pos": 7,
+   "title": "Frido Latex Sleeping Pillow Pack of 2 Solid Latex Orthopaedic Pillow with Cooling Cover | 100% Natural Latex, Air Vent Holes",
+   "price": null,
+   "rating": 0,
+   "ratings": 0,
+   "isFrido": true
+  },
+  {
+   "pos": 8,
+   "title": "Frido Memory Foam Orthopaedic Pillow Pack of 1 Abstract Orthopaedic Wedge Plus Cushion with Cooling Cover for Sleeping & Sitting Relief",
+   "price": null,
+   "rating": 0,
+   "ratings": 0,
+   "isFrido": true
+  },
+  {
+   "pos": 9,
+   "title": "Frido Latex Sleeping Pillow Pack of 1 Solid Latex Orthopaedic Pillow with Cooling Cover | 100% Natural Latex, Air Vent Holes",
+   "price": null,
+   "rating": 0,
+   "ratings": 0,
+   "isFrido": true
+  },
+  {
+   "pos": 10,
+   "title": "Frido Memory Foam Sleeping Pillow Pack of 1 Abstract Ultimate Memory Foam Ortho Deep Sleep Pillow | Cooling Cover | King Size 5 Inch",
+   "price": null,
+   "rating": 5,
+   "ratings": 3,
+   "isFrido": true
+  },
+  {
+   "pos": 11,
+   "title": "Frido Memory Foam Sleeping Pillow Pack of 1 Solid Cuddle Pillow | Ultra-Soft Hugging Memory Foam Pillow , Side Sleepers & Travel",
+   "price": null,
+   "rating": 4.5,
+   "ratings": 23,
+   "isFrido": true
+  },
+  {
+   "pos": 12,
+   "title": "WELLGIVER Memory Foam Desk Pillow Pack of 1 Solid",
+   "price": null,
+   "rating": 4.8,
+   "ratings": 6,
+   "isFrido": false
+  },
+  {
+   "pos": 13,
+   "title": "AVI Latex Orthopaedic Pillow Pack of 2 Geometric 100% Natural",
+   "price": null,
+   "rating": 3.8,
+   "ratings": 164,
+   "isFrido": false
+  }
+ ],
+ "notes": []
+}

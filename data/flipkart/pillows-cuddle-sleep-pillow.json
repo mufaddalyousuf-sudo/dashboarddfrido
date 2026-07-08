@@ -1,0 +1,101 @@
+{
+ "category": "pillows-cuddle-sleep-pillow",
+ "marketplace": "flipkart",
+ "keyword": "Frido Cuddle Sleep Pillow",
+ "capturedAt": "2026-07-08",
+ "method": "Live scrape flipkart.com mobile search page 1 (__INITIAL_STATE__), query = exact SKU name",
+ "confidence": "Medium-High (live; sponsored flags not exposed on mobile)",
+ "fridoRank": 5,
+ "fridoPresent": true,
+ "results": [
+  {
+   "pos": 1,
+   "title": "AVI Latex Orthopaedic Pillow Pack of 1 Nature 100% Natural",
+   "price": null,
+   "rating": 3.9,
+   "ratings": 408,
+   "isFrido": false
+  },
+  {
+   "pos": 2,
+   "title": "AVI Microfibre Sleeping Pillow Pack of 1 Solid Cloud Spun Height Adjustable",
+   "price": null,
+   "rating": 4,
+   "ratings": 119,
+   "isFrido": false
+  },
+  {
+   "pos": 3,
+   "title": "AVI Microfibre Sleeping Pillow Pack of 2 Solid Cloud Spun Height Adjustable",
+   "price": null,
+   "rating": 4,
+   "ratings": 119,
+   "isFrido": false
+  },
+  {
+   "pos": 4,
+   "title": "AVI Microfibre Body Pillow Pack of 2 Solid",
+   "price": null,
+   "rating": 4,
+   "ratings": 1106,
+   "isFrido": false
+  },
+  {
+   "pos": 5,
+   "title": "Frido Memory Foam Orthopaedic Pillow Pack of 1 Solid Ultimate Deep Sleep Pillow for Neck & Shoulder Pain Relief, King Size 5 Inch",
+   "price": null,
+   "rating": 4.1,
+   "ratings": 805,
+   "isFrido": true
+  },
+  {
+   "pos": 6,
+   "title": "Frido Memory Foam Orthopaedic Pillow Pack of 1 Solid Ultimate Deep Sleep Pillow for Neck & Shoulder Pain Relief, King Size 4 Inch",
+   "price": null,
+   "rating": 4.1,
+   "ratings": 805,
+   "isFrido": true
+  },
+  {
+   "pos": 7,
+   "title": "Frido Memory Foam Sleeping Pillow Pack of 1 Abstract Ultimate Memory Foam Ortho Deep Sleep Pillow | Cooling Cover | King Size 5 Inch",
+   "price": null,
+   "rating": 5,
+   "ratings": 3,
+   "isFrido": true
+  },
+  {
+   "pos": 8,
+   "title": "Frido Memory Foam Sleeping Pillow Pack of 1 Solid Cuddle Pillow | Ultra-Soft Hugging Memory Foam Pillow , Side Sleepers & Travel",
+   "price": null,
+   "rating": 4.5,
+   "ratings": 23,
+   "isFrido": true
+  },
+  {
+   "pos": 9,
+   "title": "Frido Memory Foam Cushion Pack of 2 Solid Wedge Plus with Neck Rest Pillow | Back, Neck, Knee & Leg Support",
+   "price": null,
+   "rating": 4,
+   "ratings": 23,
+   "isFrido": true
+  },
+  {
+   "pos": 10,
+   "title": "Frido Memory Foam Cushion Pack of 1 Solid Wedge Plus Cushion for Sleeping, Acid Reflux Relief, Leg Elevator, Pregnancy",
+   "price": null,
+   "rating": 4.2,
+   "ratings": 217,
+   "isFrido": true
+  },
+  {
+   "pos": 11,
+   "title": "Frido Microfibre Sleeping Pillow Pack of 1 Solid Ultimate Cozy Gel Microfiber Sleeping Pillow, Long Lasting Fluffiness, King Size",
+   "price": null,
+   "rating": 4.3,
+   "ratings": 170,
+   "isFrido": true
+  }
+ ],
+ "notes": []
+}

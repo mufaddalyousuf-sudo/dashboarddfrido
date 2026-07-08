@@ -199,15 +199,60 @@
    "priority": "P1",
    "datasets": [
     {
-     "id": "cervical-orthopedic-pillow",
-     "keyword": "cervical pillow for neck pain",
+     "id": "pillows-ultimate-deep-sleep-pillow",
+     "keyword": "Frido Ultimate Deep Sleep Pillow",
      "primary": true
     },
     {
-     "id": "sleep-pillow",
-     "keyword": "memory foam pillow"
+     "id": "pillows-ultimate-cozy-pillow",
+     "keyword": "Frido Ultimate Cozy Pillow"
+    },
+    {
+     "id": "pillows-ultimate-neck-contour-cervical-plus-pillow",
+     "keyword": "Frido Ultimate Neck Contour Cervical Plus Pillow"
+    },
+    {
+     "id": "pillows-ultra-slim-deep-sleep-pillow",
+     "keyword": "Frido Ultra Slim Deep Sleep Pillow"
+    },
+    {
+     "id": "pillows-cervical-butterfly-pillow",
+     "keyword": "Frido Cervical Butterfly Pillow"
+    },
+    {
+     "id": "pillows-latex-pillow",
+     "keyword": "Frido Latex Pillow"
+    },
+    {
+     "id": "pillows-crescent-adjustable-pillow",
+     "keyword": "Frido Crescent Adjustable Pillow"
+    },
+    {
+     "id": "pillows-cuddle-sleep-pillow",
+     "keyword": "Frido Cuddle Sleep Pillow"
+    },
+    {
+     "id": "pillows-ultimate-neck-contour-cervical-pillow",
+     "keyword": "Frido Ultimate Neck Contour Cervical Pillow"
+    },
+    {
+     "id": "pillows-ultimate-cozy-classic-pillow",
+     "keyword": "Frido Ultimate Cozy Classic Pillow"
+    },
+    {
+     "id": "pillows-deep-sleep-pillow-cover",
+     "keyword": "Frido Deep Sleep Pillow Cover"
+    },
+    {
+     "id": "pillows-latex-pillow-cover",
+     "keyword": "Frido Latex Pillow Cover"
+    },
+    {
+     "id": "pillows-ortho-memory-foam-pillow",
+     "keyword": "Frido Ortho Memory Foam Pillow"
     }
-   ]
+   ],
+   "skuSource": "frido-product-catalog.json (full base-SKU research, 2026-07-08)"
   },
   {
    "id": "mattress-topper-protector",
@@ -216,11 +261,20 @@
    "priority": "P2",
    "datasets": [
     {
-     "id": "mattress-topper",
-     "keyword": "mattress topper",
+     "id": "mattress-topper-protector-ultimate-mattress-topper",
+     "keyword": "Frido Ultimate Mattress Topper",
      "primary": true
+    },
+    {
+     "id": "mattress-topper-protector-mattress-protector",
+     "keyword": "Frido Mattress Protector"
+    },
+    {
+     "id": "mattress-topper-protector-mattress-protector-bamboo-terry-fabric",
+     "keyword": "Frido Mattress Protector - Bamboo Terry Fabric"
     }
-   ]
+   ],
+   "skuSource": "frido-product-catalog.json (full base-SKU research, 2026-07-08)"
   },
   {
    "id": "covers",

@@ -1,0 +1,109 @@
+{
+ "category": "mattress-topper-protector-ultimate-mattress-topper",
+ "marketplace": "flipkart",
+ "keyword": "Frido Ultimate Mattress Topper",
+ "capturedAt": "2026-07-08",
+ "method": "Live scrape flipkart.com mobile search page 1 (__INITIAL_STATE__), query = exact SKU name",
+ "confidence": "Medium-High (live; sponsored flags not exposed on mobile)",
+ "fridoRank": 5,
+ "fridoPresent": true,
+ "results": [
+  {
+   "pos": 1,
+   "title": "Vastrora Queen Size Fitted Terry Cotton Waterproof, Breathable, Stretchable Mattress Cover",
+   "price": null,
+   "rating": 4.1,
+   "ratings": 563,
+   "isFrido": false
+  },
+  {
+   "pos": 2,
+   "title": "Vastrora Queen Size Fitted Terry Cotton Breathable, Stretchable, Waterproof Mattress Cover",
+   "price": null,
+   "rating": 4.2,
+   "ratings": 8524,
+   "isFrido": false
+  },
+  {
+   "pos": 3,
+   "title": "Vastrora Double Size Fitted Terry Cotton Breathable, Stretchable, Waterproof Mattress Cover",
+   "price": null,
+   "rating": 4.2,
+   "ratings": 8524,
+   "isFrido": false
+  },
+  {
+   "pos": 4,
+   "title": "Vastrora Double Size Fitted Terry Cotton Waterproof, Breathable, Stretchable Mattress Cover",
+   "price": null,
+   "rating": 4.1,
+   "ratings": 563,
+   "isFrido": false
+  },
+  {
+   "pos": 5,
+   "title": "Frido 2 inch (5.08 cm) King Size Foam Breathable Mattress Topper",
+   "price": null,
+   "rating": 0,
+   "ratings": 0,
+   "isFrido": true
+  },
+  {
+   "pos": 6,
+   "title": "JAYAMBY 4 inch (10.16 cm) King Size Microfibre Stretchable Mattress Topper",
+   "price": null,
+   "rating": 0,
+   "ratings": 0,
+   "isFrido": false
+  },
+  {
+   "pos": 7,
+   "title": "Frido King Size Foam Waterproof Mattress Topper",
+   "price": null,
+   "rating": 0,
+   "ratings": 0,
+   "isFrido": true
+  },
+  {
+   "pos": 8,
+   "title": "Manavlivings 2 inch (5.08 cm) King Size Microfibre Breathable Mattress Topper",
+   "price": null,
+   "rating": 4.7,
+   "ratings": 6,
+   "isFrido": false
+  },
+  {
+   "pos": 9,
+   "title": "SleepyHug 2 inch (5.08 cm) King Size Foam Breathable Mattress Topper",
+   "price": null,
+   "rating": 4.3,
+   "ratings": 59,
+   "isFrido": false
+  },
+  {
+   "pos": 10,
+   "title": "Frido Single Size Elastic Strap Terry Cotton Waterproof Mattress Cover",
+   "price": null,
+   "rating": 4.5,
+   "ratings": 22,
+   "isFrido": true
+  },
+  {
+   "pos": 11,
+   "title": "Frido Queen Size Foam Waterproof Mattress Topper",
+   "price": null,
+   "rating": 0,
+   "ratings": 0,
+   "isFrido": true
+  },
+  {
+   "pos": 12,
+   "title": "Livpure Smart 2 inch (5.08 cm) Single Size Memory Foam Breathable Mattress Topper",
+   "price": null,
+   "rating": 0,
+   "ratings": 0,
+   "isFrido": false
+  }
+ ],
+ "notes": []
+}

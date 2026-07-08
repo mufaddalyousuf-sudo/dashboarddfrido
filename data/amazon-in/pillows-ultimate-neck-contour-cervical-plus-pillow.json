@@ -1,0 +1,197 @@
+{
+ "category": "pillows-ultimate-neck-contour-cervical-plus-pillow",
+ "marketplace": "amazon-in",
+ "keyword": "Frido Ultimate Neck Contour Cervical Plus Pillow",
+ "capturedAt": "2026-07-08",
+ "method": "Live scrape amazon.in search page 1, query = exact SKU name (brand-qualified)",
+ "confidence": "High (live snapshot, single keyword)",
+ "fridoOrganicRank": 1,
+ "fridoSponsoredSlot": 5,
+ "organic": [
+  {
+   "asin": "B0DCC799DN",
+   "badge": "Amazon's Choice",
+   "price": "1,619",
+   "rating": "4.0",
+   "reviews": "97",
+   "title": "Ultimate Neck Contour Cervical Plus Pillow for Neck, Back Pain, Shoulder Pain, Orthopedic Ergonomic Memory Foam Best Pillow for Cervical Spine Neck Pain Relief ",
+   "rank": 1,
+   "isFridoBrand": true
+  },
+  {
+   "asin": "B0DCC8WKSX",
+   "badge": null,
+   "price": "1,619",
+   "rating": "4.0",
+   "reviews": "97",
+   "title": "Ultimate Neck Contour Cervical Plus Pillow for Neck, Back Pain, Shoulder Pain, Orthopedic Ergonomic Memory Foam Best Pillow for Cervical Spine Neck Pain Relief ",
+   "rank": 2
+  },
+  {
+   "asin": "B0DXBFFF7B",
+   "badge": "Bestseller",
+   "price": "649",
+   "rating": "3.9",
+   "reviews": "1,776",
+   "title": "Contour Cervical Memory Foam Pillow | 2-Year Manufacturing Warranty | Ergonomic 3-Zone Orthopedic Pillow for Neck Support & Cervical Spine Alignment | Made in I",
+   "rank": 3
+  },
+  {
+   "asin": "B0H361NFBW",
+   "badge": null,
+   "price": "449",
+   "rating": "4.6",
+   "reviews": "64",
+   "title": "𝗞𝗢𝗦𝗠𝗘𝗥 Memory Foam Pillow, Contour Cervical Orthopedic Memory Foam Pillows Supports Neck Pain and Shoulder Pain for Sleeping, Ergonomic Cervical Neck Support Pi",
+   "rank": 4
+  },
+  {
+   "asin": "B0H364D2NJ",
+   "badge": null,
+   "price": "449",
+   "rating": "4.6",
+   "reviews": "64",
+   "title": "𝗞𝗢𝗦𝗠𝗘𝗥 Memory Foam Pillow, Contour Cervical Orthopedic Memory Foam Pillows Supports Neck Pain and Shoulder Pain for Sleeping, Ergonomic Cervical Neck Support Pi",
+   "rank": 5
+  },
+  {
+   "asin": "B0C8GX4HSB",
+   "badge": null,
+   "price": "899",
+   "rating": "4.0",
+   "reviews": "912",
+   "title": "Cervical Pillow for Neck Pain and Shoulder Pain for Sleeping | 2 Years Warranty | Memory Foam Pillow with Dual - Pack of 1 - White",
+   "rank": 6
+  },
+  {
+   "asin": "B0BS74W4Y7",
+   "badge": null,
+   "price": "1,619",
+   "rating": "4.2",
+   "reviews": "2,099",
+   "title": "Ultimate Deep Sleep Pillow | King Size 4 Inch Height | Orthopedic Grade Gel Memory Foam for Neck & Shoulder Pain Relief, Includes Bamboo Pillow Cover, Pack of 1",
+   "rank": 7
+  },
+  {
+   "asin": "B0GRTY5QFR",
+   "badge": null,
+   "price": "599",
+   "rating": "4.0",
+   "reviews": "224",
+   "title": "Memory Foam Cervical Pillow for Neck Pain | Orthopedic Contour Neck Support Pillow for Sleeping, for Neck and Shoulder Pain, Dual Height (Grey Jacquard Cover, P",
+   "rank": 8
+  },
+  {
+   "asin": "B0GZNMR9X3",
+   "badge": null,
+   "price": "439",
+   "rating": "4.0",
+   "reviews": "43",
+   "title": "Memory Foam Cervical Pillow for Neck Pain Relief Ergonomic Contour Design for Back & Side Sleepers Breathable Washable Cover Neck Support Sleeping Pillow",
+   "rank": 9
+  },
+  {
+   "asin": "B0FKM69BB5",
+   "badge": "Bestseller",
+   "price": "599",
+   "rating": "4.0",
+   "reviews": "602",
+   "title": "Cervical Pillow for Neck Pain | 2 Years Warranty | for Spondylitis Neck & Shoulder Pain, Orthopedic Memory Foam Pillow for Sleeping, Standard Size, 18 x 11 x 3.",
+   "rank": 10
+  }
+ ],
+ "sponsored": [
+  {
+   "asin": "B0DSV9M1ZN",
+   "badge": null,
+   "price": "2,299",
+   "rating": "4.2",
+   "reviews": "381",
+   "title": "PosturePro Premium Cervical Pillow for Neck Pain and Shoulder Pain, Memory Foam Pillow, Cervical Pillow for Spondylitis Neck, Contour Pillow for Neck Pain (Set ",
+   "slot": 1
+  },
+  {
+   "asin": "B0D1KL1J3V",
+   "badge": null,
+   "price": "999",
+   "rating": "3.6",
+   "reviews": "20",
+   "title": "Orthopedic Memory Foam Contour Cervical Pillow for Neck &Shoulder Pain Extra Curve Neck Support Pillow for Sleeping Side &Back Sleepers (Memory Foam, Black/Whit",
+   "slot": 2
+  },
+  {
+   "asin": "B0CSFVK8TJ",
+   "badge": null,
+   "price": "949",
+   "rating": "3.9",
+   "reviews": "726",
+   "title": "Cervical Pillow for Neck Pain | 1 Year Warranty | Orthopedic Pillows for Neck Pain and Shoulder Pain, Cervical Pillow for Spondylitis Neck, Contour Memory Foam ",
+   "slot": 3
+  },
+  {
+   "asin": "B0D53R7N5F",
+   "badge": null,
+   "price": "1,234",
+   "rating": "4.1",
+   "reviews": "16",
+   "title": "Cervical Pillow for Neck Pain | 1 Year Warranty | Cervical Contour Orthopedic Pillow for Neck and Shoulder Pain Relief Ergonomic Memory Foam Pillows for Sleepin",
+   "slot": 4
+  },
+  {
+   "asin": "B0CR3VY132",
+   "badge": null,
+   "price": "2,794",
+   "rating": "4.1",
+   "reviews": "1,628",
+   "title": "Ultimate Contour Cervical Neck Pillow | For Pain Relief Sleep | Improves Posture & Spinal Alignment | Neck Cushion with Ultra Responsive Memory Foam & Skin Frie",
+   "slot": 5,
+   "isFridoBrand": true
+  },
+  {
+   "asin": "B0DYVK2TWR",
+   "badge": null,
+   "price": "549",
+   "rating": "4.0",
+   "reviews": "548",
+   "title": "Cervical Memory Foam Pillow for Neck Pain | 2 Year Warranty | 19 x 11 x 4 Inch Standard | Orthopedic Pillow Spondylitis Neck & Shoulder Pain | Washable Jacquard",
+   "slot": 6
+  },
+  {
+   "asin": "B09XFFBND4",
+   "badge": null,
+   "price": "1,999",
+   "rating": "4.2",
+   "reviews": "3,557",
+   "title": "CoolTEC™ Cervical Memory Foam Pillow | Full Size Contour Design for Neck Support | No Sagging, No Breaking | Upto 4° Cooler | Perforated Real Memory Foam | Whit",
+   "slot": 7
+  },
+  {
+   "asin": "B0DXBCP7M4",
+   "badge": "Bestseller",
+   "price": "599",
+   "rating": "3.9",
+   "reviews": "1,776",
+   "title": "Cervical Memory Foam Pillow for Neck Support | 2-Year Manufacturing Warranty | Orthopedic Contour Pillow for Cervical Spine Alignment & Shoulder Support | Made ",
+   "slot": 8
+  },
+  {
+   "asin": "B0CLDN29H7",
+   "badge": null,
+   "price": "999",
+   "rating": "4.1",
+   "reviews": "192",
+   "title": "Careforce Orthopedic Cervical Pillow for Neck and Shoulder Pain Relief Ergonomic Memory Foam Pillows for Sleeping Ideal for Chronic Neck Pain & Spinal Alignment",
+   "slot": 9
+  },
+  {
+   "asin": "B08VJCPK4H",
+   "badge": null,
+   "price": "1,809",
+   "rating": "3.8",
+   "reviews": "304",
+   "title": "Cervical Contour Ergonomic Orthopedic Memory Foam Pillow for Neck & Back Pain Relief Designed for All Sleeping Positions- Side, Back, Stomach- Butterfly Cervica",
+   "slot": 10
+  }
+ ],
+ "notes": []
+}

@@ -1,0 +1,197 @@
+{
+ "category": "pillows-crescent-adjustable-pillow",
+ "marketplace": "amazon-in",
+ "keyword": "Frido Crescent Adjustable Pillow",
+ "capturedAt": "2026-07-08",
+ "method": "Live scrape amazon.in search page 1, query = exact SKU name (brand-qualified)",
+ "confidence": "High (live snapshot, single keyword)",
+ "fridoOrganicRank": 1,
+ "fridoSponsoredSlot": 5,
+ "organic": [
+  {
+   "asin": "B0H4W2WHCR",
+   "badge": null,
+   "price": "1,499",
+   "rating": "4.2",
+   "reviews": "1,267",
+   "title": "Crescent Adjustable Pillow for Side Sleepers, Ergonomic Neck & Shoulder Support, Customizable Loft, Cooling Airflow & Adaptive Comfort for Better Sleep, Half-Mo",
+   "rank": 1,
+   "isFridoBrand": true
+  },
+  {
+   "asin": "B0CR3PBD24",
+   "badge": null,
+   "price": "1,494",
+   "rating": "4.1",
+   "reviews": "1,628",
+   "title": "Ultimate Contour Cervical Neck Pillow | for Pain Relief Sleep | Improves Posture & Spinal Alignment | Neck Pain Relief Cushion with Ultra Responsive Memory Foam",
+   "rank": 2
+  },
+  {
+   "asin": "B0FB3YZRBQ",
+   "badge": null,
+   "price": "2,194",
+   "rating": "3.8",
+   "reviews": "160",
+   "title": "Maternity Pillow | Dual Pregnancy Wedge Pillows for Back & Belly Support | Adjustable Butterfly Design | Travel-Friendly Pregnancy Pillow | Hypoallergenic Organ",
+   "rank": 3
+  },
+  {
+   "asin": "B0FKBY1FWP",
+   "badge": null,
+   "price": "1,194",
+   "rating": "4.0",
+   "reviews": "264",
+   "title": "Orthopedic Knee Pillow with Adjustable Strap | Memory Foam Leg Pillow for Side Sleepers | Sciatica Pain Relief, Hip, Back & Knee Support | Leg Rest Cushion with",
+   "rank": 4
+  },
+  {
+   "asin": "B0D31TM3XL",
+   "badge": null,
+   "price": "1,529",
+   "rating": "4.2",
+   "reviews": "2,099",
+   "title": "Ultimate Deep Sleep Pillow | King Size 5 Inch Height | Orthopedic Grade Gel Memory Foam for Neck & Shoulder Pain Relief, Includes Bamboo Pillow Cover, Pack of 1",
+   "rank": 5
+  },
+  {
+   "asin": "B0H4ZYJRNS",
+   "badge": null,
+   "price": "2,499",
+   "rating": null,
+   "reviews": null,
+   "title": "Maternity Pillow Plus, Adjustable Pregnancy Pillow for Side Sleeping, D-Shaped Belly & Back Support Wedges, Comfortable Sleep Through Every Trimester, Washable ",
+   "rank": 6
+  },
+  {
+   "asin": "B0G1YJDYDK",
+   "badge": null,
+   "price": "599",
+   "rating": "4.2",
+   "reviews": "92",
+   "title": "All Season Sleeping Pillow | Adjustable Shredded Memory Foam Pillow for Bed | For Side & Back Sleepers – Relieves Neck & Shoulder Pain, Soft Washable Cool Fabri",
+   "rank": 7
+  },
+  {
+   "asin": "B0H5122XDF",
+   "badge": null,
+   "price": "2,499",
+   "rating": null,
+   "reviews": null,
+   "title": "Maternity Pillow Plus, Adjustable Pregnancy Pillow for Side Sleeping, D-Shaped Belly & Back Support Wedges, Comfortable Sleep Through Every Trimester, Washable ",
+   "rank": 8
+  },
+  {
+   "asin": "B0DCC8WKSX",
+   "badge": null,
+   "price": "1,619",
+   "rating": "4.0",
+   "reviews": "97",
+   "title": "Ultimate Neck Contour Cervical Plus Pillow for Neck, Back Pain, Shoulder Pain, Orthopedic Ergonomic Memory Foam Best Pillow for Cervical Spine Neck Pain Relief ",
+   "rank": 9
+  },
+  {
+   "asin": "B0GM62TRB7",
+   "badge": null,
+   "price": "425",
+   "rating": "3.7",
+   "reviews": "132",
+   "title": "Sleeping Pillow, Shredded Memory Foam Adjustable Soft Pillow for Sleeping - 22 x 16 Inch, for Back & Side Sleepers – Relieves Neck & Shoulder Pain, Premium Wash",
+   "rank": 10
+  }
+ ],
+ "sponsored": [
+  {
+   "asin": "B0DMKDY515",
+   "badge": null,
+   "price": "1,619",
+   "rating": "4.1",
+   "reviews": "1,120",
+   "title": "Travel Neck Pillow, 100% Hi-Per Foam, Lightweight Neck Support Pillow, Neck Pillow for Flight Travel, Memory Foam Car Neck Pillow, Adjustable Velcro Straps, Fre",
+   "slot": 1
+  },
+  {
+   "asin": "B0DSV9M1ZN",
+   "badge": null,
+   "price": "2,299",
+   "rating": "4.2",
+   "reviews": "381",
+   "title": "PosturePro Premium Cervical Pillow for Neck Pain and Shoulder Pain, Memory Foam Pillow, Cervical Pillow for Spondylitis Neck, Contour Pillow for Neck Pain (Set ",
+   "slot": 2
+  },
+  {
+   "asin": "B0BVZPP5NG",
+   "badge": null,
+   "price": "1,299",
+   "rating": "4.2",
+   "reviews": "1,323",
+   "title": "The Travel Pillow | Memory Foam Neck Support Cushion | Ergonomic Cervical Pain Relief | Adjustable Headrest for Airplane Car & Train |Washable Cover | Essential",
+   "slot": 3
+  },
+  {
+   "asin": "B0CPZQK127",
+   "badge": null,
+   "price": "1,239",
+   "rating": "4.2",
+   "reviews": "687",
+   "title": "Ultimate Cervical Neck Pillow for Pain Relief Sleep | Improves Posture & Spinal Alignment | Neck Pain Relief Cushion with Ultra Responsive Memory Foam & Skin Fr",
+   "slot": 4
+  },
+  {
+   "asin": "B0F2YY3JFZ",
+   "badge": null,
+   "price": "999",
+   "rating": "4.2",
+   "reviews": "1,267",
+   "title": "Ortho Memory Foam Pillow | Height-Adjustable Ergonomic Pillow for Neck & Spine Support | Premium Comfort for Side, Back, and Stomach Sleepers | Breathable, Wash",
+   "slot": 5,
+   "isFridoBrand": true
+  },
+  {
+   "asin": "B0GF7HCYQ5",
+   "badge": null,
+   "price": "2,199",
+   "rating": "4.6",
+   "reviews": "272",
+   "title": "Leg Elevation Wedge Pillow for Edema, Varicose Veins, Fracture | High Resilience Foam Cushion for Leg, Knee & Thigh Support | Back Pain & Swelling Relief | Ligh",
+   "slot": 6
+  },
+  {
+   "asin": "B0GY4PRT9H",
+   "badge": null,
+   "price": "549",
+   "rating": null,
+   "reviews": null,
+   "title": "Memory Foam Travel Pillow for Neck Pain Relief, Includes Eye Mask & Noise Isolating Ear Plugs, Portable Combo for Men & Women, Ideal for Long Flights & Road Tri",
+   "slot": 7
+  },
+  {
+   "asin": "B0CYCGPGR3",
+   "badge": null,
+   "price": "2,819",
+   "rating": "4.0",
+   "reviews": "457",
+   "title": "Adjustable Wedge Pillow with Headrest – Memory Foam & HR Foam for Back Support, Acid Reflux & Leg Elevation – Standard Size – 12\" H – Grey",
+   "slot": 8
+  },
+  {
+   "asin": "B0D4ZFJFD5",
+   "badge": null,
+   "price": "1,199",
+   "rating": "4.3",
+   "reviews": "646",
+   "title": "Memory Foam Wedge Pillow for Neck & Back Pain Relief (Wedge Pillow, Greyone Size)",
+   "slot": 9
+  },
+  {
+   "asin": "B0GTW57FN7",
+   "badge": null,
+   "price": "1,599",
+   "rating": "4.4",
+   "reviews": "70",
+   "title": "Hot & Cold Therapy Cap | 360° Full Head Coverage | Reusable Cooling & Warming Cap with Gentle Compression | Purple",
+   "slot": 10
+  }
+ ],
+ "notes": []
+}

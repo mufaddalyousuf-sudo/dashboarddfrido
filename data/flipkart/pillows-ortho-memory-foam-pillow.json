@@ -1,0 +1,85 @@
+{
+ "category": "pillows-ortho-memory-foam-pillow",
+ "marketplace": "flipkart",
+ "keyword": "Frido Ortho Memory Foam Pillow",
+ "capturedAt": "2026-07-08",
+ "method": "Live scrape flipkart.com mobile search page 1 (__INITIAL_STATE__), query = exact SKU name",
+ "confidence": "Medium-High (live; sponsored flags not exposed on mobile)",
+ "fridoRank": 1,
+ "fridoPresent": true,
+ "results": [
+  {
+   "pos": 1,
+   "title": "Frido Memory Foam Orthopaedic Pillow Pack of 1 Solid Ultimate Deep Sleep Pillow for Neck & Shoulder Pain Relief, King Size 4 Inch",
+   "price": null,
+   "rating": 4.1,
+   "ratings": 805,
+   "isFrido": true
+  },
+  {
+   "pos": 2,
+   "title": "Frido Memory Foam Cervical Pack of 1 Solid Ultimate Contour Cervical Neck Pillow for Pain Relief Sleep",
+   "price": null,
+   "rating": 4.2,
+   "ratings": 53,
+   "isFrido": true
+  },
+  {
+   "pos": 3,
+   "title": "Frido Memory Foam Sleeping Pillow Pack of 1 Abstract Ultimate Memory Foam Ortho Deep Sleep Pillow | Cooling Cover | King Size 5 Inch",
+   "price": null,
+   "rating": 5,
+   "ratings": 3,
+   "isFrido": true
+  },
+  {
+   "pos": 4,
+   "title": "Frido Memory Foam, Microfibre Orthopaedic Pillow Pack of 1 Geometric Crescent Adjustable Sleeping Pillow | Neck & Shoulder Support| Half-Moon Design",
+   "price": null,
+   "rating": 0,
+   "ratings": 0,
+   "isFrido": true
+  },
+  {
+   "pos": 5,
+   "title": "Frido Memory Foam Sleeping Pillow Pack of 1 Abstract Ultimate Memory Foam Ortho Deep Sleep Pillow | Cooling Cover | King Size 4 Inch",
+   "price": null,
+   "rating": 5,
+   "ratings": 3,
+   "isFrido": true
+  },
+  {
+   "pos": 6,
+   "title": "Frido Memory Foam Orthopaedic Pillow Pack of 1 Solid Ultimate Deep Sleep Pillow for Neck & Shoulder Pain Relief, King Size 5 Inch",
+   "price": null,
+   "rating": 4.1,
+   "ratings": 805,
+   "isFrido": true
+  },
+  {
+   "pos": 7,
+   "title": "Frido Memory Foam Sleeping Pillow Pack of 1 Solid Cuddle Pillow | Ultra-Soft Hugging Memory Foam Pillow , Side Sleepers & Travel",
+   "price": null,
+   "rating": 4.5,
+   "ratings": 23,
+   "isFrido": true
+  },
+  {
+   "pos": 8,
+   "title": "Frido Memory Foam Orthopaedic Pillow Pack of 2 Solid Ultimate Deep Sleep Pillow for Neck & Shoulder Pain Relief, King Size 4 Inch",
+   "price": null,
+   "rating": 4.1,
+   "ratings": 805,
+   "isFrido": true
+  },
+  {
+   "pos": 9,
+   "title": "Dr. Ortho Memory Foam Orthopaedic Pillow Pack of 1 Solid",
+   "price": null,
+   "rating": 4,
+   "ratings": 705,
+   "isFrido": false
+  }
+ ],
+ "notes": []
+}

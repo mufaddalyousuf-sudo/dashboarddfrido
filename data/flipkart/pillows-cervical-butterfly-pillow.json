@@ -1,0 +1,77 @@
+{
+ "category": "pillows-cervical-butterfly-pillow",
+ "marketplace": "flipkart",
+ "keyword": "Frido Cervical Butterfly Pillow",
+ "capturedAt": "2026-07-08",
+ "method": "Live scrape flipkart.com mobile search page 1 (__INITIAL_STATE__), query = exact SKU name",
+ "confidence": "Medium-High (live; sponsored flags not exposed on mobile)",
+ "fridoRank": 1,
+ "fridoPresent": true,
+ "results": [
+  {
+   "pos": 1,
+   "title": "Frido Ultimate Cervical Neck Pillow for Pain Relief Sleep, Pack of 2 Cervical Pillow",
+   "price": null,
+   "rating": 3.8,
+   "ratings": 6,
+   "isFrido": true
+  },
+  {
+   "pos": 2,
+   "title": "Frido Ultimate Contour Cervical Neck Pillow for Pain Relief Sleep, Pack of 2 Cervical Pillow",
+   "price": null,
+   "rating": 4.1,
+   "ratings": 29,
+   "isFrido": true
+  },
+  {
+   "pos": 3,
+   "title": "FOVERA Gel Memory Foam Pain Relief Cervical Pillow",
+   "price": null,
+   "rating": 4.2,
+   "ratings": 2628,
+   "isFrido": false
+  },
+  {
+   "pos": 4,
+   "title": "AGEasy Cervical Pillow Memory Foam Solid Orthopaedic Pillow Cervical Pillow",
+   "price": null,
+   "rating": 4.2,
+   "ratings": 123,
+   "isFrido": false
+  },
+  {
+   "pos": 5,
+   "title": "Frido Ultimate Neck for Pain Relief Sleep, Pack of 2 Cervical Pillow",
+   "price": null,
+   "rating": 3.8,
+   "ratings": 4,
+   "isFrido": true
+  },
+  {
+   "pos": 6,
+   "title": "Frido Ultimate Cervical Neck Pillow for Pain Relief Sleep, Pack of 4 Cervical Pillow",
+   "price": null,
+   "rating": 0,
+   "ratings": 0,
+   "isFrido": true
+  },
+  {
+   "pos": 7,
+   "title": "MY ARMOR Orthopedic Memory Foam Cervical Pillow for Neck & Shoulder Pain with Outer Cover Cervical Pillow",
+   "price": null,
+   "rating": 4.1,
+   "ratings": 2524,
+   "isFrido": false
+  },
+  {
+   "pos": 8,
+   "title": "Frido Ultimate Pro Seat Cushion & Posture Corrector Backrest Combo Back / Lumbar Support",
+   "price": null,
+   "rating": 4,
+   "ratings": 385,
+   "isFrido": true
+  }
+ ],
+ "notes": []
+}

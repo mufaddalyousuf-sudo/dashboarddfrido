@@ -1,0 +1,197 @@
+{
+ "category": "pillows-deep-sleep-pillow-cover",
+ "marketplace": "amazon-in",
+ "keyword": "Frido Deep Sleep Pillow Cover",
+ "capturedAt": "2026-07-08",
+ "method": "Live scrape amazon.in search page 1, query = exact SKU name (brand-qualified)",
+ "confidence": "High (live snapshot, single keyword)",
+ "fridoOrganicRank": 1,
+ "fridoSponsoredSlot": 5,
+ "organic": [
+  {
+   "asin": "B0GY4RM3K7",
+   "badge": null,
+   "price": "499",
+   "rating": "4.0",
+   "reviews": "2",
+   "title": "Deep Sleep Pillow Cooling Cover | Soft, Breathable & Odor-Resistant | Durable Zipper & Machine Washable | Premium Cooling Fabric for Comfort",
+   "rank": 1,
+   "isFridoBrand": true
+  },
+  {
+   "asin": "B0GWRBV8Z5",
+   "badge": null,
+   "price": "1,999",
+   "rating": "4.3",
+   "reviews": "11",
+   "title": "Ultimate Deep Sleep Pillow with Cooling Cover | Orthopaedic Gel Memory Foam Pillow for Neck & Shoulder Pain Relief | Breathable, Pressure Relief for Side & Back",
+   "rank": 2
+  },
+  {
+   "asin": "B0GYYNBCNF",
+   "badge": null,
+   "price": "499",
+   "rating": null,
+   "reviews": null,
+   "title": "Latex Pillow Cover | Soft, Breathable & Odor-Resistant | Durable Zipper & Machine Washable | Premium Cooling Fabric for Comfort | Colling Cover",
+   "rank": 3
+  },
+  {
+   "asin": "B09Y5BHJ4X",
+   "badge": null,
+   "price": "416",
+   "rating": "4.4",
+   "reviews": "789",
+   "title": "Ultra Soft Terry Waterproof Pillow Protector Cover with Zippered Closure | Dust Mite - Bed Bug Protection | Oil and Water Spill Protection Covers (Large: 20 x 3",
+   "rank": 4
+  },
+  {
+   "asin": "B0GWRP1DB9",
+   "badge": null,
+   "price": "1,999",
+   "rating": "4.3",
+   "reviews": "11",
+   "title": "Ultimate Deep Sleep Pillow with Cooling Cover | Orthopedic Gel Memory Foam Pillow for Neck & Shoulder Pain Relief | Breathable, Pressure Relief for Side & Back ",
+   "rank": 5
+  },
+  {
+   "asin": "B0BFP1WSMG",
+   "badge": "Bestseller",
+   "price": "439",
+   "rating": "4.2",
+   "reviews": "861",
+   "title": "Pillow Protector Waterproof | Pillow Covers Set of 2 & Dustproof Cotton Terry Pillow, 220+ GSM Standard Size Pillow Cover (18 x 28 Inches) – Grey",
+   "rank": 6
+  },
+  {
+   "asin": "B0FG2NDX8Q",
+   "badge": null,
+   "price": "599",
+   "rating": "4.2",
+   "reviews": "3,012",
+   "title": "Wedge Plus Cushion Cover | Ultrasoft, Breathable & Cool Pillow Cover | Aesthetic Pillow Cover for Home | Durable & Machine Washable | Black",
+   "rank": 7
+  },
+  {
+   "asin": "B0DFLZRL8J",
+   "badge": null,
+   "price": "299",
+   "rating": "4.1",
+   "reviews": "40",
+   "title": "Waterproof Pillow Protector 28x18 Inches 200 GSM with Zipper (Pack of 2) – Soft Cotton Pillow Cover, Dust Mite Proof & Anti-Allergic Pillow Protector Cover (Gre",
+   "rank": 8
+  },
+  {
+   "asin": "B0GVZ5KY1Q",
+   "badge": null,
+   "price": "299",
+   "rating": "5.0",
+   "reviews": "1",
+   "title": "Waterproof Pillow Protector 28x18 Inches 200 GSM with Zipper (Pack of 2) – Soft Cotton Pillow Cover, Dust Mite Proof & Anti-Allergic Pillow Protector Cover (Dar",
+   "rank": 9
+  },
+  {
+   "asin": "B0FPMFG9NW",
+   "badge": null,
+   "price": "799",
+   "rating": "4.2",
+   "reviews": "1,267",
+   "title": "Ultimate Cozy Classic Pillow - A Super Soft & Fluffy Pillow for Sleeping - Premium Comfort for Side, Back & Stomach Sleepers - White, Set of 1",
+   "rank": 10
+  }
+ ],
+ "sponsored": [
+  {
+   "asin": "B09NVS9TX2",
+   "badge": null,
+   "price": "1,376",
+   "rating": "4.0",
+   "reviews": "287",
+   "title": "100% Pure Mulberry Silk Pillowcase | 22 Momme 6A Grade Silk Pillow Cover for Hair & Skin | Cooling, Breathable, Smooth & Soft | Hidden Zipper Closure | Anti-Fri",
+   "slot": 1
+  },
+  {
+   "asin": "B09PK3QPLR",
+   "badge": "Bestseller",
+   "price": "265",
+   "rating": "4.3",
+   "reviews": "7,121",
+   "title": "Solid Satin Silk Pillow Covers Pack of 2 for Hair and Skin-with Satin Scrunchies |Satin Pillow coves for Hair and Skin|scrunchies for Women 3-Pieces|Silk Pillow",
+   "slot": 2
+  },
+  {
+   "asin": "B0CWLCGJDC",
+   "badge": null,
+   "price": "539",
+   "rating": "4.4",
+   "reviews": "324",
+   "title": "Cotton ?Solid Pillow Case with Envelope Closure - Pack of 2 Count | Coloured with AZO-Free Dyes and Oeko-Tex Certified | Machine Washable, Twilight Blue (Standa",
+   "slot": 3
+  },
+  {
+   "asin": "B0F2JN3KGN",
+   "badge": null,
+   "price": "859",
+   "rating": "4.3",
+   "reviews": "615",
+   "title": "Printed Cotton Quilted Pillow Cover - Set of 2|Ultra-Soft,Cooling&Breathable|Skin&Hair Friendly|Zipper Closure|Sweat-Absorbent&Hypoallergenic (20x36 Inches,Crim",
+   "slot": 4
+  },
+  {
+   "asin": "B0BS74W4Y7",
+   "badge": "Bestseller",
+   "price": "1,619",
+   "rating": "4.2",
+   "reviews": "2,099",
+   "title": "Ultimate Deep Sleep Pillow | King Size 4 Inch Height | Orthopedic Grade Gel Memory Foam for Neck & Shoulder Pain Relief, Includes Bamboo Pillow Cover, Pack of 1",
+   "slot": 5,
+   "isFridoBrand": true
+  },
+  {
+   "asin": "B0DJ1JT76F",
+   "badge": null,
+   "price": "599",
+   "rating": "4.2",
+   "reviews": "137",
+   "title": "Solid Bamboo Pillow Cover Set of 2 | 100% Bamboo Pillow Cover For Hair And Skin|Breathable,Silky Soft & Cooling Envelope Pillowcases For Hot Sleepers & Night Sw",
+   "slot": 6
+  },
+  {
+   "asin": "B0CPZGCS4L",
+   "badge": null,
+   "price": "1,234",
+   "rating": "4.2",
+   "reviews": "687",
+   "title": "Ultimate Cervical Neck Pillow for Pain Relief Sleep | Improves Posture & Spinal Alignment | Neck Pain Relief Cushion with Ultra Responsive Memory Foam & Skin Fr",
+   "slot": 7
+  },
+  {
+   "asin": "B0816LHML4",
+   "badge": null,
+   "price": "1,999",
+   "rating": "4.3",
+   "reviews": "293",
+   "title": "400 TC 100% Cotton 78x72 inch King Elastic Fitted Bedsheet|Premium Hotel Quality Fitted Plain Elastic Bedsheet with 2 Pillow Covers (78\" x72 |6.5x6ft, Silver Gr",
+   "slot": 8
+  },
+  {
+   "asin": "B0CYT9TQRL",
+   "badge": null,
+   "price": "399",
+   "rating": "4.1",
+   "reviews": "22,648",
+   "title": "Hollow Fiber Sleeping Pillow with Zip | Soft and Fluffy | Premium Soft Spun Polyester Outer Cover | Adjustable Height | White and Brown - 27 x 16 inch (Pack of ",
+   "slot": 9
+  },
+  {
+   "asin": "B0C33FCLGZ",
+   "badge": null,
+   "price": "1,215",
+   "rating": "4.5",
+   "reviews": "4",
+   "title": "Madison Avenue Cotton with Light Silky and Sateen 400 Thread Count 2 Pillow Cover (18\" x 27\" inch Black)",
+   "slot": 10
+  }
+ ],
+ "notes": []
+}

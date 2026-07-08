@@ -1,0 +1,69 @@
+{
+ "category": "pillows-ultimate-cozy-classic-pillow",
+ "marketplace": "flipkart",
+ "keyword": "Frido Ultimate Cozy Classic Pillow",
+ "capturedAt": "2026-07-08",
+ "method": "Live scrape flipkart.com mobile search page 1 (__INITIAL_STATE__), query = exact SKU name",
+ "confidence": "Medium-High (live; sponsored flags not exposed on mobile)",
+ "fridoRank": 1,
+ "fridoPresent": true,
+ "results": [
+  {
+   "pos": 1,
+   "title": "Frido Memory Foam Sleeping Pillow Pack of 1 Solid Cuddle Pillow | Ultra-Soft Hugging Memory Foam Pillow , Side Sleepers & Travel",
+   "price": null,
+   "rating": 4.5,
+   "ratings": 23,
+   "isFrido": true
+  },
+  {
+   "pos": 2,
+   "title": "Frido Memory Foam Orthopaedic Pillow Pack of 1 Solid Ultimate Deep Sleep Pillow for Neck & Shoulder Pain Relief, King Size 5 Inch",
+   "price": null,
+   "rating": 4.1,
+   "ratings": 805,
+   "isFrido": true
+  },
+  {
+   "pos": 3,
+   "title": "Frido Foam Orthopaedic Pillow Pack of 1 Solid High Density Foam Support Cushion",
+   "price": null,
+   "rating": 4.4,
+   "ratings": 31,
+   "isFrido": true
+  },
+  {
+   "pos": 4,
+   "title": "Frido Memory Foam Cushion Pack of 2 Solid Wedge Plus with Neck Rest Pillow | Back, Neck, Knee & Leg Support",
+   "price": null,
+   "rating": 4,
+   "ratings": 23,
+   "isFrido": true
+  },
+  {
+   "pos": 5,
+   "title": "Frido Microfibre Sleeping Pillow Pack of 1 Solid Ultimate Cozy Gel Microfiber Sleeping Pillow, Long Lasting Fluffiness, King Size",
+   "price": null,
+   "rating": 4.3,
+   "ratings": 170,
+   "isFrido": true
+  },
+  {
+   "pos": 6,
+   "title": "Frido Polyester Fibre Sleeping Pillow Pack of 4 Solid Ultimate Cozy Classic Pillow, Soft & Fluffy, Hypoallergenic",
+   "price": null,
+   "rating": 4.7,
+   "ratings": 20,
+   "isFrido": true
+  },
+  {
+   "pos": 7,
+   "title": "Frido Polyester Fibre Sleeping Pillow Pack of 1 Solid Ultimate Cozy Classic Pillow, Soft & Fluffy, Hypoallergenic",
+   "price": null,
+   "rating": 4.7,
+   "ratings": 20,
+   "isFrido": true
+  }
+ ],
+ "notes": []
+}

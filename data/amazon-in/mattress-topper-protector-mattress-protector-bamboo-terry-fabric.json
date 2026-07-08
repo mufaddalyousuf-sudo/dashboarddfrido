@@ -1,0 +1,179 @@
+{
+ "category": "mattress-topper-protector-mattress-protector-bamboo-terry-fabric",
+ "marketplace": "amazon-in",
+ "keyword": "Frido Mattress Protector - Bamboo Terry Fabric",
+ "capturedAt": "2026-07-08",
+ "method": "Live scrape amazon.in search page 1, query = exact SKU name (brand-qualified)",
+ "confidence": "High (live snapshot, single keyword)",
+ "fridoOrganicRank": 1,
+ "fridoSponsoredSlot": 3,
+ "organic": [
+  {
+   "asin": "B0H4W1T1MB",
+   "badge": null,
+   "price": "2,049",
+   "rating": "4.3",
+   "reviews": "124",
+   "title": "Frido Bamboo Waterproof Mattress Protector for King Beds (78 x 72 Inch), Soft Bamboo Terry Comfort, Cooling Breathable & Noiseless Mattress Cover, Fit for Mattr",
+   "rank": 1,
+   "isFridoBrand": true
+  },
+  {
+   "asin": "B0H4WJ7DYG",
+   "badge": null,
+   "price": "1,899",
+   "rating": "4.3",
+   "reviews": "124",
+   "title": "Frido Bamboo Waterproof Mattress Protector for Queen Beds (78 x 60 Inch), Soft Bamboo Terry Comfort, Cooling Breathable & Noiseless Mattress Cover, Fit for Matt",
+   "rank": 2
+  },
+  {
+   "asin": "B09WDJKRLZ",
+   "badge": null,
+   "price": "849",
+   "rating": "4.2",
+   "reviews": "7,368",
+   "title": "Sleepyhead 100% Waterproof Bamboo Mattress Protector | Single Size, 72 x 36 Inches | Soft Terry Breathable & Ultra Soft Fitted Bed Protector | Grey",
+   "rank": 3
+  },
+  {
+   "asin": "B0837TZPJZ",
+   "badge": null,
+   "price": "649",
+   "rating": "4.2",
+   "reviews": "41,253",
+   "title": "Trance Cotton Feel Terry Ultra Soft Waterproof Mattress Protector | Breathable - Hypoallergenic Mattresses Cover (75x60 inch | 6.25x5 feet, Grey - Pack of 1)",
+   "rank": 4
+  },
+  {
+   "asin": "B0CTHQNJMB",
+   "badge": null,
+   "price": "1,484",
+   "rating": "4.4",
+   "reviews": "19,365",
+   "title": "Wakefit Waterproof Bamboo Mattress Protector | Anti-Bacterial Bed Cover, Hypoallergenic, Ultra Soft Fitted Cover - Lavender (75x72 Inch) - King",
+   "rank": 5
+  },
+  {
+   "asin": "B09WDKRKH9",
+   "badge": null,
+   "price": "1,189",
+   "rating": "4.2",
+   "reviews": "7,368",
+   "title": "Sleepyhead 100% Waterproof Bamboo Mattress Protector | Queen Size, 75 x 60 Inches | Soft Terry Breathable & Ultra Soft Fitted Bed Protector | Grey",
+   "rank": 6
+  },
+  {
+   "asin": "B09WDGTNH1",
+   "badge": null,
+   "price": "849",
+   "rating": "4.2",
+   "reviews": "7,368",
+   "title": "Sleepyhead 100% Waterproof Bamboo Mattress Protector | Single Size, 75 x 36 Inches | Soft Terry Breathable & Ultra Soft Fitted Bed Protector | Grey",
+   "rank": 7
+  },
+  {
+   "asin": "B0BL88SRTK",
+   "badge": "Bestseller",
+   "price": "680",
+   "rating": "4.4",
+   "reviews": "7,141",
+   "title": "Wakefit Cotton Feel Terry Ultra Soft Waterproof Mattress Protector | Breathable - Hypoallergenic Mattresses Cover 72\" x 60\" - Queen, Blue",
+   "rank": 8
+  },
+  {
+   "asin": "B09H2FYNCG",
+   "badge": null,
+   "price": "2,499",
+   "rating": "4.2",
+   "reviews": "763",
+   "title": "The Sleep Company 100% Waterproof Bamboo Mattress Protector | Upto 10\" Deep Pocket | Elastic Fitted Mattress Cover | Noiseless | Smooth Fabric | Machine Washabl",
+   "rank": 9
+  },
+  {
+   "asin": "B0GM6NZFHM",
+   "badge": null,
+   "price": "1,599",
+   "rating": "4.1",
+   "reviews": "590",
+   "title": "Ayka Waterproof Natural Bamboo Mattress Protector Queen Size Breathable Hypoallergenic Noiseless Ultra Soft Fitted Bed Protector 72x60 inch Mattress/Bed Cover (",
+   "rank": 10
+  }
+ ],
+ "sponsored": [
+  {
+   "asin": "B0CTHP89LC",
+   "badge": null,
+   "price": "1,350",
+   "rating": "4.4",
+   "reviews": "19,365",
+   "title": "Wakefit Waterproof Bamboo Mattress Protector | Anti-Bacterial Bed Cover, Hypoallergenic, Ultra Soft Fitted Cover - Iron Grey (78x60 Inch) - Queen",
+   "slot": 1
+  },
+  {
+   "asin": "B0H7CP4YWJ",
+   "badge": null,
+   "price": "1,999",
+   "rating": null,
+   "reviews": null,
+   "title": "Lukzer 100% Waterproof Natural Bamboo Mattress Protector King Size 78\" x 72\" inch | 360° Elasticated fit, Breathable, Hypoallergenic, Noiseless, Ultra-Soft Fitt",
+   "slot": 2
+  },
+  {
+   "asin": "B0H4W3GJYM",
+   "badge": null,
+   "price": "1,899",
+   "rating": "4.3",
+   "reviews": "124",
+   "title": "Frido Bamboo Waterproof Mattress Protector for Queen Beds (78 x 60 Inch), Soft Bamboo Terry Comfort, Cooling Breathable & Noiseless Mattress Cover, Fit for Matt",
+   "slot": 3,
+   "isFridoBrand": true
+  },
+  {
+   "asin": "B0FV2T1TV4",
+   "badge": null,
+   "price": "199",
+   "rating": "3.5",
+   "reviews": "14",
+   "title": "Waterproof Mattress/Bed Protector for Kids Urine | Baby, Elderly & Adult Reusable Dry Sheet | Absorbent, Washable, Soft Fabric (Color-Golden Green Size-70x50cm)",
+   "slot": 4
+  },
+  {
+   "asin": "B0GRBDKSG6",
+   "badge": null,
+   "price": "599",
+   "rating": "4.8",
+   "reviews": "3",
+   "title": "Premium 100% Waterproof Mattress Protector King Size, 72x72 Inches | Breathable and Hypoallergenic Ultra Soft Fitted Bed Protector Cover 72\"x72\" - King, Royal B",
+   "slot": 5
+  },
+  {
+   "asin": "B0GHFRTM3V",
+   "badge": null,
+   "price": "599",
+   "rating": "4.1",
+   "reviews": "91",
+   "title": "La Verne 100% Waterproof Premium Cotton Feel Mattress Protector King Size 78 x 72 Inches | Breathable and Hypoallergenic Ultra Soft Fitted Bed Protector Cover (",
+   "slot": 6
+  },
+  {
+   "asin": "B0DX28KT98",
+   "badge": null,
+   "price": "1,367",
+   "rating": "4.2",
+   "reviews": "3,625",
+   "title": "MY ARMOR Mattress Protector King Size | Quilted Cotton Waterproof Bed Protector King Size, 78x72 Inch | Breathable Noiseless Ultra Soft Fitted Cover with Elasti",
+   "slot": 7
+  },
+  {
+   "asin": "B0CFF4NQFQ",
+   "badge": null,
+   "price": "749",
+   "rating": "4.2",
+   "reviews": "1,172",
+   "title": "OYO BABY Premium Cotton Feel Mattress Protector Queen Size 78x60 Inches | 100% Waterproof, Breathable & Hypoallergenic | All-Side Elastic Fitted Bed Cover | Fit",
+   "slot": 8
+  }
+ ],
+ "notes": []
+}

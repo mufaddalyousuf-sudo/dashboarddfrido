@@ -1,0 +1,109 @@
+{
+ "category": "pillows-latex-pillow-cover",
+ "marketplace": "flipkart",
+ "keyword": "Frido Latex Pillow Cover",
+ "capturedAt": "2026-07-08",
+ "method": "Live scrape flipkart.com mobile search page 1 (__INITIAL_STATE__), query = exact SKU name",
+ "confidence": "Medium-High (live; sponsored flags not exposed on mobile)",
+ "fridoRank": 4,
+ "fridoPresent": true,
+ "results": [
+  {
+   "pos": 1,
+   "title": "AYKA Microfibre Sleeping Pillow Pack of 2 Solid Soft Microfiber Pillows",
+   "price": null,
+   "rating": 4.3,
+   "ratings": 2410,
+   "isFrido": false
+  },
+  {
+   "pos": 2,
+   "title": "AYKA Microfibre Sleeping Pillow Pack of 4 Solid Soft Microfiber Pillows",
+   "price": null,
+   "rating": 4.3,
+   "ratings": 2410,
+   "isFrido": false
+  },
+  {
+   "pos": 3,
+   "title": "AYKA Polyester Fibre, Cotton Sleeping Pillow Pack of 1 Geometric Cord Pillow",
+   "price": null,
+   "rating": 4.3,
+   "ratings": 55,
+   "isFrido": false
+  },
+  {
+   "pos": 4,
+   "title": "Frido Latex Sleeping Pillow Pack of 2 Solid Latex Orthopaedic Pillow with Cooling Cover | 100% Natural Latex, Air Vent Holes",
+   "price": null,
+   "rating": 0,
+   "ratings": 0,
+   "isFrido": true
+  },
+  {
+   "pos": 5,
+   "title": "Frido Foam Orthopaedic Pillow Pack of 1 Solid High Density Foam Support Cushion",
+   "price": null,
+   "rating": 4.4,
+   "ratings": 31,
+   "isFrido": true
+  },
+  {
+   "pos": 6,
+   "title": "Frido Latex Sleeping Pillow Pack of 1 Solid Latex Orthopaedic Pillow with Cooling Cover | 100% Natural Latex, Air Vent Holes",
+   "price": null,
+   "rating": 0,
+   "ratings": 0,
+   "isFrido": true
+  },
+  {
+   "pos": 7,
+   "title": "Frido Blended Cushions & Pillows Cover",
+   "price": null,
+   "rating": 0,
+   "ratings": 0,
+   "isFrido": true
+  },
+  {
+   "pos": 8,
+   "title": "CUSHIO Memory Foam Sleeping Pillow Pack of 1 Polka Cervical Butterfly Pillow | Neck Pain Relief with Dual Height Design & Arm Rest",
+   "price": null,
+   "rating": 4,
+   "ratings": 5,
+   "isFrido": false
+  },
+  {
+   "pos": 9,
+   "title": "Frido Memory Foam Orthopaedic Pillow Pack of 1 Solid Knee Pillow with Adjustable Strap | Leg Pillow for Side Sleepers | Melange Cover",
+   "price": null,
+   "rating": 3.5,
+   "ratings": 6,
+   "isFrido": true
+  },
+  {
+   "pos": 10,
+   "title": "Frido Blended Pillows Cover",
+   "price": null,
+   "rating": 0,
+   "ratings": 0,
+   "isFrido": true
+  },
+  {
+   "pos": 11,
+   "title": "FRIDUP Foam Orthopaedic Pillow Pack of 1 Solid Bed Wedge Pillow, Ultra Soft, Orthopaedic Pillow for Neck and Back Support",
+   "price": null,
+   "rating": 4,
+   "ratings": 136,
+   "isFrido": false
+  },
+  {
+   "pos": 12,
+   "title": "Sleepsia Gel Orthopaedic Pillow Pack of 1 Solid Bed Wedge Memory Foam Pillow for Sleeping, Back & Neck Pain Relief, Leg Elevator",
+   "price": null,
+   "rating": 4.3,
+   "ratings": 7,
+   "isFrido": false
+  }
+ ],
+ "notes": []
+}

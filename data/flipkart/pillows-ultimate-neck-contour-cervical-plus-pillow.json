@@ -1,0 +1,101 @@
+{
+ "category": "pillows-ultimate-neck-contour-cervical-plus-pillow",
+ "marketplace": "flipkart",
+ "keyword": "Frido Ultimate Neck Contour Cervical Plus Pillow",
+ "capturedAt": "2026-07-08",
+ "method": "Live scrape flipkart.com mobile search page 1 (__INITIAL_STATE__), query = exact SKU name",
+ "confidence": "Medium-High (live; sponsored flags not exposed on mobile)",
+ "fridoRank": 3,
+ "fridoPresent": true,
+ "results": [
+  {
+   "pos": 1,
+   "title": "MY ARMOR Orthopedic Memory Foam Cervical Pillow for Neck & Shoulder Pain with Outer Cover Cervical Pillow",
+   "price": null,
+   "rating": 4.1,
+   "ratings": 2524,
+   "isFrido": false
+  },
+  {
+   "pos": 2,
+   "title": "MY ARMOR Cool Gel Memory Foam Cervical Pillow for Neck Pain and Shoulder Pain Relief Cervical Pillow",
+   "price": null,
+   "rating": 4.6,
+   "ratings": 135,
+   "isFrido": false
+  },
+  {
+   "pos": 3,
+   "title": "Frido Ultimate Cervical Neck Pillow for Pain Relief Sleep, Pack of 2 Cervical Pillow",
+   "price": null,
+   "rating": 3.8,
+   "ratings": 6,
+   "isFrido": true
+  },
+  {
+   "pos": 4,
+   "title": "FOVERA Cervical Pillow for Neck Pain | Orthopedic Memory Foam Contour Sleeping Pillow, Cervical Pillow",
+   "price": null,
+   "rating": 4.1,
+   "ratings": 168,
+   "isFrido": false
+  },
+  {
+   "pos": 5,
+   "title": "Frido Ultimate Cervical Neck Pillow for Pain Relief Sleep, Pack of 4 Cervical Pillow",
+   "price": null,
+   "rating": 0,
+   "ratings": 0,
+   "isFrido": true
+  },
+  {
+   "pos": 6,
+   "title": "Frido Ultimate Pro Seat Cushion & Posture Corrector Backrest Combo Back / Lumbar Support",
+   "price": null,
+   "rating": 4,
+   "ratings": 385,
+   "isFrido": true
+  },
+  {
+   "pos": 7,
+   "title": "AGEasy Cervical Pillow Memory Foam Solid Orthopaedic Pillow Cervical Pillow",
+   "price": null,
+   "rating": 4.2,
+   "ratings": 123,
+   "isFrido": false
+  },
+  {
+   "pos": 8,
+   "title": "Fidelis Healthcare Orthopaedic Cervical Memory Foam Pillow, Universal Size, Black Cervical Pillow",
+   "price": null,
+   "rating": 3.5,
+   "ratings": 4,
+   "isFrido": false
+  },
+  {
+   "pos": 9,
+   "title": "Frido Ultimate Neck for Pain Relief Sleep, Pack of 2 Cervical Pillow",
+   "price": null,
+   "rating": 3.8,
+   "ratings": 4,
+   "isFrido": true
+  },
+  {
+   "pos": 10,
+   "title": "FITLOGAN Heavy Duty Wrist Training Cuff for Professional Gym Equipment Use Hand Support",
+   "price": null,
+   "rating": 0,
+   "ratings": 0,
+   "isFrido": false
+  },
+  {
+   "pos": 11,
+   "title": "TYNOR Regular, Grey, Universal Size, 1 Unit Cervical Pillow",
+   "price": null,
+   "rating": 4.1,
+   "ratings": 1207,
+   "isFrido": false
+  }
+ ],
+ "notes": []
+}
