@@ -1,0 +1,99 @@
+{
+ "generatedAt": "2026-07-08",
+ "source": "Live scrape amazon.in + flipkart.com search page 1, one query per SKU (query = \"Frido <SKU>\"), Bestseller-badge comparison only.",
+ "results": [
+  {
+   "category": "workspace",
+   "categoryName": "Workspace",
+   "sku": "ErgoLuxe Monitor Arm - Single",
+   "keyword": "Frido ErgoLuxe Monitor Arm - Single",
+   "amazon": {
+    "fetchOk": true,
+    "rank": null,
+    "sponsoredSlot": null,
+    "asin": null,
+    "price": null,
+    "rating": null,
+    "reviews": null,
+    "bestseller": false,
+    "badge": null,
+    "topBestsellerRival": {
+     "brand": "Single Monitor Mount for 13-32 inch Screen, Gas Spring Arm, ",
+     "asin": "B0DMF71GN8",
+     "price": "2,998",
+     "rating": "4.3",
+     "reviews": "14,635"
+    },
+    "resultCount": 21
+   },
+   "flipkart": {
+    "fetchOk": true,
+    "rank": null,
+    "price": null,
+    "rating": null,
+    "reviews": null,
+    "resultCount": 14
+   },
+   "status": "not-listed",
+   "capturedAt": "2026-07-08"
+  },
+  {
+   "category": "workspace",
+   "categoryName": "Workspace",
+   "sku": "Ergoluxe Monitor Arm - Dual",
+   "keyword": "Frido Ergoluxe Monitor Arm - Dual",
+   "amazon": {
+    "fetchOk": true,
+    "rank": null,
+    "sponsoredSlot": null,
+    "asin": null,
+    "price": null,
+    "rating": null,
+    "reviews": null,
+    "bestseller": false,
+    "badge": null,
+    "topBestsellerRival": null,
+    "resultCount": 22
+   },
+   "flipkart": {
+    "fetchOk": true,
+    "rank": null,
+    "price": null,
+    "rating": null,
+    "reviews": null,
+    "resultCount": 14
+   },
+   "status": "not-listed",
+   "capturedAt": "2026-07-08"
+  },
+  {
+   "category": "workspace",
+   "categoryName": "Workspace",
+   "sku": "Ergoluxe Electric Standing Desk",
+   "keyword": "Frido Ergoluxe Electric Standing Desk",
+   "amazon": {
+    "fetchOk": true,
+    "rank": 8,
+    "sponsoredSlot": null,
+    "asin": "B0FPCP1MMN",
+    "price": "36,999",
+    "rating": "3.8",
+    "reviews": "14",
+    "bestseller": false,
+    "badge": null,
+    "topBestsellerRival": null,
+    "resultCount": 60
+   },
+   "flipkart": {
+    "fetchOk": true,
+    "rank": 2,
+    "price": null,
+    "rating": 0,
+    "reviews": null,
+    "resultCount": 8
+   },
+   "status": "listed",
+   "capturedAt": "2026-07-08"
+  }
+ ]
+}
