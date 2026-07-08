@@ -1,0 +1,101 @@
+{
+ "category": "footwear-women-s-arch-comfort-sandals",
+ "marketplace": "flipkart",
+ "keyword": "Frido Women's Arch Comfort Sandals",
+ "capturedAt": "2026-07-08",
+ "method": "Live scrape flipkart.com mobile search page 1 (__INITIAL_STATE__), query = exact SKU name",
+ "confidence": "Medium-High (live; sponsored flags not exposed on mobile)",
+ "fridoRank": 3,
+ "fridoPresent": true,
+ "results": [
+  {
+   "pos": 1,
+   "title": "WALKAROO Women Casual",
+   "price": null,
+   "rating": 4.2,
+   "ratings": 692,
+   "isFrido": false
+  },
+  {
+   "pos": 2,
+   "title": "WALKAROO Women Wedges",
+   "price": null,
+   "rating": 4.3,
+   "ratings": 593,
+   "isFrido": false
+  },
+  {
+   "pos": 3,
+   "title": "Frido Arch Support Sandals, Ortho Cushion Platform Heels, Anti-Slip Sole For Dailywear Women Flats",
+   "price": null,
+   "rating": 0,
+   "ratings": 0,
+   "isFrido": true
+  },
+  {
+   "pos": 4,
+   "title": "Frido Cloud Comfort Arch & Heel Support with Anti-Skid Sole, Adjustable Buckle Strap Women Sandals",
+   "price": null,
+   "rating": 4.2,
+   "ratings": 144,
+   "isFrido": true
+  },
+  {
+   "pos": 5,
+   "title": "Frido Unisex Cloud Comfort Arch Support Orthopedic Soft Home Chappal with Anti-Skid Sole Slippers",
+   "price": null,
+   "rating": 4.2,
+   "ratings": 580,
+   "isFrido": true
+  },
+  {
+   "pos": 6,
+   "title": "Frido Cloud Comfort Diabetic Ortho Arch Support for Pain Relief Anti-Skid Sole Cushion Men Sandals",
+   "price": null,
+   "rating": 4.2,
+   "ratings": 144,
+   "isFrido": true
+  },
+  {
+   "pos": 7,
+   "title": "Frido Comfort Dual Strap Footwear With Bounce Back Cushioned Footbed Adjustable Velcro Men Casual",
+   "price": null,
+   "rating": 4.4,
+   "ratings": 136,
+   "isFrido": true
+  },
+  {
+   "pos": 8,
+   "title": "Frido Puneri Arch Comfort Sandal | Leather Chappal with Built-In Arch Support, Cushion Men Flats",
+   "price": null,
+   "rating": 5,
+   "ratings": 4,
+   "isFrido": true
+  },
+  {
+   "pos": 9,
+   "title": "Doctor Health Super Soft Women Women Orthopedic Slippers Soft Doctor Footwear, Heel Pain Relief, Daily Wear Flip Flops",
+   "price": null,
+   "rating": 4.2,
+   "ratings": 12856,
+   "isFrido": false
+  },
+  {
+   "pos": 10,
+   "title": "Doctor Health Super Soft Women Newly Launch|Classic Ultra Soft|Cushion|Comfort|Premium|Stylish Slippers",
+   "price": null,
+   "rating": 4.3,
+   "ratings": 3650,
+   "isFrido": false
+  },
+  {
+   "pos": 11,
+   "title": "Doctor Health Super Soft Women Newly Launch | Classic Ultra Soft | Cushion | Comfortable|Premium|Stylish|Trendy Flip Flops",
+   "price": null,
+   "rating": 4.2,
+   "ratings": 12856,
+   "isFrido": false
+  }
+ ],
+ "notes": []
+}

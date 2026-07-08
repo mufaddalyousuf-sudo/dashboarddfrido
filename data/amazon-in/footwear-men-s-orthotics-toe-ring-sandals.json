@@ -1,0 +1,197 @@
+{
+ "category": "footwear-men-s-orthotics-toe-ring-sandals",
+ "marketplace": "amazon-in",
+ "keyword": "Frido Men's Orthotics Toe Ring Sandals",
+ "capturedAt": "2026-07-08",
+ "method": "Live scrape amazon.in search page 1, query = exact SKU name (brand-qualified)",
+ "confidence": "High (live snapshot, single keyword)",
+ "fridoOrganicRank": 5,
+ "fridoSponsoredSlot": 3,
+ "organic": [
+  {
+   "asin": "B0FF9PFRQ8",
+   "badge": null,
+   "price": "1,899",
+   "rating": "4.1",
+   "reviews": "270",
+   "title": "Frido Orthotics Bunion Corrector for Men & Women, Pack of 1 | Adjustable Toe Straightener with Pressure Control Knob & Soft Gel Cushion | Pain Relief & Toe Alig",
+   "rank": 1
+  },
+  {
+   "asin": "B0GCT27J6D",
+   "badge": null,
+   "price": "1,799",
+   "rating": "4.0",
+   "reviews": "200",
+   "title": "Cloud Comfort Sandal For Men | Soft Ortho Care Arch Support for Pain Relief, Anti-Skid Sole Diabetic & Orthopaedic Footwear With Bounce Back Cushion for All-Day",
+   "rank": 2
+  },
+  {
+   "asin": "B0GWF2C7X9",
+   "badge": null,
+   "price": "2,249",
+   "rating": "4.2",
+   "reviews": "163",
+   "title": "Comfort Dual Strap Sandals for Men with Bounce Back Cushioned Footbed, Zero Drop Sole for Arch Support Pain Relief, Lightweight Anti-Skid, Adjustable Velcro Cas",
+   "rank": 3
+  },
+  {
+   "asin": "B0GWDPQPXD",
+   "badge": null,
+   "price": "2,249",
+   "rating": "4.2",
+   "reviews": "163",
+   "title": "Comfort Dual Strap Sandals for Men with Bounce Back Cushioned Footbed, Zero Drop Sole for Arch Support Pain Relief, Lightweight Anti-Skid, Adjustable Velcro Cas",
+   "rank": 4
+  },
+  {
+   "asin": "B0FVY6Q5D5",
+   "badge": "Bestseller",
+   "price": "1,999",
+   "rating": "4.2",
+   "reviews": "49",
+   "title": "Puneri Chappal for Men | Available in 2 Options- Arch Support & Without Arch | Traditional Indian Leather Sandals with Memory Foam, Wide Toe Box & Zero Drop Des",
+   "rank": 5,
+   "isFridoBrand": true
+  },
+  {
+   "asin": "B0H15229LZ",
+   "badge": "Bestseller",
+   "price": "2,499",
+   "rating": "4.2",
+   "reviews": "49",
+   "title": "Puneri Chappal for Men | Available in 2 Options- Arch Support & Without Arch | Traditional Indian Leather Sandals with Memory Foam, Wide Toe Box & Zero Drop Des",
+   "rank": 6
+  },
+  {
+   "asin": "B0GPQR8D4K",
+   "badge": null,
+   "price": "1,799",
+   "rating": "4.0",
+   "reviews": "200",
+   "title": "Cloud Comfort Sandal For Men | Soft Ortho Care Arch Support for Pain Relief, Anti-Skid Sole Diabetic & Orthopaedic Footwear With Bounce Back Cushion for All-Day",
+   "rank": 7
+  },
+  {
+   "asin": "B0FR9GT4LM",
+   "badge": "Bestseller",
+   "price": "949",
+   "rating": "4.1",
+   "reviews": "1,744",
+   "title": "Cloud Comfort Slippers for Women & Men | Available in 2 Options- Arch Support & Without Arch |Orthopedic Soft Home Chappal Unisex Slipper, House Slipper with An",
+   "rank": 8
+  },
+  {
+   "asin": "B0BXWVWY8R",
+   "badge": null,
+   "price": "1,619",
+   "rating": "4.2",
+   "reviews": "545",
+   "title": "Men's Slip-on Sandal",
+   "rank": 9
+  },
+  {
+   "asin": "B0GYRSZP3W",
+   "badge": null,
+   "price": "2,249",
+   "rating": "4.2",
+   "reviews": "163",
+   "title": "Comfort Dual Strap Sandals for Men with Bounce Back Cushioned Footbed, Zero Drop Sole for Arch Support Pain Relief, Lightweight Anti-Skid, Adjustable Velcro Cas",
+   "rank": 10
+  }
+ ],
+ "sponsored": [
+  {
+   "asin": "B0GWDXM8R8",
+   "badge": null,
+   "price": "2,249",
+   "rating": "4.2",
+   "reviews": "163",
+   "title": "Comfort Dual Strap Sandals for Men with Bounce Back Cushioned Footbed, Zero Drop Sole for Arch Support Pain Relief, Lightweight Anti-Skid, Adjustable Velcro Cas",
+   "slot": 1
+  },
+  {
+   "asin": "B0GCSQMD5S",
+   "badge": null,
+   "price": "1,799",
+   "rating": "4.0",
+   "reviews": "200",
+   "title": "Cloud Comfort Sandal For Men | Soft Ortho Care Arch Support for Pain Relief, Anti-Skid Sole Diabetic & Orthopaedic Footwear With Bounce Back Cushion for All-Day",
+   "slot": 2
+  },
+  {
+   "asin": "B0GWDLQGWY",
+   "badge": null,
+   "price": "2,249",
+   "rating": "4.2",
+   "reviews": "163",
+   "title": "Comfort Dual Strap Sandals for Men with Bounce Back Cushioned Footbed, Zero Drop Sole for Arch Support Pain Relief, Lightweight Anti-Skid, Adjustable Velcro Cas",
+   "slot": 3,
+   "isFridoBrand": true
+  },
+  {
+   "asin": "B0BH4BTHCG",
+   "badge": null,
+   "price": "999",
+   "rating": "3.8",
+   "reviews": "266",
+   "title": "Soldier-08 Flexible Fisherman Comfortable & Breathable Sporty Look Outdoor Sandals for Men in Protective Bump Toe with Anti-Skid & Trendy Footwear",
+   "slot": 4
+  },
+  {
+   "asin": "B08GGX6PGD",
+   "badge": null,
+   "price": "699",
+   "rating": "3.8",
+   "reviews": "11,500",
+   "title": "Sandals for Men | Casual Fisherman Sandal for Office & Everyday Comfort | Cushioned Grip Insole for All-Day Walking Support | Lightweight & Stylish Sandal for T",
+   "slot": 5
+  },
+  {
+   "asin": "B00IZ9801O",
+   "badge": null,
+   "price": "720",
+   "rating": "4.2",
+   "reviews": "16,088",
+   "title": "mens Ss 105 Sport Sandal",
+   "slot": 6
+  },
+  {
+   "asin": "B0F14632W6",
+   "badge": null,
+   "price": "797",
+   "rating": "4.1",
+   "reviews": "1,057",
+   "title": "Men's Premium Slippers with Soft Acupressure Foot Massager for Adult | Comfortable & Light Weight| Stylish & Anti-Skid | Casual Waterproof & Everyday Flip Flops",
+   "slot": 7
+  },
+  {
+   "asin": "B0CWDFDYY1",
+   "badge": null,
+   "price": "648",
+   "rating": "3.4",
+   "reviews": "137",
+   "title": "Men's Fisherman Sandals | Cushioned Insole & Hook & Loop Straps | Trendy Sporty Design with Premium Upper | Closed-Toe Sandals for Travel & Walking (6616)",
+   "slot": 8
+  },
+  {
+   "asin": "B0GW3DHSSP",
+   "badge": null,
+   "price": "599",
+   "rating": "3.7",
+   "reviews": "80",
+   "title": "Men EVA Double Strap Sandals | Adjustable Buckle Comfort Slides | Lightweight Anti-Slip Ventilated Casual Sandals for Everyday Indoor Outdoor Wear",
+   "slot": 9
+  },
+  {
+   "asin": "B0GKXXGVCK",
+   "badge": null,
+   "price": "599",
+   "rating": "4.2",
+   "reviews": "119",
+   "title": "Men’s Comfort Flip Flops with Cushioned EVA Sole | Lightweight Anti-Slip Everyday Wear Slippers for Walking, Home, Outdoor & Casual Use",
+   "slot": 10
+  }
+ ],
+ "notes": []
+}

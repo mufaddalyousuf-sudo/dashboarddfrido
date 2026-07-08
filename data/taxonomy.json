@@ -327,11 +327,108 @@
    "priority": "P2",
    "datasets": [
     {
-     "id": "footwear-ortho-slippers",
-     "keyword": "orthopedic slippers",
+     "id": "footwear-women-s-arch-comfort-wedge-sandals-buckle-strap",
+     "keyword": "Frido Women's Arch Comfort Wedge Sandals - Buckle Strap",
      "primary": true
+    },
+    {
+     "id": "footwear-women-s-cloud-comfort-shoes-slip-ons",
+     "keyword": "Frido Women's Cloud Comfort Shoes - Slip Ons"
+    },
+    {
+     "id": "footwear-women-s-arch-support-wedge-sandals",
+     "keyword": "Frido Women's Arch Support Wedge Sandals"
+    },
+    {
+     "id": "footwear-cloud-comfort-arch-support-slippers",
+     "keyword": "Frido Cloud Comfort Arch Support Slippers"
+    },
+    {
+     "id": "footwear-men-s-comfort-dual-strap-sandals",
+     "keyword": "Frido Men's Comfort Dual Strap Sandals"
+    },
+    {
+     "id": "footwear-cloud-comfort-slippers",
+     "keyword": "Frido Cloud Comfort Slippers"
+    },
+    {
+     "id": "footwear-women-s-arch-comfort-sandals",
+     "keyword": "Frido Women's Arch Comfort Sandals"
+    },
+    {
+     "id": "footwear-men-s-cloud-comfort-shoes-slip-ons",
+     "keyword": "Frido Men's Cloud Comfort Shoes - Slip Ons"
+    },
+    {
+     "id": "footwear-women-s-cloud-comfort-shoes-lace-ups",
+     "keyword": "Frido Women's Cloud Comfort Shoes - Lace ups"
+    },
+    {
+     "id": "footwear-women-s-cloud-comfort-sandal",
+     "keyword": "Frido Women's Cloud Comfort Sandal"
+    },
+    {
+     "id": "footwear-men-s-cloud-comfort-shoes-lace-ups",
+     "keyword": "Frido Men's Cloud Comfort Shoes - Lace Ups"
+    },
+    {
+     "id": "footwear-men-s-cloud-comfort-sandal",
+     "keyword": "Frido Men's Cloud Comfort Sandal"
+    },
+    {
+     "id": "footwear-women-s-comfort-flat-sandal",
+     "keyword": "Frido Women's Comfort Flat Sandal"
+    },
+    {
+     "id": "footwear-women-s-ethnic-comfort-flat-sandal",
+     "keyword": "Frido Women's Ethnic Comfort Flat Sandal"
+    },
+    {
+     "id": "footwear-women-s-cloud-comfort-sandal-toeless",
+     "keyword": "Frido Women's Cloud Comfort Sandal - Toeless"
+    },
+    {
+     "id": "footwear-comfort-formal-shoes",
+     "keyword": "Frido Comfort Formal Shoes"
+    },
+    {
+     "id": "footwear-active-casual-sneakers-men-s",
+     "keyword": "Frido Active Casual Sneakers - Men's"
+    },
+    {
+     "id": "footwear-active-casual-sneakers-women-s",
+     "keyword": "Frido Active Casual Sneakers - Women's"
+    },
+    {
+     "id": "footwear-puneri-chappal-men",
+     "keyword": "Frido Puneri Chappal - Men"
+    },
+    {
+     "id": "footwear-active-walking-shoes-men-s",
+     "keyword": "Frido Active Walking Shoes - Men's"
+    },
+    {
+     "id": "footwear-men-s-puneri-arch-comfort-sandal",
+     "keyword": "Frido Men's Puneri Arch Comfort Sandal"
+    },
+    {
+     "id": "footwear-men-s-orthotics-toe-ring-sandals",
+     "keyword": "Frido Men's Orthotics Toe Ring Sandals"
+    },
+    {
+     "id": "footwear-unisex-orthotics-v-strap-sandals",
+     "keyword": "Frido Unisex Orthotics V-Strap Sandals"
+    },
+    {
+     "id": "footwear-men-s-orthotics-dual-strap-sandals",
+     "keyword": "Frido Men's Orthotics Dual Strap Sandals"
+    },
+    {
+     "id": "footwear-puneri-chappal-women",
+     "keyword": "Frido Puneri Chappal - Women"
     }
-   ]
+   ],
+   "skuSource": "frido-product-catalog.json (full base-SKU research, 2026-07-08)"
   },
   {
    "id": "accessories",

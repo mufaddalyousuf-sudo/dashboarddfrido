@@ -1,0 +1,197 @@
+{
+ "category": "footwear-cloud-comfort-slippers",
+ "marketplace": "amazon-in",
+ "keyword": "Frido Cloud Comfort Slippers",
+ "capturedAt": "2026-07-08",
+ "method": "Live scrape amazon.in search page 1, query = exact SKU name (brand-qualified)",
+ "confidence": "High (live snapshot, single keyword)",
+ "fridoOrganicRank": 1,
+ "fridoSponsoredSlot": 5,
+ "organic": [
+  {
+   "asin": "B0FR9LH4WQ",
+   "badge": "Amazon's Choice",
+   "price": "949",
+   "rating": "4.1",
+   "reviews": "1,744",
+   "title": "Cloud Comfort Slippers for Women & Men | Available in 2 Options- Arch Support & Without Arch |Orthopedic Soft Home Chappal Unisex Slipper, House Slipper with An",
+   "rank": 1,
+   "isFridoBrand": true
+  },
+  {
+   "asin": "B0FPQJLS3T",
+   "badge": null,
+   "price": "849",
+   "rating": "4.1",
+   "reviews": "1,744",
+   "title": "Cloud Comfort Slippers for Women & Men | Available in 2 Options- Arch Support & Without Arch |Orthopedic Soft Home Chappal Unisex Slipper, House Slipper with An",
+   "rank": 2
+  },
+  {
+   "asin": "B0FR9T2NMF",
+   "badge": "Bestseller",
+   "price": "949",
+   "rating": "4.1",
+   "reviews": "1,744",
+   "title": "Cloud Comfort Slippers for Women & Men | Available in 2 Options- Arch Support & Without Arch |Orthopedic Soft Home Chappal Unisex Slipper, House Slipper with An",
+   "rank": 3
+  },
+  {
+   "asin": "B09D8CXJ2Q",
+   "badge": "Bestseller",
+   "price": "427",
+   "rating": "4.0",
+   "reviews": "59,844",
+   "title": "Care Diabetic Orthopedic Pregnancy Flat Super Comfort Dr Flipflops and House Slippers For Women's and Girl's",
+   "rank": 4
+  },
+  {
+   "asin": "B0GWDXM8R8",
+   "badge": null,
+   "price": "2,249",
+   "rating": "4.2",
+   "reviews": "163",
+   "title": "Comfort Dual Strap Sandals for Men with Bounce Back Cushioned Footbed, Zero Drop Sole for Arch Support Pain Relief, Lightweight Anti-Skid, Adjustable Velcro Cas",
+   "rank": 5
+  },
+  {
+   "asin": "B0GCT1PKF5",
+   "badge": null,
+   "price": "1,799",
+   "rating": "4.0",
+   "reviews": "200",
+   "title": "Cloud Comfort Sandal For Men | Soft Ortho Care Arch Support for Pain Relief, Anti-Skid Sole Diabetic & Orthopaedic Footwear With Bounce Back Cushion for All-Day",
+   "rank": 6
+  },
+  {
+   "asin": "B0GCSQMD5S",
+   "badge": null,
+   "price": "1,799",
+   "rating": "4.0",
+   "reviews": "200",
+   "title": "Cloud Comfort Sandal For Men | Soft Ortho Care Arch Support for Pain Relief, Anti-Skid Sole Diabetic & Orthopaedic Footwear With Bounce Back Cushion for All-Day",
+   "rank": 7
+  },
+  {
+   "asin": "B0GPQR8D4K",
+   "badge": null,
+   "price": "1,799",
+   "rating": "4.0",
+   "reviews": "200",
+   "title": "Cloud Comfort Sandal For Men | Soft Ortho Care Arch Support for Pain Relief, Anti-Skid Sole Diabetic & Orthopaedic Footwear With Bounce Back Cushion for All-Day",
+   "rank": 8
+  },
+  {
+   "asin": "B08DXGDQF2",
+   "badge": null,
+   "price": "429",
+   "rating": "4.0",
+   "reviews": "27,225",
+   "title": "House Slipper for Women's Care Dr Orthopaedic Super Comfort Fitting Flat Cushion Chappal Flip-Flop for Ladies & Girl’s",
+   "rank": 9
+  },
+  {
+   "asin": "B0FSTDCNV7",
+   "badge": null,
+   "price": "699",
+   "rating": "4.0",
+   "reviews": "752",
+   "title": "Thong Arch Support Ortho Slippers for Mens| Orthopedic Diabetic & Stylish| Lightweight Comfortable & Casual| Cushion Anti-Skid Bedroom Daily Use House Flip-Flop",
+   "rank": 10
+  }
+ ],
+ "sponsored": [
+  {
+   "asin": "B0FPQHYZP3",
+   "badge": null,
+   "price": "849",
+   "rating": "4.1",
+   "reviews": "1,744",
+   "title": "Cloud Comfort Slippers for Women & Men | Available in 2 Options- Arch Support & Without Arch |Orthopedic Soft Home Chappal Unisex Slipper, House Slipper with An",
+   "slot": 1
+  },
+  {
+   "asin": "B0GWDSN3YK",
+   "badge": null,
+   "price": "2,249",
+   "rating": "4.2",
+   "reviews": "163",
+   "title": "Comfort Dual Strap Sandals for Men with Bounce Back Cushioned Footbed, Zero Drop Sole for Arch Support Pain Relief, Lightweight Anti-Skid, Adjustable Velcro Cas",
+   "slot": 2
+  },
+  {
+   "asin": "B0BYNRB4WT",
+   "badge": null,
+   "price": "499",
+   "rating": "4.0",
+   "reviews": "5,104",
+   "title": "Women Black soft slippers | Comfortable and Stylish flip flop | Chappal for Woman in exciting colors | Daily Use | Lightweight | Anti Skid Monsoon Chappal | Bub",
+   "slot": 3
+  },
+  {
+   "asin": "B0BWK7M2QM",
+   "badge": null,
+   "price": "999",
+   "rating": "3.6",
+   "reviews": "88",
+   "title": "EXTRA SOFT Men's Classic Ultra Soft Sliders/Slippers with Cushion Sliders For Gents/Boys Comfortable & Light Weight Stylish & Anti-Skid Everyday Flip Flops for ",
+   "slot": 4
+  },
+  {
+   "asin": "B0FS1ZYFK9",
+   "badge": null,
+   "price": "949",
+   "rating": "4.1",
+   "reviews": "1,744",
+   "title": "Cloud Comfort Slippers for Women & Men | Available in 2 Options- Arch Support & Without Arch |Orthopedic Soft Home Chappal Unisex Slipper, House Slipper with An",
+   "slot": 5,
+   "isFridoBrand": true
+  },
+  {
+   "asin": "B0G3XKW1ML",
+   "badge": null,
+   "price": "1,899",
+   "rating": "4.1",
+   "reviews": "320",
+   "title": "Cloud Comfort Orthopaedic Sandals for Women | Arch Support & Heel Cushion | Anti-Slip Sole, Adjustable Buckle | Lightweight Soft PU Footbed | Available in Open ",
+   "slot": 6
+  },
+  {
+   "asin": "B0F14997MS",
+   "badge": null,
+   "price": "797",
+   "rating": "4.1",
+   "reviews": "1,057",
+   "title": "Men's Premium Slippers with Soft Acupressure Foot Massager for Adult | Comfortable & Light Weight| Stylish & Anti-Skid | Casual Waterproof & Everyday Flip Flops",
+   "slot": 7
+  },
+  {
+   "asin": "B0GKXXGVCK",
+   "badge": null,
+   "price": "599",
+   "rating": "4.2",
+   "reviews": "119",
+   "title": "Men’s Comfort Flip Flops with Cushioned EVA Sole | Lightweight Anti-Slip Everyday Wear Slippers for Walking, Home, Outdoor & Casual Use",
+   "slot": 8
+  },
+  {
+   "asin": "B0GW2PFBH4",
+   "badge": null,
+   "price": "599",
+   "rating": "3.9",
+   "reviews": "46",
+   "title": "Men EVA Double Strap Sandals | Adjustable Buckle Comfort Slides | Lightweight Anti-Slip Ventilated Casual Sandals for Everyday Indoor Outdoor Wear",
+   "slot": 9
+  },
+  {
+   "asin": "B0GW3DHSSP",
+   "badge": null,
+   "price": "599",
+   "rating": "3.7",
+   "reviews": "80",
+   "title": "Men EVA Double Strap Sandals | Adjustable Buckle Comfort Slides | Lightweight Anti-Slip Ventilated Casual Sandals for Everyday Indoor Outdoor Wear",
+   "slot": 10
+  }
+ ],
+ "notes": []
+}

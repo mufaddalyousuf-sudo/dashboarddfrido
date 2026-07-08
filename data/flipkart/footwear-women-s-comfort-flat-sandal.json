@@ -1,0 +1,69 @@
+{
+ "category": "footwear-women-s-comfort-flat-sandal",
+ "marketplace": "flipkart",
+ "keyword": "Frido Women's Comfort Flat Sandal",
+ "capturedAt": "2026-07-08",
+ "method": "Live scrape flipkart.com mobile search page 1 (__INITIAL_STATE__), query = exact SKU name",
+ "confidence": "Medium-High (live; sponsored flags not exposed on mobile)",
+ "fridoRank": 2,
+ "fridoPresent": true,
+ "results": [
+  {
+   "pos": 1,
+   "title": "WALKAROO Women Casual",
+   "price": null,
+   "rating": 4.5,
+   "ratings": 86,
+   "isFrido": false
+  },
+  {
+   "pos": 2,
+   "title": "Frido Arch Support Sandals, Ortho Cushion Platform Heels, Anti-Slip Sole For Dailywear Women Flats",
+   "price": null,
+   "rating": 0,
+   "ratings": 0,
+   "isFrido": true
+  },
+  {
+   "pos": 3,
+   "title": "Frido Cloud Comfort Open Toe with Adjustable Z-Strap, Cushioned PU Footbed Women Flats",
+   "price": null,
+   "rating": 4.2,
+   "ratings": 34,
+   "isFrido": true
+  },
+  {
+   "pos": 4,
+   "title": "Frido Traditional Kolhapuri Leather, Memory Foam, Adjustable Ethnic Puneri Footwear Women Sandals",
+   "price": null,
+   "rating": 0,
+   "ratings": 0,
+   "isFrido": true
+  },
+  {
+   "pos": 5,
+   "title": "Frido Comfort Flat Stylish Footwear With Cushioned Zero-Drop Sole, Padded Knit Upper Women Flats",
+   "price": null,
+   "rating": 4.8,
+   "ratings": 27,
+   "isFrido": true
+  },
+  {
+   "pos": 6,
+   "title": "Frido Traditional Kolhapuri Ethnic Flat Cushioned Comfort Anti-Skid Zero-Drop Sole Women Flats",
+   "price": null,
+   "rating": 4.8,
+   "ratings": 16,
+   "isFrido": true
+  },
+  {
+   "pos": 7,
+   "title": "Essito Women Flats",
+   "price": null,
+   "rating": 4.3,
+   "ratings": 42,
+   "isFrido": false
+  }
+ ],
+ "notes": []
+}

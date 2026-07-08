@@ -1,0 +1,196 @@
+{
+ "category": "footwear-comfort-formal-shoes",
+ "marketplace": "amazon-in",
+ "keyword": "Frido Comfort Formal Shoes",
+ "capturedAt": "2026-07-08",
+ "method": "Live scrape amazon.in search page 1, query = exact SKU name (brand-qualified)",
+ "confidence": "High (live snapshot, single keyword)",
+ "fridoOrganicRank": 2,
+ "fridoSponsoredSlot": null,
+ "organic": [
+  {
+   "asin": "B09RV5MGQ2",
+   "badge": "Bestseller",
+   "price": "694",
+   "rating": "3.8",
+   "reviews": "9,642",
+   "title": "Frido Dual Gel Heavy Duty Trimmable Insoles | For Loose Shoes or Replacing Existing Insoles | Thick Shoe Inserts | Extra Comfort and Support | Proudly Made in I",
+   "rank": 1
+  },
+  {
+   "asin": "B0DJKR4763",
+   "badge": "Bestseller",
+   "price": "899",
+   "rating": "3.8",
+   "reviews": "9,642",
+   "title": "Frido Dual Gel Pro Shoe Insoles -Trimmable Shoe Sole for Men & Women for Stability, Shock Absorption & Comfort | Anti-Sweat Sports Insole, Foot Support Silicone",
+   "rank": 2,
+   "isFridoBrand": true
+  },
+  {
+   "asin": "B0CWXYFXFW",
+   "badge": null,
+   "price": "1,627",
+   "rating": "3.5",
+   "reviews": "1,042",
+   "title": "Orthopedic & Diabetic Shoes Breathable Soft Sole Ultra-Lightweight Shoes for Men's 1731",
+   "rank": 3
+  },
+  {
+   "asin": "B0BN15MG4J",
+   "badge": null,
+   "price": "2,000",
+   "rating": "3.6",
+   "reviews": "1,416",
+   "title": "Men's Slip-on Formal Shoes",
+   "rank": 4
+  },
+  {
+   "asin": "B0D7HT75J3",
+   "badge": null,
+   "price": "2,599",
+   "rating": "3.8",
+   "reviews": "524",
+   "title": "Crossover Brogues Stylish Shoes for Men | Oxford Lace-Up Semi Formal Mens Footwear | Casual Comfortable Shoe for Office Wear",
+   "rank": 5
+  },
+  {
+   "asin": "B0GRPFFTNZ",
+   "badge": "Amazon's Choice",
+   "price": "1,197",
+   "rating": "4.4",
+   "reviews": "54",
+   "title": "Men’s Black Formal Shoes– Classic Office Business Dress Shoes, Slip On & Lace Up Style, Lightweight Cushioned Sole, Non-Slip Professional Work, Wedding,Party & ",
+   "rank": 6
+  },
+  {
+   "asin": "B075L9VWQ4",
+   "badge": null,
+   "price": "1,977",
+   "rating": "4.0",
+   "reviews": "7,369",
+   "title": "Genuine Leather Formal Shoes for Men | Stylish & Comfortable Shoes | RC3506",
+   "rank": 7
+  },
+  {
+   "asin": "B0DZGY74VG",
+   "badge": null,
+   "price": "1,399",
+   "rating": "3.9",
+   "reviews": "2,363",
+   "title": "Men's Formal Lace Up Oxford Shoes for Office|Meetings|Daily|Comfort|Fashion|Stylish|Parties|Outdoor|Occasions|TPR Welted Sole (6-13 UK)",
+   "rank": 8
+  },
+  {
+   "asin": "B0D7HSWWKT",
+   "badge": null,
+   "price": "2,599",
+   "rating": "3.8",
+   "reviews": "524",
+   "title": "Crossover Brogues Stylish Shoes for Men | Oxford Lace-Up Semi Formal Mens Footwear | Casual Comfortable Shoe for Office Wear",
+   "rank": 9
+  },
+  {
+   "asin": "B0DJGM94RK",
+   "badge": null,
+   "price": "909",
+   "rating": "3.5",
+   "reviews": "219",
+   "title": "Fortune HOL-130E Formal Lacing Derby Shoes for Men with PVC Sole | PU Outsole | Comfortable & Lightweight | Cushioned Footbed | Durable & Trendy Design",
+   "rank": 10
+  }
+ ],
+ "sponsored": [
+  {
+   "asin": "B0H5K8TWHF",
+   "badge": null,
+   "price": "3,999",
+   "rating": "5.0",
+   "reviews": "8",
+   "title": "Active Walking Shoes for Men & Women | Lightweight Breathable Mesh Upper | Zero-Drop Sole with Wide Toe Box for Natural Movement | Cushioned Comfort Lace-Up Sne",
+   "slot": 1
+  },
+  {
+   "asin": "B0BBLSX1G4",
+   "badge": null,
+   "price": "1,967",
+   "rating": "4.3",
+   "reviews": "515",
+   "title": "Men’s Genuine Leather Slip-On Formal Shoes – Effortless Style, Everyday Comfort | RC3812",
+   "slot": 2
+  },
+  {
+   "asin": "B075LDR2S8",
+   "badge": null,
+   "price": "1,977",
+   "rating": "4.0",
+   "reviews": "7,369",
+   "title": "Genuine Leather Formal Shoes for Men | Stylish & Comfortable Shoes | RC3506",
+   "slot": 3
+  },
+  {
+   "asin": "B075L4GQSZ",
+   "badge": null,
+   "price": "2,117",
+   "rating": "4.0",
+   "reviews": "3,346",
+   "title": "Genuine Leather Formal Shoes for Men | Elegant & Comfortable Office Wear | RC3499",
+   "slot": 4
+  },
+  {
+   "asin": "B0FZKS44HX",
+   "badge": null,
+   "price": "2,100",
+   "rating": "4.6",
+   "reviews": "3",
+   "title": "Men's Orthopedic Formal Shoes, Black/Brown/Tan-1001",
+   "slot": 5
+  },
+  {
+   "asin": "B0GQSRQRF8",
+   "badge": null,
+   "price": "395",
+   "rating": "4.0",
+   "reviews": "79",
+   "title": "FOVERA Gel Insole for Shoes Men | Dual Gel Technology for All Day Comfort | Trimmable Sole for Walking, Running, Sports, Formal and Safety Shoes (Male, Pack of ",
+   "slot": 6
+  },
+  {
+   "asin": "B0FF1XCLMW",
+   "badge": null,
+   "price": "1,849",
+   "rating": "3.6",
+   "reviews": "27",
+   "title": "Genuine Leather Tan Slipon Formal Shoes",
+   "slot": 7
+  },
+  {
+   "asin": "B0D7HT75J3",
+   "badge": null,
+   "price": "2,599",
+   "rating": "3.8",
+   "reviews": "524",
+   "title": "Crossover Brogues Stylish Shoes for Men | Oxford Lace-Up Semi Formal Mens Footwear | Casual Comfortable Shoe for Office Wear",
+   "slot": 8
+  },
+  {
+   "asin": "B0D37ZLNMD",
+   "badge": null,
+   "price": "524",
+   "rating": "3.6",
+   "reviews": "449",
+   "title": "Helios Insoles for Men | Dual Gelmax Shoe Sole for Men | Trim to Fit Size 8-12 | Gel Cushioning & Shock Absorption | Orthopedic Insole for Shoes | Daily Comfort",
+   "slot": 9
+  },
+  {
+   "asin": "B0FVSLYYVT",
+   "badge": null,
+   "price": "1,499",
+   "rating": "4.0",
+   "reviews": "541",
+   "title": "Walking Shoes for Man Daywalk Max Soft Cushioned Shoe for Men Lightweight Slip on Shoe for Men Without Lace Shoes for Man Stylish Regular Wear",
+   "slot": 10
+  }
+ ],
+ "notes": []
+}

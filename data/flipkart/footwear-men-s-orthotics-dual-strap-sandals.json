@@ -1,0 +1,85 @@
+{
+ "category": "footwear-men-s-orthotics-dual-strap-sandals",
+ "marketplace": "flipkart",
+ "keyword": "Frido Men's Orthotics Dual Strap Sandals",
+ "capturedAt": "2026-07-08",
+ "method": "Live scrape flipkart.com mobile search page 1 (__INITIAL_STATE__), query = exact SKU name",
+ "confidence": "Medium-High (live; sponsored flags not exposed on mobile)",
+ "fridoRank": 3,
+ "fridoPresent": true,
+ "results": [
+  {
+   "pos": 1,
+   "title": "AMICO Men Sandals",
+   "price": null,
+   "rating": 3.8,
+   "ratings": 7737,
+   "isFrido": false
+  },
+  {
+   "pos": 2,
+   "title": "AMICO Men Casual",
+   "price": null,
+   "rating": 3.7,
+   "ratings": 101527,
+   "isFrido": false
+  },
+  {
+   "pos": 3,
+   "title": "Frido Comfort Dual Strap Footwear With Bounce Back Cushioned Footbed Adjustable Velcro Men Casual",
+   "price": null,
+   "rating": 4.4,
+   "ratings": 136,
+   "isFrido": true
+  },
+  {
+   "pos": 4,
+   "title": "Frido Cloud Comfort Diabetic Ortho Arch Support for Pain Relief Anti-Skid Sole Cushion Men Sandals",
+   "price": null,
+   "rating": 4.2,
+   "ratings": 144,
+   "isFrido": true
+  },
+  {
+   "pos": 5,
+   "title": "Frido Arch Support Sandals, Ortho Cushion Platform Heels, Anti-Slip Sole For Dailywear Women Flats",
+   "price": null,
+   "rating": 0,
+   "ratings": 0,
+   "isFrido": true
+  },
+  {
+   "pos": 6,
+   "title": "Frido Cloud Comfort Open Toe with Adjustable Z-Strap, Cushioned PU Footbed Women Flats",
+   "price": null,
+   "rating": 4.2,
+   "ratings": 34,
+   "isFrido": true
+  },
+  {
+   "pos": 7,
+   "title": "BELLION Men Sandals",
+   "price": null,
+   "rating": 3.9,
+   "ratings": 1034,
+   "isFrido": false
+  },
+  {
+   "pos": 8,
+   "title": "BELLION stylish men loafers Loafers For Men",
+   "price": null,
+   "rating": 4,
+   "ratings": 21,
+   "isFrido": false
+  },
+  {
+   "pos": 9,
+   "title": "BELLION Men Casual",
+   "price": null,
+   "rating": 3.9,
+   "ratings": 143,
+   "isFrido": false
+  }
+ ],
+ "notes": []
+}

@@ -1,0 +1,197 @@
+{
+ "category": "footwear-cloud-comfort-arch-support-slippers",
+ "marketplace": "amazon-in",
+ "keyword": "Frido Cloud Comfort Arch Support Slippers",
+ "capturedAt": "2026-07-08",
+ "method": "Live scrape amazon.in search page 1, query = exact SKU name (brand-qualified)",
+ "confidence": "High (live snapshot, single keyword)",
+ "fridoOrganicRank": 1,
+ "fridoSponsoredSlot": 5,
+ "organic": [
+  {
+   "asin": "B0FR9LH4WQ",
+   "badge": "Amazon's Choice",
+   "price": "949",
+   "rating": "4.1",
+   "reviews": "1,744",
+   "title": "Cloud Comfort Slippers for Women & Men | Available in 2 Options- Arch Support & Without Arch |Orthopedic Soft Home Chappal Unisex Slipper, House Slipper with An",
+   "rank": 1,
+   "isFridoBrand": true
+  },
+  {
+   "asin": "B0FS22KZ3C",
+   "badge": null,
+   "price": "949",
+   "rating": "4.1",
+   "reviews": "1,744",
+   "title": "Cloud Comfort Slippers for Women & Men | Available in 2 Options- Arch Support & Without Arch |Orthopedic Soft Home Chappal Unisex Slipper, House Slipper with An",
+   "rank": 2
+  },
+  {
+   "asin": "B0FSTDCNV7",
+   "badge": null,
+   "price": "699",
+   "rating": "4.0",
+   "reviews": "752",
+   "title": "Thong Arch Support Ortho Slippers for Mens| Orthopedic Diabetic & Stylish| Lightweight Comfortable & Casual| Cushion Anti-Skid Bedroom Daily Use House Flip-Flop",
+   "rank": 3
+  },
+  {
+   "asin": "B0FPQJLS3T",
+   "badge": null,
+   "price": "849",
+   "rating": "4.1",
+   "reviews": "1,744",
+   "title": "Cloud Comfort Slippers for Women & Men | Available in 2 Options- Arch Support & Without Arch |Orthopedic Soft Home Chappal Unisex Slipper, House Slipper with An",
+   "rank": 4
+  },
+  {
+   "asin": "B0GCT1PKF5",
+   "badge": null,
+   "price": "1,799",
+   "rating": "4.0",
+   "reviews": "200",
+   "title": "Cloud Comfort Sandal For Men | Soft Ortho Care Arch Support for Pain Relief, Anti-Skid Sole Diabetic & Orthopaedic Footwear With Bounce Back Cushion for All-Day",
+   "rank": 5
+  },
+  {
+   "asin": "B0G3XKW1ML",
+   "badge": null,
+   "price": "1,899",
+   "rating": "4.1",
+   "reviews": "320",
+   "title": "Cloud Comfort Orthopaedic Sandals for Women | Arch Support & Heel Cushion | Anti-Slip Sole, Adjustable Buckle | Lightweight Soft PU Footbed | Available in Open ",
+   "rank": 6
+  },
+  {
+   "asin": "B0G3XKVF3R",
+   "badge": null,
+   "price": "1,899",
+   "rating": "4.1",
+   "reviews": "320",
+   "title": "Cloud Comfort Orthopaedic Sandals for Women | Arch Support & Heel Cushion | Anti-Slip Sole, Adjustable Buckle | Lightweight Soft PU Footbed | Available in Open ",
+   "rank": 7
+  },
+  {
+   "asin": "B0GCSQMD5S",
+   "badge": null,
+   "price": "1,799",
+   "rating": "4.0",
+   "reviews": "200",
+   "title": "Cloud Comfort Sandal For Men | Soft Ortho Care Arch Support for Pain Relief, Anti-Skid Sole Diabetic & Orthopaedic Footwear With Bounce Back Cushion for All-Day",
+   "rank": 8
+  },
+  {
+   "asin": "B0G6JXX4ZZ",
+   "badge": null,
+   "price": "1,899",
+   "rating": "4.1",
+   "reviews": "320",
+   "title": "Cloud Comfort Orthopaedic Sandals for Women | Arch Support & Heel Cushion | Anti-Slip Sole, Adjustable Buckle | Lightweight Soft PU Footbed | Available in Open ",
+   "rank": 9
+  },
+  {
+   "asin": "B0G3XKMC82",
+   "badge": null,
+   "price": null,
+   "rating": "4.1",
+   "reviews": "320",
+   "title": "Cloud Comfort Orthopaedic Sandals for Women | Arch Support & Heel Cushion | Anti-Slip Sole, Adjustable Buckle | Lightweight Soft PU Footbed | Available in Open ",
+   "rank": 10
+  }
+ ],
+ "sponsored": [
+  {
+   "asin": "B0FPQHHG47",
+   "badge": null,
+   "price": "849",
+   "rating": "4.1",
+   "reviews": "1,744",
+   "title": "Cloud Comfort Slippers for Women & Men | Available in 2 Options- Arch Support & Without Arch |Orthopedic Soft Home Chappal Unisex Slipper, House Slipper with An",
+   "slot": 1
+  },
+  {
+   "asin": "B0G3XJLB6C",
+   "badge": null,
+   "price": "1,899",
+   "rating": "4.1",
+   "reviews": "320",
+   "title": "Cloud Comfort Orthopaedic Sandals for Women | Arch Support & Heel Cushion | Anti-Slip Sole, Adjustable Buckle | Lightweight Soft PU Footbed | Available in Open ",
+   "slot": 2
+  },
+  {
+   "asin": "B0GWDSN3YK",
+   "badge": null,
+   "price": "2,249",
+   "rating": "4.2",
+   "reviews": "163",
+   "title": "Comfort Dual Strap Sandals for Men with Bounce Back Cushioned Footbed, Zero Drop Sole for Arch Support Pain Relief, Lightweight Anti-Skid, Adjustable Velcro Cas",
+   "slot": 3
+  },
+  {
+   "asin": "B0GCLNDJJM",
+   "badge": null,
+   "price": "1,368",
+   "rating": "4.3",
+   "reviews": "126",
+   "title": "Women’s Comfort Flat Sandals | Ethnic Style Slip-On | Super Soft Cushioned Sole, Padded Knit Upper, Breathable & Anti-Skid Zero-Drop | Available in Comfort Flat",
+   "slot": 4
+  },
+  {
+   "asin": "B0FR9T2NMF",
+   "badge": "Bestseller",
+   "price": "949",
+   "rating": "4.1",
+   "reviews": "1,744",
+   "title": "Cloud Comfort Slippers for Women & Men | Available in 2 Options- Arch Support & Without Arch |Orthopedic Soft Home Chappal Unisex Slipper, House Slipper with An",
+   "slot": 5,
+   "isFridoBrand": true
+  },
+  {
+   "asin": "B0F14632W6",
+   "badge": null,
+   "price": "797",
+   "rating": "4.1",
+   "reviews": "1,057",
+   "title": "Men's Premium Slippers with Soft Acupressure Foot Massager for Adult | Comfortable & Light Weight| Stylish & Anti-Skid | Casual Waterproof & Everyday Flip Flops",
+   "slot": 6
+  },
+  {
+   "asin": "B0CTHRJ1X1",
+   "badge": null,
+   "price": "549",
+   "rating": "3.2",
+   "reviews": "5",
+   "title": "Extra Soft Doctor Ortho Flip-Flop For MEN",
+   "slot": 7
+  },
+  {
+   "asin": "B0F14997MS",
+   "badge": null,
+   "price": "797",
+   "rating": "4.1",
+   "reviews": "1,057",
+   "title": "Men's Premium Slippers with Soft Acupressure Foot Massager for Adult | Comfortable & Light Weight| Stylish & Anti-Skid | Casual Waterproof & Everyday Flip Flops",
+   "slot": 8
+  },
+  {
+   "asin": "B0CTMQQK9T",
+   "badge": null,
+   "price": "549",
+   "rating": "3.7",
+   "reviews": "12",
+   "title": "Extra Soft Doctor Ortho Knitted Flip-Flop For MEN",
+   "slot": 9
+  },
+  {
+   "asin": "B0GCT3R68X",
+   "badge": null,
+   "price": "1,799",
+   "rating": "4.0",
+   "reviews": "200",
+   "title": "Cloud Comfort Sandal For Men | Soft Ortho Care Arch Support for Pain Relief, Anti-Skid Sole Diabetic & Orthopaedic Footwear With Bounce Back Cushion for All-Day",
+   "slot": 10
+  }
+ ],
+ "notes": []
+}

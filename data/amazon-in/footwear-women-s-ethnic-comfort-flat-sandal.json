@@ -1,0 +1,197 @@
+{
+ "category": "footwear-women-s-ethnic-comfort-flat-sandal",
+ "marketplace": "amazon-in",
+ "keyword": "Frido Women's Ethnic Comfort Flat Sandal",
+ "capturedAt": "2026-07-08",
+ "method": "Live scrape amazon.in search page 1, query = exact SKU name (brand-qualified)",
+ "confidence": "High (live snapshot, single keyword)",
+ "fridoOrganicRank": 1,
+ "fridoSponsoredSlot": 3,
+ "organic": [
+  {
+   "asin": "B0GSQH86B6",
+   "badge": null,
+   "price": "1,625",
+   "rating": "4.3",
+   "reviews": "126",
+   "title": "Women’s Comfort Flat Sandals | Ethnic Style Slip-On | Super Soft Cushioned Sole, Padded Knit Upper, Breathable & Anti-Skid Zero-Drop | Available in Comfort Flat",
+   "rank": 1,
+   "isFridoBrand": true
+  },
+  {
+   "asin": "B0GSQ9JVCZ",
+   "badge": null,
+   "price": "1,625",
+   "rating": "4.3",
+   "reviews": "126",
+   "title": "Women’s Comfort Flat Sandals | Ethnic Style Slip-On | Super Soft Cushioned Sole, Padded Knit Upper, Breathable & Anti-Skid Zero-Drop | Available in Comfort Flat",
+   "rank": 2
+  },
+  {
+   "asin": "B0GSQ8XRCG",
+   "badge": null,
+   "price": "1,625",
+   "rating": "4.3",
+   "reviews": "126",
+   "title": "Women’s Comfort Flat Sandals | Ethnic Style Slip-On | Super Soft Cushioned Sole, Padded Knit Upper, Breathable & Anti-Skid Zero-Drop | Available in Comfort Flat",
+   "rank": 3
+  },
+  {
+   "asin": "B0G6JZ8HT2",
+   "badge": null,
+   "price": "1,899",
+   "rating": "4.1",
+   "reviews": "320",
+   "title": "Cloud Comfort Orthopaedic Sandals for Women | Arch Support & Heel Cushion | Anti-Slip Sole, Adjustable Buckle | Lightweight Soft PU Footbed | Available in Open ",
+   "rank": 4
+  },
+  {
+   "asin": "B0G3XKVF3R",
+   "badge": null,
+   "price": "1,899",
+   "rating": "4.1",
+   "reviews": "320",
+   "title": "Cloud Comfort Orthopaedic Sandals for Women | Arch Support & Heel Cushion | Anti-Slip Sole, Adjustable Buckle | Lightweight Soft PU Footbed | Available in Open ",
+   "rank": 5
+  },
+  {
+   "asin": "B0G3XKW1ML",
+   "badge": null,
+   "price": "1,899",
+   "rating": "4.1",
+   "reviews": "320",
+   "title": "Cloud Comfort Orthopaedic Sandals for Women | Arch Support & Heel Cushion | Anti-Slip Sole, Adjustable Buckle | Lightweight Soft PU Footbed | Available in Open ",
+   "rank": 6
+  },
+  {
+   "asin": "B0G6JXX4ZZ",
+   "badge": null,
+   "price": "1,899",
+   "rating": "4.1",
+   "reviews": "320",
+   "title": "Cloud Comfort Orthopaedic Sandals for Women | Arch Support & Heel Cushion | Anti-Slip Sole, Adjustable Buckle | Lightweight Soft PU Footbed | Available in Open ",
+   "rank": 7
+  },
+  {
+   "asin": "B0G6JXBCYV",
+   "badge": null,
+   "price": null,
+   "rating": "4.1",
+   "reviews": "320",
+   "title": "Cloud Comfort Orthopaedic Sandals for Women | Arch Support & Heel Cushion | Anti-Slip Sole, Adjustable Buckle | Lightweight Soft PU Footbed | Available in Open ",
+   "rank": 8
+  },
+  {
+   "asin": "B0CJQ8QSPD",
+   "badge": null,
+   "price": "418",
+   "rating": "3.7",
+   "reviews": "222",
+   "title": "Women's Ethnic Style T-Strap Sandals Chevron Ankle Strap Flats for Casual & Festive Comfortable & Stylish Party",
+   "rank": 9
+  },
+  {
+   "asin": "B0D5M1K66J",
+   "badge": null,
+   "price": "599",
+   "rating": "5.0",
+   "reviews": "2",
+   "title": "Amazing Design Kolhapuri Design for Womens & Girls Stylish Flat, Ethnic Slippers and Fashion Sandals Girls…",
+   "rank": 10
+  }
+ ],
+ "sponsored": [
+  {
+   "asin": "B0GCN3PSXQ",
+   "badge": null,
+   "price": "1,368",
+   "rating": "4.3",
+   "reviews": "126",
+   "title": "Women’s Comfort Flat Sandals | Ethnic Style Slip-On | Super Soft Cushioned Sole, Padded Knit Upper, Breathable & Anti-Skid Zero-Drop | Available in Comfort Flat",
+   "slot": 1
+  },
+  {
+   "asin": "B0G3XJLB6C",
+   "badge": null,
+   "price": "1,899",
+   "rating": "4.1",
+   "reviews": "320",
+   "title": "Cloud Comfort Orthopaedic Sandals for Women | Arch Support & Heel Cushion | Anti-Slip Sole, Adjustable Buckle | Lightweight Soft PU Footbed | Available in Open ",
+   "slot": 2
+  },
+  {
+   "asin": "B0GSQGX9Y4",
+   "badge": null,
+   "price": "1,625",
+   "rating": "4.3",
+   "reviews": "126",
+   "title": "Women’s Comfort Flat Sandals | Ethnic Style Slip-On | Super Soft Cushioned Sole, Padded Knit Upper, Breathable & Anti-Skid Zero-Drop | Available in Comfort Flat",
+   "slot": 3,
+   "isFridoBrand": true
+  },
+  {
+   "asin": "B0FLW2272L",
+   "badge": null,
+   "price": "749",
+   "rating": "1.0",
+   "reviews": "1",
+   "title": "Women Casual One Toe Flats Sandal, Women's Embroidered Ethnic Flat Slip on Sandals Slippers, Comfortable & Fashionable",
+   "slot": 4
+  },
+  {
+   "asin": "B0FR9SR3SC",
+   "badge": "Bestseller",
+   "price": "949",
+   "rating": "4.1",
+   "reviews": "1,744",
+   "title": "Cloud Comfort Slippers for Women & Men | Available in 2 Options- Arch Support & Without Arch |Orthopedic Soft Home Chappal Unisex Slipper, House Slipper with An",
+   "slot": 5
+  },
+  {
+   "asin": "B0FCSN9VWS",
+   "badge": null,
+   "price": "989",
+   "rating": "3.9",
+   "reviews": "201",
+   "title": "Women Wedge Heels Thong Sandals| Comfortable Flats Sandals | Comfort Orthopaedic Sandals for Women| Doctor Slippers/Flip-Flops | Arch Support & Heel Cushion | L",
+   "slot": 6
+  },
+  {
+   "asin": "B0D4ZGQLL7",
+   "badge": null,
+   "price": "795",
+   "rating": "4.1",
+   "reviews": "769",
+   "title": "Flats for Women Stylish | Lightweight Comfortable Slippers for Woman | Soft Sole Ladies Footwear for All Day Comfort",
+   "slot": 7
+  },
+  {
+   "asin": "B0DFYTWJSB",
+   "badge": null,
+   "price": "399",
+   "rating": "4.0",
+   "reviews": "119",
+   "title": "Women’s Orthopedic Sandals And Slippers | Lightweight Anti-Skid Comfort Slides for Heel Pain Relief | Soft Cushion Sole Footwear for Everyday Use",
+   "slot": 8
+  },
+  {
+   "asin": "B0GWQFHTFD",
+   "badge": null,
+   "price": "1,499",
+   "rating": null,
+   "reviews": null,
+   "title": "Avni Kolhapuri Flats |Trendy Lightweight Durable Fashion Elegant Modern Design |Perfect Fit Soft Feel",
+   "slot": 9
+  },
+  {
+   "asin": "B0GWQF83FG",
+   "badge": null,
+   "price": "2,099",
+   "rating": null,
+   "reviews": null,
+   "title": "Tory Casual Wedges |Trendy Lightweight Durable Fashion Elegant Modern Design |Perfect Fit Soft Feel",
+   "slot": 10
+  }
+ ],
+ "notes": []
+}

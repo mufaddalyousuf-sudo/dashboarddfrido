@@ -1,0 +1,77 @@
+{
+ "category": "footwear-puneri-chappal-men",
+ "marketplace": "flipkart",
+ "keyword": "Frido Puneri Chappal - Men",
+ "capturedAt": "2026-07-08",
+ "method": "Live scrape flipkart.com mobile search page 1 (__INITIAL_STATE__), query = exact SKU name",
+ "confidence": "Medium-High (live; sponsored flags not exposed on mobile)",
+ "fridoRank": 4,
+ "fridoPresent": true,
+ "results": [
+  {
+   "pos": 1,
+   "title": "TOE CANDY Men Flats",
+   "price": null,
+   "rating": 4.7,
+   "ratings": 100,
+   "isFrido": false
+  },
+  {
+   "pos": 2,
+   "title": "TOE CANDY Men Clogs",
+   "price": null,
+   "rating": 4.8,
+   "ratings": 94,
+   "isFrido": false
+  },
+  {
+   "pos": 3,
+   "title": "TOE CANDY Men Casual",
+   "price": null,
+   "rating": 4.8,
+   "ratings": 50,
+   "isFrido": false
+  },
+  {
+   "pos": 4,
+   "title": "Frido Traditional Kolhapuri Leather, Memory Foam, Adjustable Ethnic Puneri Footwear Men Sandals",
+   "price": null,
+   "rating": 3.6,
+   "ratings": 13,
+   "isFrido": true
+  },
+  {
+   "pos": 5,
+   "title": "Frido Comfort Dual Strap Footwear With Bounce Back Cushioned Footbed Adjustable Velcro Men Casual",
+   "price": null,
+   "rating": 4.4,
+   "ratings": 136,
+   "isFrido": true
+  },
+  {
+   "pos": 6,
+   "title": "Frido Unisex Cloud Comfort Orthopedic Soft Home Chappal with Anti-Skid Sole Slippers",
+   "price": null,
+   "rating": 4.2,
+   "ratings": 345,
+   "isFrido": true
+  },
+  {
+   "pos": 7,
+   "title": "Frido Cloud Comfort Diabetic Ortho Arch Support for Pain Relief Anti-Skid Sole Cushion Men Sandals",
+   "price": null,
+   "rating": 4.2,
+   "ratings": 144,
+   "isFrido": true
+  },
+  {
+   "pos": 8,
+   "title": "TOE CANDY Men Slippers",
+   "price": null,
+   "rating": 4,
+   "ratings": 3601,
+   "isFrido": false
+  }
+ ],
+ "notes": []
+}

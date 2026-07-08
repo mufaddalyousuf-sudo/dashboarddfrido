@@ -1,0 +1,197 @@
+{
+ "category": "footwear-unisex-orthotics-v-strap-sandals",
+ "marketplace": "amazon-in",
+ "keyword": "Frido Unisex Orthotics V-Strap Sandals",
+ "capturedAt": "2026-07-08",
+ "method": "Live scrape amazon.in search page 1, query = exact SKU name (brand-qualified)",
+ "confidence": "High (live snapshot, single keyword)",
+ "fridoOrganicRank": 5,
+ "fridoSponsoredSlot": 4,
+ "organic": [
+  {
+   "asin": "B0G6KJ21MH",
+   "badge": null,
+   "price": "1,899",
+   "rating": "4.1",
+   "reviews": "320",
+   "title": "Cloud Comfort Orthopaedic Sandals for Women | Arch Support & Heel Cushion | Anti-Slip Sole, Adjustable Buckle | Lightweight Soft PU Footbed | Available in Open ",
+   "rank": 1
+  },
+  {
+   "asin": "B0GWDRBGTY",
+   "badge": null,
+   "price": "2,249",
+   "rating": "4.2",
+   "reviews": "163",
+   "title": "Comfort Dual Strap Sandals for Men with Bounce Back Cushioned Footbed, Zero Drop Sole for Arch Support Pain Relief, Lightweight Anti-Skid, Adjustable Velcro Cas",
+   "rank": 2
+  },
+  {
+   "asin": "B0GCT1PKF5",
+   "badge": null,
+   "price": "1,799",
+   "rating": "4.0",
+   "reviews": "200",
+   "title": "Cloud Comfort Sandal For Men | Soft Ortho Care Arch Support for Pain Relief, Anti-Skid Sole Diabetic & Orthopaedic Footwear With Bounce Back Cushion for All-Day",
+   "rank": 3
+  },
+  {
+   "asin": "B0GYRS39TV",
+   "badge": null,
+   "price": "2,249",
+   "rating": "4.2",
+   "reviews": "163",
+   "title": "Comfort Dual Strap Sandals for Men with Bounce Back Cushioned Footbed, Zero Drop Sole for Arch Support Pain Relief, Lightweight Anti-Skid, Adjustable Velcro Cas",
+   "rank": 4
+  },
+  {
+   "asin": "B0GTVSQN4S",
+   "badge": "Bestseller",
+   "price": "899",
+   "rating": "4.4",
+   "reviews": "197",
+   "title": "Frido Orthotics Heel Protector for Heel Pain Relief | Gel Heel Pad with Velcro Strap | Anti-Slip Heel Cup Cushion for Men & Women | Plantar Fasciitis, Heel Spur",
+   "rank": 5,
+   "isFridoBrand": true
+  },
+  {
+   "asin": "B0GWF3TC93",
+   "badge": null,
+   "price": "2,249",
+   "rating": "4.2",
+   "reviews": "163",
+   "title": "Comfort Dual Strap Sandals for Men with Bounce Back Cushioned Footbed, Zero Drop Sole for Arch Support Pain Relief, Lightweight Anti-Skid, Adjustable Velcro Cas",
+   "rank": 6
+  },
+  {
+   "asin": "B0FR9SR3SC",
+   "badge": "Bestseller",
+   "price": "949",
+   "rating": "4.1",
+   "reviews": "1,744",
+   "title": "Cloud Comfort Slippers for Women & Men | Available in 2 Options- Arch Support & Without Arch |Orthopedic Soft Home Chappal Unisex Slipper, House Slipper with An",
+   "rank": 7
+  },
+  {
+   "asin": "B0GTWKWPP1",
+   "badge": "Bestseller",
+   "price": "899",
+   "rating": "4.4",
+   "reviews": "197",
+   "title": "Frido Orthotics Heel Protector for Heel Pain Relief | Gel Heel Pad with Velcro Strap | Anti-Slip Heel Cup Cushion for Men & Women | Plantar Fasciitis, Heel Spur",
+   "rank": 8
+  },
+  {
+   "asin": "B0G3XKW1ML",
+   "badge": null,
+   "price": "1,899",
+   "rating": "4.1",
+   "reviews": "320",
+   "title": "Cloud Comfort Orthopaedic Sandals for Women | Arch Support & Heel Cushion | Anti-Slip Sole, Adjustable Buckle | Lightweight Soft PU Footbed | Available in Open ",
+   "rank": 9
+  },
+  {
+   "asin": "B0GPQR8D4K",
+   "badge": null,
+   "price": "1,799",
+   "rating": "4.0",
+   "reviews": "200",
+   "title": "Cloud Comfort Sandal For Men | Soft Ortho Care Arch Support for Pain Relief, Anti-Skid Sole Diabetic & Orthopaedic Footwear With Bounce Back Cushion for All-Day",
+   "rank": 10
+  }
+ ],
+ "sponsored": [
+  {
+   "asin": "B0GWDXM8R8",
+   "badge": null,
+   "price": "2,249",
+   "rating": "4.2",
+   "reviews": "163",
+   "title": "Comfort Dual Strap Sandals for Men with Bounce Back Cushioned Footbed, Zero Drop Sole for Arch Support Pain Relief, Lightweight Anti-Skid, Adjustable Velcro Cas",
+   "slot": 1
+  },
+  {
+   "asin": "B0FPQJTYWN",
+   "badge": null,
+   "price": "849",
+   "rating": "4.1",
+   "reviews": "1,744",
+   "title": "Cloud Comfort Slippers for Women & Men | Available in 2 Options- Arch Support & Without Arch |Orthopedic Soft Home Chappal Unisex Slipper, House Slipper with An",
+   "slot": 2
+  },
+  {
+   "asin": "B0GCT27J6D",
+   "badge": null,
+   "price": "1,799",
+   "rating": "4.0",
+   "reviews": "200",
+   "title": "Cloud Comfort Sandal For Men | Soft Ortho Care Arch Support for Pain Relief, Anti-Skid Sole Diabetic & Orthopaedic Footwear With Bounce Back Cushion for All-Day",
+   "slot": 3
+  },
+  {
+   "asin": "B0GTW7HMZY",
+   "badge": "Bestseller",
+   "price": "899",
+   "rating": "4.4",
+   "reviews": "197",
+   "title": "Frido Orthotics Heel Protector for Heel Pain Relief | Gel Heel Pad with Velcro Strap | Anti-Slip Heel Cup Cushion for Men & Women | Plantar Fasciitis, Heel Spur",
+   "slot": 4,
+   "isFridoBrand": true
+  },
+  {
+   "asin": "B0FF9PFRQ8",
+   "badge": null,
+   "price": "1,899",
+   "rating": "4.1",
+   "reviews": "270",
+   "title": "Frido Orthotics Bunion Corrector for Men & Women, Pack of 1 | Adjustable Toe Straightener with Pressure Control Knob & Soft Gel Cushion | Pain Relief & Toe Alig",
+   "slot": 5
+  },
+  {
+   "asin": "B0FZBT15Z6",
+   "badge": null,
+   "price": "1,894",
+   "rating": "4.1",
+   "reviews": "320",
+   "title": "Cloud Comfort Orthopaedic Sandals for Women | Arch Support & Heel Cushion | Anti-Slip Sole, Adjustable Buckle | Lightweight Soft PU Footbed | Available in Open ",
+   "slot": 6
+  },
+  {
+   "asin": "B0FVF6G7DC",
+   "badge": null,
+   "price": "1,327",
+   "rating": "3.9",
+   "reviews": "57",
+   "title": "ContourX Men's | Anatomical Comfort Sandals | Cushioned Footbed Sandal",
+   "slot": 7
+  },
+  {
+   "asin": "B071SM562B",
+   "badge": "Bestseller",
+   "price": "682",
+   "rating": "4.0",
+   "reviews": "39,628",
+   "title": "Mens SS 453 Sandals",
+   "slot": 8
+  },
+  {
+   "asin": "B07C1BJD66",
+   "badge": null,
+   "price": "594",
+   "rating": "4.0",
+   "reviews": "8,582",
+   "title": "Unisex Sandal",
+   "slot": 9
+  },
+  {
+   "asin": "B0CQG6CGNP",
+   "badge": null,
+   "price": "999",
+   "rating": "3.6",
+   "reviews": "751",
+   "title": "Soldier-06 Flexible Fisherman Comfortable & Breathable Sporty Look Outdoor Sandals for Men in Protective Bump Toe with Anti-Skid & Trendy Footwear",
+   "slot": 10
+  }
+ ],
+ "notes": []
+}

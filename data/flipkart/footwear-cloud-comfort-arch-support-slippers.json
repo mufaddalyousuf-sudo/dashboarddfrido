@@ -1,0 +1,85 @@
+{
+ "category": "footwear-cloud-comfort-arch-support-slippers",
+ "marketplace": "flipkart",
+ "keyword": "Frido Cloud Comfort Arch Support Slippers",
+ "capturedAt": "2026-07-08",
+ "method": "Live scrape flipkart.com mobile search page 1 (__INITIAL_STATE__), query = exact SKU name",
+ "confidence": "Medium-High (live; sponsored flags not exposed on mobile)",
+ "fridoRank": 6,
+ "fridoPresent": true,
+ "results": [
+  {
+   "pos": 1,
+   "title": "betterhood Ankle Binder, ZeroBulk Design for Sports & Injury Recovery, M Pack of 1 Ankle Support",
+   "price": null,
+   "rating": 4.1,
+   "ratings": 223,
+   "isFrido": false
+  },
+  {
+   "pos": 2,
+   "title": "betterhood 4-Strap Knee Brace with Stabilizers for Pain & Injury Recovery, Pack of 1 Knee Support",
+   "price": null,
+   "rating": 4.3,
+   "ratings": 175,
+   "isFrido": false
+  },
+  {
+   "pos": 3,
+   "title": "betterhood Wrist Brace, ZeroBulk Design for Sports and Injury Recovery, Pack of 2 Wrist Support",
+   "price": null,
+   "rating": 4.3,
+   "ratings": 41,
+   "isFrido": false
+  },
+  {
+   "pos": 4,
+   "title": "betterhood Ankle Binder, ZeroBulk Design for Sports & Injury Recovery, L Pack of 2 Ankle Support",
+   "price": null,
+   "rating": 4.1,
+   "ratings": 223,
+   "isFrido": false
+  },
+  {
+   "pos": 5,
+   "title": "betterhood Knee Sleeve with Stabilizers for Sports & Pain Relief, M Pack of 1 Knee Support",
+   "price": null,
+   "rating": 3.9,
+   "ratings": 66,
+   "isFrido": false
+  },
+  {
+   "pos": 6,
+   "title": "Frido Unisex Cloud Comfort Arch Support Orthopedic Soft Home Chappal with Anti-Skid Sole Slippers",
+   "price": null,
+   "rating": 4.2,
+   "ratings": 580,
+   "isFrido": true
+  },
+  {
+   "pos": 7,
+   "title": "Frido Cloud Comfort Arch & Heel Support with Anti-Skid Sole, Adjustable Buckle Strap Women Sandals",
+   "price": null,
+   "rating": 4.2,
+   "ratings": 144,
+   "isFrido": true
+  },
+  {
+   "pos": 8,
+   "title": "Frido Cloud Comfort Diabetic Ortho Arch Support for Pain Relief Anti-Skid Sole Cushion Men Sandals",
+   "price": null,
+   "rating": 4.2,
+   "ratings": 144,
+   "isFrido": true
+  },
+  {
+   "pos": 9,
+   "title": "Frido Comfort Dual Strap Footwear With Bounce Back Cushioned Footbed Adjustable Velcro Men Casual",
+   "price": null,
+   "rating": 4.4,
+   "ratings": 136,
+   "isFrido": true
+  }
+ ],
+ "notes": []
+}

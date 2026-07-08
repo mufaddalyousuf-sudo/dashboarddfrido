@@ -1,0 +1,93 @@
+{
+ "category": "footwear-puneri-chappal-women",
+ "marketplace": "flipkart",
+ "keyword": "Frido Puneri Chappal - Women",
+ "capturedAt": "2026-07-08",
+ "method": "Live scrape flipkart.com mobile search page 1 (__INITIAL_STATE__), query = exact SKU name",
+ "confidence": "Medium-High (live; sponsored flags not exposed on mobile)",
+ "fridoRank": 2,
+ "fridoPresent": true,
+ "results": [
+  {
+   "pos": 1,
+   "title": "WALKAROO Women Casual",
+   "price": null,
+   "rating": 4.5,
+   "ratings": 86,
+   "isFrido": false
+  },
+  {
+   "pos": 2,
+   "title": "Frido Comfort Dual Strap Footwear With Bounce Back Cushioned Footbed Adjustable Velcro Men Casual",
+   "price": null,
+   "rating": 4.4,
+   "ratings": 136,
+   "isFrido": true
+  },
+  {
+   "pos": 3,
+   "title": "Frido Cloud Comfort Arch & Heel Support with Anti-Skid Sole, Adjustable Buckle Strap Women Sandals",
+   "price": null,
+   "rating": 4.2,
+   "ratings": 144,
+   "isFrido": true
+  },
+  {
+   "pos": 4,
+   "title": "Frido Unisex Cloud Comfort Orthopedic Soft Home Chappal with Anti-Skid Sole Slippers",
+   "price": null,
+   "rating": 4.2,
+   "ratings": 345,
+   "isFrido": true
+  },
+  {
+   "pos": 5,
+   "title": "Frido Cloud Comfort Diabetic Ortho Arch Support for Pain Relief Anti-Skid Sole Cushion Men Sandals",
+   "price": null,
+   "rating": 4.2,
+   "ratings": 144,
+   "isFrido": true
+  },
+  {
+   "pos": 6,
+   "title": "Frido Traditional Kolhapuri Leather, Memory Foam, Adjustable Ethnic Puneri Footwear Women Sandals",
+   "price": null,
+   "rating": 0,
+   "ratings": 0,
+   "isFrido": true
+  },
+  {
+   "pos": 7,
+   "title": "Femifolio Women Flats",
+   "price": null,
+   "rating": 0,
+   "ratings": 0,
+   "isFrido": false
+  },
+  {
+   "pos": 8,
+   "title": "Doctor Health Super Soft Women Women Orthopedic Slippers Soft Doctor Footwear, Heel Pain Relief, Daily Wear Flip Flops",
+   "price": null,
+   "rating": 4.2,
+   "ratings": 12856,
+   "isFrido": false
+  },
+  {
+   "pos": 9,
+   "title": "Doctor Health Super Soft Women Newly Launch|Classic Ultra Soft|Cushion|Comfort|Premium|Stylish Slippers",
+   "price": null,
+   "rating": 4.3,
+   "ratings": 3650,
+   "isFrido": false
+  },
+  {
+   "pos": 10,
+   "title": "Doctor Health Super Soft Women Newly Launch | Classic Ultra Soft | Cushion | Comfortable|Premium|Stylish|Trendy Flip Flops",
+   "price": null,
+   "rating": 4.2,
+   "ratings": 12856,
+   "isFrido": false
+  }
+ ],
+ "notes": []
+}

@@ -1,0 +1,197 @@
+{
+ "category": "footwear-men-s-cloud-comfort-shoes-lace-ups",
+ "marketplace": "amazon-in",
+ "keyword": "Frido Men's Cloud Comfort Shoes - Lace Ups",
+ "capturedAt": "2026-07-08",
+ "method": "Live scrape amazon.in search page 1, query = exact SKU name (brand-qualified)",
+ "confidence": "High (live snapshot, single keyword)",
+ "fridoOrganicRank": 7,
+ "fridoSponsoredSlot": 5,
+ "organic": [
+  {
+   "asin": "B0GKPXM4DX",
+   "badge": "Amazon's Choice",
+   "price": "1,879",
+   "rating": "4.4",
+   "reviews": "41",
+   "title": "Cloud Comfort Walking Shoes for Women | Zero-Drop Barefoot Design with Wide Toe Box | Lightweight Breathable Comfort Shoes | Natural Foot Movement | Available i",
+   "rank": 1
+  },
+  {
+   "asin": "B0FSXY5MRG",
+   "badge": null,
+   "price": "2,199",
+   "rating": "3.7",
+   "reviews": "245",
+   "title": "Cloud Comfort Lace-up Shoes for Men | Lightweight Sports Shoes with Zero-Drop Design & Wide Toe Box | Breathable Knit Running Shoes for Man | Casual Sneakers",
+   "rank": 2
+  },
+  {
+   "asin": "B0H1C49M7D",
+   "badge": null,
+   "price": "3,999",
+   "rating": "5.0",
+   "reviews": "10",
+   "title": "Active Casual Sneakers for Men | Stylish Everyday Sneakers with Breathable Mesh, Lycra-Lined Collar, Cushioned Footbed & Zero-Drop Sole for Travel, Night Outs",
+   "rank": 3
+  },
+  {
+   "asin": "B0H1C25LV9",
+   "badge": null,
+   "price": "3,999",
+   "rating": "5.0",
+   "reviews": "10",
+   "title": "Active Casual Sneakers for Men | Stylish Everyday Sneakers with Breathable Mesh, Lycra-Lined Collar, Cushioned Footbed & Zero-Drop Sole for Travel, Night Outs",
+   "rank": 4
+  },
+  {
+   "asin": "B0H1BZMPNJ",
+   "badge": null,
+   "price": "3,999",
+   "rating": "5.0",
+   "reviews": "10",
+   "title": "Active Casual Sneakers for Men | Stylish Everyday Sneakers with Breathable Mesh, Lycra-Lined Collar, Cushioned Footbed & Zero-Drop Sole for Travel, Night Outs",
+   "rank": 5
+  },
+  {
+   "asin": "B0H1BT6LLF",
+   "badge": null,
+   "price": "3,999",
+   "rating": "5.0",
+   "reviews": "10",
+   "title": "Active Casual Sneakers for Men | Stylish Everyday Sneakers with Breathable Mesh, Lycra-Lined Collar, Cushioned Footbed & Zero-Drop Sole for Travel, Night Outs",
+   "rank": 6
+  },
+  {
+   "asin": "B0GT8X3J7Z",
+   "badge": null,
+   "price": "1,999",
+   "rating": "4.4",
+   "reviews": "11",
+   "title": "Kids Cloud Comfort Lace-Up Shoes for Boys & Girls | Zero-Drop Sole & Wide Toe Box for Healthy Foot Development | Lightweight & Anti-Slip Grip Running Shoes with",
+   "rank": 7,
+   "isFridoBrand": true
+  },
+  {
+   "asin": "B0GT8CW3J2",
+   "badge": null,
+   "price": "1,999",
+   "rating": "4.4",
+   "reviews": "11",
+   "title": "Kids Cloud Comfort Lace-Up Shoes for Boys & Girls | Zero-Drop Sole & Wide Toe Box for Healthy Foot Development | Lightweight & Anti-Slip Grip Running Shoes with",
+   "rank": 8
+  },
+  {
+   "asin": "B0FYQCZ1Q2",
+   "badge": null,
+   "price": "1,699",
+   "rating": "5.0",
+   "reviews": "5",
+   "title": "Sneakers for Man Lightweight Shoes for Men Comfortable Sneakers for Men Air Mesh Casual Shoes Mens Soft Cushion Insole Lace Up Casual Boys Shoe Sneaker DripBloc",
+   "rank": 9
+  },
+  {
+   "asin": "B0G7D1PCLH",
+   "badge": null,
+   "price": "417",
+   "rating": "3.6",
+   "reviews": "129",
+   "title": "Cosco Sports Shoe with Synthetic Upper Lightweight Comfortable Mid Top Running Shoes for Men's & Boy's",
+   "rank": 10
+  }
+ ],
+ "sponsored": [
+  {
+   "asin": "B0H5KRX2VC",
+   "badge": null,
+   "price": "3,999",
+   "rating": "5.0",
+   "reviews": "8",
+   "title": "Active Walking Shoes for Men & Women | Lightweight Breathable Mesh Upper | Zero-Drop Sole with Wide Toe Box for Natural Movement | Cushioned Comfort Lace-Up Sne",
+   "slot": 1
+  },
+  {
+   "asin": "B09RPPR4S2",
+   "badge": "Bestseller",
+   "price": "699",
+   "rating": "4.2",
+   "reviews": "27,364",
+   "title": "Men Oxyfit (N) Walking Shoes",
+   "slot": 2
+  },
+  {
+   "asin": "B0GCSQMD5S",
+   "badge": null,
+   "price": "1,799",
+   "rating": "4.0",
+   "reviews": "200",
+   "title": "Cloud Comfort Sandal For Men | Soft Ortho Care Arch Support for Pain Relief, Anti-Skid Sole Diabetic & Orthopaedic Footwear With Bounce Back Cushion for All-Day",
+   "slot": 3
+  },
+  {
+   "asin": "B0DP4TXV3W",
+   "badge": null,
+   "price": "449",
+   "rating": null,
+   "reviews": null,
+   "title": "™ Men's Slippers Stylish for Daily Comfort | Premium Anti-Slip House Slippers | Durable, Cushioned Footwear for Home & Outdoor | Lightweight & Breathable Design",
+   "slot": 4
+  },
+  {
+   "asin": "B0GTLJJ5QC",
+   "badge": null,
+   "price": "3,999",
+   "rating": "5.0",
+   "reviews": "8",
+   "title": "Active Walking Shoes for Men & Women | Lightweight Breathable Mesh Upper | Zero-Drop Sole with Wide Toe Box for Natural Movement | Cushioned Comfort Lace-Up Sne",
+   "slot": 5,
+   "isFridoBrand": true
+  },
+  {
+   "asin": "B0H1BW5R2B",
+   "badge": null,
+   "price": "3,999",
+   "rating": "5.0",
+   "reviews": "10",
+   "title": "Active Casual Sneakers for Men | Stylish Everyday Sneakers with Breathable Mesh, Lycra-Lined Collar, Cushioned Footbed & Zero-Drop Sole for Travel, Night Outs",
+   "slot": 6
+  },
+  {
+   "asin": "B0DC71CGWH",
+   "badge": null,
+   "price": "999",
+   "rating": "3.5",
+   "reviews": "345",
+   "title": "Men's Super Soft Ortho Comfortable with Soft Sole Ultra-Lightweight for Gents Luxury Formal Shoes BR 1266 NEW",
+   "slot": 7
+  },
+  {
+   "asin": "B0DF5WJLBK",
+   "badge": null,
+   "price": "1,397",
+   "rating": "4.2",
+   "reviews": "2,302",
+   "title": "Men's Sports Shoes with Memory Foam Cushioned Insole|Running Walking Gym Training Jogging Athletics|Comfortable & Stylish|Casual & Lightweight|Slipon Sneaker Ge",
+   "slot": 8
+  },
+  {
+   "asin": "B0H4L34MLT",
+   "badge": null,
+   "price": "849",
+   "rating": "5.0",
+   "reviews": "14",
+   "title": "Mens Slipo Walking Shoes for Man, Lightweight Breathable Comfort Slip-On Casual Shoes for Man with Memory Foam Insole, Lightweight, Comfort Walking Shoe for Men",
+   "slot": 9
+  },
+  {
+   "asin": "B0DT9SJ7QL",
+   "badge": null,
+   "price": "1,047",
+   "rating": "3.7",
+   "reviews": "7,510",
+   "title": "Men's Lightweight Clogs with Adjustable Back Strap | Anti-Skid EVA Sole | Memory Foam Cushion | Casual Slip-On Sandals for Daily Use",
+   "slot": 10
+  }
+ ],
+ "notes": []
+}

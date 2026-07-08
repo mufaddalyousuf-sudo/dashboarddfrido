@@ -1,0 +1,197 @@
+{
+ "category": "footwear-active-casual-sneakers-women-s",
+ "marketplace": "amazon-in",
+ "keyword": "Frido Active Casual Sneakers - Women's",
+ "capturedAt": "2026-07-08",
+ "method": "Live scrape amazon.in search page 1, query = exact SKU name (brand-qualified)",
+ "confidence": "High (live snapshot, single keyword)",
+ "fridoOrganicRank": 1,
+ "fridoSponsoredSlot": 5,
+ "organic": [
+  {
+   "asin": "B0H1BY8ZB6",
+   "badge": null,
+   "price": "3,999",
+   "rating": "4.8",
+   "reviews": "9",
+   "title": "Active Casual Sneakers for Women | Stylish Everyday Sneakers with Breathable Mesh, Lycra-Lined Collar, Cushioned Footbed & Zero-Drop Sole for Travel, Night Outs",
+   "rank": 1,
+   "isFridoBrand": true
+  },
+  {
+   "asin": "B0H1C5MD8B",
+   "badge": null,
+   "price": "3,999",
+   "rating": "4.8",
+   "reviews": "9",
+   "title": "Active Casual Sneakers for Women | Stylish Everyday Sneakers with Breathable Mesh, Lycra-Lined Collar, Cushioned Footbed & Zero-Drop Sole for Travel, Night Outs",
+   "rank": 2
+  },
+  {
+   "asin": "B0H1BT5DB4",
+   "badge": null,
+   "price": "3,999",
+   "rating": "4.8",
+   "reviews": "9",
+   "title": "Active Casual Sneakers for Women | Stylish Everyday Sneakers with Breathable Mesh, Lycra-Lined Collar, Cushioned Footbed & Zero-Drop Sole for Travel, Night Outs",
+   "rank": 3
+  },
+  {
+   "asin": "B0H1C34K3R",
+   "badge": null,
+   "price": "3,999",
+   "rating": "4.8",
+   "reviews": "9",
+   "title": "Active Casual Sneakers for Women | Stylish Everyday Sneakers with Breathable Mesh, Lycra-Lined Collar, Cushioned Footbed & Zero-Drop Sole for Travel, Night Outs",
+   "rank": 4
+  },
+  {
+   "asin": "B0GKPNFMDN",
+   "badge": null,
+   "price": "1,879",
+   "rating": "4.4",
+   "reviews": "41",
+   "title": "Cloud Comfort Walking Shoes for Women | Zero-Drop Barefoot Design with Wide Toe Box | Lightweight Breathable Comfort Shoes | Natural Foot Movement | Available i",
+   "rank": 5
+  },
+  {
+   "asin": "B0GKPXZF2Y",
+   "badge": null,
+   "price": "1,879",
+   "rating": "4.4",
+   "reviews": "41",
+   "title": "Cloud Comfort Walking Shoes for Women | Zero-Drop Barefoot Design with Wide Toe Box | Lightweight Breathable Comfort Shoes | Natural Foot Movement | Available i",
+   "rank": 6
+  },
+  {
+   "asin": "B0GTLKH37T",
+   "badge": null,
+   "price": "3,999",
+   "rating": "5.0",
+   "reviews": "8",
+   "title": "Active Walking Shoes for Men & Women | Lightweight Breathable Mesh Upper | Zero-Drop Sole with Wide Toe Box for Natural Movement | Cushioned Comfort Lace-Up Sne",
+   "rank": 7
+  },
+  {
+   "asin": "B0H1BR2681",
+   "badge": null,
+   "price": "3,999",
+   "rating": "5.0",
+   "reviews": "10",
+   "title": "Active Casual Sneakers for Men | Stylish Everyday Sneakers with Breathable Mesh, Lycra-Lined Collar, Cushioned Footbed & Zero-Drop Sole for Travel, Night Outs",
+   "rank": 8
+  },
+  {
+   "asin": "B0H5KH92ZK",
+   "badge": null,
+   "price": null,
+   "rating": "5.0",
+   "reviews": "8",
+   "title": "Active Walking Shoes for Men & Women | Lightweight Breathable Mesh Upper | Zero-Drop Sole with Wide Toe Box for Natural Movement | Cushioned Comfort Lace-Up Sne",
+   "rank": 9
+  },
+  {
+   "asin": "B0H5KX9QMN",
+   "badge": null,
+   "price": "3,999",
+   "rating": "5.0",
+   "reviews": "8",
+   "title": "Active Walking Shoes for Men & Women | Lightweight Breathable Mesh Upper | Zero-Drop Sole with Wide Toe Box for Natural Movement | Cushioned Comfort Lace-Up Sne",
+   "rank": 10
+  }
+ ],
+ "sponsored": [
+  {
+   "asin": "B0G3XJLB6C",
+   "badge": null,
+   "price": "1,899",
+   "rating": "4.1",
+   "reviews": "320",
+   "title": "Cloud Comfort Orthopaedic Sandals for Women | Arch Support & Heel Cushion | Anti-Slip Sole, Adjustable Buckle | Lightweight Soft PU Footbed | Available in Open ",
+   "slot": 1
+  },
+  {
+   "asin": "B0GPCVCPTQ",
+   "badge": null,
+   "price": "5,199",
+   "rating": null,
+   "reviews": null,
+   "title": "Womens SUPERBUBBLE Sneakers",
+   "slot": 2
+  },
+  {
+   "asin": "B0F5QD63Z5",
+   "badge": null,
+   "price": "1,499",
+   "rating": "3.8",
+   "reviews": "338",
+   "title": "Walking Shoe for Women",
+   "slot": 3
+  },
+  {
+   "asin": "B0FW4NR5CF",
+   "badge": null,
+   "price": "1,999",
+   "rating": "3.7",
+   "reviews": "37",
+   "title": "Puneri Chappal for Women | Ergonomic Traditional Indian Leather Chappal with Memory Foam, Wide Toe Box & Zero Drop Design | Adjustable Ethnic Footwear",
+   "slot": 4
+  },
+  {
+   "asin": "B0H1C5691S",
+   "badge": null,
+   "price": "3,999",
+   "rating": "4.8",
+   "reviews": "9",
+   "title": "Active Casual Sneakers for Women | Stylish Everyday Sneakers with Breathable Mesh, Lycra-Lined Collar, Cushioned Footbed & Zero-Drop Sole for Travel, Night Outs",
+   "slot": 5,
+   "isFridoBrand": true
+  },
+  {
+   "asin": "B0GKPZGDN7",
+   "badge": null,
+   "price": "1,879",
+   "rating": "4.4",
+   "reviews": "41",
+   "title": "Cloud Comfort Walking Shoes for Women | Zero-Drop Barefoot Design with Wide Toe Box | Lightweight Breathable Comfort Shoes | Natural Foot Movement | Available i",
+   "slot": 6
+  },
+  {
+   "asin": "B0DJ15CLWT",
+   "badge": null,
+   "price": "2,540",
+   "rating": "4.1",
+   "reviews": "155",
+   "title": "Wicked Brothers Lace-Up Sneakers for Women | Casual Shoes with Cushioned Insole",
+   "slot": 7
+  },
+  {
+   "asin": "B0F18JSJ1H",
+   "badge": null,
+   "price": "1,299",
+   "rating": "4.4",
+   "reviews": "876",
+   "title": "Women's GRIT Sneakers",
+   "slot": 8
+  },
+  {
+   "asin": "B0G4D954TS",
+   "badge": null,
+   "price": "1,299",
+   "rating": "4.2",
+   "reviews": "75",
+   "title": "Sneakers for Women Comfortable Air Faux Leather Shoes for Woman, Lace-Up Casual Girls Shoe, Lightweight Sneaker Shoes for Woman DripWave",
+   "slot": 9
+  },
+  {
+   "asin": "B0CQXQ6R5R",
+   "badge": null,
+   "price": "983",
+   "rating": "4.3",
+   "reviews": "928",
+   "title": "Women Cushioned Comfortable Lightweight Clogs | Mules",
+   "slot": 10
+  }
+ ],
+ "notes": []
+}

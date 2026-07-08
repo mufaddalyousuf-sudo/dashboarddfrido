@@ -1,0 +1,117 @@
+{
+ "category": "footwear-comfort-formal-shoes",
+ "marketplace": "flipkart",
+ "keyword": "Frido Comfort Formal Shoes",
+ "capturedAt": "2026-07-08",
+ "method": "Live scrape flipkart.com mobile search page 1 (__INITIAL_STATE__), query = exact SKU name",
+ "confidence": "Medium-High (live; sponsored flags not exposed on mobile)",
+ "fridoRank": null,
+ "fridoPresent": false,
+ "results": [
+  {
+   "pos": 1,
+   "title": "aadi Synthetic Leather For Men",
+   "price": null,
+   "rating": 4,
+   "ratings": 86207,
+   "isFrido": false
+  },
+  {
+   "pos": 2,
+   "title": "Foxkard Party Wear For Men",
+   "price": null,
+   "rating": 5,
+   "ratings": 3,
+   "isFrido": false
+  },
+  {
+   "pos": 3,
+   "title": "GOLDEN FOOT Slip On For Men",
+   "price": null,
+   "rating": 4.1,
+   "ratings": 15,
+   "isFrido": false
+  },
+  {
+   "pos": 4,
+   "title": "Upsteps Loafers For Men",
+   "price": null,
+   "rating": 4.4,
+   "ratings": 11,
+   "isFrido": false
+  },
+  {
+   "pos": 5,
+   "title": "Blaster Men Slip-On Formal Shoes | Office Wear Comfort Loafers Loafers For Men",
+   "price": null,
+   "rating": 0,
+   "ratings": 0,
+   "isFrido": false
+  },
+  {
+   "pos": 6,
+   "title": "AJANTA Casual PVC Waterproof Loafers For Men",
+   "price": null,
+   "rating": 4,
+   "ratings": 175605,
+   "isFrido": false
+  },
+  {
+   "pos": 7,
+   "title": "AJANTA Loafer Shoes, Lightweight Moccasin for Office & Casual, Waterproof Loafers For Men",
+   "price": null,
+   "rating": 4,
+   "ratings": 175605,
+   "isFrido": false
+  },
+  {
+   "pos": 8,
+   "title": "AJANTA Ajanta Loafer Shoes, Lightweight Moccasin for Office & Casual, Waterproof Loafers For Men",
+   "price": null,
+   "rating": 4,
+   "ratings": 175605,
+   "isFrido": false
+  },
+  {
+   "pos": 9,
+   "title": "KATENIA Formal Oxford Oxford For Men",
+   "price": null,
+   "rating": 4,
+   "ratings": 301,
+   "isFrido": false
+  },
+  {
+   "pos": 10,
+   "title": "KATENIA Formal shoes for Men's Lace Up For Men",
+   "price": null,
+   "rating": 3.7,
+   "ratings": 551,
+   "isFrido": false
+  },
+  {
+   "pos": 11,
+   "title": "KATENIA Brown Office Wear & Party Wear Semi Formal shoes Slip On For Men",
+   "price": null,
+   "rating": 4.1,
+   "ratings": 735,
+   "isFrido": false
+  },
+  {
+   "pos": 12,
+   "title": "KATENIA Formal Shoes Lace Up For Men",
+   "price": null,
+   "rating": 3.6,
+   "ratings": 240,
+   "isFrido": false
+  },
+  {
+   "pos": 13,
+   "title": "KATENIA Formal Oxford Shoes for Men Oxford For Men",
+   "price": null,
+   "rating": 3.9,
+   "ratings": 230,
+   "isFrido": false
+  }
+ ],
+ "notes": []
+}

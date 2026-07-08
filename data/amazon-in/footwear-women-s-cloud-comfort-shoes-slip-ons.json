@@ -1,0 +1,197 @@
+{
+ "category": "footwear-women-s-cloud-comfort-shoes-slip-ons",
+ "marketplace": "amazon-in",
+ "keyword": "Frido Women's Cloud Comfort Shoes - Slip Ons",
+ "capturedAt": "2026-07-08",
+ "method": "Live scrape amazon.in search page 1, query = exact SKU name (brand-qualified)",
+ "confidence": "High (live snapshot, single keyword)",
+ "fridoOrganicRank": 1,
+ "fridoSponsoredSlot": 5,
+ "organic": [
+  {
+   "asin": "B0H5W5NPRH",
+   "badge": null,
+   "price": "2,199",
+   "rating": "4.4",
+   "reviews": "41",
+   "title": "Cloud Comfort Walking Shoes for Women | Zero-Drop Barefoot Design with Wide Toe Box | Lightweight Breathable Comfort Shoes | Natural Foot Movement | Available i",
+   "rank": 1,
+   "isFridoBrand": true
+  },
+  {
+   "asin": "B0H5W3MKLK",
+   "badge": null,
+   "price": "2,199",
+   "rating": "4.4",
+   "reviews": "41",
+   "title": "Cloud Comfort Walking Shoes for Women | Zero-Drop Barefoot Design with Wide Toe Box | Lightweight Breathable Comfort Shoes | Natural Foot Movement | Available i",
+   "rank": 2
+  },
+  {
+   "asin": "B0GKPXM4DX",
+   "badge": null,
+   "price": "1,879",
+   "rating": "4.4",
+   "reviews": "41",
+   "title": "Cloud Comfort Walking Shoes for Women | Zero-Drop Barefoot Design with Wide Toe Box | Lightweight Breathable Comfort Shoes | Natural Foot Movement | Available i",
+   "rank": 3
+  },
+  {
+   "asin": "B0GKPXZF2Y",
+   "badge": null,
+   "price": "1,879",
+   "rating": "4.4",
+   "reviews": "41",
+   "title": "Cloud Comfort Walking Shoes for Women | Zero-Drop Barefoot Design with Wide Toe Box | Lightweight Breathable Comfort Shoes | Natural Foot Movement | Available i",
+   "rank": 4
+  },
+  {
+   "asin": "B0G6JZ8HT2",
+   "badge": null,
+   "price": "1,899",
+   "rating": "4.1",
+   "reviews": "320",
+   "title": "Cloud Comfort Orthopaedic Sandals for Women | Arch Support & Heel Cushion | Anti-Slip Sole, Adjustable Buckle | Lightweight Soft PU Footbed | Available in Open ",
+   "rank": 5
+  },
+  {
+   "asin": "B0FZBWD7F6",
+   "badge": null,
+   "price": "1,899",
+   "rating": "4.1",
+   "reviews": "320",
+   "title": "Cloud Comfort Orthopaedic Sandals for Women | Arch Support & Heel Cushion | Anti-Slip Sole, Adjustable Buckle | Lightweight Soft PU Footbed | Available in Open ",
+   "rank": 6
+  },
+  {
+   "asin": "B0FZBZ8VRD",
+   "badge": null,
+   "price": "1,899",
+   "rating": "4.1",
+   "reviews": "320",
+   "title": "Cloud Comfort Orthopaedic Sandals for Women | Arch Support & Heel Cushion | Anti-Slip Sole, Adjustable Buckle | Lightweight Soft PU Footbed | Available in Open ",
+   "rank": 7
+  },
+  {
+   "asin": "B0GTLKH37T",
+   "badge": null,
+   "price": "3,999",
+   "rating": "5.0",
+   "reviews": "8",
+   "title": "Active Walking Shoes for Men & Women | Lightweight Breathable Mesh Upper | Zero-Drop Sole with Wide Toe Box for Natural Movement | Cushioned Comfort Lace-Up Sne",
+   "rank": 8
+  },
+  {
+   "asin": "B0FZC125QG",
+   "badge": null,
+   "price": "1,899",
+   "rating": "4.1",
+   "reviews": "320",
+   "title": "Cloud Comfort Orthopaedic Sandals for Women | Arch Support & Heel Cushion | Anti-Slip Sole, Adjustable Buckle | Lightweight Soft PU Footbed | Available in Open ",
+   "rank": 9
+  },
+  {
+   "asin": "B0G6JT1J8K",
+   "badge": null,
+   "price": "1,894",
+   "rating": "4.1",
+   "reviews": "320",
+   "title": "Cloud Comfort Orthopaedic Sandals for Women | Arch Support & Heel Cushion | Anti-Slip Sole, Adjustable Buckle | Lightweight Soft PU Footbed | Available in Open ",
+   "rank": 10
+  }
+ ],
+ "sponsored": [
+  {
+   "asin": "B0GTLPYZT8",
+   "badge": null,
+   "price": "3,999",
+   "rating": "5.0",
+   "reviews": "8",
+   "title": "Active Walking Shoes for Men & Women | Lightweight Breathable Mesh Upper | Zero-Drop Sole with Wide Toe Box for Natural Movement | Cushioned Comfort Lace-Up Sne",
+   "slot": 1
+  },
+  {
+   "asin": "B0F5QD63Z5",
+   "badge": null,
+   "price": "1,499",
+   "rating": "3.8",
+   "reviews": "338",
+   "title": "Walking Shoe for Women",
+   "slot": 2
+  },
+  {
+   "asin": "B0D6YVJHCG",
+   "badge": "Bestseller",
+   "price": "999",
+   "rating": "4.4",
+   "reviews": "1,198",
+   "title": "Women Siren Running Shoes",
+   "slot": 3
+  },
+  {
+   "asin": "B0CQXQ6R5R",
+   "badge": null,
+   "price": "983",
+   "rating": "4.3",
+   "reviews": "928",
+   "title": "Women Cushioned Comfortable Lightweight Clogs | Mules",
+   "slot": 4
+  },
+  {
+   "asin": "B0GKPNFMDN",
+   "badge": null,
+   "price": "1,879",
+   "rating": "4.4",
+   "reviews": "41",
+   "title": "Cloud Comfort Walking Shoes for Women | Zero-Drop Barefoot Design with Wide Toe Box | Lightweight Breathable Comfort Shoes | Natural Foot Movement | Available i",
+   "slot": 5,
+   "isFridoBrand": true
+  },
+  {
+   "asin": "B0G2H7GD13",
+   "badge": null,
+   "price": "1,248",
+   "rating": "3.8",
+   "reviews": "943",
+   "title": "Easy On Women's Breathable Mesh Slip-On Loafers | Quick-Dry Casual Sneakers with No-Hands Design | Lightweight Anti-Skid Sole",
+   "slot": 6
+  },
+  {
+   "asin": "B0F1YCKDYD",
+   "badge": null,
+   "price": "499",
+   "rating": "4.0",
+   "reviews": "616",
+   "title": "Women Ultra Soft Cushion Footbed Slipper | Comfortable Light Weight Waterproof Slippers |Adult Flip Flops Mild Acupressure | All Day Wear",
+   "slot": 7
+  },
+  {
+   "asin": "B0FBGTQY7Y",
+   "badge": null,
+   "price": "879",
+   "rating": "4.1",
+   "reviews": "160",
+   "title": "Shoes for Woman Soft Sole Women Shoes Memory Foam Walking Shoe for Women Slip on Shoe Woman Anti Skid Foot Wear for Ladies for All Day Walking",
+   "slot": 8
+  },
+  {
+   "asin": "B0FGCZ4ZGC",
+   "badge": null,
+   "price": "549",
+   "rating": "4.1",
+   "reviews": "196",
+   "title": "Womens Softy Shoes for Woman Women Shoes with Memory Foam Comfort Walking Shoe for Women Slip on Shoe Woman for All Day Walking Lightweight Dailyuse ExtraSoft",
+   "slot": 9
+  },
+  {
+   "asin": "B0FBGN42GK",
+   "badge": null,
+   "price": "859",
+   "rating": "4.1",
+   "reviews": "376",
+   "title": "Shoes for Woman Soft Sole Women Shoes Memory Foam Walking Shoe for Women Slip on Shoe Woman Anti Skid Foot Wear for Ladies for All Day Walking",
+   "slot": 10
+  }
+ ],
+ "notes": []
+}

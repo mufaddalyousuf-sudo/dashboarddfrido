@@ -1,0 +1,196 @@
+{
+ "category": "footwear-puneri-chappal-men",
+ "marketplace": "amazon-in",
+ "keyword": "Frido Puneri Chappal - Men",
+ "capturedAt": "2026-07-08",
+ "method": "Live scrape amazon.in search page 1, query = exact SKU name (brand-qualified)",
+ "confidence": "High (live snapshot, single keyword)",
+ "fridoOrganicRank": 10,
+ "fridoSponsoredSlot": null,
+ "organic": [
+  {
+   "asin": "B0H14YS787",
+   "badge": "Bestseller",
+   "price": "2,499",
+   "rating": "4.2",
+   "reviews": "49",
+   "title": "Puneri Chappal for Men | Available in 2 Options- Arch Support & Without Arch | Traditional Indian Leather Sandals with Memory Foam, Wide Toe Box & Zero Drop Des",
+   "rank": 1
+  },
+  {
+   "asin": "B0FVY8PMS1",
+   "badge": "Amazon's Choice",
+   "price": "1,999",
+   "rating": "4.2",
+   "reviews": "49",
+   "title": "Puneri Chappal for Men | Available in 2 Options- Arch Support & Without Arch | Traditional Indian Leather Sandals with Memory Foam, Wide Toe Box & Zero Drop Des",
+   "rank": 2
+  },
+  {
+   "asin": "B0FVY7JCK5",
+   "badge": "Bestseller",
+   "price": "1,999",
+   "rating": "4.2",
+   "reviews": "49",
+   "title": "Puneri Chappal for Men | Available in 2 Options- Arch Support & Without Arch | Traditional Indian Leather Sandals with Memory Foam, Wide Toe Box & Zero Drop Des",
+   "rank": 3
+  },
+  {
+   "asin": "B0FVY61ZFT",
+   "badge": "Bestseller",
+   "price": "1,999",
+   "rating": "4.2",
+   "reviews": "49",
+   "title": "Puneri Chappal for Men | Available in 2 Options- Arch Support & Without Arch | Traditional Indian Leather Sandals with Memory Foam, Wide Toe Box & Zero Drop Des",
+   "rank": 4
+  },
+  {
+   "asin": "B0FVY9HRZS",
+   "badge": "Bestseller",
+   "price": "1,999",
+   "rating": "4.2",
+   "reviews": "49",
+   "title": "Puneri Chappal for Men | Available in 2 Options- Arch Support & Without Arch | Traditional Indian Leather Sandals with Memory Foam, Wide Toe Box & Zero Drop Des",
+   "rank": 5
+  },
+  {
+   "asin": "B0BXWWYG25",
+   "badge": null,
+   "price": "1,619",
+   "rating": "4.2",
+   "reviews": "545",
+   "title": "Men's Slip-on Sandal",
+   "rank": 6
+  },
+  {
+   "asin": "B0GS9X82XJ",
+   "badge": null,
+   "price": "599",
+   "rating": "3.8",
+   "reviews": "96",
+   "title": "Men’s Buckle Thong Sandals | Comfortable Cushioned Footbed Casual Slippers | Anti-Slip Lightweight Everyday Wear Open Toe Sandals for Indoor Outdoor Use",
+   "rank": 7
+  },
+  {
+   "asin": "B0FPQJLS3T",
+   "badge": null,
+   "price": "849",
+   "rating": "4.1",
+   "reviews": "1,744",
+   "title": "Cloud Comfort Slippers for Women & Men | Available in 2 Options- Arch Support & Without Arch |Orthopedic Soft Home Chappal Unisex Slipper, House Slipper with An",
+   "rank": 8
+  },
+  {
+   "asin": "B0FR8XTFZS",
+   "badge": "Bestseller",
+   "price": "949",
+   "rating": "4.1",
+   "reviews": "1,744",
+   "title": "Cloud Comfort Slippers for Women & Men | Available in 2 Options- Arch Support & Without Arch |Orthopedic Soft Home Chappal Unisex Slipper, House Slipper with An",
+   "rank": 9
+  },
+  {
+   "asin": "B0FW4NR5CF",
+   "badge": null,
+   "price": "1,999",
+   "rating": "3.7",
+   "reviews": "37",
+   "title": "Puneri Chappal for Women | Ergonomic Traditional Indian Leather Chappal with Memory Foam, Wide Toe Box & Zero Drop Design | Adjustable Ethnic Footwear",
+   "rank": 10,
+   "isFridoBrand": true
+  }
+ ],
+ "sponsored": [
+  {
+   "asin": "B0GWF5LQRF",
+   "badge": null,
+   "price": "2,249",
+   "rating": "4.2",
+   "reviews": "163",
+   "title": "Comfort Dual Strap Sandals for Men with Bounce Back Cushioned Footbed, Zero Drop Sole for Arch Support Pain Relief, Lightweight Anti-Skid, Adjustable Velcro Cas",
+   "slot": 1
+  },
+  {
+   "asin": "B0FPQHYZP3",
+   "badge": null,
+   "price": "849",
+   "rating": "4.1",
+   "reviews": "1,744",
+   "title": "Cloud Comfort Slippers for Women & Men | Available in 2 Options- Arch Support & Without Arch |Orthopedic Soft Home Chappal Unisex Slipper, House Slipper with An",
+   "slot": 2
+  },
+  {
+   "asin": "B0GCT3R68X",
+   "badge": null,
+   "price": "1,799",
+   "rating": "4.0",
+   "reviews": "200",
+   "title": "Cloud Comfort Sandal For Men | Soft Ortho Care Arch Support for Pain Relief, Anti-Skid Sole Diabetic & Orthopaedic Footwear With Bounce Back Cushion for All-Day",
+   "slot": 3
+  },
+  {
+   "asin": "B09KCHF1GH",
+   "badge": null,
+   "price": "1,673",
+   "rating": null,
+   "reviews": null,
+   "title": "Genuine Leather Formal Slip-On Slipper for Men | Rust | RC3679",
+   "slot": 4
+  },
+  {
+   "asin": "B0FT3H6BHS",
+   "badge": null,
+   "price": "3,192",
+   "rating": null,
+   "reviews": null,
+   "title": "Men’s Columbus Toe-Post Cork Footbed Sandals – Adjustable Buckle Slip-On Orthopedic Comfort (Size 41-46)",
+   "slot": 5
+  },
+  {
+   "asin": "B0FGTZ89R2",
+   "badge": null,
+   "price": "997",
+   "rating": "3.8",
+   "reviews": "96",
+   "title": "Premium Acupressure Slippers",
+   "slot": 6
+  },
+  {
+   "asin": "B0GPQKCF7V",
+   "badge": null,
+   "price": "2,109",
+   "rating": null,
+   "reviews": null,
+   "title": "Mens_Leather_Sandal_LPSMURGFF90054_Tan_42",
+   "slot": 7
+  },
+  {
+   "asin": "B0DXBVFVDV",
+   "badge": null,
+   "price": "499",
+   "rating": "4.0",
+   "reviews": "1,410",
+   "title": "Men's & Boys Anti-Skid Flip Flops with Acupressure Massage Footbed | Lightweight | Soft | Doctor-Recommended Slipper for Pain Relief | All Day Wear Acupressure ",
+   "slot": 8
+  },
+  {
+   "asin": "B0F14997MS",
+   "badge": null,
+   "price": "797",
+   "rating": "4.1",
+   "reviews": "1,057",
+   "title": "Men's Premium Slippers with Soft Acupressure Foot Massager for Adult | Comfortable & Light Weight| Stylish & Anti-Skid | Casual Waterproof & Everyday Flip Flops",
+   "slot": 9
+  },
+  {
+   "asin": "B098Q5F8QP",
+   "badge": null,
+   "price": "1,673",
+   "rating": "3.9",
+   "reviews": "76",
+   "title": "Genuine Leather Formal Slip-On Slipper for Men | RC3679",
+   "slot": 10
+  }
+ ],
+ "notes": []
+}

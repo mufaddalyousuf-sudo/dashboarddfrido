@@ -1,0 +1,14 @@
+{
+ "category": "footwear-men-s-puneri-arch-comfort-sandal",
+ "marketplace": "flipkart",
+ "keyword": "Frido Men's Puneri Arch Comfort Sandal",
+ "capturedAt": "2026-07-08",
+ "method": "Live scrape flipkart.com mobile search page 1 (__INITIAL_STATE__), query = exact SKU name",
+ "confidence": "Low (fetch blocked)",
+ "fridoRank": null,
+ "fridoPresent": false,
+ "results": [],
+ "notes": [
+  "Live fetch failed after retries — needs re-verification."
+ ]
+}

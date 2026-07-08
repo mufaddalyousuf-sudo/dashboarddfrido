@@ -1,0 +1,14 @@
+{
+ "category": "footwear-men-s-orthotics-toe-ring-sandals",
+ "marketplace": "flipkart",
+ "keyword": "Frido Men's Orthotics Toe Ring Sandals",
+ "capturedAt": "2026-07-08",
+ "method": "Live scrape flipkart.com mobile search page 1 (__INITIAL_STATE__), query = exact SKU name",
+ "confidence": "Low (fetch blocked)",
+ "fridoRank": null,
+ "fridoPresent": false,
+ "results": [],
+ "notes": [
+  "Live fetch failed after retries — needs re-verification."
+ ]
+}

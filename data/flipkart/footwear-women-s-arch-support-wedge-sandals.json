@@ -1,0 +1,85 @@
+{
+ "category": "footwear-women-s-arch-support-wedge-sandals",
+ "marketplace": "flipkart",
+ "keyword": "Frido Women's Arch Support Wedge Sandals",
+ "capturedAt": "2026-07-08",
+ "method": "Live scrape flipkart.com mobile search page 1 (__INITIAL_STATE__), query = exact SKU name",
+ "confidence": "Medium-High (live; sponsored flags not exposed on mobile)",
+ "fridoRank": 1,
+ "fridoPresent": true,
+ "results": [
+  {
+   "pos": 1,
+   "title": "Frido Arch Support Sandals, Ortho Cushion Platform Heels, Anti-Slip Sole For Dailywear Women Flats",
+   "price": null,
+   "rating": 0,
+   "ratings": 0,
+   "isFrido": true
+  },
+  {
+   "pos": 2,
+   "title": "Frido Unisex Cloud Comfort Arch Support Orthopedic Soft Home Chappal with Anti-Skid Sole Slippers",
+   "price": null,
+   "rating": 4.2,
+   "ratings": 580,
+   "isFrido": true
+  },
+  {
+   "pos": 3,
+   "title": "Frido Cloud Comfort Arch & Heel Support with Anti-Skid Sole, Adjustable Buckle Strap Women Sandals",
+   "price": null,
+   "rating": 4.2,
+   "ratings": 144,
+   "isFrido": true
+  },
+  {
+   "pos": 4,
+   "title": "SHOETOPIA Women Wedges",
+   "price": null,
+   "rating": 4,
+   "ratings": 3,
+   "isFrido": false
+  },
+  {
+   "pos": 5,
+   "title": "MEDIFEET Women Wedges",
+   "price": null,
+   "rating": 4.4,
+   "ratings": 38,
+   "isFrido": false
+  },
+  {
+   "pos": 6,
+   "title": "Scholl Women Wedges",
+   "price": null,
+   "rating": 4.6,
+   "ratings": 5,
+   "isFrido": false
+  },
+  {
+   "pos": 7,
+   "title": "Frido Traditional Kolhapuri Leather, Memory Foam, Adjustable Ethnic Puneri Footwear Women Sandals",
+   "price": null,
+   "rating": 0,
+   "ratings": 0,
+   "isFrido": true
+  },
+  {
+   "pos": 8,
+   "title": "WALKAROO Women Casual",
+   "price": null,
+   "rating": 4.2,
+   "ratings": 692,
+   "isFrido": false
+  },
+  {
+   "pos": 9,
+   "title": "WALKAROO Women Wedges",
+   "price": null,
+   "rating": 4.3,
+   "ratings": 593,
+   "isFrido": false
+  }
+ ],
+ "notes": []
+}

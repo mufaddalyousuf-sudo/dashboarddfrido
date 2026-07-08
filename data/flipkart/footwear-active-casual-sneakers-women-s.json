@@ -1,0 +1,101 @@
+{
+ "category": "footwear-active-casual-sneakers-women-s",
+ "marketplace": "flipkart",
+ "keyword": "Frido Active Casual Sneakers - Women's",
+ "capturedAt": "2026-07-08",
+ "method": "Live scrape flipkart.com mobile search page 1 (__INITIAL_STATE__), query = exact SKU name",
+ "confidence": "Medium-High (live; sponsored flags not exposed on mobile)",
+ "fridoRank": 3,
+ "fridoPresent": true,
+ "results": [
+  {
+   "pos": 1,
+   "title": "Gerief Women Heels",
+   "price": null,
+   "rating": 3.9,
+   "ratings": 7686,
+   "isFrido": false
+  },
+  {
+   "pos": 2,
+   "title": "Gerief Women Flats",
+   "price": null,
+   "rating": 4,
+   "ratings": 1211,
+   "isFrido": false
+  },
+  {
+   "pos": 3,
+   "title": "Frido Active Shoes | Breathable Mesh, Cushioned Footbed & Zero-Drop Sole For Dailywear Sneakers For Men",
+   "price": null,
+   "rating": 4.7,
+   "ratings": 15,
+   "isFrido": true
+  },
+  {
+   "pos": 4,
+   "title": "Frido Cloud Comfort Light Sports Lace-up Shoes with Zero-Drop Design & Wide Toe Box Casuals For Women",
+   "price": null,
+   "rating": 4.2,
+   "ratings": 31,
+   "isFrido": true
+  },
+  {
+   "pos": 5,
+   "title": "Frido Active Walking Shoes | Zero-Drop Sole with Wide Toe Box for Natural Movement Walking Shoes For Men",
+   "price": null,
+   "rating": 0,
+   "ratings": 0,
+   "isFrido": true
+  },
+  {
+   "pos": 6,
+   "title": "Frido Cloud Comfort Casual Slip-On Shoes | Zero-Drop Barefoot Style With Wide Toe Box Slip On Sneakers For Women",
+   "price": null,
+   "rating": 0,
+   "ratings": 0,
+   "isFrido": true
+  },
+  {
+   "pos": 7,
+   "title": "Frido Active Shoes | Breathable Mesh, Cushioned Footbed & Zero-Drop Sole For Dailywear Sneakers For Women",
+   "price": null,
+   "rating": 5,
+   "ratings": 4,
+   "isFrido": true
+  },
+  {
+   "pos": 8,
+   "title": "Shozie Stylish Walking Partywear Sneakers Casual Shoes Sneakers For Women",
+   "price": null,
+   "rating": 3.8,
+   "ratings": 44069,
+   "isFrido": false
+  },
+  {
+   "pos": 9,
+   "title": "Shozie Stylish Shoe And Girls Sneakers For Women",
+   "price": null,
+   "rating": 3.9,
+   "ratings": 45452,
+   "isFrido": false
+  },
+  {
+   "pos": 10,
+   "title": "Shozie Stylish Sneakers Shoes for Women And Girls Sneakers For Women",
+   "price": null,
+   "rating": 4,
+   "ratings": 5596,
+   "isFrido": false
+  },
+  {
+   "pos": 11,
+   "title": "Shozie Women Sneakers shoes Sneakers For Women",
+   "price": null,
+   "rating": 3.9,
+   "ratings": 45452,
+   "isFrido": false
+  }
+ ],
+ "notes": []
+}

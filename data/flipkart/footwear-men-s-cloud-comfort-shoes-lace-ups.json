@@ -1,0 +1,85 @@
+{
+ "category": "footwear-men-s-cloud-comfort-shoes-lace-ups",
+ "marketplace": "flipkart",
+ "keyword": "Frido Men's Cloud Comfort Shoes - Lace Ups",
+ "capturedAt": "2026-07-08",
+ "method": "Live scrape flipkart.com mobile search page 1 (__INITIAL_STATE__), query = exact SKU name",
+ "confidence": "Medium-High (live; sponsored flags not exposed on mobile)",
+ "fridoRank": 5,
+ "fridoPresent": true,
+ "results": [
+  {
+   "pos": 1,
+   "title": "ADIDAS STREETALK Sneakers For Men",
+   "price": null,
+   "rating": 4.3,
+   "ratings": 1727,
+   "isFrido": false
+  },
+  {
+   "pos": 2,
+   "title": "ADIDAS ExcelCourt M High Tops For Men",
+   "price": null,
+   "rating": 4.1,
+   "ratings": 20118,
+   "isFrido": false
+  },
+  {
+   "pos": 3,
+   "title": "ADIDAS ADVANTAGE 2.0 IKD Tennis Shoes For Men",
+   "price": null,
+   "rating": 3.9,
+   "ratings": 346,
+   "isFrido": false
+  },
+  {
+   "pos": 4,
+   "title": "ADIDAS Blockz Sneaker Sneakers For Men",
+   "price": null,
+   "rating": 4,
+   "ratings": 4657,
+   "isFrido": false
+  },
+  {
+   "pos": 5,
+   "title": "Frido Active Shoes | Breathable Mesh, Cushioned Footbed & Zero-Drop Sole For Dailywear Sneakers For Men",
+   "price": null,
+   "rating": 4.7,
+   "ratings": 15,
+   "isFrido": true
+  },
+  {
+   "pos": 6,
+   "title": "Frido Active Walking Shoes | Zero-Drop Sole with Wide Toe Box for Natural Movement Walking Shoes For Men",
+   "price": null,
+   "rating": 0,
+   "ratings": 0,
+   "isFrido": true
+  },
+  {
+   "pos": 7,
+   "title": "Frido Cloud Comfort Light Sports Lace-up Shoes with Zero-Drop Design & Wide Toe Box Sneakers For Men",
+   "price": null,
+   "rating": 4.2,
+   "ratings": 139,
+   "isFrido": true
+  },
+  {
+   "pos": 8,
+   "title": "Frido Cloud Comfort Casual Sports Slip-On Shoes, Zero-Drop Barefoot With Wide Toe Box Casuals For Men",
+   "price": null,
+   "rating": 4.2,
+   "ratings": 80,
+   "isFrido": true
+  },
+  {
+   "pos": 9,
+   "title": "Frido Cloud Comfort Light Sports Lace-up Shoes with Zero-Drop Design & Wide Toe Box Casuals For Women",
+   "price": null,
+   "rating": 4.2,
+   "ratings": 31,
+   "isFrido": true
+  }
+ ],
+ "notes": []
+}

@@ -1,0 +1,197 @@
+{
+ "category": "footwear-men-s-cloud-comfort-shoes-slip-ons",
+ "marketplace": "amazon-in",
+ "keyword": "Frido Men's Cloud Comfort Shoes - Slip Ons",
+ "capturedAt": "2026-07-08",
+ "method": "Live scrape amazon.in search page 1, query = exact SKU name (brand-qualified)",
+ "confidence": "High (live snapshot, single keyword)",
+ "fridoOrganicRank": 4,
+ "fridoSponsoredSlot": 5,
+ "organic": [
+  {
+   "asin": "B0H5K8TWHF",
+   "badge": null,
+   "price": "3,999",
+   "rating": "5.0",
+   "reviews": "8",
+   "title": "Active Walking Shoes for Men & Women | Lightweight Breathable Mesh Upper | Zero-Drop Sole with Wide Toe Box for Natural Movement | Cushioned Comfort Lace-Up Sne",
+   "rank": 1
+  },
+  {
+   "asin": "B0H5W97PQP",
+   "badge": null,
+   "price": "2,199",
+   "rating": "4.4",
+   "reviews": "41",
+   "title": "Cloud Comfort Walking Shoes for Women | Zero-Drop Barefoot Design with Wide Toe Box | Lightweight Breathable Comfort Shoes | Natural Foot Movement | Available i",
+   "rank": 2
+  },
+  {
+   "asin": "B0G36144YM",
+   "badge": null,
+   "price": "1,397",
+   "rating": "4.3",
+   "reviews": "317",
+   "title": "Men’s Running & Walking Shoes| Lightweight Comfortable Slip-On Sports Sneakers, Memory Foam Cushion, Breathable Mesh, Anti-Slip Flexible Gym Training Gents Boys",
+   "rank": 3
+  },
+  {
+   "asin": "B0FR9LH4WQ",
+   "badge": "Amazon's Choice",
+   "price": "949",
+   "rating": "4.1",
+   "reviews": "1,744",
+   "title": "Cloud Comfort Slippers for Women & Men | Available in 2 Options- Arch Support & Without Arch |Orthopedic Soft Home Chappal Unisex Slipper, House Slipper with An",
+   "rank": 4,
+   "isFridoBrand": true
+  },
+  {
+   "asin": "B0H1BT6LLF",
+   "badge": null,
+   "price": "3,999",
+   "rating": "5.0",
+   "reviews": "10",
+   "title": "Active Casual Sneakers for Men | Stylish Everyday Sneakers with Breathable Mesh, Lycra-Lined Collar, Cushioned Footbed & Zero-Drop Sole for Travel, Night Outs",
+   "rank": 5
+  },
+  {
+   "asin": "B0FXMFCXPH",
+   "badge": null,
+   "price": "1,499",
+   "rating": "3.9",
+   "reviews": "48",
+   "title": "Unisex Cloud Flex Slip-On Sneakers | Lightweight Breathable Knit Shoes with Cushioned EVA Sole for Daily Walking & All-Day Comfort",
+   "rank": 6
+  },
+  {
+   "asin": "B0FPQJCNB9",
+   "badge": null,
+   "price": "844",
+   "rating": "4.1",
+   "reviews": "1,744",
+   "title": "Cloud Comfort Slippers for Women & Men | Available in 2 Options- Arch Support & Without Arch |Orthopedic Soft Home Chappal Unisex Slipper, House Slipper with An",
+   "rank": 7
+  },
+  {
+   "asin": "B0DF5VDK95",
+   "badge": null,
+   "price": "1,397",
+   "rating": "4.2",
+   "reviews": "2,302",
+   "title": "Men's Sports Shoes with Memory Foam Cushioned Insole|Running Walking Gym Training Jogging Athletics|Comfortable & Stylish|Casual & Lightweight|Slipon Sneaker Ge",
+   "rank": 8
+  },
+  {
+   "asin": "B0GPQR8D4K",
+   "badge": null,
+   "price": "1,799",
+   "rating": "4.0",
+   "reviews": "200",
+   "title": "Cloud Comfort Sandal For Men | Soft Ortho Care Arch Support for Pain Relief, Anti-Skid Sole Diabetic & Orthopaedic Footwear With Bounce Back Cushion for All-Day",
+   "rank": 9
+  },
+  {
+   "asin": "B0GCT1PKF5",
+   "badge": null,
+   "price": "1,799",
+   "rating": "4.0",
+   "reviews": "200",
+   "title": "Cloud Comfort Sandal For Men | Soft Ortho Care Arch Support for Pain Relief, Anti-Skid Sole Diabetic & Orthopaedic Footwear With Bounce Back Cushion for All-Day",
+   "rank": 10
+  }
+ ],
+ "sponsored": [
+  {
+   "asin": "B0GWDXM8R8",
+   "badge": null,
+   "price": "2,249",
+   "rating": "4.2",
+   "reviews": "163",
+   "title": "Comfort Dual Strap Sandals for Men with Bounce Back Cushioned Footbed, Zero Drop Sole for Arch Support Pain Relief, Lightweight Anti-Skid, Adjustable Velcro Cas",
+   "slot": 1
+  },
+  {
+   "asin": "B0FPQHYZP3",
+   "badge": null,
+   "price": "849",
+   "rating": "4.1",
+   "reviews": "1,744",
+   "title": "Cloud Comfort Slippers for Women & Men | Available in 2 Options- Arch Support & Without Arch |Orthopedic Soft Home Chappal Unisex Slipper, House Slipper with An",
+   "slot": 2
+  },
+  {
+   "asin": "B0H5KRX2VC",
+   "badge": null,
+   "price": "3,999",
+   "rating": "5.0",
+   "reviews": "8",
+   "title": "Active Walking Shoes for Men & Women | Lightweight Breathable Mesh Upper | Zero-Drop Sole with Wide Toe Box for Natural Movement | Cushioned Comfort Lace-Up Sne",
+   "slot": 3
+  },
+  {
+   "asin": "B0GCSQMD5S",
+   "badge": null,
+   "price": "1,799",
+   "rating": "4.0",
+   "reviews": "200",
+   "title": "Cloud Comfort Sandal For Men | Soft Ortho Care Arch Support for Pain Relief, Anti-Skid Sole Diabetic & Orthopaedic Footwear With Bounce Back Cushion for All-Day",
+   "slot": 4
+  },
+  {
+   "asin": "B0FSXY5MRG",
+   "badge": null,
+   "price": "2,199",
+   "rating": "3.7",
+   "reviews": "245",
+   "title": "Cloud Comfort Lace-up Shoes for Men | Lightweight Sports Shoes with Zero-Drop Design & Wide Toe Box | Breathable Knit Running Shoes for Man | Casual Sneakers",
+   "slot": 5,
+   "isFridoBrand": true
+  },
+  {
+   "asin": "B0FPQHHG47",
+   "badge": null,
+   "price": "849",
+   "rating": "4.1",
+   "reviews": "1,744",
+   "title": "Cloud Comfort Slippers for Women & Men | Available in 2 Options- Arch Support & Without Arch |Orthopedic Soft Home Chappal Unisex Slipper, House Slipper with An",
+   "slot": 6
+  },
+  {
+   "asin": "B0GDGD1218",
+   "badge": null,
+   "price": "749",
+   "rating": "3.8",
+   "reviews": "15",
+   "title": "Men's Sandals | Brown/Tan Textured Cushioned Sole Casual Leather | Strap Sandal with Adjustable Buckle | Comfortable Casual Footwear for Summer Office Travel (9",
+   "slot": 7
+  },
+  {
+   "asin": "B0G4WT3S1J",
+   "badge": null,
+   "price": "899",
+   "rating": "4.0",
+   "reviews": "36",
+   "title": "Men’s Sandals | Slingback Strap with Cushioned Black Footbed | Closed-Toe Clog Sandals | Stylish Sandal with Grip Insole | Comfortable Casual Footwear for Offic",
+   "slot": 8
+  },
+  {
+   "asin": "B0G4WX59WR",
+   "badge": null,
+   "price": "899",
+   "rating": "4.6",
+   "reviews": "4",
+   "title": "Men’s Sandals | Stylish Strap Sandal with Grip Insole | Thong Sandals with Comfortable Flip-Flop with Cushioned Footbed | Comfortable Casual Footwear for Office",
+   "slot": 9
+  },
+  {
+   "asin": "B08RJV1HCY",
+   "badge": null,
+   "price": "1,549",
+   "rating": "3.9",
+   "reviews": "1,011",
+   "title": "Men Pilot Pro Walking Shoes",
+   "slot": 10
+  }
+ ],
+ "notes": []
+}

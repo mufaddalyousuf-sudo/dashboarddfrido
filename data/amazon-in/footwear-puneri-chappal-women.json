@@ -1,0 +1,197 @@
+{
+ "category": "footwear-puneri-chappal-women",
+ "marketplace": "amazon-in",
+ "keyword": "Frido Puneri Chappal - Women",
+ "capturedAt": "2026-07-08",
+ "method": "Live scrape amazon.in search page 1, query = exact SKU name (brand-qualified)",
+ "confidence": "High (live snapshot, single keyword)",
+ "fridoOrganicRank": 1,
+ "fridoSponsoredSlot": 3,
+ "organic": [
+  {
+   "asin": "B0FW4NR5CF",
+   "badge": null,
+   "price": "1,999",
+   "rating": "3.7",
+   "reviews": "37",
+   "title": "Puneri Chappal for Women | Ergonomic Traditional Indian Leather Chappal with Memory Foam, Wide Toe Box & Zero Drop Design | Adjustable Ethnic Footwear",
+   "rank": 1,
+   "isFridoBrand": true
+  },
+  {
+   "asin": "B0FW4LTC4P",
+   "badge": null,
+   "price": "1,999",
+   "rating": "3.7",
+   "reviews": "37",
+   "title": "Puneri Chappal for Women | Ergonomic Traditional Indian Leather Chappal with Memory Foam, Wide Toe Box & Zero Drop Design | Adjustable Ethnic Footwear",
+   "rank": 2
+  },
+  {
+   "asin": "B0FW4QK2KF",
+   "badge": null,
+   "price": "1,999",
+   "rating": "3.7",
+   "reviews": "37",
+   "title": "Puneri Chappal for Women | Ergonomic Traditional Indian Leather Chappal with Memory Foam, Wide Toe Box & Zero Drop Design | Adjustable Ethnic Footwear",
+   "rank": 3
+  },
+  {
+   "asin": "B0FVY7JCK5",
+   "badge": "Bestseller",
+   "price": "1,999",
+   "rating": "4.2",
+   "reviews": "49",
+   "title": "Puneri Chappal for Men | Available in 2 Options- Arch Support & Without Arch | Traditional Indian Leather Sandals with Memory Foam, Wide Toe Box & Zero Drop Des",
+   "rank": 4
+  },
+  {
+   "asin": "B0GSQH86B6",
+   "badge": null,
+   "price": "1,625",
+   "rating": "4.3",
+   "reviews": "126",
+   "title": "Women’s Comfort Flat Sandals | Ethnic Style Slip-On | Super Soft Cushioned Sole, Padded Knit Upper, Breathable & Anti-Skid Zero-Drop | Available in Comfort Flat",
+   "rank": 5
+  },
+  {
+   "asin": "B0FVY9C1J9",
+   "badge": "Bestseller",
+   "price": "1,999",
+   "rating": "4.2",
+   "reviews": "49",
+   "title": "Puneri Chappal for Men | Available in 2 Options- Arch Support & Without Arch | Traditional Indian Leather Sandals with Memory Foam, Wide Toe Box & Zero Drop Des",
+   "rank": 6
+  },
+  {
+   "asin": "B0FVY9HRZS",
+   "badge": "Bestseller",
+   "price": "1,999",
+   "rating": "4.2",
+   "reviews": "49",
+   "title": "Puneri Chappal for Men | Available in 2 Options- Arch Support & Without Arch | Traditional Indian Leather Sandals with Memory Foam, Wide Toe Box & Zero Drop Des",
+   "rank": 7
+  },
+  {
+   "asin": "B0FVY6YWST",
+   "badge": null,
+   "price": "1,999",
+   "rating": "4.2",
+   "reviews": "49",
+   "title": "Puneri Chappal for Men | Available in 2 Options- Arch Support & Without Arch | Traditional Indian Leather Sandals with Memory Foam, Wide Toe Box & Zero Drop Des",
+   "rank": 8
+  },
+  {
+   "asin": "B0G3XKVF3R",
+   "badge": null,
+   "price": "1,899",
+   "rating": "4.1",
+   "reviews": "320",
+   "title": "Cloud Comfort Orthopaedic Sandals for Women | Arch Support & Heel Cushion | Anti-Slip Sole, Adjustable Buckle | Lightweight Soft PU Footbed | Available in Open ",
+   "rank": 9
+  },
+  {
+   "asin": "B0D9DJM4ZF",
+   "badge": null,
+   "price": "649",
+   "rating": "4.0",
+   "reviews": "548",
+   "title": "Women’s Berkin-Style Slip-On Sandals | Open Toe Design | Soft PU Footbed | Lightweight & Comfortable | Arch Support | On-Grip Sole | Casual Outdoor Wear (7693)",
+   "rank": 10
+  }
+ ],
+ "sponsored": [
+  {
+   "asin": "B0G3XJLB6C",
+   "badge": null,
+   "price": "1,899",
+   "rating": "4.1",
+   "reviews": "320",
+   "title": "Cloud Comfort Orthopaedic Sandals for Women | Arch Support & Heel Cushion | Anti-Slip Sole, Adjustable Buckle | Lightweight Soft PU Footbed | Available in Open ",
+   "slot": 1
+  },
+  {
+   "asin": "B0FPQHYZP3",
+   "badge": null,
+   "price": "849",
+   "rating": "4.1",
+   "reviews": "1,744",
+   "title": "Cloud Comfort Slippers for Women & Men | Available in 2 Options- Arch Support & Without Arch |Orthopedic Soft Home Chappal Unisex Slipper, House Slipper with An",
+   "slot": 2
+  },
+  {
+   "asin": "B0FW4R9BXP",
+   "badge": null,
+   "price": "474",
+   "rating": "3.7",
+   "reviews": "37",
+   "title": "Puneri Chappal for Women | Ergonomic Traditional Indian Leather Chappal with Memory Foam, Wide Toe Box & Zero Drop Design | Adjustable Ethnic Footwear",
+   "slot": 3,
+   "isFridoBrand": true
+  },
+  {
+   "asin": "B0GSQCSMMY",
+   "badge": null,
+   "price": "1,625",
+   "rating": "4.3",
+   "reviews": "126",
+   "title": "Women’s Comfort Flat Sandals | Ethnic Style Slip-On | Super Soft Cushioned Sole, Padded Knit Upper, Breathable & Anti-Skid Zero-Drop | Available in Comfort Flat",
+   "slot": 4
+  },
+  {
+   "asin": "B0H6MT9BB1",
+   "badge": null,
+   "price": "995",
+   "rating": null,
+   "reviews": null,
+   "title": "Women Soft Ortho Flats Sandal | Footwear For Woman Stylish Sandals, Orthopedic Slippers For Woman, Comfortable Women Slipper",
+   "slot": 5
+  },
+  {
+   "asin": "B0GF362XT5",
+   "badge": null,
+   "price": "562",
+   "rating": "4.0",
+   "reviews": "44",
+   "title": "Women's Kolhapuri Chappal Flats | Two-Tone Leatherette Ethnic Sandals with Toe Ring | Comfortable Handcrafted Traditional Slip-On Slippers for Ladies",
+   "slot": 6
+  },
+  {
+   "asin": "B0F6NRLZF6",
+   "badge": null,
+   "price": "1,497",
+   "rating": "3.8",
+   "reviews": "178",
+   "title": "Women's Ultra Lightweight Sandals with Memory Foam Cushion|Stylish & Comfortable|Casual & Non-Slip|Diabetic & Orthopedic Flip Flops with Adjustable Strap Ladies",
+   "slot": 7
+  },
+  {
+   "asin": "B0DHH65DP2",
+   "badge": null,
+   "price": "499",
+   "rating": "4.0",
+   "reviews": "1,358",
+   "title": "Mahndi Floats women soft slippers with mild acupressure | Comfortable, stylish, and bright colorful flip flops | Lab tested Cushion and Bounce | Cushioned Footw",
+   "slot": 8
+  },
+  {
+   "asin": "B0GDTL73RR",
+   "badge": null,
+   "price": "649",
+   "rating": "4.5",
+   "reviews": "20",
+   "title": "Orthopedic Footwear Women's Sandal - Comfortable Ortho For Women | Comfortable And Stylish Slipper for Woman Daily Use | Flat Heels Anti Skid Sandals for Woman ",
+   "slot": 9
+  },
+  {
+   "asin": "B0D4ZGQLL7",
+   "badge": null,
+   "price": "795",
+   "rating": "4.1",
+   "reviews": "769",
+   "title": "Flats for Women Stylish | Lightweight Comfortable Slippers for Woman | Soft Sole Ladies Footwear for All Day Comfort",
+   "slot": 10
+  }
+ ],
+ "notes": []
+}

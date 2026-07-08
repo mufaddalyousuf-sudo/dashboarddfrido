@@ -1,0 +1,61 @@
+{
+ "category": "footwear-active-walking-shoes-men-s",
+ "marketplace": "flipkart",
+ "keyword": "Frido Active Walking Shoes - Men's",
+ "capturedAt": "2026-07-08",
+ "method": "Live scrape flipkart.com mobile search page 1 (__INITIAL_STATE__), query = exact SKU name",
+ "confidence": "Medium-High (live; sponsored flags not exposed on mobile)",
+ "fridoRank": 3,
+ "fridoPresent": true,
+ "results": [
+  {
+   "pos": 1,
+   "title": "CAMPUS DRIVO Running Shoes For Men",
+   "price": null,
+   "rating": 4.3,
+   "ratings": 3667,
+   "isFrido": false
+  },
+  {
+   "pos": 2,
+   "title": "CAMPUS RAGE Running Shoes For Men",
+   "price": null,
+   "rating": 4.3,
+   "ratings": 1550,
+   "isFrido": false
+  },
+  {
+   "pos": 3,
+   "title": "Frido Active Shoes | Breathable Mesh, Cushioned Footbed & Zero-Drop Sole For Dailywear Sneakers For Men",
+   "price": null,
+   "rating": 4.7,
+   "ratings": 15,
+   "isFrido": true
+  },
+  {
+   "pos": 4,
+   "title": "Frido Cloud Comfort Casual Sports Slip-On Shoes, Zero-Drop Barefoot With Wide Toe Box Casuals For Men",
+   "price": null,
+   "rating": 4.2,
+   "ratings": 80,
+   "isFrido": true
+  },
+  {
+   "pos": 5,
+   "title": "Frido Cloud Comfort Light Sports Lace-up Shoes with Zero-Drop Design & Wide Toe Box Sneakers For Men",
+   "price": null,
+   "rating": 4.2,
+   "ratings": 139,
+   "isFrido": true
+  },
+  {
+   "pos": 6,
+   "title": "Frido Active Walking Shoes | Zero-Drop Sole with Wide Toe Box for Natural Movement Walking Shoes For Men",
+   "price": null,
+   "rating": 0,
+   "ratings": 0,
+   "isFrido": true
+  }
+ ],
+ "notes": []
+}

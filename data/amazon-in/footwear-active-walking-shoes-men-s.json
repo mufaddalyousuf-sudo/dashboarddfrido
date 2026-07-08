@@ -1,0 +1,197 @@
+{
+ "category": "footwear-active-walking-shoes-men-s",
+ "marketplace": "amazon-in",
+ "keyword": "Frido Active Walking Shoes - Men's",
+ "capturedAt": "2026-07-08",
+ "method": "Live scrape amazon.in search page 1, query = exact SKU name (brand-qualified)",
+ "confidence": "High (live snapshot, single keyword)",
+ "fridoOrganicRank": 1,
+ "fridoSponsoredSlot": 5,
+ "organic": [
+  {
+   "asin": "B0H5KHR8NK",
+   "badge": null,
+   "price": "3,999",
+   "rating": "5.0",
+   "reviews": "8",
+   "title": "Active Walking Shoes for Men & Women | Lightweight Breathable Mesh Upper | Zero-Drop Sole with Wide Toe Box for Natural Movement | Cushioned Comfort Lace-Up Sne",
+   "rank": 1,
+   "isFridoBrand": true
+  },
+  {
+   "asin": "B0H1C49M7D",
+   "badge": null,
+   "price": "3,999",
+   "rating": "5.0",
+   "reviews": "10",
+   "title": "Active Casual Sneakers for Men | Stylish Everyday Sneakers with Breathable Mesh, Lycra-Lined Collar, Cushioned Footbed & Zero-Drop Sole for Travel, Night Outs",
+   "rank": 2
+  },
+  {
+   "asin": "B0H1BWGN6X",
+   "badge": null,
+   "price": "3,999",
+   "rating": "5.0",
+   "reviews": "10",
+   "title": "Active Casual Sneakers for Men | Stylish Everyday Sneakers with Breathable Mesh, Lycra-Lined Collar, Cushioned Footbed & Zero-Drop Sole for Travel, Night Outs",
+   "rank": 3
+  },
+  {
+   "asin": "B0H1BXLJT3",
+   "badge": null,
+   "price": "3,999",
+   "rating": "5.0",
+   "reviews": "10",
+   "title": "Active Casual Sneakers for Men | Stylish Everyday Sneakers with Breathable Mesh, Lycra-Lined Collar, Cushioned Footbed & Zero-Drop Sole for Travel, Night Outs",
+   "rank": 4
+  },
+  {
+   "asin": "B0G44953D3",
+   "badge": null,
+   "price": "1,499",
+   "rating": "3.9",
+   "reviews": "228",
+   "title": "Men Shoes",
+   "rank": 5
+  },
+  {
+   "asin": "B0H3L981FR",
+   "badge": null,
+   "price": "1,399",
+   "rating": "4.2",
+   "reviews": "750",
+   "title": "Men's Flynn Walking Shoes",
+   "rank": 6
+  },
+  {
+   "asin": "B0FT3NVWCL",
+   "badge": null,
+   "price": "1,397",
+   "rating": "4.2",
+   "reviews": "2,302",
+   "title": "Men's Sports Shoes with Memory Foam Cushioned Insole|Running Walking Gym Training Jogging Athletics|Comfortable & Stylish|Casual & Lightweight|Slipon Sneaker Ge",
+   "rank": 7
+  },
+  {
+   "asin": "B0H5W3MKLK",
+   "badge": null,
+   "price": "2,199",
+   "rating": "4.4",
+   "reviews": "41",
+   "title": "Cloud Comfort Walking Shoes for Women | Zero-Drop Barefoot Design with Wide Toe Box | Lightweight Breathable Comfort Shoes | Natural Foot Movement | Available i",
+   "rank": 8
+  },
+  {
+   "asin": "B0GJKDSCQV",
+   "badge": null,
+   "price": "1,397",
+   "rating": "4.2",
+   "reviews": "42",
+   "title": "Men’s Running & Walking Shoes Lightweight Comfortable Slip-On Sports Sneakers with Memory Foam Cushion, Breathable Knitted Upper, Anti-Slip Sole Flexible Gym Tr",
+   "rank": 9
+  },
+  {
+   "asin": "B0F94C4H6S",
+   "badge": null,
+   "price": "898",
+   "rating": "3.8",
+   "reviews": "1,128",
+   "title": "Walking Shoes for Man, Breathable Knit Slip-On Casual Shoes s for Man with Memory Foam Insole, Thick Eva Outsole, and Padded Heel Support, Lightweight, Sock-Lik",
+   "rank": 10
+  }
+ ],
+ "sponsored": [
+  {
+   "asin": "B0H5KHR8NK",
+   "badge": null,
+   "price": "3,999",
+   "rating": "5.0",
+   "reviews": "8",
+   "title": "Active Walking Shoes for Men & Women | Lightweight Breathable Mesh Upper | Zero-Drop Sole with Wide Toe Box for Natural Movement | Cushioned Comfort Lace-Up Sne",
+   "slot": 1
+  },
+  {
+   "asin": "B0DF5W1SWW",
+   "badge": null,
+   "price": "1,397",
+   "rating": "4.2",
+   "reviews": "2,302",
+   "title": "Men's Sports Shoes with Memory Foam Cushioned Insole|Running Walking Gym Training Jogging Athletics|Comfortable & Stylish|Casual & Lightweight|Slipon Sneaker Ge",
+   "slot": 2
+  },
+  {
+   "asin": "B07R81RK54",
+   "badge": null,
+   "price": "999",
+   "rating": "3.9",
+   "reviews": "5,352",
+   "title": "Men Pull On Walking Shoes",
+   "slot": 3
+  },
+  {
+   "asin": "B0FTZ9PJLW",
+   "badge": null,
+   "price": "1,297",
+   "rating": "4.1",
+   "reviews": "454",
+   "title": "Memory Foam Mens Running Shoe|Sports,Gym,Training,Walking,Jogging,Casual | Lightweight & Comfortable|Loafer Sneakers Lace-Up Athletics Moccasins Slipon for Gent",
+   "slot": 4
+  },
+  {
+   "asin": "B0H1C25LV9",
+   "badge": null,
+   "price": "3,999",
+   "rating": "5.0",
+   "reviews": "10",
+   "title": "Active Casual Sneakers for Men | Stylish Everyday Sneakers with Breathable Mesh, Lycra-Lined Collar, Cushioned Footbed & Zero-Drop Sole for Travel, Night Outs",
+   "slot": 5,
+   "isFridoBrand": true
+  },
+  {
+   "asin": "B0GY8J5Z4P",
+   "badge": null,
+   "price": "2,108",
+   "rating": "4.2",
+   "reviews": "8",
+   "title": "Flexi Ease Men Shoes",
+   "slot": 6
+  },
+  {
+   "asin": "B0FPQHYZP3",
+   "badge": null,
+   "price": "849",
+   "rating": "4.1",
+   "reviews": "1,744",
+   "title": "Cloud Comfort Slippers for Women & Men | Available in 2 Options- Arch Support & Without Arch |Orthopedic Soft Home Chappal Unisex Slipper, House Slipper with An",
+   "slot": 7
+  },
+  {
+   "asin": "B0FHJ21C8T",
+   "badge": null,
+   "price": "1,149",
+   "rating": "4.2",
+   "reviews": "443",
+   "title": "Men's Emerge Walking Shoes",
+   "slot": 8
+  },
+  {
+   "asin": "B0F948C3DV",
+   "badge": null,
+   "price": "898",
+   "rating": "3.8",
+   "reviews": "1,128",
+   "title": "Walking Shoes for Man, Breathable Knit Slip-On Casual Shoes s for Man with Memory Foam Insole, Thick Eva Outsole, and Padded Heel Support, Lightweight, Sock-Lik",
+   "slot": 9
+  },
+  {
+   "asin": "B0FNKK158H",
+   "badge": null,
+   "price": "799",
+   "rating": "4.3",
+   "reviews": "1,074",
+   "title": "Mens Drift Memory Foam Comfort Shoes|Running|Walking|Training|Gym|Jogging|Sneaker|Athletic|Slipon|Flexible|Lightweight|Dailyuse|Sports|Casual|ExtraSoft|Fitness",
+   "slot": 10
+  }
+ ],
+ "notes": []
+}

@@ -1,0 +1,197 @@
+{
+ "category": "footwear-women-s-arch-comfort-wedge-sandals-buckle-strap",
+ "marketplace": "amazon-in",
+ "keyword": "Frido Women's Arch Comfort Wedge Sandals - Buckle Strap",
+ "capturedAt": "2026-07-08",
+ "method": "Live scrape amazon.in search page 1, query = exact SKU name (brand-qualified)",
+ "confidence": "High (live snapshot, single keyword)",
+ "fridoOrganicRank": 1,
+ "fridoSponsoredSlot": 3,
+ "organic": [
+  {
+   "asin": "B0H7M1KKFW",
+   "badge": null,
+   "price": "3,699",
+   "rating": "5.0",
+   "reviews": "7",
+   "title": "Women's Arch Support Wedge Sandals, Orthopedic Cushioned Platform Heels with Anti-Slip Sole, Comfortable Slip-On Footwear for Office, Travel, Daily Wear & Long ",
+   "rank": 1,
+   "isFridoBrand": true
+  },
+  {
+   "asin": "B0H5571124",
+   "badge": null,
+   "price": null,
+   "rating": "5.0",
+   "reviews": "7",
+   "title": "Women's Arch Support Wedge Sandals, Orthopedic Cushioned Platform Heels with Anti-Slip Sole, Comfortable Slip-On Footwear for Office, Travel, Daily Wear & Long ",
+   "rank": 2
+  },
+  {
+   "asin": "B0G6JXBCYV",
+   "badge": null,
+   "price": null,
+   "rating": "4.1",
+   "reviews": "320",
+   "title": "Cloud Comfort Orthopaedic Sandals for Women | Arch Support & Heel Cushion | Anti-Slip Sole, Adjustable Buckle | Lightweight Soft PU Footbed | Available in Open ",
+   "rank": 3
+  },
+  {
+   "asin": "B0H7M91YKF",
+   "badge": null,
+   "price": "3,699",
+   "rating": "5.0",
+   "reviews": "7",
+   "title": "Women's Arch Support Wedge Sandals, Orthopedic Cushioned Platform Heels with Anti-Slip Sole, Comfortable Slip-On Footwear for Office, Travel, Daily Wear & Long ",
+   "rank": 4
+  },
+  {
+   "asin": "B0G3XHQLVX",
+   "badge": null,
+   "price": null,
+   "rating": "4.1",
+   "reviews": "320",
+   "title": "Cloud Comfort Orthopaedic Sandals for Women | Arch Support & Heel Cushion | Anti-Slip Sole, Adjustable Buckle | Lightweight Soft PU Footbed | Available in Open ",
+   "rank": 5
+  },
+  {
+   "asin": "B0H1CDZM28",
+   "badge": null,
+   "price": "1,445",
+   "rating": null,
+   "reviews": null,
+   "title": "Women's Comfort Sandal, Soft Cushioned Footbed, Adjustable Buckle Strap, Lightweight Platform Sole",
+   "rank": 6
+  },
+  {
+   "asin": "B0H1CJL7NY",
+   "badge": null,
+   "price": "1,445",
+   "rating": null,
+   "reviews": null,
+   "title": "Women's Comfort Sandal, Soft Cushioned Footbed, Adjustable Buckle Strap, Lightweight Platform Sole",
+   "rank": 7
+  },
+  {
+   "asin": "B0GRNQCKWM",
+   "badge": null,
+   "price": "1,368",
+   "rating": "4.3",
+   "reviews": "126",
+   "title": "Women’s Comfort Flat Sandals | Ethnic Style Slip-On | Super Soft Cushioned Sole, Padded Knit Upper, Breathable & Anti-Skid Zero-Drop | Available in Comfort Flat",
+   "rank": 8
+  },
+  {
+   "asin": "B0GCLN94TM",
+   "badge": null,
+   "price": "1,368",
+   "rating": "4.3",
+   "reviews": "126",
+   "title": "Women’s Comfort Flat Sandals | Ethnic Style Slip-On | Super Soft Cushioned Sole, Padded Knit Upper, Breathable & Anti-Skid Zero-Drop | Available in Comfort Flat",
+   "rank": 9
+  },
+  {
+   "asin": "B0GFNDD4R8",
+   "badge": null,
+   "price": "799",
+   "rating": "3.9",
+   "reviews": "4",
+   "title": "womens Sandal Sandal",
+   "rank": 10
+  }
+ ],
+ "sponsored": [
+  {
+   "asin": "B0DFMFQG82",
+   "badge": null,
+   "price": "699",
+   "rating": "4.1",
+   "reviews": "372",
+   "title": "Wedges for Women | Stylish Sandals for Woman | 2 Inch Wedge Heel Footwear | Ladies Office Wear",
+   "slot": 1
+  },
+  {
+   "asin": "B09319HS4W",
+   "badge": null,
+   "price": "1,709",
+   "rating": "4.3",
+   "reviews": "265",
+   "title": "womens Harleen Mule Slipper",
+   "slot": 2
+  },
+  {
+   "asin": "B0H7M3RQZV",
+   "badge": "Bestseller",
+   "price": "3,699",
+   "rating": "5.0",
+   "reviews": "7",
+   "title": "Women's Arch Support Wedge Sandals, Orthopedic Cushioned Platform Heels with Anti-Slip Sole, Comfortable Slip-On Footwear for Office, Travel, Daily Wear & Long ",
+   "slot": 3,
+   "isFridoBrand": true
+  },
+  {
+   "asin": "B0GFNB3SZR",
+   "badge": null,
+   "price": "799",
+   "rating": "3.9",
+   "reviews": "4",
+   "title": "womens Sandal Sandal",
+   "slot": 4
+  },
+  {
+   "asin": "B0BRL1MKRN",
+   "badge": null,
+   "price": "559",
+   "rating": "4.1",
+   "reviews": "4,081",
+   "title": "Drizzle Soft Slippers for Women, Mild Acupressure, Lightweight, Anti Skid & Slip, Diabetic Footwear for Woman, Home Wear Bathroom Chappal for ladies | Waterproo",
+   "slot": 5
+  },
+  {
+   "asin": "B0BLYJFRKZ",
+   "badge": null,
+   "price": "659",
+   "rating": "4.0",
+   "reviews": "2,508",
+   "title": "ArchFlex orthopedic slippers for women | Arch support for pain relief | Soft, Anti-Skid, lightweight | comfortable padded straps flip flops for Everyday",
+   "slot": 6
+  },
+  {
+   "asin": "B0FS2V6HB3",
+   "badge": null,
+   "price": "1,799",
+   "rating": "3.7",
+   "reviews": "31",
+   "title": "Women's Orthopedic Sandals with Arch Support, Adjustable Strap, Casual Outdoor Wear",
+   "slot": 7
+  },
+  {
+   "asin": "B0CF2PJFCK",
+   "badge": null,
+   "price": "949",
+   "rating": "3.8",
+   "reviews": "523",
+   "title": "Women's Arch Support Slippers | Ortho Flipflops with soft MCR footbed - Reduce Pressure on Feet, Joints, and Back",
+   "slot": 8
+  },
+  {
+   "asin": "B0F1YCKDYD",
+   "badge": null,
+   "price": "499",
+   "rating": "4.0",
+   "reviews": "616",
+   "title": "Women Ultra Soft Cushion Footbed Slipper | Comfortable Light Weight Waterproof Slippers |Adult Flip Flops Mild Acupressure | All Day Wear",
+   "slot": 9
+  },
+  {
+   "asin": "B0DHH65DP2",
+   "badge": null,
+   "price": "499",
+   "rating": "4.0",
+   "reviews": "1,358",
+   "title": "Mahndi Floats women soft slippers with mild acupressure | Comfortable, stylish, and bright colorful flip flops | Lab tested Cushion and Bounce | Cushioned Footw",
+   "slot": 10
+  }
+ ],
+ "notes": []
+}

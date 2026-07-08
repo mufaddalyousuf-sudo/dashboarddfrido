@@ -1,0 +1,61 @@
+{
+ "category": "footwear-women-s-cloud-comfort-shoes-lace-ups",
+ "marketplace": "flipkart",
+ "keyword": "Frido Women's Cloud Comfort Shoes - Lace ups",
+ "capturedAt": "2026-07-08",
+ "method": "Live scrape flipkart.com mobile search page 1 (__INITIAL_STATE__), query = exact SKU name",
+ "confidence": "Medium-High (live; sponsored flags not exposed on mobile)",
+ "fridoRank": 2,
+ "fridoPresent": true,
+ "results": [
+  {
+   "pos": 1,
+   "title": "CAMPUS ANNIE Women's Casual Shoes | Sock-Like Fit | Integrated FoamLite Tech | Slip On Walking Shoes For Women",
+   "price": null,
+   "rating": 4.2,
+   "ratings": 66525,
+   "isFrido": false
+  },
+  {
+   "pos": 2,
+   "title": "Frido Cloud Comfort Light Sports Lace-up Shoes with Zero-Drop Design & Wide Toe Box Casuals For Women",
+   "price": null,
+   "rating": 4.2,
+   "ratings": 31,
+   "isFrido": true
+  },
+  {
+   "pos": 3,
+   "title": "Skechers ARCH FIT - FRECKLE ME Sneakers For Women",
+   "price": null,
+   "rating": 4.4,
+   "ratings": 240,
+   "isFrido": false
+  },
+  {
+   "pos": 4,
+   "title": "Frido Active Walking Shoes | Zero-Drop Sole with Wide Toe Box for Natural Movement Walking Shoes For Women",
+   "price": null,
+   "rating": 0,
+   "ratings": 0,
+   "isFrido": true
+  },
+  {
+   "pos": 5,
+   "title": "Crab Shoes Extra Soft, light weight, Running, Walking Shoes For Women",
+   "price": null,
+   "rating": 3.6,
+   "ratings": 32,
+   "isFrido": false
+  },
+  {
+   "pos": 6,
+   "title": "Skechers D'Lux Walker-Infinite Motion Casuals For Women",
+   "price": null,
+   "rating": 4.3,
+   "ratings": 1703,
+   "isFrido": false
+  }
+ ],
+ "notes": []
+}

@@ -1,0 +1,69 @@
+{
+ "category": "footwear-men-s-comfort-dual-strap-sandals",
+ "marketplace": "flipkart",
+ "keyword": "Frido Men's Comfort Dual Strap Sandals",
+ "capturedAt": "2026-07-08",
+ "method": "Live scrape flipkart.com mobile search page 1 (__INITIAL_STATE__), query = exact SKU name",
+ "confidence": "Medium-High (live; sponsored flags not exposed on mobile)",
+ "fridoRank": 3,
+ "fridoPresent": true,
+ "results": [
+  {
+   "pos": 1,
+   "title": "WALKAROO Men Casual",
+   "price": null,
+   "rating": 4,
+   "ratings": 4744,
+   "isFrido": false
+  },
+  {
+   "pos": 2,
+   "title": "WALKAROO Men Sandals",
+   "price": null,
+   "rating": 4.2,
+   "ratings": 1806,
+   "isFrido": false
+  },
+  {
+   "pos": 3,
+   "title": "Frido Comfort Dual Strap Footwear With Bounce Back Cushioned Footbed Adjustable Velcro Men Casual",
+   "price": null,
+   "rating": 4.4,
+   "ratings": 136,
+   "isFrido": true
+  },
+  {
+   "pos": 4,
+   "title": "Frido Cloud Comfort Diabetic Ortho Arch Support for Pain Relief Anti-Skid Sole Cushion Men Sandals",
+   "price": null,
+   "rating": 4.2,
+   "ratings": 144,
+   "isFrido": true
+  },
+  {
+   "pos": 5,
+   "title": "Frido Unisex Cloud Comfort Arch Support Orthopedic Soft Home Chappal with Anti-Skid Sole Slippers",
+   "price": null,
+   "rating": 4.2,
+   "ratings": 580,
+   "isFrido": true
+  },
+  {
+   "pos": 6,
+   "title": "Samyra Men Sandals",
+   "price": null,
+   "rating": 3.6,
+   "ratings": 175,
+   "isFrido": false
+  },
+  {
+   "pos": 7,
+   "title": "Samyra Men Casual",
+   "price": null,
+   "rating": 0,
+   "ratings": null,
+   "isFrido": false
+  }
+ ],
+ "notes": []
+}

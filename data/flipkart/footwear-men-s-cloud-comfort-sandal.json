@@ -1,0 +1,69 @@
+{
+ "category": "footwear-men-s-cloud-comfort-sandal",
+ "marketplace": "flipkart",
+ "keyword": "Frido Men's Cloud Comfort Sandal",
+ "capturedAt": "2026-07-08",
+ "method": "Live scrape flipkart.com mobile search page 1 (__INITIAL_STATE__), query = exact SKU name",
+ "confidence": "Medium-High (live; sponsored flags not exposed on mobile)",
+ "fridoRank": 3,
+ "fridoPresent": true,
+ "results": [
+  {
+   "pos": 1,
+   "title": "WALKAROO Men Sandals",
+   "price": null,
+   "rating": 4.1,
+   "ratings": 1142,
+   "isFrido": false
+  },
+  {
+   "pos": 2,
+   "title": "WALKAROO Men Casual",
+   "price": null,
+   "rating": 3.9,
+   "ratings": 72,
+   "isFrido": false
+  },
+  {
+   "pos": 3,
+   "title": "Frido Comfort Dual Strap Footwear With Bounce Back Cushioned Footbed Adjustable Velcro Men Casual",
+   "price": null,
+   "rating": 4.4,
+   "ratings": 136,
+   "isFrido": true
+  },
+  {
+   "pos": 4,
+   "title": "Frido Puneri Arch Comfort Sandal | Leather Chappal with Built-In Arch Support, Cushion Men Flats",
+   "price": null,
+   "rating": 5,
+   "ratings": 4,
+   "isFrido": true
+  },
+  {
+   "pos": 5,
+   "title": "Frido Traditional Kolhapuri Leather, Memory Foam, Adjustable Ethnic Puneri Footwear Men Sandals",
+   "price": null,
+   "rating": 3.6,
+   "ratings": 13,
+   "isFrido": true
+  },
+  {
+   "pos": 6,
+   "title": "Frido Cloud Comfort Diabetic Ortho Arch Support for Pain Relief Anti-Skid Sole Cushion Men Sandals",
+   "price": null,
+   "rating": 4.2,
+   "ratings": 144,
+   "isFrido": true
+  },
+  {
+   "pos": 7,
+   "title": "GLB Men Sandals",
+   "price": null,
+   "rating": 3.7,
+   "ratings": 3156,
+   "isFrido": false
+  }
+ ],
+ "notes": []
+}

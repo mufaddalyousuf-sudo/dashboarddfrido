@@ -1,0 +1,69 @@
+{
+ "category": "footwear-women-s-arch-comfort-wedge-sandals-buckle-strap",
+ "marketplace": "flipkart",
+ "keyword": "Frido Women's Arch Comfort Wedge Sandals - Buckle Strap",
+ "capturedAt": "2026-07-08",
+ "method": "Live scrape flipkart.com mobile search page 1 (__INITIAL_STATE__), query = exact SKU name",
+ "confidence": "Medium-High (live; sponsored flags not exposed on mobile)",
+ "fridoRank": 1,
+ "fridoPresent": true,
+ "results": [
+  {
+   "pos": 1,
+   "title": "Frido Cloud Comfort Arch & Heel Support with Anti-Skid Sole, Adjustable Buckle Strap Women Sandals",
+   "price": null,
+   "rating": 4.2,
+   "ratings": 144,
+   "isFrido": true
+  },
+  {
+   "pos": 2,
+   "title": "KOWUS Women Wedges",
+   "price": null,
+   "rating": 0,
+   "ratings": 0,
+   "isFrido": false
+  },
+  {
+   "pos": 3,
+   "title": "ANGO Women Wedges",
+   "price": null,
+   "rating": 0,
+   "ratings": 0,
+   "isFrido": false
+  },
+  {
+   "pos": 4,
+   "title": "AVSSIS Women Wedges",
+   "price": null,
+   "rating": 4.1,
+   "ratings": 227,
+   "isFrido": false
+  },
+  {
+   "pos": 5,
+   "title": "Froh Feet Women Wedges",
+   "price": null,
+   "rating": 4.1,
+   "ratings": 249,
+   "isFrido": false
+  },
+  {
+   "pos": 6,
+   "title": "ERIDANI Women Wedges",
+   "price": null,
+   "rating": 0,
+   "ratings": 0,
+   "isFrido": false
+  },
+  {
+   "pos": 7,
+   "title": "HARSHUDREAM Women Wedges",
+   "price": null,
+   "rating": 4.2,
+   "ratings": 197,
+   "isFrido": false
+  }
+ ],
+ "notes": []
+}
