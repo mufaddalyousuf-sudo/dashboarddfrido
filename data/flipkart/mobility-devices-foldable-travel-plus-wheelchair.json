@@ -1,9 +1,9 @@
 {
- "category": "mobility-devices-frido",
+ "category": "mobility-devices-foldable-travel-plus-wheelchair",
  "marketplace": "flipkart",
- "keyword": "foldable travel wheelchair",
- "capturedAt": "2026-07-07",
- "method": "Live scrape flipkart.com mobile search page 1 (__INITIAL_STATE__), brand-qualified query",
+ "keyword": "Frido Foldable Travel Plus Wheelchair",
+ "capturedAt": "2026-07-08",
+ "method": "Live scrape flipkart.com mobile search page 1 (__INITIAL_STATE__), query = exact SKU name",
  "confidence": "Medium-High (live; sponsored flags not exposed on mobile)",
  "fridoRank": null,
  "fridoPresent": false,
@@ -14,7 +14,6 @@
    "price": null,
    "rating": 4.3,
    "ratings": 1467,
-   "reviews": null,
    "isFrido": false
   },
   {
@@ -23,7 +22,6 @@
    "price": null,
    "rating": 4.1,
    "ratings": 692,
-   "reviews": null,
    "isFrido": false
   },
   {
@@ -32,7 +30,6 @@
    "price": null,
    "rating": 4.1,
    "ratings": 665,
-   "reviews": null,
    "isFrido": false
   },
   {
@@ -41,7 +38,6 @@
    "price": null,
    "rating": 4.2,
    "ratings": 192,
-   "reviews": null,
    "isFrido": false
   },
   {
@@ -50,61 +46,70 @@
    "price": null,
    "rating": 2.3,
    "ratings": 3,
-   "reviews": null,
    "isFrido": false
   },
   {
    "pos": 6,
-   "title": "VMS Careline TRIP Transit Lightweight Portable Traveling Wheel Chair With Seat Belt Manual Wheelchair",
+   "title": "HealthEmate Magwheel Foldable with SEAT and Leg Belt Manual Wheelchair",
    "price": null,
-   "rating": 3.9,
-   "ratings": 26,
-   "reviews": 2,
+   "rating": 4.3,
+   "ratings": 1823,
    "isFrido": false
   },
   {
    "pos": 7,
-   "title": "HealthEmate Magwheel Foldable with SEAT and Leg Belt Manual Wheelchair",
+   "title": "HealthEmate MagDualSupport Manual Wheelchair",
    "price": null,
    "rating": 4.3,
-   "ratings": 1818,
-   "reviews": 127,
+   "ratings": 5086,
    "isFrido": false
   },
   {
    "pos": 8,
-   "title": "TR Foldable Wheelchair with dual Brake Manual Wheelchair",
-   "price": null,
-   "rating": 4,
-   "ratings": 110,
-   "reviews": 10,
-   "isFrido": false
-  },
-  {
-   "pos": 9,
-   "title": "TR Foldable Wheelchair for Old People and Patient with Adjustable Seat Belt Manual Wheelchair",
-   "price": null,
-   "rating": 4.2,
-   "ratings": 85,
-   "reviews": 14,
-   "isFrido": false
-  },
-  {
-   "pos": 10,
-   "title": "Karma Rainbow5 Manual Wheelchair",
-   "price": null,
-   "rating": 4.1,
-   "ratings": 191,
-   "reviews": 28,
-   "isFrido": false
-  },
-  {
-   "pos": 11,
    "title": "HealthEmate UltraLight Ryder 1 Pro IndoorOutdoor Stylish Manual Wheelchair",
    "price": null,
    "rating": 4.3,
    "ratings": 71,
-   "reviews": 2,
+   "isFrido": false
+  },
+  {
+   "pos": 9,
+   "title": "VMS Careline Select Plus Foldable Manual Wheelchair",
+   "price": null,
+   "rating": 4.1,
+   "ratings": 345,
+   "isFrido": false
+  },
+  {
+   "pos": 10,
+   "title": "HealthEmate MagDualSupport Red Manual Wheelchair",
+   "price": null,
+   "rating": 4.1,
+   "ratings": 182,
+   "isFrido": false
+  },
+  {
+   "pos": 11,
+   "title": "Easylife Lifemove Magwheel solid Manual Wheelchair",
+   "price": null,
+   "rating": 4.1,
+   "ratings": 35,
+   "isFrido": false
+  },
+  {
+   "pos": 12,
+   "title": "HealthEmate Easy Fold with Seat Belt Mag Wheel Manual Wheelchair",
+   "price": null,
+   "rating": 4.3,
+   "ratings": 98,
+   "isFrido": false
+  },
+  {
+   "pos": 13,
+   "title": "KosmoCare Dura Mag Foldable Wheelchair with Food Tray & soft cushion seat Manual Wheelchair",
+   "price": null,
+   "rating": 4.1,
+   "ratings": 26,
    "isFrido": false
   }
  ],

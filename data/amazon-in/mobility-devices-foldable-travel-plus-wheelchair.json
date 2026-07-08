@@ -1,0 +1,196 @@
+{
+ "category": "mobility-devices-foldable-travel-plus-wheelchair",
+ "marketplace": "amazon-in",
+ "keyword": "Frido Foldable Travel Plus Wheelchair",
+ "capturedAt": "2026-07-08",
+ "method": "Live scrape amazon.in search page 1, query = exact SKU name (brand-qualified)",
+ "confidence": "High (live snapshot, single keyword)",
+ "fridoOrganicRank": 1,
+ "fridoSponsoredSlot": null,
+ "organic": [
+  {
+   "asin": "B0FBK2NSFJ",
+   "badge": "Amazon's Choice",
+   "price": "15,999",
+   "rating": "4.6",
+   "reviews": "53",
+   "title": "Foldable Travel Plus Wheelchair | Lightweight, Portable & Compact Wheelchair for Travel, Seniors & Patients | Comfortable Foldable Wheel Chair for Short-Distanc",
+   "rank": 1,
+   "isFridoBrand": true
+  },
+  {
+   "asin": "B0DW8NKRRM",
+   "badge": null,
+   "price": "13,099",
+   "rating": "4.6",
+   "reviews": "121",
+   "title": "Foldable Travel Wheelchair | Lightweight, Portable & Compact Wheel Chair for Travel, Seniors & Patients | Comfortable Foldable Wheel Chair for Short-Distance Mo",
+   "rank": 2
+  },
+  {
+   "asin": "B0GDRH33V7",
+   "badge": null,
+   "price": "7,200",
+   "rating": "4.1",
+   "reviews": "506",
+   "title": "Airlite Lightweight Foldable Travel Wheelchair | Portable Transit Wheelchair for Elderly & Patients | 9.8kg Steel Frame | 12\" Honeycomb Wheels | Attendant Brake",
+   "rank": 3
+  },
+  {
+   "asin": "B0FR25ZBSD",
+   "badge": null,
+   "price": "79,999",
+   "rating": "5.0",
+   "reviews": "1",
+   "title": "Prime Plus Electric Wheelchair with One Battery for Elderly & Disabled | Automatic Foldable Power Wheelchair with 360° Joystick, Up to 15km Range, Portable for ",
+   "rank": 4
+  },
+  {
+   "asin": "B0GRNDJMY8",
+   "badge": null,
+   "price": "6,299",
+   "rating": "5.0",
+   "reviews": "2",
+   "title": "Portable, Metal, with Attendant Break, feature Safety Belt, Back Pocket and Carry Bag, Easy for Mobility Travelling Wheelchair (Blue Travel Wheelchair)",
+   "rank": 5
+  },
+  {
+   "asin": "B09HTVYRQ8",
+   "badge": null,
+   "price": "6,469",
+   "rating": "4.1",
+   "reviews": "376",
+   "title": "ARCATRON by Frido | FSS100 Foldable Wheelchair, Made in India, Lifetime Spare Parts Support Available - with Sturdy X-frame Easy Folding Mechanism, Chrome Plate",
+   "rank": 6
+  },
+  {
+   "asin": "B0D7SJXCDB",
+   "badge": "Bestseller",
+   "price": "5,760",
+   "rating": "4.0",
+   "reviews": "81",
+   "title": "EcoGlide Premium Imported Lightweight Transporter Wheelchair | Travel Wheelchair with Handbrakes | Portable Folding | Red",
+   "rank": 7
+  },
+  {
+   "asin": "B0B1QTNJ2H",
+   "badge": null,
+   "price": "5,979",
+   "rating": "4.3",
+   "reviews": "359",
+   "title": "By Frido | FSS101 Everyday Foldable Wheelchair-Made In India,Lifetime Spare Support-With Sturdy X-Frame Folding Mechanism,Steel Chassis & Rear Mag Wheels",
+   "rank": 8
+  },
+  {
+   "asin": "B07BNPVQTQ",
+   "badge": null,
+   "price": "12,560",
+   "rating": "4.5",
+   "reviews": "684",
+   "title": "Stylex Premium Imported Ultra lightweight Transporter Wheelchair With Seat Belt -Crest Series-Light Blue",
+   "rank": 9
+  },
+  {
+   "asin": "B0H17VZSWH",
+   "badge": null,
+   "price": "7,999",
+   "rating": null,
+   "reviews": null,
+   "title": "Portable Ultra-Light Aluminium Wheelchair – Compact Foldable Design, Vibrant Orange Finish, Travel-Friendly Mobility Aid(SUPER LIGHT ALLUMINIUM FRAME)",
+   "rank": 10
+  }
+ ],
+ "sponsored": [
+  {
+   "asin": "B0DW8NKRRM",
+   "badge": null,
+   "price": "13,099",
+   "rating": "4.6",
+   "reviews": "121",
+   "title": "Foldable Travel Wheelchair | Lightweight, Portable & Compact Wheel Chair for Travel, Seniors & Patients | Comfortable Foldable Wheel Chair for Short-Distance Mo",
+   "slot": 1
+  },
+  {
+   "asin": "B0G5348LCC",
+   "badge": null,
+   "price": "4,649",
+   "rating": "5.0",
+   "reviews": "1",
+   "title": "Foldable Wheelchair | Adjustable Armrests & Footrests | Comfortable Cushioned Seat | Steel Frame | Easy to Manoeuvre for Indoor & Outdoor Use | Elderly & Patien",
+   "slot": 2
+  },
+  {
+   "asin": "B0FGF9NW5H",
+   "badge": null,
+   "price": "8,529",
+   "rating": null,
+   "reviews": null,
+   "title": "Ryder 5 Manual Wheelchair | Compact Foldable Frame | Flip-Back Armrest | Detachable Footrest | Foldable Backrest | Attendant Brake | 100 kg Capacity | For Daily",
+   "slot": 3
+  },
+  {
+   "asin": "B0D8Q5W2VV",
+   "badge": null,
+   "price": "4,449",
+   "rating": "3.8",
+   "reviews": "321",
+   "title": "Foldable Wheelchair for Old People and Patient, Suitable for Indoor & Travel-Friendly with Adjustable & Comfort Seat Belt with Footrests, Wheel Chair for Toilet",
+   "slot": 4
+  },
+  {
+   "asin": "B0DXVR1QNY",
+   "badge": "Bestseller",
+   "price": "5,899",
+   "rating": "4.3",
+   "reviews": "114",
+   "title": "Portable Lightweight Mild Steel Holds (100kg) with Attendant Brake & Carry Bag, Travel-Friendly, Indoor Use, 100kg Capacity, Adjustable Seat Belt, United Brake,",
+   "slot": 5
+  },
+  {
+   "asin": "B0GSFLDH65",
+   "badge": null,
+   "price": "6,348",
+   "rating": "4.1",
+   "reviews": "506",
+   "title": "Airlite Lightweight Foldable Travel Wheelchair for Elderly & Patients | Ultra-Light 8.2kg Portable Steel Frame | Attendant Brake, Adjustable Seat Belt & Carry B",
+   "slot": 6
+  },
+  {
+   "asin": "B0C4XYGVPD",
+   "badge": null,
+   "price": "6,849",
+   "rating": "4.5",
+   "reviews": "71",
+   "title": "Foldable Premium Mag wheel Commode Wheelchair with Attendant Brake | Detachable Cushion Seat & Toilet Bucket | Ideal Wheelchair for Old People & Patients, Metal",
+   "slot": 7
+  },
+  {
+   "asin": "B0GDRH33V7",
+   "badge": null,
+   "price": "7,200",
+   "rating": "4.1",
+   "reviews": "506",
+   "title": "Airlite Lightweight Foldable Travel Wheelchair | Portable Transit Wheelchair for Elderly & Patients | 9.8kg Steel Frame | 12\" Honeycomb Wheels | Attendant Brake",
+   "slot": 8
+  },
+  {
+   "asin": "B0CN6K49V8",
+   "badge": null,
+   "price": "6,799",
+   "rating": "3.5",
+   "reviews": "13",
+   "title": "Everactiv Everyday Economy Foldable Wheelchair with Safety Seat belt & Extra Soft Cushions, Weight Bearing Capacity 120 kg, Sturdy Frame and Easy Foldable Mecha",
+   "slot": 9
+  },
+  {
+   "asin": "B0D1G14TKT",
+   "badge": null,
+   "price": "4,999",
+   "rating": "4.0",
+   "reviews": "33",
+   "title": "(Max Group) Foldable Wheel Chairs with Adjustable Footrest, Rear Wheel Locks and Seatbelt for Safety (125Kg Capacity, Black)",
+   "slot": 10
+  }
+ ],
+ "notes": []
+}

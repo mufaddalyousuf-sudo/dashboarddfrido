@@ -143,7 +143,6 @@
   const actions = {
     orthotics: [["Assess marketplace fit for posture corrector", "No top-10 presence in a belt-brand-dominated category — decide whether this is a marketplace-push line or stays D2C-only."]],
     "personal-care": [["Seed visibility for nasal strips", "Both Nasal Strip Pro and Nasal Strips return zero results on Amazon and Flipkart for their own exact name — stronger than a ranking gap, this looks like no live marketplace listing at all. Needs an ad-led launch or listing audit, not organic-only."]],
-    "mobility-devices": [["Fix wheelchair-cushion keyword targeting", "Ad runs with zero organic top-10 — align listing keywords to the search term being paid for."]],
   };
 
   const sel = $("#catSelect");

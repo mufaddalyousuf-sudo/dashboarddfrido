@@ -1,0 +1,109 @@
+{
+ "category": "mobility-devices-foldable-travel-wheelchair",
+ "marketplace": "flipkart",
+ "keyword": "Frido Foldable Travel Wheelchair",
+ "capturedAt": "2026-07-08",
+ "method": "Live scrape flipkart.com mobile search page 1 (__INITIAL_STATE__), query = exact SKU name",
+ "confidence": "Medium-High (live; sponsored flags not exposed on mobile)",
+ "fridoRank": null,
+ "fridoPresent": false,
+ "results": [
+  {
+   "pos": 1,
+   "title": "Entros KL875 Premium Aluminum, Foldable Design, Ideal for Patients & Handicaps Manual Wheelchair",
+   "price": null,
+   "rating": 4.3,
+   "ratings": 1467,
+   "isFrido": false
+  },
+  {
+   "pos": 2,
+   "title": "Entros SC8005A Manual Wheelchair",
+   "price": null,
+   "rating": 4.1,
+   "ratings": 692,
+   "isFrido": false
+  },
+  {
+   "pos": 3,
+   "title": "Entros SC8005S Manual Wheelchair",
+   "price": null,
+   "rating": 4.1,
+   "ratings": 665,
+   "isFrido": false
+  },
+  {
+   "pos": 4,
+   "title": "Entros Liberty Foldable for Adults & Patients Manual Wheelchair",
+   "price": null,
+   "rating": 4.2,
+   "ratings": 192,
+   "isFrido": false
+  },
+  {
+   "pos": 5,
+   "title": "Entros SC5025C Manual Wheelchair",
+   "price": null,
+   "rating": 2.3,
+   "ratings": 3,
+   "isFrido": false
+  },
+  {
+   "pos": 6,
+   "title": "HealthEmate Magwheel Foldable with SEAT and Leg Belt Manual Wheelchair",
+   "price": null,
+   "rating": 4.3,
+   "ratings": 1823,
+   "isFrido": false
+  },
+  {
+   "pos": 7,
+   "title": "KosmoCare Dura Mag Foldable Wheelchair with Food Tray & soft cushion seat Manual Wheelchair",
+   "price": null,
+   "rating": 4.1,
+   "ratings": 26,
+   "isFrido": false
+  },
+  {
+   "pos": 8,
+   "title": "HealthEmate MagDualSupport Manual Wheelchair",
+   "price": null,
+   "rating": 4.3,
+   "ratings": 5086,
+   "isFrido": false
+  },
+  {
+   "pos": 9,
+   "title": "HealthEmate UltraLight Ryder 1 Pro IndoorOutdoor Stylish Manual Wheelchair",
+   "price": null,
+   "rating": 4.3,
+   "ratings": 71,
+   "isFrido": false
+  },
+  {
+   "pos": 10,
+   "title": "HealthEmate MagDualSupport Red Manual Wheelchair",
+   "price": null,
+   "rating": 4.1,
+   "ratings": 182,
+   "isFrido": false
+  },
+  {
+   "pos": 11,
+   "title": "VMS Careline Select Plus Foldable Manual Wheelchair",
+   "price": null,
+   "rating": 4.1,
+   "ratings": 345,
+   "isFrido": false
+  },
+  {
+   "pos": 12,
+   "title": "OTICA Wheelchair Safety Strap Seat Belt, Adjustable Length - Black Anti-Slip Wrist Support",
+   "price": null,
+   "rating": 0,
+   "ratings": 0,
+   "isFrido": false
+  }
+ ],
+ "notes": []
+}

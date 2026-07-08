@@ -699,16 +699,24 @@
    "priority": "P3",
    "datasets": [
     {
-     "id": "mobility-devices-frido",
-     "keyword": "foldable travel wheelchair",
+     "id": "mobility-devices-foldable-travel-wheelchair",
+     "keyword": "Frido Foldable Travel Wheelchair",
      "primary": true
     },
     {
-     "id": "wheelchair-mobility-cushion",
-     "keyword": "wheelchair cushion"
+     "id": "mobility-devices-foldable-travel-plus-wheelchair",
+     "keyword": "Frido Foldable Travel Plus Wheelchair"
+    },
+    {
+     "id": "mobility-devices-2000-wheelchair",
+     "keyword": "Frido 2000 Wheelchair"
+    },
+    {
+     "id": "mobility-devices-prime-plus-electric-wheelchair",
+     "keyword": "Frido Prime Plus Electric Wheelchair"
     }
    ],
-   "correctionNote": "Corrects an earlier session finding: myfrido.com has no Mobility Devices collection, but Frido genuinely sells wheelchairs, commode wheelchairs and patient-lift chairs on Amazon under manufacturer Arcatron Mobility Pvt Ltd (the same manufacturer behind the verified Frido Hot & Cold Therapy Cap) — an Amazon-only sub-line absent from Frido's own website."
+   "skuSource": "frido-product-catalog.json (full base-SKU research, 2026-07-08)"
   },
   {
    "id": "chairs",
