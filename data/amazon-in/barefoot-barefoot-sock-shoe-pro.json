@@ -1,0 +1,197 @@
+{
+ "category": "barefoot-barefoot-sock-shoe-pro",
+ "marketplace": "amazon-in",
+ "keyword": "Frido Barefoot Sock Shoe Pro",
+ "capturedAt": "2026-07-08",
+ "method": "Live scrape amazon.in search page 1, query = exact SKU name (brand-qualified)",
+ "confidence": "High (live snapshot, single keyword)",
+ "fridoOrganicRank": 7,
+ "fridoSponsoredSlot": 5,
+ "organic": [
+  {
+   "asin": "B0BNHJ53FM",
+   "badge": null,
+   "price": "499",
+   "rating": "3.9",
+   "reviews": "1,600",
+   "title": "Barefoot Water Aqua Shoes for Men, Women - Non-Slip Quick-Dry Skin Shoes, Sand Socks for Swimming, Beach, Yoga, Diving",
+   "rank": 1
+  },
+  {
+   "asin": "B0DCP88VNG",
+   "badge": null,
+   "price": "1,031",
+   "rating": "4.3",
+   "reviews": "1,773",
+   "title": "Barefoot Rooted Wide feet Shoes for Men | Lightweight Running & Training Shoes with Soft Sole & Superior Grip | Running, Jogging Regular Gym Shoes for Men",
+   "rank": 2
+  },
+  {
+   "asin": "B0D4R1TDT6",
+   "badge": null,
+   "price": "923",
+   "rating": "4.2",
+   "reviews": "2,459",
+   "title": "Barefoot Rooted Comfortable Big Toe Box Gym, Cross Training, Walking Shoes for Men",
+   "rank": 3
+  },
+  {
+   "asin": "B0DNFVZL83",
+   "badge": null,
+   "price": "934",
+   "rating": "4.1",
+   "reviews": "563",
+   "title": "Barefoot for Wide feet Shoes for Women | Lightweight & Soft Sole with Superior Grip | Ideal for Running on Soft Ground, Training & Gym Workout",
+   "rank": 4
+  },
+  {
+   "asin": "B09RV5MGQ2",
+   "badge": "Bestseller",
+   "price": "694",
+   "rating": "3.8",
+   "reviews": "9,642",
+   "title": "Frido Dual Gel Heavy Duty Trimmable Insoles | For Loose Shoes or Replacing Existing Insoles | Thick Shoe Inserts | Extra Comfort and Support | Proudly Made in I",
+   "rank": 5
+  },
+  {
+   "asin": "B0DKYRL6YJ",
+   "badge": "Amazon's Choice",
+   "price": "399",
+   "rating": "4.2",
+   "reviews": "333",
+   "title": "Active Socks for Men & Women | Cotton Nylon Grip | Anti-Sweat, Odor-Free | Ideal for Walking, Running, Training, Gym & Sports,",
+   "rank": 6
+  },
+  {
+   "asin": "B0H5W5NPRH",
+   "badge": null,
+   "price": "2,199",
+   "rating": "4.4",
+   "reviews": "41",
+   "title": "Cloud Comfort Walking Shoes for Women | Zero-Drop Barefoot Design with Wide Toe Box | Lightweight Breathable Comfort Shoes | Natural Foot Movement | Available i",
+   "rank": 7,
+   "isFridoBrand": true
+  },
+  {
+   "asin": "B0D9BPD9KY",
+   "badge": null,
+   "price": "532",
+   "rating": "3.6",
+   "reviews": "138",
+   "title": "Yoga Socks for Women, Breathable Cotton 5-Toe Socks for Women, Anti Skid Women Socks, Elastic Strap Design for Pilates, Dance, Barre, Home Workout & Barefoot Fi",
+   "rank": 8
+  },
+  {
+   "asin": "B0F4KQVV76",
+   "badge": null,
+   "price": "235",
+   "rating": "4.5",
+   "reviews": "29",
+   "title": "cotton Foot Alignment Socks 5 Finger Toe Separator for Men & Women, Plantar Fasciitis Leg Foot Pain Relief Bunion Corrector, Hallux Valgus, Orthopaedic Socks fo",
+   "rank": 9
+  },
+  {
+   "asin": "B0CZP18NZL",
+   "badge": null,
+   "price": "971",
+   "rating": "4.0",
+   "reviews": "804",
+   "title": "Barefoot Rooted Comfortable Big Toe Box Gym, Cross Training, Running,Walking Shoes for Men",
+   "rank": 10
+  }
+ ],
+ "sponsored": [
+  {
+   "asin": "B0H5KRX2VC",
+   "badge": null,
+   "price": "3,999",
+   "rating": "5.0",
+   "reviews": "8",
+   "title": "Active Walking Shoes for Men & Women | Lightweight Breathable Mesh Upper | Zero-Drop Sole with Wide Toe Box for Natural Movement | Cushioned Comfort Lace-Up Sne",
+   "slot": 1
+  },
+  {
+   "asin": "B08YYZ25KT",
+   "badge": null,
+   "price": "410",
+   "rating": "4.2",
+   "reviews": "5,203",
+   "title": "Bamboo Socks for Men Anti-Microbial Ultra Soft Padded Ankle Socks, Pack of 3",
+   "slot": 2
+  },
+  {
+   "asin": "B0DYF2YG93",
+   "badge": null,
+   "price": "309",
+   "rating": "4.0",
+   "reviews": "6",
+   "title": "Socks - Quarter - Ultralight Nylon -Sports, fitness, Running, Exercise, Thick Good Grip, for men, women",
+   "slot": 3
+  },
+  {
+   "asin": "B0GX9X1VDY",
+   "badge": null,
+   "price": "539",
+   "rating": "5.0",
+   "reviews": "2",
+   "title": "Eco-Friendly Printed Bamboo Socks – Soft and Breathable Unisex Crew Socks, Designed in the UK | Carbon-Neutral Antibacterial Socks for Regular Wear, Sizes M (UK",
+   "slot": 4
+  },
+  {
+   "asin": "B0DJKR4763",
+   "badge": "Bestseller",
+   "price": "899",
+   "rating": "3.8",
+   "reviews": "9,642",
+   "title": "Frido Dual Gel Pro Shoe Insoles -Trimmable Shoe Sole for Men & Women for Stability, Shock Absorption & Comfort | Anti-Sweat Sports Insole, Foot Support Silicone",
+   "slot": 5,
+   "isFridoBrand": true
+  },
+  {
+   "asin": "B0D37ZLNMD",
+   "badge": null,
+   "price": "524",
+   "rating": "3.6",
+   "reviews": "449",
+   "title": "Helios Insoles for Men | Dual Gelmax Shoe Sole for Men | Trim to Fit Size 8-12 | Gel Cushioning & Shock Absorption | Orthopedic Insole for Shoes | Daily Comfort",
+   "slot": 6
+  },
+  {
+   "asin": "B0FR9L87VT",
+   "badge": "Bestseller",
+   "price": "949",
+   "rating": "4.1",
+   "reviews": "1,744",
+   "title": "Cloud Comfort Slippers for Women & Men | Available in 2 Options- Arch Support & Without Arch |Orthopedic Soft Home Chappal Unisex Slipper, House Slipper with An",
+   "slot": 7
+  },
+  {
+   "asin": "B09V17X8PF",
+   "badge": null,
+   "price": "502",
+   "rating": "4.1",
+   "reviews": "248",
+   "title": "Superman Batman Superhero Character Full Length Socks for Kids- Pack Of 4",
+   "slot": 8
+  },
+  {
+   "asin": "B08W38DBZJ",
+   "badge": "Bestseller",
+   "price": "876",
+   "rating": "4.2",
+   "reviews": "1,607",
+   "title": "Bamboo Compression Socks For Men & Women | Odour Free & Superior Grip | Running, Cycling, Boosts Blood Circulation & Recovery",
+   "slot": 9
+  },
+  {
+   "asin": "B0G3XJLB6C",
+   "badge": null,
+   "price": "1,899",
+   "rating": "4.1",
+   "reviews": "320",
+   "title": "Cloud Comfort Orthopaedic Sandals for Women | Arch Support & Heel Cushion | Anti-Slip Sole, Adjustable Buckle | Lightweight Soft PU Footbed | Available in Open ",
+   "slot": 10
+  }
+ ],
+ "notes": []
+}

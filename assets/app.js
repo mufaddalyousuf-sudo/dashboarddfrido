@@ -141,7 +141,6 @@
   // removed rather than left showing an outdated claim; fresh ones are pending a
   // data-driven pass once all 16 categories are on the new research.
   const actions = {
-    barefoot: [["Replicate the Flipkart listing on Amazon", "Frido ranks #2 on Flipkart for “barefoot shoes” but has no Amazon top-10 presence for the same keyword."]],
     footwear: [["Fix Amazon keyword coverage for slippers", "Flipkart #3 for “orthopedic slippers”, but no Amazon top-10 for the identical keyword — check the Amazon listing's title and backend search terms."]],
     accessories: [["Improve the car-neck-rest listing content", "Frido sits mid-pack (#8 Amazon, #9 Flipkart) — review price, hero image and title against the leaders on this keyword."]],
     "maternity-baby-care": [["Close the review gap on pregnancy pillow", "Frido ranks #6; leaders carry a larger review base. A post-purchase review prompt is the fastest lever."]],

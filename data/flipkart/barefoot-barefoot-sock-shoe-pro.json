@@ -1,0 +1,109 @@
+{
+ "category": "barefoot-barefoot-sock-shoe-pro",
+ "marketplace": "flipkart",
+ "keyword": "Frido Barefoot Sock Shoe Pro",
+ "capturedAt": "2026-07-08",
+ "method": "Live scrape flipkart.com mobile search page 1 (__INITIAL_STATE__), query = exact SKU name",
+ "confidence": "Medium-High (live; sponsored flags not exposed on mobile)",
+ "fridoRank": 5,
+ "fridoPresent": true,
+ "results": [
+  {
+   "pos": 1,
+   "title": "ADONYX Combo of Knee,Palm, Knee Support",
+   "price": null,
+   "rating": 3.9,
+   "ratings": 11636,
+   "isFrido": false
+  },
+  {
+   "pos": 2,
+   "title": "ADONYX Adustable Compression Foot Pain Relief Ankle Support",
+   "price": null,
+   "rating": 4,
+   "ratings": 3104,
+   "isFrido": false
+  },
+  {
+   "pos": 3,
+   "title": "ADONYX 1 Pack Knee Compression Sleeve, Knee Support for Sports Workout Knee Support",
+   "price": null,
+   "rating": 4,
+   "ratings": 2992,
+   "isFrido": false
+  },
+  {
+   "pos": 4,
+   "title": "ADONYX Premium 3D Sport Ankle Brace Protector Compression Protection Guard Pain Relief Ankle Support",
+   "price": null,
+   "rating": 3.9,
+   "ratings": 2345,
+   "isFrido": false
+  },
+  {
+   "pos": 5,
+   "title": "Frido Anti Sweat Active Socks for Badminton, Walking, Running, Gym & Sports, Odor-Free Men & Women Mid-Calf/Crew",
+   "price": null,
+   "rating": 4.1,
+   "ratings": 98,
+   "isFrido": true
+  },
+  {
+   "pos": 6,
+   "title": "SHNMN Gel Heel Pad Silicone Cup Cushion for Heel Pain Men Women Blue Men & Women Solid Ankle Length, Thigh, Peds/Footie/No-Show",
+   "price": null,
+   "rating": 4.4,
+   "ratings": 102,
+   "isFrido": false
+  },
+  {
+   "pos": 7,
+   "title": "Wonder Care Neoprene Plantar Fasciitis Night Splint Sock – Heel & Achilles Pain Relief Ankle Support",
+   "price": null,
+   "rating": 3.7,
+   "ratings": 132,
+   "isFrido": false
+  },
+  {
+   "pos": 8,
+   "title": "JSB BS60-XL Padded Diabetic Socks Seamless Stretchable with Gel Insole Support Insole",
+   "price": null,
+   "rating": 4.1,
+   "ratings": 18,
+   "isFrido": false
+  },
+  {
+   "pos": 9,
+   "title": "Frido High Heels Ball of Foot Cushions, Pack of 2 Pairs (1 Wide & 1 Compact) Heel Support",
+   "price": null,
+   "rating": 3.7,
+   "ratings": 3,
+   "isFrido": true
+  },
+  {
+   "pos": 10,
+   "title": "Frido Anti Sweat Active Socks for Badminton, Walking, Running, Gym & Sports, Odor-Free Men & Women Printed Mid-Calf/Crew",
+   "price": null,
+   "rating": 4.1,
+   "ratings": 98,
+   "isFrido": true
+  },
+  {
+   "pos": 11,
+   "title": "Wonder Care Men & Women Solid Mid-Calf/Crew",
+   "price": null,
+   "rating": 3.6,
+   "ratings": 33,
+   "isFrido": false
+  },
+  {
+   "pos": 12,
+   "title": "Wonder Care Neoprene Plantar Fasciitis Night Splint Sock – Heel & Achilles Pain Relief (S) Ankle Support",
+   "price": null,
+   "rating": 3.7,
+   "ratings": 132,
+   "isFrido": false
+  }
+ ],
+ "notes": []
+}
