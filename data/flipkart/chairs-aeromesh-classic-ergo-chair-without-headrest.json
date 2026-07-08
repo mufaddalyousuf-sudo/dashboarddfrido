@@ -1,0 +1,14 @@
+{
+ "category": "chairs-aeromesh-classic-ergo-chair-without-headrest",
+ "marketplace": "flipkart",
+ "keyword": "Frido AeroMesh Classic Ergo Chair - Without Headrest",
+ "capturedAt": "2026-07-08",
+ "method": "Live scrape flipkart.com mobile search page 1 (__INITIAL_STATE__), query = exact SKU name",
+ "confidence": "Low (fetch blocked)",
+ "fridoRank": null,
+ "fridoPresent": false,
+ "results": [],
+ "notes": [
+  "Live fetch failed after retries — needs re-verification."
+ ]
+}

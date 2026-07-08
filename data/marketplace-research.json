@@ -38478,6 +38478,2507 @@
    },
    "status": "needs-verification",
    "capturedAt": "2026-07-08"
+  },
+  {
+   "category": "chairs",
+   "categoryName": "Chairs",
+   "sku": "Vajra Gaming Chair",
+   "keyword": "Frido Vajra Gaming Chair",
+   "amazon": {
+    "fetchOk": true,
+    "organic": [
+     {
+      "asin": "B0DR2R1RJQ",
+      "badge": null,
+      "price": "19,999",
+      "rating": "4.0",
+      "reviews": "205",
+      "title": "Frido 3D Posture Plus Ergonomic Chair | Adjustable Lumbar Support & 135° Recline | for Lumbar Pain & Posture Correction | Leather Chairs for Office Work, Home, ",
+      "rank": 1,
+      "isFridoBrand": true
+     },
+     {
+      "asin": "B0DV5KVDNL",
+      "badge": null,
+      "price": "11,990",
+      "rating": "4.6",
+      "reviews": "1,140",
+      "title": "Green Soul Blade Ergonomic Gaming Chair | Leatherette | Multi-Functional Computer Chair | Integrated Massager | ErgoSync Armrest | Retractable Footrest | 1 Year",
+      "rank": 2
+     },
+     {
+      "asin": "B0BNH9LZLQ",
+      "badge": null,
+      "price": "17,390",
+      "rating": "4.3",
+      "reviews": "897",
+      "title": "Dr Luxur® 2026 Edition Weavemonster Ergonomic Gaming Chair | Chair For Office Work | Honeycombed Fabric | Magnetic Neck Pillow | Portable Lumbar Pillow | Footre",
+      "rank": 3
+     },
+     {
+      "asin": "B0FPCP1MMN",
+      "badge": null,
+      "price": "36,999",
+      "rating": "3.8",
+      "reviews": "14",
+      "title": "Frido ErgoLuxe Executive Chair | Premium Ergonomic Office Chair with Integrated Lumbar Support | 3D Adjustable Armrests, Retractable Footrest & 145° Reclining |",
+      "rank": 4
+     },
+     {
+      "asin": "B0GGJ31622",
+      "badge": null,
+      "price": "8,999",
+      "rating": "4.2",
+      "reviews": "124",
+      "title": "Warrior 2026 Edition Gaming & Office Ergonomic Chair | Vegan Leather | High Back 135° Recliner | Adjustable Height & Linkage Armrest | Lumbar Support | 360° Swi",
+      "rank": 5
+     },
+     {
+      "asin": "B0GSWHD2BN",
+      "badge": null,
+      "price": "8,279",
+      "rating": "4.7",
+      "reviews": "28",
+      "title": "DROGO Pulse Ergonomic Gaming Chair | High Back Office Computer Chair with Premium PU Leather, Adjustable Height & Linkage Armrest | Lumbar Support, 165° Recline",
+      "rank": 6
+     },
+     {
+      "asin": "B0DDPYZGFW",
+      "badge": null,
+      "price": "8,999",
+      "rating": "4.2",
+      "reviews": "9,822",
+      "title": "GTPLAYER #1USA Multi-Functional Ergonomic Gaming & Computer Chair – Massage Cushion, Premium PU Leather, Adjustable Neck & Lumbar Pillow for Back Support, Footr",
+      "rank": 7
+     },
+     {
+      "asin": "B0FQNJFNF4",
+      "badge": null,
+      "price": "23,990",
+      "rating": "4.6",
+      "reviews": "39",
+      "title": "Green Soul Vision Pro V2 | Ergonomic Gaming Chair | Premium Leather | Memory Foam Magnetic Neck & Lumbar Pillow | Integrated Leg Rest | 4D Armrests & Flat Wheel",
+      "rank": 8
+     },
+     {
+      "asin": "B0FL1ZZ3H4",
+      "badge": null,
+      "price": "15,999",
+      "rating": "4.6",
+      "reviews": "55",
+      "title": "Hunter Legion X 2026 Edition | Ergonomic Gaming & Office Chair | PU Vegan Leather & Breathable Spandex Fabric | Magnetic Headrest, Memory Foam Lumbar Pillow | 4",
+      "rank": 9
+     },
+     {
+      "asin": "B0FYPTT8TW",
+      "badge": null,
+      "price": "15,990",
+      "rating": "4.4",
+      "reviews": "70",
+      "title": "DROGO Ergonex Ergonomic Office Chair for Work from Home with Mesh, Armrest, 2D Headrest & Lumbar Support | Computer Chair for Study | Gaming Chair with Footrest",
+      "rank": 10
+     }
+    ],
+    "sponsored": [
+     {
+      "asin": "B0GGJ31622",
+      "badge": null,
+      "price": "8,999",
+      "rating": "4.2",
+      "reviews": "124",
+      "title": "Warrior 2026 Edition Gaming & Office Ergonomic Chair | Vegan Leather | High Back 135° Recliner | Adjustable Height & Linkage Armrest | Lumbar Support | 360° Swi",
+      "slot": 1
+     },
+     {
+      "asin": "B0CQRHVSPF",
+      "badge": null,
+      "price": "1,28,000",
+      "rating": "4.4",
+      "reviews": "1,462",
+      "title": "Steelcase Gesture Office Chair - Ergonomic Work Chair with LiveBack Technology - 360 Degree Rotating Arms | 12-Year Warranty",
+      "slot": 2
+     },
+     {
+      "asin": "B0H623538C",
+      "badge": null,
+      "price": "63,900",
+      "rating": "5.0",
+      "reviews": "6",
+      "title": "Steelcase Think Ergonomic Office Chair | Adjustable Lumbar Support, 4D Arms, LiveBack System | Weight-Activated Recline | 12-Year Warranty",
+      "slot": 3
+     },
+     {
+      "asin": "B0G6CRNJ36",
+      "badge": null,
+      "price": "45,100",
+      "rating": "3.8",
+      "reviews": "6",
+      "title": "Steelcase Series 1 Ergonomic Office Chair – Royal Blue | Adjustable Lumbar Support, 4D Arms, LiveBack System | Weight-Activated Recline | 12-Year Warranty",
+      "slot": 4
+     },
+     {
+      "asin": "B0GGHZVWZC",
+      "badge": null,
+      "price": "8,999",
+      "rating": "4.2",
+      "reviews": "124",
+      "title": "Warrior Gaming & Office Ergonomic Chair | Vegan Leather | High Back 135° Recliner | Adjustable Height & Linkage Armrest | Lumbar Support | 360° Swivel | 3 Year ",
+      "slot": 5
+     },
+     {
+      "asin": "B0DVPNFC13",
+      "badge": null,
+      "price": "15,999",
+      "rating": "4.0",
+      "reviews": "122",
+      "title": "Frido AeroMesh Ergo Chair, Adjustable Armrests & Headrest, Lumbar Support, Breathable Mesh Back Fabric, Customizable Seat Depth & Height, Office Chair for Work,",
+      "slot": 6,
+      "isFridoBrand": true
+     },
+     {
+      "asin": "B0CR9XQ9JL",
+      "badge": null,
+      "price": "59,100",
+      "rating": "4.4",
+      "reviews": "72",
+      "title": "Steelcase Series 2 Office Chair - Ergonomic Work Chair | Adjustable Lumbar Support, 4D Arms, LiveBack System | Weight-Activated Recline | 12-Year Warranty",
+      "slot": 7
+     },
+     {
+      "asin": "B0FL1WYV2H",
+      "badge": null,
+      "price": "9,299",
+      "rating": "4.2",
+      "reviews": "190",
+      "title": "ValorX USA Striker 2026 Edition | Ergonomic Gaming & Office Computer Chair | Premium PU Leather | Dual Massager Back Support | Adjustable Neck & Lumbar Pillow |",
+      "slot": 8
+     },
+     {
+      "asin": "B0H41J5WRS",
+      "badge": null,
+      "price": "8,999",
+      "rating": null,
+      "reviews": null,
+      "title": "The Sleep Company SwivL Ergonomic Office Chair | Mesh Backrest with Dual Spring Loaded OmniSwivel Technology | SmartGRID® Technology Seat | Adjustable Headrest ",
+      "slot": 9
+     },
+     {
+      "asin": "B0F62L1LCH",
+      "badge": null,
+      "price": "23,499",
+      "rating": "4.4",
+      "reviews": "18",
+      "title": "Cybeart | Imperial - NEO Series Gaming/Office Chair | 4D Armrest, NeoTek™ Leatherette, AeroMag™ Neck & Lumbar Pillow, Recline & Tilt",
+      "slot": 10
+     }
+    ],
+    "fridoOrganicRank": 1,
+    "fridoSponsoredSlot": 6,
+    "fridoBadge": null
+   },
+   "flipkart": {
+    "fetchOk": true,
+    "results": [
+     {
+      "pos": 1,
+      "title": "CELLBELL Transformer Lite Ergonomic High Back Racing, 1D Armrest Tilt Mechanism, Leather Reclining Office. Gaming Chair",
+      "price": null,
+      "rating": 4.1,
+      "ratings": 445,
+      "isFrido": false
+     },
+     {
+      "pos": 2,
+      "title": "Drogo High Back Ergonomic Gaming Chair with Adjustable Neck, Armrest PU Leather Gaming Chair",
+      "price": null,
+      "rating": 4.2,
+      "ratings": 162,
+      "isFrido": false
+     },
+     {
+      "pos": 3,
+      "title": "GREEN SOUL Blade Ergonomic Gaming Chair|Multi-Functional Computer Chair|Ergo Sync Armrest Gaming Chair",
+      "price": null,
+      "rating": 4.5,
+      "ratings": 431,
+      "isFrido": false
+     },
+     {
+      "pos": 4,
+      "title": "GREEN SOUL Monster Ult. (S) Multi-Functional Ergonomic |Gaming & WFH|Supreme Comfort Gaming Chair",
+      "price": null,
+      "rating": 4.4,
+      "ratings": 562,
+      "isFrido": false
+     },
+     {
+      "pos": 5,
+      "title": "ASE Gaming Gold Series Gaming Chair with 180 Degree Reclining And Black Metal Base Gaming Chair",
+      "price": null,
+      "rating": 3.5,
+      "ratings": 6,
+      "isFrido": false
+     }
+    ],
+    "fridoRank": null
+   },
+   "status": "listed",
+   "capturedAt": "2026-07-08"
+  },
+  {
+   "category": "chairs",
+   "categoryName": "Chairs",
+   "sku": "ErgoLuxe Executive Chair",
+   "keyword": "Frido ErgoLuxe Executive Chair",
+   "amazon": {
+    "fetchOk": true,
+    "organic": [
+     {
+      "asin": "B0FPCP1MMN",
+      "badge": null,
+      "price": "36,999",
+      "rating": "3.8",
+      "reviews": "14",
+      "title": "Frido ErgoLuxe Executive Chair | Premium Ergonomic Office Chair with Integrated Lumbar Support | 3D Adjustable Armrests, Retractable Footrest & 145° Reclining |",
+      "rank": 1,
+      "isFridoBrand": true
+     },
+     {
+      "asin": "B0FPCQ4C9L",
+      "badge": null,
+      "price": "36,999",
+      "rating": "3.8",
+      "reviews": "14",
+      "title": "Frido ErgoLuxe Executive Chair | Premium Ergonomic Office Chair with Integrated Lumbar Support | 3D Adjustable Armrests, Retractable Footrest & 145° Reclining |",
+      "rank": 2
+     },
+     {
+      "asin": "B0FHVTQ7MT",
+      "badge": null,
+      "price": "7,999",
+      "rating": "4.2",
+      "reviews": "19",
+      "title": "Frido Glide Ergonomic Office Chair with Height Adjustable Lumbar Support | Breathable Mesh Back | 2D Adjustable Armrests | Home & Work Desk Chair for Long Sitti",
+      "rank": 3
+     },
+     {
+      "asin": "B0DVPNFC13",
+      "badge": null,
+      "price": "15,999",
+      "rating": "4.0",
+      "reviews": "122",
+      "title": "Frido AeroMesh Ergo Chair, Adjustable Armrests & Headrest, Lumbar Support, Breathable Mesh Back Fabric, Customizable Seat Depth & Height, Office Chair for Work,",
+      "rank": 4
+     },
+     {
+      "asin": "B0BZPJQ2X2",
+      "badge": "Bestseller",
+      "price": null,
+      "rating": "4.1",
+      "reviews": "8,493",
+      "title": "Da URBAN® Merlion Office Chair,High Back Mesh Ergonomic Home Office Desk Chair with 3 Years Warranty, Adjustable Armrests,Adjustable Lumbar Support,Tilt Lock Me",
+      "rank": 5
+     },
+     {
+      "asin": "B0GFN1LNN7",
+      "badge": null,
+      "price": "4,599",
+      "rating": "3.9",
+      "reviews": "596",
+      "title": "IAFA FURNITURE® Ergolux High Back Ergonomic Office & Study Chair | 3 Year Warranty | Adjustable Height, Tilt Lock, 2D Headrest, Adjustable Arms & Lumbar Support",
+      "rank": 6
+     },
+     {
+      "asin": "B0G34171YH",
+      "badge": null,
+      "price": "21,599",
+      "rating": "4.4",
+      "reviews": "3,089",
+      "title": "Efomao Ergonomic Office Chair 450LBS with Foot Rest, High Back PU Leather Executive Office Chair with Adjustable Armrests, Lumbar Support for Home or Work, Comp",
+      "rank": 7
+     },
+     {
+      "asin": "B0F9FHTN1C",
+      "badge": null,
+      "price": "17,999",
+      "rating": "4.0",
+      "reviews": "49",
+      "title": "The Sleep Company Aura Executive Office Chair with SmartGRID Seat | Premium High-Back Recliner Chair | 135° Recline | Ergonomic Backrest & Leatherette Finish | ",
+      "rank": 8
+     },
+     {
+      "asin": "B0D11F47V1",
+      "badge": null,
+      "price": "25,091",
+      "rating": "4.6",
+      "reviews": "14",
+      "title": "Director & CEO Chair Premium High Back PU Leatherette Office Chair with Wooden Base & Armrests, Ergonomic Recliner Swivel Chair (Black) | 5 Years Warranty & Fre",
+      "rank": 9
+     },
+     {
+      "asin": "B0H2HVV3YP",
+      "badge": null,
+      "price": "8,549",
+      "rating": "4.6",
+      "reviews": "28",
+      "title": "Casa Copenhagen Italia Premium Leatherette Office Chair for Work | Boss Chair, Ergonomic Executive, Luxurious Cushioned Arms & Seat, 2 Point Back Massager, Heav",
+      "rank": 10
+     }
+    ],
+    "sponsored": [
+     {
+      "asin": "B0CQRHPVCZ",
+      "badge": null,
+      "price": "1,28,000",
+      "rating": "4.4",
+      "reviews": "1,462",
+      "title": "Steelcase Gesture Office Chair - Ergonomic Work Chair with LiveBack Technology - 360 Degree Rotating Arms| 12-Year Warranty",
+      "slot": 1
+     },
+     {
+      "asin": "B0G6CRNJ36",
+      "badge": null,
+      "price": "45,100",
+      "rating": "3.8",
+      "reviews": "6",
+      "title": "Steelcase Series 1 Ergonomic Office Chair – Royal Blue | Adjustable Lumbar Support, 4D Arms, LiveBack System | Weight-Activated Recline | 12-Year Warranty",
+      "slot": 2
+     },
+     {
+      "asin": "B0H623538C",
+      "badge": null,
+      "price": "63,900",
+      "rating": "5.0",
+      "reviews": "6",
+      "title": "Steelcase Think Ergonomic Office Chair | Adjustable Lumbar Support, 4D Arms, LiveBack System | Weight-Activated Recline | 12-Year Warranty",
+      "slot": 3
+     },
+     {
+      "asin": "B0CR9XQ9JL",
+      "badge": null,
+      "price": "59,100",
+      "rating": "4.4",
+      "reviews": "72",
+      "title": "Steelcase Series 2 Office Chair - Ergonomic Work Chair | Adjustable Lumbar Support, 4D Arms, LiveBack System | Weight-Activated Recline | 12-Year Warranty",
+      "slot": 4
+     },
+     {
+      "asin": "B0DR2RX2SK",
+      "badge": "Amazon's Choice",
+      "price": "16,149",
+      "rating": "4.0",
+      "reviews": "205",
+      "title": "Frido 3D Posture Plus Ergonomic Chair | Adjustable Lumbar Support & 135° Recline | for Lumbar Pain & Posture Correction | Leather Chairs for Office Work, Home, ",
+      "slot": 5,
+      "isFridoBrand": true
+     },
+     {
+      "asin": "B0H69YYZNN",
+      "badge": null,
+      "price": "20,369",
+      "rating": "5.0",
+      "reviews": "7",
+      "title": "DROGO Monarch-X Massage Office Chair with Vibration & Heat | Big and Tall Ergonomic Executive Computer Chair with PU Leather & 150Reclining | Gaming Chair with ",
+      "slot": 6
+     },
+     {
+      "asin": "B0H74KMBWF",
+      "badge": null,
+      "price": "8,999",
+      "rating": null,
+      "reviews": null,
+      "title": "The Sleep Company SwivL Ergonomic Office Chair | Mesh Backrest with Dual Spring Loaded OmniSwivel Technology | SmartGRID® Technology Seat | Adjustable Headrest ",
+      "slot": 7
+     },
+     {
+      "asin": "B0BYJXY766",
+      "badge": null,
+      "price": "8,990",
+      "rating": "3.4",
+      "reviews": "44",
+      "title": "Green Soul Bosco Premium Leatherette Office Chair, High Back Ergonomic Home Office Executive Chair with Cushion Seat, Flip-up Padded Armrests, 4-Stage Adjust Lu",
+      "slot": 8
+     },
+     {
+      "asin": "B0D91W4PZX",
+      "badge": null,
+      "price": "17,090",
+      "rating": "4.4",
+      "reviews": "28",
+      "title": "Interio by Godrej Greta High Back Black Body Fabric Ergonomic Chair (Black Ink)",
+      "slot": 9
+     },
+     {
+      "asin": "B0GZB793X7",
+      "badge": null,
+      "price": "9,499",
+      "rating": null,
+      "reviews": null,
+      "title": "Casa Copenhagen Italia Leatherette Office Chair for Work | Boss Chair, Ergonomic Executive, Luxurious Cushioned Arms & Seat, 2 Point Back Massager, Adjustable L",
+      "slot": 10
+     }
+    ],
+    "fridoOrganicRank": 1,
+    "fridoSponsoredSlot": 5,
+    "fridoBadge": null
+   },
+   "flipkart": {
+    "fetchOk": true,
+    "results": [
+     {
+      "pos": 1,
+      "title": "Baben Free Size Posture Corrector For Men And Women Back / Lumbar Support",
+      "price": null,
+      "rating": 4.1,
+      "ratings": 377,
+      "isFrido": false
+     },
+     {
+      "pos": 2,
+      "title": "Baben Posture corrector belt for men and women for back pain Posture Corrector Posture Corrector",
+      "price": null,
+      "rating": 4.2,
+      "ratings": 74,
+      "isFrido": false
+     },
+     {
+      "pos": 3,
+      "title": "Baben Free Size Sciatica Pain Relief Belt – Adjustable Lower Back & Hip Support Abdominal Belt",
+      "price": null,
+      "rating": 5,
+      "ratings": 21,
+      "isFrido": false
+     },
+     {
+      "pos": 4,
+      "title": "Baben 3 in 1 Postpartum Support - Recovery Belly Belt Free Size Abdominal Support Abdominal Belt",
+      "price": null,
+      "rating": 0,
+      "ratings": null,
+      "isFrido": false
+     },
+     {
+      "pos": 5,
+      "title": "Baben Posture Corrector Belt for Men & Women Back Support Brace Shoulder Pain Relief Posture Corrector",
+      "price": null,
+      "rating": 3.5,
+      "ratings": 4,
+      "isFrido": false
+     },
+     {
+      "pos": 6,
+      "title": "Frido Premium ErgoLuxe Executive Office Chair | Lumbar Support | 3D Adjustable Armrest Leather Office Executive Chair",
+      "price": null,
+      "rating": 0,
+      "ratings": 0,
+      "isFrido": true
+     },
+     {
+      "pos": 7,
+      "title": "FUGO office study chair Leatherette Office Executive Chair",
+      "price": null,
+      "rating": 3,
+      "ratings": 7,
+      "isFrido": false
+     },
+     {
+      "pos": 8,
+      "title": "FUGO Leatherette Office Executive Chair",
+      "price": null,
+      "rating": 0,
+      "ratings": 0,
+      "isFrido": false
+     },
+     {
+      "pos": 9,
+      "title": "Drogo Leather Office Executive Chair",
+      "price": null,
+      "rating": 5,
+      "ratings": 4,
+      "isFrido": false
+     },
+     {
+      "pos": 10,
+      "title": "Drogo Ergonomic Office Chair for Work from Home Computer Chair with Adjustable Seat Mesh Office Executive Chair",
+      "price": null,
+      "rating": 4.3,
+      "ratings": 4,
+      "isFrido": false
+     },
+     {
+      "pos": 11,
+      "title": "Drogo Ergonomic Office/Gaming for Work from Home Computer with Head & USB Mesh Office Executive Chair",
+      "price": null,
+      "rating": 4.1,
+      "ratings": 8,
+      "isFrido": false
+     },
+     {
+      "pos": 12,
+      "title": "ErgoX Leatherette Office Arm Chair",
+      "price": null,
+      "rating": 0,
+      "ratings": 0,
+      "isFrido": false
+     },
+     {
+      "pos": 13,
+      "title": "Oakcraft Velor Ergo, 3 Years On-Site Warranty for Unrivaled Quality and Luxury Leatherette Office Executive Chair",
+      "price": null,
+      "rating": 3.7,
+      "ratings": 13,
+      "isFrido": false
+     },
+     {
+      "pos": 14,
+      "title": "FUGO Chair FG10C Office Chair, Study Chair, Computer Chair, 3 Years Warranty Leatherette Office Executive Chair",
+      "price": null,
+      "rating": 3.5,
+      "ratings": 6,
+      "isFrido": false
+     }
+    ],
+    "fridoRank": 6
+   },
+   "status": "listed",
+   "capturedAt": "2026-07-08"
+  },
+  {
+   "category": "chairs",
+   "categoryName": "Chairs",
+   "sku": "3D Posture Plus Ergonomic Chair",
+   "keyword": "Frido 3D Posture Plus Ergonomic Chair",
+   "amazon": {
+    "fetchOk": true,
+    "organic": [
+     {
+      "asin": "B0DR2R1RJQ",
+      "badge": "Amazon's Choice",
+      "price": "19,999",
+      "rating": "4.0",
+      "reviews": "205",
+      "title": "Frido 3D Posture Plus Ergonomic Chair | Adjustable Lumbar Support & 135° Recline | for Lumbar Pain & Posture Correction | Leather Chairs for Office Work, Home, ",
+      "rank": 1,
+      "isFridoBrand": true
+     },
+     {
+      "asin": "B0CBKGQB3R",
+      "badge": null,
+      "price": "1,619",
+      "rating": "4.0",
+      "reviews": "3,077",
+      "title": "Frido Ultimate Pro Seat Cushion (High Density) for Hip | Tailbone | Coccyx | Sciatica Pain Relief | Proprietary Hi-Per Foam Ergonomic Design | Contoured Cushion",
+      "rank": 2
+     },
+     {
+      "asin": "B0FPCQ4C9L",
+      "badge": null,
+      "price": "36,999",
+      "rating": "3.8",
+      "reviews": "14",
+      "title": "Frido ErgoLuxe Executive Chair | Premium Ergonomic Office Chair with Integrated Lumbar Support | 3D Adjustable Armrests, Retractable Footrest & 145° Reclining |",
+      "rank": 3
+     },
+     {
+      "asin": "B0BZPJQ2X2",
+      "badge": "Bestseller",
+      "price": null,
+      "rating": "4.1",
+      "reviews": "8,493",
+      "title": "Da URBAN® Merlion Office Chair,High Back Mesh Ergonomic Home Office Desk Chair with 3 Years Warranty, Adjustable Armrests,Adjustable Lumbar Support,Tilt Lock Me",
+      "rank": 4
+     },
+     {
+      "asin": "B0FPCP1MMN",
+      "badge": null,
+      "price": "36,999",
+      "rating": "3.8",
+      "reviews": "14",
+      "title": "Frido ErgoLuxe Executive Chair | Premium Ergonomic Office Chair with Integrated Lumbar Support | 3D Adjustable Armrests, Retractable Footrest & 145° Reclining |",
+      "rank": 5
+     },
+     {
+      "asin": "B0FRSCGK2W",
+      "badge": null,
+      "price": "12,999",
+      "rating": "5.0",
+      "reviews": "2",
+      "title": "Frido Aeromesh Classic Ergonomic Office Chair with Headrest | Breathable Mesh Backrest, Adjustable Lumbar Support & 2D Armrests | Comfortable Computer Chair for",
+      "rank": 6
+     },
+     {
+      "asin": "B0BNH9LZLQ",
+      "badge": null,
+      "price": "17,390",
+      "rating": "4.3",
+      "reviews": "897",
+      "title": "Dr Luxur® 2026 Edition Weavemonster Ergonomic Gaming Chair | Chair For Office Work | Honeycombed Fabric | Magnetic Neck Pillow | Portable Lumbar Pillow | Footre",
+      "rank": 7
+     },
+     {
+      "asin": "B0F43YFKY5",
+      "badge": null,
+      "price": "15,990",
+      "rating": "4.4",
+      "reviews": "70",
+      "title": "DROGO Ergonex Ergonomic Office Chair for Work from Home with Mesh, Armrest, 2D Headrest & Lumbar Support | Computer Chair for Study | Gaming Chair with Footrest",
+      "rank": 8
+     },
+     {
+      "asin": "B0F26WH9ZN",
+      "badge": null,
+      "price": "6,999",
+      "rating": "4.2",
+      "reviews": "316",
+      "title": "beAAtho® Berlin Orthopedic Boss Chair with 3-Years Warranty, Executive Office Chair Ergonomic High- Back Chair-Cushioned Seat & Armrests, Metal Base. (Fabric Bl",
+      "rank": 9
+     },
+     {
+      "asin": "B0FZJRS8ZS",
+      "badge": null,
+      "price": "10,999",
+      "rating": null,
+      "reviews": null,
+      "title": "Frido Aeromesh Classic Ergonomic Office Chair for Home & Work | Breathable Mesh Backrest, Adjustable Lumbar Support & 2D Armrests | Comfortable Computer Chair f",
+      "rank": 10
+     }
+    ],
+    "sponsored": [
+     {
+      "asin": "B0CQRHVSPF",
+      "badge": null,
+      "price": "1,28,000",
+      "rating": "4.4",
+      "reviews": "1,462",
+      "title": "Steelcase Gesture Office Chair - Ergonomic Work Chair with LiveBack Technology - 360 Degree Rotating Arms | 12-Year Warranty",
+      "slot": 1
+     },
+     {
+      "asin": "B0H623538C",
+      "badge": null,
+      "price": "63,900",
+      "rating": "5.0",
+      "reviews": "6",
+      "title": "Steelcase Think Ergonomic Office Chair | Adjustable Lumbar Support, 4D Arms, LiveBack System | Weight-Activated Recline | 12-Year Warranty",
+      "slot": 2
+     },
+     {
+      "asin": "B0G6CRNJ36",
+      "badge": null,
+      "price": "45,100",
+      "rating": "3.8",
+      "reviews": "6",
+      "title": "Steelcase Series 1 Ergonomic Office Chair – Royal Blue | Adjustable Lumbar Support, 4D Arms, LiveBack System | Weight-Activated Recline | 12-Year Warranty",
+      "slot": 3
+     },
+     {
+      "asin": "B0CR9XQ9JL",
+      "badge": null,
+      "price": "59,100",
+      "rating": "4.4",
+      "reviews": "72",
+      "title": "Steelcase Series 2 Office Chair - Ergonomic Work Chair | Adjustable Lumbar Support, 4D Arms, LiveBack System | Weight-Activated Recline | 12-Year Warranty",
+      "slot": 4
+     },
+     {
+      "asin": "B0DVPNFC13",
+      "badge": null,
+      "price": "15,999",
+      "rating": "4.0",
+      "reviews": "122",
+      "title": "Frido AeroMesh Ergo Chair, Adjustable Armrests & Headrest, Lumbar Support, Breathable Mesh Back Fabric, Customizable Seat Depth & Height, Office Chair for Work,",
+      "slot": 5,
+      "isFridoBrand": true
+     },
+     {
+      "asin": "B0CRVNPS3Y",
+      "badge": null,
+      "price": "4,899",
+      "rating": "4.2",
+      "reviews": "2,993",
+      "title": "CELLBELL C190 Berlin Office Chair, High Back Mesh Ergonomic Home Office Desk Chair (Grey - White)",
+      "slot": 6
+     },
+     {
+      "asin": "B0H41J5WRS",
+      "badge": null,
+      "price": "8,999",
+      "rating": null,
+      "reviews": null,
+      "title": "The Sleep Company SwivL Ergonomic Office Chair | Mesh Backrest with Dual Spring Loaded OmniSwivel Technology | SmartGRID® Technology Seat | Adjustable Headrest ",
+      "slot": 7
+     },
+     {
+      "asin": "B0DK3YN6PT",
+      "badge": null,
+      "price": "20,499",
+      "rating": "4.6",
+      "reviews": "21",
+      "title": "MRC Panther Ergonomic High Back Mesh Office Computer Chair with Auto Adjustable Lumbar Support,3D Armrests,Multi Lock Mechanism,Seat Sliding,Height Adjustable B",
+      "slot": 8
+     },
+     {
+      "asin": "B0G4H16J8H",
+      "badge": null,
+      "price": "8,279",
+      "rating": "3.2",
+      "reviews": "11",
+      "title": "DROGO Ergonomic Office Chair for Work from Home with Breathable Mesh, Flip-up Armrest, Adjustable 3D Headrest & Lumbar Support | Computer Chair for Study | Gami",
+      "slot": 9
+     },
+     {
+      "asin": "B0FPX1GL75",
+      "badge": null,
+      "price": "45,609",
+      "rating": "3.7",
+      "reviews": "24",
+      "title": "DROGO Flow 360 Ergonomic Office Chair for Work from Home with Patented Flow Technology & Cable Mechanism | Gaming Chair with Trifold Footrest, 360°Adjustable Ar",
+      "slot": 10
+     }
+    ],
+    "fridoOrganicRank": 1,
+    "fridoSponsoredSlot": 5,
+    "fridoBadge": "Amazon's Choice"
+   },
+   "flipkart": {
+    "fetchOk": true,
+    "results": [
+     {
+      "pos": 1,
+      "title": "TENACT Posture Corrector Belt Pro Fix for Men & Women Straight Back pain Relief Posture Corrector",
+      "price": null,
+      "rating": 3.8,
+      "ratings": 8159,
+      "isFrido": false
+     },
+     {
+      "pos": 2,
+      "title": "TENACT Posture Corrector Belt for men & women Back Support & Posture Corrector",
+      "price": null,
+      "rating": 3.8,
+      "ratings": 3650,
+      "isFrido": false
+     },
+     {
+      "pos": 3,
+      "title": "TENACT Posture Corrector Belt Pro for Men & Women Straight Back Support Posture Corrector",
+      "price": null,
+      "rating": 3.8,
+      "ratings": 8159,
+      "isFrido": false
+     },
+     {
+      "pos": 4,
+      "title": "TENACT Premium Belt for Men & Women Pain Relief Posture Corrector",
+      "price": null,
+      "rating": 3.6,
+      "ratings": 1774,
+      "isFrido": false
+     },
+     {
+      "pos": 5,
+      "title": "TENACT Posture Corrector Belt Pro for Men & Women Back Support Belt for Straight Back Back / Lumbar Support",
+      "price": null,
+      "rating": 3.9,
+      "ratings": 111,
+      "isFrido": false
+     },
+     {
+      "pos": 6,
+      "title": "AGEasy Orthopedic Back Rest Cushion for Chair &Car Seat, Memory Foam & Premium Air Mesh Back / Lumbar Support",
+      "price": null,
+      "rating": 4.2,
+      "ratings": 479,
+      "isFrido": false
+     },
+     {
+      "pos": 7,
+      "title": "AGEasy Wedge Pillow for Sleeping Back & Neck Pain Relief Leg Elevator Memory Foam Back / Lumbar Support",
+      "price": null,
+      "rating": 4.5,
+      "ratings": 67,
+      "isFrido": false
+     },
+     {
+      "pos": 8,
+      "title": "VASHISHTH Chair Back Rest Car Seat Lumber Support Lumbar Support Back / Lumbar Support",
+      "price": null,
+      "rating": 4,
+      "ratings": 35,
+      "isFrido": false
+     },
+     {
+      "pos": 9,
+      "title": "Dr Trust USA Memory Foam Backrest Chair Cushion Posture Corrector Spine Pain 360 Back / Lumbar Support",
+      "price": null,
+      "rating": 4.1,
+      "ratings": 1332,
+      "isFrido": false
+     },
+     {
+      "pos": 10,
+      "title": "betterhood PosturePro Coccyx Seat Cushion for Chair, 100% Memory Foam, Ergonomic Orthopedic Back / Lumbar Support",
+      "price": null,
+      "rating": 4.1,
+      "ratings": 46,
+      "isFrido": false
+     },
+     {
+      "pos": 11,
+      "title": "RelifeSupport Comfort Car Seat Back Mesh Cushion for Road Trips Back / Lumbar Support",
+      "price": null,
+      "rating": 4.6,
+      "ratings": 16,
+      "isFrido": false
+     },
+     {
+      "pos": 12,
+      "title": "FOVERA Backrest Cushion Pillow for Chair & Car, Orthopedic Memory Foam Back / Lumbar Support",
+      "price": null,
+      "rating": 4.4,
+      "ratings": 102,
+      "isFrido": false
+     },
+     {
+      "pos": 13,
+      "title": "Alark AL - 334 - Chair Back Support Back / Lumbar Support",
+      "price": null,
+      "rating": 3.7,
+      "ratings": 7,
+      "isFrido": false
+     },
+     {
+      "pos": 14,
+      "title": "FOVERA Orthopedic Coccyx Seat Cushion Pillow - For Office Chair, Tailbone Pain Relief Back / Lumbar Support",
+      "price": null,
+      "rating": 4.2,
+      "ratings": 3873,
+      "isFrido": false
+     }
+    ],
+    "fridoRank": null
+   },
+   "status": "listed",
+   "capturedAt": "2026-07-08"
+  },
+  {
+   "category": "chairs",
+   "categoryName": "Chairs",
+   "sku": "AeroMesh Ergo Chair",
+   "keyword": "Frido AeroMesh Ergo Chair",
+   "amazon": {
+    "fetchOk": true,
+    "organic": [
+     {
+      "asin": "B0DVPNFC13",
+      "badge": null,
+      "price": "15,999",
+      "rating": "4.0",
+      "reviews": "122",
+      "title": "Frido AeroMesh Ergo Chair, Adjustable Armrests & Headrest, Lumbar Support, Breathable Mesh Back Fabric, Customizable Seat Depth & Height, Office Chair for Work,",
+      "rank": 1,
+      "isFridoBrand": true
+     },
+     {
+      "asin": "B0FRSCGK2W",
+      "badge": null,
+      "price": "12,999",
+      "rating": "5.0",
+      "reviews": "2",
+      "title": "Frido Aeromesh Classic Ergonomic Office Chair with Headrest | Breathable Mesh Backrest, Adjustable Lumbar Support & 2D Armrests | Comfortable Computer Chair for",
+      "rank": 2
+     },
+     {
+      "asin": "B0D54F6X4R",
+      "badge": null,
+      "price": "12,699",
+      "rating": "4.1",
+      "reviews": "530",
+      "title": "DROGO Premium Ergonomic Office Chair for Work from Home, High Back Computer Chair with Adjustable Seat, Lumbar Support & Headrest, Flip-up Armrest & Recline | M",
+      "rank": 3
+     },
+     {
+      "asin": "B0DST8SZ38",
+      "badge": null,
+      "price": "10,790",
+      "rating": "4.3",
+      "reviews": "14,969",
+      "title": "Green Soul Jupiter Superb (2026 Edition) | Ergonomic Mesh Office Chair for Work | 5 Year Warranty | Intelli-Adapt Recline Mechanism | 3D Armrest | Adjustable Lu",
+      "rank": 4
+     },
+     {
+      "asin": "B0DR2SCVSB",
+      "badge": "Amazon's Choice",
+      "price": "19,999",
+      "rating": "4.0",
+      "reviews": "205",
+      "title": "Frido 3D Posture Plus Ergonomic Chair | Adjustable Lumbar Support & 135° Recline | For Lumbar Pain & Posture Correction | Leather Chairs For Office Work, Home, ",
+      "rank": 5
+     },
+     {
+      "asin": "B0CKYZJYZK",
+      "badge": "Bestseller",
+      "price": null,
+      "rating": "4.1",
+      "reviews": "8,493",
+      "title": "Da URBAN® Merlion Office Chair,High Back Mesh Ergonomic Home Office Desk Chair with 3 Years Warranty, Adjustable Armrests,Adjustable Lumbar Support,Tilt Lock Me",
+      "rank": 6
+     },
+     {
+      "asin": "B0H4HFHXSN",
+      "badge": null,
+      "price": "6,688",
+      "rating": "4.4",
+      "reviews": "1,955",
+      "title": "Wakefit Gravita Ergonomic Office Chair for Work | 3 Year Warranty | Single Lock and Recline | Soft Armrest with 3 Dimension adjustability| Strong Nylon Base | 8",
+      "rank": 7
+     },
+     {
+      "asin": "B0GX2WDG51",
+      "badge": null,
+      "price": "10,989",
+      "rating": "1.0",
+      "reviews": "1",
+      "title": "Optimus Pro Ergonomic Office Chair for Work | Multi-Lock Synchro Tilt Mechanism with Seat Slider | 5 Year Warranty | 3D Armrest | Fixed Curve Lumbar | (Grey, 3D",
+      "rank": 8
+     },
+     {
+      "asin": "B0B8MZ9FHC",
+      "badge": null,
+      "price": "15,999",
+      "rating": "4.2",
+      "reviews": "1,708",
+      "title": "The Sleep Company Stylux Premium Ergonomic Office Chair | Patented SmartGRID seat | SpinePro Lumbar Support | Work, Home, Study | Adjustable Headrest & 4D Armre",
+      "rank": 9
+     },
+     {
+      "asin": "B0FPCP1MMN",
+      "badge": null,
+      "price": "36,999",
+      "rating": "3.8",
+      "reviews": "14",
+      "title": "Frido ErgoLuxe Executive Chair | Premium Ergonomic Office Chair with Integrated Lumbar Support | 3D Adjustable Armrests, Retractable Footrest & 145° Reclining |",
+      "rank": 10
+     }
+    ],
+    "sponsored": [
+     {
+      "asin": "B0H74KMBWF",
+      "badge": null,
+      "price": "8,999",
+      "rating": null,
+      "reviews": null,
+      "title": "The Sleep Company SwivL Ergonomic Office Chair | Mesh Backrest with Dual Spring Loaded OmniSwivel Technology | SmartGRID® Technology Seat | Adjustable Headrest ",
+      "slot": 1
+     },
+     {
+      "asin": "B0D91W4PZX",
+      "badge": null,
+      "price": "17,090",
+      "rating": "4.4",
+      "reviews": "28",
+      "title": "Interio by Godrej Greta High Back Black Body Fabric Ergonomic Chair (Black Ink)",
+      "slot": 2
+     },
+     {
+      "asin": "B0GVDX8VT2",
+      "badge": null,
+      "price": "4,410",
+      "rating": null,
+      "reviews": null,
+      "title": "ROSE® Elite | 3 Years Brand Warranty | Ergonomic Office Chair, Study, WFH, Revolving, Rolling, Desk, Task, Laptop, Student Chair (Blue, Elite MB Reception)",
+      "slot": 3
+     },
+     {
+      "asin": "B0H7BB872M",
+      "badge": null,
+      "price": "6,199",
+      "rating": null,
+      "reviews": null,
+      "title": "OfficeElite | Ergonomic Office Chair for Home & Office | Breathable Fabric Back, Soft Cushion Seat | Heavy Duty Chrome Sled Base (120 kg Capacity, Grey-White, P",
+      "slot": 4
+     },
+     {
+      "asin": "B0FZJRS8ZS",
+      "badge": null,
+      "price": "10,999",
+      "rating": "4.4",
+      "reviews": "28",
+      "title": "Frido Aeromesh Classic Ergonomic Office Chair for Home & Work | Breathable Mesh Backrest, Adjustable Lumbar Support & 2D Armrests | Comfortable Computer Chair f",
+      "slot": 5,
+      "isFridoBrand": true
+     },
+     {
+      "asin": "B0CRVNPS3Y",
+      "badge": null,
+      "price": "4,899",
+      "rating": "4.2",
+      "reviews": "2,993",
+      "title": "CELLBELL C190 Berlin Office Chair, High Back Mesh Ergonomic Home Office Desk Chair (Grey - White)",
+      "slot": 6
+     },
+     {
+      "asin": "B0FPX1GL75",
+      "badge": null,
+      "price": "45,609",
+      "rating": "3.7",
+      "reviews": "24",
+      "title": "DROGO Flow 360 Ergonomic Office Chair for Work from Home with Patented Flow Technology & Cable Mechanism | Gaming Chair with Trifold Footrest, 360°Adjustable Ar",
+      "slot": 7
+     },
+     {
+      "asin": "B0GZB793X7",
+      "badge": null,
+      "price": "9,499",
+      "rating": null,
+      "reviews": null,
+      "title": "Casa Copenhagen Italia Leatherette Office Chair for Work | Boss Chair, Ergonomic Executive, Luxurious Cushioned Arms & Seat, 2 Point Back Massager, Adjustable L",
+      "slot": 8
+     },
+     {
+      "asin": "B0H3FFY82G",
+      "badge": null,
+      "price": "26,169",
+      "rating": "4.4",
+      "reviews": "17",
+      "title": "DROGO Cloud Ergonomic Office Chair for Work from Home | Premium Vegan Leather with 3-Section High Backrest Cushion | Computer Chair with 4 Recline Tilt-Lock Pos",
+      "slot": 9
+     },
+     {
+      "asin": "B0FCMYJPPH",
+      "badge": null,
+      "price": "12,999",
+      "rating": "4.3",
+      "reviews": "36",
+      "title": "MRC Apex Ergonomic Office High Back Computer Chair with 3 Years Warranty,Adjustable Lumbar Support,360° Adjustable Armrests, Multi Lock Mechanism, Chrome Base (",
+      "slot": 10
+     }
+    ],
+    "fridoOrganicRank": 1,
+    "fridoSponsoredSlot": 5,
+    "fridoBadge": null
+   },
+   "flipkart": {
+    "fetchOk": true,
+    "results": [
+     {
+      "pos": 1,
+      "title": "Frido AeroMesh Ergo Chair, Adjustable Armrests & Headrest, 120kg Capacity Mesh Office Adjustable Arm Chair",
+      "price": null,
+      "rating": 0,
+      "ratings": 0,
+      "isFrido": true
+     },
+     {
+      "pos": 2,
+      "title": "Frido Aeromesh Classic Ergonomic Office Chair with Headrest, Lumbar & 2D Armrests Mesh Office Adjustable Arm Chair",
+      "price": null,
+      "rating": 0,
+      "ratings": 0,
+      "isFrido": true
+     },
+     {
+      "pos": 3,
+      "title": "Frido Aeromesh Classic Ergonomic Office Chair for Home & Work,Breathable Mesh Backrest NA Office Adjustable Arm Chair",
+      "price": null,
+      "rating": 0,
+      "ratings": 0,
+      "isFrido": true
+     },
+     {
+      "pos": 4,
+      "title": "IAFA Diego Mid Back Ergonomic Office Heavy Duty Black Metal Base Mesh Office Arm Chair",
+      "price": null,
+      "rating": 4,
+      "ratings": 14746,
+      "isFrido": false
+     },
+     {
+      "pos": 5,
+      "title": "Drogo High Back Ergonomic Gaming Chair with Adjustable Neck, Armrest PU Leather Gaming Chair",
+      "price": null,
+      "rating": 4.2,
+      "ratings": 162,
+      "isFrido": false
+     },
+     {
+      "pos": 6,
+      "title": "Ergonza Ergonomic office chair in Grey Mesh Office Arm Chair",
+      "price": null,
+      "rating": 0,
+      "ratings": 0,
+      "isFrido": false
+     },
+     {
+      "pos": 7,
+      "title": "IAFA Ergolux High Back Ergonomic Office Chair with Heavy Duty Metal Base Mesh Office Adjustable Arm Chair",
+      "price": null,
+      "rating": 4,
+      "ratings": 4025,
+      "isFrido": false
+     },
+     {
+      "pos": 8,
+      "title": "Frido Tailbone Pain Relief Pillow, Non-Slip Orthopedic Cushion for Pressure Relief Supporter",
+      "price": null,
+      "rating": 3.5,
+      "ratings": 28,
+      "isFrido": true
+     }
+    ],
+    "fridoRank": 1
+   },
+   "status": "listed",
+   "capturedAt": "2026-07-08"
+  },
+  {
+   "category": "chairs",
+   "categoryName": "Chairs",
+   "sku": "Glide Ergo Chair",
+   "keyword": "Frido Glide Ergo Chair",
+   "amazon": {
+    "fetchOk": true,
+    "organic": [
+     {
+      "asin": "B0FHVTQ7MT",
+      "badge": "Amazon's Choice",
+      "price": "7,999",
+      "rating": "4.2",
+      "reviews": "19",
+      "title": "Frido Glide Ergonomic Office Chair with Height Adjustable Lumbar Support | Breathable Mesh Back | 2D Adjustable Armrests | Home & Work Desk Chair for Long Sitti",
+      "rank": 1,
+      "isFridoBrand": true
+     },
+     {
+      "asin": "B0FHVWH86Z",
+      "badge": null,
+      "price": "7,999",
+      "rating": "4.5",
+      "reviews": "11",
+      "title": "Frido Glide Ergonomic Office Chair with Height Adjustable Lumbar Support | Breathable Mesh Back | 2D Adjustable Armrests | Home & Work Desk Chair for Long Sitti",
+      "rank": 2
+     },
+     {
+      "asin": "B0CKYZJYZK",
+      "badge": "Bestseller",
+      "price": null,
+      "rating": "4.1",
+      "reviews": "8,493",
+      "title": "Da URBAN® Merlion Office Chair,High Back Mesh Ergonomic Home Office Desk Chair with 3 Years Warranty, Adjustable Armrests,Adjustable Lumbar Support,Tilt Lock Me",
+      "rank": 3
+     },
+     {
+      "asin": "B0GFN1LNN7",
+      "badge": null,
+      "price": "4,599",
+      "rating": "3.9",
+      "reviews": "596",
+      "title": "IAFA FURNITURE® Ergolux High Back Ergonomic Office & Study Chair | 3 Year Warranty | Adjustable Height, Tilt Lock, 2D Headrest, Adjustable Arms & Lumbar Support",
+      "rank": 4
+     },
+     {
+      "asin": "B0CBKGQB3R",
+      "badge": null,
+      "price": "1,619",
+      "rating": "4.0",
+      "reviews": "3,077",
+      "title": "Frido Ultimate Pro Seat Cushion (High Density) for Hip | Tailbone | Coccyx | Sciatica Pain Relief | Proprietary Hi-Per Foam Ergonomic Design | Contoured Cushion",
+      "rank": 5
+     },
+     {
+      "asin": "B0DR2R1RJQ",
+      "badge": null,
+      "price": "19,999",
+      "rating": "4.0",
+      "reviews": "205",
+      "title": "Frido 3D Posture Plus Ergonomic Chair | Adjustable Lumbar Support & 135° Recline | for Lumbar Pain & Posture Correction | Leather Chairs for Office Work, Home, ",
+      "rank": 6
+     },
+     {
+      "asin": "B0C9HYYDLZ",
+      "badge": null,
+      "price": "5,299",
+      "rating": "4.0",
+      "reviews": "516",
+      "title": "Interio by Godrej Curv Premium Mesh Wide Back Ergonomic Chair for Work from Home/Study | 1 Year Warranty | Height Adjustable Chair | Heavy Duty PP Base | DIY In",
+      "rank": 7
+     },
+     {
+      "asin": "B0F6V9RY4K",
+      "badge": null,
+      "price": "1,999",
+      "rating": "4.2",
+      "reviews": "274",
+      "title": "Frido Cloud Backrest Cushion | High-Density Memory Foam | Premium Lumbar Support for Chairs | Durable Back Pillow for Office Chair & Home Use | Breathable & Mac",
+      "rank": 8
+     },
+     {
+      "asin": "B0FPCP1MMN",
+      "badge": null,
+      "price": "36,999",
+      "rating": "3.8",
+      "reviews": "14",
+      "title": "Frido ErgoLuxe Executive Chair | Premium Ergonomic Office Chair with Integrated Lumbar Support | 3D Adjustable Armrests, Retractable Footrest & 145° Reclining |",
+      "rank": 9
+     },
+     {
+      "asin": "B0D46X42LJ",
+      "badge": null,
+      "price": "9,790",
+      "rating": "4.3",
+      "reviews": "14,969",
+      "title": "Green Soul Jupiter Pro | Ergonomic Mesh Office Chair for Work|3 Year Warranty | Seat Slider|Multi-Lock Synchro Tilt Recline Mechanism|4D Armrest|Adjustable Lumb",
+      "rank": 10
+     }
+    ],
+    "sponsored": [
+     {
+      "asin": "B0H74KMBWF",
+      "badge": null,
+      "price": "8,999",
+      "rating": null,
+      "reviews": null,
+      "title": "The Sleep Company SwivL Ergonomic Office Chair | Mesh Backrest with Dual Spring Loaded OmniSwivel Technology | SmartGRID® Technology Seat | Adjustable Headrest ",
+      "slot": 1
+     },
+     {
+      "asin": "B0GVF6VCMV",
+      "badge": null,
+      "price": "4,410",
+      "rating": null,
+      "reviews": null,
+      "title": "ROSE® Elite | 3 Years Brand Warranty | Ergonomic Office Chair, Study, WFH, Revolving, Rolling, Desk, Task, Laptop, Student Chair (White & Red, Elite MB Receptio",
+      "slot": 2
+     },
+     {
+      "asin": "B0H36JZ9PB",
+      "badge": null,
+      "price": "5,790",
+      "rating": null,
+      "reviews": null,
+      "title": "HAVAI Aero Ergonomic Office Chair with Reclining & Folding Back | Net Cloth Fabric | 60D Recycled Foam + 24D Virgin Cotton | Class 2 Gas Lift | Nylon Base & Whe",
+      "slot": 3
+     },
+     {
+      "asin": "B09FTJ2DZ9",
+      "badge": null,
+      "price": "8,349",
+      "rating": "4.2",
+      "reviews": "233",
+      "title": "MRC EXECUTIVE CHAIRS ALWAYS INSPIRING MORE M061 Ergonomic Leatherette High Back Office Chair, Heavy Duty Chrome Base, Home Office Desk Chair, 3 Years Warranty, ",
+      "slot": 4
+     },
+     {
+      "asin": "B0DVPNFC13",
+      "badge": null,
+      "price": "15,999",
+      "rating": "4.0",
+      "reviews": "122",
+      "title": "Frido AeroMesh Ergo Chair, Adjustable Armrests & Headrest, Lumbar Support, Breathable Mesh Back Fabric, Customizable Seat Depth & Height, Office Chair for Work,",
+      "slot": 5,
+      "isFridoBrand": true
+     },
+     {
+      "asin": "B0BPLXSJKV",
+      "badge": null,
+      "price": "3,390",
+      "rating": "4.0",
+      "reviews": "4,279",
+      "title": "Green Soul Pebble Office Chair, Mid Back Mesh Ergonomic Home Office Desk Chair with Comfortable & Spacious Seat, Tilt Lock Mechanism & Heavy Duty Metal Base (Bl",
+      "slot": 6
+     },
+     {
+      "asin": "B0CZ9NPSWM",
+      "badge": null,
+      "price": "993",
+      "rating": "4.0",
+      "reviews": "1,351",
+      "title": "Sleepsia Back Support for Office Chair, 1 Year Warranty, Lumbar Support for Office Chair Cushion with Contoured Memory Foam, Adjustable Strap Design, Car Back S",
+      "slot": 7
+     },
+     {
+      "asin": "B0CJ8VYBQP",
+      "badge": null,
+      "price": "2,999",
+      "rating": "4.0",
+      "reviews": "3,077",
+      "title": "Frido Ultimate Pro Seat Cushion & Posture Corrector Backrest Cushion Combo | Relieves Back | Coccyx Pain | Hi-Per Foam Tech for Orthopedic Support | for Long Si",
+      "slot": 8
+     },
+     {
+      "asin": "B0FL1XWQ8J",
+      "badge": null,
+      "price": "999",
+      "rating": "4.2",
+      "reviews": "206",
+      "title": "ComfyHug Memory Foam Coccyx Seat Cushion – Orthopedic Chair Pad for Tailbone, Sciatica & Back Pain Relief | Ideal for Office Chairs, Car Seats & Home Use | Wash",
+      "slot": 9
+     },
+     {
+      "asin": "B0FWJV3NP6",
+      "badge": null,
+      "price": "1,449",
+      "rating": "3.1",
+      "reviews": "6",
+      "title": "Memory Foam Orthopedic Seat Cushion for Tailbone Pain Relief | Coccyx Support Chair Cushion for Office, Car & Home | Ergonomic Design for Long Sitting, Posture ",
+      "slot": 10
+     }
+    ],
+    "fridoOrganicRank": 1,
+    "fridoSponsoredSlot": 5,
+    "fridoBadge": "Amazon's Choice"
+   },
+   "flipkart": {
+    "fetchOk": true,
+    "results": [
+     {
+      "pos": 1,
+      "title": "Frido Glide Ergonomic Home & Office Chair for Long Sitting Hours, 2D Armrests Nylon Office Adjustable Arm Chair",
+      "price": null,
+      "rating": 0,
+      "ratings": 0,
+      "isFrido": true
+     },
+     {
+      "pos": 2,
+      "title": "IAFA Diego Mid Back Ergonomic Office Heavy Duty Black Metal Base Mesh Office Arm Chair",
+      "price": null,
+      "rating": 4,
+      "ratings": 14746,
+      "isFrido": false
+     },
+     {
+      "pos": 3,
+      "title": "FUGO Chair, Office Chair, Chair for Study, Computer Chair, Revolving Chair Fabric Office Arm Chair",
+      "price": null,
+      "rating": 0,
+      "ratings": 0,
+      "isFrido": false
+     },
+     {
+      "pos": 4,
+      "title": "Frido AeroMesh Ergo Chair, Adjustable Armrests & Headrest, 120kg Capacity Mesh Office Adjustable Arm Chair",
+      "price": null,
+      "rating": 0,
+      "ratings": 0,
+      "isFrido": true
+     },
+     {
+      "pos": 5,
+      "title": "IAFA Ergolux High Back Ergonomic Office Chair with Heavy Duty Metal Base Mesh Office Adjustable Arm Chair",
+      "price": null,
+      "rating": 4,
+      "ratings": 4025,
+      "isFrido": false
+     },
+     {
+      "pos": 6,
+      "title": "Frido Premium ErgoLuxe Executive Office Chair | Lumbar Support | 3D Adjustable Armrest Leather Office Executive Chair",
+      "price": null,
+      "rating": 0,
+      "ratings": 0,
+      "isFrido": true
+     },
+     {
+      "pos": 7,
+      "title": "Drogo Criss Cross Legged Office Chair Work from Home with Flip-Up Armrest PU Leather Office Executive Chair",
+      "price": null,
+      "rating": 0,
+      "ratings": 0,
+      "isFrido": false
+     },
+     {
+      "pos": 8,
+      "title": "Drogo High Back Ergonomic Gaming Chair with Adjustable Neck, Armrest PU Leather Gaming Chair",
+      "price": null,
+      "rating": 4.2,
+      "ratings": 162,
+      "isFrido": false
+     }
+    ],
+    "fridoRank": 1
+   },
+   "status": "listed",
+   "capturedAt": "2026-07-08"
+  },
+  {
+   "category": "chairs",
+   "categoryName": "Chairs",
+   "sku": "AeroMesh Classic Ergo Chair - Without Headrest",
+   "keyword": "Frido AeroMesh Classic Ergo Chair - Without Headrest",
+   "amazon": {
+    "fetchOk": true,
+    "organic": [
+     {
+      "asin": "B0FZJRS8ZS",
+      "badge": null,
+      "price": "10,999",
+      "rating": null,
+      "reviews": null,
+      "title": "Frido Aeromesh Classic Ergonomic Office Chair for Home & Work | Breathable Mesh Backrest, Adjustable Lumbar Support & 2D Armrests | Comfortable Computer Chair f",
+      "rank": 1,
+      "isFridoBrand": true
+     },
+     {
+      "asin": "B0DVPNFC13",
+      "badge": null,
+      "price": "15,999",
+      "rating": "4.0",
+      "reviews": "122",
+      "title": "Frido AeroMesh Ergo Chair, Adjustable Armrests & Headrest, Lumbar Support, Breathable Mesh Back Fabric, Customizable Seat Depth & Height, Office Chair for Work,",
+      "rank": 2
+     },
+     {
+      "asin": "B0BZPJQ2X2",
+      "badge": "Bestseller",
+      "price": null,
+      "rating": "4.1",
+      "reviews": "8,493",
+      "title": "Da URBAN® Merlion Office Chair,High Back Mesh Ergonomic Home Office Desk Chair with 3 Years Warranty, Adjustable Armrests,Adjustable Lumbar Support,Tilt Lock Me",
+      "rank": 3
+     },
+     {
+      "asin": "B0CRVMD5RZ",
+      "badge": null,
+      "price": "4,899",
+      "rating": "4.2",
+      "reviews": "2,993",
+      "title": "CELLBELL C190 Berlin Office Chair, High Back Mesh Ergonomic Home Office Desk Chair (Black)",
+      "rank": 4
+     },
+     {
+      "asin": "B08XBGZ4R6",
+      "badge": null,
+      "price": "2,999",
+      "rating": "4.0",
+      "reviews": "9,920",
+      "title": "CELLBELL Desire C104 Mesh Mid Back Chair | Ergonomic Office, Study, Revolving, Computer Chair for Work from Home Heavy Duty Metal Base, Seat Height Adjustable (",
+      "rank": 5
+     },
+     {
+      "asin": "B0D8QFDC67",
+      "badge": null,
+      "price": "3,994",
+      "rating": "4.2",
+      "reviews": "8,357",
+      "title": "beAAtho® Verona Mesh High Back Ergonomic Home Office Chair with 3-Years Limited Warranty by beAAtho, Tilting & Height Adjustable Mechanism, Heavy Duty Metal Bas",
+      "rank": 6
+     },
+     {
+      "asin": "B0F43YFKY5",
+      "badge": null,
+      "price": "15,990",
+      "rating": "4.4",
+      "reviews": "70",
+      "title": "DROGO Ergonex Ergonomic Office Chair for Work from Home with Mesh, Armrest, 2D Headrest & Lumbar Support | Computer Chair for Study | Gaming Chair with Footrest",
+      "rank": 7
+     },
+     {
+      "asin": "B0FY5TWLLQ",
+      "badge": null,
+      "price": "8,279",
+      "rating": "3.2",
+      "reviews": "12",
+      "title": "DROGO Ergonomic Office Chair for Work from Home with Breathable Mesh, Flip-up Armrest, Adjustable 3D Headrest & Lumbar Support | Computer Chair for Study | Gami",
+      "rank": 8
+     },
+     {
+      "asin": "B0GX2TBFFH",
+      "badge": null,
+      "price": "16,490",
+      "rating": "3.0",
+      "reviews": "1",
+      "title": "Aeronaut Ergonomic Office Chair for Work | Multi-Lock Synchro Tilt Mechanism with Seat Slider | 5 Year Warranty | 3D Armrest | Adjustable Lumbar (Black, 3D with",
+      "rank": 9
+     },
+     {
+      "asin": "B0D473ZDPH",
+      "badge": null,
+      "price": "6,990",
+      "rating": "4.1",
+      "reviews": "2,421",
+      "title": "Green Soul Zodiac Lite | Office Chair|Flybird Ergonomic Design|1D Adjustable Armrests|Synchro Tilt Lock Mechanism|Adjustable Lumbar Support |Mesh Fabric |No Sea",
+      "rank": 10
+     }
+    ],
+    "sponsored": [
+     {
+      "asin": "B0H74KMBWF",
+      "badge": null,
+      "price": "8,999",
+      "rating": null,
+      "reviews": null,
+      "title": "The Sleep Company SwivL Ergonomic Office Chair | Mesh Backrest with Dual Spring Loaded OmniSwivel Technology | SmartGRID® Technology Seat | Adjustable Headrest ",
+      "slot": 1
+     },
+     {
+      "asin": "B0GVF75JHR",
+      "badge": null,
+      "price": "4,410",
+      "rating": null,
+      "reviews": null,
+      "title": "ROSE® Elite | 3 Years Brand Warranty | Ergonomic Office Chair, Study, WFH, Revolving, Rolling, Desk, Task, Laptop, Student Chair (White & Black, Elite MB Recept",
+      "slot": 2
+     },
+     {
+      "asin": "B09FTJ2DZ9",
+      "badge": null,
+      "price": "8,349",
+      "rating": "4.2",
+      "reviews": "233",
+      "title": "MRC EXECUTIVE CHAIRS ALWAYS INSPIRING MORE M061 Ergonomic Leatherette High Back Office Chair, Heavy Duty Chrome Base, Home Office Desk Chair, 3 Years Warranty, ",
+      "slot": 3
+     },
+     {
+      "asin": "B0DZTDBBW4",
+      "badge": null,
+      "price": "16,490",
+      "rating": "4.2",
+      "reviews": "74",
+      "title": "Vergo Icon Fido Ergonomic Mesh Office Chair, High Back, Lumbar Support, 4D Adjustable Armrests, Multi Tilt-Lock Recline, Heavy-Duty Aluminum Base, WFH/Study/Gam",
+      "slot": 4
+     },
+     {
+      "asin": "B0FRSCGK2W",
+      "badge": null,
+      "price": "12,999",
+      "rating": "5.0",
+      "reviews": "2",
+      "title": "Frido Aeromesh Classic Ergonomic Office Chair with Headrest | Breathable Mesh Backrest, Adjustable Lumbar Support & 2D Armrests | Comfortable Computer Chair for",
+      "slot": 5,
+      "isFridoBrand": true
+     },
+     {
+      "asin": "B0D46X42LJ",
+      "badge": null,
+      "price": "9,790",
+      "rating": "4.3",
+      "reviews": "14,969",
+      "title": "Green Soul Jupiter Pro | Ergonomic Mesh Office Chair for Work|3 Year Warranty | Seat Slider|Multi-Lock Synchro Tilt Recline Mechanism|4D Armrest|Adjustable Lumb",
+      "slot": 6
+     },
+     {
+      "asin": "B0FCMYJPPH",
+      "badge": null,
+      "price": "12,999",
+      "rating": "4.3",
+      "reviews": "36",
+      "title": "MRC Apex Ergonomic Office High Back Computer Chair with 3 Years Warranty,Adjustable Lumbar Support,360° Adjustable Armrests, Multi Lock Mechanism, Chrome Base (",
+      "slot": 7
+     },
+     {
+      "asin": "B0D4VQSFRH",
+      "badge": null,
+      "price": "4,999",
+      "rating": "4.3",
+      "reviews": "355",
+      "title": "MRC EXECUTIVE CHAIRS ALWAYS INSPIRING MORE Mono Mesh Mid-Back Ergonomic Office Chair| Visitor Chair| Study Chair |Computer Chair|Work from Home (Mono Fixed, Gre",
+      "slot": 8
+     },
+     {
+      "asin": "B0GMR6545N",
+      "badge": null,
+      "price": "3,199",
+      "rating": "1.5",
+      "reviews": "9",
+      "title": "Ergonomic 360 Swivel Office Chair for Home & Office Work with Back Support |Tilting & Height Adjustable Mechanism | Revolving Computer Chair for Home Study Use ",
+      "slot": 9
+     },
+     {
+      "asin": "B0C82VWP4Y",
+      "badge": null,
+      "price": "2,997",
+      "rating": "3.9",
+      "reviews": "99",
+      "title": "Armless Revolving Office Chair - Solid Steel Suitable for Home/Office/Study/Vanity/Shops/Hospital/Clinic/lab/Spa/Conference/Meeting/Reception (Black)",
+      "slot": 10
+     }
+    ],
+    "fridoOrganicRank": 1,
+    "fridoSponsoredSlot": 5,
+    "fridoBadge": null
+   },
+   "flipkart": {
+    "fetchOk": false,
+    "results": [],
+    "fridoRank": null
+   },
+   "status": "needs-verification",
+   "capturedAt": "2026-07-08"
+  },
+  {
+   "category": "chairs",
+   "categoryName": "Chairs",
+   "sku": "Embrace Ergo Chair",
+   "keyword": "Frido Embrace Ergo Chair",
+   "amazon": {
+    "fetchOk": true,
+    "organic": [
+     {
+      "asin": "B0DVPNFC13",
+      "badge": null,
+      "price": "15,999",
+      "rating": "4.0",
+      "reviews": "122",
+      "title": "Frido AeroMesh Ergo Chair, Adjustable Armrests & Headrest, Lumbar Support, Breathable Mesh Back Fabric, Customizable Seat Depth & Height, Office Chair for Work,",
+      "rank": 1
+     },
+     {
+      "asin": "B0DR2SCVSB",
+      "badge": null,
+      "price": "19,999",
+      "rating": "4.0",
+      "reviews": "205",
+      "title": "Frido 3D Posture Plus Ergonomic Chair | Adjustable Lumbar Support & 135° Recline | For Lumbar Pain & Posture Correction | Leather Chairs For Office Work, Home, ",
+      "rank": 2
+     },
+     {
+      "asin": "B0FZJRS8ZS",
+      "badge": null,
+      "price": "10,999",
+      "rating": null,
+      "reviews": null,
+      "title": "Frido Aeromesh Classic Ergonomic Office Chair for Home & Work | Breathable Mesh Backrest, Adjustable Lumbar Support & 2D Armrests | Comfortable Computer Chair f",
+      "rank": 3,
+      "isFridoBrand": true
+     },
+     {
+      "asin": "B0BZPJQ2X2",
+      "badge": "Bestseller",
+      "price": null,
+      "rating": "4.1",
+      "reviews": "8,493",
+      "title": "Da URBAN® Merlion Office Chair,High Back Mesh Ergonomic Home Office Desk Chair with 3 Years Warranty, Adjustable Armrests,Adjustable Lumbar Support,Tilt Lock Me",
+      "rank": 4
+     },
+     {
+      "asin": "B0CJ8VYBQP",
+      "badge": null,
+      "price": "2,999",
+      "rating": "4.0",
+      "reviews": "3,077",
+      "title": "Frido Ultimate Pro Seat Cushion & Posture Corrector Backrest Cushion Combo | Relieves Back | Coccyx Pain | Hi-Per Foam Tech for Orthopedic Support | for Long Si",
+      "rank": 5
+     },
+     {
+      "asin": "B0FPCP1MMN",
+      "badge": null,
+      "price": "36,999",
+      "rating": "3.8",
+      "reviews": "14",
+      "title": "Frido ErgoLuxe Executive Chair | Premium Ergonomic Office Chair with Integrated Lumbar Support | 3D Adjustable Armrests, Retractable Footrest & 145° Reclining |",
+      "rank": 6
+     },
+     {
+      "asin": "B0FPCQ4C9L",
+      "badge": null,
+      "price": "36,999",
+      "rating": "3.8",
+      "reviews": "14",
+      "title": "Frido ErgoLuxe Executive Chair | Premium Ergonomic Office Chair with Integrated Lumbar Support | 3D Adjustable Armrests, Retractable Footrest & 145° Reclining |",
+      "rank": 7
+     },
+     {
+      "asin": "B0D46X42LJ",
+      "badge": null,
+      "price": "9,790",
+      "rating": "4.3",
+      "reviews": "14,969",
+      "title": "Green Soul Jupiter Pro | Ergonomic Mesh Office Chair for Work|3 Year Warranty | Seat Slider|Multi-Lock Synchro Tilt Recline Mechanism|4D Armrest|Adjustable Lumb",
+      "rank": 8
+     },
+     {
+      "asin": "B0GPR9QSQM",
+      "badge": null,
+      "price": "5,479",
+      "rating": "4.8",
+      "reviews": "18",
+      "title": "Titan Ergonomic Office Chair for Home & Office | Adjustable Armrests | 120 Recline | Lumbar Support | Thick Cushioned Seat | Heavy-Duty Base | 3 Years Warranty ",
+      "rank": 9
+     },
+     {
+      "asin": "B0GX2TBFFH",
+      "badge": null,
+      "price": "16,490",
+      "rating": "3.0",
+      "reviews": "1",
+      "title": "Aeronaut Ergonomic Office Chair for Work | Multi-Lock Synchro Tilt Mechanism with Seat Slider | 5 Year Warranty | 3D Armrest | Adjustable Lumbar (Black, 3D with",
+      "rank": 10
+     }
+    ],
+    "sponsored": [
+     {
+      "asin": "B0DGLRV65C",
+      "badge": null,
+      "price": "5,599",
+      "rating": "4.5",
+      "reviews": "16",
+      "title": "Taskpro Fabric Upholstered Height-Adjustable 360° Swivel Revolving Office Study Desk Chair in Beige Color",
+      "slot": 1
+     },
+     {
+      "asin": "B07SY7F9SM",
+      "badge": null,
+      "price": "18,749",
+      "rating": "4.2",
+      "reviews": "936",
+      "title": "NXTGEN MISURAA Nylon Premium Imported Ergonomic High Back Office Chair For Work From Home With 1 Year Warranty (Grey)",
+      "slot": 2
+     },
+     {
+      "asin": "B0GLNHTQW6",
+      "badge": null,
+      "price": "4,599",
+      "rating": "4.0",
+      "reviews": "5",
+      "title": "Varaha Neer BIS Certified Office Chair | 5 Year Warranty| Curved Armrest & Smart Tilt Locking System|Dynamic Lumber Comfort & Class 4 Hydraulic Gas Lift Cylinde",
+      "slot": 3
+     },
+     {
+      "asin": "B0D91W4PZX",
+      "badge": null,
+      "price": "17,090",
+      "rating": "4.4",
+      "reviews": "28",
+      "title": "Interio by Godrej Greta High Back Black Body Fabric Ergonomic Chair (Black Ink)",
+      "slot": 4
+     },
+     {
+      "asin": "B0FRSCGK2W",
+      "badge": null,
+      "price": "12,999",
+      "rating": "5.0",
+      "reviews": "2",
+      "title": "Frido Aeromesh Classic Ergonomic Office Chair with Headrest | Breathable Mesh Backrest, Adjustable Lumbar Support & 2D Armrests | Comfortable Computer Chair for",
+      "slot": 5,
+      "isFridoBrand": true
+     },
+     {
+      "asin": "B0GX2WDG51",
+      "badge": null,
+      "price": "10,989",
+      "rating": "1.0",
+      "reviews": "1",
+      "title": "Optimus Pro Ergonomic Office Chair for Work | Multi-Lock Synchro Tilt Mechanism with Seat Slider | 5 Year Warranty | 3D Armrest | Fixed Curve Lumbar | (Grey, 3D",
+      "slot": 6
+     },
+     {
+      "asin": "B0DGV5DYRM",
+      "badge": null,
+      "price": "14,390",
+      "rating": "4.3",
+      "reviews": "197",
+      "title": "Vergo Aura Ergonomic Mesh Office Chair, High Back, Lumbar Support, 3D Adjustable Armrests, Auto Weight Tilt-Lock Recline, Heavy-Duty Aluminum Base, WFH/Study/Ga",
+      "slot": 7
+     },
+     {
+      "asin": "B0H36JZ9PB",
+      "badge": null,
+      "price": "5,790",
+      "rating": null,
+      "reviews": null,
+      "title": "HAVAI Aero Ergonomic Office Chair with Reclining & Folding Back | Net Cloth Fabric | 60D Recycled Foam + 24D Virgin Cotton | Class 2 Gas Lift | Nylon Base & Whe",
+      "slot": 8
+     },
+     {
+      "asin": "B0DZTDBBW4",
+      "badge": null,
+      "price": "16,490",
+      "rating": "4.2",
+      "reviews": "74",
+      "title": "Vergo Icon Fido Ergonomic Mesh Office Chair, High Back, Lumbar Support, 4D Adjustable Armrests, Multi Tilt-Lock Recline, Heavy-Duty Aluminum Base, WFH/Study/Gam",
+      "slot": 9
+     },
+     {
+      "asin": "B0H2MPY7CX",
+      "badge": null,
+      "price": "3,989",
+      "rating": "3.9",
+      "reviews": "2",
+      "title": "Align Bliz Mesh Computer Chair for Work from Home, Ergonomic Office Seating with Height Adjustment, Armrest Support, Ventilated Backrest, Smooth Swivel Base, 3 ",
+      "slot": 10
+     }
+    ],
+    "fridoOrganicRank": 3,
+    "fridoSponsoredSlot": 5,
+    "fridoBadge": null
+   },
+   "flipkart": {
+    "fetchOk": true,
+    "results": [
+     {
+      "pos": 1,
+      "title": "Frido Premium ErgoLuxe Executive Office Chair | Lumbar Support | 3D Adjustable Armrest Leather Office Executive Chair",
+      "price": null,
+      "rating": 0,
+      "ratings": 0,
+      "isFrido": true
+     },
+     {
+      "pos": 2,
+      "title": "FUGO OFFICE CHAIR BASE NA Office Arm Chair",
+      "price": null,
+      "rating": 4.2,
+      "ratings": 6,
+      "isFrido": false
+     },
+     {
+      "pos": 3,
+      "title": "Frido AeroMesh Ergo Chair, Adjustable Armrests & Headrest, 120kg Capacity Mesh Office Adjustable Arm Chair",
+      "price": null,
+      "rating": 0,
+      "ratings": 0,
+      "isFrido": true
+     },
+     {
+      "pos": 4,
+      "title": "Ergonza Modern High Back Office Chair Leatherette Office Executive Chair",
+      "price": null,
+      "rating": 0,
+      "ratings": 0,
+      "isFrido": false
+     },
+     {
+      "pos": 5,
+      "title": "Frido 3D Posture Plus Ergonomic Chair, Home Office Gaming Chair for Long Sitting Hours Leather Office Adjustable Arm Chair",
+      "price": null,
+      "rating": 0,
+      "ratings": 0,
+      "isFrido": true
+     },
+     {
+      "pos": 6,
+      "title": "IAFA Diego Mid Back Ergonomic Office Heavy Duty Black Metal Base Mesh Office Arm Chair",
+      "price": null,
+      "rating": 4,
+      "ratings": 14746,
+      "isFrido": false
+     },
+     {
+      "pos": 7,
+      "title": "FUGO Office, Study, Tilt Lock Mesh Office Executive Chair",
+      "price": null,
+      "rating": 3.9,
+      "ratings": 31,
+      "isFrido": false
+     },
+     {
+      "pos": 8,
+      "title": "FUGO Chair, Office Chair, Study Chair , Tilt Lock Leather Office Arm Chair",
+      "price": null,
+      "rating": 4.1,
+      "ratings": 246,
+      "isFrido": false
+     },
+     {
+      "pos": 9,
+      "title": "IAFA Ergolux High Back Ergonomic Office Chair with Heavy Duty Metal Base Mesh Office Adjustable Arm Chair",
+      "price": null,
+      "rating": 4,
+      "ratings": 4025,
+      "isFrido": false
+     },
+     {
+      "pos": 10,
+      "title": "Drogo Multi-Purpose Ergonomic Gaming Chair with Head & USB Massager Pillow, PU Leather Gaming Chair",
+      "price": null,
+      "rating": 4.5,
+      "ratings": 443,
+      "isFrido": false
+     }
+    ],
+    "fridoRank": 1
+   },
+   "status": "listed",
+   "capturedAt": "2026-07-08"
+  },
+  {
+   "category": "chairs",
+   "categoryName": "Chairs",
+   "sku": "AeroMesh Classic Ergo Chair - With Headrest",
+   "keyword": "Frido AeroMesh Classic Ergo Chair - With Headrest",
+   "amazon": {
+    "fetchOk": true,
+    "organic": [
+     {
+      "asin": "B0DVPNFC13",
+      "badge": null,
+      "price": "15,999",
+      "rating": "4.0",
+      "reviews": "122",
+      "title": "Frido AeroMesh Ergo Chair, Adjustable Armrests & Headrest, Lumbar Support, Breathable Mesh Back Fabric, Customizable Seat Depth & Height, Office Chair for Work,",
+      "rank": 1
+     },
+     {
+      "asin": "B0FRSCGK2W",
+      "badge": null,
+      "price": "12,999",
+      "rating": "5.0",
+      "reviews": "2",
+      "title": "Frido Aeromesh Classic Ergonomic Office Chair with Headrest | Breathable Mesh Backrest, Adjustable Lumbar Support & 2D Armrests | Comfortable Computer Chair for",
+      "rank": 2,
+      "isFridoBrand": true
+     },
+     {
+      "asin": "B0BZPJQ2X2",
+      "badge": "Bestseller",
+      "price": null,
+      "rating": "4.1",
+      "reviews": "8,493",
+      "title": "Da URBAN® Merlion Office Chair,High Back Mesh Ergonomic Home Office Desk Chair with 3 Years Warranty, Adjustable Armrests,Adjustable Lumbar Support,Tilt Lock Me",
+      "rank": 3
+     },
+     {
+      "asin": "B0DR2SCVSB",
+      "badge": null,
+      "price": "19,999",
+      "rating": "4.0",
+      "reviews": "205",
+      "title": "Frido 3D Posture Plus Ergonomic Chair | Adjustable Lumbar Support & 135° Recline | For Lumbar Pain & Posture Correction | Leather Chairs For Office Work, Home, ",
+      "rank": 4
+     },
+     {
+      "asin": "B0H41J5WRS",
+      "badge": null,
+      "price": "8,999",
+      "rating": null,
+      "reviews": null,
+      "title": "The Sleep Company SwivL Ergonomic Office Chair | Mesh Backrest with Dual Spring Loaded OmniSwivel Technology | SmartGRID® Technology Seat | Adjustable Headrest ",
+      "rank": 5
+     },
+     {
+      "asin": "B0H4HFHXSN",
+      "badge": null,
+      "price": "6,688",
+      "rating": "4.4",
+      "reviews": "1,955",
+      "title": "Wakefit Gravita Ergonomic Office Chair for Work | 3 Year Warranty | Single Lock and Recline | Soft Armrest with 3 Dimension adjustability| Strong Nylon Base | 8",
+      "rank": 6
+     },
+     {
+      "asin": "B0H74KMBWF",
+      "badge": null,
+      "price": "8,999",
+      "rating": null,
+      "reviews": null,
+      "title": "The Sleep Company SwivL Ergonomic Office Chair | Mesh Backrest with Dual Spring Loaded OmniSwivel Technology | SmartGRID® Technology Seat | Adjustable Headrest ",
+      "rank": 7
+     },
+     {
+      "asin": "B0G4H16J8H",
+      "badge": null,
+      "price": "8,279",
+      "rating": "3.2",
+      "reviews": "11",
+      "title": "DROGO Ergonomic Office Chair for Work from Home with Breathable Mesh, Flip-up Armrest, Adjustable 3D Headrest & Lumbar Support | Computer Chair for Study | Gami",
+      "rank": 8
+     },
+     {
+      "asin": "B0CRVNPS3Y",
+      "badge": null,
+      "price": "4,899",
+      "rating": "4.2",
+      "reviews": "2,993",
+      "title": "CELLBELL C190 Berlin Office Chair, High Back Mesh Ergonomic Home Office Desk Chair (Grey - White)",
+      "rank": 9
+     },
+     {
+      "asin": "B0GPL4NMT9",
+      "badge": null,
+      "price": null,
+      "rating": "1.0",
+      "reviews": "2",
+      "title": "DROGO Ergonomic Office Chair for Work from Home with Breathable Mesh, Flip-up Armrest, Adjustable 3D Headrest & Lumbar Support | Computer Chair for Study | Gami",
+      "rank": 10
+     }
+    ],
+    "sponsored": [
+     {
+      "asin": "B0H74KMBWF",
+      "badge": null,
+      "price": "8,999",
+      "rating": null,
+      "reviews": null,
+      "title": "The Sleep Company SwivL Ergonomic Office Chair | Mesh Backrest with Dual Spring Loaded OmniSwivel Technology | SmartGRID® Technology Seat | Adjustable Headrest ",
+      "slot": 1
+     },
+     {
+      "asin": "B0D91W4PZX",
+      "badge": null,
+      "price": "17,090",
+      "rating": "4.4",
+      "reviews": "28",
+      "title": "Interio by Godrej Greta High Back Black Body Fabric Ergonomic Chair (Black Ink)",
+      "slot": 2
+     },
+     {
+      "asin": "B0DGLRV65C",
+      "badge": null,
+      "price": "5,599",
+      "rating": "4.5",
+      "reviews": "16",
+      "title": "Taskpro Fabric Upholstered Height-Adjustable 360° Swivel Revolving Office Study Desk Chair in Beige Color",
+      "slot": 3
+     },
+     {
+      "asin": "B09FTJ2DZ9",
+      "badge": null,
+      "price": "8,349",
+      "rating": "4.2",
+      "reviews": "233",
+      "title": "MRC EXECUTIVE CHAIRS ALWAYS INSPIRING MORE M061 Ergonomic Leatherette High Back Office Chair, Heavy Duty Chrome Base, Home Office Desk Chair, 3 Years Warranty, ",
+      "slot": 4
+     },
+     {
+      "asin": "B0FZJRS8ZS",
+      "badge": null,
+      "price": "10,999",
+      "rating": "4.4",
+      "reviews": "28",
+      "title": "Frido Aeromesh Classic Ergonomic Office Chair for Home & Work | Breathable Mesh Backrest, Adjustable Lumbar Support & 2D Armrests | Comfortable Computer Chair f",
+      "slot": 5,
+      "isFridoBrand": true
+     },
+     {
+      "asin": "B0GX2P7RZR",
+      "badge": null,
+      "price": "12,490",
+      "rating": "5.0",
+      "reviews": "2",
+      "title": "Kinetix Ergonomic Office Chair for Work | Multi-Lock Synchro Tilt Mechanism | 5 Year Warranty | 3D Armrest | Adjustable Lumbar (Grey, 3D with Multi Lock)",
+      "slot": 6
+     },
+     {
+      "asin": "B0FCMYJPPH",
+      "badge": null,
+      "price": "12,999",
+      "rating": "4.3",
+      "reviews": "36",
+      "title": "MRC Apex Ergonomic Office High Back Computer Chair with 3 Years Warranty,Adjustable Lumbar Support,360° Adjustable Armrests, Multi Lock Mechanism, Chrome Base (",
+      "slot": 7
+     },
+     {
+      "asin": "B0GLNHTQW6",
+      "badge": null,
+      "price": "4,599",
+      "rating": "4.0",
+      "reviews": "5",
+      "title": "Varaha Neer BIS Certified Office Chair | 5 Year Warranty| Curved Armrest & Smart Tilt Locking System|Dynamic Lumber Comfort & Class 4 Hydraulic Gas Lift Cylinde",
+      "slot": 8
+     },
+     {
+      "asin": "B0DZTDBBW4",
+      "badge": null,
+      "price": "16,490",
+      "rating": "4.2",
+      "reviews": "74",
+      "title": "Vergo Icon Fido Ergonomic Mesh Office Chair, High Back, Lumbar Support, 4D Adjustable Armrests, Multi Tilt-Lock Recline, Heavy-Duty Aluminum Base, WFH/Study/Gam",
+      "slot": 9
+     },
+     {
+      "asin": "B0GZB793X7",
+      "badge": null,
+      "price": "9,499",
+      "rating": null,
+      "reviews": null,
+      "title": "Casa Copenhagen Italia Leatherette Office Chair for Work | Boss Chair, Ergonomic Executive, Luxurious Cushioned Arms & Seat, 2 Point Back Massager, Adjustable L",
+      "slot": 10
+     }
+    ],
+    "fridoOrganicRank": 2,
+    "fridoSponsoredSlot": 5,
+    "fridoBadge": null
+   },
+   "flipkart": {
+    "fetchOk": true,
+    "results": [
+     {
+      "pos": 1,
+      "title": "Frido Aeromesh Classic Ergonomic Office Chair for Home & Work,Breathable Mesh Backrest NA Office Adjustable Arm Chair",
+      "price": null,
+      "rating": 0,
+      "ratings": 0,
+      "isFrido": true
+     },
+     {
+      "pos": 2,
+      "title": "Frido Aeromesh Classic Ergonomic Office Chair with Headrest, Lumbar & 2D Armrests Mesh Office Adjustable Arm Chair",
+      "price": null,
+      "rating": 0,
+      "ratings": 0,
+      "isFrido": true
+     },
+     {
+      "pos": 3,
+      "title": "IAFA Diego Mid Back Ergonomic Office Heavy Duty Black Metal Base Mesh Office Arm Chair",
+      "price": null,
+      "rating": 4,
+      "ratings": 14746,
+      "isFrido": false
+     },
+     {
+      "pos": 4,
+      "title": "CELLBELL Desire C104 High Back Fabric, Mesh Office Executive Chair",
+      "price": null,
+      "rating": 3.6,
+      "ratings": 23,
+      "isFrido": false
+     },
+     {
+      "pos": 5,
+      "title": "Frido AeroMesh Ergo Chair, Adjustable Armrests & Headrest, 120kg Capacity Mesh Office Adjustable Arm Chair",
+      "price": null,
+      "rating": 0,
+      "ratings": 0,
+      "isFrido": true
+     },
+     {
+      "pos": 6,
+      "title": "Drogo Office Chair for Work from Home Computer Chair with 3D Headrest & Lumbar Support Mesh Office Executive Chair",
+      "price": null,
+      "rating": 0,
+      "ratings": 0,
+      "isFrido": false
+     },
+     {
+      "pos": 7,
+      "title": "IAFA Ergolux High Back Ergonomic Office Chair with Heavy Duty Metal Base Mesh Office Adjustable Arm Chair",
+      "price": null,
+      "rating": 4,
+      "ratings": 4025,
+      "isFrido": false
+     },
+     {
+      "pos": 8,
+      "title": "beaatho Verona High Back With Ergonomic Revolving Nylon Office Arm Chair",
+      "price": null,
+      "rating": 3.7,
+      "ratings": 1535,
+      "isFrido": false
+     }
+    ],
+    "fridoRank": 1
+   },
+   "status": "listed",
+   "capturedAt": "2026-07-08"
+  },
+  {
+   "category": "chairs",
+   "categoryName": "Chairs",
+   "sku": "Aeroluxe Massage Chair",
+   "keyword": "Frido Aeroluxe Massage Chair",
+   "amazon": {
+    "fetchOk": true,
+    "organic": [
+     {
+      "asin": "B0DR2RX2SK",
+      "badge": "Amazon's Choice",
+      "price": "16,149",
+      "rating": "4.0",
+      "reviews": "205",
+      "title": "3D Posture Plus Ergonomic Chair | Adjustable Lumbar Support & 135° Recline | for Lumbar Pain & Posture Correction | Leather Chairs for Office Work, Home, Gaming",
+      "rank": 1
+     },
+     {
+      "asin": "B0DVPNFC13",
+      "badge": null,
+      "price": "15,999",
+      "rating": "4.0",
+      "reviews": "122",
+      "title": "AeroMesh Ergo Chair, Adjustable Armrests & Headrest, Lumbar Support, Breathable Mesh Back Fabric, Customizable Seat Depth & Height, Office Chair for Work, Study",
+      "rank": 2,
+      "isFridoBrand": true
+     },
+     {
+      "asin": "B0C33YXKT3",
+      "badge": null,
+      "price": "4,999",
+      "rating": "3.5",
+      "reviews": "66",
+      "title": "Deep Heal Cushion Shiatsu Massage Chair for Neck and Back with Deep Vibration Massager for Body Pain Relief at Home,Office Massager (Black)",
+      "rank": 3
+     },
+     {
+      "asin": "B0FRSCGK2W",
+      "badge": null,
+      "price": "12,999",
+      "rating": "5.0",
+      "reviews": "2",
+      "title": "Aeromesh Classic Ergonomic Office Chair with Headrest | Breathable Mesh Backrest, Adjustable Lumbar Support & 2D Armrests | Comfortable Computer Chair for Home,",
+      "rank": 4
+     },
+     {
+      "asin": "B0FPCQ4C9L",
+      "badge": null,
+      "price": "36,999",
+      "rating": "3.8",
+      "reviews": "14",
+      "title": "ErgoLuxe Executive Chair | Premium Ergonomic Office Chair with Integrated Lumbar Support | 3D Adjustable Armrests, Retractable Footrest & 145° Reclining | High ",
+      "rank": 5
+     },
+     {
+      "asin": "B0DJBYDNGC",
+      "badge": null,
+      "price": "1,899",
+      "rating": "4.1",
+      "reviews": "276",
+      "title": "Revive Back Massager for Pain Relief | Cushion Massager with 4 Nodes | Neck Massager for Pain Relief & Body Pain | Gentle Warmth and 2 Speeds",
+      "rank": 6
+     },
+     {
+      "asin": "B0FYP2474S",
+      "badge": null,
+      "price": "7,999",
+      "rating": "5.0",
+      "reviews": "5",
+      "title": "Durafit91™ Portable Chair Massager with Heat, Vibration | Full Back, Neck Support Massage Cushion | Electric Shiatsu Seat Massager for Pain Relief, Relaxation &",
+      "rank": 7
+     },
+     {
+      "asin": "B0FRSCC17C",
+      "badge": null,
+      "price": "12,999",
+      "rating": "1.0",
+      "reviews": "1",
+      "title": "Aeromesh Classic Ergonomic Office Chair with Headrest | Breathable Mesh Backrest, Adjustable Lumbar Support & 2D Armrests | Comfortable Computer Chair for Home,",
+      "rank": 8
+     },
+     {
+      "asin": "B07V1MPZYD",
+      "badge": null,
+      "price": "34,999",
+      "rating": "4.0",
+      "reviews": "270",
+      "title": "LLM549 Full Body Massage Chair with Recliner and powerful 3D back and Leg Massage for Home| Massage chair for Full Body Relaxation at Home, 1 Year Warranty, Ele",
+      "rank": 9
+     },
+     {
+      "asin": "B0B8MZ9FHC",
+      "badge": null,
+      "price": "15,999",
+      "rating": "4.2",
+      "reviews": "1,708",
+      "title": "Stylux Premium Ergonomic Office Chair | Patented SmartGRID seat | SpinePro Lumbar Support | Work, Home, Study | Adjustable Headrest & 4D Armrests | Free Install",
+      "rank": 10
+     }
+    ],
+    "sponsored": [
+     {
+      "asin": "B0D8T61JZH",
+      "badge": null,
+      "price": "1,14,000",
+      "rating": "4.4",
+      "reviews": "91",
+      "title": "EconoPremium Ultra Luxury Massage Chair: Touch Control, SL Track, Zero Gravity, Zero Space, Wireless Charging, Airbag Massage, Back Heating – Ideal for Elderly ",
+      "slot": 1
+     },
+     {
+      "asin": "B0GRV4W7V4",
+      "badge": null,
+      "price": "949",
+      "rating": "4.3",
+      "reviews": "42",
+      "title": "Charge Go Massage Gun | 5 Specialized Heads For Full Body Pain Relief | Body Massager for Pain Relief | Massage Gun for Back Leg & Full Body",
+      "slot": 2
+     },
+     {
+      "asin": "B0GX5SRSRJ",
+      "badge": null,
+      "price": "2,40,000",
+      "rating": "5.0",
+      "reviews": "1",
+      "title": "5D Zero Gravity Full Body Massage Chair for Home with AI Smart Body Scan Zero Gravity Recliner Full Body Deep Tissue Massage Heat Therapy Bluetooth Speakers 5 Y",
+      "slot": 3
+     },
+     {
+      "asin": "B0GX5QKLSY",
+      "badge": null,
+      "price": "2,99,000",
+      "rating": null,
+      "reviews": null,
+      "title": "5D Zero Gravity Full Body Massage Chair for Home | Smart Body Scan | Zero Gravity Luxury Recliner | Heat Therapy | Bluetooth Audio | Elite Wellness Chair | Grey",
+      "slot": 4
+     },
+     {
+      "asin": "B0FPCP1MMN",
+      "badge": null,
+      "price": "36,999",
+      "rating": "3.8",
+      "reviews": "14",
+      "title": "ErgoLuxe Executive Chair | Premium Ergonomic Office Chair with Integrated Lumbar Support | 3D Adjustable Armrests, Retractable Footrest & 145° Reclining | High ",
+      "slot": 5,
+      "isFridoBrand": true
+     },
+     {
+      "asin": "B0H71LMGGY",
+      "badge": null,
+      "price": "1,667",
+      "rating": "4.6",
+      "reviews": "27,391",
+      "title": "Bionic Heated Massager, Wireless Portable Shiatsu Neck and Back Massager, Electric Deep Tissue 4D Kneading Massage, Simulated Human Hand Design for Pain Relief ",
+      "slot": 6
+     },
+     {
+      "asin": "B0DQVCYVR1",
+      "badge": null,
+      "price": "3,749",
+      "rating": "3.8",
+      "reviews": "55",
+      "title": "Electric Relax Foot Massager With Shiatsu & Vibration Therapy, 4 Automatic Programs, Enhances Blood Circulation, Pain Relief Foot Massager,Grey",
+      "slot": 7
+     },
+     {
+      "asin": "B0FQJMN8LW",
+      "badge": null,
+      "price": "10,999",
+      "rating": "3.8",
+      "reviews": "48",
+      "title": "Durafit91™ Electric Leg Massager For Pain Relief | Foot and Calf Massager | 4 types of Foot Massage Shiatsu, Rolling, Deep Kneading, Mild Heat Warm Infrared The",
+      "slot": 8
+     },
+     {
+      "asin": "B0DBHM2GHV",
+      "badge": null,
+      "price": "8,999",
+      "rating": "3.9",
+      "reviews": "132",
+      "title": "Foot & Calf Massager Machine for Pain Relief | 3 Adjustable Intensity Levels| Electric Massager with Digital Display | Feet Massage for Blood Circulation & Soot",
+      "slot": 9
+     },
+     {
+      "asin": "B0GPVB4L8H",
+      "badge": "Bestseller",
+      "price": "1,899",
+      "rating": "4.2",
+      "reviews": "39",
+      "title": "KnotRelief Electric Shiatsu Back & Neck Massager, 4 Deep-Kneading Nodes, Infrared Heat, Bi-Directional Rotation, Portable Back Massager for Pain Relief, Car & H",
+      "slot": 10
+     }
+    ],
+    "fridoOrganicRank": 2,
+    "fridoSponsoredSlot": 5,
+    "fridoBadge": null
+   },
+   "flipkart": {
+    "fetchOk": true,
+    "results": [
+     {
+      "pos": 1,
+      "title": "TENACT Posture Corrector Belt Pro Fix for Men & Women Straight Back pain Relief Posture Corrector",
+      "price": null,
+      "rating": 3.8,
+      "ratings": 8159,
+      "isFrido": false
+     },
+     {
+      "pos": 2,
+      "title": "TENACT Posture Corrector Belt for men & women Back Support & Posture Corrector",
+      "price": null,
+      "rating": 3.8,
+      "ratings": 3650,
+      "isFrido": false
+     },
+     {
+      "pos": 3,
+      "title": "TENACT Premium Belt for Men & Women Pain Relief Posture Corrector",
+      "price": null,
+      "rating": 3.6,
+      "ratings": 1774,
+      "isFrido": false
+     },
+     {
+      "pos": 4,
+      "title": "TENACT Posture Corrector Belt Pro for Men & Women Back Support Belt for Straight Back Back / Lumbar Support",
+      "price": null,
+      "rating": 3.9,
+      "ratings": 111,
+      "isFrido": false
+     },
+     {
+      "pos": 5,
+      "title": "TENACT Posture Corrector Belt for Women & Men Back Support Belt for Posture Corrector",
+      "price": null,
+      "rating": 3.9,
+      "ratings": 292,
+      "isFrido": false
+     },
+     {
+      "pos": 6,
+      "title": "Robocura Luxury Eminent Plus Full Body Massage Chair, Corded Electric Massage Chair",
+      "price": null,
+      "rating": 0,
+      "ratings": 0,
+      "isFrido": false
+     },
+     {
+      "pos": 7,
+      "title": "ULTIMATE IS52 Delux Quick Relief Body Massager Massager",
+      "price": null,
+      "rating": 4,
+      "ratings": 95,
+      "isFrido": false
+     },
+     {
+      "pos": 8,
+      "title": "Cult Riviera 4D Massage Chair with Rovo Walking Technique| Head-to-Toe Massage Chair Massage Chair",
+      "price": null,
+      "rating": 1,
+      "ratings": 2,
+      "isFrido": false
+     },
+     {
+      "pos": 9,
+      "title": "ROBOSTAR 99 Z Massage Chair",
+      "price": null,
+      "rating": 0,
+      "ratings": 0,
+      "isFrido": false
+     },
+     {
+      "pos": 10,
+      "title": "Drogo Multi-Purpose Ergonomic Gaming Chair with Head & USB Massager Pillow, PU Leather Gaming Chair",
+      "price": null,
+      "rating": 4.5,
+      "ratings": 443,
+      "isFrido": false
+     },
+     {
+      "pos": 11,
+      "title": "Drogo Multi-Purpose Ergonomic Gaming Chair with Adjustable Seat, Head & USB Massager Gaming Chair",
+      "price": null,
+      "rating": 4.5,
+      "ratings": 443,
+      "isFrido": false
+     },
+     {
+      "pos": 12,
+      "title": "botcura SL Track Full Body Massage Chair Massage Chair",
+      "price": null,
+      "rating": 0,
+      "ratings": 0,
+      "isFrido": false
+     },
+     {
+      "pos": 13,
+      "title": "Future Massager Junior Roboking Plus Full body luxury zero gravity massage chair Massage Chair",
+      "price": null,
+      "rating": 0,
+      "ratings": 0,
+      "isFrido": false
+     },
+     {
+      "pos": 14,
+      "title": "iRest SL A 710 4D Massage Chair",
+      "price": null,
+      "rating": 0,
+      "ratings": 0,
+      "isFrido": false
+     }
+    ],
+    "fridoRank": null
+   },
+   "status": "listed",
+   "capturedAt": "2026-07-08"
   }
  ]
 }

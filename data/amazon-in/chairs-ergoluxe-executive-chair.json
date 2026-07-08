@@ -1,0 +1,197 @@
+{
+ "category": "chairs-ergoluxe-executive-chair",
+ "marketplace": "amazon-in",
+ "keyword": "Frido ErgoLuxe Executive Chair",
+ "capturedAt": "2026-07-08",
+ "method": "Live scrape amazon.in search page 1, query = exact SKU name (brand-qualified)",
+ "confidence": "High (live snapshot, single keyword)",
+ "fridoOrganicRank": 1,
+ "fridoSponsoredSlot": 5,
+ "organic": [
+  {
+   "asin": "B0FPCP1MMN",
+   "badge": null,
+   "price": "36,999",
+   "rating": "3.8",
+   "reviews": "14",
+   "title": "Frido ErgoLuxe Executive Chair | Premium Ergonomic Office Chair with Integrated Lumbar Support | 3D Adjustable Armrests, Retractable Footrest & 145° Reclining |",
+   "rank": 1,
+   "isFridoBrand": true
+  },
+  {
+   "asin": "B0FPCQ4C9L",
+   "badge": null,
+   "price": "36,999",
+   "rating": "3.8",
+   "reviews": "14",
+   "title": "Frido ErgoLuxe Executive Chair | Premium Ergonomic Office Chair with Integrated Lumbar Support | 3D Adjustable Armrests, Retractable Footrest & 145° Reclining |",
+   "rank": 2
+  },
+  {
+   "asin": "B0FHVTQ7MT",
+   "badge": null,
+   "price": "7,999",
+   "rating": "4.2",
+   "reviews": "19",
+   "title": "Frido Glide Ergonomic Office Chair with Height Adjustable Lumbar Support | Breathable Mesh Back | 2D Adjustable Armrests | Home & Work Desk Chair for Long Sitti",
+   "rank": 3
+  },
+  {
+   "asin": "B0DVPNFC13",
+   "badge": null,
+   "price": "15,999",
+   "rating": "4.0",
+   "reviews": "122",
+   "title": "Frido AeroMesh Ergo Chair, Adjustable Armrests & Headrest, Lumbar Support, Breathable Mesh Back Fabric, Customizable Seat Depth & Height, Office Chair for Work,",
+   "rank": 4
+  },
+  {
+   "asin": "B0BZPJQ2X2",
+   "badge": "Bestseller",
+   "price": null,
+   "rating": "4.1",
+   "reviews": "8,493",
+   "title": "Da URBAN® Merlion Office Chair,High Back Mesh Ergonomic Home Office Desk Chair with 3 Years Warranty, Adjustable Armrests,Adjustable Lumbar Support,Tilt Lock Me",
+   "rank": 5
+  },
+  {
+   "asin": "B0GFN1LNN7",
+   "badge": null,
+   "price": "4,599",
+   "rating": "3.9",
+   "reviews": "596",
+   "title": "IAFA FURNITURE® Ergolux High Back Ergonomic Office & Study Chair | 3 Year Warranty | Adjustable Height, Tilt Lock, 2D Headrest, Adjustable Arms & Lumbar Support",
+   "rank": 6
+  },
+  {
+   "asin": "B0G34171YH",
+   "badge": null,
+   "price": "21,599",
+   "rating": "4.4",
+   "reviews": "3,089",
+   "title": "Efomao Ergonomic Office Chair 450LBS with Foot Rest, High Back PU Leather Executive Office Chair with Adjustable Armrests, Lumbar Support for Home or Work, Comp",
+   "rank": 7
+  },
+  {
+   "asin": "B0F9FHTN1C",
+   "badge": null,
+   "price": "17,999",
+   "rating": "4.0",
+   "reviews": "49",
+   "title": "The Sleep Company Aura Executive Office Chair with SmartGRID Seat | Premium High-Back Recliner Chair | 135° Recline | Ergonomic Backrest & Leatherette Finish | ",
+   "rank": 8
+  },
+  {
+   "asin": "B0D11F47V1",
+   "badge": null,
+   "price": "25,091",
+   "rating": "4.6",
+   "reviews": "14",
+   "title": "Director & CEO Chair Premium High Back PU Leatherette Office Chair with Wooden Base & Armrests, Ergonomic Recliner Swivel Chair (Black) | 5 Years Warranty & Fre",
+   "rank": 9
+  },
+  {
+   "asin": "B0H2HVV3YP",
+   "badge": null,
+   "price": "8,549",
+   "rating": "4.6",
+   "reviews": "28",
+   "title": "Casa Copenhagen Italia Premium Leatherette Office Chair for Work | Boss Chair, Ergonomic Executive, Luxurious Cushioned Arms & Seat, 2 Point Back Massager, Heav",
+   "rank": 10
+  }
+ ],
+ "sponsored": [
+  {
+   "asin": "B0CQRHPVCZ",
+   "badge": null,
+   "price": "1,28,000",
+   "rating": "4.4",
+   "reviews": "1,462",
+   "title": "Steelcase Gesture Office Chair - Ergonomic Work Chair with LiveBack Technology - 360 Degree Rotating Arms| 12-Year Warranty",
+   "slot": 1
+  },
+  {
+   "asin": "B0G6CRNJ36",
+   "badge": null,
+   "price": "45,100",
+   "rating": "3.8",
+   "reviews": "6",
+   "title": "Steelcase Series 1 Ergonomic Office Chair – Royal Blue | Adjustable Lumbar Support, 4D Arms, LiveBack System | Weight-Activated Recline | 12-Year Warranty",
+   "slot": 2
+  },
+  {
+   "asin": "B0H623538C",
+   "badge": null,
+   "price": "63,900",
+   "rating": "5.0",
+   "reviews": "6",
+   "title": "Steelcase Think Ergonomic Office Chair | Adjustable Lumbar Support, 4D Arms, LiveBack System | Weight-Activated Recline | 12-Year Warranty",
+   "slot": 3
+  },
+  {
+   "asin": "B0CR9XQ9JL",
+   "badge": null,
+   "price": "59,100",
+   "rating": "4.4",
+   "reviews": "72",
+   "title": "Steelcase Series 2 Office Chair - Ergonomic Work Chair | Adjustable Lumbar Support, 4D Arms, LiveBack System | Weight-Activated Recline | 12-Year Warranty",
+   "slot": 4
+  },
+  {
+   "asin": "B0DR2RX2SK",
+   "badge": "Amazon's Choice",
+   "price": "16,149",
+   "rating": "4.0",
+   "reviews": "205",
+   "title": "Frido 3D Posture Plus Ergonomic Chair | Adjustable Lumbar Support & 135° Recline | for Lumbar Pain & Posture Correction | Leather Chairs for Office Work, Home, ",
+   "slot": 5,
+   "isFridoBrand": true
+  },
+  {
+   "asin": "B0H69YYZNN",
+   "badge": null,
+   "price": "20,369",
+   "rating": "5.0",
+   "reviews": "7",
+   "title": "DROGO Monarch-X Massage Office Chair with Vibration & Heat | Big and Tall Ergonomic Executive Computer Chair with PU Leather & 150Reclining | Gaming Chair with ",
+   "slot": 6
+  },
+  {
+   "asin": "B0H74KMBWF",
+   "badge": null,
+   "price": "8,999",
+   "rating": null,
+   "reviews": null,
+   "title": "The Sleep Company SwivL Ergonomic Office Chair | Mesh Backrest with Dual Spring Loaded OmniSwivel Technology | SmartGRID® Technology Seat | Adjustable Headrest ",
+   "slot": 7
+  },
+  {
+   "asin": "B0BYJXY766",
+   "badge": null,
+   "price": "8,990",
+   "rating": "3.4",
+   "reviews": "44",
+   "title": "Green Soul Bosco Premium Leatherette Office Chair, High Back Ergonomic Home Office Executive Chair with Cushion Seat, Flip-up Padded Armrests, 4-Stage Adjust Lu",
+   "slot": 8
+  },
+  {
+   "asin": "B0D91W4PZX",
+   "badge": null,
+   "price": "17,090",
+   "rating": "4.4",
+   "reviews": "28",
+   "title": "Interio by Godrej Greta High Back Black Body Fabric Ergonomic Chair (Black Ink)",
+   "slot": 9
+  },
+  {
+   "asin": "B0GZB793X7",
+   "badge": null,
+   "price": "9,499",
+   "rating": null,
+   "reviews": null,
+   "title": "Casa Copenhagen Italia Leatherette Office Chair for Work | Boss Chair, Ergonomic Executive, Luxurious Cushioned Arms & Seat, 2 Point Back Massager, Adjustable L",
+   "slot": 10
+  }
+ ],
+ "notes": []
+}

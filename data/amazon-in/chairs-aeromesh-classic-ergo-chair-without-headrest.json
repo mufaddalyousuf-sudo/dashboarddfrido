@@ -1,0 +1,197 @@
+{
+ "category": "chairs-aeromesh-classic-ergo-chair-without-headrest",
+ "marketplace": "amazon-in",
+ "keyword": "Frido AeroMesh Classic Ergo Chair - Without Headrest",
+ "capturedAt": "2026-07-08",
+ "method": "Live scrape amazon.in search page 1, query = exact SKU name (brand-qualified)",
+ "confidence": "High (live snapshot, single keyword)",
+ "fridoOrganicRank": 1,
+ "fridoSponsoredSlot": 5,
+ "organic": [
+  {
+   "asin": "B0FZJRS8ZS",
+   "badge": null,
+   "price": "10,999",
+   "rating": null,
+   "reviews": null,
+   "title": "Frido Aeromesh Classic Ergonomic Office Chair for Home & Work | Breathable Mesh Backrest, Adjustable Lumbar Support & 2D Armrests | Comfortable Computer Chair f",
+   "rank": 1,
+   "isFridoBrand": true
+  },
+  {
+   "asin": "B0DVPNFC13",
+   "badge": null,
+   "price": "15,999",
+   "rating": "4.0",
+   "reviews": "122",
+   "title": "Frido AeroMesh Ergo Chair, Adjustable Armrests & Headrest, Lumbar Support, Breathable Mesh Back Fabric, Customizable Seat Depth & Height, Office Chair for Work,",
+   "rank": 2
+  },
+  {
+   "asin": "B0BZPJQ2X2",
+   "badge": "Bestseller",
+   "price": null,
+   "rating": "4.1",
+   "reviews": "8,493",
+   "title": "Da URBAN® Merlion Office Chair,High Back Mesh Ergonomic Home Office Desk Chair with 3 Years Warranty, Adjustable Armrests,Adjustable Lumbar Support,Tilt Lock Me",
+   "rank": 3
+  },
+  {
+   "asin": "B0CRVMD5RZ",
+   "badge": null,
+   "price": "4,899",
+   "rating": "4.2",
+   "reviews": "2,993",
+   "title": "CELLBELL C190 Berlin Office Chair, High Back Mesh Ergonomic Home Office Desk Chair (Black)",
+   "rank": 4
+  },
+  {
+   "asin": "B08XBGZ4R6",
+   "badge": null,
+   "price": "2,999",
+   "rating": "4.0",
+   "reviews": "9,920",
+   "title": "CELLBELL Desire C104 Mesh Mid Back Chair | Ergonomic Office, Study, Revolving, Computer Chair for Work from Home Heavy Duty Metal Base, Seat Height Adjustable (",
+   "rank": 5
+  },
+  {
+   "asin": "B0D8QFDC67",
+   "badge": null,
+   "price": "3,994",
+   "rating": "4.2",
+   "reviews": "8,357",
+   "title": "beAAtho® Verona Mesh High Back Ergonomic Home Office Chair with 3-Years Limited Warranty by beAAtho, Tilting & Height Adjustable Mechanism, Heavy Duty Metal Bas",
+   "rank": 6
+  },
+  {
+   "asin": "B0F43YFKY5",
+   "badge": null,
+   "price": "15,990",
+   "rating": "4.4",
+   "reviews": "70",
+   "title": "DROGO Ergonex Ergonomic Office Chair for Work from Home with Mesh, Armrest, 2D Headrest & Lumbar Support | Computer Chair for Study | Gaming Chair with Footrest",
+   "rank": 7
+  },
+  {
+   "asin": "B0FY5TWLLQ",
+   "badge": null,
+   "price": "8,279",
+   "rating": "3.2",
+   "reviews": "12",
+   "title": "DROGO Ergonomic Office Chair for Work from Home with Breathable Mesh, Flip-up Armrest, Adjustable 3D Headrest & Lumbar Support | Computer Chair for Study | Gami",
+   "rank": 8
+  },
+  {
+   "asin": "B0GX2TBFFH",
+   "badge": null,
+   "price": "16,490",
+   "rating": "3.0",
+   "reviews": "1",
+   "title": "Aeronaut Ergonomic Office Chair for Work | Multi-Lock Synchro Tilt Mechanism with Seat Slider | 5 Year Warranty | 3D Armrest | Adjustable Lumbar (Black, 3D with",
+   "rank": 9
+  },
+  {
+   "asin": "B0D473ZDPH",
+   "badge": null,
+   "price": "6,990",
+   "rating": "4.1",
+   "reviews": "2,421",
+   "title": "Green Soul Zodiac Lite | Office Chair|Flybird Ergonomic Design|1D Adjustable Armrests|Synchro Tilt Lock Mechanism|Adjustable Lumbar Support |Mesh Fabric |No Sea",
+   "rank": 10
+  }
+ ],
+ "sponsored": [
+  {
+   "asin": "B0H74KMBWF",
+   "badge": null,
+   "price": "8,999",
+   "rating": null,
+   "reviews": null,
+   "title": "The Sleep Company SwivL Ergonomic Office Chair | Mesh Backrest with Dual Spring Loaded OmniSwivel Technology | SmartGRID® Technology Seat | Adjustable Headrest ",
+   "slot": 1
+  },
+  {
+   "asin": "B0GVF75JHR",
+   "badge": null,
+   "price": "4,410",
+   "rating": null,
+   "reviews": null,
+   "title": "ROSE® Elite | 3 Years Brand Warranty | Ergonomic Office Chair, Study, WFH, Revolving, Rolling, Desk, Task, Laptop, Student Chair (White & Black, Elite MB Recept",
+   "slot": 2
+  },
+  {
+   "asin": "B09FTJ2DZ9",
+   "badge": null,
+   "price": "8,349",
+   "rating": "4.2",
+   "reviews": "233",
+   "title": "MRC EXECUTIVE CHAIRS ALWAYS INSPIRING MORE M061 Ergonomic Leatherette High Back Office Chair, Heavy Duty Chrome Base, Home Office Desk Chair, 3 Years Warranty, ",
+   "slot": 3
+  },
+  {
+   "asin": "B0DZTDBBW4",
+   "badge": null,
+   "price": "16,490",
+   "rating": "4.2",
+   "reviews": "74",
+   "title": "Vergo Icon Fido Ergonomic Mesh Office Chair, High Back, Lumbar Support, 4D Adjustable Armrests, Multi Tilt-Lock Recline, Heavy-Duty Aluminum Base, WFH/Study/Gam",
+   "slot": 4
+  },
+  {
+   "asin": "B0FRSCGK2W",
+   "badge": null,
+   "price": "12,999",
+   "rating": "5.0",
+   "reviews": "2",
+   "title": "Frido Aeromesh Classic Ergonomic Office Chair with Headrest | Breathable Mesh Backrest, Adjustable Lumbar Support & 2D Armrests | Comfortable Computer Chair for",
+   "slot": 5,
+   "isFridoBrand": true
+  },
+  {
+   "asin": "B0D46X42LJ",
+   "badge": null,
+   "price": "9,790",
+   "rating": "4.3",
+   "reviews": "14,969",
+   "title": "Green Soul Jupiter Pro | Ergonomic Mesh Office Chair for Work|3 Year Warranty | Seat Slider|Multi-Lock Synchro Tilt Recline Mechanism|4D Armrest|Adjustable Lumb",
+   "slot": 6
+  },
+  {
+   "asin": "B0FCMYJPPH",
+   "badge": null,
+   "price": "12,999",
+   "rating": "4.3",
+   "reviews": "36",
+   "title": "MRC Apex Ergonomic Office High Back Computer Chair with 3 Years Warranty,Adjustable Lumbar Support,360° Adjustable Armrests, Multi Lock Mechanism, Chrome Base (",
+   "slot": 7
+  },
+  {
+   "asin": "B0D4VQSFRH",
+   "badge": null,
+   "price": "4,999",
+   "rating": "4.3",
+   "reviews": "355",
+   "title": "MRC EXECUTIVE CHAIRS ALWAYS INSPIRING MORE Mono Mesh Mid-Back Ergonomic Office Chair| Visitor Chair| Study Chair |Computer Chair|Work from Home (Mono Fixed, Gre",
+   "slot": 8
+  },
+  {
+   "asin": "B0GMR6545N",
+   "badge": null,
+   "price": "3,199",
+   "rating": "1.5",
+   "reviews": "9",
+   "title": "Ergonomic 360 Swivel Office Chair for Home & Office Work with Back Support |Tilting & Height Adjustable Mechanism | Revolving Computer Chair for Home Study Use ",
+   "slot": 9
+  },
+  {
+   "asin": "B0C82VWP4Y",
+   "badge": null,
+   "price": "2,997",
+   "rating": "3.9",
+   "reviews": "99",
+   "title": "Armless Revolving Office Chair - Solid Steel Suitable for Home/Office/Study/Vanity/Shops/Hospital/Clinic/lab/Spa/Conference/Meeting/Reception (Black)",
+   "slot": 10
+  }
+ ],
+ "notes": []
+}

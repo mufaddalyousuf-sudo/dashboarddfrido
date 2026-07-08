@@ -1,0 +1,53 @@
+{
+ "category": "chairs-vajra-gaming-chair",
+ "marketplace": "flipkart",
+ "keyword": "Frido Vajra Gaming Chair",
+ "capturedAt": "2026-07-08",
+ "method": "Live scrape flipkart.com mobile search page 1 (__INITIAL_STATE__), query = exact SKU name",
+ "confidence": "Medium-High (live; sponsored flags not exposed on mobile)",
+ "fridoRank": null,
+ "fridoPresent": false,
+ "results": [
+  {
+   "pos": 1,
+   "title": "CELLBELL Transformer Lite Ergonomic High Back Racing, 1D Armrest Tilt Mechanism, Leather Reclining Office. Gaming Chair",
+   "price": null,
+   "rating": 4.1,
+   "ratings": 445,
+   "isFrido": false
+  },
+  {
+   "pos": 2,
+   "title": "Drogo High Back Ergonomic Gaming Chair with Adjustable Neck, Armrest PU Leather Gaming Chair",
+   "price": null,
+   "rating": 4.2,
+   "ratings": 162,
+   "isFrido": false
+  },
+  {
+   "pos": 3,
+   "title": "GREEN SOUL Blade Ergonomic Gaming Chair|Multi-Functional Computer Chair|Ergo Sync Armrest Gaming Chair",
+   "price": null,
+   "rating": 4.5,
+   "ratings": 431,
+   "isFrido": false
+  },
+  {
+   "pos": 4,
+   "title": "GREEN SOUL Monster Ult. (S) Multi-Functional Ergonomic |Gaming & WFH|Supreme Comfort Gaming Chair",
+   "price": null,
+   "rating": 4.4,
+   "ratings": 562,
+   "isFrido": false
+  },
+  {
+   "pos": 5,
+   "title": "ASE Gaming Gold Series Gaming Chair with 180 Degree Reclining And Black Metal Base Gaming Chair",
+   "price": null,
+   "rating": 3.5,
+   "ratings": 6,
+   "isFrido": false
+  }
+ ],
+ "notes": []
+}

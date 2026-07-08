@@ -1,0 +1,197 @@
+{
+ "category": "chairs-aeroluxe-massage-chair",
+ "marketplace": "amazon-in",
+ "keyword": "Frido Aeroluxe Massage Chair",
+ "capturedAt": "2026-07-08",
+ "method": "Live scrape amazon.in search page 1, query = exact SKU name (brand-qualified)",
+ "confidence": "High (live snapshot, single keyword)",
+ "fridoOrganicRank": 2,
+ "fridoSponsoredSlot": 5,
+ "organic": [
+  {
+   "asin": "B0DR2RX2SK",
+   "badge": "Amazon's Choice",
+   "price": "16,149",
+   "rating": "4.0",
+   "reviews": "205",
+   "title": "3D Posture Plus Ergonomic Chair | Adjustable Lumbar Support & 135° Recline | for Lumbar Pain & Posture Correction | Leather Chairs for Office Work, Home, Gaming",
+   "rank": 1
+  },
+  {
+   "asin": "B0DVPNFC13",
+   "badge": null,
+   "price": "15,999",
+   "rating": "4.0",
+   "reviews": "122",
+   "title": "AeroMesh Ergo Chair, Adjustable Armrests & Headrest, Lumbar Support, Breathable Mesh Back Fabric, Customizable Seat Depth & Height, Office Chair for Work, Study",
+   "rank": 2,
+   "isFridoBrand": true
+  },
+  {
+   "asin": "B0C33YXKT3",
+   "badge": null,
+   "price": "4,999",
+   "rating": "3.5",
+   "reviews": "66",
+   "title": "Deep Heal Cushion Shiatsu Massage Chair for Neck and Back with Deep Vibration Massager for Body Pain Relief at Home,Office Massager (Black)",
+   "rank": 3
+  },
+  {
+   "asin": "B0FRSCGK2W",
+   "badge": null,
+   "price": "12,999",
+   "rating": "5.0",
+   "reviews": "2",
+   "title": "Aeromesh Classic Ergonomic Office Chair with Headrest | Breathable Mesh Backrest, Adjustable Lumbar Support & 2D Armrests | Comfortable Computer Chair for Home,",
+   "rank": 4
+  },
+  {
+   "asin": "B0FPCQ4C9L",
+   "badge": null,
+   "price": "36,999",
+   "rating": "3.8",
+   "reviews": "14",
+   "title": "ErgoLuxe Executive Chair | Premium Ergonomic Office Chair with Integrated Lumbar Support | 3D Adjustable Armrests, Retractable Footrest & 145° Reclining | High ",
+   "rank": 5
+  },
+  {
+   "asin": "B0DJBYDNGC",
+   "badge": null,
+   "price": "1,899",
+   "rating": "4.1",
+   "reviews": "276",
+   "title": "Revive Back Massager for Pain Relief | Cushion Massager with 4 Nodes | Neck Massager for Pain Relief & Body Pain | Gentle Warmth and 2 Speeds",
+   "rank": 6
+  },
+  {
+   "asin": "B0FYP2474S",
+   "badge": null,
+   "price": "7,999",
+   "rating": "5.0",
+   "reviews": "5",
+   "title": "Durafit91™ Portable Chair Massager with Heat, Vibration | Full Back, Neck Support Massage Cushion | Electric Shiatsu Seat Massager for Pain Relief, Relaxation &",
+   "rank": 7
+  },
+  {
+   "asin": "B0FRSCC17C",
+   "badge": null,
+   "price": "12,999",
+   "rating": "1.0",
+   "reviews": "1",
+   "title": "Aeromesh Classic Ergonomic Office Chair with Headrest | Breathable Mesh Backrest, Adjustable Lumbar Support & 2D Armrests | Comfortable Computer Chair for Home,",
+   "rank": 8
+  },
+  {
+   "asin": "B07V1MPZYD",
+   "badge": null,
+   "price": "34,999",
+   "rating": "4.0",
+   "reviews": "270",
+   "title": "LLM549 Full Body Massage Chair with Recliner and powerful 3D back and Leg Massage for Home| Massage chair for Full Body Relaxation at Home, 1 Year Warranty, Ele",
+   "rank": 9
+  },
+  {
+   "asin": "B0B8MZ9FHC",
+   "badge": null,
+   "price": "15,999",
+   "rating": "4.2",
+   "reviews": "1,708",
+   "title": "Stylux Premium Ergonomic Office Chair | Patented SmartGRID seat | SpinePro Lumbar Support | Work, Home, Study | Adjustable Headrest & 4D Armrests | Free Install",
+   "rank": 10
+  }
+ ],
+ "sponsored": [
+  {
+   "asin": "B0D8T61JZH",
+   "badge": null,
+   "price": "1,14,000",
+   "rating": "4.4",
+   "reviews": "91",
+   "title": "EconoPremium Ultra Luxury Massage Chair: Touch Control, SL Track, Zero Gravity, Zero Space, Wireless Charging, Airbag Massage, Back Heating – Ideal for Elderly ",
+   "slot": 1
+  },
+  {
+   "asin": "B0GRV4W7V4",
+   "badge": null,
+   "price": "949",
+   "rating": "4.3",
+   "reviews": "42",
+   "title": "Charge Go Massage Gun | 5 Specialized Heads For Full Body Pain Relief | Body Massager for Pain Relief | Massage Gun for Back Leg & Full Body",
+   "slot": 2
+  },
+  {
+   "asin": "B0GX5SRSRJ",
+   "badge": null,
+   "price": "2,40,000",
+   "rating": "5.0",
+   "reviews": "1",
+   "title": "5D Zero Gravity Full Body Massage Chair for Home with AI Smart Body Scan Zero Gravity Recliner Full Body Deep Tissue Massage Heat Therapy Bluetooth Speakers 5 Y",
+   "slot": 3
+  },
+  {
+   "asin": "B0GX5QKLSY",
+   "badge": null,
+   "price": "2,99,000",
+   "rating": null,
+   "reviews": null,
+   "title": "5D Zero Gravity Full Body Massage Chair for Home | Smart Body Scan | Zero Gravity Luxury Recliner | Heat Therapy | Bluetooth Audio | Elite Wellness Chair | Grey",
+   "slot": 4
+  },
+  {
+   "asin": "B0FPCP1MMN",
+   "badge": null,
+   "price": "36,999",
+   "rating": "3.8",
+   "reviews": "14",
+   "title": "ErgoLuxe Executive Chair | Premium Ergonomic Office Chair with Integrated Lumbar Support | 3D Adjustable Armrests, Retractable Footrest & 145° Reclining | High ",
+   "slot": 5,
+   "isFridoBrand": true
+  },
+  {
+   "asin": "B0H71LMGGY",
+   "badge": null,
+   "price": "1,667",
+   "rating": "4.6",
+   "reviews": "27,391",
+   "title": "Bionic Heated Massager, Wireless Portable Shiatsu Neck and Back Massager, Electric Deep Tissue 4D Kneading Massage, Simulated Human Hand Design for Pain Relief ",
+   "slot": 6
+  },
+  {
+   "asin": "B0DQVCYVR1",
+   "badge": null,
+   "price": "3,749",
+   "rating": "3.8",
+   "reviews": "55",
+   "title": "Electric Relax Foot Massager With Shiatsu & Vibration Therapy, 4 Automatic Programs, Enhances Blood Circulation, Pain Relief Foot Massager,Grey",
+   "slot": 7
+  },
+  {
+   "asin": "B0FQJMN8LW",
+   "badge": null,
+   "price": "10,999",
+   "rating": "3.8",
+   "reviews": "48",
+   "title": "Durafit91™ Electric Leg Massager For Pain Relief | Foot and Calf Massager | 4 types of Foot Massage Shiatsu, Rolling, Deep Kneading, Mild Heat Warm Infrared The",
+   "slot": 8
+  },
+  {
+   "asin": "B0DBHM2GHV",
+   "badge": null,
+   "price": "8,999",
+   "rating": "3.9",
+   "reviews": "132",
+   "title": "Foot & Calf Massager Machine for Pain Relief | 3 Adjustable Intensity Levels| Electric Massager with Digital Display | Feet Massage for Blood Circulation & Soot",
+   "slot": 9
+  },
+  {
+   "asin": "B0GPVB4L8H",
+   "badge": "Bestseller",
+   "price": "1,899",
+   "rating": "4.2",
+   "reviews": "39",
+   "title": "KnotRelief Electric Shiatsu Back & Neck Massager, 4 Deep-Kneading Nodes, Infrared Heat, Bi-Directional Rotation, Portable Back Massager for Pain Relief, Car & H",
+   "slot": 10
+  }
+ ],
+ "notes": []
+}

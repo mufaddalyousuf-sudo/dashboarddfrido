@@ -725,17 +725,44 @@
    "priority": "P2",
    "datasets": [
     {
-     "id": "ergonomic-chair-frido",
-     "keyword": "Frido 3D Posture Plus Ergonomic Chair",
-     "primary": true,
-     "brandQualified": true
+     "id": "chairs-vajra-gaming-chair",
+     "keyword": "Frido Vajra Gaming Chair",
+     "primary": true
     },
     {
-     "id": "ergonomic-chair",
-     "keyword": "ergonomic office chair"
+     "id": "chairs-ergoluxe-executive-chair",
+     "keyword": "Frido ErgoLuxe Executive Chair"
+    },
+    {
+     "id": "chairs-3d-posture-plus-ergonomic-chair",
+     "keyword": "Frido 3D Posture Plus Ergonomic Chair"
+    },
+    {
+     "id": "chairs-aeromesh-ergo-chair",
+     "keyword": "Frido AeroMesh Ergo Chair"
+    },
+    {
+     "id": "chairs-glide-ergo-chair",
+     "keyword": "Frido Glide Ergo Chair"
+    },
+    {
+     "id": "chairs-aeromesh-classic-ergo-chair-without-headrest",
+     "keyword": "Frido AeroMesh Classic Ergo Chair - Without Headrest"
+    },
+    {
+     "id": "chairs-embrace-ergo-chair",
+     "keyword": "Frido Embrace Ergo Chair"
+    },
+    {
+     "id": "chairs-aeromesh-classic-ergo-chair-with-headrest",
+     "keyword": "Frido AeroMesh Classic Ergo Chair - With Headrest"
+    },
+    {
+     "id": "chairs-aeroluxe-massage-chair",
+     "keyword": "Frido Aeroluxe Massage Chair"
     }
    ],
-   "correctionNote": "Previously 'Needs Verification' — the live Amazon rank check was blocked by anti-bot protection. It succeeded on retry: Frido 3D Posture Plus Ergonomic Chair is #1 organic on its own name (ASIN B0DR2R1RJQ, ₹19,999, 4.0★, 204 reviews, Amazon's Choice, no Bestseller badge)."
+   "skuSource": "frido-product-catalog.json (full base-SKU research, 2026-07-08)"
   }
  ]
 }
