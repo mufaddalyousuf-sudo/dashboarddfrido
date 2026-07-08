@@ -1,0 +1,93 @@
+{
+ "category": "maternity-baby-care-maternity-pillow-plus",
+ "marketplace": "flipkart",
+ "keyword": "Frido Maternity Pillow Plus",
+ "capturedAt": "2026-07-08",
+ "method": "Live scrape flipkart.com mobile search page 1 (__INITIAL_STATE__), query = exact SKU name",
+ "confidence": "Medium-High (live; sponsored flags not exposed on mobile)",
+ "fridoRank": 4,
+ "fridoPresent": true,
+ "results": [
+  {
+   "pos": 1,
+   "title": "StarAndDaisy Cotton Pregnancy Pillow Pack of 1 Solid",
+   "price": null,
+   "rating": 4.2,
+   "ratings": 107,
+   "isFrido": false
+  },
+  {
+   "pos": 2,
+   "title": "StarAndDaisy Microfibre Pregnancy Pillow Pack of 1 Solid",
+   "price": null,
+   "rating": 4.1,
+   "ratings": 8,
+   "isFrido": false
+  },
+  {
+   "pos": 3,
+   "title": "StarAndDaisy Microfibre Pregnancy Pillow Pack of 1 Solid U Shape Full Body Support Pregnancy Pillow | Maternity Pillow For Pregnant Women",
+   "price": null,
+   "rating": 4.1,
+   "ratings": 8,
+   "isFrido": false
+  },
+  {
+   "pos": 4,
+   "title": "Frido Polyester Fibre Pregnancy Pillow Pack of 1 Geometric Maternity Pillow Plus, Pregnancy Pillow for Sleeping, Belly & Back Support Wedge",
+   "price": null,
+   "rating": 0,
+   "ratings": 0,
+   "isFrido": true
+  },
+  {
+   "pos": 5,
+   "title": "Frido Memory Foam Cushion Pack of 1 Solid Wedge Plus Cushion for Sleeping, Acid Reflux Relief, Leg Elevator, Pregnancy",
+   "price": null,
+   "rating": 4.2,
+   "ratings": 217,
+   "isFrido": true
+  },
+  {
+   "pos": 6,
+   "title": "Frido Cotton Pregnancy Pillow Pack of 1 Solid Maternity Wedge Pillow Adjustable Back & Belly Support",
+   "price": null,
+   "rating": 4.1,
+   "ratings": 29,
+   "isFrido": true
+  },
+  {
+   "pos": 7,
+   "title": "Frido Memory Foam Cushion Pack of 2 Solid Wedge Plus with Neck Rest Pillow | Back, Neck, Knee & Leg Support",
+   "price": null,
+   "rating": 4,
+   "ratings": 23,
+   "isFrido": true
+  },
+  {
+   "pos": 8,
+   "title": "Jaipurlinen Hollow Fibre Pregnancy Pillow Pack of 1 Solid Comfort Care Series",
+   "price": null,
+   "rating": 0,
+   "ratings": 0,
+   "isFrido": false
+  },
+  {
+   "pos": 9,
+   "title": "Frido Memory Foam Travel Pillow Pack of 1 Solid Kids , 360 Neck Support for Children, Pillow for Car & Flight",
+   "price": null,
+   "rating": 4.8,
+   "ratings": 4,
+   "isFrido": true
+  },
+  {
+   "pos": 10,
+   "title": "Frido Memory Foam Orthopaedic Pillow Pack of 1 Solid Ultimate Deep Sleep Pillow for Neck & Shoulder Pain Relief, King Size 5 Inch",
+   "price": null,
+   "rating": 4.1,
+   "ratings": 805,
+   "isFrido": true
+  }
+ ],
+ "notes": []
+}

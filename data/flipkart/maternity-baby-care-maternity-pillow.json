@@ -1,0 +1,93 @@
+{
+ "category": "maternity-baby-care-maternity-pillow",
+ "marketplace": "flipkart",
+ "keyword": "Frido Maternity Pillow",
+ "capturedAt": "2026-07-08",
+ "method": "Live scrape flipkart.com mobile search page 1 (__INITIAL_STATE__), query = exact SKU name",
+ "confidence": "Medium-High (live; sponsored flags not exposed on mobile)",
+ "fridoRank": 4,
+ "fridoPresent": true,
+ "results": [
+  {
+   "pos": 1,
+   "title": "StarAndDaisy Cotton Pregnancy Pillow Pack of 1 Solid",
+   "price": null,
+   "rating": 4.2,
+   "ratings": 107,
+   "isFrido": false
+  },
+  {
+   "pos": 2,
+   "title": "StarAndDaisy Microfibre Pregnancy Pillow Pack of 1 Solid",
+   "price": null,
+   "rating": 4.1,
+   "ratings": 8,
+   "isFrido": false
+  },
+  {
+   "pos": 3,
+   "title": "StarAndDaisy Microfibre Pregnancy Pillow Pack of 1 Solid U Shape Full Body Support Pregnancy Pillow | Maternity Pillow For Pregnant Women",
+   "price": null,
+   "rating": 4.1,
+   "ratings": 8,
+   "isFrido": false
+  },
+  {
+   "pos": 4,
+   "title": "Frido Cotton Pregnancy Pillow Pack of 1 Solid Maternity Wedge Pillow Adjustable Back & Belly Support",
+   "price": null,
+   "rating": 4.1,
+   "ratings": 29,
+   "isFrido": true
+  },
+  {
+   "pos": 5,
+   "title": "Frido Polyester Fibre Pregnancy Pillow Pack of 1 Geometric Maternity Pillow Plus, Pregnancy Pillow for Sleeping, Belly & Back Support Wedge",
+   "price": null,
+   "rating": 0,
+   "ratings": 0,
+   "isFrido": true
+  },
+  {
+   "pos": 6,
+   "title": "Jaipurlinen Hollow Fibre Pregnancy Pillow Pack of 1 Solid Comfort Care Series",
+   "price": null,
+   "rating": 0,
+   "ratings": 0,
+   "isFrido": false
+  },
+  {
+   "pos": 7,
+   "title": "Bembika Cotton Pregnancy Pillow Pack of 1 Solid Hands-Free Baby Sling Carrier Wrapping Cloth",
+   "price": null,
+   "rating": 3.9,
+   "ratings": 221,
+   "isFrido": false
+  },
+  {
+   "pos": 8,
+   "title": "AVI Microfibre Body Pillow Pack of 1 Solid",
+   "price": null,
+   "rating": 3.9,
+   "ratings": 200,
+   "isFrido": false
+  },
+  {
+   "pos": 9,
+   "title": "Sleepsia Microfibre Pregnancy Pillow Pack of 1 Solid Pregnancy Pillow for Sleeping, C Shaped Full Body Maternity Pillow -",
+   "price": null,
+   "rating": 3.9,
+   "ratings": 53,
+   "isFrido": false
+  },
+  {
+   "pos": 10,
+   "title": "ag pro comfort Polyester Fibre Pregnancy Pillow Pack of 1 Solid Comfort Cotton J Shape pregnancy pillows for sleeping for pregnant women",
+   "price": null,
+   "rating": 3.7,
+   "ratings": 172,
+   "isFrido": false
+  }
+ ],
+ "notes": []
+}

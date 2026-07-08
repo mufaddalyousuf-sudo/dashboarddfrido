@@ -1,0 +1,197 @@
+{
+ "category": "maternity-baby-care-maternity-pillow",
+ "marketplace": "amazon-in",
+ "keyword": "Frido Maternity Pillow",
+ "capturedAt": "2026-07-08",
+ "method": "Live scrape amazon.in search page 1, query = exact SKU name (brand-qualified)",
+ "confidence": "High (live snapshot, single keyword)",
+ "fridoOrganicRank": 1,
+ "fridoSponsoredSlot": 1,
+ "organic": [
+  {
+   "asin": "B0FL7DRDC2",
+   "badge": null,
+   "price": "2,194",
+   "rating": "4.0",
+   "reviews": "114",
+   "title": "Frido Maternity Pillow | Dual Pregnancy Wedge Pillows for Back & Belly Support | Adjustable Butterfly Design | Travel-Friendly Pregnancy Pillow | Hypoallergenic",
+   "rank": 1,
+   "isFridoBrand": true
+  },
+  {
+   "asin": "B0H4ZYJRNS",
+   "badge": null,
+   "price": "2,499",
+   "rating": null,
+   "reviews": null,
+   "title": "Frido Maternity Pillow Plus, Adjustable Pregnancy Pillow for Side Sleeping, D-Shaped Belly & Back Support Wedges, Comfortable Sleep Through Every Trimester, Was",
+   "rank": 2
+  },
+  {
+   "asin": "B0H5122XDF",
+   "badge": null,
+   "price": null,
+   "rating": null,
+   "reviews": null,
+   "title": "Frido Maternity Pillow Plus, Adjustable Pregnancy Pillow for Side Sleeping, D-Shaped Belly & Back Support Wedges, Comfortable Sleep Through Every Trimester, Was",
+   "rank": 3
+  },
+  {
+   "asin": "B0DVPJ6HB2",
+   "badge": "Bestseller",
+   "price": "2,039",
+   "rating": "4.2",
+   "reviews": "3,012",
+   "title": "Frido Wedge Plus Cushion for Sleeping & Acid Reflux Relief | Memory Foam Pillow | High Resillience Foam | Orthopedic Wedge Cushion for Leg Elevator | Pregnancy ",
+   "rank": 4
+  },
+  {
+   "asin": "B0G2H5SM76",
+   "badge": null,
+   "price": "849",
+   "rating": "3.3",
+   "reviews": "40",
+   "title": "OBABY Pregnancy Pillow – Adjustable U Shaped Pregnancy Pillow for Belly and Back Support, Maternity Body Pillow for Side Sleeping, Compact Pregnancy Support Pil",
+   "rank": 5
+  },
+  {
+   "asin": "B0FVST1CGC",
+   "badge": null,
+   "price": "999",
+   "rating": "3.9",
+   "reviews": "131",
+   "title": "StarAndDaisy Pregnancy Pillow for Women | Maternity Pillow for Pregnancy Sleeping with Cuddle Pillow with Belly Support, Leg Support, Adjustable Butterfly Desig",
+   "rank": 6
+  },
+  {
+   "asin": "B0F9FJWQFP",
+   "badge": null,
+   "price": "999",
+   "rating": "5.0",
+   "reviews": "2",
+   "title": "Body Pillow For Pregnante Women For Slepping, Memory Foam Maternity Pillow For Belly Support, Back Support, SOFT Support For Pregnancy Bump (S4)",
+   "rank": 7
+  },
+  {
+   "asin": "B0FD3L5WN1",
+   "badge": "Bestseller",
+   "price": "2,699",
+   "rating": "4.2",
+   "reviews": "3,012",
+   "title": "Frido Wedge Plus Cushion with Neck Rest Pillow Combo | Dual Foam Wedge Cushion with Adjustable Roll | Back, Neck, Knee & Leg Support | for Post-Surgery, Pregnan",
+   "rank": 8
+  },
+  {
+   "asin": "B0CMQM3GXP",
+   "badge": null,
+   "price": "2,374",
+   "rating": "4.5",
+   "reviews": "66",
+   "title": "Pregnancy Pillow for Women | Maternity Pillows for Pregnancy Sleeping | Full Body Support Belly Back Pain Relief | Removable Washable Hypoallergenic Organic Cot",
+   "rank": 9
+  },
+  {
+   "asin": "B0G253T977",
+   "badge": null,
+   "price": "995",
+   "rating": "3.9",
+   "reviews": "39",
+   "title": "BabyPro J-Shaped Pregnancy Pillow with Silky Cooling Velvet Cover, Blue | Full Body Pillow for Back Pain, Head, Belly, Hips & Knees, Soft Cushion",
+   "rank": 10
+  }
+ ],
+ "sponsored": [
+  {
+   "asin": "B0FB424HD1",
+   "badge": null,
+   "price": "2,694",
+   "rating": "4.0",
+   "reviews": "132",
+   "title": "Frido Maternity Pillow Bundle | Full Body Pregnancy Pillow for Back, Belly, Leg & Bum Support | Adjustable Butterfly Design | Travel-Friendly Cuddle Pillow | Hy",
+   "slot": 1,
+   "isFridoBrand": true
+  },
+  {
+   "asin": "B0GVS7MSC1",
+   "badge": null,
+   "price": "999",
+   "rating": "4.2",
+   "reviews": "213",
+   "title": "StarAndDaisy Baby Pregnancy Pillow for Women | Maternity Pillow for Pregnancy Sleeping with Cuddle Pillow with Belly Support Adjustable Butterfly Design (Momcar",
+   "slot": 2
+  },
+  {
+   "asin": "B0GQ44MGXC",
+   "badge": null,
+   "price": "1,178",
+   "rating": "4.2",
+   "reviews": "2,133",
+   "title": "MYARMOR Maternity Pillow Bundle | Full Body Pregnancy Pillow for Back, Belly, Hips & Leg Support | Adjustable Butterfly Design | Soft Travel-Friendly Cuddle Pil",
+   "slot": 3
+  },
+  {
+   "asin": "B0F8C7K5MG",
+   "badge": null,
+   "price": "1,499",
+   "rating": "3.9",
+   "reviews": "6",
+   "title": "J-Shape Pregnancy Pillows for Sleeping, Maternity Support, Nursing | Multipurpose Pillow for Back, HIPS, Legs, Belly Support with Removable Washable Velvet Cove",
+   "slot": 4
+  },
+  {
+   "asin": "B0GVT89PTJ",
+   "badge": "Bestseller",
+   "price": "1,749",
+   "rating": "4.3",
+   "reviews": "3,625",
+   "title": "OYO BABY Adjustable H-Shape Pregnancy Support Pillow | Velcro-Fit Back & Belly Support for Side Sleeping | Relieves Waist, Hip & Back Pain | Compact Maternity B",
+   "slot": 5
+  },
+  {
+   "asin": "B0G253T977",
+   "badge": null,
+   "price": "995",
+   "rating": "3.9",
+   "reviews": "39",
+   "title": "BabyPro J-Shaped Pregnancy Pillow with Silky Cooling Velvet Cover, Blue | Full Body Pillow for Back Pain, Head, Belly, Hips & Knees, Soft Cushion",
+   "slot": 6
+  },
+  {
+   "asin": "B0D7S2LTYC",
+   "badge": null,
+   "price": "1,559",
+   "rating": "4.1",
+   "reviews": "4,707",
+   "title": "Amazon Basics Full Body Pregnancy Pillow for Maternity,Baby Nursing,Full Body Support-|Perfect Baby Shower Gift|J-Shaped-Washable Cover with Zip - Navy Blue, Ve",
+   "slot": 7
+  },
+  {
+   "asin": "B0F26S1PXV",
+   "badge": null,
+   "price": "1,499",
+   "rating": "3.7",
+   "reviews": "165",
+   "title": "CareFoam Pregnancy Pillow for Sleeping – U-Shape Full Body Maternity Pillow with Removable Washable Velvet Cover | Support for Back, Hips, Legs & Belly | Soft G",
+   "slot": 8
+  },
+  {
+   "asin": "B0GQYZ9NPC",
+   "badge": null,
+   "price": "3,199",
+   "rating": "4.6",
+   "reviews": "33",
+   "title": "haus & kinder Pregnancy Pillow for Women | Maternity Pillows for Pregnancy Sleeping | Pregnancy Full Body & Back Support Maternity Pillow | J-Shape (Ice Blue)",
+   "slot": 9
+  },
+  {
+   "asin": "B0H1437FRZ",
+   "badge": null,
+   "price": "6,499",
+   "rating": "4.3",
+   "reviews": "58",
+   "title": "Momcozy Pregnancy Pillows with Cooling Cover, U-Shaped Full Body Maternity Pillow for Side Sleepers 145 cm - Support for Back, Hip, Belly, Legs for Pregnant Wom",
+   "slot": 10
+  }
+ ],
+ "notes": []
+}

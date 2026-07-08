@@ -141,11 +141,8 @@
   // removed rather than left showing an outdated claim; fresh ones are pending a
   // data-driven pass once all 16 categories are on the new research.
   const actions = {
-    "maternity-baby-care": [["Close the review gap on pregnancy pillow", "Frido ranks #6; leaders carry a larger review base. A post-purchase review prompt is the fastest lever."]],
     masks: [["Decide: invest or retire the mask line", "Frido has 3+ real mask/eye-mask listings, none with a Bestseller badge and all under 65 reviews — low velocity suggests either a keyword/content fix or deprioritizing the line."]],
     socks: [["Scale the Five Toe Socks ad", "The only Frido sock SKU carries a Bestseller badge via a sponsored ad, but has just 14 reviews and no generic-keyword visibility — increase ad spend and seed reviews before pulling back."]],
-    workspace: [["Build a dedicated under-desk footrest SKU", "Verified gap: Frido has no product matching this category at all — the closest listing is a Leg Elevation Wedge Pillow, a different use case."]],
-    chairs: [["Verify the chair's live Amazon rank", "Existence is confirmed (3D Posture Plus Ergonomic Chair, ~4.2★, 101 ratings) but a live rank check was blocked — re-run before deciding on ad spend here."]],
     orthotics: [["Assess marketplace fit for posture corrector", "No top-10 presence in a belt-brand-dominated category — decide whether this is a marketplace-push line or stays D2C-only."]],
     "personal-care": [["Seed visibility for nasal strips", "New line with no top-10 presence against established brands — needs an ad-led launch, not organic-only."]],
     "mobility-devices": [["Fix wheelchair-cushion keyword targeting", "Ad runs with zero organic top-10 — align listing keywords to the search term being paid for."]],
