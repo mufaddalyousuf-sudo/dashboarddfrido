@@ -1,0 +1,77 @@
+{
+ "category": "cushions-leg-elevation-pillow",
+ "marketplace": "flipkart",
+ "keyword": "Frido Leg Elevation Pillow",
+ "capturedAt": "2026-07-08",
+ "method": "Live scrape flipkart.com mobile search page 1 (__INITIAL_STATE__), query = exact SKU name",
+ "confidence": "Medium-High (live; sponsored flags not exposed on mobile)",
+ "fridoRank": 6,
+ "fridoPresent": true,
+ "results": [
+  {
+   "pos": 1,
+   "title": "THE WOOD WHITE INDIA Microfibre Sleeping Pillow Pack of 2 Solid Soft Pillow Set of 2. 16 x 24 Inches",
+   "price": null,
+   "rating": 4,
+   "ratings": 1970,
+   "isFrido": false
+  },
+  {
+   "pos": 2,
+   "title": "THE WOOD WHITE INDIA Microfibre Sleeping Pillow Pack of 2 Abstract Self Grey Pillow Set of 2 in 16” x 24” Inch with 600 GMS of Plush Filling",
+   "price": null,
+   "rating": 4,
+   "ratings": 16570,
+   "isFrido": false
+  },
+  {
+   "pos": 3,
+   "title": "THE WOOD WHITE INDIA Microfibre Sleeping Pillow Pack of 2 Solid Microfiber 16 x 24 Inches or 41 x 61 cm.",
+   "price": null,
+   "rating": 4,
+   "ratings": 16570,
+   "isFrido": false
+  },
+  {
+   "pos": 4,
+   "title": "THE WOOD WHITE INDIA Microfibre Sleeping Pillow Pack of 2 Solid Soft Pillow Set of 2. size 16 x 24 Inches",
+   "price": null,
+   "rating": 4,
+   "ratings": 16570,
+   "isFrido": false
+  },
+  {
+   "pos": 5,
+   "title": "THE WOOD WHITE INDIA Microfibre Sleeping Pillow Pack of 2 Solid Basic White Pillow Set of 2 in 41 x 61 cm with Blue Border",
+   "price": null,
+   "rating": 4,
+   "ratings": 401,
+   "isFrido": false
+  },
+  {
+   "pos": 6,
+   "title": "Frido Memory Foam Cushion Pack of 2 Solid Wedge Plus with Neck Rest Pillow | Back, Neck, Knee & Leg Support",
+   "price": null,
+   "rating": 4,
+   "ratings": 23,
+   "isFrido": true
+  },
+  {
+   "pos": 7,
+   "title": "Frido Memory Foam Cushion Pack of 1 Solid Wedge Plus Cushion for Sleeping, Acid Reflux Relief, Leg Elevator, Pregnancy",
+   "price": null,
+   "rating": 4.2,
+   "ratings": 217,
+   "isFrido": true
+  },
+  {
+   "pos": 8,
+   "title": "Frido Foam Orthopaedic Pillow Pack of 1 Solid High Density Foam Support Cushion",
+   "price": null,
+   "rating": 4.4,
+   "ratings": 31,
+   "isFrido": true
+  }
+ ],
+ "notes": []
+}

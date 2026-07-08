@@ -1,0 +1,197 @@
+{
+ "category": "cushions-cloud-backrest-cushion",
+ "marketplace": "amazon-in",
+ "keyword": "Frido Cloud Backrest Cushion",
+ "capturedAt": "2026-07-08",
+ "method": "Live scrape amazon.in search page 1, query = exact SKU name (brand-qualified)",
+ "confidence": "High (live snapshot, single keyword)",
+ "fridoOrganicRank": 1,
+ "fridoSponsoredSlot": 5,
+ "organic": [
+  {
+   "asin": "B0F6V6G3MQ",
+   "badge": null,
+   "price": "1,994",
+   "rating": "4.2",
+   "reviews": "275",
+   "title": "Cloud Backrest Cushion | High-Density Memory Foam | Premium Lumbar Support for Chairs | Durable Back Pillow for Office Chair & Home Use | Breathable & Machine-W",
+   "rank": 1,
+   "isFridoBrand": true
+  },
+  {
+   "asin": "B0FDWZLHT1",
+   "badge": null,
+   "price": "3,599",
+   "rating": "4.2",
+   "reviews": "61",
+   "title": "Cloud Backrest & Seat Cushion Combo | High-Density Memory Foam | Lumber, Tailbone & Thighs Support Pillow | Breathable & Machine-Washable Cover | for Office, Ca",
+   "rank": 2
+  },
+  {
+   "asin": "B0CJ8VYBQP",
+   "badge": null,
+   "price": "2,559",
+   "rating": "4.0",
+   "reviews": "3,077",
+   "title": "Ultimate Pro Seat Cushion & Posture Corrector Backrest Cushion Combo | Relieves Back | Coccyx Pain | Hi-Per Foam Tech for Orthopedic Support | for Long Sitting ",
+   "rank": 3
+  },
+  {
+   "asin": "B0D2H84KYS",
+   "badge": "Bestseller",
+   "price": "1,494",
+   "rating": "4.2",
+   "reviews": "662",
+   "title": "Foam Car Backrest Cushion for Lumbar Support & Back Pain Relief While Driving | Orthopedic Car Seat Cushion for Comfortable Long Rides | Complete Spine Alignmen",
+   "rank": 4
+  },
+  {
+   "asin": "B0CH33D6GN",
+   "badge": "Bestseller",
+   "price": "1,290",
+   "rating": "4.1",
+   "reviews": "1,685",
+   "title": "Back Support for Office Chair | 2 Years Warranty | Gel Memory Foam Car Seat Back Support, Orthopedic Lumbar Back Rest for Back Pain Relief - Back Pillow for Sit",
+   "rank": 5
+  },
+  {
+   "asin": "B0FL21C8JJ",
+   "badge": null,
+   "price": "999",
+   "rating": "4.0",
+   "reviews": "168",
+   "title": "Lumbar Support Pillow for Office Chair & Car Seat – Orthopedic Memory Foam Back Cushion for Posture & Back Pain Relief | Ergonomic Backrest for Long Sitting (Gr",
+   "rank": 6
+  },
+  {
+   "asin": "B0CPJHP7DN",
+   "badge": null,
+   "price": "999",
+   "rating": "4.2",
+   "reviews": "804",
+   "title": "USA Backrest for Car Seat, Office Chair to Sit Up Right, Orthopaedic Memory Foam Cushion/Pillow Back Pain Relief, Lumbar Support, Spine Alignment, and Posture C",
+   "rank": 7
+  },
+  {
+   "asin": "B0DVPJ6HB2",
+   "badge": "Bestseller",
+   "price": "2,039",
+   "rating": "4.2",
+   "reviews": "3,012",
+   "title": "Wedge Plus Cushion for Sleeping & Acid Reflux Relief | Memory Foam Pillow | High Resillience Foam | Orthopedic Wedge Cushion for Leg Elevator | Pregnancy | GERD",
+   "rank": 8
+  },
+  {
+   "asin": "B0FRS25M27",
+   "badge": null,
+   "price": "1,499",
+   "rating": null,
+   "reviews": null,
+   "title": "Cloud Backrest Cushion | High-Density Memory Foam | Premium Lumbar Support for Chairs | Durable Back Pillow for Office Chair & Home Use | Breathable & Machine-W",
+   "rank": 9
+  },
+  {
+   "asin": "B07LF68SJK",
+   "badge": null,
+   "price": "1,149",
+   "rating": "4.2",
+   "reviews": "2,786",
+   "title": "Car Seat Back Support | 2 Years Warranty | Memory Foam Backrest Lumbar Support Cushion for Comfortable Long Drive & Daily Commute, Suitable for All Cars Seats (",
+   "rank": 10
+  }
+ ],
+ "sponsored": [
+  {
+   "asin": "B0CJ8VYBQP",
+   "badge": null,
+   "price": "2,559",
+   "rating": "4.0",
+   "reviews": "3,077",
+   "title": "Ultimate Pro Seat Cushion & Posture Corrector Backrest Cushion Combo | Relieves Back | Coccyx Pain | Hi-Per Foam Tech for Orthopedic Support | for Long Sitting ",
+   "slot": 1
+  },
+  {
+   "asin": "B0DSSWT8M2",
+   "badge": null,
+   "price": "2,689",
+   "rating": "4.2",
+   "reviews": "103",
+   "title": "PosturePro Seat Cushion & Back Support for Office Chair Combo, Ergonomic Memory Foam Sitting Pillow, Lumbar Support Seat Cushion for Chair, Coccyx Cushion for T",
+   "slot": 2
+  },
+  {
+   "asin": "B0DHQYYXTT",
+   "badge": null,
+   "price": "1,389",
+   "rating": "4.2",
+   "reviews": "181",
+   "title": "PosturePro Premium Back Support Cushion for Office Chair and Car Seat | High Density 100% Memory Foam, Cotton Cover | Large Size | Orthopedic Ergonomic Lumbar B",
+   "slot": 3
+  },
+  {
+   "asin": "B0CZ9NPSWM",
+   "badge": null,
+   "price": "993",
+   "rating": "4.0",
+   "reviews": "1,352",
+   "title": "Back Support for Office Chair, 1 Year Warranty, Lumbar Support for Office Chair Cushion with Contoured Memory Foam, Adjustable Strap Design, Car Back Support, G",
+   "slot": 4
+  },
+  {
+   "asin": "B0FDX22G19",
+   "badge": null,
+   "price": "3,420",
+   "rating": "4.2",
+   "reviews": "61",
+   "title": "Cloud Backrest & Seat Cushion Combo | High-Density Memory Foam | Lumber, Tailbone & Thighs Support Pillow | Breathable & Machine-Washable Cover | for Office, Ca",
+   "slot": 5,
+   "isFridoBrand": true
+  },
+  {
+   "asin": "B0GVPS968Z",
+   "badge": "Bestseller",
+   "price": "1,999",
+   "rating": "5.0",
+   "reviews": "9",
+   "title": "Premium Car Back Rest Cushion with Lumbar Support Pillow for Driving, Hi-Per Memory Foam Back Support and Luxe Leatherette Cover, Relieves Back Pain and Improve",
+   "slot": 6
+  },
+  {
+   "asin": "B0GXPQBMS7",
+   "badge": null,
+   "price": "1,148",
+   "rating": "5.0",
+   "reviews": "1",
+   "title": "Backrest Car Seat Cushion - Memory Foam, Lumbar Support for Car, Orthopedic Back Support Cushion for Comfortable Long Drives & Daily Use with Adjustable Strap &",
+   "slot": 7
+  },
+  {
+   "asin": "B0FNDDRC9V",
+   "badge": null,
+   "price": "849",
+   "rating": "5.0",
+   "reviews": "1",
+   "title": "Back Rest Cushion & Lumbar Support Pillow for Office Chair & Car | Orthopedic Ergonomic Car Back Support | Transform Posture & Relieve Back Pain",
+   "slot": 8
+  },
+  {
+   "asin": "B08MXR9DS7",
+   "badge": null,
+   "price": "938",
+   "rating": "4.0",
+   "reviews": "36",
+   "title": "D-Shaped Lumbar Support Roll | 5-Year Warranty | Premium Memory Foam | Medical Grade Back Cushion for Lower Back Pain, Sciatica & Spinal Alignment | Office Chai",
+   "slot": 9
+  },
+  {
+   "asin": "B0FYY1CVZK",
+   "badge": null,
+   "price": "999",
+   "rating": "3.9",
+   "reviews": "113",
+   "title": "Ultimate Pro Seat Cushion | Relieves Back & Coccyx Pain | Cool Gel Memory Foam for Orthopedic Support | Weight up to 120 kg | for Long Sitting Hours on Office/H",
+   "slot": 10
+  }
+ ],
+ "notes": []
+}

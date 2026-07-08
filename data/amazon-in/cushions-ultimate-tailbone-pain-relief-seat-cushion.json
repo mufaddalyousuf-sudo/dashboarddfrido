@@ -1,0 +1,196 @@
+{
+ "category": "cushions-ultimate-tailbone-pain-relief-seat-cushion",
+ "marketplace": "amazon-in",
+ "keyword": "Frido Ultimate Tailbone Pain Relief Seat Cushion",
+ "capturedAt": "2026-07-08",
+ "method": "Live scrape amazon.in search page 1, query = exact SKU name (brand-qualified)",
+ "confidence": "High (live snapshot, single keyword)",
+ "fridoOrganicRank": 1,
+ "fridoSponsoredSlot": null,
+ "organic": [
+  {
+   "asin": "B0CBKGQB3R",
+   "badge": "Amazon's Choice",
+   "price": "1,619",
+   "rating": "4.0",
+   "reviews": "3,077",
+   "title": "Ultimate Pro Seat Cushion (High Density) for Hip | Tailbone | Coccyx | Sciatica Pain Relief | Proprietary Hi-Per Foam Ergonomic Design | Contoured Cushion for O",
+   "rank": 1,
+   "isFridoBrand": true
+  },
+  {
+   "asin": "B0DJ3BPT37",
+   "badge": "Bestseller",
+   "price": "1,402",
+   "rating": "4.1",
+   "reviews": "1,004",
+   "title": "Ultimate Car Wedge Seat Cushion | Memory Foam Cushion with Coccyx Tailbone Cutout | Relieves Hip Pain & Tailbone Pain, Lower Back Pain | Weight <120 kg | Black ",
+   "rank": 2
+  },
+  {
+   "asin": "B09XBC5RGK",
+   "badge": null,
+   "price": "499",
+   "rating": "4.1",
+   "reviews": "3,059",
+   "title": "Doctor Recommended Premium Orthopedic Foam Coccyx Seat Cushion for Tailbone Pain Relief, Sciatica Pain Relief Hip Support, Lower Back Support with Removable Cov",
+   "rank": 3
+  },
+  {
+   "asin": "B07N96TNPG",
+   "badge": null,
+   "price": "999",
+   "rating": "4.0",
+   "reviews": "5,596",
+   "title": "(USA) Non-Slip Orthopedic Coccyx Seat Cushion for Tailbone & Sciatica Pain Relief Hip Support",
+   "rank": 4
+  },
+  {
+   "asin": "B0D2RLMGNN",
+   "badge": null,
+   "price": "513",
+   "rating": "5.0",
+   "reviews": "1",
+   "title": "Ultimate Pro Seat Cushion for Hip,Tailbone,Coccyx,Sciatica Pain Relief,Foam Ergonomic Design, Contoured Cushion for Office or Home Chairs (18 x 18 x 4 INCH)",
+   "rank": 5
+  },
+  {
+   "asin": "B0GM73JLYH",
+   "badge": null,
+   "price": "664",
+   "rating": "4.5",
+   "reviews": "3",
+   "title": "Memory Foam Coccyx Seat Cushion – Orthopedic Chair Pad for Tailbone, Sciatica & Lower Back Pain Relief | Ideal for Office Chairs, Car Seats & Home Use | Removab",
+   "rank": 6
+  },
+  {
+   "asin": "B0GH7VTQ57",
+   "badge": null,
+   "price": "1,899",
+   "rating": "4.3",
+   "reviews": "12",
+   "title": "Ultimate Orthopedic Coccyx Seat Cushion for Tailbone Pain Relief | Premium Memory Foam Ergonomic Seat Cushion for Office Chair, Car Seat & Wheelchair | Sciatica",
+   "rank": 7
+  },
+  {
+   "asin": "B0H5Q247M6",
+   "badge": null,
+   "price": "1,499",
+   "rating": "5.0",
+   "reviews": "1",
+   "title": "PosturePro Plus Premium Coccyx Seat Cushion for Tailbone Pain Relief, Anti Slip Orthopedic Ergonomic Office Chair Memory Foam Sitting Pillow for Sciatica Pain R",
+   "rank": 8
+  },
+  {
+   "asin": "B0D1R6QDCT",
+   "badge": null,
+   "price": "1,599",
+   "rating": "4.3",
+   "reviews": "95",
+   "title": "Memory Foam Piles Seat Cushion for Pain Relief from Hemorrhoids & Fistula,Non-Slip Contour Cushion with Innovative Keyhole Design & Additional Thigh Support,Bla",
+   "rank": 9
+  },
+  {
+   "asin": "B0GVKDSD9Z",
+   "badge": null,
+   "price": "520",
+   "rating": "3.6",
+   "reviews": "5",
+   "title": "Coccyx Seat Cushion for Tailbone Pain Relief, Orthopedic Foam, Sciatica and Hip Support, Removable Cover, Orthopedic Foam Chair Cushions for Sitting with Remova",
+   "rank": 10
+  }
+ ],
+ "sponsored": [
+  {
+   "asin": "B0DWXMKWV2",
+   "badge": null,
+   "price": "1,489",
+   "rating": "4.1",
+   "reviews": "65",
+   "title": "PosturePro Premium Car Seat Cushion for Driving Seat | Car Cushion Pillow for Tailbone Pain Relief | Orthopedic Memory Foam, Cotton Cover | Ergonomic Design for",
+   "slot": 1
+  },
+  {
+   "asin": "B0CJ8VYBQP",
+   "badge": null,
+   "price": "2,559",
+   "rating": "4.0",
+   "reviews": "3,077",
+   "title": "Ultimate Pro Seat Cushion & Posture Corrector Backrest Cushion Combo | Relieves Back | Coccyx Pain | Hi-Per Foam Tech for Orthopedic Support | for Long Sitting ",
+   "slot": 2
+  },
+  {
+   "asin": "B0DJ3BPT37",
+   "badge": "Bestseller",
+   "price": "1,402",
+   "rating": "4.1",
+   "reviews": "1,004",
+   "title": "Ultimate Car Wedge Seat Cushion | Memory Foam Cushion with Coccyx Tailbone Cutout | Relieves Hip Pain & Tailbone Pain, Lower Back Pain | Weight <120 kg | Black ",
+   "slot": 3
+  },
+  {
+   "asin": "B0F19F61W1",
+   "badge": null,
+   "price": "1,389",
+   "rating": "4.0",
+   "reviews": "102",
+   "title": "PosturePro Coccyx Seat Cushion for Tailbone Pain Relief, Anti Slip Orthopedic Ergonomic Office Chair Memory Foam Sitting Pillow for Sciatica Pain Relief, Cotton",
+   "slot": 4
+  },
+  {
+   "asin": "B07GC5WGJB",
+   "badge": "Bestseller",
+   "price": "1,245",
+   "rating": "4.0",
+   "reviews": "7,672",
+   "title": "Orthopedic Coccyx Seat Cushion for Tailbone Pain | 2-Years Warranty | Memory Foam Chair Pad for Sciatica & Back Pain Relief (18 x 17 Inch), Fits Up to 120Kg Wt,",
+   "slot": 5
+  },
+  {
+   "asin": "B0FK22C16S",
+   "badge": null,
+   "price": "499",
+   "rating": "4.1",
+   "reviews": "59",
+   "title": "2 Years Warranty Premium Orthopedic Coccyx Cushion for Hip, Tailbone, Coccyx, Sciatica Pain Relief | Seat Cushion for Chair, Car Seat Cushions | Removable Cover",
+   "slot": 6
+  },
+  {
+   "asin": "B0FWJV3NP6",
+   "badge": null,
+   "price": "1,449",
+   "rating": "3.1",
+   "reviews": "6",
+   "title": "Memory Foam Orthopedic Seat Cushion for Tailbone Pain Relief | Coccyx Support Chair Cushion for Office, Car & Home | Ergonomic Design for Long Sitting, Posture ",
+   "slot": 7
+  },
+  {
+   "asin": "B0DMKCT2C5",
+   "badge": null,
+   "price": "1,694",
+   "rating": "4.1",
+   "reviews": "1,120",
+   "title": "Travel Neck Pillow, 100% Hi-Per Foam, Lightweight Neck Support Pillow, Neck Pillow for Flight Travel, Memory Foam, Adjustable Velcro Straps, Free Travel Pouch (",
+   "slot": 8
+  },
+  {
+   "asin": "B0DHV89XDC",
+   "badge": null,
+   "price": "2,199",
+   "rating": "4.1",
+   "reviews": "203",
+   "title": "Ortho Pro Max Seat Cushion for Tailbone, Coccyx, Hip, Sciatica Pain Relief | Office Chair, Car Seat, Upto 125kg | 600+ Cooling Air Vents | Patented SmartGRID | ",
+   "slot": 9
+  },
+  {
+   "asin": "B0GX9DF18L",
+   "badge": null,
+   "price": "899",
+   "rating": null,
+   "reviews": null,
+   "title": "Coccyx Cushion | Orthopedic Memory Foam Seat Cushion | Tailbone Pain Relief | Pressure Relief & Posture Support | Anti-Skid Base",
+   "slot": 10
+  }
+ ],
+ "notes": []
+}

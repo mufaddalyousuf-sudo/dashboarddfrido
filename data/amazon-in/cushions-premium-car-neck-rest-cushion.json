@@ -1,0 +1,197 @@
+{
+ "category": "cushions-premium-car-neck-rest-cushion",
+ "marketplace": "amazon-in",
+ "keyword": "Frido Premium Car Neck Rest Cushion",
+ "capturedAt": "2026-07-08",
+ "method": "Live scrape amazon.in search page 1, query = exact SKU name (brand-qualified)",
+ "confidence": "High (live snapshot, single keyword)",
+ "fridoOrganicRank": 1,
+ "fridoSponsoredSlot": 5,
+ "organic": [
+  {
+   "asin": "B0GVPSC3SC",
+   "badge": "Bestseller",
+   "price": "1,799",
+   "rating": "4.4",
+   "reviews": "9",
+   "title": "Premium Car Neck Rest Pillow with Ergonomic Memory Foam Headrest Cushion and Luxe Leatherette Cover, Comfortable Neck Support for Driving, Relieves Neck Pain fo",
+   "rank": 1,
+   "isFridoBrand": true
+  },
+  {
+   "asin": "B0FCYNQMRS",
+   "badge": "Bestseller",
+   "price": "1,099",
+   "rating": "3.9",
+   "reviews": "1,830",
+   "title": "Ultimate Car Neck Rest Pillow| Ultrasoft Pillow for Comfortable Rides | Superior Neck Support Cushion | Relieves Neck Pain | Hi-Per Foam Head Rest Pillow with W",
+   "rank": 2
+  },
+  {
+   "asin": "B0CR7FT1YB",
+   "badge": "Amazon's Choice",
+   "price": "2,051",
+   "rating": "4.2",
+   "reviews": "625",
+   "title": "Ultimate Car Neck Rest Pillow | Ultrasoft Pillow for Comfortable Car Rides | Superior Neck Support | Neck Pain Relief | Hi-Per Foam Head Rest Pillow with Washab",
+   "rank": 3
+  },
+  {
+   "asin": "B0GQ515CQJ",
+   "badge": null,
+   "price": "225",
+   "rating": "4.1",
+   "reviews": "184",
+   "title": "Car Neck Rest Pillow | Ergonomic Memory Foam Headrest Cushion for Neck Pain Relief | Adjustable Car Seat Support Pillow with Washable Cover | Universal Travel &",
+   "rank": 4
+  },
+  {
+   "asin": "B0FWKX4K66",
+   "badge": null,
+   "price": "399",
+   "rating": "4.3",
+   "reviews": "145",
+   "title": "Car Neck Rest Pillow Memory Foam Cushion for Car Seat I Head Rest for Neck & Cervical Comfort for Men and Women Black (As seen on Shark Tank)",
+   "rank": 5
+  },
+  {
+   "asin": "B0CR7FGNF1",
+   "badge": null,
+   "price": "2,049",
+   "rating": "4.2",
+   "reviews": "162",
+   "title": "Ultimate Car Neck Rest Pillow| Ultrasoft Pillow for Comfortable Rides | Superior Neck Support | Relieves Neck Pain | Hi-Per Foam Head Rest Pillow with Washable ",
+   "rank": 6
+  },
+  {
+   "asin": "B0H22CQV3X",
+   "badge": null,
+   "price": "379",
+   "rating": "4.6",
+   "reviews": "4",
+   "title": "Car Neck Pillow Headrest Memory Foam Cushion for Long Drives - Ergonomic Neck Support Pillow with Adjustable Strap, Breathable Removable Cover for Front & Back ",
+   "rank": 7
+  },
+  {
+   "asin": "B0GYFBWRPH",
+   "badge": null,
+   "price": "269",
+   "rating": "5.0",
+   "reviews": "1",
+   "title": "Car Neck Rest Pillow | Ergonomic Memory Foam Headrest Cushion for Neck Pain Relief | Adjustable Car Seat Support Pillow with Washable Cover | Universal Travel &",
+   "rank": 8
+  },
+  {
+   "asin": "B0D2DKGWJH",
+   "badge": null,
+   "price": "725",
+   "rating": "4.1",
+   "reviews": "339",
+   "title": "Orthopaedic Car Neck Rest Cushion Pillows, Memory Foam Car Seat Head Rest Pillow for Neck and Cervical, Support Relieves Pain & Muscle, Ultrasoft Pillow for Com",
+   "rank": 9
+  },
+  {
+   "asin": "B0FZ4J878N",
+   "badge": null,
+   "price": "1,346",
+   "rating": "4.2",
+   "reviews": "30",
+   "title": "Premium Car Neck Rest Pillow | 2 Years Warranty | Memory Foam Neck Pillow for Car, Headrest Cushion for Neck & Cervical Support – Relieves Neck Pain & Fatigue |",
+   "rank": 10
+  }
+ ],
+ "sponsored": [
+  {
+   "asin": "B0DXFR5H8N",
+   "badge": "Bestseller",
+   "price": "3,200",
+   "rating": "4.1",
+   "reviews": "889",
+   "title": "Ultimate Car Comfort Combo | Neck Rest, Backrest & Wedge Seat Cushion Combo of 3 | Ergonomic Neck, Back & Seating Support | Driving & Daily Commutes | Posture C",
+   "slot": 1
+  },
+  {
+   "asin": "B0DMKDY515",
+   "badge": null,
+   "price": "1,619",
+   "rating": "4.1",
+   "reviews": "1,120",
+   "title": "Travel Neck Pillow, 100% Hi-Per Foam, Lightweight Neck Support Pillow, Neck Pillow for Flight Travel, Memory Foam Car Neck Pillow, Adjustable Velcro Straps, Fre",
+   "slot": 2
+  },
+  {
+   "asin": "B0G9XWYXHL",
+   "badge": null,
+   "price": "896",
+   "rating": "4.4",
+   "reviews": "37",
+   "title": "Premium Car Neck Rest Pillow with 3-Year Warranty | Ergonomic Memory Foam Neck Pillow for Car | Exquisite Neck Rest with Elegant Packaging | Grey with Blue Pipi",
+   "slot": 3
+  },
+  {
+   "asin": "B0FBSC1N9B",
+   "badge": null,
+   "price": "3,289",
+   "rating": "4.1",
+   "reviews": "279",
+   "title": "PosturePro Premium Car Seat Cushions Combo (Black)| Lumbar Support, Neck Rest, Seat Cushion for Driving Seat | Memory Foam, Cotton Cover | Ergonomic Car Cushion",
+   "slot": 4
+  },
+  {
+   "asin": "B0GVPX4ML8",
+   "badge": "Bestseller",
+   "price": "1,799",
+   "rating": "4.4",
+   "reviews": "9",
+   "title": "Premium Car Neck Rest Pillow with Ergonomic Memory Foam Headrest Cushion and Luxe Leatherette Cover, Comfortable Neck Support for Driving, Relieves Neck Pain fo",
+   "slot": 5,
+   "isFridoBrand": true
+  },
+  {
+   "asin": "B0H4VGXNWL",
+   "badge": null,
+   "price": "289",
+   "rating": "5.0",
+   "reviews": "6",
+   "title": "Car Neck Rest Pillow | Ergonomic Memory Foam Headrest Cushion for Neck Pain Relief | Adjustable Car Seat Support Pillow with Washable Cover | Universal Travel &",
+   "slot": 6
+  },
+  {
+   "asin": "B0BQQKJGNP",
+   "badge": null,
+   "price": "1,049",
+   "rating": "4.1",
+   "reviews": "2,259",
+   "title": "Car Neck Rest Pillow | 2 Years Warranty | Memory Foam Neck Pillow for Car, Car Seat Head Rest Cushion for Neck & Cervical Support - Relieves Neck Pain (Large, B",
+   "slot": 7
+  },
+  {
+   "asin": "B0F4L4CHXF",
+   "badge": null,
+   "price": "1,979",
+   "rating": "4.0",
+   "reviews": "66",
+   "title": "PosturePro Premium Car Neck Rest Pillow | Car Seat Headrest Pillow | Neck Support Cushion for Comfortable Rides | Memory Foam, Cotton Cover | Orthopedic, Ergono",
+   "slot": 8
+  },
+  {
+   "asin": "B0FY3MX75G",
+   "badge": null,
+   "price": "798",
+   "rating": "3.6",
+   "reviews": "29",
+   "title": "Memory Foam Car Neck Pillow for Driving Comfort – Ergonomic Headrest Cushion for Neck & Spine Support – Adjustable Strap, Breathable Washable Cover, Ideal for L",
+   "slot": 9
+  },
+  {
+   "asin": "B0DNR15Q65",
+   "badge": null,
+   "price": "999",
+   "rating": "4.2",
+   "reviews": "341",
+   "title": "‘RearFlex’ (Set of 2) | (Color - Beige) Car Back Seat Neck Rest Cushion Ergonomic Neck Support with Premium Fiber Fill, Pain Relief for Neck and Shoulder",
+   "slot": 10
+  }
+ ],
+ "notes": []
+}

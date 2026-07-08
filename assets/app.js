@@ -16,8 +16,14 @@
   const I = (name) => `<span class="ic"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">${window.LUCIDE[name] || ""}</svg></span>`;
   document.querySelectorAll("[data-icon]").forEach((el) => { el.innerHTML = I(el.dataset.icon); });
 
+  // generic marketing/descriptor words are never a brand name — skip past them to find the real one
+  const GENERIC_LEAD = /^(premium|ultimate|deluxe|adjustable|orthopedic|memory|foam|best|classic|new|original|multi-purpose|multipurpose|professional|pro|dual|advanced|super|the|sponsored|ad|luxury|comfort|soft|extra|large|portable|heavy|duty|ergonomic|posture|cushioned|breathable|waterproof)$/i;
   const brandOf = (t) => {
-    const m = String(t || "").match(/^[A-Za-z][\w.'()-]*(?:\s+[A-Z][\w.'()-]*)?/);
+    const words = String(t || "").split(/\s+/).filter(Boolean);
+    let i = 0;
+    while (i < words.length - 1 && GENERIC_LEAD.test(words[i].replace(/[^\w-]/g, ""))) i++;
+    const rest = words.slice(i).join(" ");
+    const m = rest.match(/^[A-Za-z][\w.'()-]*(?:\s+[A-Z][\w.'()-]*)?/);
     return m ? m[0].replace(/\s+(Premium|Orthopedic|Memory|Seat|Coccyx|Ultimate|Car|Barefoot|Pregnancy|Nasal|Posture).*$/i, "") : "—";
   };
   const isFrido = (r) => {

@@ -1,0 +1,197 @@
+{
+ "category": "cushions-ultimate-car-wedge-seat-cushion",
+ "marketplace": "amazon-in",
+ "keyword": "Frido Ultimate Car Wedge Seat Cushion",
+ "capturedAt": "2026-07-08",
+ "method": "Live scrape amazon.in search page 1, query = exact SKU name (brand-qualified)",
+ "confidence": "High (live snapshot, single keyword)",
+ "fridoOrganicRank": 1,
+ "fridoSponsoredSlot": 5,
+ "organic": [
+  {
+   "asin": "B0DJ3BPT37",
+   "badge": "Amazon's Choice",
+   "price": "1,402",
+   "rating": "4.1",
+   "reviews": "1,004",
+   "title": "Ultimate Car Wedge Seat Cushion | Memory Foam Cushion with Coccyx Tailbone Cutout | Relieves Hip Pain & Tailbone Pain, Lower Back Pain | Weight <120 kg | Black ",
+   "rank": 1,
+   "isFridoBrand": true
+  },
+  {
+   "asin": "B0CBKGQB3R",
+   "badge": null,
+   "price": "1,619",
+   "rating": "4.0",
+   "reviews": "3,077",
+   "title": "Ultimate Pro Seat Cushion (High Density) for Hip | Tailbone | Coccyx | Sciatica Pain Relief | Proprietary Hi-Per Foam Ergonomic Design | Contoured Cushion for O",
+   "rank": 2
+  },
+  {
+   "asin": "B0G3WGYL68",
+   "badge": null,
+   "price": "779",
+   "rating": null,
+   "reviews": null,
+   "title": "Car Seat Wedge Cushion Memory Foam | Height Increasing Driving Cushion for Better Road View | Coccyx & Tailbone Pain Relief | Ergonomic Booster Seat Cushion | B",
+   "rank": 3
+  },
+  {
+   "asin": "B0GVQ3BJ81",
+   "badge": "Bestseller",
+   "price": "1,619",
+   "rating": "3.0",
+   "reviews": "4",
+   "title": "Premium Car Wedge Seat Cushion with Memory Foam Support and Coccyx Cutout, Luxe Leatherette Finish, Tailbone and Hip Pain Relief, Comfortable Support for Long D",
+   "rank": 4
+  },
+  {
+   "asin": "B0GZHWVZCG",
+   "badge": null,
+   "price": "995",
+   "rating": "5.0",
+   "reviews": "7",
+   "title": "Car Wedge Seat Cushion with Wedge Design, Memory Foam Car Seat Height Cushion for Long Drives, Relieves Hip Pain & Tailbone Pain, Car Coccyx Cushion with Non-Sl",
+   "rank": 5
+  },
+  {
+   "asin": "B0D3XX9TJZ",
+   "badge": null,
+   "price": "1,799",
+   "rating": "4.2",
+   "reviews": "3,012",
+   "title": "Wedge Plus Cushion for Sleeping, Sitting & Acid Reflux Relief | Memory Foam Pillow | High Resillience Foam | Orthopedic Wedge Cushion for Leg Elevator | Pregnan",
+   "rank": 6
+  },
+  {
+   "asin": "B0F71539R7",
+   "badge": null,
+   "price": "1,299",
+   "rating": "4.5",
+   "reviews": "137",
+   "title": "Slim Seat Cushion for Office Chair, Car & Wheelchair – 3cm Thin Memory Foam Cushion for Back Support & Pressure Relief – Non-Slip, Breathable Comfort Pad for Lo",
+   "rank": 7
+  },
+  {
+   "asin": "B0CCW7WQ2W",
+   "badge": null,
+   "price": "1,249",
+   "rating": "4.0",
+   "reviews": "222",
+   "title": "Car Seat Cushions | 2 Years Warranty | for Long Drive & Daily Commute | Gel Memory Foam Wedge Cushion with Coccyx Cutout for Lower Back, Hip, Tailbone & Sciatic",
+   "rank": 8
+  },
+  {
+   "asin": "B0FSRW4426",
+   "badge": null,
+   "price": "1,200",
+   "rating": "4.1",
+   "reviews": "37",
+   "title": "Ultimate Car Wedge Seat Cushion | Premium Memory Foam Cushion with Coccyx Tailbone Cutout | Helps Relieve Hip| Tailbone & Lower Back Pain | Supports Weight Up t",
+   "rank": 9
+  },
+  {
+   "asin": "B0GYYX5HKZ",
+   "badge": null,
+   "price": "699",
+   "rating": null,
+   "reviews": null,
+   "title": "Car Wedge Seat Cushion | Memory Foam Cushion for Driving Seat | Coccyx Tailbone Cutout for Hip & Lower Back Pain Relief | Removable Washable 3D Mesh Cover | Ant",
+   "rank": 10
+  }
+ ],
+ "sponsored": [
+  {
+   "asin": "B0DJ3BPT37",
+   "badge": "Amazon's Choice",
+   "price": "1,402",
+   "rating": "4.1",
+   "reviews": "1,004",
+   "title": "Ultimate Car Wedge Seat Cushion | Memory Foam Cushion with Coccyx Tailbone Cutout | Relieves Hip Pain & Tailbone Pain, Lower Back Pain | Weight <120 kg | Black ",
+   "slot": 1
+  },
+  {
+   "asin": "B0FBX7JQW5",
+   "badge": null,
+   "price": "3,289",
+   "rating": "4.1",
+   "reviews": "279",
+   "title": "PosturePro Premium Car Seat Cushions Combo | Lumbar Support, Neck Rest, Seat Cushion for Driving Seat | Memory Foam, Cotton Cover | Ergonomic Car Cushions Pillo",
+   "slot": 2
+  },
+  {
+   "asin": "B0DT17216V",
+   "badge": null,
+   "price": "2,689",
+   "rating": "4.1",
+   "reviews": "124",
+   "title": "PosturePro Premium Car Seat Cushion and Backrest Combo | 100% Memory Foam, Cotton Cover, Large Size | Lumbar Coccyx Pillow + Back Support for Back, Tailbone Pai",
+   "slot": 3
+  },
+  {
+   "asin": "B0GFFBQCWB",
+   "badge": null,
+   "price": "2,247",
+   "rating": null,
+   "reviews": null,
+   "title": "Cruise Comfort Car Seat Cushion & Back Lumbar Support Cushion Combo | 100% Memory Foam Pillow | Long Drive Comfort | Orthopedic Ergonomic | 2 Year Warranty | Bl",
+   "slot": 4
+  },
+  {
+   "asin": "B0GVPTLVCP",
+   "badge": "Bestseller",
+   "price": "3,999",
+   "rating": "4.2",
+   "reviews": "11",
+   "title": "Premium Car Comfort Bundle with Memory Foam Neck Rest, Lumbar Backrest and Wedge Seat Cushion Set of 3, Ergonomic Neck Back and Tailbone Support for Long Drives",
+   "slot": 5,
+   "isFridoBrand": true
+  },
+  {
+   "asin": "B0DY571JWK",
+   "badge": "Bestseller",
+   "price": "559",
+   "rating": "4.1",
+   "reviews": "1,750",
+   "title": "Seat Cushion for Office Chair Memory Foam Non-Slip Cushion Back, Relief Chair Pad, Butt Pillow for Office Chair, Car, Computer Desk (Blue, Seat Cusion)",
+   "slot": 6
+  },
+  {
+   "asin": "B0FDQQY3LZ",
+   "badge": null,
+   "price": "1,899",
+   "rating": "4.4",
+   "reviews": "92",
+   "title": "Cloud Seat Cushion with High-Density Memory Foam | Tailbone & Thighs Support Pillow | Washable Stretch Cover | Anti-Slip Base | Portable Handle | Ideal for Offi",
+   "slot": 7
+  },
+  {
+   "asin": "B0DK3B5TY4",
+   "badge": null,
+   "price": "2,699",
+   "rating": "4.0",
+   "reviews": "24",
+   "title": "Coccyx Tailbone Seat Cushion & Backrest Memory Foam Cushion Combo, Coccyx Pain, Relieves Back, Orthopedic Support For Long Sitting Hours On Office Or Home Chair",
+   "slot": 8
+  },
+  {
+   "asin": "B0F9DZGR2H",
+   "badge": null,
+   "price": "1,248",
+   "rating": "4.2",
+   "reviews": "11",
+   "title": "Memory Foam Seat Cushion for Car - Tailbone & Sciatica Pain Relief Non-Slip Ergonomic Pads with Ventilated Design,Enhanced Driving Support & Coccyx Lumbar Suppo",
+   "slot": 9
+  },
+  {
+   "asin": "B0CJ8VYBQP",
+   "badge": null,
+   "price": "2,559",
+   "rating": "4.0",
+   "reviews": "3,077",
+   "title": "Ultimate Pro Seat Cushion & Posture Corrector Backrest Cushion Combo | Relieves Back | Coccyx Pain | Hi-Per Foam Tech for Orthopedic Support | for Long Sitting ",
+   "slot": 10
+  }
+ ],
+ "notes": []
+}

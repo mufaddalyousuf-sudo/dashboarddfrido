@@ -1,0 +1,125 @@
+{
+ "category": "cushions-cloud-backrest-cushion",
+ "marketplace": "flipkart",
+ "keyword": "Frido Cloud Backrest Cushion",
+ "capturedAt": "2026-07-08",
+ "method": "Live scrape flipkart.com mobile search page 1 (__INITIAL_STATE__), query = exact SKU name",
+ "confidence": "Medium-High (live; sponsored flags not exposed on mobile)",
+ "fridoRank": 6,
+ "fridoPresent": true,
+ "results": [
+  {
+   "pos": 1,
+   "title": "Baben Free Size Posture Corrector For Men And Women Back / Lumbar Support",
+   "price": null,
+   "rating": 4.1,
+   "ratings": 377,
+   "isFrido": false
+  },
+  {
+   "pos": 2,
+   "title": "Baben Posture corrector belt for men and women for back pain Posture Corrector Posture Corrector",
+   "price": null,
+   "rating": 4.2,
+   "ratings": 74,
+   "isFrido": false
+  },
+  {
+   "pos": 3,
+   "title": "Baben Free Size Sciatica Pain Relief Belt – Adjustable Lower Back & Hip Support Abdominal Belt",
+   "price": null,
+   "rating": 5,
+   "ratings": 21,
+   "isFrido": false
+  },
+  {
+   "pos": 4,
+   "title": "Baben 3 in 1 Postpartum Support - Recovery Belly Belt Free Size Abdominal Support Abdominal Belt",
+   "price": null,
+   "rating": 0,
+   "ratings": null,
+   "isFrido": false
+  },
+  {
+   "pos": 5,
+   "title": "Baben Posture Corrector Belt for Men & Women Back Support Brace Shoulder Pain Relief Posture Corrector",
+   "price": null,
+   "rating": 3.5,
+   "ratings": 4,
+   "isFrido": false
+  },
+  {
+   "pos": 6,
+   "title": "Frido Cloud Backrest Memory Foam Cushion, Lumbar Support For Chairs & Home Use, Black Back / Lumbar Support",
+   "price": null,
+   "rating": 4.5,
+   "ratings": 21,
+   "isFrido": true
+  },
+  {
+   "pos": 7,
+   "title": "Frido Ultimate Pro Seat Cushion for Hip & Tailbone Pain Relief- Light Grey Back / Lumbar Support",
+   "price": null,
+   "rating": 4.1,
+   "ratings": 297,
+   "isFrido": true
+  },
+  {
+   "pos": 8,
+   "title": "Frido Cloud Backrest Memory Foam Cushion, Lumbar Support For Chairs & Home Use, Grey Back / Lumbar Support",
+   "price": null,
+   "rating": 4.5,
+   "ratings": 21,
+   "isFrido": true
+  },
+  {
+   "pos": 9,
+   "title": "Frido Cloud Backrest Memory Foam Cushion, Lumbar Support For Chairs & Home Use, Pink Back / Lumbar Support",
+   "price": null,
+   "rating": 4.5,
+   "ratings": 21,
+   "isFrido": true
+  },
+  {
+   "pos": 10,
+   "title": "Frido Cloud Seat Cushion with Memory Foam & Anti-Slip Base Supporter",
+   "price": null,
+   "rating": 4.3,
+   "ratings": 6,
+   "isFrido": true
+  },
+  {
+   "pos": 11,
+   "title": "FOVERA Donut Pillow Orthopedic Memory Foam Piles Cushion for Hemorrhoids Back / Lumbar Support",
+   "price": null,
+   "rating": 4.1,
+   "ratings": 816,
+   "isFrido": false
+  },
+  {
+   "pos": 12,
+   "title": "Frido Cloud Backrest Memory Foam Cushion, Lumbar Support For Chairs & Home Use, Green Back / Lumbar Support",
+   "price": null,
+   "rating": 4.5,
+   "ratings": 21,
+   "isFrido": true
+  },
+  {
+   "pos": 13,
+   "title": "Frido Cloud Backrest Memory Foam Cushion, Lumbar Support For Chairs & Home Use, Brown Back / Lumbar Support",
+   "price": null,
+   "rating": 4.5,
+   "ratings": 21,
+   "isFrido": true
+  },
+  {
+   "pos": 14,
+   "title": "FEXMY Heel Pain Relief Cracked Repair Foot Care Heel Pad and Heel Socks Combo Heel Support",
+   "price": null,
+   "rating": 3.8,
+   "ratings": 450,
+   "isFrido": false
+  }
+ ],
+ "notes": []
+}

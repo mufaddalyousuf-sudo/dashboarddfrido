@@ -1,0 +1,125 @@
+{
+ "category": "cushions-ultimate-car-comfort-bundle",
+ "marketplace": "flipkart",
+ "keyword": "Frido Ultimate Car Comfort Bundle",
+ "capturedAt": "2026-07-08",
+ "method": "Live scrape flipkart.com mobile search page 1 (__INITIAL_STATE__), query = exact SKU name",
+ "confidence": "Medium-High (live; sponsored flags not exposed on mobile)",
+ "fridoRank": 4,
+ "fridoPresent": true,
+ "results": [
+  {
+   "pos": 1,
+   "title": "FEXMY Heel Pain Relief Cracked Repair Foot Care Heel Pad and Heel Socks Combo Heel Support",
+   "price": null,
+   "rating": 3.8,
+   "ratings": 450,
+   "isFrido": false
+  },
+  {
+   "pos": 2,
+   "title": "FEXMY Shoe Bite Protector Heel Grips, Liner Cushions & Inserts for Loose Shoes Support Heel Support",
+   "price": null,
+   "rating": 3.8,
+   "ratings": 1478,
+   "isFrido": false
+  },
+  {
+   "pos": 3,
+   "title": "FEXMY Heel Grips Liner Cushions Inserts for Loose Shoes Insoles for Men Heel Support",
+   "price": null,
+   "rating": 3.8,
+   "ratings": 1478,
+   "isFrido": false
+  },
+  {
+   "pos": 4,
+   "title": "Frido Ultimate Pro Seat Cushion for Hip & Tailbone Pain Relief- Light Grey Back / Lumbar Support",
+   "price": null,
+   "rating": 4.1,
+   "ratings": 297,
+   "isFrido": true
+  },
+  {
+   "pos": 5,
+   "title": "Frido Wedge Plus Memory Foam Cushion for Sleeping, Acid Reflux Relief & Leg Elevator Back / Lumbar Support",
+   "price": null,
+   "rating": 4.2,
+   "ratings": 435,
+   "isFrido": true
+  },
+  {
+   "pos": 6,
+   "title": "Frido Ultimate Contour Cervical Neck Pillow for Pain Relief Sleep,Pack of 2 Cervical Pillow",
+   "price": null,
+   "rating": 4.1,
+   "ratings": 29,
+   "isFrido": true
+  },
+  {
+   "pos": 7,
+   "title": "POSTURO Car Neck Rest Memory Foam Neck Cushion For Pain Free Long Driving Big Size Back / Lumbar Support",
+   "price": null,
+   "rating": 3.5,
+   "ratings": 4,
+   "isFrido": false
+  },
+  {
+   "pos": 8,
+   "title": "NWLY Car Seat Back Support, Orthopedic Lumbar Back Rest for Back Pain Relief Back / Lumbar Support",
+   "price": null,
+   "rating": 4.2,
+   "ratings": 31,
+   "isFrido": false
+  },
+  {
+   "pos": 9,
+   "title": "MRRON PROTECH Neckrest LUMBER Back support or COCCYX Orthopaedic Cushion . Supporter",
+   "price": null,
+   "rating": 0,
+   "ratings": 0,
+   "isFrido": false
+  },
+  {
+   "pos": 10,
+   "title": "CURASIA Orthopedic Seat Cushion and Lumbar Support Pillow for Office Chair - BLACK COMBO Back / Lumbar Support",
+   "price": null,
+   "rating": 4,
+   "ratings": 24,
+   "isFrido": false
+  },
+  {
+   "pos": 11,
+   "title": "JOYLY Orthopedic Coccyx Seat Cushion for Tailbone & Lower Back Pain Relief Support Back / Lumbar Support",
+   "price": null,
+   "rating": 4.1,
+   "ratings": 11,
+   "isFrido": false
+  },
+  {
+   "pos": 12,
+   "title": "Baben Free Size Posture Corrector For Men And Women Back / Lumbar Support",
+   "price": null,
+   "rating": 4.1,
+   "ratings": 377,
+   "isFrido": false
+  },
+  {
+   "pos": 13,
+   "title": "Baben Posture corrector belt for men and women for back pain Posture Corrector Posture Corrector",
+   "price": null,
+   "rating": 4.2,
+   "ratings": 74,
+   "isFrido": false
+  },
+  {
+   "pos": 14,
+   "title": "Baben Free Size Sciatica Pain Relief Belt – Adjustable Lower Back & Hip Support Abdominal Belt",
+   "price": null,
+   "rating": 5,
+   "ratings": 21,
+   "isFrido": false
+  }
+ ],
+ "notes": []
+}

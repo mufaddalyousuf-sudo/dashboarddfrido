@@ -1,7 +1,10 @@
 {
  "asOf": "2026-07-07",
  "source": "Frido official website taxonomy (myfrido.com) — master hierarchy for all marketplace mapping",
- "marketplaces": ["amazon-in", "flipkart"],
+ "marketplaces": [
+  "amazon-in",
+  "flipkart"
+ ],
  "myntra": "not tracked (stakeholder decision 2026-07-07)",
  "statusLegend": {
   "listed": "A real, verified Frido listing exists on Amazon and/or Flipkart for this SKU/keyword — ranked organically, sponsored, carrying a Bestseller badge, or brand-verified to exist.",
@@ -9,60 +12,342 @@
   "needs-verification": "Evidence is incomplete, not yet researched, or a live check was blocked — never treat as absent until verified."
  },
  "categories": [
-  {"id": "cushions", "name": "Cushions", "icon": "💺", "priority": "P1", "datasets": [
-    {"id": "coccyx-seat-cushion", "keyword": "coccyx seat cushion", "primary": true},
-    {"id": "wedge-car-seat-cushion", "keyword": "car wedge seat cushion"},
-    {"id": "lumbar-back-support", "keyword": "lumbar support for office chair"}
-  ]},
-  {"id": "insoles", "name": "Insoles", "icon": "👣", "priority": "P1", "datasets": [
-    {"id": "insoles-orthotics", "keyword": "orthopedic insoles", "primary": true}
-  ]},
-  {"id": "pillows", "name": "Pillows", "icon": "🛏️", "priority": "P1", "datasets": [
-    {"id": "cervical-orthopedic-pillow", "keyword": "cervical pillow for neck pain", "primary": true},
-    {"id": "sleep-pillow", "keyword": "memory foam pillow"}
-  ]},
-  {"id": "mattress-topper-protector", "name": "Mattress Topper & Protector", "icon": "🛌", "priority": "P2", "datasets": [
-    {"id": "mattress-topper", "keyword": "mattress topper", "primary": true}
-  ]},
-  {"id": "covers", "name": "Covers", "icon": "🧺", "priority": "P3", "datasets": [
-    {"id": "covers-frido", "keyword": "frido cushion cover", "primary": true, "brandQualified": true}
-  ], "correctionNote": "Previously marked 'no competitive category' in error. Frido sells cushion covers and one variant carries a live Bestseller badge."},
-  {"id": "barefoot", "name": "Barefoot", "icon": "🦶", "priority": "P2", "datasets": [
-    {"id": "barefoot-shoes", "keyword": "barefoot shoes", "primary": true}
-  ]},
-  {"id": "footwear", "name": "Footwear", "icon": "👟", "priority": "P2", "datasets": [
-    {"id": "footwear-ortho-slippers", "keyword": "orthopedic slippers", "primary": true}
-  ]},
-  {"id": "accessories", "name": "Accessories", "icon": "🎒", "priority": "P3", "datasets": [
-    {"id": "accessories-car-neck-pillow", "keyword": "car neck rest pillow", "primary": true}
-  ]},
-  {"id": "maternity-baby-care", "name": "Maternity & Baby Care", "icon": "🤰", "priority": "P2", "datasets": [
-    {"id": "maternity-pregnancy-pillow", "keyword": "pregnancy pillow", "primary": true}
-  ]},
-  {"id": "masks", "name": "Masks", "icon": "😷", "priority": "P3", "datasets": [
-    {"id": "masks-frido", "keyword": "frido mask", "primary": true, "brandQualified": true}
-  ], "correctionNote": "Previously marked 'no listing found' in error. Frido sells multiple mask-type products (Eye Mask, Copper Mask) — none rank top-10 or hold a Bestseller badge on a generic keyword."},
-  {"id": "socks", "name": "Socks", "icon": "🧦", "priority": "P3", "datasets": [
-    {"id": "socks", "keyword": "cushioned socks", "primary": true},
-    {"id": "socks-frido-check", "keyword": "frido socks", "brandQualified": true}
-  ], "correctionNote": "Previously marked 'Needs Verification' too cautiously. Frido Five Toe Socks is a real listing with a live Bestseller badge (sponsored) — it simply has no visibility on the generic category keyword 'cushioned socks'."},
-  {"id": "orthotics", "name": "Orthotics", "icon": "🦵", "priority": "P2", "datasets": [
-    {"id": "orthotics-posture-corrector", "keyword": "posture corrector", "primary": true}
-  ]},
-  {"id": "personal-care", "name": "Personal Care", "icon": "🧴", "priority": "P3", "datasets": [
-    {"id": "personal-care-nasal-strips", "keyword": "nasal strips", "primary": true}
-  ]},
-  {"id": "workspace", "name": "Workspace", "icon": "🖥️", "priority": "P2", "forcedStatus": "not-listed", "datasets": [
-    {"id": "footrest", "keyword": "foot rest under desk", "primary": true},
-    {"id": "footrest-frido-check", "keyword": "frido footrest", "brandQualified": true}
-  ], "correctionNote": "Verified with a brand-qualified search: Frido has no dedicated under-desk footrest SKU. Closest match is a Leg Elevation Wedge Pillow (a different product) — a genuine catalog gap, not a research miss."},
-  {"id": "mobility-devices", "name": "Mobility Devices", "icon": "♿", "priority": "P3", "datasets": [
-    {"id": "mobility-devices-frido", "keyword": "foldable travel wheelchair", "primary": true},
-    {"id": "wheelchair-mobility-cushion", "keyword": "wheelchair cushion"}
-  ], "correctionNote": "Corrects an earlier session finding: myfrido.com has no Mobility Devices collection, but Frido genuinely sells wheelchairs, commode wheelchairs and patient-lift chairs on Amazon under manufacturer Arcatron Mobility Pvt Ltd (the same manufacturer behind the verified Frido Hot & Cold Therapy Cap) — an Amazon-only sub-line absent from Frido's own website."},
-  {"id": "chairs", "name": "Chairs", "icon": "🪑", "priority": "P2", "datasets": [
-    {"id": "ergonomic-chair-frido", "keyword": "Frido 3D Posture Plus Ergonomic Chair", "primary": true, "brandQualified": true},
-    {"id": "ergonomic-chair", "keyword": "ergonomic office chair"}
-  ], "correctionNote": "Previously 'Needs Verification' — the live Amazon rank check was blocked by anti-bot protection. It succeeded on retry: Frido 3D Posture Plus Ergonomic Chair is #1 organic on its own name (ASIN B0DR2R1RJQ, ₹19,999, 4.0★, 204 reviews, Amazon's Choice, no Bestseller badge)."}
+  {
+   "id": "cushions",
+   "name": "Cushions",
+   "icon": "💺",
+   "priority": "P1",
+   "datasets": [
+    {
+     "id": "cushions-adjustable-wedge-max-cushion",
+     "keyword": "Frido Adjustable Wedge Max Cushion",
+     "primary": true
+    },
+    {
+     "id": "cushions-ultimate-car-neck-rest-pillow",
+     "keyword": "Frido Ultimate Car Neck Rest Pillow"
+    },
+    {
+     "id": "cushions-ultimate-wedge-plus-cushion",
+     "keyword": "Frido Ultimate Wedge Plus Cushion"
+    },
+    {
+     "id": "cushions-ultimate-car-comfort-bundle",
+     "keyword": "Frido Ultimate Car Comfort Bundle"
+    },
+    {
+     "id": "cushions-travel-neck-pillow",
+     "keyword": "Frido Travel Neck Pillow"
+    },
+    {
+     "id": "cushions-ultimate-car-backrest-cushion",
+     "keyword": "Frido Ultimate Car Backrest Cushion"
+    },
+    {
+     "id": "cushions-ultimate-car-wedge-seat-cushion",
+     "keyword": "Frido Ultimate Car Wedge Seat Cushion"
+    },
+    {
+     "id": "cushions-maternity-pillow",
+     "keyword": "Frido Maternity Pillow"
+    },
+    {
+     "id": "cushions-ultimate-pro-seat-cushion",
+     "keyword": "Frido Ultimate Pro Seat Cushion"
+    },
+    {
+     "id": "cushions-ultimate-pro-posture-corrector",
+     "keyword": "Frido Ultimate Pro Posture Corrector"
+    },
+    {
+     "id": "cushions-premium-car-comfort-bundle",
+     "keyword": "Frido Premium Car Comfort Bundle"
+    },
+    {
+     "id": "cushions-cloud-backrest-cushion",
+     "keyword": "Frido Cloud Backrest Cushion"
+    },
+    {
+     "id": "cushions-maternity-pillow-bundle-plus",
+     "keyword": "Frido Maternity Pillow Bundle Plus"
+    },
+    {
+     "id": "cushions-ultimate-wedge-plus-max-cushion",
+     "keyword": "Frido Ultimate Wedge Plus Max Cushion"
+    },
+    {
+     "id": "cushions-cloud-seat-cushion",
+     "keyword": "Frido Cloud Seat Cushion"
+    },
+    {
+     "id": "cushions-ultimate-tailbone-pain-relief-seat-cushion",
+     "keyword": "Frido Ultimate Tailbone Pain Relief Seat Cushion"
+    },
+    {
+     "id": "cushions-leg-elevation-pillow",
+     "keyword": "Frido Leg Elevation Pillow"
+    },
+    {
+     "id": "cushions-ultimate-lap-desk-pillow",
+     "keyword": "Frido Ultimate Lap Desk Pillow"
+    },
+    {
+     "id": "cushions-premium-car-neck-rest-cushion",
+     "keyword": "Frido Premium Car Neck Rest Cushion"
+    },
+    {
+     "id": "cushions-slim-seat-cushion",
+     "keyword": "Frido Slim Seat Cushion"
+    },
+    {
+     "id": "cushions-wedge-plus-cushion-cover",
+     "keyword": "Frido Wedge Plus Cushion Cover"
+    },
+    {
+     "id": "cushions-knee-pillow",
+     "keyword": "Frido Knee Pillow"
+    },
+    {
+     "id": "cushions-dual-car-comfort-combo",
+     "keyword": "Frido Dual Car Comfort Combo"
+    },
+    {
+     "id": "cushions-ultimate-wedge-cushion",
+     "keyword": "Frido Ultimate Wedge Cushion"
+    },
+    {
+     "id": "cushions-ultimate-pro-seating-combo",
+     "keyword": "Frido Ultimate Pro Seating Combo"
+    }
+   ],
+   "skuSource": "frido-product-catalog.json (full base-SKU research, 2026-07-08)"
+  },
+  {
+   "id": "insoles",
+   "name": "Insoles",
+   "icon": "👣",
+   "priority": "P1",
+   "datasets": [
+    {
+     "id": "insoles-orthotics",
+     "keyword": "orthopedic insoles",
+     "primary": true
+    }
+   ]
+  },
+  {
+   "id": "pillows",
+   "name": "Pillows",
+   "icon": "🛏️",
+   "priority": "P1",
+   "datasets": [
+    {
+     "id": "cervical-orthopedic-pillow",
+     "keyword": "cervical pillow for neck pain",
+     "primary": true
+    },
+    {
+     "id": "sleep-pillow",
+     "keyword": "memory foam pillow"
+    }
+   ]
+  },
+  {
+   "id": "mattress-topper-protector",
+   "name": "Mattress Topper & Protector",
+   "icon": "🛌",
+   "priority": "P2",
+   "datasets": [
+    {
+     "id": "mattress-topper",
+     "keyword": "mattress topper",
+     "primary": true
+    }
+   ]
+  },
+  {
+   "id": "covers",
+   "name": "Covers",
+   "icon": "🧺",
+   "priority": "P3",
+   "datasets": [
+    {
+     "id": "covers-frido",
+     "keyword": "frido cushion cover",
+     "primary": true,
+     "brandQualified": true
+    }
+   ],
+   "correctionNote": "Previously marked 'no competitive category' in error. Frido sells cushion covers and one variant carries a live Bestseller badge."
+  },
+  {
+   "id": "barefoot",
+   "name": "Barefoot",
+   "icon": "🦶",
+   "priority": "P2",
+   "datasets": [
+    {
+     "id": "barefoot-shoes",
+     "keyword": "barefoot shoes",
+     "primary": true
+    }
+   ]
+  },
+  {
+   "id": "footwear",
+   "name": "Footwear",
+   "icon": "👟",
+   "priority": "P2",
+   "datasets": [
+    {
+     "id": "footwear-ortho-slippers",
+     "keyword": "orthopedic slippers",
+     "primary": true
+    }
+   ]
+  },
+  {
+   "id": "accessories",
+   "name": "Accessories",
+   "icon": "🎒",
+   "priority": "P3",
+   "datasets": [
+    {
+     "id": "accessories-car-neck-pillow",
+     "keyword": "car neck rest pillow",
+     "primary": true
+    }
+   ]
+  },
+  {
+   "id": "maternity-baby-care",
+   "name": "Maternity & Baby Care",
+   "icon": "🤰",
+   "priority": "P2",
+   "datasets": [
+    {
+     "id": "maternity-pregnancy-pillow",
+     "keyword": "pregnancy pillow",
+     "primary": true
+    }
+   ]
+  },
+  {
+   "id": "masks",
+   "name": "Masks",
+   "icon": "😷",
+   "priority": "P3",
+   "datasets": [
+    {
+     "id": "masks-frido",
+     "keyword": "frido mask",
+     "primary": true,
+     "brandQualified": true
+    }
+   ],
+   "correctionNote": "Previously marked 'no listing found' in error. Frido sells multiple mask-type products (Eye Mask, Copper Mask) — none rank top-10 or hold a Bestseller badge on a generic keyword."
+  },
+  {
+   "id": "socks",
+   "name": "Socks",
+   "icon": "🧦",
+   "priority": "P3",
+   "datasets": [
+    {
+     "id": "socks",
+     "keyword": "cushioned socks",
+     "primary": true
+    },
+    {
+     "id": "socks-frido-check",
+     "keyword": "frido socks",
+     "brandQualified": true
+    }
+   ],
+   "correctionNote": "Previously marked 'Needs Verification' too cautiously. Frido Five Toe Socks is a real listing with a live Bestseller badge (sponsored) — it simply has no visibility on the generic category keyword 'cushioned socks'."
+  },
+  {
+   "id": "orthotics",
+   "name": "Orthotics",
+   "icon": "🦵",
+   "priority": "P2",
+   "datasets": [
+    {
+     "id": "orthotics-posture-corrector",
+     "keyword": "posture corrector",
+     "primary": true
+    }
+   ]
+  },
+  {
+   "id": "personal-care",
+   "name": "Personal Care",
+   "icon": "🧴",
+   "priority": "P3",
+   "datasets": [
+    {
+     "id": "personal-care-nasal-strips",
+     "keyword": "nasal strips",
+     "primary": true
+    }
+   ]
+  },
+  {
+   "id": "workspace",
+   "name": "Workspace",
+   "icon": "🖥️",
+   "priority": "P2",
+   "forcedStatus": "not-listed",
+   "datasets": [
+    {
+     "id": "footrest",
+     "keyword": "foot rest under desk",
+     "primary": true
+    },
+    {
+     "id": "footrest-frido-check",
+     "keyword": "frido footrest",
+     "brandQualified": true
+    }
+   ],
+   "correctionNote": "Verified with a brand-qualified search: Frido has no dedicated under-desk footrest SKU. Closest match is a Leg Elevation Wedge Pillow (a different product) — a genuine catalog gap, not a research miss."
+  },
+  {
+   "id": "mobility-devices",
+   "name": "Mobility Devices",
+   "icon": "♿",
+   "priority": "P3",
+   "datasets": [
+    {
+     "id": "mobility-devices-frido",
+     "keyword": "foldable travel wheelchair",
+     "primary": true
+    },
+    {
+     "id": "wheelchair-mobility-cushion",
+     "keyword": "wheelchair cushion"
+    }
+   ],
+   "correctionNote": "Corrects an earlier session finding: myfrido.com has no Mobility Devices collection, but Frido genuinely sells wheelchairs, commode wheelchairs and patient-lift chairs on Amazon under manufacturer Arcatron Mobility Pvt Ltd (the same manufacturer behind the verified Frido Hot & Cold Therapy Cap) — an Amazon-only sub-line absent from Frido's own website."
+  },
+  {
+   "id": "chairs",
+   "name": "Chairs",
+   "icon": "🪑",
+   "priority": "P2",
+   "datasets": [
+    {
+     "id": "ergonomic-chair-frido",
+     "keyword": "Frido 3D Posture Plus Ergonomic Chair",
+     "primary": true,
+     "brandQualified": true
+    },
+    {
+     "id": "ergonomic-chair",
+     "keyword": "ergonomic office chair"
+    }
+   ],
+   "correctionNote": "Previously 'Needs Verification' — the live Amazon rank check was blocked by anti-bot protection. It succeeded on retry: Frido 3D Posture Plus Ergonomic Chair is #1 organic on its own name (ASIN B0DR2R1RJQ, ₹19,999, 4.0★, 204 reviews, Amazon's Choice, no Bestseller badge)."
+  }
  ]
 }

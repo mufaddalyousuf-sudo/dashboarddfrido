@@ -1,0 +1,197 @@
+{
+ "category": "cushions-knee-pillow",
+ "marketplace": "amazon-in",
+ "keyword": "Frido Knee Pillow",
+ "capturedAt": "2026-07-08",
+ "method": "Live scrape amazon.in search page 1, query = exact SKU name (brand-qualified)",
+ "confidence": "High (live snapshot, single keyword)",
+ "fridoOrganicRank": 1,
+ "fridoSponsoredSlot": 1,
+ "organic": [
+  {
+   "asin": "B0FKBY1FWP",
+   "badge": "Amazon's Choice",
+   "price": "1,194",
+   "rating": "4.0",
+   "reviews": "264",
+   "title": "Frido Orthopedic Knee Pillow with Adjustable Strap | Memory Foam Leg Pillow for Side Sleepers | Sciatica Pain Relief, Hip, Back & Knee Support | Leg Rest Cushio",
+   "rank": 1,
+   "isFridoBrand": true
+  },
+  {
+   "asin": "B0FDBFW7PM",
+   "badge": null,
+   "price": "1,893",
+   "rating": "4.6",
+   "reviews": "272",
+   "title": "Frido Leg Elevation Wedge Pillow for Edema, Varicose Veins, Fracture | High Resilience Foam Cushion for Leg, Knee & Thigh Support | Back Pain & Swelling Relief ",
+   "rank": 2
+  },
+  {
+   "asin": "B094KNW64C",
+   "badge": null,
+   "price": "399",
+   "rating": "4.2",
+   "reviews": "1,902",
+   "title": "Third of Life Knee Pillow for Side Sleepers Orthopaedic Leg Pillow for Painless Sleep Ergonomic Positioning Pillow Made of Visco-Elastic Memory Foam Breathable ",
+   "rank": 3
+  },
+  {
+   "asin": "B0FN32PRDB",
+   "badge": null,
+   "price": "449",
+   "rating": "3.9",
+   "reviews": "27",
+   "title": "Orthopedic Memory Foam Knee Pillow for Side Sleepers | Leg, Hip & Spine Support Cushion | Washable & Breathable Cover | Pain Relief Pillow for Sciatica & Joint ",
+   "rank": 4
+  },
+  {
+   "asin": "B07LDV9GQK",
+   "badge": null,
+   "price": "890",
+   "rating": "4.1",
+   "reviews": "1,084",
+   "title": "FOVERA Knee Pillow for Side Sleepers, Knock Knee Corrector for Sleeping, Memory Foam Leg Pillow Wedge Cushion for Side Sleeper, Sciatica, Pregnancy, Hip & Back ",
+   "rank": 5
+  },
+  {
+   "asin": "B0F7X21HTZ",
+   "badge": null,
+   "price": "499",
+   "rating": "3.5",
+   "reviews": "22",
+   "title": "Your Comfort Partner Knee Pillow, Knock Knee Pillow for Sleeping, Memory Foam Leg Pillow Wedge Cushion for Side Sleeper, Sciatica, Pregnancy Leg Pillow (1)",
+   "rank": 6
+  },
+  {
+   "asin": "B0DY7ZW17H",
+   "badge": null,
+   "price": "299",
+   "rating": "3.7",
+   "reviews": "35",
+   "title": "Sleeping Memory Foam Support Pillow - Smoothing Pain Relief for Sciatica, Back, HIPS, Knee, Joints and Pregnancy Leg Cushion with Washable Cover Leg Foot Suppor",
+   "rank": 7
+  },
+  {
+   "asin": "B0G5PVS43Y",
+   "badge": null,
+   "price": "710",
+   "rating": "4.0",
+   "reviews": "20",
+   "title": "Wakefit Orthopedic Memory Foam Knee Support Pillow for Side Sleepers | Multi-Use Support for Knee, Ankle & Lumbar Hip, Back & Joint Pain Relief | Washable Zip C",
+   "rank": 8
+  },
+  {
+   "asin": "B0GF2B8SS4",
+   "badge": null,
+   "price": "759",
+   "rating": "3.8",
+   "reviews": "186",
+   "title": "Orthopedic Knee Pillow for Side Sleeping Black- (2 Years Warranty) Adjustable Strap, Memory Foam with Washable Zip Cover, Pain Relief, Hip, Back Knee Support, K",
+   "rank": 9
+  },
+  {
+   "asin": "B0GCNHXDTT",
+   "badge": null,
+   "price": "639",
+   "rating": "1.0",
+   "reviews": "1",
+   "title": "amazon basics Memory Foam Knee Pillow | Adjustable Strap | Ergonomic Contoured Design | for Side Sleeping | 8 x 9 x 5 in | Black",
+   "rank": 10
+  }
+ ],
+ "sponsored": [
+  {
+   "asin": "B0FKBXJVQ2",
+   "badge": null,
+   "price": "1,139",
+   "rating": "4.0",
+   "reviews": "264",
+   "title": "Frido Orthopedic Knee Pillow with Adjustable Strap | Memory Foam Leg Pillow for Side Sleepers | Sciatica Pain Relief, Hip, Back & Knee Support | Leg Rest Cushio",
+   "slot": 1,
+   "isFridoBrand": true
+  },
+  {
+   "asin": "B0FDBFW7PM",
+   "badge": null,
+   "price": "1,893",
+   "rating": "4.6",
+   "reviews": "272",
+   "title": "Frido Leg Elevation Wedge Pillow for Edema, Varicose Veins, Fracture | High Resilience Foam Cushion for Leg, Knee & Thigh Support | Back Pain & Swelling Relief ",
+   "slot": 2
+  },
+  {
+   "asin": "B0GCJ9XFT5",
+   "badge": null,
+   "price": "849",
+   "rating": "4.3",
+   "reviews": "7",
+   "title": "Premium Memory Foam Knee Pillow| Side Pillow| Knock Knee Corrector| Knee Pillow for Side Sleep|Orthopedic Support for Knees,Hips & Spine",
+   "slot": 3
+  },
+  {
+   "asin": "B0D3XX9TJZ",
+   "badge": null,
+   "price": "1,799",
+   "rating": "4.2",
+   "reviews": "3,012",
+   "title": "Frido Wedge Plus Cushion for Sleeping, Sitting & Acid Reflux Relief | Memory Foam Pillow | High Resillience Foam | Orthopedic Wedge Cushion for Leg Elevator | P",
+   "slot": 4
+  },
+  {
+   "asin": "B0DLVBJHVK",
+   "badge": null,
+   "price": "499",
+   "rating": "4.4",
+   "reviews": "186",
+   "title": "HOMBOX Knee Pillow for Sleeping, Side Sleeper, Sciatica Pain Relief, Knee Joints, Pregnancy, Hips and Legs Pain, Leg Cushion with Washable Cover, Royal Blue, Pa",
+   "slot": 5
+  },
+  {
+   "asin": "B0GF7JVKBS",
+   "badge": null,
+   "price": "2,199",
+   "rating": "4.6",
+   "reviews": "272",
+   "title": "Frido Leg Elevation Wedge Pillow for Edema, Varicose Veins, Fracture | High Resilience Foam Cushion for Leg, Knee & Thigh Support | Back Pain & Swelling Relief ",
+   "slot": 6
+  },
+  {
+   "asin": "B0DF5J5CGQ",
+   "badge": null,
+   "price": "759",
+   "rating": "3.8",
+   "reviews": "186",
+   "title": "Orthopedic Knee Pillow for Side Sleeping Grey - (2 Year Warranty) Adjustable Strap, Memory Foam Washable Zip Cover, Sciatica Pain, Back & Knee Support, Knock Kn",
+   "slot": 7
+  },
+  {
+   "asin": "B0GQ3HF48K",
+   "badge": null,
+   "price": "649",
+   "rating": "5.0",
+   "reviews": "1",
+   "title": "Restify Orthopedic Knee Pillow for Side Sleepers with Adjustable Leg Strap | Memory Foam Leg Pillow for Back, Hip & Sciatic Pain Relief | Washable Cover | Pregn",
+   "slot": 8
+  },
+  {
+   "asin": "B0BPMDSSS7",
+   "badge": null,
+   "price": "890",
+   "rating": "4.1",
+   "reviews": "1,084",
+   "title": "FOVERA Knee Pillow for Side Sleepers, Knock Knee Corrector for Sleeping, Memory Foam Leg Pillow Wedge Cushion for Side Sleeper, Sciatica, Pregnancy, Hip & Back ",
+   "slot": 9
+  },
+  {
+   "asin": "B0DFHNB3JJ",
+   "badge": null,
+   "price": "2,299",
+   "rating": "4.0",
+   "reviews": "24",
+   "title": "FOVERA Adjustable Single Leg Elevation Pillow | 4-Height Customizable Support | High Resilience Foam | Ideal for Surgery Recovery, Injuries, and Rest | Washable",
+   "slot": 10
+  }
+ ],
+ "notes": []
+}

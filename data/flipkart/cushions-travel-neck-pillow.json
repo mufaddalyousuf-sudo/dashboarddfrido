@@ -1,0 +1,61 @@
+{
+ "category": "cushions-travel-neck-pillow",
+ "marketplace": "flipkart",
+ "keyword": "Frido Travel Neck Pillow",
+ "capturedAt": "2026-07-08",
+ "method": "Live scrape flipkart.com mobile search page 1 (__INITIAL_STATE__), query = exact SKU name",
+ "confidence": "Medium-High (live; sponsored flags not exposed on mobile)",
+ "fridoRank": 1,
+ "fridoPresent": true,
+ "results": [
+  {
+   "pos": 1,
+   "title": "Frido Adjustable Head Rest, 360� Neck & Chin Support, Sleeping Pillow for Car & Flight Neck Pillow",
+   "price": null,
+   "rating": 4.5,
+   "ratings": 32,
+   "isFrido": true
+  },
+  {
+   "pos": 2,
+   "title": "tyagicollection U Shape Neck Pillow travelling headrest, with Eye mask Neck Pillow (Black) Neck Pillow & Eye Shade",
+   "price": null,
+   "rating": 4.1,
+   "ratings": 636,
+   "isFrido": false
+  },
+  {
+   "pos": 3,
+   "title": "o&t U-Shape Black Neck Pillow travelling headrest Neck Pillow & Eye Shade Neck Pillow & Eye Shade",
+   "price": null,
+   "rating": 4.1,
+   "ratings": 413,
+   "isFrido": false
+  },
+  {
+   "pos": 4,
+   "title": "jara Doctor Recommended Orthopedic Travel Neck Pillow|Design for Car, Train & Plane Neck Pillow",
+   "price": null,
+   "rating": 0,
+   "ratings": 0,
+   "isFrido": false
+  },
+  {
+   "pos": 5,
+   "title": "Vibento Travel Neck Pillow for Car, Flight, Office & Head Support Neck Pillow",
+   "price": null,
+   "rating": 0,
+   "ratings": 0,
+   "isFrido": false
+  },
+  {
+   "pos": 6,
+   "title": "o&t Premium Neck Pillow for Travel in Flight/Car/Train for Sleeping Neck Support Neck Pillow",
+   "price": null,
+   "rating": 0,
+   "ratings": 0,
+   "isFrido": false
+  }
+ ],
+ "notes": []
+}

@@ -1,0 +1,117 @@
+{
+ "category": "cushions-ultimate-lap-desk-pillow",
+ "marketplace": "flipkart",
+ "keyword": "Frido Ultimate Lap Desk Pillow",
+ "capturedAt": "2026-07-08",
+ "method": "Live scrape flipkart.com mobile search page 1 (__INITIAL_STATE__), query = exact SKU name",
+ "confidence": "Medium-High (live; sponsored flags not exposed on mobile)",
+ "fridoRank": 5,
+ "fridoPresent": true,
+ "results": [
+  {
+   "pos": 1,
+   "title": "AYKA Microfibre Cushion Pack of 2 Solid Quilted_cushion_16x16_pack_2",
+   "price": null,
+   "rating": 4.1,
+   "ratings": 89,
+   "isFrido": false
+  },
+  {
+   "pos": 2,
+   "title": "AYKA Microfibre Cushion Pack of 2 Solid Ultrasonic_Zipper__cushion_16x16",
+   "price": null,
+   "rating": 4.1,
+   "ratings": 89,
+   "isFrido": false
+  },
+  {
+   "pos": 3,
+   "title": "AYKA Microfibre Cushion Pack of 2 Solid white_plain_cushion_16x16",
+   "price": null,
+   "rating": 4.1,
+   "ratings": 89,
+   "isFrido": false
+  },
+  {
+   "pos": 4,
+   "title": "AYKA Microfibre Cushion Pack of 2 Solid White_cushion_16x16_pack_2",
+   "price": null,
+   "rating": 4.1,
+   "ratings": 89,
+   "isFrido": false
+  },
+  {
+   "pos": 5,
+   "title": "Frido Memory Foam Desk Pillow Pack of 1 Solid Portable Laptop, Computer & Gaming Desk Table with Arm Rest for Sofa, Bed, Floor",
+   "price": null,
+   "rating": 2.3,
+   "ratings": 3,
+   "isFrido": true
+  },
+  {
+   "pos": 6,
+   "title": "Frido Memory Foam Cushion Pack of 2 Solid Wedge Plus with Neck Rest Pillow | Back, Neck, Knee & Leg Support",
+   "price": null,
+   "rating": 4,
+   "ratings": 23,
+   "isFrido": true
+  },
+  {
+   "pos": 7,
+   "title": "EOXO Memory Foam Cushion Pack of 1 Solid Lap Desk Cushion with Soft Pillow Base | Laptop Table for Bed, Sofa & Travel",
+   "price": null,
+   "rating": 4.8,
+   "ratings": 5,
+   "isFrido": false
+  },
+  {
+   "pos": 8,
+   "title": "RINIPO Memory Foam Cushion Pack of 1 Solid Lap Desk for Reading, Gaming, Studying",
+   "price": null,
+   "rating": 3.7,
+   "ratings": 3,
+   "isFrido": false
+  },
+  {
+   "pos": 9,
+   "title": "Frido Ultimate Pro Seat Cushion & Posture Corrector Backrest Combo Back / Lumbar Support",
+   "price": null,
+   "rating": 4,
+   "ratings": 385,
+   "isFrido": true
+  },
+  {
+   "pos": 10,
+   "title": "Frido Foam Orthopaedic Pillow Pack of 1 Solid High Density Foam Support Cushion",
+   "price": null,
+   "rating": 4.4,
+   "ratings": 31,
+   "isFrido": true
+  },
+  {
+   "pos": 11,
+   "title": "Backfit Memory Foam Cushion Pack of 1 Solid",
+   "price": null,
+   "rating": 0,
+   "ratings": 0,
+   "isFrido": false
+  },
+  {
+   "pos": 12,
+   "title": "FOVERA Foam Cushion Pack of 1 Solid Height Adjustable Lap Desk Pillow for Working, Reading, Gaming, High Resilience",
+   "price": null,
+   "rating": 4.8,
+   "ratings": 16,
+   "isFrido": false
+  },
+  {
+   "pos": 13,
+   "title": "Frido Memory Foam Orthopaedic Pillow Pack of 1 Solid Ultimate Deep Sleep Pillow for Neck & Shoulder Pain Relief, King Size 5 Inch",
+   "price": null,
+   "rating": 4.1,
+   "ratings": 805,
+   "isFrido": true
+  }
+ ],
+ "notes": []
+}

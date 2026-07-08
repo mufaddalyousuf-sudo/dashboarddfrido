@@ -1,0 +1,125 @@
+{
+ "category": "cushions-ultimate-tailbone-pain-relief-seat-cushion",
+ "marketplace": "flipkart",
+ "keyword": "Frido Ultimate Tailbone Pain Relief Seat Cushion",
+ "capturedAt": "2026-07-08",
+ "method": "Live scrape flipkart.com mobile search page 1 (__INITIAL_STATE__), query = exact SKU name",
+ "confidence": "Medium-High (live; sponsored flags not exposed on mobile)",
+ "fridoRank": 6,
+ "fridoPresent": true,
+ "results": [
+  {
+   "pos": 1,
+   "title": "TENACT Posture Corrector Belt for men & women Back Support & Posture Corrector",
+   "price": null,
+   "rating": 3.8,
+   "ratings": 3650,
+   "isFrido": false
+  },
+  {
+   "pos": 2,
+   "title": "TENACT Posture Corrector Belt Pro for Men & Women Adjustable Back & Quality Fabric Posture Corrector",
+   "price": null,
+   "rating": 3.8,
+   "ratings": 3650,
+   "isFrido": false
+  },
+  {
+   "pos": 3,
+   "title": "TENACT Posture Corrector Belt Pro for Men & Women Straight Back Support Posture Corrector",
+   "price": null,
+   "rating": 3.8,
+   "ratings": 8159,
+   "isFrido": false
+  },
+  {
+   "pos": 4,
+   "title": "TENACT Posture Corrector Belt for Men & Women for Straight Backbone Back Support Belt Posture Corrector",
+   "price": null,
+   "rating": 3.7,
+   "ratings": 80,
+   "isFrido": false
+  },
+  {
+   "pos": 5,
+   "title": "TENACT Premium Belt for Men & Women Pain Relief Posture Corrector",
+   "price": null,
+   "rating": 3.6,
+   "ratings": 1774,
+   "isFrido": false
+  },
+  {
+   "pos": 6,
+   "title": "Frido Ultimate Pro Seat Cushion & Posture Corrector Backrest Combo Back / Lumbar Support",
+   "price": null,
+   "rating": 4,
+   "ratings": 385,
+   "isFrido": true
+  },
+  {
+   "pos": 7,
+   "title": "AGEasy Orthopedic Coccyx Seat Cushion -Tailbone & Sciatica Pain Relief with Memory Foam Back / Lumbar Support",
+   "price": null,
+   "rating": 4,
+   "ratings": 494,
+   "isFrido": false
+  },
+  {
+   "pos": 8,
+   "title": "Frido Ultimate Pro Posture Corrector Back Cushion for Lumbar Support & Pain Relief Posture Corrector",
+   "price": null,
+   "rating": 3.9,
+   "ratings": 27,
+   "isFrido": true
+  },
+  {
+   "pos": 9,
+   "title": "Leeford Coccyx Seat Cushion for Tailbone, Sciatica, Lower Back Support & Hip Pain Relief Back / Lumbar Support",
+   "price": null,
+   "rating": 4.3,
+   "ratings": 38,
+   "isFrido": false
+  },
+  {
+   "pos": 10,
+   "title": "Tender Care Ring Donut Cushion Pillow for Piles Coccyx Sciatica Tailbone Back Pain Relief Back / Lumbar Support",
+   "price": null,
+   "rating": 4.1,
+   "ratings": 3829,
+   "isFrido": false
+  },
+  {
+   "pos": 11,
+   "title": "betterhood PosturePro Coccyx Seat Cushion for Chair, 100% Memory Foam, Ergonomic Orthopedic Back / Lumbar Support",
+   "price": null,
+   "rating": 4.1,
+   "ratings": 46,
+   "isFrido": false
+  },
+  {
+   "pos": 12,
+   "title": "Billebon Orthopedic Coccyx Seat Cushion Memory Foam Sciatica Relief Hip Support� Back / Lumbar Support",
+   "price": null,
+   "rating": 4.2,
+   "ratings": 11,
+   "isFrido": false
+  },
+  {
+   "pos": 13,
+   "title": "DEBIK Coccyx, Tailbone, Sciatica, Lower Back Support and Pain Relief Seat Cushion Back / Lumbar Support",
+   "price": null,
+   "rating": 4,
+   "ratings": 4780,
+   "isFrido": false
+  },
+  {
+   "pos": 14,
+   "title": "FOVERA Backrest Cushion Pillow for Chair & Car, Orthopedic Memory Foam Back / Lumbar Support",
+   "price": null,
+   "rating": 4.4,
+   "ratings": 102,
+   "isFrido": false
+  }
+ ],
+ "notes": []
+}

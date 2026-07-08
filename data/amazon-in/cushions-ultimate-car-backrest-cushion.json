@@ -1,0 +1,197 @@
+{
+ "category": "cushions-ultimate-car-backrest-cushion",
+ "marketplace": "amazon-in",
+ "keyword": "Frido Ultimate Car Backrest Cushion",
+ "capturedAt": "2026-07-08",
+ "method": "Live scrape amazon.in search page 1, query = exact SKU name (brand-qualified)",
+ "confidence": "High (live snapshot, single keyword)",
+ "fridoOrganicRank": 6,
+ "fridoSponsoredSlot": 5,
+ "organic": [
+  {
+   "asin": "B0D2H84KYS",
+   "badge": "Amazon's Choice",
+   "price": "1,494",
+   "rating": "4.2",
+   "reviews": "662",
+   "title": "Foam Car Backrest Cushion for Lumbar Support & Back Pain Relief While Driving | Orthopedic Car Seat Cushion for Comfortable Long Rides | Complete Spine Alignmen",
+   "rank": 1
+  },
+  {
+   "asin": "B0G1M89DX9",
+   "badge": "Bestseller",
+   "price": "614",
+   "rating": "4.1",
+   "reviews": "1,750",
+   "title": "Memory Foam Car Seat Back Support, Orthopedic Lumbar Back Rest for Back Pain Relief, Back Support Pillow for Office ChairCar Support Pillow,-Seat Cushion",
+   "rank": 2
+  },
+  {
+   "asin": "B0FCD26QGM",
+   "badge": null,
+   "price": "549",
+   "rating": "4.0",
+   "reviews": "25",
+   "title": "Car Backrest Memory Foam Lumbar Support Cushion for Car Seat | Orthopedic Lower Back Support Pillow | Ergonomic Back Cushion for Driving, Office Chair & Home | ",
+   "rank": 3
+  },
+  {
+   "asin": "B0GV4BW559",
+   "badge": null,
+   "price": "198",
+   "rating": "5.0",
+   "reviews": "1",
+   "title": "Car Back Rest with Lumbar Support Mesh Cushion Pad,Universal Back Lumbar Support for Chair Back Rest Cushions Ergonomic Seat Lumber Back Correction for Comforta",
+   "rank": 4
+  },
+  {
+   "asin": "B0CH33D6GN",
+   "badge": "Bestseller",
+   "price": "1,290",
+   "rating": "4.1",
+   "reviews": "1,685",
+   "title": "Back Support for Office Chair | 2 Years Warranty | Gel Memory Foam Car Seat Back Support, Orthopedic Lumbar Back Rest for Back Pain Relief - Back Pillow for Sit",
+   "rank": 5
+  },
+  {
+   "asin": "B0GVPQLYYY",
+   "badge": "Bestseller",
+   "price": "3,999",
+   "rating": "4.2",
+   "reviews": "11",
+   "title": "Premium Car Comfort Bundle with Memory Foam Neck Rest, Lumbar Backrest and Wedge Seat Cushion Set of 3, Ergonomic Neck Back and Tailbone Support for Long Drives",
+   "rank": 6,
+   "isFridoBrand": true
+  },
+  {
+   "asin": "B0F6V6G3MQ",
+   "badge": null,
+   "price": "1,994",
+   "rating": "4.2",
+   "reviews": "275",
+   "title": "Cloud Backrest Cushion | High-Density Memory Foam | Premium Lumbar Support for Chairs | Durable Back Pillow for Office Chair & Home Use | Breathable & Machine-W",
+   "rank": 7
+  },
+  {
+   "asin": "B0GVPTTSNV",
+   "badge": "Bestseller",
+   "price": "1,999",
+   "rating": "5.0",
+   "reviews": "9",
+   "title": "Premium Car Back Rest Cushion with Lumbar Support Pillow for Driving, Hi-Per Memory Foam Back Support and Luxe Leatherette Cover, Relieves Back Pain and Improve",
+   "rank": 8
+  },
+  {
+   "asin": "B0FL21C8JJ",
+   "badge": null,
+   "price": "999",
+   "rating": "4.0",
+   "reviews": "168",
+   "title": "Lumbar Support Pillow for Office Chair & Car Seat – Orthopedic Memory Foam Back Cushion for Posture & Back Pain Relief | Ergonomic Backrest for Long Sitting (Gr",
+   "rank": 9
+  },
+  {
+   "asin": "B07LF68SJK",
+   "badge": null,
+   "price": "1,149",
+   "rating": "4.2",
+   "reviews": "2,786",
+   "title": "Car Seat Back Support | 2 Years Warranty | Memory Foam Backrest Lumbar Support Cushion for Comfortable Long Drive & Daily Commute, Suitable for All Cars Seats (",
+   "rank": 10
+  }
+ ],
+ "sponsored": [
+  {
+   "asin": "B0CJ8VYBQP",
+   "badge": null,
+   "price": "2,559",
+   "rating": "4.0",
+   "reviews": "3,077",
+   "title": "Ultimate Pro Seat Cushion & Posture Corrector Backrest Cushion Combo | Relieves Back | Coccyx Pain | Hi-Per Foam Tech for Orthopedic Support | for Long Sitting ",
+   "slot": 1
+  },
+  {
+   "asin": "B0DXFQL46P",
+   "badge": "Bestseller",
+   "price": "3,299",
+   "rating": "4.1",
+   "reviews": "889",
+   "title": "Ultimate Car Comfort Combo | Neck Rest, Backrest & Wedge Seat Cushion Combo of 3 | Ergonomic Neck, Back & Seating Support | Driving & Daily Commutes | Posture C",
+   "slot": 2
+  },
+  {
+   "asin": "B0FBSC1N9B",
+   "badge": null,
+   "price": "3,289",
+   "rating": "4.1",
+   "reviews": "279",
+   "title": "PosturePro Premium Car Seat Cushions Combo (Black)| Lumbar Support, Neck Rest, Seat Cushion for Driving Seat | Memory Foam, Cotton Cover | Ergonomic Car Cushion",
+   "slot": 3
+  },
+  {
+   "asin": "B0DMKDY515",
+   "badge": null,
+   "price": "1,619",
+   "rating": "4.1",
+   "reviews": "1,120",
+   "title": "Travel Neck Pillow, 100% Hi-Per Foam, Lightweight Neck Support Pillow, Neck Pillow for Flight Travel, Memory Foam Car Neck Pillow, Adjustable Velcro Straps, Fre",
+   "slot": 4
+  },
+  {
+   "asin": "B0G7Y4X9WD",
+   "badge": null,
+   "price": "699",
+   "rating": "4.0",
+   "reviews": "72",
+   "title": "Back Support Cushion for Office Chair & Car | Ergonomic Memory Foam Design for Better Posture, Reduced Fatigue, and Comfortable Sitting During Work or Travel",
+   "slot": 5,
+   "isFridoBrand": true
+  },
+  {
+   "asin": "B0GXPQBMS7",
+   "badge": null,
+   "price": "1,148",
+   "rating": "5.0",
+   "reviews": "1",
+   "title": "Backrest Car Seat Cushion - Memory Foam, Lumbar Support for Car, Orthopedic Back Support Cushion for Comfortable Long Drives & Daily Use with Adjustable Strap &",
+   "slot": 6
+  },
+  {
+   "asin": "B0FNDDRC9V",
+   "badge": null,
+   "price": "849",
+   "rating": "5.0",
+   "reviews": "1",
+   "title": "Back Rest Cushion & Lumbar Support Pillow for Office Chair & Car | Orthopedic Ergonomic Car Back Support | Transform Posture & Relieve Back Pain",
+   "slot": 7
+  },
+  {
+   "asin": "B0DHP1VR75",
+   "badge": "Bestseller",
+   "price": "2,390",
+   "rating": "4.0",
+   "reviews": "7,672",
+   "title": "Back Support for Chair & Coccyx Seat Cushion for Tailbone - Orthopedic Cool Gel Memory Foam Sitting Cushion Combo - Relieves Back, Sciatica & Hip Pain - for Off",
+   "slot": 8
+  },
+  {
+   "asin": "B0G5P6PW6Q",
+   "badge": null,
+   "price": "999",
+   "rating": null,
+   "reviews": null,
+   "title": "Cruise Comfort Car Seat Cushion for Tailbone Pain| Ergonomic Cushion for Comfortable Rides| 100% Memory Foam| 2 Year Warranty [Gray, Seat Cushion, Pack of 1]",
+   "slot": 9
+  },
+  {
+   "asin": "B07LF68SJK",
+   "badge": null,
+   "price": "1,149",
+   "rating": "4.2",
+   "reviews": "2,786",
+   "title": "Car Seat Back Support | 2 Years Warranty | Memory Foam Backrest Lumbar Support Cushion for Comfortable Long Drive & Daily Commute, Suitable for All Cars Seats (",
+   "slot": 10
+  }
+ ],
+ "notes": []
+}

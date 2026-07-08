@@ -1,0 +1,117 @@
+{
+ "category": "cushions-ultimate-car-backrest-cushion",
+ "marketplace": "flipkart",
+ "keyword": "Frido Ultimate Car Backrest Cushion",
+ "capturedAt": "2026-07-08",
+ "method": "Live scrape flipkart.com mobile search page 1 (__INITIAL_STATE__), query = exact SKU name",
+ "confidence": "Medium-High (live; sponsored flags not exposed on mobile)",
+ "fridoRank": 6,
+ "fridoPresent": true,
+ "results": [
+  {
+   "pos": 1,
+   "title": "TENACT Posture Corrector Belt Pro Fix for Men & Women Straight Back pain Relief Posture Corrector",
+   "price": null,
+   "rating": 3.8,
+   "ratings": 8159,
+   "isFrido": false
+  },
+  {
+   "pos": 2,
+   "title": "TENACT Posture Corrector Belt for men & women Back Support & Posture Corrector",
+   "price": null,
+   "rating": 3.8,
+   "ratings": 3650,
+   "isFrido": false
+  },
+  {
+   "pos": 3,
+   "title": "TENACT Premium Belt for Men & Women Pain Relief Posture Corrector",
+   "price": null,
+   "rating": 3.6,
+   "ratings": 1774,
+   "isFrido": false
+  },
+  {
+   "pos": 4,
+   "title": "TENACT Posture Corrector Belt Pro for Men & Women Back Support Belt for Straight Back Back / Lumbar Support",
+   "price": null,
+   "rating": 3.9,
+   "ratings": 111,
+   "isFrido": false
+  },
+  {
+   "pos": 5,
+   "title": "TENACT Posture Corrector Belt for Women & Men Back Support Belt for Posture Corrector",
+   "price": null,
+   "rating": 3.9,
+   "ratings": 292,
+   "isFrido": false
+  },
+  {
+   "pos": 6,
+   "title": "Frido Black Memory Foam Car Pillow Cushion for Universal For Car",
+   "price": null,
+   "rating": 4.1,
+   "ratings": 523,
+   "isFrido": true
+  },
+  {
+   "pos": 7,
+   "title": "Frido Grey Memory Foam Car Pillow Cushion for Universal For Car",
+   "price": null,
+   "rating": 4.1,
+   "ratings": 523,
+   "isFrido": true
+  },
+  {
+   "pos": 8,
+   "title": "Frido Cloud Backrest & Seat Cushion | Grey | Memory Foam Support Pillow Back / Lumbar Support",
+   "price": null,
+   "rating": 4.4,
+   "ratings": 7,
+   "isFrido": true
+  },
+  {
+   "pos": 9,
+   "title": "Frido Cloud Backrest & Seat Cushion | Lilly Pad | Memory Foam Support Back / Lumbar Support",
+   "price": null,
+   "rating": 4.4,
+   "ratings": 7,
+   "isFrido": true
+  },
+  {
+   "pos": 10,
+   "title": "Frido Cloud Backrest & Seat Cushion | Pink | Memory Foam Support Pillow Back / Lumbar Support",
+   "price": null,
+   "rating": 4.4,
+   "ratings": 7,
+   "isFrido": true
+  },
+  {
+   "pos": 11,
+   "title": "Frido Cloud Backrest Memory Foam Cushion, Lumbar Support For Chairs & Home Use, Grey Back / Lumbar Support",
+   "price": null,
+   "rating": 4.5,
+   "ratings": 21,
+   "isFrido": true
+  },
+  {
+   "pos": 12,
+   "title": "Frido Cloud Backrest Memory Foam Cushion, Lumbar Support For Chairs & Home Use, Pink Back / Lumbar Support",
+   "price": null,
+   "rating": 4.5,
+   "ratings": 21,
+   "isFrido": true
+  },
+  {
+   "pos": 13,
+   "title": "Frido Cloud Backrest Memory Foam Cushion, Lumbar Support For Chairs & Home Use, Green Back / Lumbar Support",
+   "price": null,
+   "rating": 4.5,
+   "ratings": 21,
+   "isFrido": true
+  }
+ ],
+ "notes": []
+}

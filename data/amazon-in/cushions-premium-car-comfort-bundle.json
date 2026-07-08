@@ -1,0 +1,197 @@
+{
+ "category": "cushions-premium-car-comfort-bundle",
+ "marketplace": "amazon-in",
+ "keyword": "Frido Premium Car Comfort Bundle",
+ "capturedAt": "2026-07-08",
+ "method": "Live scrape amazon.in search page 1, query = exact SKU name (brand-qualified)",
+ "confidence": "High (live snapshot, single keyword)",
+ "fridoOrganicRank": 1,
+ "fridoSponsoredSlot": 5,
+ "organic": [
+  {
+   "asin": "B0GVPTLVCP",
+   "badge": "Amazon's Choice",
+   "price": "3,999",
+   "rating": "4.2",
+   "reviews": "11",
+   "title": "Premium Car Comfort Bundle with Memory Foam Neck Rest, Lumbar Backrest and Wedge Seat Cushion Set of 3, Ergonomic Neck Back and Tailbone Support for Long Drives",
+   "rank": 1,
+   "isFridoBrand": true
+  },
+  {
+   "asin": "B0GVPQLYYY",
+   "badge": "Bestseller",
+   "price": "3,999",
+   "rating": "4.2",
+   "reviews": "11",
+   "title": "Premium Car Comfort Bundle with Memory Foam Neck Rest, Lumbar Backrest and Wedge Seat Cushion Set of 3, Ergonomic Neck Back and Tailbone Support for Long Drives",
+   "rank": 2
+  },
+  {
+   "asin": "B0CJ8VYBQP",
+   "badge": null,
+   "price": "2,559",
+   "rating": "4.0",
+   "reviews": "3,077",
+   "title": "Ultimate Pro Seat Cushion & Posture Corrector Backrest Cushion Combo | Relieves Back | Coccyx Pain | Hi-Per Foam Tech for Orthopedic Support | for Long Sitting ",
+   "rank": 3
+  },
+  {
+   "asin": "B0FBX7JQW5",
+   "badge": null,
+   "price": "3,289",
+   "rating": "4.1",
+   "reviews": "279",
+   "title": "PosturePro Premium Car Seat Cushions Combo | Lumbar Support, Neck Rest, Seat Cushion for Driving Seat | Memory Foam, Cotton Cover | Ergonomic Car Cushions Pillo",
+   "rank": 4
+  },
+  {
+   "asin": "B0BQQKJGNP",
+   "badge": null,
+   "price": "1,049",
+   "rating": "4.1",
+   "reviews": "2,259",
+   "title": "Car Neck Rest Pillow | 2 Years Warranty | Memory Foam Neck Pillow for Car, Car Seat Head Rest Cushion for Neck & Cervical Support - Relieves Neck Pain (Large, B",
+   "rank": 5
+  },
+  {
+   "asin": "B0CR7FT1YB",
+   "badge": null,
+   "price": "2,051",
+   "rating": "4.2",
+   "reviews": "625",
+   "title": "Ultimate Car Neck Rest Pillow | Ultrasoft Pillow for Comfortable Car Rides | Superior Neck Support | Neck Pain Relief | Hi-Per Foam Head Rest Pillow with Washab",
+   "rank": 6
+  },
+  {
+   "asin": "B0DT17216V",
+   "badge": null,
+   "price": "2,689",
+   "rating": "4.1",
+   "reviews": "124",
+   "title": "PosturePro Premium Car Seat Cushion and Backrest Combo | 100% Memory Foam, Cotton Cover, Large Size | Lumbar Coccyx Pillow + Back Support for Back, Tailbone Pai",
+   "rank": 7
+  },
+  {
+   "asin": "B0FDWZLHT1",
+   "badge": null,
+   "price": "3,599",
+   "rating": "4.2",
+   "reviews": "61",
+   "title": "Cloud Backrest & Seat Cushion Combo | High-Density Memory Foam | Lumber, Tailbone & Thighs Support Pillow | Breathable & Machine-Washable Cover | for Office, Ca",
+   "rank": 8
+  },
+  {
+   "asin": "B0DMKCT2C5",
+   "badge": null,
+   "price": "1,694",
+   "rating": "4.1",
+   "reviews": "1,120",
+   "title": "Travel Neck Pillow, 100% Hi-Per Foam, Lightweight Neck Support Pillow, Neck Pillow for Flight Travel, Memory Foam, Adjustable Velcro Straps, Free Travel Pouch (",
+   "rank": 9
+  },
+  {
+   "asin": "B0CR7FQ2VT",
+   "badge": null,
+   "price": "3,839",
+   "rating": "4.2",
+   "reviews": "43",
+   "title": "Ultimate Car Neck Rest Pillow | Ultrasoft Pillow for Comfortable Rides | Superior Neck Support & Pain Relief | Hi-Per Foam Head Rest Pillow with Washable Velvet",
+   "rank": 10
+  }
+ ],
+ "sponsored": [
+  {
+   "asin": "B0DXFQL46P",
+   "badge": "Bestseller",
+   "price": "3,299",
+   "rating": "4.1",
+   "reviews": "889",
+   "title": "Ultimate Car Comfort Combo | Neck Rest, Backrest & Wedge Seat Cushion Combo of 3 | Ergonomic Neck, Back & Seating Support | Driving & Daily Commutes | Posture C",
+   "slot": 1
+  },
+  {
+   "asin": "B0CJ8VYBQP",
+   "badge": null,
+   "price": "2,559",
+   "rating": "4.0",
+   "reviews": "3,077",
+   "title": "Ultimate Pro Seat Cushion & Posture Corrector Backrest Cushion Combo | Relieves Back | Coccyx Pain | Hi-Per Foam Tech for Orthopedic Support | for Long Sitting ",
+   "slot": 2
+  },
+  {
+   "asin": "B0DMKDY515",
+   "badge": null,
+   "price": "1,619",
+   "rating": "4.1",
+   "reviews": "1,120",
+   "title": "Travel Neck Pillow, 100% Hi-Per Foam, Lightweight Neck Support Pillow, Neck Pillow for Flight Travel, Memory Foam Car Neck Pillow, Adjustable Velcro Straps, Fre",
+   "slot": 3
+  },
+  {
+   "asin": "B0FBSC1N9B",
+   "badge": null,
+   "price": "3,289",
+   "rating": "4.1",
+   "reviews": "279",
+   "title": "PosturePro Premium Car Seat Cushions Combo (Black)| Lumbar Support, Neck Rest, Seat Cushion for Driving Seat | Memory Foam, Cotton Cover | Ergonomic Car Cushion",
+   "slot": 4
+  },
+  {
+   "asin": "B0GVPXB393",
+   "badge": "Bestseller",
+   "price": "3,999",
+   "rating": "4.2",
+   "reviews": "11",
+   "title": "Premium Car Comfort Bundle with Memory Foam Neck Rest, Lumbar Backrest and Wedge Seat Cushion Set of 3, Ergonomic Neck Back and Tailbone Support for Long Drives",
+   "slot": 5,
+   "isFridoBrand": true
+  },
+  {
+   "asin": "B0GP6FLRFR",
+   "badge": null,
+   "price": "2,475",
+   "rating": "5.0",
+   "reviews": "1",
+   "title": "Memory Foam Car Comfort Combo | 3 Piece Cushions Set (Backrest, Seat Cushion, Headrest) | Complete Orthopedic Travel Kit for Road Trips & Daily Commute (Black)",
+   "slot": 6
+  },
+  {
+   "asin": "B081RQZ1FG",
+   "badge": null,
+   "price": "642",
+   "rating": "4.1",
+   "reviews": "3,435",
+   "title": "Neck Pillow for Travelling Memory Foam, Comfortable & Supportive, Pain Relief Sleeping Travel Neck Pillow, Airplane Pillow for Sleeping in Flight, Car, Office a",
+   "slot": 7
+  },
+  {
+   "asin": "B0DT17216V",
+   "badge": null,
+   "price": "2,689",
+   "rating": "4.1",
+   "reviews": "124",
+   "title": "PosturePro Premium Car Seat Cushion and Backrest Combo | 100% Memory Foam, Cotton Cover, Large Size | Lumbar Coccyx Pillow + Back Support for Back, Tailbone Pai",
+   "slot": 8
+  },
+  {
+   "asin": "B0CQ2DNJ8N",
+   "badge": null,
+   "price": "519",
+   "rating": "4.0",
+   "reviews": "372",
+   "title": "Memory Foam Car Neck Rest for Vehicle Seat | Ergonomic Cervical Support & Headrest Comfort for Driving & Long Travel | Soft Automotive Accessory - Black & Brown",
+   "slot": 9
+  },
+  {
+   "asin": "B0GM5FS196",
+   "badge": null,
+   "price": "1,299",
+   "rating": "3.2",
+   "reviews": "38",
+   "title": "Ergova S1 Core Support Seat Cushion & Backrest Combo, 100% Memory Foam, Prolonged Sitting Comfort, Pressure Relief, Reduced Muscle Fatigue, Suitable for Home Of",
+   "slot": 10
+  }
+ ],
+ "notes": []
+}

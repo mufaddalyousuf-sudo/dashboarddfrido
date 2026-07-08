@@ -1,0 +1,197 @@
+{
+ "category": "cushions-ultimate-wedge-cushion",
+ "marketplace": "amazon-in",
+ "keyword": "Frido Ultimate Wedge Cushion",
+ "capturedAt": "2026-07-08",
+ "method": "Live scrape amazon.in search page 1, query = exact SKU name (brand-qualified)",
+ "confidence": "High (live snapshot, single keyword)",
+ "fridoOrganicRank": 1,
+ "fridoSponsoredSlot": 1,
+ "organic": [
+  {
+   "asin": "B0FL23WNV2",
+   "badge": "Bestseller",
+   "price": "2,499",
+   "rating": "4.2",
+   "reviews": "3,012",
+   "title": "Frido Ultimate Wedge Plus Max Cushion | Extra-Large Back Support Pillow for Bed with Side Pockets | Wedge Pillow for Neck & Back Pain, Acid Reflux | Triangle Cu",
+   "rank": 1,
+   "isFridoBrand": true
+  },
+  {
+   "asin": "B0C5FD6BPD",
+   "badge": "Bestseller",
+   "price": "1,490",
+   "rating": "4.1",
+   "reviews": "3,206",
+   "title": "FOVERA Memory Foam Wedge Pillow | 2 Years Warranty | Bed Wedge Cushion, Orthopedic Back Support for Bed | for Acid Reflux, Snoring, GERD, Leg Elevation (Dark Gr",
+   "rank": 2
+  },
+  {
+   "asin": "B0DJ3FGR8S",
+   "badge": "Amazon's Choice",
+   "price": "1,499",
+   "rating": "4.1",
+   "reviews": "1,004",
+   "title": "Frido Ultimate Car Wedge Seat Cushion | Memory Foam Cushion with Coccyx Tailbone Cutout | Relieves Hip Pain & Tailbone Pain, Lower Back Pain | Weight <120 kg | ",
+   "rank": 3
+  },
+  {
+   "asin": "B0FDBFW7PM",
+   "badge": null,
+   "price": "1,893",
+   "rating": "4.6",
+   "reviews": "272",
+   "title": "Frido Leg Elevation Wedge Pillow for Edema, Varicose Veins, Fracture | High Resilience Foam Cushion for Leg, Knee & Thigh Support | Back Pain & Swelling Relief ",
+   "rank": 4
+  },
+  {
+   "asin": "B0GWRF2WQ2",
+   "badge": "Bestseller",
+   "price": "2,799",
+   "rating": "4.2",
+   "reviews": "3,012",
+   "title": "Frido Wedge Plus Cushion with Cooling Cover for Sleeping, Sitting & Acid Reflux Relief | High Resillience Foam | Orthopedic Wedge Cushion for Leg Elevator | Pre",
+   "rank": 5
+  },
+  {
+   "asin": "B0CJ8VYBQP",
+   "badge": null,
+   "price": "2,559",
+   "rating": "4.0",
+   "reviews": "3,077",
+   "title": "Frido Ultimate Pro Seat Cushion & Posture Corrector Backrest Cushion Combo | Relieves Back | Coccyx Pain | Hi-Per Foam Tech for Orthopedic Support | for Long Si",
+   "rank": 6
+  },
+  {
+   "asin": "B0FL1XPBYZ",
+   "badge": null,
+   "price": "1,199",
+   "rating": "4.2",
+   "reviews": "71",
+   "title": "ComfyHug Wedge Cushion for Sleeping & Back Support – Bed Wedge Pillow for Acid Reflux, GERD, Snoring & Post-Surgery Relief | High-Density Foam, Washable Cover (",
+   "rank": 7
+  },
+  {
+   "asin": "B0BRL263VB",
+   "badge": null,
+   "price": "2,999",
+   "rating": "4.1",
+   "reviews": "1,009",
+   "title": "FOVERA Wedge Pillow Memory Foam with Head Rest, Adjustable Wedge Cushion for Back Support, Acid Reflux, Leg Elevator, Pregnancy, GERD, Snoring (Dark Grey, 22 x ",
+   "rank": 8
+  },
+  {
+   "asin": "B0FYXFRM9J",
+   "badge": null,
+   "price": "1,199",
+   "rating": "4.2",
+   "reviews": "39",
+   "title": "CareFoam Orthopedic Wedge Pillow for Sleeping, Reading & Acid Reflux Relief | Premium Memory Foam Bed Cushion | Ideal for Back Support, Leg Elevation | 18 x 18 ",
+   "rank": 9
+  },
+  {
+   "asin": "B0FP98B58G",
+   "badge": null,
+   "price": "1,299",
+   "rating": "4.5",
+   "reviews": "23",
+   "title": "WELLGIVER Wedge Plus Cushion for Sleeping & Acid Reflux Relief | Memory Foam Pillow | Orthopedic Wedge Cushion for Leg Elevator | Pregnancy | GERD | White & Bla",
+   "rank": 10
+  }
+ ],
+ "sponsored": [
+  {
+   "asin": "B0D3XX9TJZ",
+   "badge": null,
+   "price": "1,799",
+   "rating": "4.2",
+   "reviews": "3,012",
+   "title": "Frido Wedge Plus Cushion for Sleeping, Sitting & Acid Reflux Relief | Memory Foam Pillow | High Resillience Foam | Orthopedic Wedge Cushion for Leg Elevator | P",
+   "slot": 1,
+   "isFridoBrand": true
+  },
+  {
+   "asin": "B0FDBFW7PM",
+   "badge": null,
+   "price": "1,893",
+   "rating": "4.6",
+   "reviews": "272",
+   "title": "Frido Leg Elevation Wedge Pillow for Edema, Varicose Veins, Fracture | High Resilience Foam Cushion for Leg, Knee & Thigh Support | Back Pain & Swelling Relief ",
+   "slot": 2
+  },
+  {
+   "asin": "B0DXFQL46P",
+   "badge": "Bestseller",
+   "price": "3,299",
+   "rating": "4.1",
+   "reviews": "889",
+   "title": "Frido Ultimate Car Comfort Combo | Neck Rest, Backrest & Wedge Seat Cushion Combo of 3 | Ergonomic Neck, Back & Seating Support | Driving & Daily Commutes | Pos",
+   "slot": 3
+  },
+  {
+   "asin": "B0CJ8VYBQP",
+   "badge": null,
+   "price": "2,559",
+   "rating": "4.0",
+   "reviews": "3,077",
+   "title": "Frido Ultimate Pro Seat Cushion & Posture Corrector Backrest Cushion Combo | Relieves Back | Coccyx Pain | Hi-Per Foam Tech for Orthopedic Support | for Long Si",
+   "slot": 4
+  },
+  {
+   "asin": "B0D4ZFJFD5",
+   "badge": "Bestseller",
+   "price": "1,199",
+   "rating": "4.3",
+   "reviews": "646",
+   "title": "CareFoam Memory Foam Wedge Pillow for Neck & Back Pain Relief (Wedge Pillow, Greyone Size)",
+   "slot": 5
+  },
+  {
+   "asin": "B0FPQYMS52",
+   "badge": null,
+   "price": "1,699",
+   "rating": "3.8",
+   "reviews": "32",
+   "title": "CareFoam Wedge Pillow with Detachable Headrest | Orthopedic Memory Foam Bed Cushion for Acid Reflux, GERD, Snoring, Back Pain, Pregnancy & Post-Surgery |Adjusta",
+   "slot": 6
+  },
+  {
+   "asin": "B0FPQSXRFL",
+   "badge": null,
+   "price": "1,699",
+   "rating": "3.9",
+   "reviews": "11",
+   "title": "Carefoam Wedge Pillow with Detachable Headrest | Orthopedic Memory Foam Bed Cushion for Acid Reflux, GERD, Snoring, Back Pain, Pregnancy & Post-Surgery |Adjusta",
+   "slot": 7
+  },
+  {
+   "asin": "B0FPQZ3XGC",
+   "badge": null,
+   "price": "1,699",
+   "rating": "3.2",
+   "reviews": "17",
+   "title": "Carefoam Wedge Pillow with Detachable Headrest | Orthopedic Memory Foam Bed Cushion for Acid Reflux, GERD, Snoring, Back Pain, Pregnancy & Post-Surgery |Adjusta",
+   "slot": 8
+  },
+  {
+   "asin": "B0FPQX27P8",
+   "badge": null,
+   "price": "1,699",
+   "rating": "4.6",
+   "reviews": "6",
+   "title": "CareFoam Wedge Pillow with Detachable Headrest | Orthopedic Memory Foam Bed Cushion for Acid Reflux, GERD, Snoring, Back Pain, Pregnancy & Post-Surgery |Adjusta",
+   "slot": 9
+  },
+  {
+   "asin": "B0DWK94V14",
+   "badge": null,
+   "price": "3,299",
+   "rating": "3.9",
+   "reviews": "11",
+   "title": "CareFoam Memory Foam Wedge Pillow for Neck & Back Pain Relief (Grey Jacquard, Adjustable Wedge Pillow with Headrest)",
+   "slot": 10
+  }
+ ],
+ "notes": []
+}

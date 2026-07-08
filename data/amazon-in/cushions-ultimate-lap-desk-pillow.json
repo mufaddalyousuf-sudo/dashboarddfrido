@@ -1,0 +1,179 @@
+{
+ "category": "cushions-ultimate-lap-desk-pillow",
+ "marketplace": "amazon-in",
+ "keyword": "Frido Ultimate Lap Desk Pillow",
+ "capturedAt": "2026-07-08",
+ "method": "Live scrape amazon.in search page 1, query = exact SKU name (brand-qualified)",
+ "confidence": "High (live snapshot, single keyword)",
+ "fridoOrganicRank": 1,
+ "fridoSponsoredSlot": 2,
+ "organic": [
+  {
+   "asin": "B0DNZG2W4T",
+   "badge": null,
+   "price": "3,139",
+   "rating": "3.8",
+   "reviews": "497",
+   "title": "Foam Lap Desk Pillow,Portable Computer Table & Laptop Lap Desk for Sofa,Bed,Floor,Ergonomic Gaming Desk Table with Arm Rest,Work Desk Accessories for Reading,Ga",
+   "rank": 1,
+   "isFridoBrand": true
+  },
+  {
+   "asin": "B0DRC6HQN3",
+   "badge": "Bestseller",
+   "price": "3,374",
+   "rating": "4.1",
+   "reviews": "3,206",
+   "title": "Lap Desk Pillow | Height Adjustable, Soft & Comfortable Armrest, Easy to Store | for Working on Laptop, Reading & Gaming | Work from Home Pillow | Perfect for U",
+   "rank": 2
+  },
+  {
+   "asin": "B0GFLT7SVK",
+   "badge": null,
+   "price": "2,519",
+   "rating": "5.0",
+   "reviews": "2",
+   "title": "Gaming Lap Pillow | Lap Desk with Armrest Design | Side Pocket | Washable Velvet Cover | for Bed, Sofa & Floor | Blue",
+   "rank": 3
+  },
+  {
+   "asin": "B0FD8JG399",
+   "badge": null,
+   "price": "3,058",
+   "rating": "4.4",
+   "reviews": "31",
+   "title": "Lap Desk Pillow – Adjustable Laptop Cushion for Bed, Sofa & Floor | Soft Armrest Support, Foldable Work-from-Home Reading & Gaming Pillow – Grey",
+   "rank": 4
+  },
+  {
+   "asin": "B0FPXFTVXK",
+   "badge": null,
+   "price": "2,603",
+   "rating": "4.0",
+   "reviews": "548",
+   "title": "Lap Desk Pillow | Portable Computer Table & Laptop Lap Desk for Sofa, Bed, Floor | Ergonomic Gaming Desk with Arm Rest | Work Desk Accessories for Reading, Gami",
+   "rank": 5
+  },
+  {
+   "asin": "B0F43Z4FPF",
+   "badge": null,
+   "price": "2,529",
+   "rating": "3.6",
+   "reviews": "11",
+   "title": "Lap Desk Pillow with Adjustable Height & Soft Armrest | Laptop Support for Work from Home, Reading & Gaming | Comfortable Use on Bed, Sofa & Floor | Grey",
+   "rank": 6
+  },
+  {
+   "asin": "B0F5MNCSKK",
+   "badge": null,
+   "price": "1,299",
+   "rating": "3.9",
+   "reviews": "41",
+   "title": "Lap Desk Cushion | Fits up to 17” Laptop | High-Density Foam Cushion, Mouse-Friendly Flux Leather Top Surface, Soft Wrist Support, Side Storage Pockets, Removab",
+   "rank": 7
+  },
+  {
+   "asin": "B0DXQ82MJX",
+   "badge": null,
+   "price": "1,828",
+   "rating": "3.4",
+   "reviews": "103",
+   "title": "Lap Desk Pillow | Portable Computer Table & Laptop Lap Desk for Sofa, Bed, | Ergonomic Gaming Desk Table with Arm Rest | Work Desk Accessories for Reading, |Pur",
+   "rank": 8
+  },
+  {
+   "asin": "B0D3XX9TJZ",
+   "badge": null,
+   "price": "1,799",
+   "rating": "4.2",
+   "reviews": "3,012",
+   "title": "Wedge Plus Cushion for Sleeping, Sitting & Acid Reflux Relief | Memory Foam Pillow | High Resillience Foam | Orthopedic Wedge Cushion for Leg Elevator | Pregnan",
+   "rank": 9
+  },
+  {
+   "asin": "B0FD8J78D9",
+   "badge": null,
+   "price": "3,085",
+   "rating": "4.4",
+   "reviews": "31",
+   "title": "Adjustable Lap Desk Pillow for Laptop, Reading & Gaming – Soft Armrest Cushion for Bed, Sofa & Floor, Comfortable & Foldable Work from Home Pillow - Navy Blue",
+   "rank": 10
+  }
+ ],
+ "sponsored": [
+  {
+   "asin": "B0DSZPG9LX",
+   "badge": null,
+   "price": "3,058",
+   "rating": "3.8",
+   "reviews": "497",
+   "title": "Lap Desk Pillow | Portable Computer Table & Laptop Lap Desk for Sofa, Bed, Floor | Ergonomic Gaming Desk Table with Arm Rest | Work Desk Accessories for Reading",
+   "slot": 1
+  },
+  {
+   "asin": "B0CJ5CWXQ5",
+   "badge": null,
+   "price": "1,809",
+   "rating": "4.0",
+   "reviews": "3,077",
+   "title": "Ultimate Pro Back Support (High Density) for Chair | Orthopedic Backrest Cushion for Lumbar&Posture Support | Relief Back Pain | Proprietary Hi-Per Foam Pillow ",
+   "slot": 2,
+   "isFridoBrand": true
+  },
+  {
+   "asin": "B0166DXHZO",
+   "badge": null,
+   "price": "2,280",
+   "rating": "4.1",
+   "reviews": "24",
+   "title": "Lavender Suede Fabric Pillow with Micro Fiber Filling Pillow, Perfect for Side Sleepers, Back and Stomach Sleepers (45 x 68 cm, White, Pack of 1)",
+   "slot": 3
+  },
+  {
+   "asin": "B0FS48S3YP",
+   "badge": null,
+   "price": "5,899",
+   "rating": "4.2",
+   "reviews": "23",
+   "title": "Lap Desk & Wedge Combo for Laptops, Study and Reading | Memory Foam Adjustable Wedge with Headrest for Back Support & Lap Desk Pillow-Gaming & Reading Pillow (B",
+   "slot": 4
+  },
+  {
+   "asin": "B0FP2MRNYY",
+   "badge": null,
+   "price": "399",
+   "rating": "3.7",
+   "reviews": "233",
+   "title": "Dream Nest Microfiber Plain White Pillows Set 2 | 16\" x 24\" Inches | Super Soft, Breathable & Adjustable Bed Pillows for Sleeping | 90 GSM – White Pillow Set of",
+   "slot": 5
+  },
+  {
+   "asin": "B0GT5YJXQ3",
+   "badge": null,
+   "price": "2,999",
+   "rating": null,
+   "reviews": null,
+   "title": "Foam Lapdesk Pillow for Laptop, Ergonomic Laptop Table Pillow for Bed, Sofa & Floor, Adjustable Height & Side Pocket, Portable Lap Desk for Work from Home, Stud",
+   "slot": 6
+  },
+  {
+   "asin": "B0GSW4S8JV",
+   "badge": null,
+   "price": "2,799",
+   "rating": null,
+   "reviews": null,
+   "title": "Memory Foam Lapdesk for Laptop, Ergonomic Laptop Table Pillow for Bed, Wrist Support & Side Pocket, Portable Lap Desk for Work from Home, Study & Travel - Dark ",
+   "slot": 7
+  },
+  {
+   "asin": "B0DRC7N6S2",
+   "badge": null,
+   "price": "2,999",
+   "rating": "4.0",
+   "reviews": "145",
+   "title": "Reading Pillow with Arm Support & Headrest | Backrest Wedge Pillow for Bed | High-Resilience Foam Bed Back Support Pillow for Reading, Working & Relaxing | Remo",
+   "slot": 8
+  }
+ ],
+ "notes": []
+}
