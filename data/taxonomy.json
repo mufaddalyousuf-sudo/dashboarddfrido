@@ -667,20 +667,30 @@
    "name": "Workspace",
    "icon": "🖥️",
    "priority": "P2",
-   "forcedStatus": "not-listed",
    "datasets": [
     {
-     "id": "footrest",
-     "keyword": "foot rest under desk",
+     "id": "workspace-ergoluxe-monitor-arm-single",
+     "keyword": "Frido ErgoLuxe Monitor Arm - Single",
      "primary": true
     },
     {
-     "id": "footrest-frido-check",
-     "keyword": "frido footrest",
-     "brandQualified": true
+     "id": "workspace-ergoluxe-monitor-arm-dual",
+     "keyword": "Frido Ergoluxe Monitor Arm - Dual"
+    },
+    {
+     "id": "workspace-ergoluxe-electric-standing-desk",
+     "keyword": "Frido Ergoluxe Electric Standing Desk"
+    },
+    {
+     "id": "workspace-portable-standing-desk",
+     "keyword": "Frido Portable Standing Desk"
+    },
+    {
+     "id": "workspace-standing-desk-converter",
+     "keyword": "Frido Standing Desk Converter"
     }
    ],
-   "correctionNote": "Verified with a brand-qualified search: Frido has no dedicated under-desk footrest SKU. Closest match is a Leg Elevation Wedge Pillow (a different product) — a genuine catalog gap, not a research miss."
+   "skuSource": "frido-product-catalog.json (full base-SKU research, 2026-07-08)"
   },
   {
    "id": "mobility-devices",

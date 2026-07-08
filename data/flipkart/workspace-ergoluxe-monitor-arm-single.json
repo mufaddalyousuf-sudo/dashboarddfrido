@@ -1,0 +1,117 @@
+{
+ "category": "workspace-ergoluxe-monitor-arm-single",
+ "marketplace": "flipkart",
+ "keyword": "Frido ErgoLuxe Monitor Arm - Single",
+ "capturedAt": "2026-07-08",
+ "method": "Live scrape flipkart.com mobile search page 1 (__INITIAL_STATE__), query = exact SKU name",
+ "confidence": "Medium-High (live; sponsored flags not exposed on mobile)",
+ "fridoRank": null,
+ "fridoPresent": false,
+ "results": [
+  {
+   "pos": 1,
+   "title": "FEXMY Heel Pain Relief Cracked Repair Foot Care Heel Pad and Heel Socks Combo Heel Support",
+   "price": null,
+   "rating": 3.8,
+   "ratings": 450,
+   "isFrido": false
+  },
+  {
+   "pos": 2,
+   "title": "FEXMY Shoe Bite Protector Heel Grips, Liner Cushions & Inserts for Loose Shoes Support Heel Support",
+   "price": null,
+   "rating": 3.8,
+   "ratings": 1480,
+   "isFrido": false
+  },
+  {
+   "pos": 3,
+   "title": "FEXMY Heel Grips Liner Cushions Inserts for Loose Shoes Insoles for Men Heel Support",
+   "price": null,
+   "rating": 3.8,
+   "ratings": 1480,
+   "isFrido": false
+  },
+  {
+   "pos": 4,
+   "title": "TECHNOWISE North Bayou Gas-Strut NB F120 Wall Mount Monitor Arm",
+   "price": null,
+   "rating": 0,
+   "ratings": 0,
+   "isFrido": false
+  },
+  {
+   "pos": 5,
+   "title": "MSI 63.5 cm (25 inch) Full HD IPS Panel Monitor (MP251 E2)",
+   "price": null,
+   "rating": 5,
+   "ratings": 5,
+   "isFrido": false
+  },
+  {
+   "pos": 6,
+   "title": "NB North Bayou F120 Gas-Strut Monitor Arm for 17” to 27”, Load 3-7kg, Sing Extension Wall Mount Monitor Arm",
+   "price": null,
+   "rating": 0,
+   "ratings": 0,
+   "isFrido": false
+  },
+  {
+   "pos": 7,
+   "title": "maxicom MONITOR ARM XY_003 Wall Mount Monitor Arm",
+   "price": null,
+   "rating": 4.8,
+   "ratings": 4,
+   "isFrido": false
+  },
+  {
+   "pos": 8,
+   "title": "Frontech - 46.99 cm (19 inch) HD LED Backlit VA Panel Monitor (MON-0061)",
+   "price": null,
+   "rating": 3.8,
+   "ratings": 1551,
+   "isFrido": false
+  },
+  {
+   "pos": 9,
+   "title": "Frontech - 50.8 cm (20 inch) HD LED Backlit VA Panel Monitor (MON-0074)",
+   "price": null,
+   "rating": 4,
+   "ratings": 5911,
+   "isFrido": false
+  },
+  {
+   "pos": 10,
+   "title": "NB North Bayou F150 Gas-Strut Monitor Arm for 17” to 35”, Load 3-12kg, Double Extension Wall Mount Monitor Arm",
+   "price": null,
+   "rating": 0,
+   "ratings": 0,
+   "isFrido": false
+  },
+  {
+   "pos": 11,
+   "title": "GITRU Height Adjustable Monitor Stand with Laptop stand Monitor Mount for 13-27 Screen Desk Mount Monitor Arm",
+   "price": null,
+   "rating": 4.2,
+   "ratings": 40,
+   "isFrido": false
+  },
+  {
+   "pos": 12,
+   "title": "Frontech Ultima Series DUAL PORTS HDMI & VGA 60.96 cm (24 inch) Curved Full HD LED Backlit VA Panel Monitor (MON-0080)",
+   "price": null,
+   "rating": 4.2,
+   "ratings": 1443,
+   "isFrido": false
+  },
+  {
+   "pos": 13,
+   "title": "MSI 62.23 cm (25 inch) Full HD IPS Panel Monitor (PRO MP251 E14L)",
+   "price": null,
+   "rating": 0,
+   "ratings": 0,
+   "isFrido": false
+  }
+ ],
+ "notes": []
+}

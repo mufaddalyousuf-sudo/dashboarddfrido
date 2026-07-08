@@ -1,0 +1,159 @@
+{
+ "category": "workspace-ergoluxe-monitor-arm-dual",
+ "marketplace": "amazon-in",
+ "keyword": "Frido Ergoluxe Monitor Arm - Dual",
+ "capturedAt": "2026-07-08",
+ "method": "Live scrape amazon.in search page 1, query = exact SKU name (brand-qualified)",
+ "confidence": "High (live snapshot, single keyword)",
+ "fridoOrganicRank": null,
+ "fridoSponsoredSlot": null,
+ "organic": [
+  {
+   "asin": "B076B3Q8JR",
+   "badge": null,
+   "price": "2,099",
+   "rating": "4.3",
+   "reviews": "8,777",
+   "title": "Dual Monitor Stand - Height-Adjustable Arm Mount, Steel (Self Installation)",
+   "rank": 1
+  },
+  {
+   "asin": "B0FGX1Q3YM",
+   "badge": null,
+   "price": "15,989",
+   "rating": "4.3",
+   "reviews": "47",
+   "title": "BDH01 Dual Ergo Monitor Arm -Heavy Duty Gas Spring|Supports Upto 35\" & 44lbs(20 Kg) Monitor Screens|Top C Clamp and Grommet Base|Height Adjustable|Reinforcement",
+   "rank": 2
+  },
+  {
+   "asin": "B0DNFW8896",
+   "badge": null,
+   "price": "3,500",
+   "rating": "4.5",
+   "reviews": "7",
+   "title": "Dual Monitor Stand Mount with Gas Spring Monitor with Adjustable - Ergonomic Design Weight Support 9 kg Stand (Normal)",
+   "rank": 3
+  },
+  {
+   "asin": "B0FPX9PJFS",
+   "badge": null,
+   "price": "2,399",
+   "rating": "2.8",
+   "reviews": "127",
+   "title": "Pro Series Ergonomic Single Monitor Arm with Gas Spring – Full Motion VESA Mount (13\"–32\"), 360° Rotation, Supports up to 8 kg | Adjustable Monitor Mount",
+   "rank": 4
+  },
+  {
+   "asin": "B0F1MDDMNW",
+   "badge": null,
+   "price": "9,249",
+   "rating": "4.4",
+   "reviews": "82",
+   "title": "BSH01 Ergo Monitor Arm -Heavy Duty Gas Spring|Supports Upto 45\" & 20Kg Monitor Screens|Desk Mount with Top C Clamp/Grommet Base|Height Adjustable|Reinforcement ",
+   "rank": 5
+  },
+  {
+   "asin": "B0DCVRKB5H",
+   "badge": null,
+   "price": "3,490",
+   "rating": "4.7",
+   "reviews": "579",
+   "title": "Silver Alloy Gas Spring Monitor Arm | Supports 13-32\" Screen | Height Adjustable Desk Mount| 10kg Weight Capacity,1 Year Warranty| Tilt, Rotation, Swivel Featur",
+   "rank": 6
+  },
+  {
+   "asin": "B0B69PF2QW",
+   "badge": null,
+   "price": "5,200",
+   "rating": "4.4",
+   "reviews": "104",
+   "title": "Monitor Stand With Laptop Tray Long Pole Stand - Mount 24 Inc To 32 Inc Monitor Adjustable Laptop Tray Arms Organize Your Work & Ergonomic Design Weight Support",
+   "rank": 7
+  },
+  {
+   "asin": "B0DXF2HC5C",
+   "badge": null,
+   "price": "2,999",
+   "rating": "4.1",
+   "reviews": "74",
+   "title": "Premium Gas Spring Adjustable Monitor Arm Stand - VESA Mount - Weight Capacity 2-9 kgs - for Most 13-32\" Screens - Clamp or Grommet Mount - 360 Degree Rotation ",
+   "rank": 8
+  },
+  {
+   "asin": "B0F7F6B2HL",
+   "badge": null,
+   "price": "2,699",
+   "rating": "4.7",
+   "reviews": "4",
+   "title": "North Bayou 17-30 Inches Monitor Gas Spring Desk Arm Stand F80 | 360 Degree Swivel & Tilt (Yellow F80-XD)",
+   "rank": 9
+  },
+  {
+   "asin": "B0FCFYNBN6",
+   "badge": null,
+   "price": "3,391",
+   "rating": "4.1",
+   "reviews": "74",
+   "title": "Premium Gas Spring Adjustable Monitor Arm Stand VESA Mount - Weight Capacity 2-9 kgs - Supports 13-32\" Screens - Height Adjustable Clamp & Grommet Mount - 360 D",
+   "rank": 10
+  }
+ ],
+ "sponsored": [
+  {
+   "asin": "B07YKZ7VTS",
+   "badge": null,
+   "price": "2,989",
+   "rating": "4.7",
+   "reviews": "580",
+   "title": "Single Monitor Gas Spring Arm |Supports 13-32\" Screen| 10KG Weight Capacity, 1 Year Warranty| Height Adjustable Desk Mount| Spring Adjustment Monitor Stand| Til",
+   "slot": 1
+  },
+  {
+   "asin": "B0F9FV5DRF",
+   "badge": null,
+   "price": "1,749",
+   "rating": "4.3",
+   "reviews": "106",
+   "title": "Dual Monitor Stand for Desk | Height Adjustable Alloy Steel Arm Mount for 13”–27” Screens | 360° Rotation, Tilt & Swivel, Cable Management, Space-Saving Dual Ar",
+   "slot": 2
+  },
+  {
+   "asin": "B0FHPLD3D9",
+   "badge": null,
+   "price": "10,990",
+   "rating": "4.6",
+   "reviews": "199",
+   "title": "Heavy Duty Dual Monitor Stand with Gas Spring Height Adjustment for 13-35\" Monitors | 2 Monitors Desk Mount | Adjustable Double Monitor Arm| 15 KG Weight Capaci",
+   "slot": 3
+  },
+  {
+   "asin": "B08BK1GBHC",
+   "badge": null,
+   "price": "3,409",
+   "rating": "4.3",
+   "reviews": "142",
+   "title": "Dual Monitor Stand | Fits 13-32 inch Monitor, 10kg Weight Capacity per Screen |Height Adjustable Monitor Arm, 3 Year Warranty | Dual Monitor Stand for Desk with",
+   "slot": 4
+  },
+  {
+   "asin": "B0F3HQJZFH",
+   "badge": null,
+   "price": "3,299",
+   "rating": "3.9",
+   "reviews": "24",
+   "title": "Heavy Duty Dual Monitor Arm with Gas Spring Adjustment for 13-32\" Screens | Ergonomic Adjustable VESA Stand | Supports 9 Kgs Per Arm | Swivel, Tilt & Rotate | S",
+   "slot": 5
+  },
+  {
+   "asin": "B0DP32F346",
+   "badge": "Bestseller",
+   "price": "3,099",
+   "rating": "4.4",
+   "reviews": "295",
+   "title": "Monitor Arm | Wooden Metal Single Screen Desk Mount for 15-32 Inch Monitors | Monitor Arm Desk Mount | Gas Spring Adjustable Arms | 9Kg Capacity | VESA 75x75 & ",
+   "slot": 6
+  }
+ ],
+ "notes": []
+}

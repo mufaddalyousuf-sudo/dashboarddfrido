@@ -1,0 +1,117 @@
+{
+ "category": "workspace-portable-standing-desk",
+ "marketplace": "flipkart",
+ "keyword": "Frido Portable Standing Desk",
+ "capturedAt": "2026-07-08",
+ "method": "Live scrape flipkart.com mobile search page 1 (__INITIAL_STATE__), query = exact SKU name",
+ "confidence": "Medium-High (live; sponsored flags not exposed on mobile)",
+ "fridoRank": 2,
+ "fridoPresent": true,
+ "results": [
+  {
+   "pos": 1,
+   "title": "Spyder Craft Multipurpose Portable Study Desk with Hutch Storage & Shelves for Home Office Engineered Wood Study Table",
+   "price": null,
+   "rating": 4,
+   "ratings": 522,
+   "isFrido": false
+  },
+  {
+   "pos": 2,
+   "title": "Frido Portable Standing Desk for Home & Office | Height-Adjustable, Lockable Wheels Solid Wood Workstation",
+   "price": null,
+   "rating": 5,
+   "ratings": 2,
+   "isFrido": true
+  },
+  {
+   "pos": 3,
+   "title": "Spyder Craft Multipurpose Portable Study Desk, Office Desk, Kids Desk Table Engineered Wood Study Table",
+   "price": null,
+   "rating": 3.9,
+   "ratings": 246,
+   "isFrido": false
+  },
+  {
+   "pos": 4,
+   "title": "Frido ErgoLuxe Electric Standing Desk For Office, Height Adjustable, 120kg Cap. | Wide Engineered Wood Office Table",
+   "price": null,
+   "rating": 0,
+   "ratings": 0,
+   "isFrido": true
+  },
+  {
+   "pos": 5,
+   "title": "GREEN SOUL Axis Portable Standing Desk | Height Adjustable Solid Wood Desk, Lockable Wheels Engineered Wood Multipurpose Table",
+   "price": null,
+   "rating": 0,
+   "ratings": 0,
+   "isFrido": false
+  },
+  {
+   "pos": 6,
+   "title": "SPYDER HOME DECORE Portable Work From Home Study Desk Engineered Wood Office Table Engineered Wood Study Table",
+   "price": null,
+   "rating": 4.1,
+   "ratings": 1274,
+   "isFrido": false
+  },
+  {
+   "pos": 7,
+   "title": "Krevia Portable, Wrist Rest, Multifunctional Slot Acrylic Portable Laptop Table",
+   "price": null,
+   "rating": 0,
+   "ratings": 0,
+   "isFrido": false
+  },
+  {
+   "pos": 8,
+   "title": "Spyder Home Decore Portable Workstation Computer Desk with Storage, For Office, Home Engineered Wood Computer Desk",
+   "price": null,
+   "rating": 4.1,
+   "ratings": 44,
+   "isFrido": false
+  },
+  {
+   "pos": 9,
+   "title": "SPYDER HOME DECORE Multipurpose Portable Study Desk, Office Desk, Kids Desk Table Engineered Wood Study Table",
+   "price": null,
+   "rating": 4.2,
+   "ratings": 281,
+   "isFrido": false
+  },
+  {
+   "pos": 10,
+   "title": "wow craft Folding Round Cornered Wall Mounted Engineered Wood Study Table",
+   "price": null,
+   "rating": 4.4,
+   "ratings": 344,
+   "isFrido": false
+  },
+  {
+   "pos": 11,
+   "title": "wow craft Multi Purpose Portable & Foldable Wooden /Desk for Home & Office Engineered Wood Study Table",
+   "price": null,
+   "rating": 4.4,
+   "ratings": 1933,
+   "isFrido": false
+  },
+  {
+   "pos": 12,
+   "title": "wow craft Multi Purpose Portable & Foldable Wooden Table/Desk for Home & Office Engineered Wood Study Table",
+   "price": null,
+   "rating": 4.4,
+   "ratings": 1933,
+   "isFrido": false
+  },
+  {
+   "pos": 13,
+   "title": "wow craft Wall-Mounted Foldable Study Table with Drawer & Cup Holder – 31x18.5 Inch Engineered Wood Study Table",
+   "price": null,
+   "rating": 2.7,
+   "ratings": 6,
+   "isFrido": false
+  }
+ ],
+ "notes": []
+}

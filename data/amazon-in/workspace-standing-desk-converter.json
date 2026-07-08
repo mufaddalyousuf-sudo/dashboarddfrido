@@ -1,0 +1,169 @@
+{
+ "category": "workspace-standing-desk-converter",
+ "marketplace": "amazon-in",
+ "keyword": "Frido Standing Desk Converter",
+ "capturedAt": "2026-07-08",
+ "method": "Live scrape amazon.in search page 1, query = exact SKU name (brand-qualified)",
+ "confidence": "High (live snapshot, single keyword)",
+ "fridoOrganicRank": 1,
+ "fridoSponsoredSlot": null,
+ "organic": [
+  {
+   "asin": "B0FCMKYWPH",
+   "badge": "Amazon's Choice",
+   "price": "9,999",
+   "rating": "4.3",
+   "reviews": "124",
+   "title": "Portable Standing Desk for Home & Office | Height-Adjustable Standing Desk with Lockable Wheels | Durable MDF Top & Mild Steel Stand | Lightweight & Foldable | ",
+   "rank": 1,
+   "isFridoBrand": true
+  },
+  {
+   "asin": "B0BSXCHFVN",
+   "badge": null,
+   "price": "2,655",
+   "rating": "3.9",
+   "reviews": "158",
+   "title": "Wood Standing Desk Riser, Height Adjustable Sit to Stand Desktop Workstation Table for Laptop & Monitor (Black)",
+   "rank": 2
+  },
+  {
+   "asin": "B0FWKP3YSB",
+   "badge": null,
+   "price": "2,655",
+   "rating": "3.9",
+   "reviews": "158",
+   "title": "Wood Standing Desk Riser, Height Adjustable Sit to Stand Desktop Workstation Table for Laptop & Monitor (White)",
+   "rank": 3
+  },
+  {
+   "asin": "B0GH12BY5L",
+   "badge": null,
+   "price": "5,499",
+   "rating": "4.1",
+   "reviews": "46",
+   "title": "Standing Desk Converter, Height Adjustable Workstation, Hydraulic Sit Stand Desk Riser (65cmx40cm TableTop, 50cm Height) (White)",
+   "rank": 4
+  },
+  {
+   "asin": "B07YY8SJDF",
+   "badge": null,
+   "price": "10,490",
+   "rating": "4.6",
+   "reviews": "164",
+   "title": "Sit Stand Desk Converter| Large Size 80 * 40CM Top| Premium Hydraulic Gas Spring Height Adjustable Standing Desk Converter| 1 Year Warranty | to be Placed on To",
+   "rank": 5
+  },
+  {
+   "asin": "B0DNZG2W4T",
+   "badge": null,
+   "price": "3,139",
+   "rating": "3.8",
+   "reviews": "497",
+   "title": "Foam Lap Desk Pillow,Portable Computer Table & Laptop Lap Desk for Sofa,Bed,Floor,Ergonomic Gaming Desk Table with Arm Rest,Work Desk Accessories for Reading,Ga",
+   "rank": 6
+  },
+  {
+   "asin": "B0B3VKHLL3",
+   "badge": null,
+   "price": "7,894",
+   "rating": "4.4",
+   "reviews": "129",
+   "title": "Height Adjustable Standing Table Computer Lifting Laptop Desk Converter Desk Lifting Legs 80 X 40 X 15 Cm (White) | Black Finish",
+   "rank": 7
+  },
+  {
+   "asin": "B0CJ8VYBQP",
+   "badge": null,
+   "price": "2,999",
+   "rating": "4.0",
+   "reviews": "3,077",
+   "title": "Ultimate Pro Seat Cushion & Posture Corrector Backrest Cushion Combo | Relieves Back | Coccyx Pain | Hi-Per Foam Tech for Orthopedic Support | for Long Sitting ",
+   "rank": 8
+  },
+  {
+   "asin": "B0CM5QFWK9",
+   "badge": null,
+   "price": "7,599",
+   "rating": "4.6",
+   "reviews": "38",
+   "title": "Small Laptop Standing Converter, 23\" Height Adjustable Desk Riser for Tabletop, Sit-Stand Workstation, Table Extender for Desk",
+   "rank": 9
+  },
+  {
+   "asin": "B0DSZPG9LX",
+   "badge": null,
+   "price": null,
+   "rating": "3.8",
+   "reviews": "497",
+   "title": "Lap Desk Pillow | Portable Computer Table & Laptop Lap Desk for Sofa, Bed, Floor | Ergonomic Gaming Desk Table with Arm Rest | Work Desk Accessories for Reading",
+   "rank": 10
+  }
+ ],
+ "sponsored": [
+  {
+   "asin": "B0FPR39XPS",
+   "badge": null,
+   "price": "19,490",
+   "rating": "4.7",
+   "reviews": "535",
+   "title": "Octave Height Adjustable Table Electric | Sit Stand Desk, 2 Year Warranty, 80 Kg Wt. Cap| Standing Desk with Memory Preset, Cup Holder| Stability Crossbar| Whit",
+   "slot": 1
+  },
+  {
+   "asin": "B0GVKHS6P9",
+   "badge": null,
+   "price": "10,888",
+   "rating": "4.2",
+   "reviews": "172",
+   "title": "Electric Automatic Height Adjustable Sit Stand Desk | Ergonomic Study Table with Digital Display & Memory Preset Option for Home & Office (EST-003/Black & Black",
+   "slot": 2
+  },
+  {
+   "asin": "B0F6CQ464C",
+   "badge": null,
+   "price": "5,499",
+   "rating": "4.1",
+   "reviews": "46",
+   "title": "Standing Desk Converter, Height Adjustable Workstation, Hydraulic Sit Stand Desk Riser (65cmx40cm TableTop, 50cm Height) (Black)",
+   "slot": 3
+  },
+  {
+   "asin": "B0FPXJJR73",
+   "badge": null,
+   "price": "2,603",
+   "rating": "4.0",
+   "reviews": "548",
+   "title": "Lap Desk Pillow | Portable Computer Table & Laptop Lap Desk for Sofa, Bed, Floor | Ergonomic Gaming Desk with Arm Rest | Work Desk Accessories for Reading, Gami",
+   "slot": 4
+  },
+  {
+   "asin": "B0DL65FPXT",
+   "badge": null,
+   "price": "17,848",
+   "rating": "4.6",
+   "reviews": "17",
+   "title": "Electric Height Adjustable Table Motorized Ergonomic Sit Stand Desk - 80 Kgs Max Weight Capacity - SM4 Series - 600 x 1200 mm - Walnut Laminate Table Top",
+   "slot": 5
+  },
+  {
+   "asin": "B0DL6495LJ",
+   "badge": null,
+   "price": "15,150",
+   "rating": "4.2",
+   "reviews": "6",
+   "title": "Electric Height Adjustable Table Motorized Ergonomic Sit Stand Computer Desk - 80 Kgs Max Weight Capacity - SM4 Series - White Steel Frame",
+   "slot": 6
+  },
+  {
+   "asin": "B0D7QHDZZG",
+   "badge": null,
+   "price": "17,999",
+   "rating": "4.4",
+   "reviews": "523",
+   "title": "AeroPlus Electric Height Adjustable Desk | Ergonomic Work from Home Table | 4 Memory Presets | 2 Years Warranty | 1200 x 600 Thick Top | Free Installation | Bla",
+   "slot": 7
+  }
+ ],
+ "notes": []
+}

@@ -1,0 +1,197 @@
+{
+ "category": "workspace-portable-standing-desk",
+ "marketplace": "amazon-in",
+ "keyword": "Frido Portable Standing Desk",
+ "capturedAt": "2026-07-08",
+ "method": "Live scrape amazon.in search page 1, query = exact SKU name (brand-qualified)",
+ "confidence": "High (live snapshot, single keyword)",
+ "fridoOrganicRank": 1,
+ "fridoSponsoredSlot": 7,
+ "organic": [
+  {
+   "asin": "B0FCMKYWPH",
+   "badge": "Amazon's Choice",
+   "price": "9,999",
+   "rating": "4.3",
+   "reviews": "124",
+   "title": "Frido Portable Standing Desk for Home & Office | Height-Adjustable Standing Desk with Lockable Wheels | Durable MDF Top & Mild Steel Stand | Lightweight & Folda",
+   "rank": 1,
+   "isFridoBrand": true
+  },
+  {
+   "asin": "B0B6PMXMBB",
+   "badge": null,
+   "price": "11,490",
+   "rating": "4.8",
+   "reviews": "356",
+   "title": "JIN OFFICE Ergonomic Height Adjustable Laptop Desk| 1 Year Warranty| Sit Stand Table with Lockable Wheels| Standing Desk for Home Office| Thick Column and Wide ",
+   "rank": 2
+  },
+  {
+   "asin": "B0F43Q7ZJX",
+   "badge": null,
+   "price": "4,299",
+   "rating": "3.8",
+   "reviews": "110",
+   "title": "Livzing Height Adjustable Lapdesks with Locking Wheels-Wooden Multi-Purpose Laptop Table-Desktop Table for Office, Home with Angle Adjustable Keyboard Tray- Mov",
+   "rank": 3
+  },
+  {
+   "asin": "B0F4XCJSQZ",
+   "badge": null,
+   "price": "1,449",
+   "rating": "4.2",
+   "reviews": "155",
+   "title": "APPUCOCO Height Adjustable Trolly Portable Table with Wheels, Multipurpose Movable Table for Laptop, Work from Home - Black",
+   "rank": 4
+  },
+  {
+   "asin": "B0DNZKF8RQ",
+   "badge": null,
+   "price": "3,139",
+   "rating": "3.8",
+   "reviews": "497",
+   "title": "Frido Lap Desk Pillow | Portable Computer Table & Laptop Lap Desk for Sofa, Bed, Floor | Ergonomic Gaming Desk Table with Arm Rest | Work Desk Accessories for R",
+   "rank": 5
+  },
+  {
+   "asin": "B0DSZPG9LX",
+   "badge": null,
+   "price": null,
+   "rating": "3.8",
+   "reviews": "497",
+   "title": "Frido Lap Desk Pillow | Portable Computer Table & Laptop Lap Desk for Sofa, Bed, Floor | Ergonomic Gaming Desk Table with Arm Rest | Work Desk Accessories for R",
+   "rank": 6
+  },
+  {
+   "asin": "B0BSXCHFVN",
+   "badge": null,
+   "price": "2,655",
+   "rating": "3.9",
+   "reviews": "158",
+   "title": "TARKAN Wood Standing Desk Riser, Height Adjustable Sit to Stand Desktop Workstation Table for Laptop & Monitor (Black)",
+   "rank": 7
+  },
+  {
+   "asin": "B0DYDXN6JJ",
+   "badge": null,
+   "price": "1,399",
+   "rating": "4.3",
+   "reviews": "204",
+   "title": "Amazon Basics Executive | Height Adjustable Laptop Table | Adjustable Table Angle | Cupholder | Footrest | Carbon Steel | Foldable | Black | 75 cm - H, 55 cm - ",
+   "rank": 8
+  },
+  {
+   "asin": "B0F6CQ464C",
+   "badge": null,
+   "price": "5,499",
+   "rating": "4.1",
+   "reviews": "46",
+   "title": "TARKAN Standing Desk Converter, Height Adjustable Workstation, Hydraulic Sit Stand Desk Riser (65cmx40cm TableTop, 50cm Height) (Black)",
+   "rank": 9
+  },
+  {
+   "asin": "B0BN1CJDV2",
+   "badge": null,
+   "price": "3,425",
+   "rating": "4.2",
+   "reviews": "173",
+   "title": "TABLE MAGIC Urban Raiser | 75-110cm Height Adjustable Laptop Table | Sit & Stand Desk for Home & Office | Mobile & iPad Holder | Compact & Sturdy Design | Easy ",
+   "rank": 10
+  }
+ ],
+ "sponsored": [
+  {
+   "asin": "B0GYYKVJ7K",
+   "badge": null,
+   "price": "14,499",
+   "rating": "4.7",
+   "reviews": "4",
+   "title": "The Sleep Company - AeroMini Electric Height Adjustable Desk | Ergonomic Work from Home Table | 4 Memory Presets | Lockable Wheels | 570 × 500 mm Thick Top | Fr",
+   "slot": 1
+  },
+  {
+   "asin": "B0D7QHDZZG",
+   "badge": null,
+   "price": "17,999",
+   "rating": "4.4",
+   "reviews": "523",
+   "title": "The Sleep Company - AeroPlus Electric Height Adjustable Desk | Ergonomic Work from Home Table | 4 Memory Presets | 2 Years Warranty | 1200 x 600 Thick Top | Fre",
+   "slot": 2
+  },
+  {
+   "asin": "B0FK5SPDFX",
+   "badge": null,
+   "price": "11,388",
+   "rating": "4.2",
+   "reviews": "172",
+   "title": "Lukzer Electric Automatic Height Adjustable Sit Stand Desk | Ergonomic Study Table with Digital Display & Memory Preset Option for Home & Office (EST-003/White ",
+   "slot": 3
+  },
+  {
+   "asin": "B0B6PMXMBB",
+   "badge": null,
+   "price": "11,490",
+   "rating": "4.8",
+   "reviews": "356",
+   "title": "JIN OFFICE Ergonomic Height Adjustable Laptop Desk| 1 Year Warranty| Sit Stand Table with Lockable Wheels| Standing Desk for Home Office| Thick Column and Wide ",
+   "slot": 4
+  },
+  {
+   "asin": "B0FKN6TMG2",
+   "badge": null,
+   "price": "1,114",
+   "rating": "4.3",
+   "reviews": "1,755",
+   "title": "TEKCOOL Multi-Purpose Sofa Side Height-Adjustable Laptop Table with Docking for Tablet, Study Table, Portable, Ideal for Work from Home, DIY Table, Easy to Asse",
+   "slot": 5
+  },
+  {
+   "asin": "B0FYGFZWJF",
+   "badge": null,
+   "price": "1,398",
+   "rating": "3.5",
+   "reviews": "110",
+   "title": "Gizga Premium Height Adjustable Laptop Table for WFH, Bed, Sofa, Office| Foldable & Portable MDF Wooden Desk| Ergonomic Trolley Table with Wheels Lock, Heavy Du",
+   "slot": 6
+  },
+  {
+   "asin": "B0CJ8VYBQP",
+   "badge": null,
+   "price": "2,999",
+   "rating": "4.0",
+   "reviews": "3,077",
+   "title": "Frido Ultimate Pro Seat Cushion & Posture Corrector Backrest Cushion Combo | Relieves Back | Coccyx Pain | Hi-Per Foam Tech for Orthopedic Support | for Long Si",
+   "slot": 7,
+   "isFridoBrand": true
+  },
+  {
+   "asin": "B0FPR39XPS",
+   "badge": null,
+   "price": "19,490",
+   "rating": "4.7",
+   "reviews": "535",
+   "title": "JIN OFFICE Octave Height Adjustable Table Electric | Sit Stand Desk, 2 Year Warranty, 80 Kg Wt. Cap| Standing Desk with Memory Preset, Cup Holder| Stability Cro",
+   "slot": 8
+  },
+  {
+   "asin": "B0BSXCHFVN",
+   "badge": null,
+   "price": "2,655",
+   "rating": "3.9",
+   "reviews": "158",
+   "title": "TARKAN Wood Standing Desk Riser, Height Adjustable Sit to Stand Desktop Workstation Table for Laptop & Monitor (Black)",
+   "slot": 9
+  },
+  {
+   "asin": "B0H1C9TLHF",
+   "badge": null,
+   "price": "12,389",
+   "rating": null,
+   "reviews": null,
+   "title": "Sleepyhead Lyft Designed by Duroflex - Height Adjustable Desk for Home Office & WFH | Portable Sit Stand Table with Hydraulic Lift, Wheels & Ergonomic Laptop Wo",
+   "slot": 10
+  }
+ ],
+ "notes": []
+}
