@@ -79,9 +79,16 @@
   const catInfos = (c, bestOnly) => c.datasets.map((d) => ({ meta: d, ...dsInfo(d.id, bestOnly) }));
 
   // ---------- marketplace rank: always states which marketplace, never a bare "#N" ----------
+  // category-level rank is the AVERAGE across every SKU's own rank in that category —
+  // each SKU is searched by its own exact name, so a single SKU's rank is near-tautological
+  // (Frido almost always ranks #1 on its own product's exact name); averaging across all of a
+  // category's SKUs is the honest category-level signal, not the best-case single SKU.
   function mpRank(infosAll, mp) {
     const vals = infosAll.map((i) => (mp === "az" ? i.fridoOrg?.rank : i.fridoFk?.pos)).filter((v) => v != null);
-    if (vals.length) return { kind: "rank", value: Math.min(...vals) };
+    if (vals.length) {
+      const avg = vals.reduce((a, b) => a + b, 0) / vals.length;
+      return { kind: "rank", value: avg, n: vals.length };
+    }
     if (mp === "az") {
       if (infosAll.some((i) => i.fridoSp)) return { kind: "sponsored" };
       if (infosAll.some((i) => i.verifiedAsin)) return { kind: "listed" };
@@ -89,8 +96,9 @@
     }
     return { kind: "needs-verification" }; // Flipkart has no brand-qualified check yet — never assumed absent
   }
+  const fmtRankVal = (v) => (Number.isInteger(v) ? String(v) : v.toFixed(1));
   const mpRankLabel = (r, mp) => {
-    if (r.kind === "rank") return `${mp === "az" ? "Amazon" : "Flipkart"} Rank #${r.value}`;
+    if (r.kind === "rank") return `${mp === "az" ? "Amazon" : "Flipkart"} Rank #${fmtRankVal(r.value)} avg`;
     if (r.kind === "sponsored") return "Amazon: Sponsored only";
     if (r.kind === "listed") return `${mp === "az" ? "Amazon" : "Flipkart"}: Listed`;
     if (r.kind === "not-listed") return `${mp === "az" ? "Amazon" : "Flipkart"}: Not Listed`;
@@ -99,7 +107,7 @@
   // a category-level verified "not-listed" override always wins — even if a brand-check turned up a different, non-matching product
   const catMpRank = (c, infosAll, mp) => (c.forcedStatus === "not-listed" ? { kind: "not-listed" } : mpRank(infosAll, mp));
   const mpRankShort = (r) => {
-    if (r.kind === "rank") return "#" + r.value;
+    if (r.kind === "rank") return "#" + fmtRankVal(r.value);
     if (r.kind === "sponsored") return "Sponsored";
     if (r.kind === "listed") return "Listed";
     if (r.kind === "not-listed") return "Not Listed";
@@ -167,7 +175,7 @@
   // sidebar: CSV export (real data, same shape as the overview table)
   $("#sbExport").onclick = (e) => {
     e.preventDefault();
-    const rows = [["Category", "Priority", "SKUs", "Amazon Rank", "Flipkart Rank", "Status"]];
+    const rows = [["Category", "Priority", "SKUs", "Amazon Rank (avg)", "Flipkart Rank (avg)", "Status"]];
     tax.categories.forEach((c) => {
       const infosAll = catInfos(c, false);
       const azR = catMpRank(c, infosAll, "az"), fkR = catMpRank(c, infosAll, "fk");
@@ -299,8 +307,8 @@
         return `<a class="glass cat-card" href="#/${c.id}">
           <div class="cc-top"><span class="cc-ic">${c.icon}</span><h3>${esc(c.name)}</h3></div>
           <div class="cc-stats">
-            <div><b>${mpRankShort(r.azRank)}</b>Amazon Rank</div>
-            <div><b>${mpRankShort(r.fkRank)}</b>Flipkart Rank</div>
+            <div><b>${mpRankShort(r.azRank)}</b>Amazon Rank (avg)</div>
+            <div><b>${mpRankShort(r.fkRank)}</b>Flipkart Rank (avg)</div>
             <div><b>${c.datasets.length}</b>SKUs</div>
             <div><b>${leaderName}</b>Leader</div>
           </div>
@@ -358,17 +366,19 @@
 
     const correctionNote = c.correctionNote ? `<div class="correction-note">${I("info")}<span><b>Corrected:</b> ${esc(c.correctionNote)}</span></div>` : "";
 
-    // executive summary line — one sentence, states the fact plainly, always names the marketplace
+    // executive summary line — one sentence, states the fact plainly, always names the marketplace.
+    // Ranks shown here are averaged across every SKU in the category (each SKU is searched by its
+    // own exact name, so any single SKU's rank is near-tautological — see mpRank()).
     let summary;
     if (status === "listed") {
       const parts = [];
-      if (azR.kind === "rank") parts.push(`Amazon Rank #${azR.value}${fr?.badge === "Bestseller" ? " (Bestseller badge)" : ""}`);
+      if (azR.kind === "rank") parts.push(`Amazon Rank #${fmtRankVal(azR.value)} avg across ${azR.n} SKU${azR.n === 1 ? "" : "s"}${fr?.badge === "Bestseller" ? " (Bestseller badge on its own name)" : ""}`);
       else if (azR.kind === "sponsored") parts.push("sponsored-only on Amazon");
       else if (azR.kind === "listed") parts.push("a verified Amazon listing (rank unclear)");
       else parts.push("Amazon: Needs Verification");
-      if (fkR.kind === "rank") parts.push(`Flipkart Rank #${fkR.value}`);
+      if (fkR.kind === "rank") parts.push(`Flipkart Rank #${fmtRankVal(fkR.value)} avg across ${fkR.n} SKU${fkR.n === 1 ? "" : "s"}`);
       else parts.push("Flipkart: Needs Verification");
-      summary = `Frido is listed for “${prim.keyword}” — ${parts.join(" · ")}.${comps[0] && azR.kind === "rank" && azR.value > 1 ? ` ${esc(comps[0].brand)} ranks above Frido.` : ""}`;
+      summary = `Frido is listed in this category — ${parts.join(" · ")}.`;
     } else if (status === "not-listed") {
       summary = `Frido has no product that matches this category — a verified catalog gap.`;
     } else {
@@ -376,8 +386,8 @@
     }
 
     const posFacts = [
-      ["Amazon Rank", mpRankShort(azR)],
-      ["Flipkart Rank", mpRankShort(fkR)],
+      ["Amazon Rank (avg)", mpRankShort(azR)],
+      ["Flipkart Rank (avg)", mpRankShort(fkR)],
       ["Price", inr(fr?.price ?? frSp?.price ?? prim.verifiedPrice)],
       ["Rating", (fr?.rating ?? frSp?.rating ?? prim.verifiedRating) != null ? (fr?.rating ?? frSp?.rating ?? prim.verifiedRating) + "★" : "—"],
       ["Reviews", fmt(fr?.reviews ?? frSp?.reviews ?? prim.verifiedReviews)],
