@@ -1,0 +1,93 @@
+{
+ "category": "orthotics-active-knee-cap-support",
+ "marketplace": "flipkart",
+ "keyword": "Frido Active Knee Cap Support",
+ "capturedAt": "2026-07-08",
+ "method": "Live scrape flipkart.com mobile search page 1 (__INITIAL_STATE__), query = exact SKU name",
+ "confidence": "Medium-High (live; sponsored flags not exposed on mobile)",
+ "fridoRank": 1,
+ "fridoPresent": true,
+ "results": [
+  {
+   "pos": 1,
+   "title": "Frido Orthotics Knee Support Wrap | Adjustable Knee Brace with Open Patella | 2 Unit Knee Support",
+   "price": null,
+   "rating": 0,
+   "ratings": 0,
+   "isFrido": true
+  },
+  {
+   "pos": 2,
+   "title": "GymWar Knee Sleeves for Running Jogging Gym Squats Knee Support",
+   "price": null,
+   "rating": 3.8,
+   "ratings": 143,
+   "isFrido": false
+  },
+  {
+   "pos": 3,
+   "title": "Atipriya Knee Sleeves for Running Jogging Gym Squats Knee Support",
+   "price": null,
+   "rating": 0,
+   "ratings": 0,
+   "isFrido": false
+  },
+  {
+   "pos": 4,
+   "title": "infinity deal Knee support knee cap knee sleeves knee guard Knee Support Knee Support",
+   "price": null,
+   "rating": 0,
+   "ratings": 0,
+   "isFrido": false
+  },
+  {
+   "pos": 5,
+   "title": "FIZONT Compression Knee Cap with Adjustable Straps 4 Sports&Gym -Large Size, Grey&Green Knee Support",
+   "price": null,
+   "rating": 0,
+   "ratings": 0,
+   "isFrido": false
+  },
+  {
+   "pos": 6,
+   "title": "ORTHOPEDIST Knee Cap Sleeves for Running Jogging Gym Squats for Sports Arthritis Pain Relief Knee Support",
+   "price": null,
+   "rating": 0,
+   "ratings": 0,
+   "isFrido": false
+  },
+  {
+   "pos": 7,
+   "title": "CTC CREATION Brown Pain-Relief Knee Support for Active Lifestyle Knee Support",
+   "price": null,
+   "rating": 0,
+   "ratings": 0,
+   "isFrido": false
+  },
+  {
+   "pos": 8,
+   "title": "Malu Healthcare Knee Cap for Pain Relief Sports Exercise Running Knee Sleeves for Gym & Squats Knee Support",
+   "price": null,
+   "rating": 4,
+   "ratings": 26,
+   "isFrido": false
+  },
+  {
+   "pos": 9,
+   "title": "HANSAPLAST Active Knee Support for Men Women | Pair | Size M | Knee cap for gym & sports Knee Support",
+   "price": null,
+   "rating": 4.1,
+   "ratings": 471,
+   "isFrido": false
+  },
+  {
+   "pos": 10,
+   "title": "Dr. Ortho Premium Knee Cap, Knee Brace For Knee Pain Relief, Knee Pad Leg Sleeves Knee Support",
+   "price": null,
+   "rating": 4.2,
+   "ratings": 473,
+   "isFrido": false
+  }
+ ],
+ "notes": []
+}

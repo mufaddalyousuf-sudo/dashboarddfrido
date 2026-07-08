@@ -1,0 +1,109 @@
+{
+ "category": "orthotics-kinesiology-tape",
+ "marketplace": "flipkart",
+ "keyword": "Frido Kinesiology Tape",
+ "capturedAt": "2026-07-08",
+ "method": "Live scrape flipkart.com mobile search page 1 (__INITIAL_STATE__), query = exact SKU name",
+ "confidence": "Medium-High (live; sponsored flags not exposed on mobile)",
+ "fridoRank": null,
+ "fridoPresent": false,
+ "results": [
+  {
+   "pos": 1,
+   "title": "BOLDFIT Kinesiology Tape Knee support Shoulder Muscle Tape Sports Injury Tape Pain Tape Kinesiology Tape",
+   "price": null,
+   "rating": 4.3,
+   "ratings": 3562,
+   "isFrido": false
+  },
+  {
+   "pos": 2,
+   "title": "BOLDFIT Kinesiology Tape for Pain K Tape Muscle Tape Pain Relief Tape Shoulder Tape Kinesiology Tape",
+   "price": null,
+   "rating": 4,
+   "ratings": 273,
+   "isFrido": false
+  },
+  {
+   "pos": 3,
+   "title": "GJSHOP Muscles Support & Sports Injury Pain Relief Compression Bandage Sports Athletes Kinesiology Tape",
+   "price": null,
+   "rating": 3.9,
+   "ratings": 582,
+   "isFrido": false
+  },
+  {
+   "pos": 4,
+   "title": "Shopeleven Athletic Sports Lifting Tape Physical Therapy Equipment Latex-Free Breathable Kinesiology Tape",
+   "price": null,
+   "rating": 3.9,
+   "ratings": 1565,
+   "isFrido": false
+  },
+  {
+   "pos": 5,
+   "title": "Dr Trust USA Muscles Support & Sports Injury Pain Relief Compression Bandage (5 m X 5 cm) Kinesiology Tape",
+   "price": null,
+   "rating": 4.1,
+   "ratings": 409,
+   "isFrido": false
+  },
+  {
+   "pos": 6,
+   "title": "Fitness Scout Kinesiology Tape for Physiotherapy Kinesio Tape for Sports Injury Pain Relief Arm Support",
+   "price": null,
+   "rating": 3.8,
+   "ratings": 98,
+   "isFrido": false
+  },
+  {
+   "pos": 7,
+   "title": "Shopeleven Elastic Muscle Pain Relief Sport Tape for Injury Joint Support, Sports Tape Kinesiology Tape",
+   "price": null,
+   "rating": 4.1,
+   "ratings": 17,
+   "isFrido": false
+  },
+  {
+   "pos": 8,
+   "title": "Strivex Professional Wrap Band ,Strap For Gym and Fitness Wrist Support",
+   "price": null,
+   "rating": 4.4,
+   "ratings": 150,
+   "isFrido": false
+  },
+  {
+   "pos": 9,
+   "title": "Strivex GYM BELT LEATHER BLACK COLOUR MEDIUM Weight Lifting Belt",
+   "price": null,
+   "rating": 4.7,
+   "ratings": 14,
+   "isFrido": false
+  },
+  {
+   "pos": 10,
+   "title": "Strivex Fitness Mens Gym Gloves with half Wrist Support / Anti Slip Gloves Gym & Fitness Gloves",
+   "price": null,
+   "rating": 0,
+   "ratings": null,
+   "isFrido": false
+  },
+  {
+   "pos": 11,
+   "title": "Strivex POLYESTER BELT ADJUSTABLE X-LARGE Weight Lifting Belt",
+   "price": null,
+   "rating": 4.7,
+   "ratings": 14,
+   "isFrido": false
+  },
+  {
+   "pos": 12,
+   "title": "Strivex Fitness Mens Gym Gloves with half Wrist Support and Anti Slip Gloves Gym & Fitness Gloves",
+   "price": null,
+   "rating": 3.3,
+   "ratings": 3,
+   "isFrido": false
+  }
+ ],
+ "notes": []
+}

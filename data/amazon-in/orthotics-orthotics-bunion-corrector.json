@@ -1,0 +1,196 @@
+{
+ "category": "orthotics-orthotics-bunion-corrector",
+ "marketplace": "amazon-in",
+ "keyword": "Frido Orthotics Bunion Corrector",
+ "capturedAt": "2026-07-08",
+ "method": "Live scrape amazon.in search page 1, query = exact SKU name (brand-qualified)",
+ "confidence": "High (live snapshot, single keyword)",
+ "fridoOrganicRank": 1,
+ "fridoSponsoredSlot": null,
+ "organic": [
+  {
+   "asin": "B0FF9PFRQ8",
+   "badge": null,
+   "price": "1,899",
+   "rating": "4.1",
+   "reviews": "270",
+   "title": "Orthotics Bunion Corrector for Men & Women, Pack of 1 | Adjustable Toe Straightener with Pressure Control Knob & Soft Gel Cushion | Pain Relief & Toe Alignment ",
+   "rank": 1,
+   "isFridoBrand": true
+  },
+  {
+   "asin": "B0DHXC1FH3",
+   "badge": "Bestseller",
+   "price": "999",
+   "rating": "4.0",
+   "reviews": "571",
+   "title": "(Max Group Bunion Corrector | Orthopedic Bunion Splint for Men & Women | Toe Corrector with Rotating Knob, Universal Fit for Left & Right Foot | Leg Finger Stra",
+   "rank": 2
+  },
+  {
+   "asin": "B0C7KJFPXP",
+   "badge": null,
+   "price": "331",
+   "rating": "3.6",
+   "reviews": "180",
+   "title": "Toe Straightener Bunion Corrector for Women & Men Foot Support for Pain Relief,Bunion Corrector & Orthopedic Hallux Valgus Splint with Silicone Pad,Improves Foo",
+   "rank": 3
+  },
+  {
+   "asin": "B0GJLDR425",
+   "badge": null,
+   "price": "897",
+   "rating": "3.5",
+   "reviews": "12",
+   "title": "Bunion thumb Corrector for Men & Women with Adjustable Pressure Knob | Orthopedic Toe Straightener Splint with Soft Gel Cushion | Pain Relief & Toe Alignment Su",
+   "rank": 4
+  },
+  {
+   "asin": "B0CW35YH36",
+   "badge": null,
+   "price": "159",
+   "rating": "3.9",
+   "reviews": "550",
+   "title": "Plastic Bunion Splint Pad,Toe Straightener Bunion Corrector Splint With Toe Fracture Support&Foot Support For Pain Relief Toe Separator Orthotics Thumb Correcto",
+   "rank": 5
+  },
+  {
+   "asin": "B0FDL6CFFC",
+   "badge": null,
+   "price": "350",
+   "rating": "4.5",
+   "reviews": "198",
+   "title": "Bunion Corrector(2PCS), Toe Separators for Women And Men,Bunion Corrector Relief for Men,Hammer Big Toe Straightener for Overlapping Toe, Relieve Foot Pain, Hal",
+   "rank": 6
+  },
+  {
+   "asin": "B06XFSRYH9",
+   "badge": null,
+   "price": "419",
+   "rating": "3.8",
+   "reviews": "2,345",
+   "title": "Bunion Splint, White, Universal Size, 1 Unit",
+   "rank": 7
+  },
+  {
+   "asin": "B0CVVZ6JWW",
+   "badge": null,
+   "price": null,
+   "rating": null,
+   "reviews": null,
+   "title": "Adjustable Bunion Splint Pad with Toe Straightener – Orthotic Bunion Corrector & Toe Separator for Fracture Support, Foot Alignment & Pain Relief (Unisex)",
+   "rank": 8
+  },
+  {
+   "asin": "B0GXVKLZ38",
+   "badge": null,
+   "price": "299",
+   "rating": "3.0",
+   "reviews": "2",
+   "title": "Bunion Corrector for Men & Women | Hallux Valgus Toe Straightener Splint with Dynamic Hinge | Adjustable Orthopedic Big Toe Support Brace with Cushion Pad for P",
+   "rank": 9
+  },
+  {
+   "asin": "B08ZCFZHGN",
+   "badge": null,
+   "price": "249",
+   "rating": "3.5",
+   "reviews": "393",
+   "title": "Bunion Corrector And Bunion Relief Orthopedic Bunion Splint Pads For Men And Women,Non Toxic (2), one_size",
+   "rank": 10
+  }
+ ],
+ "sponsored": [
+  {
+   "asin": "B0FF9PFRQ8",
+   "badge": null,
+   "price": "1,899",
+   "rating": "4.1",
+   "reviews": "270",
+   "title": "Orthotics Bunion Corrector for Men & Women, Pack of 1 | Adjustable Toe Straightener with Pressure Control Knob & Soft Gel Cushion | Pain Relief & Toe Alignment ",
+   "slot": 1
+  },
+  {
+   "asin": "B0DK3N7FBR",
+   "badge": null,
+   "price": "1,190",
+   "rating": "4.0",
+   "reviews": "234",
+   "title": "ERGO Bunion Corrector - 1 year Warranty - Orthopedic Bunion Toe Straightener - Foot Thumb Straightener - Foot Support - For Men & Women - Medical Grade Splint -",
+   "slot": 2
+  },
+  {
+   "asin": "B0H4YZ587Z",
+   "badge": null,
+   "price": "1,299",
+   "rating": "5.0",
+   "reviews": "3",
+   "title": "Bunion Corrector for Women & Men | Adjustable Hallux Valgus Toe Straightener Splint | Big Toe Alignment Brace with Pressure Control Knob & Soft Gel Cushion | Un",
+   "slot": 3
+  },
+  {
+   "asin": "B0GNRDFBL1",
+   "badge": null,
+   "price": "1,188",
+   "rating": "4.7",
+   "reviews": "11",
+   "title": "Bunion Corrector for Women Toe | Bunion Thumb Corrector & Hallux Valgus Splint | Adjustable Leg Finger Straightener with Pressure Control Knob & Soft Gel Cushio",
+   "slot": 4
+  },
+  {
+   "asin": "B0CG9NNVV3",
+   "badge": null,
+   "price": "249",
+   "rating": "3.5",
+   "reviews": "332",
+   "title": "Bunion Corrector for Women & Men | Toe Corrector with Gel Pad Cushion Socks | Big Toe Leg Finger Straightener | Hammer Toe Splint to Align Bone | Toe Realignmen",
+   "slot": 5
+  },
+  {
+   "asin": "B06XFSRYH9",
+   "badge": null,
+   "price": "419",
+   "rating": "3.8",
+   "reviews": "2,345",
+   "title": "Bunion Splint, White, Universal Size, 1 Unit",
+   "slot": 6
+  },
+  {
+   "asin": "B0GJLDR425",
+   "badge": null,
+   "price": "897",
+   "rating": "3.5",
+   "reviews": "12",
+   "title": "Bunion thumb Corrector for Men & Women with Adjustable Pressure Knob | Orthopedic Toe Straightener Splint with Soft Gel Cushion | Pain Relief & Toe Alignment Su",
+   "slot": 7
+  },
+  {
+   "asin": "B0G8YZFFRR",
+   "badge": null,
+   "price": "299",
+   "rating": "2.9",
+   "reviews": "15",
+   "title": "Bunion Corrector for Women and Men| Toe Separator Both 2 Feet Bunion Splint, Big Toes Separation Pain Relief, Non-Surgical Adjustable Hallux Valgus Bunions Thum",
+   "slot": 8
+  },
+  {
+   "asin": "B0DHXC1FH3",
+   "badge": "Bestseller",
+   "price": "999",
+   "rating": "4.0",
+   "reviews": "571",
+   "title": "(Max Group Bunion Corrector | Orthopedic Bunion Splint for Men & Women | Toe Corrector with Rotating Knob, Universal Fit for Left & Right Foot | Leg Finger Stra",
+   "slot": 9
+  },
+  {
+   "asin": "B09GW2CQG9",
+   "badge": null,
+   "price": "299",
+   "rating": "3.6",
+   "reviews": "1,929",
+   "title": "Bunion Correction Toe Separator With Support and Relief Gel Pad Big Toe Brace Cushion Hammer Toe Pain (Pair) and Inflammation Relief Bunion Guard Shield In Sock",
+   "slot": 10
+  }
+ ],
+ "notes": []
+}

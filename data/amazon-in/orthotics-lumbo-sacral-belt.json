@@ -1,0 +1,195 @@
+{
+ "category": "orthotics-lumbo-sacral-belt",
+ "marketplace": "amazon-in",
+ "keyword": "Frido Lumbo Sacral Belt",
+ "capturedAt": "2026-07-08",
+ "method": "Live scrape amazon.in search page 1, query = exact SKU name (brand-qualified)",
+ "confidence": "High (live snapshot, single keyword)",
+ "fridoOrganicRank": null,
+ "fridoSponsoredSlot": null,
+ "organic": [
+  {
+   "asin": "B00I4SIP5C",
+   "badge": "Bestseller",
+   "price": "800",
+   "rating": "4.2",
+   "reviews": "19,467",
+   "title": "TYNOR Lumbo Sacral Belt, Grey, Medium, 1 Unit",
+   "rank": 1
+  },
+  {
+   "asin": "B0GLNQ1BJT",
+   "badge": null,
+   "price": "399",
+   "rating": "3.5",
+   "reviews": "13",
+   "title": "Thin & Lightweight Back Brace for Lower Back Pain Relief – Slim, Breathable Back Support Brace for Sciatica, Herniated Disc – Adjustable Lumbar Support Belt for",
+   "rank": 2
+  },
+  {
+   "asin": "B0DNJ3VDJ3",
+   "badge": null,
+   "price": "565",
+   "rating": "4.3",
+   "reviews": "3,509",
+   "title": "TATA 1MG Lumbar Sacral Belt For Back Sprains, Strains, & Muscle Spasms, Unisex With 5 Flexible Splints for Lower Back Support, L,Pack Of 1",
+   "rank": 3
+  },
+  {
+   "asin": "B0FK5N4P7P",
+   "badge": null,
+   "price": "549",
+   "rating": "4.1",
+   "reviews": "318",
+   "title": "Lifelong Lumbar Sacral Belt with Hot & Cold Pack |Universal Fit for Men and Women| Back Support Brace for Pain Relief |Posture Correction & Lower Back Comfort| ",
+   "rank": 4
+  },
+  {
+   "asin": "B00I4SIHFA",
+   "badge": null,
+   "price": "1,275",
+   "rating": "4.0",
+   "reviews": "518",
+   "title": "TYNOR LS Belt Lumbopore, for Lower Back Support & Pain Relief | Adjustable Compression, Lumbar Brace for Posture Correction, Spine Comfort for Men & Women | Pac",
+   "rank": 5
+  },
+  {
+   "asin": "B08KTV4VG3",
+   "badge": null,
+   "price": "860",
+   "rating": "4.2",
+   "reviews": "416",
+   "title": "Vissco Lumbocare (Lumbo Sacral Belt), Back Support Belt for the Spine & Relieves Pain, Lower Back Brace Support, Back Pain Relief, Can be used for Slip disc - L",
+   "rank": 6
+  },
+  {
+   "asin": "B0F99RLL6K",
+   "badge": "Bestseller",
+   "price": "499",
+   "rating": "4.2",
+   "reviews": "560",
+   "title": "DOLTAS Sacroiliac SI Joint Hip Belt – Adjustable Hip Belt for Back Pain, Sciatica Belt, Pelvic Support Belt for SI Joint Pain & Lower Back Pain Relief – Unisex ",
+   "rank": 7
+  },
+  {
+   "asin": "B0DZCQJBNC",
+   "badge": null,
+   "price": "1,299",
+   "rating": "4.3",
+   "reviews": "390",
+   "title": "AGEasy (Max Group Spine Pro Belt for Lower Back Pain Relief, Sciatica, Muscle Strains & Spinal Recovery | Adjustable Lumbar Support Belt for Men & Women | Impro",
+   "rank": 8
+  },
+  {
+   "asin": "B0GDQFPMT6",
+   "badge": null,
+   "price": "560",
+   "rating": "3.7",
+   "reviews": "72",
+   "title": "Sciatica Pain Relief Belt for Men & Women, Sacroiliac Si Joint Hip Belt for Back pain, Pelvic Support Strap, Nerve Pain Relief & lower back support (UNIVERSAL)",
+   "rank": 9
+  },
+  {
+   "asin": "B0GRGM98VX",
+   "badge": null,
+   "price": "614",
+   "rating": "4.2",
+   "reviews": "17",
+   "title": "Lumbar Support Belt for Back Pain Relief, Lumbo Sacral Belt for Posture Corrector, Waist & Lower Back Brace, Muscle Spasm Relief for Men & Women, Adjustable - U",
+   "rank": 10
+  }
+ ],
+ "sponsored": [
+  {
+   "asin": "B0FPL92NF3",
+   "badge": null,
+   "price": "2,199",
+   "rating": "4.1",
+   "reviews": "14",
+   "title": "Unisex Lumbo Sacral Belt Ultima for Back Pain Relief, Dual Adjustable Belt, Spine Alignment, Removable Support Mechanism, Posture Corrector with Premium Breatha",
+   "slot": 1
+  },
+  {
+   "asin": "B0BR1H9VLM",
+   "badge": null,
+   "price": "548",
+   "rating": "4.3",
+   "reviews": "3,509",
+   "title": "TATA 1MG Lumbar Sacral Belt for Relief from Back Pain and Muscle Spasms | With 5 Flexible Splints for Optimal Lower Back and Waist Support | For Men and Women |",
+   "slot": 2
+  },
+  {
+   "asin": "B0GSR9FY73",
+   "badge": null,
+   "price": "1,499",
+   "rating": "4.9",
+   "reviews": "5",
+   "title": "Lumbo Sacral Belt for Women & Men | Lumbar Support Belt for Back Pain, Posture, Spine Alignment | Adjustable Straps | Breathable Fabric | Waist Belt for Pain Re",
+   "slot": 3
+  },
+  {
+   "asin": "B0FK5N4P7P",
+   "badge": null,
+   "price": "549",
+   "rating": "4.1",
+   "reviews": "318",
+   "title": "Lifelong Lumbar Sacral Belt with Hot & Cold Pack |Universal Fit for Men and Women| Back Support Brace for Pain Relief |Posture Correction & Lower Back Comfort| ",
+   "slot": 4
+  },
+  {
+   "asin": "B0CS3TV32G",
+   "badge": "Amazon's Choice",
+   "price": "449",
+   "rating": "4.0",
+   "reviews": "510",
+   "title": "Sciatica Pain Relief Belt For Men & Women, Sacroiliac Si Joint Hip Belt For Back Pain, Sciatica Belt, Pelvic Support Belt, Si Joint Hip Belt For Sciatica, Hip S",
+   "slot": 5
+  },
+  {
+   "asin": "B0FTFZYNG2",
+   "badge": null,
+   "price": "715",
+   "rating": "4.1",
+   "reviews": "5,226",
+   "title": "Dr.Ortho Lumbo Sacral Belt | Waist & Lower Back Support Belt | With Dual Adjustable Straps for Men & Women - 2XL (130-145cm)",
+   "slot": 6
+  },
+  {
+   "asin": "B0CC9WS9BZ",
+   "badge": "Bestseller",
+   "price": "947",
+   "rating": "4.2",
+   "reviews": "19,467",
+   "title": "TYNOR Back Support Belt, Black, XXL, 1 Unit",
+   "slot": 7
+  },
+  {
+   "asin": "B0CMQ94XGN",
+   "badge": null,
+   "price": "1,250",
+   "rating": "4.2",
+   "reviews": "204",
+   "title": "Hansaplast Active Lace Pull LS Support for Men & Women|1 Unit|One Size Fits Most|Lower Back Support Belt for Long Lasting Pain Relief & Stability|Lower Back Pai",
+   "slot": 8
+  },
+  {
+   "asin": "B0GDQFPMT6",
+   "badge": null,
+   "price": "560",
+   "rating": "3.7",
+   "reviews": "72",
+   "title": "Sciatica Pain Relief Belt for Men & Women, Sacroiliac Si Joint Hip Belt for Back pain, Pelvic Support Strap, Nerve Pain Relief & lower back support (UNIVERSAL)",
+   "slot": 9
+  },
+  {
+   "asin": "B0F99RLL6K",
+   "badge": "Bestseller",
+   "price": "499",
+   "rating": "4.2",
+   "reviews": "560",
+   "title": "DOLTAS Sacroiliac SI Joint Hip Belt – Adjustable Hip Belt for Back Pain, Sciatica Belt, Pelvic Support Belt for SI Joint Pain & Lower Back Pain Relief – Unisex ",
+   "slot": 10
+  }
+ ],
+ "notes": []
+}

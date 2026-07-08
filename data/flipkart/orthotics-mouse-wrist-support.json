@@ -1,0 +1,93 @@
+{
+ "category": "orthotics-mouse-wrist-support",
+ "marketplace": "flipkart",
+ "keyword": "Frido Mouse Wrist Support",
+ "capturedAt": "2026-07-08",
+ "method": "Live scrape flipkart.com mobile search page 1 (__INITIAL_STATE__), query = exact SKU name",
+ "confidence": "Medium-High (live; sponsored flags not exposed on mobile)",
+ "fridoRank": 1,
+ "fridoPresent": true,
+ "results": [
+  {
+   "pos": 1,
+   "title": "Frido Mouse Wrist Rest for Pain & Carpal Tunnel Relief,Right-Hand Wrist Support",
+   "price": null,
+   "rating": 0,
+   "ratings": 0,
+   "isFrido": true
+  },
+  {
+   "pos": 2,
+   "title": "Frido Mouse Wrist Rest for Pain & Carpal Tunnel Relief, Left-Hand Wrist Support",
+   "price": null,
+   "rating": 0,
+   "ratings": 0,
+   "isFrido": true
+  },
+  {
+   "pos": 3,
+   "title": "Viresa Wrist brace with thumb Wrist Support",
+   "price": null,
+   "rating": 3.8,
+   "ratings": 48,
+   "isFrido": false
+  },
+  {
+   "pos": 4,
+   "title": "FITLOGAN ProGuard Wrist Brace Wrap for Gym Training Pain Relief & Hand Stability Support Wrist Support",
+   "price": null,
+   "rating": 0,
+   "ratings": 0,
+   "isFrido": false
+  },
+  {
+   "pos": 5,
+   "title": "Frido Orthotics Bunion Corrector, Pain Relief & Adjustable Toe Straightener, Pack of 2 Foot Support",
+   "price": null,
+   "rating": 0,
+   "ratings": 0,
+   "isFrido": true
+  },
+  {
+   "pos": 6,
+   "title": "Frido Wedge Plus Memory Foam Cushion for Sleeping, Acid Reflux Relief & Leg Elevator Back / Lumbar Support",
+   "price": null,
+   "rating": 4.2,
+   "ratings": 435,
+   "isFrido": true
+  },
+  {
+   "pos": 7,
+   "title": "FITLOGAN Breathable Mesh Support Splint for Pain Relief & CMC Joint Stability Wrist Support",
+   "price": null,
+   "rating": 0,
+   "ratings": 0,
+   "isFrido": false
+  },
+  {
+   "pos": 8,
+   "title": "FITLOGAN Neoprene Thumb Support Brace with Integrated Splint Wrist Support",
+   "price": null,
+   "rating": 0,
+   "ratings": 0,
+   "isFrido": false
+  },
+  {
+   "pos": 9,
+   "title": "betterhood Wrist Support, ZeroBulk Design for Sports & Injury Recovery, Pack of 1 Wrist Support",
+   "price": null,
+   "rating": 4.1,
+   "ratings": 189,
+   "isFrido": false
+  },
+  {
+   "pos": 10,
+   "title": "Leeford Thumb Spica Splint for Arthritis & Soft Tissue Injuries | Hand Brace for Comfort Splints",
+   "price": null,
+   "rating": 4.1,
+   "ratings": 2001,
+   "isFrido": false
+  }
+ ],
+ "notes": []
+}

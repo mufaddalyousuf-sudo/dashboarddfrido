@@ -1,0 +1,85 @@
+{
+ "category": "orthotics-orthotics-sports-elbow-brace",
+ "marketplace": "flipkart",
+ "keyword": "Frido Orthotics Sports Elbow Brace",
+ "capturedAt": "2026-07-08",
+ "method": "Live scrape flipkart.com mobile search page 1 (__INITIAL_STATE__), query = exact SKU name",
+ "confidence": "Medium-High (live; sponsored flags not exposed on mobile)",
+ "fridoRank": 8,
+ "fridoPresent": true,
+ "results": [
+  {
+   "pos": 1,
+   "title": "HOSPIKART Tennis Elbow Support Brace for Sports with Gel Padding, Universal Size Band for Elbow Support",
+   "price": null,
+   "rating": 4.2,
+   "ratings": 223,
+   "isFrido": false
+  },
+  {
+   "pos": 2,
+   "title": "Leeford Elbow Support Binder | Helps Recover from Injuries & Post-Operative Conditions Elbow Support",
+   "price": null,
+   "rating": 3.9,
+   "ratings": 219,
+   "isFrido": false
+  },
+  {
+   "pos": 3,
+   "title": "TYNOR Tennis Elbow Support, Black, Medium, 1 Unit Elbow Support",
+   "price": null,
+   "rating": 4.3,
+   "ratings": 7588,
+   "isFrido": false
+  },
+  {
+   "pos": 4,
+   "title": "ORTHOPEDIST Arm Brace,Compression Elbow Brace Support Protector for Elbow Support Arm Support",
+   "price": null,
+   "rating": 3.8,
+   "ratings": 9,
+   "isFrido": false
+  },
+  {
+   "pos": 5,
+   "title": "SAMSON Arm Immobilizer Brace Elbow Splint Support (Size:Universal) Splints",
+   "price": null,
+   "rating": 4.1,
+   "ratings": 125,
+   "isFrido": false
+  },
+  {
+   "pos": 6,
+   "title": "Orthotech Elbow Brace Elbow Support",
+   "price": null,
+   "rating": 4,
+   "ratings": 5,
+   "isFrido": false
+  },
+  {
+   "pos": 7,
+   "title": "betterhood Elbow Support Sleeve for Sports, Gym Compression, Tennis Elbow & Injury Recovery Elbow Support",
+   "price": null,
+   "rating": 4.4,
+   "ratings": 55,
+   "isFrido": false
+  },
+  {
+   "pos": 8,
+   "title": "Frido Orthotics Bunion Corrector, Pain Relief & Adjustable Toe Straightener, Pack of 2 Foot Support",
+   "price": null,
+   "rating": 0,
+   "ratings": 0,
+   "isFrido": true
+  },
+  {
+   "pos": 9,
+   "title": "ArrowMax ELBOW BRACE COMPRESSION SUPPORT FOR JOINT AND MUSCLE PAIN AND INJURY PROTECTION Elbow Support",
+   "price": null,
+   "rating": 4.1,
+   "ratings": 108,
+   "isFrido": false
+  }
+ ],
+ "notes": []
+}

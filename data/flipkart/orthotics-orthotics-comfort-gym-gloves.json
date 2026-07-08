@@ -1,0 +1,125 @@
+{
+ "category": "orthotics-orthotics-comfort-gym-gloves",
+ "marketplace": "flipkart",
+ "keyword": "Frido Orthotics Comfort Gym Gloves",
+ "capturedAt": "2026-07-08",
+ "method": "Live scrape flipkart.com mobile search page 1 (__INITIAL_STATE__), query = exact SKU name",
+ "confidence": "Medium-High (live; sponsored flags not exposed on mobile)",
+ "fridoRank": null,
+ "fridoPresent": false,
+ "results": [
+  {
+   "pos": 1,
+   "title": "ADONYX Combo of Knee,Palm, Knee Support",
+   "price": null,
+   "rating": 3.9,
+   "ratings": 11636,
+   "isFrido": false
+  },
+  {
+   "pos": 2,
+   "title": "ADONYX Adustable Compression Foot Pain Relief Ankle Support",
+   "price": null,
+   "rating": 4,
+   "ratings": 3104,
+   "isFrido": false
+  },
+  {
+   "pos": 3,
+   "title": "ADONYX 1 Pack Knee Compression Sleeve, Knee Support for Sports Workout Knee Support",
+   "price": null,
+   "rating": 4,
+   "ratings": 2992,
+   "isFrido": false
+  },
+  {
+   "pos": 4,
+   "title": "ADONYX Premium 3D Sport Ankle Brace Protector Compression Protection Guard Pain Relief Ankle Support",
+   "price": null,
+   "rating": 3.9,
+   "ratings": 2345,
+   "isFrido": false
+  },
+  {
+   "pos": 5,
+   "title": "VICTORY POWER Gym Gloves for Men & Women with Wrist Support for Weightlifting, Exercise Gym & Fitness Gloves",
+   "price": null,
+   "rating": 4.1,
+   "ratings": 159,
+   "isFrido": false
+  },
+  {
+   "pos": 6,
+   "title": "Cult Workout Gym Gloves XL Black Red Gym & Fitness Gloves",
+   "price": null,
+   "rating": 4.2,
+   "ratings": 750,
+   "isFrido": false
+  },
+  {
+   "pos": 7,
+   "title": "Strivex Fitness Mens Gym Gloves with half Wrist Support / Anti Slip Gloves Gym & Fitness Gloves",
+   "price": null,
+   "rating": 3.9,
+   "ratings": 10,
+   "isFrido": false
+  },
+  {
+   "pos": 8,
+   "title": "MAYOR Prolift Gym Gloves With Wrist Support, Weight Lifting Gloves (Free Size) Gym & Fitness Gloves",
+   "price": null,
+   "rating": 4,
+   "ratings": 3171,
+   "isFrido": false
+  },
+  {
+   "pos": 9,
+   "title": "DreamFit 20 kg PVC Adjustable Dumbbell With Free Gym Gloves and Hand Grip Adjustable Dumbbell",
+   "price": null,
+   "rating": 3.8,
+   "ratings": 287,
+   "isFrido": false
+  },
+  {
+   "pos": 10,
+   "title": "MAYOR Tesla Gym Gloves With Wrist Support, Weight Lifting Gloves (Free Size) Gym & Fitness Gloves",
+   "price": null,
+   "rating": 3.9,
+   "ratings": 2421,
+   "isFrido": false
+  },
+  {
+   "pos": 11,
+   "title": "Homeistic Applience Cotton UV Protection Arm Sleeves/Hand Socks - Fingerless, Sun Protection Gloves Gym & Fitness Gloves",
+   "price": null,
+   "rating": 4.1,
+   "ratings": 18302,
+   "isFrido": false
+  },
+  {
+   "pos": 12,
+   "title": "MAYOR Apex Gym & Fitness Gloves",
+   "price": null,
+   "rating": 3.5,
+   "ratings": 33,
+   "isFrido": false
+  },
+  {
+   "pos": 13,
+   "title": "zaysoo Tactical Military Hard Soft Knuckle Army Combat Baseball Gloves",
+   "price": null,
+   "rating": 3.8,
+   "ratings": 48,
+   "isFrido": false
+  },
+  {
+   "pos": 14,
+   "title": "Best-Quality-Hub Gym Workouts Fitness Gloves Weight Lifting Gym Fitness Gloves Gym & Fitness Gloves",
+   "price": null,
+   "rating": 4,
+   "ratings": 33,
+   "isFrido": false
+  }
+ ],
+ "notes": []
+}

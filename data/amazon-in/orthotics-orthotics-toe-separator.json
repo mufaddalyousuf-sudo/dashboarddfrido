@@ -1,0 +1,196 @@
+{
+ "category": "orthotics-orthotics-toe-separator",
+ "marketplace": "amazon-in",
+ "keyword": "Frido Orthotics Toe Separator",
+ "capturedAt": "2026-07-08",
+ "method": "Live scrape amazon.in search page 1, query = exact SKU name (brand-qualified)",
+ "confidence": "High (live snapshot, single keyword)",
+ "fridoOrganicRank": 1,
+ "fridoSponsoredSlot": null,
+ "organic": [
+  {
+   "asin": "B0FN41XZPD",
+   "badge": null,
+   "price": null,
+   "rating": "3.8",
+   "reviews": "61",
+   "title": "Orthotics Toe Separator | Ergonomic Gel Toe Straightener for Bunion Relief | Toe Corrector for Women & Men | Foot Alignment Spacer for Overlapping Toes & Foot P",
+   "rank": 1,
+   "isFridoBrand": true
+  },
+  {
+   "asin": "B0DHKLTK6H",
+   "badge": null,
+   "price": "219",
+   "rating": "3.6",
+   "reviews": "835",
+   "title": "Silicone Toe Separator For Feet Gel Pads Big Toe Corrector Bunion Straightener Yoga Stretcher Hammer Bunion White [Pair of 1-2 Pieces]",
+   "rank": 2
+  },
+  {
+   "asin": "B0B4BL56WL",
+   "badge": null,
+   "price": "160",
+   "rating": "4.1",
+   "reviews": "843",
+   "title": "Silicone Gel Toe Separators, 5 Holes High Elastic Toe Straightener Hammer Hallux Valgus Corrector Pain Relief Toe Straightener Achilles Stretcher, Toe Spacers B",
+   "rank": 3
+  },
+  {
+   "asin": "B0F5NRP6HR",
+   "badge": null,
+   "price": "146",
+   "rating": "4.2",
+   "reviews": "98",
+   "title": "Toe Separator for Feet Toe Spacers Correct Toes Yoga Silicone Hammer Toe Corrector for Women & Men Correct Toe Straighteners for Overlapping Toes (Toe Separator",
+   "rank": 4
+  },
+  {
+   "asin": "B0GVJ1KS5R",
+   "badge": null,
+   "price": "140",
+   "rating": "4.5",
+   "reviews": "58",
+   "title": "Silicone Gel Toe Separators, 5 Holes High Elastic Toe Straightener Hammer Hallux Valgus Corrector Pain Relief Toe Straightener Achilles Stretcher, Toe Spacers B",
+   "rank": 5
+  },
+  {
+   "asin": "B0FDL6CFFC",
+   "badge": null,
+   "price": "350",
+   "rating": "4.5",
+   "reviews": "198",
+   "title": "Bunion Corrector(2PCS), Toe Separators for Women And Men,Bunion Corrector Relief for Men,Hammer Big Toe Straightener for Overlapping Toe, Relieve Foot Pain, Hal",
+   "rank": 6
+  },
+  {
+   "asin": "B00SVEW9J2",
+   "badge": null,
+   "price": "299",
+   "rating": "4.1",
+   "reviews": "2,506",
+   "title": "Toe Separators By Envelop - Toe Spacers Provide Bunion Relief & Improve Circulation - Durable Silicone Gel Makes the Perfect Toe Separator That Supports & Comfo",
+   "rank": 7
+  },
+  {
+   "asin": "B0BTB5WM13",
+   "badge": null,
+   "price": "198",
+   "rating": "3.9",
+   "reviews": "1,650",
+   "title": "Toe Separator for Feet Toe Spacers Correct Toes Yoga Silicone Hammer Toe Corrector for Women & Men Correct Toe Straighteners for Overlapping Toes (Toe Separator",
+   "rank": 8
+  },
+  {
+   "asin": "B0GVJKPT9N",
+   "badge": null,
+   "price": "165",
+   "rating": "4.3",
+   "reviews": "49",
+   "title": "Silicone Gel Toe Separators, 5 Holes High Elastic Toe Straightener Hammer Hallux Valgus Corrector Pain Relief Toe Straightener Achilles Stretcher, Toe Spacers B",
+   "rank": 9
+  },
+  {
+   "asin": "B0F7XVC6NN",
+   "badge": null,
+   "price": "245",
+   "rating": "3.3",
+   "reviews": "47",
+   "title": "Toe Spacers Separators to Correct Bunions, Forefoot Pads, Hammertoe Corrector Big Toe Straighteners for Women Men Foot Pain Relief",
+   "rank": 10
+  }
+ ],
+ "sponsored": [
+  {
+   "asin": "B0DHKLTK6H",
+   "badge": null,
+   "price": "219",
+   "rating": "3.6",
+   "reviews": "835",
+   "title": "Silicone Toe Separator For Feet Gel Pads Big Toe Corrector Bunion Straightener Yoga Stretcher Hammer Bunion White [Pair of 1-2 Pieces]",
+   "slot": 1
+  },
+  {
+   "asin": "B0DK3N7FBR",
+   "badge": null,
+   "price": "1,190",
+   "rating": "4.0",
+   "reviews": "234",
+   "title": "ERGO Bunion Corrector - 1 year Warranty - Orthopedic Bunion Toe Straightener - Foot Thumb Straightener - Foot Support - For Men & Women - Medical Grade Splint -",
+   "slot": 2
+  },
+  {
+   "asin": "B0DHXC1FH3",
+   "badge": "Bestseller",
+   "price": "999",
+   "rating": "4.0",
+   "reviews": "571",
+   "title": "(Max Group Bunion Corrector | Orthopedic Bunion Splint for Men & Women | Toe Corrector with Rotating Knob, Universal Fit for Left & Right Foot | Leg Finger Stra",
+   "slot": 3
+  },
+  {
+   "asin": "B0GHF6HM32",
+   "badge": null,
+   "price": "313",
+   "rating": "5.0",
+   "reviews": "1",
+   "title": "Foot Alignment Socks 5 Finger Toe Separator for Men & Women, Plantar Fasciitis Leg Foot Pain Relief Bunion Corrector, Hallux Valgus, Orthopaedic Socks for Offic",
+   "slot": 4
+  },
+  {
+   "asin": "B0GVJ35RSN",
+   "badge": null,
+   "price": "179",
+   "rating": "4.5",
+   "reviews": "58",
+   "title": "Silicone Gel Toe Separators, 5 Holes High Elastic Toe Straightener Hammer Hallux Valgus Corrector Pain Relief Toe Straightener Achilles Stretcher, Toe Spacers B",
+   "slot": 5
+  },
+  {
+   "asin": "B0FTWB2MT3",
+   "badge": null,
+   "price": "149",
+   "rating": "3.6",
+   "reviews": "46",
+   "title": "Silicone Toe Separator For Feet Gel Pads Big Toe Corrector Bunion Straightener Yoga Stretcher Hammer Bunion White - 1 Pair",
+   "slot": 6
+  },
+  {
+   "asin": "B0DXBTFZDY",
+   "badge": null,
+   "price": "233",
+   "rating": "4.4",
+   "reviews": "8",
+   "title": "Toe Separator Bunion Splint | Toe Spacer for Men Women | Orthopedic Toe Straightener Improves Foot Alignment (1, Blue)",
+   "slot": 7
+  },
+  {
+   "asin": "B0G1LY9KWC",
+   "badge": null,
+   "price": "279",
+   "rating": "4.4",
+   "reviews": "183",
+   "title": "Foot Alignment Socks women 5 Finger Toe Separator for Men & Women (Free Size | Black) Plantar Fasciitis Leg Foot Pain Relief Bunion Corrector Hallux Valgus, Ort",
+   "slot": 8
+  },
+  {
+   "asin": "B0DTKC8SJ2",
+   "badge": null,
+   "price": "298",
+   "rating": "3.8",
+   "reviews": "696",
+   "title": "Foot Alignment Orthopedic Cotton Socks for Men & Women | Five Toe Separator | Foot Pain Relief | Bunion Corrector | Plantar Fasciitis Support | Improves Posture",
+   "slot": 9
+  },
+  {
+   "asin": "B07MMJ3QL4",
+   "badge": null,
+   "price": "299",
+   "rating": "3.0",
+   "reviews": "25",
+   "title": "Silicone Toe Separator Hallux Valgus Bunion Treatment Orthopedic Brace (Pair) (Set of 3)",
+   "slot": 10
+  }
+ ],
+ "notes": []
+}

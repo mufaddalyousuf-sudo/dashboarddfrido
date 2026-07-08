@@ -545,11 +545,76 @@
    "priority": "P2",
    "datasets": [
     {
-     "id": "orthotics-posture-corrector",
-     "keyword": "posture corrector",
+     "id": "orthotics-orthotics-bamboo-knee-cap",
+     "keyword": "Frido Orthotics Bamboo Knee Cap",
      "primary": true
+    },
+    {
+     "id": "orthotics-orthotics-posture-corrector-pro",
+     "keyword": "Frido Orthotics Posture Corrector Pro"
+    },
+    {
+     "id": "orthotics-orthotics-posture-corrector",
+     "keyword": "Frido Orthotics Posture Corrector"
+    },
+    {
+     "id": "orthotics-orthotics-heel-protector",
+     "keyword": "Frido Orthotics Heel Protector"
+    },
+    {
+     "id": "orthotics-orthotics-knee-support-wrap",
+     "keyword": "Frido Orthotics Knee Support Wrap"
+    },
+    {
+     "id": "orthotics-active-knee-cap-support",
+     "keyword": "Frido Active Knee Cap Support"
+    },
+    {
+     "id": "orthotics-orthotics-toe-separator",
+     "keyword": "Frido Orthotics Toe Separator"
+    },
+    {
+     "id": "orthotics-lumbo-sacral-belt",
+     "keyword": "Frido Lumbo Sacral Belt"
+    },
+    {
+     "id": "orthotics-orthotics-bunion-corrector",
+     "keyword": "Frido Orthotics Bunion Corrector"
+    },
+    {
+     "id": "orthotics-kinesiology-tape",
+     "keyword": "Frido Kinesiology Tape"
+    },
+    {
+     "id": "orthotics-mouse-wrist-support",
+     "keyword": "Frido Mouse Wrist Support"
+    },
+    {
+     "id": "orthotics-orthotics-compression-gloves",
+     "keyword": "Frido Orthotics Compression Gloves"
+    },
+    {
+     "id": "orthotics-orthotics-sports-knee-cap-support",
+     "keyword": "Frido Orthotics Sports Knee Cap Support"
+    },
+    {
+     "id": "orthotics-orthotics-wrist-support-brace",
+     "keyword": "Frido Orthotics Wrist Support Brace"
+    },
+    {
+     "id": "orthotics-orthotics-comfort-gym-gloves",
+     "keyword": "Frido Orthotics Comfort Gym Gloves"
+    },
+    {
+     "id": "orthotics-orthotics-posture-corrector-seat",
+     "keyword": "Frido Orthotics Posture Corrector Seat"
+    },
+    {
+     "id": "orthotics-orthotics-sports-elbow-brace",
+     "keyword": "Frido Orthotics Sports Elbow Brace"
     }
-   ]
+   ],
+   "skuSource": "frido-product-catalog.json (full base-SKU research, 2026-07-08)"
   },
   {
    "id": "personal-care",

@@ -1,0 +1,85 @@
+{
+ "category": "orthotics-orthotics-toe-separator",
+ "marketplace": "flipkart",
+ "keyword": "Frido Orthotics Toe Separator",
+ "capturedAt": "2026-07-08",
+ "method": "Live scrape flipkart.com mobile search page 1 (__INITIAL_STATE__), query = exact SKU name",
+ "confidence": "Medium-High (live; sponsored flags not exposed on mobile)",
+ "fridoRank": 1,
+ "fridoPresent": true,
+ "results": [
+  {
+   "pos": 1,
+   "title": "Frido Orthotics Bunion Corrector, Pain Relief & Adjustable Toe Straightener, Pack of 2 Foot Support",
+   "price": null,
+   "rating": 0,
+   "ratings": 0,
+   "isFrido": true
+  },
+  {
+   "pos": 2,
+   "title": "AGEasy Orthopedic Toe Straightener Bunion Corrector with Adjustable Rotating Knob",
+   "price": null,
+   "rating": 4,
+   "ratings": 1236,
+   "isFrido": false
+  },
+  {
+   "pos": 3,
+   "title": "Frido Toe Separator for Bunion Relief and Alignment Blue Size S Finger Support",
+   "price": null,
+   "rating": 3.2,
+   "ratings": 14,
+   "isFrido": true
+  },
+  {
+   "pos": 4,
+   "title": "RADHADHIRAJ Anti Crack Toe Protector Soft Silica Gel Milk White Foot Protector Silicone Bunion Corrector & Relief Protector Treat Pain in Hallux Valgus Spacers ",
+   "price": null,
+   "rating": 3.1,
+   "ratings": 32,
+   "isFrido": false
+  },
+  {
+   "pos": 5,
+   "title": "Frido Arch Support Rigid Insole for Flat Feet, Relieves Feet Pain, Large 9-11 UK PU Foam Arch Orthotic Shoe Insole",
+   "price": null,
+   "rating": 3.9,
+   "ratings": 225,
+   "isFrido": true
+  },
+  {
+   "pos": 6,
+   "title": "jorex mart Gel Toe Spacers for Comfort, Pain Relief, and Better Foot Posture",
+   "price": null,
+   "rating": 0,
+   "ratings": 0,
+   "isFrido": false
+  },
+  {
+   "pos": 7,
+   "title": "jorex mart Reusable Toe Separators for Overlapping Toes and Foot Care",
+   "price": null,
+   "rating": 0,
+   "ratings": 0,
+   "isFrido": false
+  },
+  {
+   "pos": 8,
+   "title": "USOXO Cotton Foot Alignment Socks I Finger Toe Separator I Free Size for Men & Women Foot Support",
+   "price": null,
+   "rating": 3.9,
+   "ratings": 461,
+   "isFrido": false
+  },
+  {
+   "pos": 9,
+   "title": "Wonder Care Silicone Toe Separator | Bunion Corrector for Men | Women [1Pair] Foot Support",
+   "price": null,
+   "rating": 3.8,
+   "ratings": 167,
+   "isFrido": false
+  }
+ ],
+ "notes": []
+}

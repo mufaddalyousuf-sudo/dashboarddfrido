@@ -1,0 +1,169 @@
+{
+ "category": "orthotics-mouse-wrist-support",
+ "marketplace": "amazon-in",
+ "keyword": "Frido Mouse Wrist Support",
+ "capturedAt": "2026-07-08",
+ "method": "Live scrape amazon.in search page 1, query = exact SKU name (brand-qualified)",
+ "confidence": "High (live snapshot, single keyword)",
+ "fridoOrganicRank": 1,
+ "fridoSponsoredSlot": null,
+ "organic": [
+  {
+   "asin": "B0FBKGNXDT",
+   "badge": null,
+   "price": "699",
+   "rating": "3.6",
+   "reviews": "4",
+   "title": "Mouse Wrist Support (Left Hand) | Smooth Gliding Wrist Rest for Wrist Pain & Carpal Tunnel Syndrome Relief | for Laptop, Office & Gaming | Universal Fit Wrist P",
+   "rank": 1,
+   "isFridoBrand": true
+  },
+  {
+   "asin": "B0C58N7K9F",
+   "badge": null,
+   "price": "599",
+   "rating": "4.1",
+   "reviews": "97",
+   "title": "Ergonomic Right Hand Wrist Pad For Mouse & Keyboard| Skin-Friendly Smooth Movement Palm Support For Home/Office/Gaming| RSI & Carpal Tunnel Syndrome Wrist Pain ",
+   "rank": 2
+  },
+  {
+   "asin": "B0BYVJX6PW",
+   "badge": null,
+   "price": "139",
+   "rating": "4.1",
+   "reviews": "2,165",
+   "title": "Mouse Pad, Ergonomic Mouse Pad with Comfortable Gel Wrist Rest Support and Lycra Cloth, Non-Slip PU Base for Easy Typing Pain Relief, Durable and Washable, Clas",
+   "rank": 3
+  },
+  {
+   "asin": "B0FTVBKL96",
+   "badge": null,
+   "price": "349",
+   "rating": "4.0",
+   "reviews": "12",
+   "title": "Gaming Mouse Wrist Rest Pad - Ergonomic Right-Hand Support with Soft Silicone Top, ABS Base & Natural Tilt for Office/PC Use Pain-Relief Palm Cushion Silicone W",
+   "rank": 4
+  },
+  {
+   "asin": "B08W9N38PC",
+   "badge": null,
+   "price": "448",
+   "rating": "3.9",
+   "reviews": "3,909",
+   "title": "Soft Gel Memory Foam Ergonomic Wrist Rest, Slip Resistant, Comfortable Keyboard and Mouse Pad Cushion Set, Typing Pain Relief, Support for Office Computer Desks",
+   "rank": 5
+  },
+  {
+   "asin": "B0FT8R9T2D",
+   "badge": null,
+   "price": "499",
+   "rating": "4.4",
+   "reviews": "66",
+   "title": "Mouse & Keyboard Wrist Rest Pad Padded Memory Foam Hand Rest Non-Slip Footpad - 14.3\" Ergonomic Design Wrist Support for Office, Computer, Laptop, Mac Typing Pa",
+   "rank": 6
+  },
+  {
+   "asin": "B0FRY3SFKQ",
+   "badge": null,
+   "price": "315",
+   "rating": "4.4",
+   "reviews": "66",
+   "title": "Ergonomic Mouse Pad with Wrist Support Non-Slip Rubber Base, Gel Wrist Rest, Pain Relief, Durable, Comfortable Mouse Pad for Gaming, Home, Office, Laptop (Set o",
+   "rank": 7
+  },
+  {
+   "asin": "B0DPC84S58",
+   "badge": null,
+   "price": "799",
+   "rating": "3.9",
+   "reviews": "75",
+   "title": "Right-Handed Truly Ergonomic Wrist Rest for Mouse, Carpal Tunnel Support, Pain Relief, Anti-Fatigue, Easy Glide, Sleek, Office, Computer, Laptop, Gaming -Black",
+   "rank": 8
+  },
+  {
+   "asin": "B08WLY85VT",
+   "badge": null,
+   "price": "439",
+   "rating": "4.5",
+   "reviews": "12,193",
+   "title": "Gel Mouse Pad Wrist Rest Memory-Foam Ergonomic Mousepad| Cushion Wrist Support & Pain Relief| Suitable for Gaming, Computer, Laptop, Home & Office Non-Slip Rubb",
+   "rank": 9
+  },
+  {
+   "asin": "B0CQWQ19HF",
+   "badge": null,
+   "price": "299",
+   "rating": "4.2",
+   "reviews": "44",
+   "title": "Natural Solid Sheesham Wood, Wooden Wrist Rest Mouse Holder Pad Single Hand Support for Computer & Laptop Lover",
+   "rank": 10
+  }
+ ],
+ "sponsored": [
+  {
+   "asin": "B0C58N7K9F",
+   "badge": null,
+   "price": "599",
+   "rating": "4.1",
+   "reviews": "97",
+   "title": "Ergonomic Right Hand Wrist Pad For Mouse & Keyboard| Skin-Friendly Smooth Movement Palm Support For Home/Office/Gaming| RSI & Carpal Tunnel Syndrome Wrist Pain ",
+   "slot": 1
+  },
+  {
+   "asin": "B0H5CVNT2F",
+   "badge": null,
+   "price": "649",
+   "rating": null,
+   "reviews": null,
+   "title": "Computer Wrist Support, Memory Foam Keyboard Wrist Rest Support, Wrist Rest Support for Computer,Laptop, Gaming and Office, Keyboard and Mouse Wrist Rest Pad Su",
+   "slot": 2
+  },
+  {
+   "asin": "B0D4M7TD4X",
+   "badge": null,
+   "price": "850",
+   "rating": "4.6",
+   "reviews": "1,726",
+   "title": "Mouse Pad Wrist Support with Massage Design,Ergonomic Mouse Mat,Mousepad Wrist Rest Pain Relief with Memory Foam&Non-Slip Silicone Base,Gaming Mouse Pads for De",
+   "slot": 3
+  },
+  {
+   "asin": "B08C555WHM",
+   "badge": null,
+   "price": "999",
+   "rating": "4.3",
+   "reviews": "810",
+   "title": "Keyboard Wrist Rest Pad Padded Memory Foam Hand Rest Support for Office, Computer, Laptop, Mac Typing and Wrist Pain Relief and Repair(17.32inch,Black)",
+   "slot": 4
+  },
+  {
+   "asin": "B0FQCGB3NQ",
+   "badge": null,
+   "price": "989",
+   "rating": "4.7",
+   "reviews": "12",
+   "title": "Cloudy Canvas Keyboard Wrist Rest Pad Full Set – 16.5\" Ergonomic Palm Rest Non-Slip and Soft Cushion for Typing Pain Relief & Hand Support, Office, Computer, La",
+   "slot": 5
+  },
+  {
+   "asin": "B0GWJQVBCB",
+   "badge": null,
+   "price": "429",
+   "rating": "5.0",
+   "reviews": "1",
+   "title": "Cloudy Canvas Mouse Wrist Rest Pad Ergonomic Palm Rest Non-Slip and Soft Cushion for Typing Pain Relief & Hand Support, Office, Computer, Laptop, Gaming Desk Ac",
+   "slot": 6
+  },
+  {
+   "asin": "B08W9N38PC",
+   "badge": null,
+   "price": "448",
+   "rating": "3.9",
+   "reviews": "3,909",
+   "title": "Soft Gel Memory Foam Ergonomic Wrist Rest, Slip Resistant, Comfortable Keyboard and Mouse Pad Cushion Set, Typing Pain Relief, Support for Office Computer Desks",
+   "slot": 7
+  }
+ ],
+ "notes": []
+}

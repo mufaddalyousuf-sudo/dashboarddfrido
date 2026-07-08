@@ -1,0 +1,93 @@
+{
+ "category": "orthotics-orthotics-bamboo-knee-cap",
+ "marketplace": "flipkart",
+ "keyword": "Frido Orthotics Bamboo Knee Cap",
+ "capturedAt": "2026-07-08",
+ "method": "Live scrape flipkart.com mobile search page 1 (__INITIAL_STATE__), query = exact SKU name",
+ "confidence": "Medium-High (live; sponsored flags not exposed on mobile)",
+ "fridoRank": 5,
+ "fridoPresent": true,
+ "results": [
+  {
+   "pos": 1,
+   "title": "HEAREAL Unisex Stretchable Compression Knee Cap Brace for Joint Pain Relief BEIGE (PAIR) Knee Support",
+   "price": null,
+   "rating": 0,
+   "ratings": 0,
+   "isFrido": false
+  },
+  {
+   "pos": 2,
+   "title": "PLETHEON Compression Knee Support for Pain Relief, Sports, Gym & Injury Recovery Knee Support",
+   "price": null,
+   "rating": 4,
+   "ratings": 257,
+   "isFrido": false
+  },
+  {
+   "pos": 3,
+   "title": "HEAREAL HEALTH CARE Unisex Knee cap Brace For Joint Pain & Arthritis Relief Knee Support (BEIGE) Knee Support",
+   "price": null,
+   "rating": 3.9,
+   "ratings": 30,
+   "isFrido": false
+  },
+  {
+   "pos": 4,
+   "title": "ORTHOPEDIST Knee Cap Sleeves for Running Jogging Gym Squats for Sports Arthritis Pain Relief Knee Support",
+   "price": null,
+   "rating": 0,
+   "ratings": 0,
+   "isFrido": false
+  },
+  {
+   "pos": 5,
+   "title": "Frido Active Knee Cap for Pain Relief, Joint Support & Injury Recovery, Black, Medium Knee Support",
+   "price": null,
+   "rating": 4.4,
+   "ratings": 356,
+   "isFrido": true
+  },
+  {
+   "pos": 6,
+   "title": "Helistar Knee Cap for Pain Relief, Sports, Gym, Exercise, Running for Men & Women Knee Support",
+   "price": null,
+   "rating": 3.6,
+   "ratings": 31,
+   "isFrido": false
+  },
+  {
+   "pos": 7,
+   "title": "Gaara Knee Support for Men and Women, Knee Cap Brace for Knee Pain, Running, Arthritis Knee Support",
+   "price": null,
+   "rating": 3.7,
+   "ratings": 442,
+   "isFrido": false
+  },
+  {
+   "pos": 8,
+   "title": "Conybio Bio-Ceramic FIR Knee Support",
+   "price": null,
+   "rating": 4.9,
+   "ratings": 12,
+   "isFrido": false
+  },
+  {
+   "pos": 9,
+   "title": "Salo Orthotics Knock Knee & Bow Legs Brace - Genu Valgum Genu Varum (SIZE -Pair of 19 inches) Knee Support",
+   "price": null,
+   "rating": 3.5,
+   "ratings": 73,
+   "isFrido": false
+  },
+  {
+   "pos": 10,
+   "title": "iamalot Bamboo Knee Support Cap Brace/Sleeves Pair For Sports, Pain Relief Knee Support",
+   "price": null,
+   "rating": 0,
+   "ratings": 0,
+   "isFrido": false
+  }
+ ],
+ "notes": []
+}

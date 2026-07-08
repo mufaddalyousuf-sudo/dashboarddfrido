@@ -1,0 +1,196 @@
+{
+ "category": "orthotics-orthotics-knee-support-wrap",
+ "marketplace": "amazon-in",
+ "keyword": "Frido Orthotics Knee Support Wrap",
+ "capturedAt": "2026-07-08",
+ "method": "Live scrape amazon.in search page 1, query = exact SKU name (brand-qualified)",
+ "confidence": "High (live snapshot, single keyword)",
+ "fridoOrganicRank": 1,
+ "fridoSponsoredSlot": null,
+ "organic": [
+  {
+   "asin": "B0GXG51818",
+   "badge": null,
+   "price": "699",
+   "rating": "4.5",
+   "reviews": "30",
+   "title": "Orthotics Knee Support Wrap | Adjustable Knee Brace with Open Patella & Compression | Pain Relief for Arthritis, Meniscus Tear, Injury | Gym, Sports, Running, W",
+   "rank": 1,
+   "isFridoBrand": true
+  },
+  {
+   "asin": "B0GXFXCKNK",
+   "badge": null,
+   "price": "699",
+   "rating": "4.5",
+   "reviews": "30",
+   "title": "Orthotics Knee Support Wrap | Adjustable Knee Brace with Open Patella & Compression | Pain Relief for Arthritis, Meniscus Tear, Injury | Gym, Sports, Running, W",
+   "rank": 2
+  },
+  {
+   "asin": "B0F5WYXVHF",
+   "badge": "Bestseller",
+   "price": "899",
+   "rating": "4.3",
+   "reviews": "1,225",
+   "title": "Active Knee Cap Support for Men & Women | Active Compression for Pain Relief & Joint Support | Knee Sleeve for Gym, Running, Jogging, Sports & Workout | Anti-Sw",
+   "rank": 3
+  },
+  {
+   "asin": "B0FDGN4G29",
+   "badge": null,
+   "price": "599",
+   "rating": "4.4",
+   "reviews": "442",
+   "title": "Knee Brace Pair – Compression Knee Cap for Men Pain Relief & Women – Knee Support for Men Gym, Running, Arthritis, Joint Pain, Injury Recovery | (BLACK)",
+   "rank": 4
+  },
+  {
+   "asin": "B0GWHG5W4F",
+   "badge": "Bestseller",
+   "price": "899",
+   "rating": "4.3",
+   "reviews": "1,225",
+   "title": "Active Knee Cap Support for Men & Women | Active Compression for Pain Relief & Joint Support | Knee Sleeve for Gym, Running, Jogging, Sports & Workout | Anti-Sw",
+   "rank": 5
+  },
+  {
+   "asin": "B0GXG427S2",
+   "badge": null,
+   "price": "1,299",
+   "rating": null,
+   "reviews": null,
+   "title": "Orthotics Knee Support Wrap | Adjustable Knee Brace with Open Patella & Compression | Pain Relief for Arthritis, Meniscus Tear, Injury | Gym, Sports, Running, W",
+   "rank": 6
+  },
+  {
+   "asin": "B0GT9NFR6W",
+   "badge": "Bestseller",
+   "price": "899",
+   "rating": "4.3",
+   "reviews": "1,225",
+   "title": "Active Knee Cap Support for Men & Women | Active Compression for Pain Relief & Joint Support | Knee Sleeve for Gym, Running, Jogging, Sports & Workout | Anti-Sw",
+   "rank": 7
+  },
+  {
+   "asin": "B0GMRWC7Y9",
+   "badge": null,
+   "price": "459",
+   "rating": "4.5",
+   "reviews": "88",
+   "title": "Open Patella Support for Arthritis, Ligament Strain, Joint Comfort & Everyday Stability | Adjustable Compression Knee Wear for Men & Women Universal Fit Pair",
+   "rank": 8
+  },
+  {
+   "asin": "B08C2DWFS8",
+   "badge": null,
+   "price": "459",
+   "rating": "4.5",
+   "reviews": "3,418",
+   "title": "Premium Knee Support Open Patella, Breathable Knee Cap Brace for Arthritis, Pain Relief, Sports for Men & Women (Single Piece / 1 Piece (Not a Pair), (Black), F",
+   "rank": 9
+  },
+  {
+   "asin": "B0DFHDYRT1",
+   "badge": null,
+   "price": "699",
+   "rating": "3.9",
+   "reviews": "382",
+   "title": "Adjustable Wrap Knee Support Brace, Air Mesh Fabric Knee Brace Cap for Pain Relief, Sports, Arthritis, Running Protection for Men & Women (1, XXL)",
+   "rank": 10
+  }
+ ],
+ "sponsored": [
+  {
+   "asin": "B0GXG48GNF",
+   "badge": null,
+   "price": "699",
+   "rating": "4.5",
+   "reviews": "30",
+   "title": "Orthotics Knee Support Wrap | Adjustable Knee Brace with Open Patella & Compression | Pain Relief for Arthritis, Meniscus Tear, Injury | Gym, Sports, Running, W",
+   "slot": 1
+  },
+  {
+   "asin": "B08C2DWFS8",
+   "badge": null,
+   "price": "459",
+   "rating": "4.5",
+   "reviews": "3,418",
+   "title": "Premium Knee Support Open Patella, Breathable Knee Cap Brace for Arthritis, Pain Relief, Sports for Men & Women (Single Piece / 1 Piece (Not a Pair), (Black), F",
+   "slot": 2
+  },
+  {
+   "asin": "B0DFHGRB99",
+   "badge": null,
+   "price": "708",
+   "rating": "3.9",
+   "reviews": "382",
+   "title": "Adjustable Wrap Knee Support Brace, Air Mesh Fabric Knee Brace Cap for Pain Relief, Sports, Arthritis, Running Protection for Men & Women (1, XL)",
+   "slot": 3
+  },
+  {
+   "asin": "B0B2VZS43P",
+   "badge": null,
+   "price": "826",
+   "rating": "4.3",
+   "reviews": "163",
+   "title": "Neoprene Premium Knee Support Open Patella, Breathable Knee Cap Brace for Arthritis, Pain Relief, Sports for Men & Women - 1 Pair (Black), Free Size (Black)",
+   "slot": 4
+  },
+  {
+   "asin": "B0GC54DD3D",
+   "badge": null,
+   "price": "449",
+   "rating": "4.9",
+   "reviews": "29",
+   "title": "Open Patella Knee Support Brace – Breathable Neoprene Compression Cap for Arthritis Pain Relief, Running & Gym – Adjustable Knee Wrap for Men & Women (Black, Si",
+   "slot": 5
+  },
+  {
+   "asin": "B0FNKHFV4F",
+   "badge": null,
+   "price": "989",
+   "rating": "4.2",
+   "reviews": "145",
+   "title": "Premium 4-Strap Knee Brace with Stabilizers | Open Patella Knee Support with Side Hinges | Knee Cap Support for Arthritis, Joint Pain & Post-Surgery Recovery | ",
+   "slot": 6
+  },
+  {
+   "asin": "B0DP79WBY9",
+   "badge": null,
+   "price": "1,098",
+   "rating": "4.0",
+   "reviews": "144",
+   "title": "Sports Knee Cap Compression Support for Gym, Running, Jogging, Cycling Sports, Workout, Indoor & Outdoor Activities, Knee Brace, Knee Support For Knee Pain- For",
+   "slot": 7
+  },
+  {
+   "asin": "B0DP6N7TNF",
+   "badge": null,
+   "price": "681",
+   "rating": "4.2",
+   "reviews": "628",
+   "title": "Premium Knee Cap, Knee Brace, Knee Support For Knee Pain Relief, Knee Pad Leg Sleeves, Knee Support For Men and Women - Small",
+   "slot": 8
+  },
+  {
+   "asin": "B0FPFQC85G",
+   "badge": null,
+   "price": "1,626",
+   "rating": "4.0",
+   "reviews": "43",
+   "title": "Knee Brace Ultima with Patella Gel Pads & Side Stabilizers, Nylon Knee Brace for Men and Women, Durable Knee Caps for Sports, Gym Exercise, Running, Cycling, In",
+   "slot": 9
+  },
+  {
+   "asin": "B09GGF8177",
+   "badge": null,
+   "price": "699",
+   "rating": "3.6",
+   "reviews": "155",
+   "title": "Aluminium Knee Immobilizer Brace for Knee support for dislocation injuries ligament tear wraparound five straps for better grip knee stabilizer splint for men &",
+   "slot": 10
+  }
+ ],
+ "notes": []
+}

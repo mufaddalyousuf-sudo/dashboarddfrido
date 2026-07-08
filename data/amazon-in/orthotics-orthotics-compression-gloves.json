@@ -1,0 +1,196 @@
+{
+ "category": "orthotics-orthotics-compression-gloves",
+ "marketplace": "amazon-in",
+ "keyword": "Frido Orthotics Compression Gloves",
+ "capturedAt": "2026-07-08",
+ "method": "Live scrape amazon.in search page 1, query = exact SKU name (brand-qualified)",
+ "confidence": "High (live snapshot, single keyword)",
+ "fridoOrganicRank": 3,
+ "fridoSponsoredSlot": null,
+ "organic": [
+  {
+   "asin": "B0DJFN1Q9D",
+   "badge": null,
+   "price": "399",
+   "rating": "3.8",
+   "reviews": "256",
+   "title": "Compression Gloves for Arthritis for Women and Men, Bamboo Arthritis Compression Gloves for Pain Relief Rheumatoid and Osteoarthritis Gloves",
+   "rank": 1
+  },
+  {
+   "asin": "B0FH4RXPYB",
+   "badge": null,
+   "price": "799",
+   "rating": "5.0",
+   "reviews": "2",
+   "title": "Copper Infused Compression Arthritis Gloves for Hand & Finger Relief from Pain/swelling Caused by Rheumatoid Arthritis, Carpal Tunnel, Tendonitis, RSI, Swollen ",
+   "rank": 2
+  },
+  {
+   "asin": "B0F5X1R5DW",
+   "badge": "Bestseller",
+   "price": "899",
+   "rating": "4.3",
+   "reviews": "1,225",
+   "title": "Active Knee Cap Support for Men & Women | Active Compression for Pain Relief & Joint Support | Knee Sleeve for Gym, Running, Jogging, Sports & Workout | Anti-Sw",
+   "rank": 3,
+   "isFridoBrand": true
+  },
+  {
+   "asin": "B09HV43CMM",
+   "badge": null,
+   "price": "284",
+   "rating": "4.0",
+   "reviews": "547",
+   "title": "Arthritis Gloves Women Men Hand Fingerless Compression Gloves Wrist Support Therapy Gloves Relieve Pain from Rheumatoid RSI Carpal Tunnel for Typing Wirting Dai",
+   "rank": 4
+  },
+  {
+   "asin": "B0CKFJ1YM2",
+   "badge": null,
+   "price": "293",
+   "rating": "4.1",
+   "reviews": "626",
+   "title": "Wrist Brace With Thumb,Wrist Hand Brace For Men & Women, Wrist Support | Support for Pain Relief & Stabilization | Lightweight Wrist Support for Arthritis, Spra",
+   "rank": 5
+  },
+  {
+   "asin": "B0DSJ3PKKW",
+   "badge": null,
+   "price": "341",
+   "rating": "3.9",
+   "reviews": "81",
+   "title": "Compression Gloves for Arthritis – Bamboo Arthritis Gloves for Pain Relief, Rheumatoid and Osteoarthritis Support, Open Finger Design for Flexibility, Ideal for",
+   "rank": 6
+  },
+  {
+   "asin": "B09HV4BFLP",
+   "badge": null,
+   "price": "479",
+   "rating": "4.0",
+   "reviews": "547",
+   "title": "Arthritis Gloves Copper-Infused Fingerless Compression Gloves to Speed Up Recovery & Relieve Symptoms of Arthritis RSI Tendonitis & More for Men & Women - 1 Pai",
+   "rank": 7
+  },
+  {
+   "asin": "B0FHPT8YZ2",
+   "badge": null,
+   "price": "280",
+   "rating": "3.9",
+   "reviews": "21",
+   "title": "Premium Bamboo Arthritis Compression Gloves for Women & Men Fingerless, Breathable, Ergonomic Fit Pain Relief, Flexibility & Sleep Support Medium Gray, M",
+   "rank": 8
+  },
+  {
+   "asin": "B0BMWGLWW5",
+   "badge": null,
+   "price": "284",
+   "rating": "4.0",
+   "reviews": "547",
+   "title": "Arthritis Gloves Women Men Hand Fingerless Compression Wrist Support Therapy Relieve Pain from Rheumatoid RSI Carpal Tunnel for Typing-1 Pair, BlackSimple, M",
+   "rank": 9
+  },
+  {
+   "asin": "B0FNVHTDV9",
+   "badge": null,
+   "price": "937",
+   "rating": "4.7",
+   "reviews": "6",
+   "title": "Arthritis Gloves for Men and Women Hot Cold Compression Gloves with Reusable Gel Finger Therapy Mitts for Pain Relief Ice Heat Pack Treatment Adjustable Wrist S",
+   "rank": 10
+  }
+ ],
+ "sponsored": [
+  {
+   "asin": "B0DJFQYKJT",
+   "badge": null,
+   "price": "399",
+   "rating": "3.8",
+   "reviews": "256",
+   "title": "Compression Gloves for Arthritis for Women and Men, Bamboo Arthritis Compression Gloves for Pain Relief Rheumatoid and Osteoarthritis Gloves",
+   "slot": 1
+  },
+  {
+   "asin": "B0FTT1NJ7J",
+   "badge": null,
+   "price": "1,559",
+   "rating": "4.2",
+   "reviews": "19",
+   "title": "Advanced Microfibre Medical Compression Stockings Class 2(23-32 mmHg) | Knee Length for Varicose Veins, DVT & Swelling | Men & Women",
+   "slot": 2
+  },
+  {
+   "asin": "B0D9BSDHB6",
+   "badge": null,
+   "price": "499",
+   "rating": "3.5",
+   "reviews": "172",
+   "title": "2 Pcs Neuropathy Socks, Compression Socks, Compression Socks for Men Foot Pain Relief Products Open Toe Foot Sleeves Compression Socks for Ankle Swelling Achill",
+   "slot": 3
+  },
+  {
+   "asin": "B0DQLLX648",
+   "badge": null,
+   "price": "17,990",
+   "rating": null,
+   "reviews": null,
+   "title": "KuMed Syrebo Robotic Rehabilitation Gloves for Paralysis Patients Model E12 Left Hand (Medium)",
+   "slot": 4
+  },
+  {
+   "asin": "B0DQTPHLS8",
+   "badge": null,
+   "price": "7,999",
+   "rating": "3.1",
+   "reviews": "21",
+   "title": "KuMed Syrebo Robotic Rehabilitation Hand Gloves for Paralysis Patients Model C10 Left Hand (Medium)",
+   "slot": 5
+  },
+  {
+   "asin": "B0FQW8NMLQ",
+   "badge": null,
+   "price": "13,899",
+   "rating": null,
+   "reviews": null,
+   "title": "Robotic Hand rehabilitation Glove Both hands Finger Rehabilitation Trainer Robot Gloves, Therapy Equipment For Stroke Fingers, Stroke Hand Recovery Equipment BO",
+   "slot": 6
+  },
+  {
+   "asin": "B0FBRBJH83",
+   "badge": null,
+   "price": "799",
+   "rating": "3.9",
+   "reviews": "8",
+   "title": "Black Grip Gloves, Arthritis Compression Gloves, Touch Screen Copper Arthritis Glove, Best Copper Infused Gaming Glove for Relieving RSI, Carpal Tunnel, Rheumat",
+   "slot": 7
+  },
+  {
+   "asin": "B0BLZ42CC6",
+   "badge": "Bestseller",
+   "price": "188",
+   "rating": "4.1",
+   "reviews": "1,263",
+   "title": "Thumb Splint | Wrist band for pain relief | Right and left hand support | Wrist Support | Thumb Spica Splint | Universal Size - Grey",
+   "slot": 8
+  },
+  {
+   "asin": "B09N18N1VR",
+   "badge": null,
+   "price": "929",
+   "rating": "3.5",
+   "reviews": "5",
+   "title": "Unisex Compression Arthritis Gloves – Fingerless Hand Support for Pain Relief, Compression Gloves for Arthritis, Carpal Tunnel & Hand Support",
+   "slot": 9
+  },
+  {
+   "asin": "B0GDDTWC8R",
+   "badge": null,
+   "price": "427",
+   "rating": "4.1",
+   "reviews": "119",
+   "title": "Elbow Wrap for Men and Women, Neoprene, Universal | Gym Workout, Badminton, Pain Relief & Joint Support, Tennis Elbow Guard",
+   "slot": 10
+  }
+ ],
+ "notes": []
+}

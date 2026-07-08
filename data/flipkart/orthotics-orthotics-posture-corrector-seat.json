@@ -1,0 +1,117 @@
+{
+ "category": "orthotics-orthotics-posture-corrector-seat",
+ "marketplace": "flipkart",
+ "keyword": "Frido Orthotics Posture Corrector Seat",
+ "capturedAt": "2026-07-08",
+ "method": "Live scrape flipkart.com mobile search page 1 (__INITIAL_STATE__), query = exact SKU name",
+ "confidence": "Medium-High (live; sponsored flags not exposed on mobile)",
+ "fridoRank": 5,
+ "fridoPresent": true,
+ "results": [
+  {
+   "pos": 1,
+   "title": "TENACT Lumbar Support Belt for men and women LS Belt and Backpain Relief Belt Back / Lumbar Support",
+   "price": null,
+   "rating": 4.2,
+   "ratings": 3138,
+   "isFrido": false
+  },
+  {
+   "pos": 2,
+   "title": "TENACT Premium Lumbar Support Belt for Men and Women Back Support Belt (30.1-34 inch) Back / Lumbar Support",
+   "price": null,
+   "rating": 3.9,
+   "ratings": 713,
+   "isFrido": false
+  },
+  {
+   "pos": 3,
+   "title": "TENACT Back Support Belt for Men & Women Lumbo Sacral Belt for Backpain Relief Back / Lumbar Support",
+   "price": null,
+   "rating": 4,
+   "ratings": 84,
+   "isFrido": false
+  },
+  {
+   "pos": 4,
+   "title": "TENACT Lumbo Sacral Belt for Backpain Relief men & women with Dual Adjustable Straps Back / Lumbar Support",
+   "price": null,
+   "rating": 3.6,
+   "ratings": 14,
+   "isFrido": false
+  },
+  {
+   "pos": 5,
+   "title": "Frido Ultimate Pro Seat Cushion & Posture Corrector Backrest Combo Back / Lumbar Support",
+   "price": null,
+   "rating": 4,
+   "ratings": 385,
+   "isFrido": true
+  },
+  {
+   "pos": 6,
+   "title": "Frido Ultimate Pro Posture Corrector Back Cushion for Lumbar Support & Pain Relief Posture Corrector",
+   "price": null,
+   "rating": 3.9,
+   "ratings": 27,
+   "isFrido": true
+  },
+  {
+   "pos": 7,
+   "title": "COIF Advanced Posture Corrector for Men & Women ,Free Size Posture Corrector",
+   "price": null,
+   "rating": 4,
+   "ratings": 6,
+   "isFrido": false
+  },
+  {
+   "pos": 8,
+   "title": "TENACT Posture Corrector Belt Pro Fix for Men & Women Straight Back pain Relief Posture Corrector",
+   "price": null,
+   "rating": 3.8,
+   "ratings": 8159,
+   "isFrido": false
+  },
+  {
+   "pos": 9,
+   "title": "TENACT Breathable Shoulder Support Posture Corrector Belt for Men & Women Fitness Posture Corrector",
+   "price": null,
+   "rating": 0,
+   "ratings": 0,
+   "isFrido": false
+  },
+  {
+   "pos": 10,
+   "title": "HOC Body Back Posture Correcting Belt Backbone Clavicle Brace Shoulder Support Belt Posture Corrector",
+   "price": null,
+   "rating": 2.6,
+   "ratings": 7,
+   "isFrido": false
+  },
+  {
+   "pos": 11,
+   "title": "Curify Posture Corrector Back Support Brace Magnetic Therapy Back Support Belt Posture Corrector",
+   "price": null,
+   "rating": 3.4,
+   "ratings": 67,
+   "isFrido": false
+  },
+  {
+   "pos": 12,
+   "title": "Hoopoes Adjustable Posture Corrector-Straightener Brace Pain Relief Belt for men-women Posture Corrector",
+   "price": null,
+   "rating": 0,
+   "ratings": 0,
+   "isFrido": false
+  },
+  {
+   "pos": 13,
+   "title": "RIPOSEV Tailtech Seat Cushion with Falcon Neckrest - Designed for Relief from Hip. Posture Corrector",
+   "price": null,
+   "rating": 0,
+   "ratings": 0,
+   "isFrido": false
+  }
+ ],
+ "notes": []
+}

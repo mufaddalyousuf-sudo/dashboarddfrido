@@ -1,0 +1,93 @@
+{
+ "category": "orthotics-orthotics-sports-knee-cap-support",
+ "marketplace": "flipkart",
+ "keyword": "Frido Orthotics Sports Knee Cap Support",
+ "capturedAt": "2026-07-08",
+ "method": "Live scrape flipkart.com mobile search page 1 (__INITIAL_STATE__), query = exact SKU name",
+ "confidence": "Medium-High (live; sponsored flags not exposed on mobile)",
+ "fridoRank": null,
+ "fridoPresent": false,
+ "results": [
+  {
+   "pos": 1,
+   "title": "AGEasy Hinged Knee Cap, Max Comfort Knee Support",
+   "price": null,
+   "rating": 4.2,
+   "ratings": 543,
+   "isFrido": false
+  },
+  {
+   "pos": 2,
+   "title": "NIVIA Knitted Knee Support",
+   "price": null,
+   "rating": 4.2,
+   "ratings": 4358,
+   "isFrido": false
+  },
+  {
+   "pos": 3,
+   "title": "FITPUT Knee Belt for Women and Men for Ligament injuries, Knee Pain, and Support Knee Support",
+   "price": null,
+   "rating": 3.8,
+   "ratings": 3007,
+   "isFrido": false
+  },
+  {
+   "pos": 4,
+   "title": "DEBIK Adjustable Compression Knee Cap open pattela Support Brace for Sports Knee Support",
+   "price": null,
+   "rating": 3.7,
+   "ratings": 108,
+   "isFrido": false
+  },
+  {
+   "pos": 5,
+   "title": "Just Rider 1pair of Sports Pain Relief knee sleeve knee cap knee guard Knee Support",
+   "price": null,
+   "rating": 0,
+   "ratings": 0,
+   "isFrido": false
+  },
+  {
+   "pos": 6,
+   "title": "TENACT Magnetic Knee Support Open Patella for Men and Women Knee cap brace|Knee Guard Knee Support",
+   "price": null,
+   "rating": 3.7,
+   "ratings": 10,
+   "isFrido": false
+  },
+  {
+   "pos": 7,
+   "title": "Lord's Activeguard Knee cap for Knee pain, Knee support, Gym Knee cap for Men and Women Knee Support",
+   "price": null,
+   "rating": 0,
+   "ratings": 0,
+   "isFrido": false
+  },
+  {
+   "pos": 8,
+   "title": "DOCTOR'S CHOICE Functional Knee Support Knee Support",
+   "price": null,
+   "rating": 3.9,
+   "ratings": 10,
+   "isFrido": false
+  },
+  {
+   "pos": 9,
+   "title": "FOVERA Open Patella Knee Support Brace Knee Support",
+   "price": null,
+   "rating": 4.2,
+   "ratings": 41,
+   "isFrido": false
+  },
+  {
+   "pos": 10,
+   "title": "Fab Sports Knee Cap/sleeve Compression Support for Workout / Sports Pain Relief(pack of 1) Knee Support",
+   "price": null,
+   "rating": 3.8,
+   "ratings": 63,
+   "isFrido": false
+  }
+ ],
+ "notes": []
+}

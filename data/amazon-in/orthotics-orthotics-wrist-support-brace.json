@@ -1,0 +1,195 @@
+{
+ "category": "orthotics-orthotics-wrist-support-brace",
+ "marketplace": "amazon-in",
+ "keyword": "Frido Orthotics Wrist Support Brace",
+ "capturedAt": "2026-07-08",
+ "method": "Live scrape amazon.in search page 1, query = exact SKU name (brand-qualified)",
+ "confidence": "High (live snapshot, single keyword)",
+ "fridoOrganicRank": null,
+ "fridoSponsoredSlot": null,
+ "organic": [
+  {
+   "asin": "B00ICJ8D1Y",
+   "badge": "Bestseller",
+   "price": "207",
+   "rating": "4.2",
+   "reviews": "8,772",
+   "title": "Wrist Brace with Thumb, Support for Pain Relief & Stabilization | Lightweight & Breathable Wrist Support for Arthritis, Sprains, Tendonitis, Carpal Tunnel | Uni",
+   "rank": 1
+  },
+  {
+   "asin": "B0F7L4D379",
+   "badge": null,
+   "price": "299",
+   "rating": "3.9",
+   "reviews": "389",
+   "title": "Flexi Wrist Brace with Thumb, Wrist Hand Brace For Men & Women, Wrist Support",
+   "rank": 2
+  },
+  {
+   "asin": "B0FNJW7XRM",
+   "badge": null,
+   "price": "689",
+   "rating": "4.1",
+   "reviews": "204",
+   "title": "Premium Wrist Support Brace with ZeroBulk Design for Gym, Sports, Day-long Use (Pack of 2) | Thumb Loop Anatomical Design for Sprains, Carpal Tunnel Recovery | ",
+   "rank": 3
+  },
+  {
+   "asin": "B00L27RW2O",
+   "badge": null,
+   "price": "337",
+   "rating": "4.2",
+   "reviews": "2,840",
+   "title": "Elastic Wrist Splint, for Pain Relief, Support & Immobilization | Comfortable & Breathable for Carpal Tunnel, Sprains & Strains | Left Hand - Pack of 1 (Grey, L",
+   "rank": 4
+  },
+  {
+   "asin": "B09ZBFWDW3",
+   "badge": null,
+   "price": "196",
+   "rating": "4.0",
+   "reviews": "1,071",
+   "title": "Ortho Wrist Braces With Thumb Support for Pain Relief | Wrist Support Splint For Arthritis, Sprains, Carpal Tunnel | Universal Fit",
+   "rank": 5
+  },
+  {
+   "asin": "B00I3X87XI",
+   "badge": null,
+   "price": "394",
+   "rating": "4.0",
+   "reviews": "110",
+   "title": "Wrist Brace (Neoprene), Support to the wrist, Wrist Brace for Sports, Badminton, Hockey, Cricket, Gym & Workout, Sports Injury & Wrist Pain (Grey)",
+   "rank": 6
+  },
+  {
+   "asin": "B0CRKRVBNB",
+   "badge": null,
+   "price": "208",
+   "rating": "4.0",
+   "reviews": "824",
+   "title": "polyester blend Wrist Support for Pain Relief for Carpal, Wrist Brace with Thumb for Men & Women Wrist Band for Men Wrist Strap Universal Fit (Grey, 1 Unit)",
+   "rank": 7
+  },
+  {
+   "asin": "B0DRCDYPHZ",
+   "badge": null,
+   "price": "349",
+   "rating": "4.2",
+   "reviews": "241",
+   "title": "Wrist Splint Brace for Carpal Tunnel | Adjustable Wrist Support Brace with Splints | Hand Support for Arthritis, Tendonitis, Sprain, Injuries & Wrist Pain (Size",
+   "rank": 8
+  },
+  {
+   "asin": "B0D45H1CL2",
+   "badge": null,
+   "price": "199",
+   "rating": "5.0",
+   "reviews": "2",
+   "title": "Wrist Support Brace For Men & Women, Adjustable Hand Wrist Support Band With Compression For Gym, Office, Weight Lifting, Travel, Sports & Daily Use, Wrist Bind",
+   "rank": 9
+  },
+  {
+   "asin": "B0FV8129VK",
+   "badge": null,
+   "price": "499",
+   "rating": "4.0",
+   "reviews": "31",
+   "title": "Premium Wrist Support Brace With Steel Plate Splint & Breathable Mesh – Adjustable Compression Strap For Wrist Pain Relief, Carpal Tunnel, Sprain, Injury & Spor",
+   "rank": 10
+  }
+ ],
+ "sponsored": [
+  {
+   "asin": "B0F7L4D379",
+   "badge": null,
+   "price": "299",
+   "rating": "3.9",
+   "reviews": "389",
+   "title": "Flexi Wrist Brace with Thumb, Wrist Hand Brace For Men & Women, Wrist Support",
+   "slot": 1
+  },
+  {
+   "asin": "B004EQ8698",
+   "badge": null,
+   "price": "2,289",
+   "rating": "4.5",
+   "reviews": "1,526",
+   "title": "Adjustable, Reversible, Moderate Stabilizing Support, Splint Wrist Brace",
+   "slot": 2
+  },
+  {
+   "asin": "B0CKFJ1YM2",
+   "badge": null,
+   "price": "293",
+   "rating": "4.1",
+   "reviews": "626",
+   "title": "Wrist Brace With Thumb,Wrist Hand Brace For Men & Women, Wrist Support | Support for Pain Relief & Stabilization | Lightweight Wrist Support for Arthritis, Spra",
+   "slot": 3
+  },
+  {
+   "asin": "B0FNJW7XRM",
+   "badge": null,
+   "price": "689",
+   "rating": "4.1",
+   "reviews": "204",
+   "title": "Premium Wrist Support Brace with ZeroBulk Design for Gym, Sports, Day-long Use (Pack of 2) | Thumb Loop Anatomical Design for Sprains, Carpal Tunnel Recovery | ",
+   "slot": 4
+  },
+  {
+   "asin": "B0GZNT884S",
+   "badge": null,
+   "price": "498",
+   "rating": "4",
+   "reviews": "824",
+   "title": "Wrist Support Brace with Dual Aluminum Splint & Adjustable Compression Stabilizer for Carpal Tunnel, Tendonitis, Arthritis, Sprain Recovery, Gym & Daily Use (Le",
+   "slot": 5
+  },
+  {
+   "asin": "B0DW92NZQH",
+   "badge": null,
+   "price": "205",
+   "rating": null,
+   "reviews": null,
+   "title": "Wrist Band with Double Lock Adjustable Wrist Support Brace for Pain Relief | Arthritis, Sprain, Tendonitis & Carpal Tunnel | Breathable Wrist Wrap for Gym | Wor",
+   "slot": 6
+  },
+  {
+   "asin": "B0G3P7KDSF",
+   "badge": null,
+   "price": "245",
+   "rating": "4.2",
+   "reviews": "7",
+   "title": "Thumb Spica Splint | Breathable Adjustable Thumb Support Brace for Men & Women | Universal Size Thumb Immobilizer for Injury Recovery Arthritis & Tendonitis Pai",
+   "slot": 7
+  },
+  {
+   "asin": "B0DF7R66GS",
+   "badge": null,
+   "price": "209",
+   "rating": "3.9",
+   "reviews": "52",
+   "title": "Ortho Wrist Brace with Thumb Support for Pain Relief from Arthritis, Sprains, Tendonitis, and Carpal Tunnel | Wrist Support with Adjustable Strap for Men & Wome",
+   "slot": 8
+  },
+  {
+   "asin": "B0CMQ6J7D7",
+   "badge": null,
+   "price": "285",
+   "rating": "4.4",
+   "reviews": "432",
+   "title": "Hansaplast Active Wrist Support for Men & Women|1 Unit|One Size Fits Most|Neoprene Wrist Band Supporter for Long Lasting Pain Relief & Stability|Sprain, Strain,",
+   "slot": 9
+  },
+  {
+   "asin": "B0DP3F884D",
+   "badge": null,
+   "price": "449",
+   "rating": "3.8",
+   "reviews": "121",
+   "title": "Thumb Compression Arthritis Gloves for Arthritis, Hand Pain Support, Carpel Tunnel, Breathable Wrist Brace Sleeves, Alleviate Rheumatoid, Joint Muscle Tension (",
+   "slot": 10
+  }
+ ],
+ "notes": []
+}
