@@ -1,0 +1,109 @@
+{
+ "category": "masks-silver-plus-face-mask",
+ "marketplace": "flipkart",
+ "keyword": "Frido Silver Plus Face Mask",
+ "capturedAt": "2026-07-08",
+ "method": "Live scrape flipkart.com mobile search page 1 (__INITIAL_STATE__), query = exact SKU name",
+ "confidence": "Medium-High (live; sponsored flags not exposed on mobile)",
+ "fridoRank": 9,
+ "fridoPresent": true,
+ "results": [
+  {
+   "pos": 1,
+   "title": "Corosafe 6 Pcs Cloth Mask for Men & Women Washable, Reusable Cloth Mask With Melt Blown Fabric Layer",
+   "price": null,
+   "rating": 4.3,
+   "ratings": 408,
+   "isFrido": false
+  },
+  {
+   "pos": 2,
+   "title": "Corosafe Pollution Masks With Adjustable Earloop Mask for Men & Women Cloth Mask With Melt Blown Fabric Layer",
+   "price": null,
+   "rating": 4,
+   "ratings": 205,
+   "isFrido": false
+  },
+  {
+   "pos": 3,
+   "title": "Corosafe Mask With Nose Clip 3 Layer Face Mask Surgical Mask With Melt Blown Fabric Layer",
+   "price": null,
+   "rating": 4.2,
+   "ratings": 1036,
+   "isFrido": false
+  },
+  {
+   "pos": 4,
+   "title": "Corosafe Mask with Nose clip Masks for men Masks for women Anti-Pollution Masks Surgical Mask With Melt Blown Fabric Layer",
+   "price": null,
+   "rating": 4.4,
+   "ratings": 158,
+   "isFrido": false
+  },
+  {
+   "pos": 5,
+   "title": "Corosafe Kids Mask (7 -13 Years) Pollution Masks with Adjustable Earloop Reusable, Washable Cloth Mask With Melt Blown Fabric Layer",
+   "price": null,
+   "rating": 4.3,
+   "ratings": 32,
+   "isFrido": false
+  },
+  {
+   "pos": 6,
+   "title": "Fidelis Healthcare FC004-1008 Full Face Mask CPAP/BiPAP Mask with Headgear, Compatible with CPAP/BPAP Machine",
+   "price": null,
+   "rating": 3.6,
+   "ratings": 187,
+   "isFrido": false
+  },
+  {
+   "pos": 7,
+   "title": "Fidelis Healthcare Full Face Mask CPAP/BiPAP Mask with Headgear, Compatible with CPAP/BPAP Machine",
+   "price": null,
+   "rating": 3.6,
+   "ratings": 187,
+   "isFrido": false
+  },
+  {
+   "pos": 8,
+   "title": "Fidelis Healthcare FC004-3008 Full Face Mask CPAP/BiPAP Mask with Headgear, Compatible with CPAP/BPAP Machine",
+   "price": null,
+   "rating": 3.6,
+   "ratings": 187,
+   "isFrido": false
+  },
+  {
+   "pos": 9,
+   "title": "Frido Hot & Cold Therapy Cap for Migraine & Headache Relief | 360° Compression Head Support",
+   "price": null,
+   "rating": 4.4,
+   "ratings": 41,
+   "isFrido": true
+  },
+  {
+   "pos": 10,
+   "title": "Magnum N95 NIOSH Face Mask, ISI Marked, White N5",
+   "price": null,
+   "rating": 3.5,
+   "ratings": 55,
+   "isFrido": false
+  },
+  {
+   "pos": 11,
+   "title": "h&d craft Alovera Cooling Gel Relaxing face mask Gel Cool face mask(SET OF 1)  Face Shaping Mask",
+   "price": null,
+   "rating": 0,
+   "ratings": 0,
+   "isFrido": false
+  },
+  {
+   "pos": 12,
+   "title": "infinity deal FACE-MASK PACK OF TWO)  Face Shaping Mask",
+   "price": null,
+   "rating": 0,
+   "ratings": 0,
+   "isFrido": false
+  }
+ ],
+ "notes": []
+}

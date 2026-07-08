@@ -1,0 +1,125 @@
+{
+ "category": "masks-ultimate-pro-face-mask",
+ "marketplace": "flipkart",
+ "keyword": "Frido Ultimate Pro Face Mask",
+ "capturedAt": "2026-07-08",
+ "method": "Live scrape flipkart.com mobile search page 1 (__INITIAL_STATE__), query = exact SKU name",
+ "confidence": "Medium-High (live; sponsored flags not exposed on mobile)",
+ "fridoRank": 8,
+ "fridoPresent": true,
+ "results": [
+  {
+   "pos": 1,
+   "title": "Entros Liberty Foldable for Adults & Patients Manual Wheelchair",
+   "price": null,
+   "rating": 4.2,
+   "ratings": 192,
+   "isFrido": false
+  },
+  {
+   "pos": 2,
+   "title": "Entros KL875 Premium Aluminum, Foldable Design, Ideal for Patients & Handicaps Manual Wheelchair",
+   "price": null,
+   "rating": 4.3,
+   "ratings": 1467,
+   "isFrido": false
+  },
+  {
+   "pos": 3,
+   "title": "Entros SC8005A Manual Wheelchair",
+   "price": null,
+   "rating": 4.1,
+   "ratings": 692,
+   "isFrido": false
+  },
+  {
+   "pos": 4,
+   "title": "Entros SC8005S Manual Wheelchair",
+   "price": null,
+   "rating": 4.1,
+   "ratings": 665,
+   "isFrido": false
+  },
+  {
+   "pos": 5,
+   "title": "CASSOWARY Aqua Cool Gel Face Mask With Free Eyemask For Pain Relief  Face Shaping Mask",
+   "price": null,
+   "rating": 3.8,
+   "ratings": 1298,
+   "isFrido": false
+  },
+  {
+   "pos": 6,
+   "title": "Fidelis Healthcare Full Face Mask CPAP/BiPAP Mask with Headgear, Compatible with CPAP/BPAP Machine",
+   "price": null,
+   "rating": 3.6,
+   "ratings": 187,
+   "isFrido": false
+  },
+  {
+   "pos": 7,
+   "title": "purobio Glowing Gold Dust Algae Peel Off Facial Mask-500GM",
+   "price": null,
+   "rating": 3.6,
+   "ratings": 5,
+   "isFrido": false
+  },
+  {
+   "pos": 8,
+   "title": "Frido Hot & Cold Therapy Cap for Migraine & Headache Relief | 360° Compression Head Support",
+   "price": null,
+   "rating": 4.4,
+   "ratings": 41,
+   "isFrido": true
+  },
+  {
+   "pos": 9,
+   "title": "sell4you Blue Cool Gel Face Mask  Face Shaping Mask",
+   "price": null,
+   "rating": 3.1,
+   "ratings": 7,
+   "isFrido": false
+  },
+  {
+   "pos": 10,
+   "title": "Skylight DTD687 Anti-Fatigue Cooling Gel Face Mask with a Pair of Strap | Facial Skin Tightening | Large Size  Face Shaping Mask",
+   "price": null,
+   "rating": 3.4,
+   "ratings": 28,
+   "isFrido": false
+  },
+  {
+   "pos": 11,
+   "title": "h&d craft Soft DSJ=46 Comfortable Cooling Gel Face Mask  Face Shaping Mask",
+   "price": null,
+   "rating": 3.6,
+   "ratings": 13,
+   "isFrido": false
+  },
+  {
+   "pos": 12,
+   "title": "TRITON face gel mask  Face Shaping Mask",
+   "price": null,
+   "rating": 0,
+   "ratings": 0,
+   "isFrido": false
+  },
+  {
+   "pos": 13,
+   "title": "Kreya Enterprise BXUQ1710  Face Shaping Mask",
+   "price": null,
+   "rating": 0,
+   "ratings": 0,
+   "isFrido": false
+  },
+  {
+   "pos": 14,
+   "title": "Kreya Enterprise WSID=45887  Face Shaping Mask",
+   "price": null,
+   "rating": 0,
+   "ratings": 0,
+   "isFrido": false
+  }
+ ],
+ "notes": []
+}

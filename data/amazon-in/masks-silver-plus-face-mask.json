@@ -1,0 +1,197 @@
+{
+ "category": "masks-silver-plus-face-mask",
+ "marketplace": "amazon-in",
+ "keyword": "Frido Silver Plus Face Mask",
+ "capturedAt": "2026-07-08",
+ "method": "Live scrape amazon.in search page 1, query = exact SKU name (brand-qualified)",
+ "confidence": "High (live snapshot, single keyword)",
+ "fridoOrganicRank": 2,
+ "fridoSponsoredSlot": 5,
+ "organic": [
+  {
+   "asin": "B0GTW1S48V",
+   "badge": null,
+   "price": "1,599",
+   "rating": "4.4",
+   "reviews": "70",
+   "title": "Hot & Cold Therapy Cap | 360° Full Head Coverage | Reusable Cooling & Warming Cap with Gentle Compression | Pink",
+   "rank": 1
+  },
+  {
+   "asin": "B0B3RB2ZPD",
+   "badge": null,
+   "price": "1,299",
+   "rating": "4.8",
+   "reviews": "10",
+   "title": "ULTIMATE PRO Copper Masks with Adjustable Ear Loops and Nose Clip, Copper Treated Layer, Breathable & Washable Mask for Men and Women, Made in South Korea, Medi",
+   "rank": 2,
+   "isFridoBrand": true
+  },
+  {
+   "asin": "B08KY78X41",
+   "badge": null,
+   "price": "493",
+   "rating": "4.2",
+   "reviews": "10,893",
+   "title": "Reusable, Washable Designer Fabric Cotton 3D Printed 6 Layer Face Mask with Adjustable Earloop, Ear Saver Strap, Melt Blown Filter for Men & Women",
+   "rank": 3
+  },
+  {
+   "asin": "B09K5CV5XY",
+   "badge": null,
+   "price": null,
+   "rating": "4.2",
+   "reviews": "241",
+   "title": "ULTIMATE Unisex Copper Face Mask Masks with Adjustable Ear Loops. Copper Treated Layer, Breathable and Washable Fabric Mask for Men and Women, Made in South Kor",
+   "rank": 4
+  },
+  {
+   "asin": "B0B3RB2X37",
+   "badge": null,
+   "price": null,
+   "rating": "4.3",
+   "reviews": "19",
+   "title": "ULTIMATE PRO Copper Masks with Adjustable Ear Loops and Nose Clip, Copper Treated Layer, Breathable and Washable Mask for Men and Women, Made in South Korea, La",
+   "rank": 5
+  },
+  {
+   "asin": "B08B1W5QN5",
+   "badge": "Bestseller",
+   "price": "264",
+   "rating": "4.2",
+   "reviews": "41,170",
+   "title": "Melt-Blown Fabric Disposable Face Mask with Nose Clip (Blue, Pack of 50) for Unisex",
+   "rank": 6
+  },
+  {
+   "asin": "B0B3R8JFGV",
+   "badge": null,
+   "price": "1,999",
+   "rating": "5.0",
+   "reviews": "1",
+   "title": "ULTIMATE PRO Copper Masks with Adjustable Ear Loops and Nose Clip, Copper Treated Layer, Breathable and Washable Mask for Men and Women, Made in South Korea, Me",
+   "rank": 7
+  },
+  {
+   "asin": "B073XM2KP3",
+   "badge": null,
+   "price": "244",
+   "rating": "3.4",
+   "reviews": "6,442",
+   "title": "3ply surgical face mask with nose wire (Blue, 100 pcs, without valve, elastic ear-loop type, nonwoven fabric)",
+   "rank": 8
+  },
+  {
+   "asin": "B08LNL2DFH",
+   "badge": null,
+   "price": "239",
+   "rating": "3.7",
+   "reviews": "14,512",
+   "title": "Nonwoven Fabric Disposable 3Ply Surgical Face Mask (Blue, Without Valve, Pack of 100) for Unisex",
+   "rank": 9
+  },
+  {
+   "asin": "B08MWN1CC5",
+   "badge": null,
+   "price": "329",
+   "rating": "3.8",
+   "reviews": "12,698",
+   "title": "Anti-Pollution Masks WIth Nose clip",
+   "rank": 10
+  }
+ ],
+ "sponsored": [
+  {
+   "asin": "B0GTW57FN7",
+   "badge": null,
+   "price": "1,599",
+   "rating": "4.4",
+   "reviews": "70",
+   "title": "Hot & Cold Therapy Cap | 360° Full Head Coverage | Reusable Cooling & Warming Cap with Gentle Compression | Purple",
+   "slot": 1
+  },
+  {
+   "asin": "B098T9X9SJ",
+   "badge": null,
+   "price": "378",
+   "rating": "4.3",
+   "reviews": "83",
+   "title": "Plus Nanofiber N95 Mask FFP2 - PM 0.3 (Reusable, Black Color, Pack of 5) for Unisex",
+   "slot": 2
+  },
+  {
+   "asin": "B089S6347T",
+   "badge": null,
+   "price": "329",
+   "rating": "3.9",
+   "reviews": "22,066",
+   "title": "3Ply Non-Woven Fabric Disposable Anti-pollution Dust Mask With Nose Clip for Unisex",
+   "slot": 3
+  },
+  {
+   "asin": "B09FY939TQ",
+   "badge": null,
+   "price": "125",
+   "rating": "4.0",
+   "reviews": "2,223",
+   "title": "3 Ply Mask have Nose Pin Blue, Soft Loops Pack of 100",
+   "slot": 4
+  },
+  {
+   "asin": "B0B3RBMQVL",
+   "badge": "Bestseller",
+   "price": "498",
+   "rating": "4.3",
+   "reviews": "32",
+   "title": "ULTIMATE PRO Copper Masks with Adjustable Ear Loops and Nose Clip, Copper Treated Layer, Breathable and Washable Mask for Men and Women, Made in South Korea, Me",
+   "slot": 5,
+   "isFridoBrand": true
+  },
+  {
+   "asin": "B0G2YNB443",
+   "badge": null,
+   "price": "498",
+   "rating": "4.0",
+   "reviews": "126",
+   "title": "Nova N99 Anti-Pollution Face Mask with 8 Replaceable Carbon Filters for Kids, Washable & Reusable Respirator Mask with Breathable Air Valve for Children|6 Layer",
+   "slot": 6
+  },
+  {
+   "asin": "B08MWN1CC5",
+   "badge": null,
+   "price": "329",
+   "rating": "3.8",
+   "reviews": "12,698",
+   "title": "Anti-Pollution Masks WIth Nose clip",
+   "slot": 7
+  },
+  {
+   "asin": "B07GXKKQZ9",
+   "badge": null,
+   "price": "299",
+   "rating": "4.0",
+   "reviews": "44",
+   "title": "Air Cushion Face Mask, Air Cushioned Anesthesia Face Mask (Pediatric)",
+   "slot": 8
+  },
+  {
+   "asin": "B095H9VDQC",
+   "badge": null,
+   "price": "350",
+   "rating": "4.1",
+   "reviews": "181",
+   "title": "V-4400 - N95 Face Mask - NIOSH Certified, Unisex Fold Flat Design, Dust, Bacterial & Viral Protection, Nonwoven Fabric - White - Pack of 5",
+   "slot": 9
+  },
+  {
+   "asin": "B091THQVT7",
+   "badge": "Bestseller",
+   "price": "365",
+   "rating": "4.3",
+   "reviews": "11,685",
+   "title": "Nonwoven Fabric Disposable Multilayer Protective Mask (White, Pack of 100) for Unisex",
+   "slot": 10
+  }
+ ],
+ "notes": []
+}

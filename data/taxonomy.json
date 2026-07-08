@@ -489,13 +489,20 @@
    "priority": "P3",
    "datasets": [
     {
-     "id": "masks-frido",
-     "keyword": "frido mask",
-     "primary": true,
-     "brandQualified": true
+     "id": "masks-ultimate-pro-face-mask",
+     "keyword": "Frido Ultimate Pro Face Mask",
+     "primary": true
+    },
+    {
+     "id": "masks-silver-plus-face-mask",
+     "keyword": "Frido Silver Plus Face Mask"
+    },
+    {
+     "id": "masks-ultimate-face-mask",
+     "keyword": "Frido Ultimate Face Mask"
     }
    ],
-   "correctionNote": "Previously marked 'no listing found' in error. Frido sells multiple mask-type products (Eye Mask, Copper Mask) — none rank top-10 or hold a Bestseller badge on a generic keyword."
+   "skuSource": "frido-product-catalog.json (full base-SKU research, 2026-07-08)"
   },
   {
    "id": "socks",

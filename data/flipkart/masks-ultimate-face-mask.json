@@ -1,0 +1,125 @@
+{
+ "category": "masks-ultimate-face-mask",
+ "marketplace": "flipkart",
+ "keyword": "Frido Ultimate Face Mask",
+ "capturedAt": "2026-07-08",
+ "method": "Live scrape flipkart.com mobile search page 1 (__INITIAL_STATE__), query = exact SKU name",
+ "confidence": "Medium-High (live; sponsored flags not exposed on mobile)",
+ "fridoRank": 9,
+ "fridoPresent": true,
+ "results": [
+  {
+   "pos": 1,
+   "title": "Entros KL875 Premium Aluminum, Foldable Design, Ideal for Patients & Handicaps Manual Wheelchair",
+   "price": null,
+   "rating": 4.3,
+   "ratings": 1467,
+   "isFrido": false
+  },
+  {
+   "pos": 2,
+   "title": "Entros SC8005A Manual Wheelchair",
+   "price": null,
+   "rating": 4.1,
+   "ratings": 692,
+   "isFrido": false
+  },
+  {
+   "pos": 3,
+   "title": "Entros SC8005S Manual Wheelchair",
+   "price": null,
+   "rating": 4.1,
+   "ratings": 665,
+   "isFrido": false
+  },
+  {
+   "pos": 4,
+   "title": "Entros Liberty Foldable for Adults & Patients Manual Wheelchair",
+   "price": null,
+   "rating": 4.2,
+   "ratings": 192,
+   "isFrido": false
+  },
+  {
+   "pos": 5,
+   "title": "Entros SC5025C Manual Wheelchair",
+   "price": null,
+   "rating": 2.3,
+   "ratings": 3,
+   "isFrido": false
+  },
+  {
+   "pos": 6,
+   "title": "freeskin Age Defence Algae Peel-Off Mask for All Skin Type, Professional Facial Treatment",
+   "price": null,
+   "rating": 4.8,
+   "ratings": 5,
+   "isFrido": false
+  },
+  {
+   "pos": 7,
+   "title": "CASSOWARY Aqua Cool Gel Face Mask With Free Eyemask For Pain Relief  Face Shaping Mask",
+   "price": null,
+   "rating": 3.8,
+   "ratings": 1298,
+   "isFrido": false
+  },
+  {
+   "pos": 8,
+   "title": "MOND'SUB Grapefruit Refreshing Facial with Natural Grapefruit Extract OIL Controlling Mask(150 G) Pack Of 6",
+   "price": null,
+   "rating": 0,
+   "ratings": 0,
+   "isFrido": false
+  },
+  {
+   "pos": 9,
+   "title": "Frido 3D Eye Mask for Unisex | 100% Blackout Sleep Mask with Adjustable Straps",
+   "price": null,
+   "rating": 4.8,
+   "ratings": 10,
+   "isFrido": true
+  },
+  {
+   "pos": 10,
+   "title": "Fidelis Healthcare Full Face Mask CPAP/BiPAP Mask with Headgear, Compatible with CPAP/BPAP Machine",
+   "price": null,
+   "rating": 3.6,
+   "ratings": 187,
+   "isFrido": false
+  },
+  {
+   "pos": 11,
+   "title": "Frido Hot & Cold Therapy Cap for Migraine & Headache Relief | 360° Compression Head Support",
+   "price": null,
+   "rating": 4.4,
+   "ratings": 41,
+   "isFrido": true
+  },
+  {
+   "pos": 12,
+   "title": "Passion Indulge Kumkumadi Natural Face Mudd Pack for Anti-Aging, Glowing, shine and Brightness",
+   "price": null,
+   "rating": 3.9,
+   "ratings": 7,
+   "isFrido": false
+  },
+  {
+   "pos": 13,
+   "title": "sell4you Blue Cool Gel Face Mask  Face Shaping Mask",
+   "price": null,
+   "rating": 3.1,
+   "ratings": 7,
+   "isFrido": false
+  },
+  {
+   "pos": 14,
+   "title": "purobio Glowing Gold Dust Algae Peel Off Facial Mask-500GM",
+   "price": null,
+   "rating": 3.6,
+   "ratings": 5,
+   "isFrido": false
+  }
+ ],
+ "notes": []
+}

@@ -26144,6 +26144,944 @@
    },
    "status": "listed",
    "capturedAt": "2026-07-08"
+  },
+  {
+   "category": "masks",
+   "categoryName": "Masks",
+   "sku": "Ultimate Pro Face Mask",
+   "keyword": "Frido Ultimate Pro Face Mask",
+   "amazon": {
+    "fetchOk": true,
+    "organic": [
+     {
+      "asin": "B0B3RBMQVL",
+      "badge": null,
+      "price": null,
+      "rating": "4.3",
+      "reviews": "32",
+      "title": "ULTIMATE PRO Copper Masks with Adjustable Ear Loops and Nose Clip, Copper Treated Layer, Breathable and Washable Mask for Men and Women, Made in South Korea, Me",
+      "rank": 1
+     },
+     {
+      "asin": "B09M3XD9BV",
+      "badge": null,
+      "price": null,
+      "rating": "4.6",
+      "reviews": "16",
+      "title": "Ultimate Pro Unisex Copper Masks With Adjustable Ear Loops&Nose Clip. Copper Treated Layer |Breathable&Washable Face Mask For Men&Women | Made In South Korea - ",
+      "rank": 2,
+      "isFridoBrand": true
+     },
+     {
+      "asin": "B09K5CZ94K",
+      "badge": null,
+      "price": "1,719",
+      "rating": "3.8",
+      "reviews": "9",
+      "title": "ULTIMATE Unisex Copper Face Mask Masks with Adjustable Ear Loops. Copper Treated Layer, Breathable and Washable Fabric Mask for Men and Women, Made in South Kor",
+      "rank": 3
+     },
+     {
+      "asin": "B09M41K85K",
+      "badge": null,
+      "price": null,
+      "rating": "4.1",
+      "reviews": "11",
+      "title": "ULTIMATE PRO Unisex Copper Masks with Adjustable Ear Loops and Nose Clip. Copper Treated Layer, Breathable and Washable Face Mask for Men and Women, Made in Sou",
+      "rank": 4
+     },
+     {
+      "asin": "B09LZ3WWFL",
+      "badge": null,
+      "price": null,
+      "rating": "4.0",
+      "reviews": "40",
+      "title": "ULTIMATE PRO Unisex Copper Masks with Adjustable Ear Loops and Nose Clip. Copper Treated Layer, Breathable & Washable Fabric Face Mask for Men and Women, Made i",
+      "rank": 5
+     },
+     {
+      "asin": "B09M41RWXD",
+      "badge": null,
+      "price": null,
+      "rating": "4.0",
+      "reviews": "3",
+      "title": "ULTIMATE PRO Unisex Copper Masks with Adjustable Ear Loops and Nose Clip. Copper Treated Layer, Breathable and Washable Face Mask for Men and Women, Made in Sou",
+      "rank": 6
+     },
+     {
+      "asin": "B01ALULL9C",
+      "badge": null,
+      "price": "168",
+      "rating": "4.0",
+      "reviews": "27,349",
+      "title": "Face Mask Pro+ for Bike, Ski, Cycling, Running, Hiking - Protects from Wind, Sun, Dust - 4 Way Stretch - #1 Rated Face Protection Mask (Black), Free Size, Pack ",
+      "rank": 7
+     },
+     {
+      "asin": "B0B3R61RBQ",
+      "badge": null,
+      "price": null,
+      "rating": "4.3",
+      "reviews": "13",
+      "title": "ULTIMATE PRO Copper Masks with Adjustable Ear Loops and Nose Clip, Copper Treated Layer, Breathable and Washable Mask for Men and Women, Made in South Korea, Sm",
+      "rank": 8
+     },
+     {
+      "asin": "B09M3Y1FLY",
+      "badge": null,
+      "price": null,
+      "rating": "4.4",
+      "reviews": "52",
+      "title": "Ultimate Pro Unisex Copper Masks With Adjustable Ear Loops&Nose Clip. Copper Treated Layer,Breathable&Washable Face Mask For Men&Women,Made In South Korea - Med",
+      "rank": 9
+     },
+     {
+      "asin": "B09K5CV5XY",
+      "badge": null,
+      "price": null,
+      "rating": "4.2",
+      "reviews": "241",
+      "title": "ULTIMATE Unisex Copper Face Mask Masks with Adjustable Ear Loops. Copper Treated Layer, Breathable and Washable Fabric Mask for Men and Women, Made in South Kor",
+      "rank": 10
+     }
+    ],
+    "sponsored": [
+     {
+      "asin": "B0DPWYJLJV",
+      "badge": null,
+      "price": "649",
+      "rating": "4.1",
+      "reviews": "679",
+      "title": "Radiance Reveal Peel Off Mask 75G | Honey, Milk Protein & Collagen | Hydration, Brightening, Instant Glow & Plumped | Korean Inspired Skin Care| Peel Off Face M",
+      "slot": 1
+     },
+     {
+      "asin": "B0DR2PPNFM",
+      "badge": null,
+      "price": "599",
+      "rating": "4.3",
+      "reviews": "175",
+      "title": "Glowease 2-In-1 Cleanser & Mask 100 Ml | Aloe Vera & Kaolin Clay | Deep Cleansing Face Wash For Hydrated, Glowing & Brighten Skin | Korean Skincare Product For ",
+      "slot": 2
+     },
+     {
+      "asin": "B0FSMLN2DL",
+      "badge": null,
+      "price": "497",
+      "rating": "4.0",
+      "reviews": "126",
+      "title": "Nova N99 Anti-Pollution Face Mask with 8 Replaceable Carbon Filters for Kids, Washable & Reusable Respirator Mask with Breathable Air Valve for Children|6 Layer",
+      "slot": 3
+     },
+     {
+      "asin": "B01LN6ZILU",
+      "badge": null,
+      "price": "1,426",
+      "rating": "4.2",
+      "reviews": "8,373",
+      "title": "D-TAN Professional Face Pack for Instant Tan Removal & Glowing Skin with Lactic Acid, Pea Extract & Mint Extract - Ideal for All Skin Types (300g) | Detan Pack ",
+      "slot": 4
+     },
+     {
+      "asin": "B0B3RB2ZPD",
+      "badge": "Bestseller",
+      "price": "1,299",
+      "rating": "4.8",
+      "reviews": "10",
+      "title": "ULTIMATE PRO Copper Masks with Adjustable Ear Loops and Nose Clip, Copper Treated Layer, Breathable & Washable Mask for Men and Women, Made in South Korea, Medi",
+      "slot": 5,
+      "isFridoBrand": true
+     },
+     {
+      "asin": "B09K4JJTMB",
+      "badge": null,
+      "price": "699",
+      "rating": "4.6",
+      "reviews": "28",
+      "title": "ULTIMATE Unisex Copper Face Mask Masks with Adjustable Ear Loops. Copper Treated Layer | Breathable and Washable Fabric Mask for Men and Women | Made in South K",
+      "slot": 6
+     },
+     {
+      "asin": "B09CV2KTR3",
+      "badge": null,
+      "price": "587",
+      "rating": "4.4",
+      "reviews": "42",
+      "title": "Prebiotic Glow Mask for Glowing Skin & Tan Removal | Dead Sea Mud & Aloe Vera Clay Mask | Hydrating Face Mask for Men & Women | 50g",
+      "slot": 7
+     },
+     {
+      "asin": "B0B7S8PWMM",
+      "badge": null,
+      "price": "360",
+      "rating": "4.0",
+      "reviews": "91",
+      "title": "V-4200 - N95 Face Mask - NIOSH Certified Respirator with Exhalation Valve, Anti-Pollution, Dust & Bacterial Protection - Unisex - White - Pack of 5",
+      "slot": 8
+     },
+     {
+      "asin": "B01N952VHF",
+      "badge": "Bestseller",
+      "price": "699",
+      "rating": "4.0",
+      "reviews": "11,620",
+      "title": "N99 Anti Pollution Face Mask with 4 Activated Carbon Filters & Detachable Headband D.R.D.O Certified (Black)",
+      "slot": 9
+     },
+     {
+      "asin": "B095H9VDQC",
+      "badge": null,
+      "price": "350",
+      "rating": "4.1",
+      "reviews": "181",
+      "title": "V-4400 - N95 Face Mask - NIOSH Certified, Unisex Fold Flat Design, Dust, Bacterial & Viral Protection, Nonwoven Fabric - White - Pack of 5",
+      "slot": 10
+     }
+    ],
+    "fridoOrganicRank": 2,
+    "fridoSponsoredSlot": 5,
+    "fridoBadge": null
+   },
+   "flipkart": {
+    "fetchOk": true,
+    "results": [
+     {
+      "pos": 1,
+      "title": "Entros Liberty Foldable for Adults & Patients Manual Wheelchair",
+      "price": null,
+      "rating": 4.2,
+      "ratings": 192,
+      "isFrido": false
+     },
+     {
+      "pos": 2,
+      "title": "Entros KL875 Premium Aluminum, Foldable Design, Ideal for Patients & Handicaps Manual Wheelchair",
+      "price": null,
+      "rating": 4.3,
+      "ratings": 1467,
+      "isFrido": false
+     },
+     {
+      "pos": 3,
+      "title": "Entros SC8005A Manual Wheelchair",
+      "price": null,
+      "rating": 4.1,
+      "ratings": 692,
+      "isFrido": false
+     },
+     {
+      "pos": 4,
+      "title": "Entros SC8005S Manual Wheelchair",
+      "price": null,
+      "rating": 4.1,
+      "ratings": 665,
+      "isFrido": false
+     },
+     {
+      "pos": 5,
+      "title": "CASSOWARY Aqua Cool Gel Face Mask With Free Eyemask For Pain Relief  Face Shaping Mask",
+      "price": null,
+      "rating": 3.8,
+      "ratings": 1298,
+      "isFrido": false
+     },
+     {
+      "pos": 6,
+      "title": "Fidelis Healthcare Full Face Mask CPAP/BiPAP Mask with Headgear, Compatible with CPAP/BPAP Machine",
+      "price": null,
+      "rating": 3.6,
+      "ratings": 187,
+      "isFrido": false
+     },
+     {
+      "pos": 7,
+      "title": "purobio Glowing Gold Dust Algae Peel Off Facial Mask-500GM",
+      "price": null,
+      "rating": 3.6,
+      "ratings": 5,
+      "isFrido": false
+     },
+     {
+      "pos": 8,
+      "title": "Frido Hot & Cold Therapy Cap for Migraine & Headache Relief | 360° Compression Head Support",
+      "price": null,
+      "rating": 4.4,
+      "ratings": 41,
+      "isFrido": true
+     },
+     {
+      "pos": 9,
+      "title": "sell4you Blue Cool Gel Face Mask  Face Shaping Mask",
+      "price": null,
+      "rating": 3.1,
+      "ratings": 7,
+      "isFrido": false
+     },
+     {
+      "pos": 10,
+      "title": "Skylight DTD687 Anti-Fatigue Cooling Gel Face Mask with a Pair of Strap | Facial Skin Tightening | Large Size  Face Shaping Mask",
+      "price": null,
+      "rating": 3.4,
+      "ratings": 28,
+      "isFrido": false
+     },
+     {
+      "pos": 11,
+      "title": "h&d craft Soft DSJ=46 Comfortable Cooling Gel Face Mask  Face Shaping Mask",
+      "price": null,
+      "rating": 3.6,
+      "ratings": 13,
+      "isFrido": false
+     },
+     {
+      "pos": 12,
+      "title": "TRITON face gel mask  Face Shaping Mask",
+      "price": null,
+      "rating": 0,
+      "ratings": 0,
+      "isFrido": false
+     },
+     {
+      "pos": 13,
+      "title": "Kreya Enterprise BXUQ1710  Face Shaping Mask",
+      "price": null,
+      "rating": 0,
+      "ratings": 0,
+      "isFrido": false
+     },
+     {
+      "pos": 14,
+      "title": "Kreya Enterprise WSID=45887  Face Shaping Mask",
+      "price": null,
+      "rating": 0,
+      "ratings": 0,
+      "isFrido": false
+     }
+    ],
+    "fridoRank": 8
+   },
+   "status": "listed",
+   "capturedAt": "2026-07-08"
+  },
+  {
+   "category": "masks",
+   "categoryName": "Masks",
+   "sku": "Silver Plus Face Mask",
+   "keyword": "Frido Silver Plus Face Mask",
+   "amazon": {
+    "fetchOk": true,
+    "organic": [
+     {
+      "asin": "B0GTW1S48V",
+      "badge": null,
+      "price": "1,599",
+      "rating": "4.4",
+      "reviews": "70",
+      "title": "Hot & Cold Therapy Cap | 360° Full Head Coverage | Reusable Cooling & Warming Cap with Gentle Compression | Pink",
+      "rank": 1
+     },
+     {
+      "asin": "B0B3RB2ZPD",
+      "badge": null,
+      "price": "1,299",
+      "rating": "4.8",
+      "reviews": "10",
+      "title": "ULTIMATE PRO Copper Masks with Adjustable Ear Loops and Nose Clip, Copper Treated Layer, Breathable & Washable Mask for Men and Women, Made in South Korea, Medi",
+      "rank": 2,
+      "isFridoBrand": true
+     },
+     {
+      "asin": "B08KY78X41",
+      "badge": null,
+      "price": "493",
+      "rating": "4.2",
+      "reviews": "10,893",
+      "title": "Reusable, Washable Designer Fabric Cotton 3D Printed 6 Layer Face Mask with Adjustable Earloop, Ear Saver Strap, Melt Blown Filter for Men & Women",
+      "rank": 3
+     },
+     {
+      "asin": "B09K5CV5XY",
+      "badge": null,
+      "price": null,
+      "rating": "4.2",
+      "reviews": "241",
+      "title": "ULTIMATE Unisex Copper Face Mask Masks with Adjustable Ear Loops. Copper Treated Layer, Breathable and Washable Fabric Mask for Men and Women, Made in South Kor",
+      "rank": 4
+     },
+     {
+      "asin": "B0B3RB2X37",
+      "badge": null,
+      "price": null,
+      "rating": "4.3",
+      "reviews": "19",
+      "title": "ULTIMATE PRO Copper Masks with Adjustable Ear Loops and Nose Clip, Copper Treated Layer, Breathable and Washable Mask for Men and Women, Made in South Korea, La",
+      "rank": 5
+     },
+     {
+      "asin": "B08B1W5QN5",
+      "badge": "Bestseller",
+      "price": "264",
+      "rating": "4.2",
+      "reviews": "41,170",
+      "title": "Melt-Blown Fabric Disposable Face Mask with Nose Clip (Blue, Pack of 50) for Unisex",
+      "rank": 6
+     },
+     {
+      "asin": "B0B3R8JFGV",
+      "badge": null,
+      "price": "1,999",
+      "rating": "5.0",
+      "reviews": "1",
+      "title": "ULTIMATE PRO Copper Masks with Adjustable Ear Loops and Nose Clip, Copper Treated Layer, Breathable and Washable Mask for Men and Women, Made in South Korea, Me",
+      "rank": 7
+     },
+     {
+      "asin": "B073XM2KP3",
+      "badge": null,
+      "price": "244",
+      "rating": "3.4",
+      "reviews": "6,442",
+      "title": "3ply surgical face mask with nose wire (Blue, 100 pcs, without valve, elastic ear-loop type, nonwoven fabric)",
+      "rank": 8
+     },
+     {
+      "asin": "B08LNL2DFH",
+      "badge": null,
+      "price": "239",
+      "rating": "3.7",
+      "reviews": "14,512",
+      "title": "Nonwoven Fabric Disposable 3Ply Surgical Face Mask (Blue, Without Valve, Pack of 100) for Unisex",
+      "rank": 9
+     },
+     {
+      "asin": "B08MWN1CC5",
+      "badge": null,
+      "price": "329",
+      "rating": "3.8",
+      "reviews": "12,698",
+      "title": "Anti-Pollution Masks WIth Nose clip",
+      "rank": 10
+     }
+    ],
+    "sponsored": [
+     {
+      "asin": "B0GTW57FN7",
+      "badge": null,
+      "price": "1,599",
+      "rating": "4.4",
+      "reviews": "70",
+      "title": "Hot & Cold Therapy Cap | 360° Full Head Coverage | Reusable Cooling & Warming Cap with Gentle Compression | Purple",
+      "slot": 1
+     },
+     {
+      "asin": "B098T9X9SJ",
+      "badge": null,
+      "price": "378",
+      "rating": "4.3",
+      "reviews": "83",
+      "title": "Plus Nanofiber N95 Mask FFP2 - PM 0.3 (Reusable, Black Color, Pack of 5) for Unisex",
+      "slot": 2
+     },
+     {
+      "asin": "B089S6347T",
+      "badge": null,
+      "price": "329",
+      "rating": "3.9",
+      "reviews": "22,066",
+      "title": "3Ply Non-Woven Fabric Disposable Anti-pollution Dust Mask With Nose Clip for Unisex",
+      "slot": 3
+     },
+     {
+      "asin": "B09FY939TQ",
+      "badge": null,
+      "price": "125",
+      "rating": "4.0",
+      "reviews": "2,223",
+      "title": "3 Ply Mask have Nose Pin Blue, Soft Loops Pack of 100",
+      "slot": 4
+     },
+     {
+      "asin": "B0B3RBMQVL",
+      "badge": "Bestseller",
+      "price": "498",
+      "rating": "4.3",
+      "reviews": "32",
+      "title": "ULTIMATE PRO Copper Masks with Adjustable Ear Loops and Nose Clip, Copper Treated Layer, Breathable and Washable Mask for Men and Women, Made in South Korea, Me",
+      "slot": 5,
+      "isFridoBrand": true
+     },
+     {
+      "asin": "B0G2YNB443",
+      "badge": null,
+      "price": "498",
+      "rating": "4.0",
+      "reviews": "126",
+      "title": "Nova N99 Anti-Pollution Face Mask with 8 Replaceable Carbon Filters for Kids, Washable & Reusable Respirator Mask with Breathable Air Valve for Children|6 Layer",
+      "slot": 6
+     },
+     {
+      "asin": "B08MWN1CC5",
+      "badge": null,
+      "price": "329",
+      "rating": "3.8",
+      "reviews": "12,698",
+      "title": "Anti-Pollution Masks WIth Nose clip",
+      "slot": 7
+     },
+     {
+      "asin": "B07GXKKQZ9",
+      "badge": null,
+      "price": "299",
+      "rating": "4.0",
+      "reviews": "44",
+      "title": "Air Cushion Face Mask, Air Cushioned Anesthesia Face Mask (Pediatric)",
+      "slot": 8
+     },
+     {
+      "asin": "B095H9VDQC",
+      "badge": null,
+      "price": "350",
+      "rating": "4.1",
+      "reviews": "181",
+      "title": "V-4400 - N95 Face Mask - NIOSH Certified, Unisex Fold Flat Design, Dust, Bacterial & Viral Protection, Nonwoven Fabric - White - Pack of 5",
+      "slot": 9
+     },
+     {
+      "asin": "B091THQVT7",
+      "badge": "Bestseller",
+      "price": "365",
+      "rating": "4.3",
+      "reviews": "11,685",
+      "title": "Nonwoven Fabric Disposable Multilayer Protective Mask (White, Pack of 100) for Unisex",
+      "slot": 10
+     }
+    ],
+    "fridoOrganicRank": 2,
+    "fridoSponsoredSlot": 5,
+    "fridoBadge": null
+   },
+   "flipkart": {
+    "fetchOk": true,
+    "results": [
+     {
+      "pos": 1,
+      "title": "Corosafe 6 Pcs Cloth Mask for Men & Women Washable, Reusable Cloth Mask With Melt Blown Fabric Layer",
+      "price": null,
+      "rating": 4.3,
+      "ratings": 408,
+      "isFrido": false
+     },
+     {
+      "pos": 2,
+      "title": "Corosafe Pollution Masks With Adjustable Earloop Mask for Men & Women Cloth Mask With Melt Blown Fabric Layer",
+      "price": null,
+      "rating": 4,
+      "ratings": 205,
+      "isFrido": false
+     },
+     {
+      "pos": 3,
+      "title": "Corosafe Mask With Nose Clip 3 Layer Face Mask Surgical Mask With Melt Blown Fabric Layer",
+      "price": null,
+      "rating": 4.2,
+      "ratings": 1036,
+      "isFrido": false
+     },
+     {
+      "pos": 4,
+      "title": "Corosafe Mask with Nose clip Masks for men Masks for women Anti-Pollution Masks Surgical Mask With Melt Blown Fabric Layer",
+      "price": null,
+      "rating": 4.4,
+      "ratings": 158,
+      "isFrido": false
+     },
+     {
+      "pos": 5,
+      "title": "Corosafe Kids Mask (7 -13 Years) Pollution Masks with Adjustable Earloop Reusable, Washable Cloth Mask With Melt Blown Fabric Layer",
+      "price": null,
+      "rating": 4.3,
+      "ratings": 32,
+      "isFrido": false
+     },
+     {
+      "pos": 6,
+      "title": "Fidelis Healthcare FC004-1008 Full Face Mask CPAP/BiPAP Mask with Headgear, Compatible with CPAP/BPAP Machine",
+      "price": null,
+      "rating": 3.6,
+      "ratings": 187,
+      "isFrido": false
+     },
+     {
+      "pos": 7,
+      "title": "Fidelis Healthcare Full Face Mask CPAP/BiPAP Mask with Headgear, Compatible with CPAP/BPAP Machine",
+      "price": null,
+      "rating": 3.6,
+      "ratings": 187,
+      "isFrido": false
+     },
+     {
+      "pos": 8,
+      "title": "Fidelis Healthcare FC004-3008 Full Face Mask CPAP/BiPAP Mask with Headgear, Compatible with CPAP/BPAP Machine",
+      "price": null,
+      "rating": 3.6,
+      "ratings": 187,
+      "isFrido": false
+     },
+     {
+      "pos": 9,
+      "title": "Frido Hot & Cold Therapy Cap for Migraine & Headache Relief | 360° Compression Head Support",
+      "price": null,
+      "rating": 4.4,
+      "ratings": 41,
+      "isFrido": true
+     },
+     {
+      "pos": 10,
+      "title": "Magnum N95 NIOSH Face Mask, ISI Marked, White N5",
+      "price": null,
+      "rating": 3.5,
+      "ratings": 55,
+      "isFrido": false
+     },
+     {
+      "pos": 11,
+      "title": "h&d craft Alovera Cooling Gel Relaxing face mask Gel Cool face mask(SET OF 1)  Face Shaping Mask",
+      "price": null,
+      "rating": 0,
+      "ratings": 0,
+      "isFrido": false
+     },
+     {
+      "pos": 12,
+      "title": "infinity deal FACE-MASK PACK OF TWO)  Face Shaping Mask",
+      "price": null,
+      "rating": 0,
+      "ratings": 0,
+      "isFrido": false
+     }
+    ],
+    "fridoRank": 9
+   },
+   "status": "listed",
+   "capturedAt": "2026-07-08"
+  },
+  {
+   "category": "masks",
+   "categoryName": "Masks",
+   "sku": "Ultimate Face Mask",
+   "keyword": "Frido Ultimate Face Mask",
+   "amazon": {
+    "fetchOk": true,
+    "organic": [
+     {
+      "asin": "B09K5CZ94K",
+      "badge": null,
+      "price": "1,719",
+      "rating": "3.8",
+      "reviews": "9",
+      "title": "ULTIMATE Unisex Copper Face Mask Masks with Adjustable Ear Loops. Copper Treated Layer, Breathable and Washable Fabric Mask for Men and Women, Made in South Kor",
+      "rank": 1,
+      "isFridoBrand": true
+     },
+     {
+      "asin": "B09M3XD9BV",
+      "badge": null,
+      "price": null,
+      "rating": "4.6",
+      "reviews": "16",
+      "title": "Ultimate Pro Unisex Copper Masks With Adjustable Ear Loops&Nose Clip. Copper Treated Layer |Breathable&Washable Face Mask For Men&Women | Made In South Korea - ",
+      "rank": 2
+     },
+     {
+      "asin": "B09K5CV5XY",
+      "badge": null,
+      "price": null,
+      "rating": "4.2",
+      "reviews": "241",
+      "title": "ULTIMATE Unisex Copper Face Mask Masks with Adjustable Ear Loops. Copper Treated Layer, Breathable and Washable Fabric Mask for Men and Women, Made in South Kor",
+      "rank": 3
+     },
+     {
+      "asin": "B09K5CBBHN",
+      "badge": null,
+      "price": null,
+      "rating": "4.2",
+      "reviews": "212",
+      "title": "ULTIMATE Unisex Face Mask with Adjustable Ear Loops. Copper Treated Layer, Breathable & Washable Fabric for Men & Women, Made in South Korea- Medium (Pack of 1)",
+      "rank": 4
+     },
+     {
+      "asin": "B0B3RB2ZPD",
+      "badge": null,
+      "price": "1,299",
+      "rating": "4.8",
+      "reviews": "10",
+      "title": "ULTIMATE PRO Copper Masks with Adjustable Ear Loops and Nose Clip, Copper Treated Layer, Breathable & Washable Mask for Men and Women, Made in South Korea, Medi",
+      "rank": 5
+     },
+     {
+      "asin": "B0B3RBMQVL",
+      "badge": null,
+      "price": null,
+      "rating": "4.3",
+      "reviews": "32",
+      "title": "ULTIMATE PRO Copper Masks with Adjustable Ear Loops and Nose Clip, Copper Treated Layer, Breathable and Washable Mask for Men and Women, Made in South Korea, Me",
+      "rank": 6
+     },
+     {
+      "asin": "B09K4J6TYF",
+      "badge": null,
+      "price": null,
+      "rating": "4.0",
+      "reviews": "89",
+      "title": "ULTIMATE Unisex Copper Face Mask Masks with Adjustable Ear Loops. Copper Treated Layer, Breathable and Washable Fabric Mask for Men and Women, Made in South Kor",
+      "rank": 7
+     },
+     {
+      "asin": "B09K4JJTMB",
+      "badge": null,
+      "price": null,
+      "rating": "4.6",
+      "reviews": "28",
+      "title": "ULTIMATE Unisex Copper Face Mask Masks with Adjustable Ear Loops. Copper Treated Layer | Breathable and Washable Fabric Mask for Men and Women | Made in South K",
+      "rank": 8
+     },
+     {
+      "asin": "B0GPQP16HC",
+      "badge": null,
+      "price": "999",
+      "rating": "5.0",
+      "reviews": "6",
+      "title": "3D Eye Mask for Men & Women | 100% Blackout Sleep Mask | Zero Pressure Memory Foam for Eyelids & Lashes | Adjustable Straps for Travel & Meditation | Soft Comfo",
+      "rank": 9
+     },
+     {
+      "asin": "B09M41K85K",
+      "badge": null,
+      "price": null,
+      "rating": "4.1",
+      "reviews": "11",
+      "title": "ULTIMATE PRO Unisex Copper Masks with Adjustable Ear Loops and Nose Clip. Copper Treated Layer, Breathable and Washable Face Mask for Men and Women, Made in Sou",
+      "rank": 10
+     }
+    ],
+    "sponsored": [
+     {
+      "asin": "B0DPWYJLJV",
+      "badge": null,
+      "price": "649",
+      "rating": "4.1",
+      "reviews": "679",
+      "title": "Radiance Reveal Peel Off Mask 75G | Honey, Milk Protein & Collagen | Hydration, Brightening, Instant Glow & Plumped | Korean Inspired Skin Care| Peel Off Face M",
+      "slot": 1
+     },
+     {
+      "asin": "B08WWHKN7C",
+      "badge": "Bestseller",
+      "price": "263",
+      "rating": "4.3",
+      "reviews": "11,685",
+      "title": "Nonwoven Fabric Disposable Multilayer Protective Mask (Black, Pack of 50) for Unisex",
+      "slot": 2
+     },
+     {
+      "asin": "B01N952VHF",
+      "badge": "Bestseller",
+      "price": "699",
+      "rating": "4.0",
+      "reviews": "11,620",
+      "title": "N99 Anti Pollution Face Mask with 4 Activated Carbon Filters & Detachable Headband D.R.D.O Certified (Black)",
+      "slot": 3
+     },
+     {
+      "asin": "B0FSMLN2DL",
+      "badge": null,
+      "price": "497",
+      "rating": "4.0",
+      "reviews": "126",
+      "title": "Nova N99 Anti-Pollution Face Mask with 8 Replaceable Carbon Filters for Kids, Washable & Reusable Respirator Mask with Breathable Air Valve for Children|6 Layer",
+      "slot": 4
+     },
+     {
+      "asin": "B09K5CGHPV",
+      "badge": "Bestseller",
+      "price": "497",
+      "rating": "4.4",
+      "reviews": "78",
+      "title": "ULTIMATE Unisex Copper Face Mask Masks with Adjustable Ear Loops. Copper Treated Layer, Breathable and Washable Fabric Mask for Men and Women, Made in South Kor",
+      "slot": 5,
+      "isFridoBrand": true
+     },
+     {
+      "asin": "B095H9VDQC",
+      "badge": null,
+      "price": "350",
+      "rating": "4.1",
+      "reviews": "181",
+      "title": "V-4400 - N95 Face Mask - NIOSH Certified, Unisex Fold Flat Design, Dust, Bacterial & Viral Protection, Nonwoven Fabric - White - Pack of 5",
+      "slot": 6
+     },
+     {
+      "asin": "B09ZQWCVXG",
+      "badge": null,
+      "price": "289",
+      "rating": "3.7",
+      "reviews": "64",
+      "title": "Disposable 3Ply Face Mask - Ultra Soft Fabric Wide Ear Loop, Comfortable, Inbuilt Plastic Coated Nose Pin, CE and ISO Certified, Convenient Box Pack",
+      "slot": 7
+     },
+     {
+      "asin": "B09S6KGS1S",
+      "badge": "Bestseller",
+      "price": "485",
+      "rating": "4.3",
+      "reviews": "289",
+      "title": "V-4400 - N95 Face Mask - NIOSH Certified, Unisex Fold Flat Design, Dust, Bacterial & Viral Protection - White - Pack of 10",
+      "slot": 8
+     },
+     {
+      "asin": "B0CKW31G1K",
+      "badge": null,
+      "price": "885",
+      "rating": "4.2",
+      "reviews": "38",
+      "title": "V-500 - Half Face Reusable Respirator Mask with V-7500 ABEK1 P1S Filter Cartridge - ISI Approved, Thermoplastic Elastomers, Multigas & Particulate Respiratory P",
+      "slot": 9
+     },
+     {
+      "asin": "B0C77WYNT6",
+      "badge": null,
+      "price": "7,170",
+      "rating": "5.0",
+      "reviews": "2",
+      "title": "V-999 Full Face Reusable Respirator Mask with V-7900 ABEK1 P2R Multi-Gas Filter Cartridges | ISI Approved | Chemical, Organic Vapour & Dust Protection | Full Fa",
+      "slot": 10
+     }
+    ],
+    "fridoOrganicRank": 1,
+    "fridoSponsoredSlot": 5,
+    "fridoBadge": null
+   },
+   "flipkart": {
+    "fetchOk": true,
+    "results": [
+     {
+      "pos": 1,
+      "title": "Entros KL875 Premium Aluminum, Foldable Design, Ideal for Patients & Handicaps Manual Wheelchair",
+      "price": null,
+      "rating": 4.3,
+      "ratings": 1467,
+      "isFrido": false
+     },
+     {
+      "pos": 2,
+      "title": "Entros SC8005A Manual Wheelchair",
+      "price": null,
+      "rating": 4.1,
+      "ratings": 692,
+      "isFrido": false
+     },
+     {
+      "pos": 3,
+      "title": "Entros SC8005S Manual Wheelchair",
+      "price": null,
+      "rating": 4.1,
+      "ratings": 665,
+      "isFrido": false
+     },
+     {
+      "pos": 4,
+      "title": "Entros Liberty Foldable for Adults & Patients Manual Wheelchair",
+      "price": null,
+      "rating": 4.2,
+      "ratings": 192,
+      "isFrido": false
+     },
+     {
+      "pos": 5,
+      "title": "Entros SC5025C Manual Wheelchair",
+      "price": null,
+      "rating": 2.3,
+      "ratings": 3,
+      "isFrido": false
+     },
+     {
+      "pos": 6,
+      "title": "freeskin Age Defence Algae Peel-Off Mask for All Skin Type, Professional Facial Treatment",
+      "price": null,
+      "rating": 4.8,
+      "ratings": 5,
+      "isFrido": false
+     },
+     {
+      "pos": 7,
+      "title": "CASSOWARY Aqua Cool Gel Face Mask With Free Eyemask For Pain Relief  Face Shaping Mask",
+      "price": null,
+      "rating": 3.8,
+      "ratings": 1298,
+      "isFrido": false
+     },
+     {
+      "pos": 8,
+      "title": "MOND'SUB Grapefruit Refreshing Facial with Natural Grapefruit Extract OIL Controlling Mask(150 G) Pack Of 6",
+      "price": null,
+      "rating": 0,
+      "ratings": 0,
+      "isFrido": false
+     },
+     {
+      "pos": 9,
+      "title": "Frido 3D Eye Mask for Unisex | 100% Blackout Sleep Mask with Adjustable Straps",
+      "price": null,
+      "rating": 4.8,
+      "ratings": 10,
+      "isFrido": true
+     },
+     {
+      "pos": 10,
+      "title": "Fidelis Healthcare Full Face Mask CPAP/BiPAP Mask with Headgear, Compatible with CPAP/BPAP Machine",
+      "price": null,
+      "rating": 3.6,
+      "ratings": 187,
+      "isFrido": false
+     },
+     {
+      "pos": 11,
+      "title": "Frido Hot & Cold Therapy Cap for Migraine & Headache Relief | 360° Compression Head Support",
+      "price": null,
+      "rating": 4.4,
+      "ratings": 41,
+      "isFrido": true
+     },
+     {
+      "pos": 12,
+      "title": "Passion Indulge Kumkumadi Natural Face Mudd Pack for Anti-Aging, Glowing, shine and Brightness",
+      "price": null,
+      "rating": 3.9,
+      "ratings": 7,
+      "isFrido": false
+     },
+     {
+      "pos": 13,
+      "title": "sell4you Blue Cool Gel Face Mask  Face Shaping Mask",
+      "price": null,
+      "rating": 3.1,
+      "ratings": 7,
+      "isFrido": false
+     },
+     {
+      "pos": 14,
+      "title": "purobio Glowing Gold Dust Algae Peel Off Facial Mask-500GM",
+      "price": null,
+      "rating": 3.6,
+      "ratings": 5,
+      "isFrido": false
+     }
+    ],
+    "fridoRank": 9
+   },
+   "status": "listed",
+   "capturedAt": "2026-07-08"
   }
  ]
 }
