@@ -1,0 +1,196 @@
+{
+ "category": "personal-care-cramp-relief-belt",
+ "marketplace": "amazon-in",
+ "keyword": "Frido Cramp Relief Belt",
+ "capturedAt": "2026-07-08",
+ "method": "Live scrape amazon.in search page 1, query = exact SKU name (brand-qualified)",
+ "confidence": "High (live snapshot, single keyword)",
+ "fridoOrganicRank": 4,
+ "fridoSponsoredSlot": null,
+ "organic": [
+  {
+   "asin": "B0FPR25FS4",
+   "badge": null,
+   "price": "474",
+   "rating": "4.3",
+   "reviews": "173",
+   "title": "Portable Cordless Heating Belt for Menstrual Cramps Relief, Heating Pad for Stomach, 3-Speed Temperature Adjustment and 4-Speed Massage Modes, Back and Belly He",
+   "rank": 1
+  },
+  {
+   "asin": "B0F32Y7471",
+   "badge": null,
+   "price": "1,491",
+   "rating": "4.4",
+   "reviews": "443",
+   "title": "Period Cramp Relief Massager | Portable Cordless Menstrual Pain Massage with 3 Heat Modes & 3 Massage Modes | Bigger Front LED Display with Battery & Temperatur",
+   "rank": 2
+  },
+  {
+   "asin": "B0F4CDFLL9",
+   "badge": null,
+   "price": "540",
+   "rating": "3.9",
+   "reviews": "16",
+   "title": "Period Cramp Relief Massager for Women – Portable Heating & Vibration Menstrual Pain Relief Device for Abdomen & Lower Back",
+   "rank": 3
+  },
+  {
+   "asin": "B0H567VJSQ",
+   "badge": null,
+   "price": "2,599",
+   "rating": "5.0",
+   "reviews": "6",
+   "title": "Electric Heating Pad for Pain Relief with 9 Temperature Settings (40–65°C), Heat Therapy Pad for Back, Shoulders, Thighs & Period Cramps, Auto Shut-Off with 4 P",
+   "rank": 4,
+   "isFridoBrand": true
+  },
+  {
+   "asin": "B0FRMZJF9Z",
+   "badge": null,
+   "price": "799",
+   "rating": "4.2",
+   "reviews": "101",
+   "title": "Electric Heating Belt for Pain Relief | Heating Pad for Back, Shoulder, Knee, and Period Cramps | 3 Heat Settings with Auto Shut Off | 4-Layer Insulation for Sa",
+   "rank": 5
+  },
+  {
+   "asin": "B0FF9PFRQ8",
+   "badge": null,
+   "price": "1,899",
+   "rating": "4.1",
+   "reviews": "270",
+   "title": "Orthotics Bunion Corrector for Men & Women, Pack of 1 | Adjustable Toe Straightener with Pressure Control Knob & Soft Gel Cushion | Pain Relief & Toe Alignment ",
+   "rank": 6
+  },
+  {
+   "asin": "B0DM9BCNG1",
+   "badge": null,
+   "price": "1,337",
+   "rating": "3.8",
+   "reviews": "142",
+   "title": "EVA Period Heating Pad with Massager for Women | Fast Relief from Menstrual Cramps & Period Pain | 9 Heat & Massage Modes | Soft & Comfortable | Portable & Rech",
+   "rank": 7
+  },
+  {
+   "asin": "B0CQM9FGX8",
+   "badge": null,
+   "price": "799",
+   "rating": "3.8",
+   "reviews": "496",
+   "title": "USA Orthopedic Electric Heating Pad for Period Pain Relief I Heat Belt For Period Cramps, Lower Back Pain, Lumbar, Shoulder & Knee, 3 Heat Settings with Tempera",
+   "rank": 8
+  },
+  {
+   "asin": "B0BR1H9VLM",
+   "badge": null,
+   "price": "548",
+   "rating": "4.3",
+   "reviews": "3,509",
+   "title": "Lumbar Sacral Belt for Relief from Back Pain and Muscle Spasms | With 5 Flexible Splints for Optimal Lower Back and Waist Support | For Men and Women | Universa",
+   "rank": 9
+  },
+  {
+   "asin": "B0F3P2BNBL",
+   "badge": null,
+   "price": "277",
+   "rating": "3.5",
+   "reviews": "39",
+   "title": "Back Pain Belt - Lower Back Support Brace for Men and Women- Anti-Slip Sciatica Pain Relief - Sacroiliac SI Joint Hip, Pelvic Beltt - Back Pain Belt For Women -",
+   "rank": 10
+  }
+ ],
+ "sponsored": [
+  {
+   "asin": "B0DG8WS1MV",
+   "badge": null,
+   "price": "319",
+   "rating": "4.2",
+   "reviews": "162",
+   "title": "Cramp Relief Roll-On by Nua | Quick Relief | All Natural | For Abdomen, Back and Leg Pain | Absorbs Easily | Stain-free | Safe on Skin",
+   "slot": 1
+  },
+  {
+   "asin": "B0DM9BCNG1",
+   "badge": null,
+   "price": "1,337",
+   "rating": "3.8",
+   "reviews": "142",
+   "title": "EVA Period Heating Pad with Massager for Women | Fast Relief from Menstrual Cramps & Period Pain | 9 Heat & Massage Modes | Soft & Comfortable | Portable & Rech",
+   "slot": 2
+  },
+  {
+   "asin": "B0GZLBX9FR",
+   "badge": null,
+   "price": "2,199",
+   "rating": "4.1",
+   "reviews": "106",
+   "title": "Wireless Heating Pad Belt for Back Pain and Period Cramp Relief Massager | Adjustable, Fits Sizes | 3 Heat and 6 Massage Modes | Lower Back, Lumbar, Abdomen, Wa",
+   "slot": 3
+  },
+  {
+   "asin": "B0F6NM23XT",
+   "badge": null,
+   "price": "683",
+   "rating": "3.9",
+   "reviews": "52",
+   "title": "Shoulder Support Belt for Pain Relief | Shoulder Belt with Neoprene Material | Rotator Cuff Brace for Men and Women | Right and Left Shoulder Support for Recove",
+   "slot": 4
+  },
+  {
+   "asin": "B0DKTRRFF3",
+   "badge": null,
+   "price": "1,336",
+   "rating": "3.9",
+   "reviews": "397",
+   "title": "EVA Period Heating Pad with Massager for Women | Fast Relief from Menstrual Cramps & Period Pain | 9 Heat & Massage Modes | Soft & Comfortable | Portable & Rech",
+   "slot": 5
+  },
+  {
+   "asin": "B0D9QQXR58",
+   "badge": null,
+   "price": "783",
+   "rating": "4.0",
+   "reviews": "1,152",
+   "title": "1MG Tata Electric Heating Belt | Heating Pad For Back, Shoulder, Knee, Ankle, Period Pain Relief | 4 Layer Insulation For Safe Usage | 3 Heat Settings | Auto Sh",
+   "slot": 6
+  },
+  {
+   "asin": "B0GSR4H7XQ",
+   "badge": null,
+   "price": "1,499",
+   "rating": "4.9",
+   "reviews": "5",
+   "title": "Lumbo Sacral Belt For Women & Men | Lumbar Support Belt For Back Pain, Posture, Spine Alignment | Adjustable Straps | Breathable Fabric | Waist Belt For Pain Re",
+   "slot": 7
+  },
+  {
+   "asin": "B0B2M2HLTY",
+   "badge": null,
+   "price": "2,999",
+   "rating": "4.2",
+   "reviews": "586",
+   "title": "Period Pain Relief Device Relief from Menstrual Cramp and Period Pain | Electric Rechargeable PATENTED TENS Technology 3+ years usage Easy to Wear Clinically Te",
+   "slot": 8
+  },
+  {
+   "asin": "B01KUJ1VMG",
+   "badge": null,
+   "price": "3,449",
+   "rating": "4.5",
+   "reviews": "29,721",
+   "title": "Pain Relief Products With Reliable German Technology (Digital TENS EMS EM49), White",
+   "slot": 9
+  },
+  {
+   "asin": "B0FKBNDV1F",
+   "badge": null,
+   "price": "849",
+   "rating": "4.0",
+   "reviews": "22",
+   "title": "Period Cramp Massager Belt – Cordless Rechargeable Heating Pad with 3 Heat Levels & 4 Massage Modes | Portable Period Pain Relief Massager for Cramps, Back & Be",
+   "slot": 10
+  }
+ ],
+ "notes": []
+}

@@ -1,0 +1,195 @@
+{
+ "category": "personal-care-nasal-strip-pro",
+ "marketplace": "amazon-in",
+ "keyword": "Frido Nasal Strip Pro",
+ "capturedAt": "2026-07-08",
+ "method": "Live scrape amazon.in search page 1, query = exact SKU name (brand-qualified)",
+ "confidence": "High (live snapshot, single keyword)",
+ "fridoOrganicRank": null,
+ "fridoSponsoredSlot": null,
+ "organic": [
+  {
+   "asin": "B0H5CJT8P1",
+   "badge": null,
+   "price": "229",
+   "rating": "4.3",
+   "reviews": "6,951",
+   "title": "Magnetic Universal Nasal Strips | Breathing Nasal Strip | Anti Snoring Nose Clip | Skin Safe Sleep Nasal Strips | Nasal Dilators For Breathing | Snore Stopper |",
+   "rank": 1
+  },
+  {
+   "asin": "B0GSRS1LD4",
+   "badge": null,
+   "price": "499",
+   "rating": "1.0",
+   "reviews": "2",
+   "title": "Breathing Nasal Strips - ( 30 Count ) Breathe Right Nasal Strips for Snoring, Extra Strength Beige Nasal Pureflow Breathing Strips to Improve Sleep, Instant Nas",
+   "rank": 2
+  },
+  {
+   "asin": "B0F8JD3QBN",
+   "badge": null,
+   "price": "889",
+   "rating": "3.7",
+   "reviews": "327",
+   "title": "Pro Nasal Strips – CDSCO-Licensed Medical Device in India, Hypoallergenic Adhesive & Ultra-Strong Spring for Instant Relief – Reduces Snoring & Enhances Sleep, ",
+   "rank": 3
+  },
+  {
+   "asin": "B0G2XFH8SC",
+   "badge": null,
+   "price": "499",
+   "rating": "3.5",
+   "reviews": "81",
+   "title": "Nasal Strips for Breathing & Snoring Relief, 30 Strips – Strong Hold Nose Strips for Better Airflow, Sleep & Sports Performance – Sweat-Resistant, Skin-Safe, CD",
+   "rank": 4
+  },
+  {
+   "asin": "B0GVJX9CC9",
+   "badge": null,
+   "price": "199",
+   "rating": "4.0",
+   "reviews": "450",
+   "title": "Magnetic Universal Nasal Strips | Breathing Nasal Strip | Anti Snoring Nose Clip | Skin Safe Sleep Nasal Strips | Nasal Dilators For Breathing | Snore Stopper |",
+   "rank": 5
+  },
+  {
+   "asin": "B0FXXXWBXV",
+   "badge": null,
+   "price": "220",
+   "rating": "3.4",
+   "reviews": "195",
+   "title": "Magnetic Anti-Snoring Nose Clip (Pack of 15) | Nasal Strips for Breathing Relief | Sleep Aid Snore Stopper Device for Men & Women | Reusable Nose Dilator for Be",
+   "rank": 6
+  },
+  {
+   "asin": "B0FDFH74F4",
+   "badge": null,
+   "price": "899",
+   "rating": "4.0",
+   "reviews": "191",
+   "title": "Pro Transparent Nasal Strips – CDSCO-Licensed Medical Device in India, Hypoallergenic Adhesive & Ultra-Strong Spring for Instant Relief – Reduces Snoring & Enha",
+   "rank": 7
+  },
+  {
+   "asin": "B0GMG51P91",
+   "badge": null,
+   "price": "199",
+   "rating": "3.8",
+   "reviews": "91",
+   "title": "Magnetic Nose Strips for Breathing & Snoring Support | Nasal Dilator Strips for Men | Reusable Anti Snoring Nose Clip for Better Airflow During Sleep | Easy Nig",
+   "rank": 8
+  },
+  {
+   "asin": "B0H2BZ86NP",
+   "badge": null,
+   "price": "749",
+   "rating": "5.0",
+   "reviews": "2",
+   "title": "Junior Nose Strips for Kids – Gentle Nasal Strips for Easier Breathing During Play, School & Sleep | Hypoallergenic, Sweat-Resistant, Drug-Free Nasal Breathing ",
+   "rank": 9
+  },
+  {
+   "asin": "B08SJPFXDJ",
+   "badge": null,
+   "price": "390",
+   "rating": "3.0",
+   "reviews": "448",
+   "title": "Snoring Relief Nasal Strips Your Nose Instantly | Nose Strips for Snoring | Anti Snoring Device for Men & Women | Relieves Nasal | Better Breath & Improves Slee",
+   "rank": 10
+  }
+ ],
+ "sponsored": [
+  {
+   "asin": "B0F8JD3QBN",
+   "badge": null,
+   "price": "889",
+   "rating": "3.7",
+   "reviews": "327",
+   "title": "Pro Nasal Strips – CDSCO-Licensed Medical Device in India, Hypoallergenic Adhesive & Ultra-Strong Spring for Instant Relief – Reduces Snoring & Enhances Sleep, ",
+   "slot": 1
+  },
+  {
+   "asin": "B0G2XFH8SC",
+   "badge": null,
+   "price": "499",
+   "rating": "3.5",
+   "reviews": "81",
+   "title": "Nasal Strips for Breathing & Snoring Relief, 30 Strips – Strong Hold Nose Strips for Better Airflow, Sleep & Sports Performance – Sweat-Resistant, Skin-Safe, CD",
+   "slot": 2
+  },
+  {
+   "asin": "B0FSRF7W8T",
+   "badge": "Bestseller",
+   "price": "287",
+   "rating": "4.1",
+   "reviews": "1,162",
+   "title": "Magnetic Nose Strips for Breathing | Snoring Stopper for Men | Nasal Strips for Breathing | Nasal Dilators For Breathing | Instant Relief From Snoring | Anti Sn",
+   "slot": 3
+  },
+  {
+   "asin": "B0FDFH74F4",
+   "badge": null,
+   "price": "899",
+   "rating": "4.0",
+   "reviews": "191",
+   "title": "Pro Transparent Nasal Strips – CDSCO-Licensed Medical Device in India, Hypoallergenic Adhesive & Ultra-Strong Spring for Instant Relief – Reduces Snoring & Enha",
+   "slot": 4
+  },
+  {
+   "asin": "B0G42J82LW",
+   "badge": "Bestseller",
+   "price": "297",
+   "rating": "3.3",
+   "reviews": "348",
+   "title": "Magnetic Universal Nasal Strips | Breathing Nasal Strip | Anti Snoring Nose Clip | Skin Safe Sleep Nasal Strips | Nasal Dilators For Breathing | Snore Stopper |",
+   "slot": 5
+  },
+  {
+   "asin": "B0G5S53Z1X",
+   "badge": null,
+   "price": "499",
+   "rating": "5.0",
+   "reviews": "2",
+   "title": "Nasal Strips Starter Pack (10 Count) - Boost Oxygen Intake, Reduce Snoring, Improve Sleep Quality, Drug-Free Snoring Solution & Nasal Congestion Relief - Advanc",
+   "slot": 6
+  },
+  {
+   "asin": "B0FSLL2S3Y",
+   "badge": null,
+   "price": "399",
+   "rating": "3.5",
+   "reviews": "58",
+   "title": "BreatheX Nasal Strips – Extra Strength Snoring & Congestion Relief | Sweat-Proof, Hypoallergenic Adhesive | Opens Nasal Passages for Better Breathing, Sleep & S",
+   "slot": 7
+  },
+  {
+   "asin": "B0DWLKW32T",
+   "badge": null,
+   "price": "647",
+   "rating": "3.3",
+   "reviews": "58",
+   "title": "Oxyclip Magnetic Nasal Strips –India’s #1 Magnetic Nasal Strip | Extra Strength Snoring Relief | Boost Oxygen, Improve Sleep & Facial Structure | Skin-Safe, Reu",
+   "slot": 8
+  },
+  {
+   "asin": "B0FY68TTBT",
+   "badge": null,
+   "price": "499",
+   "rating": "3.5",
+   "reviews": "9",
+   "title": "Magnetic Nasal Dilators for Better Breathing & Nighttime Comfort – Reusable Anti Snoring Nose Clip with Adjustable Magnetic Fit, Lightweight Skin-Safe Airflow S",
+   "slot": 9
+  },
+  {
+   "asin": "B0GQ4QZFM4",
+   "badge": null,
+   "price": "551",
+   "rating": "3.6",
+   "reviews": "7",
+   "title": "Oxyflow Premium Nasal Strips –India’s #1 Nasal Strip | CDSCO Approved, Hypoallergenic Adhesive & Ultra-Strong Spring for Instant Relief | Boost Oxygen, Improve ",
+   "slot": 10
+  }
+ ],
+ "notes": []
+}

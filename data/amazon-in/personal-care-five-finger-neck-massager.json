@@ -1,0 +1,195 @@
+{
+ "category": "personal-care-five-finger-neck-massager",
+ "marketplace": "amazon-in",
+ "keyword": "Frido Five Finger Neck Massager",
+ "capturedAt": "2026-07-08",
+ "method": "Live scrape amazon.in search page 1, query = exact SKU name (brand-qualified)",
+ "confidence": "High (live snapshot, single keyword)",
+ "fridoOrganicRank": null,
+ "fridoSponsoredSlot": null,
+ "organic": [
+  {
+   "asin": "B0G1HK9DNF",
+   "badge": null,
+   "price": "1,999",
+   "rating": "3.8",
+   "reviews": "248",
+   "title": "Bionic Heated Massager, Wireless Portable Shiatsu Neck and Back Massager, Electric Deep Tissue 4D Kneading Massage, Simulated Human Hand Design for Pain Relief ",
+   "rank": 1
+  },
+  {
+   "asin": "B0GYWXZNP5",
+   "badge": null,
+   "price": "1,699",
+   "rating": "4.5",
+   "reviews": "31",
+   "title": "Bionic Heated Massager, Wireless Portable Shiatsu Neck and Back Massager, Electric Deep Tissue 4D Kneading Massage, Simulated Human Hand Design for Pain Relief ",
+   "rank": 2
+  },
+  {
+   "asin": "B0GZ9YVRN7",
+   "badge": null,
+   "price": "1,290",
+   "rating": "3.3",
+   "reviews": "12",
+   "title": "Rainspire Wireless Neck Massager with Heat, Deep Tissue 3D Kneading Shoulder Massager, Portable Rechargeable Cervical Pain Relief Device for Neck, Back, Shoulde",
+   "rank": 3
+  },
+  {
+   "asin": "B0GVDDCBRZ",
+   "badge": null,
+   "price": "1,999",
+   "rating": "4.1",
+   "reviews": "115",
+   "title": "Bionic Heated Massager, Wireless Portable Shiatsu Neck and Back Massager, Electric Deep Tissue 4D Kneading Massage, Simulated Human Hand Design for Pain Relief ",
+   "rank": 4
+  },
+  {
+   "asin": "B0GXHK4GZC",
+   "badge": null,
+   "price": "1,635",
+   "rating": "4.4",
+   "reviews": "50",
+   "title": "Shoulder and Neck Massager with Fingers, 4D Kneading Bionic Heated Massage, Simulates Real Palm, Muscle Tension Relief, Green",
+   "rank": 5
+  },
+  {
+   "asin": "B0H159KW2M",
+   "badge": null,
+   "price": "2,499",
+   "rating": "4.6",
+   "reviews": "4,462",
+   "title": "KIMEE Bionic Heated Neck Massager, Wireless Shiatsu Neck & Shoulder Back Massager, Electric 4D Deep Tissue Kneading with Heat, Cordless Portable for Pain Relief",
+   "rank": 6
+  },
+  {
+   "asin": "B0GNGXZ6H6",
+   "badge": null,
+   "price": "1,599",
+   "rating": "5.0",
+   "reviews": "3",
+   "title": "Astrohile Shoulder and Neck Massager, Heated Massager, Neck Massager with Fingers, 4D Kneading Massager, Simulates a Real Palm Massager for Comfort, Relax Muscl",
+   "rank": 7
+  },
+  {
+   "asin": "B0GYNRPGW4",
+   "badge": null,
+   "price": "1,899",
+   "rating": "4.3",
+   "reviews": "1,735",
+   "title": "Bionic Heated Massager, Wireless Portable Shiatsu Neck and Back Massager, Electric Deep Tissue 4D Kneading Massage, Simulated Human Hand Design for Pain Relief ",
+   "rank": 8
+  },
+  {
+   "asin": "B0G818JC4K",
+   "badge": null,
+   "price": "1,604",
+   "rating": "2.9",
+   "reviews": "3",
+   "title": "Astrohile Shoulder and Neck Massager, Heated Massager, Neck Massager with Fingers, 4D Kneading Massager, Simulates a Real Palm Massager for Comfort, Relax Muscl",
+   "rank": 9
+  },
+  {
+   "asin": "B0GV1R3375",
+   "badge": null,
+   "price": "1,799",
+   "rating": "3.0",
+   "reviews": "4",
+   "title": "Shoulder & Neck Massager with Heat, 4D Bionic Heated Neck Massager with Fingers Simulates a Real Palm Massage for Comfort, 3 Intensity Levels + 2 Heat Settings ",
+   "rank": 10
+  }
+ ],
+ "sponsored": [
+  {
+   "asin": "B0G1HK9DNF",
+   "badge": null,
+   "price": "1,999",
+   "rating": "3.8",
+   "reviews": "248",
+   "title": "Bionic Heated Massager, Wireless Portable Shiatsu Neck and Back Massager, Electric Deep Tissue 4D Kneading Massage, Simulated Human Hand Design for Pain Relief ",
+   "slot": 1
+  },
+  {
+   "asin": "B0GYWRRDY8",
+   "badge": null,
+   "price": "1,699",
+   "rating": "5.0",
+   "reviews": "2",
+   "title": "Bionic Heated Massager, Wireless Portable Shiatsu Neck and Back Massager, Electric Deep Tissue 4D Kneading Massage, Simulated Human Hand Design for Pain Relief ",
+   "slot": 2
+  },
+  {
+   "asin": "B0GVDDCBRZ",
+   "badge": null,
+   "price": "1,999",
+   "rating": "4.1",
+   "reviews": "115",
+   "title": "Bionic Heated Massager, Wireless Portable Shiatsu Neck and Back Massager, Electric Deep Tissue 4D Kneading Massage, Simulated Human Hand Design for Pain Relief ",
+   "slot": 3
+  },
+  {
+   "asin": "B0GGYYJM4D",
+   "badge": null,
+   "price": "1,999",
+   "rating": "3.6",
+   "reviews": "7",
+   "title": "Heated Neck and Shoulder Massager for Pain Relief Wireless Rechargeable Portable Shiatsu Massage Machine For Cervical Neck, Back, Shoulder & Leg Massager for Mu",
+   "slot": 4
+  },
+  {
+   "asin": "B0GXJFP3M9",
+   "badge": "Bestseller",
+   "price": "1,962",
+   "rating": "4.1",
+   "reviews": "2,072",
+   "title": "USA 1048 Shiatsu Electric Neck and Back Massager Machine with Infrared Kneading Nodes for Cervical Neck, Shoulder, Back & Body Muscle Pain Relief",
+   "slot": 5
+  },
+  {
+   "asin": "B0DWVHMW56",
+   "badge": null,
+   "price": "1,299",
+   "rating": "5.0",
+   "reviews": "3",
+   "title": "Neck Massager for Pain Relief - 6D Shiatsu Deep Tissue Massager with Kneading and Warm, Cordless Rechargeable for Shoulder Muscles, Gifts for Women/Men/Dad/Moth",
+   "slot": 6
+  },
+  {
+   "asin": "B0H71LMGGY",
+   "badge": null,
+   "price": "1,667",
+   "rating": "4.6",
+   "reviews": "27,392",
+   "title": "Bionic Heated Massager, Wireless Portable Shiatsu Neck and Back Massager, Electric Deep Tissue 4D Kneading Massage, Simulated Human Hand Design for Pain Relief ",
+   "slot": 7
+  },
+  {
+   "asin": "B00T7ALC7E",
+   "badge": null,
+   "price": "8,799",
+   "rating": "4.1",
+   "reviews": "73",
+   "title": "uCozy 3D Neck, Shoulder,Lumbar & Back Pain Relief Massager | Deep Tissue Kneading Massage | Pillow Massager with Warmth Therapy | Gifts for Men, Women, Home Off",
+   "slot": 8
+  },
+  {
+   "asin": "B0GG6CJ8RN",
+   "badge": null,
+   "price": "1,619",
+   "rating": "4.2",
+   "reviews": "758",
+   "title": "ONESTA Electric Neck Massager with Heat Deep Tissue 4D Kneading Massage Pillow for Neck & Shoulder Pain Relief Portable Rechargeable Cervical Massager Machine f",
+   "slot": 9
+  },
+  {
+   "asin": "B0H159KW2M",
+   "badge": null,
+   "price": "2,499",
+   "rating": "4.6",
+   "reviews": "4,462",
+   "title": "KIMEE Bionic Heated Neck Massager, Wireless Shiatsu Neck & Shoulder Back Massager, Electric 4D Deep Tissue Kneading with Heat, Cordless Portable for Pain Relief",
+   "slot": 10
+  }
+ ],
+ "notes": []
+}

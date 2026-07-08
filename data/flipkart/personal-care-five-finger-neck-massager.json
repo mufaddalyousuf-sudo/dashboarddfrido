@@ -1,0 +1,93 @@
+{
+ "category": "personal-care-five-finger-neck-massager",
+ "marketplace": "flipkart",
+ "keyword": "Frido Five Finger Neck Massager",
+ "capturedAt": "2026-07-08",
+ "method": "Live scrape flipkart.com mobile search page 1 (__INITIAL_STATE__), query = exact SKU name",
+ "confidence": "Medium-High (live; sponsored flags not exposed on mobile)",
+ "fridoRank": null,
+ "fridoPresent": false,
+ "results": [
+  {
+   "pos": 1,
+   "title": "Cult Revive Vibration & Shiatsu therapy, Pain Relief, Boost Blood Circulation, Foot Massager",
+   "price": null,
+   "rating": 4.2,
+   "ratings": 16253,
+   "isFrido": false
+  },
+  {
+   "pos": 2,
+   "title": "Enem Neck & Shoulder Massager",
+   "price": null,
+   "rating": 3.9,
+   "ratings": 12,
+   "isFrido": false
+  },
+  {
+   "pos": 3,
+   "title": "iTechPie PINK MASSGER -04 Massager Tool Protable Handheld Five Fingers Claw Steel Ball Relaxation Head Massager For Home Office Travel Massager",
+   "price": null,
+   "rating": 3.6,
+   "ratings": 29,
+   "isFrido": false
+  },
+  {
+   "pos": 4,
+   "title": "Esarora Cordless Chargeable Head Massager Scalp Massager 4 Massage Heads_J5S8W3H2 Relax Scalp Stress, Handheld Scalp Massager Tool Helps Hair Growth_5Y7W872 Mas",
+   "price": null,
+   "rating": 3.7,
+   "ratings": 3,
+   "isFrido": false
+  },
+  {
+   "pos": 5,
+   "title": "Pulse X Impact For Pain Relief, Neck and Full Body Gun Massager",
+   "price": null,
+   "rating": 0,
+   "ratings": 0,
+   "isFrido": false
+  },
+  {
+   "pos": 6,
+   "title": "ARG HEALTHCARE Back Massage Cushion Car Seat Massager Portable Massage For Back Pain Relief 12 Rubbing Balls for Back, Neck, Calf, Shoulder, Palm, Lower Leg, Th",
+   "price": null,
+   "rating": 4,
+   "ratings": 246,
+   "isFrido": false
+  },
+  {
+   "pos": 7,
+   "title": "Ronofic Acupressure 5 Sujok Ring With China Finger For Pain Relief And Stress Relief Massager",
+   "price": null,
+   "rating": 0,
+   "ratings": 0,
+   "isFrido": false
+  },
+  {
+   "pos": 8,
+   "title": "netclub Acupressure massager 5 Star Magnet Set (Pack of 10) With Paper Tape & Sujok Finger Ring with thumb pad finger care body massager fitness kit pain relief",
+   "price": null,
+   "rating": 0,
+   "ratings": 0,
+   "isFrido": false
+  },
+  {
+   "pos": 9,
+   "title": "ShreeDevam Ergonomic Body Comfort Device for Comfortable Use",
+   "price": null,
+   "rating": 0,
+   "ratings": 0,
+   "isFrido": false
+  },
+  {
+   "pos": 10,
+   "title": "Zovilstore Rechargeable Advanced 5-Head Electric Massage Gun – Deep Tissue Pain Relief with Multiple Attachments for Neck, Back, Legs & Full Body Pain Relief Ma",
+   "price": null,
+   "rating": 4.4,
+   "ratings": 11,
+   "isFrido": false
+  }
+ ],
+ "notes": []
+}

@@ -1,0 +1,197 @@
+{
+ "category": "personal-care-sleep-eye-mask",
+ "marketplace": "amazon-in",
+ "keyword": "Frido Sleep Eye Mask",
+ "capturedAt": "2026-07-08",
+ "method": "Live scrape amazon.in search page 1, query = exact SKU name (brand-qualified)",
+ "confidence": "High (live snapshot, single keyword)",
+ "fridoOrganicRank": 2,
+ "fridoSponsoredSlot": 5,
+ "organic": [
+  {
+   "asin": "B0GPQVX5PV",
+   "badge": "Amazon's Choice",
+   "price": "999",
+   "rating": "4.4",
+   "reviews": "24",
+   "title": "3D Eye Mask for Men & Women | 100% Blackout Sleep Mask | Zero Pressure Memory Foam for Eyelids & Lashes | Adjustable Straps for Travel & Meditation | Soft Comfo",
+   "rank": 1
+  },
+  {
+   "asin": "B0FBS3PNHV",
+   "badge": null,
+   "price": "699",
+   "rating": "4.3",
+   "reviews": "12",
+   "title": "Sleep Eye Mask for Men & Women | Ultra-Soft Sleeping Eye Mask | Light Blocking Design | Multi-Adjustable Strap | No Pressure Fit | Lightweight Sleep Eye Mask Fo",
+   "rank": 2,
+   "isFridoBrand": true
+  },
+  {
+   "asin": "B0GPQP16HC",
+   "badge": null,
+   "price": "999",
+   "rating": "5.0",
+   "reviews": "6",
+   "title": "3D Eye Mask for Men & Women | 100% Blackout Sleep Mask | Zero Pressure Memory Foam for Eyelids & Lashes | Adjustable Straps for Travel & Meditation | Soft Comfo",
+   "rank": 3
+  },
+  {
+   "asin": "B0GPQTW38N",
+   "badge": null,
+   "price": "999",
+   "rating": "4.6",
+   "reviews": "6",
+   "title": "3D Eye Mask for Men & Women | 100% Blackout Sleep Mask | Zero Pressure Memory Foam for Eyelids & Lashes | Adjustable Straps for Travel & Meditation | Soft Comfo",
+   "rank": 4
+  },
+  {
+   "asin": "B0BQM83QVL",
+   "badge": "Bestseller",
+   "price": "199",
+   "rating": "4.1",
+   "reviews": "6,188",
+   "title": "Eye Mask for Sleeping with Adjustable Strap Super Soft Sleeping Mask Blind Fold for Comfortable Sleep Travelling Sleep Mask Pad for Girls Sleeping Eye Mask Blin",
+   "rank": 5
+  },
+  {
+   "asin": "B0FTZBVB4F",
+   "badge": null,
+   "price": "299",
+   "rating": "4.3",
+   "reviews": "83",
+   "title": "3D Contoured Eye Mask for Sleeping Men & Women | Soft Adjustable Sleep Mask for Eyes | Comfortable Eye Cover for Sleep, Travel & Meditation | Black Eye Sleeping",
+   "rank": 6
+  },
+  {
+   "asin": "B0BTT7NVJH",
+   "badge": null,
+   "price": "346",
+   "rating": "4.4",
+   "reviews": "974",
+   "title": "Luxury Silk Velvet Sleep Eye Mask For Men & Women | Ultra Smooth & Adjustable Blind Fold Suitable For All Family Members | Sleeping, Travelling, Relaxation | Pe",
+   "rank": 7
+  },
+  {
+   "asin": "B0BNL9YJWN",
+   "badge": null,
+   "price": "199",
+   "rating": "4.1",
+   "reviews": "934",
+   "title": "Silk Eye Mask for Sleeping with Adjustable Strap Premium Silk Sleeping Mask Blind Fold for Smooth & Comfortable Sleep Travelling Sleep Mask Pad Sleeping Eye Mas",
+   "rank": 8
+  },
+  {
+   "asin": "B0GT91RBKK",
+   "badge": null,
+   "price": "2,560",
+   "rating": null,
+   "reviews": null,
+   "title": "Travel Comfort Combo | 3D Blackout Eye Mask & Memory Foam Travel Neck Pillow with Free Pouch for Men & Women | Perfect for Flights, Car, Train Travel | Lightwei",
+   "rank": 9
+  },
+  {
+   "asin": "B0GT8SNNZD",
+   "badge": null,
+   "price": "2,560",
+   "rating": null,
+   "reviews": null,
+   "title": "Travel Comfort Combo | 3D Blackout Eye Mask & Memory Foam Travel Neck Pillow with Free Pouch for Men & Women | Perfect for Flights, Car, Train Travel | Lightwei",
+   "rank": 10
+  }
+ ],
+ "sponsored": [
+  {
+   "asin": "B0GPQVX5PV",
+   "badge": "Amazon's Choice",
+   "price": "999",
+   "rating": "4.4",
+   "reviews": "24",
+   "title": "3D Eye Mask for Men & Women | 100% Blackout Sleep Mask | Zero Pressure Memory Foam for Eyelids & Lashes | Adjustable Straps for Travel & Meditation | Soft Comfo",
+   "slot": 1
+  },
+  {
+   "asin": "B01LN7K4ZO",
+   "badge": null,
+   "price": "302",
+   "rating": "4.1",
+   "reviews": "10,188",
+   "title": "100% Mulberry Silk Sleep Mask – Pure Silk Eye Mask for Sleeping, Super Smooth Blackout Blindfold, Soft Adjustable Strap, Luxury Eye Cover for Travel, Meditation",
+   "slot": 2
+  },
+  {
+   "asin": "B0D3TTLXBP",
+   "badge": null,
+   "price": "1,099",
+   "rating": "4.4",
+   "reviews": "25",
+   "title": "Fabric 3D Eye Sleeping Mask: Ergonomic Blindfold For Superior Comfort With Zero Eye Pressure And Total Darkness,Black",
+   "slot": 3
+  },
+  {
+   "asin": "B0BTT81487",
+   "badge": null,
+   "price": "346",
+   "rating": "4.4",
+   "reviews": "974",
+   "title": "Luxury Silk Velvet Sleep Eye Mask For Men & Women | Ultra Smooth & Adjustable Blind Fold Suitable For All Family Members | Sleeping, Travelling, Relaxation | Pe",
+   "slot": 4
+  },
+  {
+   "asin": "B0FBS1J597",
+   "badge": null,
+   "price": "699",
+   "rating": "4.0",
+   "reviews": "10",
+   "title": "Sleep Eye Mask for Men & Women | Ultra-Soft Sleeping Eye Mask | Light Blocking Design | Multi-Adjustable Strap | No Pressure Fit | Lightweight Sleep Eye Mask Fo",
+   "slot": 5,
+   "isFridoBrand": true
+  },
+  {
+   "asin": "B0CXPW8QYB",
+   "badge": null,
+   "price": "219",
+   "rating": "4.2",
+   "reviews": "2,645",
+   "title": "Eye Mask for Sleeping Super Soft & Smooth And Fully Adjustable To All Size Heads - Super Soft & Comfortable for Women and Men, Blindfold for Travelling, Night S",
+   "slot": 6
+  },
+  {
+   "asin": "B0CLS1DVTM",
+   "badge": null,
+   "price": "428",
+   "rating": "4.0",
+   "reviews": "42",
+   "title": "Oculeaf Cool Aloe Vera Gel Eye Mask|Digital Eye Strain & Dry Eyes|Relieve stress (Pack of 1)",
+   "slot": 7
+  },
+  {
+   "asin": "B0GWVMPQ4J",
+   "badge": null,
+   "price": "999",
+   "rating": "3.0",
+   "reviews": "2",
+   "title": "Eye Mask for Sleeping – 3D Contoured Sleeping Eye Mask with Zero Eye Pressure & 100% Blackout Coverage – Adjustable Sleep Mask for Side Sleepers, Travel & Night",
+   "slot": 8
+  },
+  {
+   "asin": "B0GL2BHM37",
+   "badge": null,
+   "price": "699",
+   "rating": "3.0",
+   "reviews": "2",
+   "title": "3D Contoured Sleep Mask – 100% Blackout Eye Shade for Deep Sleep & Travel – Zero Pressure Design, Eyelash Friendly & Makeup Safe (Adjustable Strap) Black",
+   "slot": 9
+  },
+  {
+   "asin": "B0CCY9FZSZ",
+   "badge": null,
+   "price": "1,285",
+   "rating": null,
+   "reviews": null,
+   "title": "Oculeaf Hot and Cold Gel Eye Mask | Digital Eye Strain & Dry Eyes | Dark Circles & Puffy Eyes | Sinus Pain & Stress",
+   "slot": 10
+  }
+ ],
+ "notes": []
+}

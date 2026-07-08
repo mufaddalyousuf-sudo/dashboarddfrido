@@ -1,0 +1,117 @@
+{
+ "category": "personal-care-cold-hot-therapy-cap",
+ "marketplace": "flipkart",
+ "keyword": "Frido Cold & Hot Therapy Cap",
+ "capturedAt": "2026-07-08",
+ "method": "Live scrape flipkart.com mobile search page 1 (__INITIAL_STATE__), query = exact SKU name",
+ "confidence": "Medium-High (live; sponsored flags not exposed on mobile)",
+ "fridoRank": 6,
+ "fridoPresent": true,
+ "results": [
+  {
+   "pos": 1,
+   "title": "Baben Free Size Posture Corrector For Men And Women Back / Lumbar Support",
+   "price": null,
+   "rating": 4.1,
+   "ratings": 377,
+   "isFrido": false
+  },
+  {
+   "pos": 2,
+   "title": "Baben Posture corrector belt for men and women for back pain Posture Corrector Posture Corrector",
+   "price": null,
+   "rating": 4.2,
+   "ratings": 74,
+   "isFrido": false
+  },
+  {
+   "pos": 3,
+   "title": "Baben Free Size Sciatica Pain Relief Belt – Adjustable Lower Back & Hip Support Abdominal Belt",
+   "price": null,
+   "rating": 5,
+   "ratings": 21,
+   "isFrido": false
+  },
+  {
+   "pos": 4,
+   "title": "Baben 3 in 1 Postpartum Support - Recovery Belly Belt Free Size Abdominal Support Abdominal Belt",
+   "price": null,
+   "rating": 0,
+   "ratings": null,
+   "isFrido": false
+  },
+  {
+   "pos": 5,
+   "title": "Baben Posture Corrector Belt for Men & Women Back Support Brace Shoulder Pain Relief Posture Corrector",
+   "price": null,
+   "rating": 3.5,
+   "ratings": 4,
+   "isFrido": false
+  },
+  {
+   "pos": 6,
+   "title": "Frido Hot & Cold Therapy Cap for Migraine & Headache Relief | 360° Compression Head Support",
+   "price": null,
+   "rating": 4.4,
+   "ratings": 41,
+   "isFrido": true
+  },
+  {
+   "pos": 7,
+   "title": "Frido Wedge Plus Memory Foam Cushion for Sleeping, Acid Reflux Relief & Leg Elevator Back / Lumbar Support",
+   "price": null,
+   "rating": 4.2,
+   "ratings": 435,
+   "isFrido": true
+  },
+  {
+   "pos": 8,
+   "title": "Frido Active Knee Cap for Pain Relief, Joint Support & Injury Recovery, Core Black, L Knee Support",
+   "price": null,
+   "rating": 4.4,
+   "ratings": 356,
+   "isFrido": true
+  },
+  {
+   "pos": 9,
+   "title": "Frido Ultimate Pro Seat Cushion for Hip & Tailbone Pain Relief- Light Grey Back / Lumbar Support",
+   "price": null,
+   "rating": 4.1,
+   "ratings": 297,
+   "isFrido": true
+  },
+  {
+   "pos": 10,
+   "title": "MEDISKY First Aid,Sports Injury,Pain Relief and Hot/Cold Therapy Nylon Gel",
+   "price": null,
+   "rating": 0,
+   "ratings": 0,
+   "isFrido": false
+  },
+  {
+   "pos": 11,
+   "title": "FEXMY Heel Pain Relief Cracked Repair Foot Care Heel Pad and Heel Socks Combo Heel Support",
+   "price": null,
+   "rating": 3.8,
+   "ratings": 450,
+   "isFrido": false
+  },
+  {
+   "pos": 12,
+   "title": "FEXMY Shoe Bite Protector Heel Grips, Liner Cushions & Inserts for Loose Shoes Support Heel Support",
+   "price": null,
+   "rating": 3.8,
+   "ratings": 1480,
+   "isFrido": false
+  },
+  {
+   "pos": 13,
+   "title": "FEXMY Heel Grips Liner Cushions Inserts for Loose Shoes Insoles for Men Heel Support",
+   "price": null,
+   "rating": 3.8,
+   "ratings": 1480,
+   "isFrido": false
+  }
+ ],
+ "notes": []
+}

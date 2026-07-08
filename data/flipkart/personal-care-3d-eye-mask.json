@@ -1,0 +1,77 @@
+{
+ "category": "personal-care-3d-eye-mask",
+ "marketplace": "flipkart",
+ "keyword": "Frido 3D Eye Mask",
+ "capturedAt": "2026-07-08",
+ "method": "Live scrape flipkart.com mobile search page 1 (__INITIAL_STATE__), query = exact SKU name",
+ "confidence": "Medium-High (live; sponsored flags not exposed on mobile)",
+ "fridoRank": 1,
+ "fridoPresent": true,
+ "results": [
+  {
+   "pos": 1,
+   "title": "Frido 3D Eye Mask for Unisex | 100% Blackout Sleep Mask with Adjustable Straps",
+   "price": null,
+   "rating": 4.8,
+   "ratings": 10,
+   "isFrido": true
+  },
+  {
+   "pos": 2,
+   "title": "3D BRO Deep Moisturizing Avocado Anti Aging Eye Mask for Under Eye Firmness Support",
+   "price": null,
+   "rating": 0,
+   "ratings": 0,
+   "isFrido": false
+  },
+  {
+   "pos": 3,
+   "title": "TRK HUB 3D Memory Foam Sleeping Mask for Men Women Sleep Mask Blind Fold Eye Cover Pad",
+   "price": null,
+   "rating": 4.1,
+   "ratings": 94,
+   "isFrido": false
+  },
+  {
+   "pos": 4,
+   "title": "FEXMY Eye Mask for Sleeping ZERO_PRESSURE_3D_EYEMASK",
+   "price": null,
+   "rating": 4.8,
+   "ratings": 6,
+   "isFrido": false
+  },
+  {
+   "pos": 5,
+   "title": "STEFLON 3D Memory Foam Sleep Mask for Men & Women",
+   "price": null,
+   "rating": 0,
+   "ratings": 0,
+   "isFrido": false
+  },
+  {
+   "pos": 6,
+   "title": "Askovids 3D Sleep Mask, Blackout Eye Cover Eye Mask",
+   "price": null,
+   "rating": 0,
+   "ratings": 0,
+   "isFrido": false
+  },
+  {
+   "pos": 7,
+   "title": "MOMISY 3D Memory Foam Sleep Mask for Men & Women, Complete Blackout Eye Cover Patch",
+   "price": null,
+   "rating": 3.7,
+   "ratings": 34,
+   "isFrido": false
+  },
+  {
+   "pos": 8,
+   "title": "Fotnil 3D Breathable Sleep Eye Mask, Sleeping Blindfold Night Eyeshade mask 1 packs.",
+   "price": null,
+   "rating": 3.6,
+   "ratings": 45,
+   "isFrido": false
+  }
+ ],
+ "notes": []
+}

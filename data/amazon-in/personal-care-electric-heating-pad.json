@@ -1,0 +1,196 @@
+{
+ "category": "personal-care-electric-heating-pad",
+ "marketplace": "amazon-in",
+ "keyword": "Frido Electric Heating Pad",
+ "capturedAt": "2026-07-08",
+ "method": "Live scrape amazon.in search page 1, query = exact SKU name (brand-qualified)",
+ "confidence": "High (live snapshot, single keyword)",
+ "fridoOrganicRank": 1,
+ "fridoSponsoredSlot": null,
+ "organic": [
+  {
+   "asin": "B0H567VJSQ",
+   "badge": null,
+   "price": "2,599",
+   "rating": "5.0",
+   "reviews": "6",
+   "title": "Electric Heating Pad for Pain Relief with 9 Temperature Settings (40–65°C), Heat Therapy Pad for Back, Shoulders, Thighs & Period Cramps, Auto Shut-Off with 4 P",
+   "rank": 1,
+   "isFridoBrand": true
+  },
+  {
+   "asin": "B0D1GL6J1X",
+   "badge": null,
+   "price": "1,099",
+   "rating": "4.1",
+   "reviews": "583",
+   "title": "Orthopaedic Electric Heating Belt with 3 Levels of Temperature Control,Lower Back Heat Therapy Waist Wrap,Pain Relief of Abdominal,Stomach,Lumbar,Muscle,Knee,Sh",
+   "rank": 2
+  },
+  {
+   "asin": "B0FQTM23MM",
+   "badge": null,
+   "price": "744",
+   "rating": "4.4",
+   "reviews": "618",
+   "title": "Heating Pad for Back Pain Relief, Heating Pads for Period Cramps with 9 Heat Settings & 4 Timers Auto-off, Machine Washable, Dry & Moist Heat, Soft Electric Hea",
+   "rank": 3
+  },
+  {
+   "asin": "B0D9QQXR58",
+   "badge": null,
+   "price": "783",
+   "rating": "4.0",
+   "reviews": "1,152",
+   "title": "1MG Tata Electric Heating Belt | Heating Pad For Back, Shoulder, Knee, Ankle, Period Pain Relief | 4 Layer Insulation For Safe Usage | 3 Heat Settings | Auto Sh",
+   "rank": 4
+  },
+  {
+   "asin": "B0CB3PZCDN",
+   "badge": null,
+   "price": "598",
+   "rating": "4.0",
+   "reviews": "1,306",
+   "title": "Orthopaedic Electric Heating Pad for Back Pain + Period Cramps Relief | LARGE SIZE | 3 Level Temperature Controller | Pain Relief Heating Belt with Temperature ",
+   "rank": 5
+  },
+  {
+   "asin": "B0CVS59BXG",
+   "badge": null,
+   "price": "899",
+   "rating": "4.0",
+   "reviews": "2,343",
+   "title": "HP11 Orthopaedic Electric Heating Pad For Back Pain + Period Cramps Relief|Large Size|With Temperature Controller For Lower Back,Knee,Shoulder,Cramps,And Neck P",
+   "rank": 6
+  },
+  {
+   "asin": "B0F6C5RMSK",
+   "badge": null,
+   "price": "1,599",
+   "rating": "4.0",
+   "reviews": "2,422",
+   "title": "Plus Orthopaedic Electric Heating Pad - JUMBO SIZE for Back Pain Relief | Heat Therapy Pad for Muscle Pain, Neck, Shoulder & Period Cramps | Temperature Control",
+   "rank": 7
+  },
+  {
+   "asin": "B06W9K58YF",
+   "badge": null,
+   "price": "1,240",
+   "rating": "3.9",
+   "reviews": "1,816",
+   "title": "Heating Pad, for Soothing Pain Relief & Comfort | Adjustable Temperature Settings (Grey, XL, 1 Unit)",
+   "rank": 8
+  },
+  {
+   "asin": "B0FRMZJF9Z",
+   "badge": null,
+   "price": "799",
+   "rating": "4.2",
+   "reviews": "101",
+   "title": "Electric Heating Belt for Pain Relief | Heating Pad for Back, Shoulder, Knee, and Period Cramps | 3 Heat Settings with Auto Shut Off | 4-Layer Insulation for Sa",
+   "rank": 9
+  },
+  {
+   "asin": "B076222L9T",
+   "badge": null,
+   "price": "1,148",
+   "rating": "4.1",
+   "reviews": "783",
+   "title": "Orthopaedic Electric Heating Pad - XL SIZE for Back Pain Relief, Neck, Knee & Shoulder | Heat Therapy Pad for Muscle Pain & Menstrual Cramps | Temperature Contr",
+   "rank": 10
+  }
+ ],
+ "sponsored": [
+  {
+   "asin": "B0H567VJSQ",
+   "badge": null,
+   "price": "2,599",
+   "rating": "5.0",
+   "reviews": "6",
+   "title": "Electric Heating Pad for Pain Relief with 9 Temperature Settings (40–65°C), Heat Therapy Pad for Back, Shoulders, Thighs & Period Cramps, Auto Shut-Off with 4 P",
+   "slot": 1
+  },
+  {
+   "asin": "B0D9QQXR58",
+   "badge": null,
+   "price": "783",
+   "rating": "4.0",
+   "reviews": "1,152",
+   "title": "1MG Tata Electric Heating Belt | Heating Pad For Back, Shoulder, Knee, Ankle, Period Pain Relief | 4 Layer Insulation For Safe Usage | 3 Heat Settings | Auto Sh",
+   "slot": 2
+  },
+  {
+   "asin": "B0FXR9C3KQ",
+   "badge": null,
+   "price": "999",
+   "rating": "4.0",
+   "reviews": "22",
+   "title": "premium Electric Heating Pad for Pain Relief (40cm x 25cm) soft velvet Heat Pad for Back, Neck, Shoulder, Knee & Cramps – Adjustable Temperature Heat belt for S",
+   "slot": 3
+  },
+  {
+   "asin": "B0F32Y7471",
+   "badge": null,
+   "price": "1,491",
+   "rating": "4.4",
+   "reviews": "443",
+   "title": "Period Cramp Relief Massager | Portable Cordless Menstrual Pain Massage with 3 Heat Modes & 3 Massage Modes | Bigger Front LED Display with Battery & Temperatur",
+   "slot": 4
+  },
+  {
+   "asin": "B0GCLS6M5C",
+   "badge": null,
+   "price": "999",
+   "rating": "4.0",
+   "reviews": "92",
+   "title": "Electric Heating Pad for Back Pain & Body Pain Relief | Orthopaedic Heating Pad with 3 Heat Settings | Even Heat Distribution | Flexible & Comfortable Design | ",
+   "slot": 5
+  },
+  {
+   "asin": "B0CZK44ZDP",
+   "badge": null,
+   "price": "1,310",
+   "rating": "3.9",
+   "reviews": "413",
+   "title": "Electric Heating Pad XL | Large Heating Pad for Back & Period Pain Relief | 3 Heat Levels | ThermoLock™ Control | TheraFlex™ 6-Layer Build | ISO 13485 & CDSCO C",
+   "slot": 6
+  },
+  {
+   "asin": "B0DRVVB2BN",
+   "badge": null,
+   "price": "799",
+   "rating": "4.0",
+   "reviews": "2,343",
+   "title": "Orthopaedic Electric Heating Pad | Heat Belt with Temperature Controller | Pain Relief Heating Belt for Lower Back, Knee, Shoulder, Cramps, & Neck | Heat Pad Ba",
+   "slot": 7
+  },
+  {
+   "asin": "B0CX94NGB3",
+   "badge": null,
+   "price": "1,899",
+   "rating": "3.9",
+   "reviews": "272",
+   "title": "Neckwrap - Electric FIR Heating Pad for Neck Pain ,Cervical Pain and Shoulder Pain Relief |Adjustable Neck Strap to Enahacne comfort and heat | Weighted and Uni",
+   "slot": 8
+  },
+  {
+   "asin": "B0F26GZ2RV",
+   "badge": null,
+   "price": "799",
+   "rating": "4.1",
+   "reviews": "194",
+   "title": "Orthopaedic Electric Heating Pad for Pain Relief | Heat Pad Electric for Pain Relief suitable for Lower Back, Knee, Shoulder, Period Cramps, Neck and Back Pain ",
+   "slot": 9
+  },
+  {
+   "asin": "B0DQDXYJGM",
+   "badge": null,
+   "price": "1,398",
+   "rating": "3.8",
+   "reviews": "297",
+   "title": "Shoulderheat,Electric Heating Pad For Both Shoulders Pain Relief,Unisex(Black),Adjustable 3 Heating Levels,Integrated Overheat Protection Thermostat,Sprains,Sti",
+   "slot": 10
+  }
+ ],
+ "notes": []
+}

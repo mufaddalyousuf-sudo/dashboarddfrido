@@ -1,0 +1,197 @@
+{
+ "category": "personal-care-cold-hot-therapy-cap",
+ "marketplace": "amazon-in",
+ "keyword": "Frido Cold & Hot Therapy Cap",
+ "capturedAt": "2026-07-08",
+ "method": "Live scrape amazon.in search page 1, query = exact SKU name (brand-qualified)",
+ "confidence": "High (live snapshot, single keyword)",
+ "fridoOrganicRank": 1,
+ "fridoSponsoredSlot": 1,
+ "organic": [
+  {
+   "asin": "B0GTWD8K54",
+   "badge": null,
+   "price": "1,599",
+   "rating": "4.4",
+   "reviews": "70",
+   "title": "Frido Hot & Cold Therapy Cap | 360° Full Head Coverage | Reusable Cooling & Warming Cap with Gentle Compression | Blue",
+   "rank": 1,
+   "isFridoBrand": true
+  },
+  {
+   "asin": "B0GTW1S48V",
+   "badge": null,
+   "price": "1,599",
+   "rating": "4.4",
+   "reviews": "70",
+   "title": "Frido Hot & Cold Therapy Cap | 360° Full Head Coverage | Reusable Cooling & Warming Cap with Gentle Compression | Pink",
+   "rank": 2
+  },
+  {
+   "asin": "B0GWRBV8Z5",
+   "badge": null,
+   "price": "1,999",
+   "rating": "4.3",
+   "reviews": "11",
+   "title": "Frido Ultimate Deep Sleep Pillow with Cooling Cover | Orthopaedic Gel Memory Foam Pillow for Neck & Shoulder Pain Relief | Breathable, Pressure Relief for Side ",
+   "rank": 3
+  },
+  {
+   "asin": "B0DCC799DN",
+   "badge": null,
+   "price": "1,699",
+   "rating": "4.0",
+   "reviews": "97",
+   "title": "Frido Ultimate Neck Contour Cervical Plus Pillow for Neck, Back Pain, Shoulder Pain, Orthopedic Ergonomic Memory Foam Best Pillow for Cervical Spine Neck Pain R",
+   "rank": 4
+  },
+  {
+   "asin": "B0FYY128RG",
+   "badge": null,
+   "price": "799",
+   "rating": "5.0",
+   "reviews": "4",
+   "title": "Frido Premium Winter Thermal Socks for Men and Women | Cushioned Footbed with Wool Blend Insulation | Ergonomic Cold Weather Thick Warm Winter Wear Socks for Ou",
+   "rank": 5
+  },
+  {
+   "asin": "B0GWRP1DB9",
+   "badge": null,
+   "price": "1,999",
+   "rating": "4.3",
+   "reviews": "11",
+   "title": "Frido Ultimate Deep Sleep Pillow with Cooling Cover | Orthopedic Gel Memory Foam Pillow for Neck & Shoulder Pain Relief | Breathable, Pressure Relief for Side &",
+   "rank": 6
+  },
+  {
+   "asin": "B0GWRF2WQ2",
+   "badge": "Bestseller",
+   "price": "2,799",
+   "rating": "4.2",
+   "reviews": "3,012",
+   "title": "Frido Wedge Plus Cushion with Cooling Cover for Sleeping, Sitting & Acid Reflux Relief | High Resillience Foam | Orthopedic Wedge Cushion for Leg Elevator | Pre",
+   "rank": 7
+  },
+  {
+   "asin": "B0D1R6QDCT",
+   "badge": null,
+   "price": "1,599",
+   "rating": "4.3",
+   "reviews": "95",
+   "title": "Frido Memory Foam Piles Seat Cushion for Pain Relief from Hemorrhoids & Fistula,Non-Slip Contour Cushion with Innovative Keyhole Design & Additional Thigh Suppo",
+   "rank": 8
+  },
+  {
+   "asin": "B0D31TT9X9",
+   "badge": null,
+   "price": "1,429",
+   "rating": "4.2",
+   "reviews": "2,099",
+   "title": "Frido Ultra Slim Deep Sleep Pillow | King Size 2 Inch Height | Orthopedic Grade Gel Memory Foam for Neck & Shoulder Pain Relief, Includes Bamboo Pillow Cover, P",
+   "rank": 9
+  },
+  {
+   "asin": "B0CBKGQB3R",
+   "badge": null,
+   "price": "1,619",
+   "rating": "4.0",
+   "reviews": "3,077",
+   "title": "Frido Ultimate Pro Seat Cushion (High Density) for Hip | Tailbone | Coccyx | Sciatica Pain Relief | Proprietary Hi-Per Foam Ergonomic Design | Contoured Cushion",
+   "rank": 10
+  }
+ ],
+ "sponsored": [
+  {
+   "asin": "B0GTWD8K54",
+   "badge": null,
+   "price": "1,599",
+   "rating": "4.4",
+   "reviews": "70",
+   "title": "Frido Hot & Cold Therapy Cap | 360° Full Head Coverage | Reusable Cooling & Warming Cap with Gentle Compression | Blue",
+   "slot": 1,
+   "isFridoBrand": true
+  },
+  {
+   "asin": "B0DMKDY515",
+   "badge": null,
+   "price": "1,694",
+   "rating": "4.1",
+   "reviews": "1,120",
+   "title": "Frido Travel Neck Pillow, 100% Hi-Per Foam, Lightweight Neck Support Pillow, Neck Pillow for Flight Travel, Memory Foam Car Neck Pillow, Adjustable Velcro Strap",
+   "slot": 2
+  },
+  {
+   "asin": "B0FR9SR3SC",
+   "badge": "Bestseller",
+   "price": "949",
+   "rating": "4.1",
+   "reviews": "1,744",
+   "title": "Frido Cloud Comfort Slippers for Women & Men | Available in 2 Options- Arch Support & Without Arch |Orthopedic Soft Home Chappal Unisex Slipper, House Slipper w",
+   "slot": 3
+  },
+  {
+   "asin": "B0CPZQK127",
+   "badge": null,
+   "price": "1,239",
+   "rating": "4.2",
+   "reviews": "687",
+   "title": "Frido Ultimate Cervical Neck Pillow for Pain Relief Sleep | Improves Posture & Spinal Alignment | Neck Pain Relief Cushion with Ultra Responsive Memory Foam & S",
+   "slot": 4
+  },
+  {
+   "asin": "B0GTW57FN7",
+   "badge": null,
+   "price": "1,599",
+   "rating": "4.4",
+   "reviews": "70",
+   "title": "Frido Hot & Cold Therapy Cap | 360° Full Head Coverage | Reusable Cooling & Warming Cap with Gentle Compression | Purple",
+   "slot": 5
+  },
+  {
+   "asin": "B0D12WJZ9Q",
+   "badge": null,
+   "price": "399",
+   "rating": "3.5",
+   "reviews": "163",
+   "title": "Zanskar Headache & Migraine Roll-on | Instant Relief from Stress, Eye Strain, Sinus & Cold | Magnesium + Lavender + Clove | Natural, Pocket-Friendly, Premium Pa",
+   "slot": 6
+  },
+  {
+   "asin": "B0D4HH594J",
+   "badge": null,
+   "price": "600",
+   "rating": "3.8",
+   "reviews": "39",
+   "title": "SandPuppy Wristcool - Refreezable Wrist Ice Pack for pain relief | Flexible Cold Pack for Wrist Pain Relief | Antifreeze Gel for Enhanced Body Contact | Reusabl",
+   "slot": 7
+  },
+  {
+   "asin": "B0FDBFW7PM",
+   "badge": null,
+   "price": "1,893",
+   "rating": "4.6",
+   "reviews": "272",
+   "title": "Frido Leg Elevation Wedge Pillow for Edema, Varicose Veins, Fracture | High Resilience Foam Cushion for Leg, Knee & Thigh Support | Back Pain & Swelling Relief ",
+   "slot": 8
+  },
+  {
+   "asin": "B0CGZQ8FPP",
+   "badge": null,
+   "price": "577",
+   "rating": "3.6",
+   "reviews": "170",
+   "title": "Migraine & Sinus Relief Medicine Nasal Spray 15ml – Fast-Acting Migraine Headache Relief, Sinus Pain & Pressure Treatment, Natural Plant Extract Herbal Formula,",
+   "slot": 9
+  },
+  {
+   "asin": "B0CW1S2WQ2",
+   "badge": null,
+   "price": "703",
+   "rating": "4.1",
+   "reviews": "197",
+   "title": "Ice Gel Pack Set Long-Lasting Cooling Compact Size Keeps Food, Drinks, Medicines & Vaccines Cold Ideal for Pain Relief & Cold Therapy Travel-Friendly & Reusable",
+   "slot": 10
+  }
+ ],
+ "notes": []
+}
