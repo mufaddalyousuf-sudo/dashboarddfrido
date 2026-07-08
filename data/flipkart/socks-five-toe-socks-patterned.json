@@ -1,0 +1,77 @@
+{
+ "category": "socks-five-toe-socks-patterned",
+ "marketplace": "flipkart",
+ "keyword": "Frido Five Toe Socks - Patterned",
+ "capturedAt": "2026-07-08",
+ "method": "Live scrape flipkart.com mobile search page 1 (__INITIAL_STATE__), query = exact SKU name",
+ "confidence": "Medium-High (live; sponsored flags not exposed on mobile)",
+ "fridoRank": 2,
+ "fridoPresent": true,
+ "results": [
+  {
+   "pos": 1,
+   "title": "Brucella Men Solid Ankle Length",
+   "price": null,
+   "rating": 4.1,
+   "ratings": 23439,
+   "isFrido": false
+  },
+  {
+   "pos": 2,
+   "title": "Frido Five Toe Socks for Toe Separator, Blisters Prevention, Running, Gym & Sports Men & Women Mid-Calf/Crew",
+   "price": null,
+   "rating": 4.3,
+   "ratings": 3,
+   "isFrido": true
+  },
+  {
+   "pos": 3,
+   "title": "AKIDO Women Polka Print Ankle Length",
+   "price": null,
+   "rating": 3,
+   "ratings": 9,
+   "isFrido": false
+  },
+  {
+   "pos": 4,
+   "title": "Shyam Hosiery Women Solid Mid-Calf/Crew",
+   "price": null,
+   "rating": 4.2,
+   "ratings": 5,
+   "isFrido": false
+  },
+  {
+   "pos": 5,
+   "title": "Dirts Unisex Checkered Ankle Length",
+   "price": null,
+   "rating": 3.7,
+   "ratings": 73,
+   "isFrido": false
+  },
+  {
+   "pos": 6,
+   "title": "Frido Anti Sweat Active Socks for Badminton, Walking, Running, Gym & Sports, Odor-Free Men & Women Mid-Calf/Crew",
+   "price": null,
+   "rating": 4.1,
+   "ratings": 98,
+   "isFrido": true
+  },
+  {
+   "pos": 7,
+   "title": "FEGURO Unisex Geometric Print Calf Length",
+   "price": null,
+   "rating": 0,
+   "ratings": 0,
+   "isFrido": false
+  },
+  {
+   "pos": 8,
+   "title": "Rajwada Fabrics Women Self Design Ankle Length",
+   "price": null,
+   "rating": 0,
+   "ratings": 0,
+   "isFrido": false
+  }
+ ],
+ "notes": []
+}

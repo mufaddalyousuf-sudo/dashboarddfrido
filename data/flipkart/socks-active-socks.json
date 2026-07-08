@@ -1,0 +1,77 @@
+{
+ "category": "socks-active-socks",
+ "marketplace": "flipkart",
+ "keyword": "Frido Active Socks",
+ "capturedAt": "2026-07-08",
+ "method": "Live scrape flipkart.com mobile search page 1 (__INITIAL_STATE__), query = exact SKU name",
+ "confidence": "Medium-High (live; sponsored flags not exposed on mobile)",
+ "fridoRank": 5,
+ "fridoPresent": true,
+ "results": [
+  {
+   "pos": 1,
+   "title": "Bahuzo Men Solid Ankle Length, Low Cut",
+   "price": null,
+   "rating": 4,
+   "ratings": 8724,
+   "isFrido": false
+  },
+  {
+   "pos": 2,
+   "title": "Bahuzo Men Solid Ankle Length",
+   "price": null,
+   "rating": 4.1,
+   "ratings": 86,
+   "isFrido": false
+  },
+  {
+   "pos": 3,
+   "title": "Bahuzo Men Striped Ankle Length, Low Cut",
+   "price": null,
+   "rating": 4,
+   "ratings": 653,
+   "isFrido": false
+  },
+  {
+   "pos": 4,
+   "title": "Bahuzo Women Self Design Ankle Length",
+   "price": null,
+   "rating": 4,
+   "ratings": 208,
+   "isFrido": false
+  },
+  {
+   "pos": 5,
+   "title": "Frido Anti Sweat Active Socks for Badminton, Walking, Running, Gym & Sports, Odor-Free Men & Women Mid-Calf/Crew",
+   "price": null,
+   "rating": 4.1,
+   "ratings": 98,
+   "isFrido": true
+  },
+  {
+   "pos": 6,
+   "title": "Frido Anti Sweat Active Socks for Badminton, Walking, Running, Gym & Sports, Odor-Free Men & Women Printed Mid-Calf/Crew",
+   "price": null,
+   "rating": 4.1,
+   "ratings": 98,
+   "isFrido": true
+  },
+  {
+   "pos": 7,
+   "title": "Frido Anti Sweat Active Socks for Badminton, Walking, Running, Gym & Sports, Odor-Free Men & Women Ankle Length",
+   "price": null,
+   "rating": 4.3,
+   "ratings": 39,
+   "isFrido": true
+  },
+  {
+   "pos": 8,
+   "title": "Brucella Men Solid Ankle Length",
+   "price": null,
+   "rating": 4.1,
+   "ratings": 23439,
+   "isFrido": false
+  }
+ ],
+ "notes": []
+}

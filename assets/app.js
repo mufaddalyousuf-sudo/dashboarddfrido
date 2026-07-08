@@ -141,7 +141,6 @@
   // removed rather than left showing an outdated claim; fresh ones are pending a
   // data-driven pass once all 16 categories are on the new research.
   const actions = {
-    socks: [["Scale the Five Toe Socks ad", "The only Frido sock SKU carries a Bestseller badge via a sponsored ad, but has just 14 reviews and no generic-keyword visibility — increase ad spend and seed reviews before pulling back."]],
     orthotics: [["Assess marketplace fit for posture corrector", "No top-10 presence in a belt-brand-dominated category — decide whether this is a marketplace-push line or stays D2C-only."]],
     "personal-care": [["Seed visibility for nasal strips", "New line with no top-10 presence against established brands — needs an ad-led launch, not organic-only."]],
     "mobility-devices": [["Fix wheelchair-cushion keyword targeting", "Ad runs with zero organic top-10 — align listing keywords to the search term being paid for."]],

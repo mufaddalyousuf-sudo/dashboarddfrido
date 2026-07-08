@@ -1,0 +1,197 @@
+{
+ "category": "socks-active-socks",
+ "marketplace": "amazon-in",
+ "keyword": "Frido Active Socks",
+ "capturedAt": "2026-07-08",
+ "method": "Live scrape amazon.in search page 1, query = exact SKU name (brand-qualified)",
+ "confidence": "High (live snapshot, single keyword)",
+ "fridoOrganicRank": 1,
+ "fridoSponsoredSlot": 5,
+ "organic": [
+  {
+   "asin": "B0DKYRL6YJ",
+   "badge": "Amazon's Choice",
+   "price": "399",
+   "rating": "4.2",
+   "reviews": "333",
+   "title": "Active Socks for Men & Women | Cotton Nylon Grip | Anti-Sweat, Odor-Free | Ideal for Walking, Running, Training, Gym & Sports,",
+   "rank": 1,
+   "isFridoBrand": true
+  },
+  {
+   "asin": "B0DV3WCTB7",
+   "badge": null,
+   "price": "999",
+   "rating": "4.2",
+   "reviews": "333",
+   "title": "Active Socks for Men & Women | Cotton Nylon Grip | Anti-Sweat, Odor-Free | Ideal for Walking, Running, Training, Gym & Sports,",
+   "rank": 2
+  },
+  {
+   "asin": "B0FBGR7RT4",
+   "badge": null,
+   "price": "399",
+   "rating": "4.2",
+   "reviews": "333",
+   "title": "Active Socks for Men & Women | Cotton Nylon Grip | Anti-Sweat, Odor-Free | Ideal for Walking, Running, Training, Gym & Sports,",
+   "rank": 3
+  },
+  {
+   "asin": "B0DV3SVF9T",
+   "badge": null,
+   "price": null,
+   "rating": "4.2",
+   "reviews": "333",
+   "title": "Active Socks for Men & Women | Cotton Nylon Grip | Anti-Sweat, Odor-Free | Ideal for Walking, Running, Training, Gym & Sports,",
+   "rank": 4
+  },
+  {
+   "asin": "B08NXJLB18",
+   "badge": "Bestseller",
+   "price": "272",
+   "rating": "4.1",
+   "reviews": "8,760",
+   "title": "Ankle Length Sports Socks for Man | Half Terry Cushioned Cotton | Anti-Odour & Antibacterial | Breathable & Moisture Absorbent | Running, Gym & Sneaker | Pack o",
+   "rank": 5
+  },
+  {
+   "asin": "B09W5S4ZHL",
+   "badge": null,
+   "price": "329",
+   "rating": "4.3",
+   "reviews": "6,507",
+   "title": "Ankle Length Socks for Man | Durable Breathable Cotton | Anti-Odor & Antibacterial | Multi Colour | Free Size | Pack of 3",
+   "rank": 6
+  },
+  {
+   "asin": "B0C5RJLL79",
+   "badge": null,
+   "price": "341",
+   "rating": "4.2",
+   "reviews": "1,983",
+   "title": "Sports Ankle Length Unisex Socks, Made With Breathable, Anti Odour & Moisture Absorbent Combed Cotton with a Extra Durable Welt, Ideal for All Day Wear, Free Si",
+   "rank": 7
+  },
+  {
+   "asin": "B0CZT4D6MN",
+   "badge": null,
+   "price": "169",
+   "rating": "4.1",
+   "reviews": "124",
+   "title": "Signature Logo High Quarter Length Performance Sports Socks",
+   "rank": 8
+  },
+  {
+   "asin": "B0F9ZRD11L",
+   "badge": null,
+   "price": "433",
+   "rating": "4.3",
+   "reviews": "287",
+   "title": "Bamboo Athletic Socks for Men & Women | 3X Tougher & Durable, Ultra Soft & Blister Resistant | Perfect for Gym, Sports & Long Distance Running",
+   "rank": 9
+  },
+  {
+   "asin": "B0GQ3BBF82",
+   "badge": null,
+   "price": "398",
+   "rating": "4.5",
+   "reviews": "33",
+   "title": "Socks for Men Combed Cotton Crew & Calf Length Formal Socks Breathable Anti-Odour Arch Support Anti-Slip Fit Reinforced Heel & Toe Soft Durable Office & Casual ",
+   "rank": 10
+  }
+ ],
+ "sponsored": [
+  {
+   "asin": "B08NT6M2Z5",
+   "badge": null,
+   "price": "369",
+   "rating": "4.2",
+   "reviews": "7,037",
+   "title": "Hi-Tech Performance Sports Socks for Men (Badminton, Running, Gym & Indoor Training), Pack of 3",
+   "slot": 1
+  },
+  {
+   "asin": "B0H2T1ZQ3Z",
+   "badge": null,
+   "price": "598",
+   "rating": null,
+   "reviews": null,
+   "title": "Running & Cycling Socks for Men & Women | HEIQ Pure Swiss-Tech | Anti-Odour, Anti-Bacterial | Compression Fit | Arch Support | Breathable Mesh | Reflective Perf",
+   "slot": 2
+  },
+  {
+   "asin": "B0GZ151KMB",
+   "badge": null,
+   "price": "299",
+   "rating": null,
+   "reviews": null,
+   "title": "Running & Cycling Socks for Men & Women | HEIQ Pure Swiss-Tech | Anti-Odour, Anti-Bacterial | Compression Fit | Arch Support | Breathable Mesh | Reflective Perf",
+   "slot": 3
+  },
+  {
+   "asin": "B0H2T65H5B",
+   "badge": null,
+   "price": "598",
+   "rating": null,
+   "reviews": null,
+   "title": "Running & Cycling Socks for Men & Women | HEIQ Pure Swiss-Tech | Anti-Odour, Anti-Bacterial | Compression Fit | Arch Support | Breathable Mesh | Reflective Perf",
+   "slot": 4
+  },
+  {
+   "asin": "B0FCYJL8L7",
+   "badge": null,
+   "price": "399",
+   "rating": "4.2",
+   "reviews": "333",
+   "title": "Active Socks for Men & Women | Cotton Nylon Grip | Anti-Sweat, Odor-Free | Ideal for Walking, Running, Training, Gym & Sports,",
+   "slot": 5,
+   "isFridoBrand": true
+  },
+  {
+   "asin": "B0H34LMC9D",
+   "badge": null,
+   "price": "240",
+   "rating": null,
+   "reviews": null,
+   "title": "Unisex Adult 3 Pairs Compression Socks for Women and Men, Black White Gray Navy, Breathable Cotton Blend Cushioned Athletic Running Socks, Moisture Wicking Low ",
+   "slot": 6
+  },
+  {
+   "asin": "B08K4GVL1X",
+   "badge": null,
+   "price": "839",
+   "rating": "4.2",
+   "reviews": "1,607",
+   "title": "Bamboo Compression Socks For Men & Women | Odour Free & Superior Grip | Running, Cycling, Boosts Blood Circulation & Recovery",
+   "slot": 7
+  },
+  {
+   "asin": "B0H2T4KWTX",
+   "badge": null,
+   "price": "598",
+   "rating": null,
+   "reviews": null,
+   "title": "Running & Cycling Socks for Men & Women | HEIQ Pure Swiss-Tech | Anti-Odour, Anti-Bacterial | Compression Fit | Arch Support | Breathable Mesh | Reflective Perf",
+   "slot": 8
+  },
+  {
+   "asin": "B0F9ZRD11L",
+   "badge": null,
+   "price": "433",
+   "rating": "4.3",
+   "reviews": "287",
+   "title": "Bamboo Athletic Socks for Men & Women | 3X Tougher & Durable, Ultra Soft & Blister Resistant | Perfect for Gym, Sports & Long Distance Running",
+   "slot": 9
+  },
+  {
+   "asin": "B0BQJHXN1T",
+   "badge": null,
+   "price": "599",
+   "rating": "3.8",
+   "reviews": "137",
+   "title": "By Virat Kohli Men's MOISTURE MANAGEMENT Breathable Daily-Wear/Running/Gym/Training Ankle Socks (Pack of 5)",
+   "slot": 10
+  }
+ ],
+ "notes": []
+}

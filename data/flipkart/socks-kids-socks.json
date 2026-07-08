@@ -1,0 +1,101 @@
+{
+ "category": "socks-kids-socks",
+ "marketplace": "flipkart",
+ "keyword": "Frido Kids Socks",
+ "capturedAt": "2026-07-08",
+ "method": "Live scrape flipkart.com mobile search page 1 (__INITIAL_STATE__), query = exact SKU name",
+ "confidence": "Medium-High (live; sponsored flags not exposed on mobile)",
+ "fridoRank": 7,
+ "fridoPresent": true,
+ "results": [
+  {
+   "pos": 1,
+   "title": "Nihvi Boys & Girls Printed Ankle Length",
+   "price": null,
+   "rating": 4.5,
+   "ratings": 54,
+   "isFrido": false
+  },
+  {
+   "pos": 2,
+   "title": "Nihvi Baby Boys & Baby Girls Ankle Length",
+   "price": null,
+   "rating": 4.7,
+   "ratings": 7,
+   "isFrido": false
+  },
+  {
+   "pos": 3,
+   "title": "Nihvi Baby Boys & Baby Girls Printed Ankle Length",
+   "price": null,
+   "rating": 3.9,
+   "ratings": 45,
+   "isFrido": false
+  },
+  {
+   "pos": 4,
+   "title": "AKIDO Baby Boys & Baby Girls Printed Ankle Length",
+   "price": null,
+   "rating": 0,
+   "ratings": 0,
+   "isFrido": false
+  },
+  {
+   "pos": 5,
+   "title": "Cadidi Dinos Girls Solid Low Cut, Ankle Length, Mid-Calf/Crew, Peds/Footie/No-Show",
+   "price": null,
+   "rating": 0,
+   "ratings": 0,
+   "isFrido": false
+  },
+  {
+   "pos": 6,
+   "title": "MORDLANKA Girls Printed Low Cut, Ankle Length, Mid-Calf/Crew, Peds/Footie/No-Show",
+   "price": null,
+   "rating": 0,
+   "ratings": 0,
+   "isFrido": false
+  },
+  {
+   "pos": 7,
+   "title": "Frido Anti Sweat Active Socks for Badminton, Walking, Running, Gym & Sports, Odor-Free Men & Women Mid-Calf/Crew",
+   "price": null,
+   "rating": 4.1,
+   "ratings": 98,
+   "isFrido": true
+  },
+  {
+   "pos": 8,
+   "title": "Cadidi Dinos Baby Girls Printed Ankle Length, Peds/Footie/No-Show, Mid-Calf/Crew",
+   "price": null,
+   "rating": 0,
+   "ratings": 0,
+   "isFrido": false
+  },
+  {
+   "pos": 9,
+   "title": "RYSN Boys & Girls Striped Calf Length",
+   "price": null,
+   "rating": 4.6,
+   "ratings": 57,
+   "isFrido": false
+  },
+  {
+   "pos": 10,
+   "title": "NOMITH Baby Girls Knee High",
+   "price": null,
+   "rating": 4.4,
+   "ratings": 262,
+   "isFrido": false
+  },
+  {
+   "pos": 11,
+   "title": "NOMITH Baby Girls Ankle Length",
+   "price": null,
+   "rating": 4.8,
+   "ratings": 12,
+   "isFrido": false
+  }
+ ],
+ "notes": []
+}

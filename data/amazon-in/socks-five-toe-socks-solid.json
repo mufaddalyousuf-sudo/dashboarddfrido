@@ -1,0 +1,196 @@
+{
+ "category": "socks-five-toe-socks-solid",
+ "marketplace": "amazon-in",
+ "keyword": "Frido Five Toe Socks - Solid",
+ "capturedAt": "2026-07-08",
+ "method": "Live scrape amazon.in search page 1, query = exact SKU name (brand-qualified)",
+ "confidence": "High (live snapshot, single keyword)",
+ "fridoOrganicRank": 10,
+ "fridoSponsoredSlot": null,
+ "organic": [
+  {
+   "asin": "B0GYPTK3D9",
+   "badge": "Bestseller",
+   "price": "249",
+   "rating": "4.5",
+   "reviews": "44",
+   "title": "Foot Alignment Socks women 5 Finger Toe Separator for Men & Women (Free Size | Black) Plantar Fasciitis Leg Foot Pain Relief Bunion Corrector Hallux Valgus, Ort",
+   "rank": 1
+  },
+  {
+   "asin": "B0DLVYL4RQ",
+   "badge": null,
+   "price": "499",
+   "rating": "4.4",
+   "reviews": "5,367",
+   "title": "Cotton Toe Socks Five Finger Socks No Show Crew Athletic Running Socks 4 Pairs,Size 7-11",
+   "rank": 2
+  },
+  {
+   "asin": "B0F4KQVV76",
+   "badge": null,
+   "price": "235",
+   "rating": "4.5",
+   "reviews": "29",
+   "title": "cotton Foot Alignment Socks 5 Finger Toe Separator for Men & Women, Plantar Fasciitis Leg Foot Pain Relief Bunion Corrector, Hallux Valgus, Orthopaedic Socks fo",
+   "rank": 3
+  },
+  {
+   "asin": "B0GYLH8MNW",
+   "badge": null,
+   "price": "299",
+   "rating": "4.6",
+   "reviews": "3",
+   "title": "BERYX Foot Alignment Socks for Men & Women | 5 Toe Separator | Bunion Corrector | Foot Pain Relief | Plantar Fasciitis Support | Improves Posture & Flexibility ",
+   "rank": 4
+  },
+  {
+   "asin": "B0DTKC8SJ2",
+   "badge": null,
+   "price": "298",
+   "rating": "3.8",
+   "reviews": "696",
+   "title": "Soxbae Foot Alignment Orthopedic Cotton Socks for Men & Women | Five Toe Separator | Foot Pain Relief | Bunion Corrector | Plantar Fasciitis Support | Improves ",
+   "rank": 5
+  },
+  {
+   "asin": "B0GG216Q6F",
+   "badge": null,
+   "price": "179",
+   "rating": "5.0",
+   "reviews": "2",
+   "title": "Finger Socks Five-Toe Forefoot Pads – Cushioned Support for High Heels & Calluses | Pain Relief & All-Day Comfort",
+   "rank": 6
+  },
+  {
+   "asin": "B0H21R39KP",
+   "badge": null,
+   "price": "497",
+   "rating": "4.6",
+   "reviews": "65",
+   "title": "Vn care Foot Alignment Socks for Women & Men | Five Toe Separator | Foot Pain Relief | Bunion Corrector | Plantar Fasciitis | Improving Posture & Increasing Fle",
+   "rank": 7
+  },
+  {
+   "asin": "B0GYLLR6FX",
+   "badge": null,
+   "price": "299",
+   "rating": "4.6",
+   "reviews": "3",
+   "title": "BERYX Foot Alignment Socks for Men & Women | 5 Toe Separator | Bunion Corrector | Foot Pain Relief | Plantar Fasciitis Support | Improves Posture & Flexibility ",
+   "rank": 8
+  },
+  {
+   "asin": "B0GYLHYV75",
+   "badge": null,
+   "price": "299",
+   "rating": "4.6",
+   "reviews": "3",
+   "title": "BERYX Foot Alignment Socks for Men & Women | 5 Toe Separator | Bunion Corrector | Foot Pain Relief | Plantar Fasciitis Support | Improves Posture & Flexibility ",
+   "rank": 9
+  },
+  {
+   "asin": "B0DKYKVVW5",
+   "badge": null,
+   "price": "399",
+   "rating": "4.2",
+   "reviews": "333",
+   "title": "Active Socks for Men & Women | Cotton Nylon Grip | Anti-Sweat, Odor-Free | Ideal for Walking, Running, Training, Gym & Sports,",
+   "rank": 10,
+   "isFridoBrand": true
+  }
+ ],
+ "sponsored": [
+  {
+   "asin": "B09ZGLW8T3",
+   "badge": null,
+   "price": "407",
+   "rating": "3.9",
+   "reviews": "1,652",
+   "title": "Cotton Socks for Men Full Length, Pack of 5 Pair Socks",
+   "slot": 1
+  },
+  {
+   "asin": "B08YZ19LH9",
+   "badge": null,
+   "price": "411",
+   "rating": "4.2",
+   "reviews": "5,203",
+   "title": "Bamboo Socks for Men Anti-Microbial Ultra Soft Padded Ankle Socks, Pack of 3",
+   "slot": 2
+  },
+  {
+   "asin": "B01MRZQD1G",
+   "badge": null,
+   "price": "899",
+   "rating": "3.0",
+   "reviews": "1",
+   "title": "Antislip Full Length Cotton & Lycra Socks for Men, Ideal for Walking, Jogging, Yoga, Office and Home, Suitable for Daily Use (Pack of 5)",
+   "slot": 3
+  },
+  {
+   "asin": "B0GYX7M7CN",
+   "badge": null,
+   "price": "349",
+   "rating": "3.5",
+   "reviews": "2",
+   "title": "Foot Alignment Socks|Cotton Finger Toe Separator|Easing Bunion Hammertoe And Arthritis Pain Relief|Improving Posture & Increasing Flexibility|Free Size For Offi",
+   "slot": 4
+  },
+  {
+   "asin": "B0F4DMV5QQ",
+   "badge": null,
+   "price": "648",
+   "rating": "4.2",
+   "reviews": "48",
+   "title": "3 Pairs Mens 5-Toe Yoga Socks, Moisture-Wicking Cotton, Anti-Skid Towel Sole, Athletic Ankle Socks for Exercise, Running & Yoga",
+   "slot": 5
+  },
+  {
+   "asin": "B0GLY3KCVD",
+   "badge": null,
+   "price": "299",
+   "rating": "4.2",
+   "reviews": "281",
+   "title": "Comfortable Trainer Socks for Men and Women - Breathable, Soft Cotton Ankle Socks – Ideal for Running, Sports, Gym, and Everyday Wear – Low Cut, No-Show, Durabl",
+   "slot": 6
+  },
+  {
+   "asin": "B0DMVRB9NY",
+   "badge": null,
+   "price": "247",
+   "rating": null,
+   "reviews": null,
+   "title": "Pack of 3 Cotton-Poly Socks for Ultimate Comfort, Breathable, and Durable Everyday Wear Socks (Black)",
+   "slot": 7
+  },
+  {
+   "asin": "B09S678GLL",
+   "badge": null,
+   "price": "1,134",
+   "rating": "4.2",
+   "reviews": "7,267",
+   "title": "Bamboo Ankle Socks for Men | Odour-Free and Breathable | Padded Base and Anti-bacterial | 3X Softer Than Regular Socks",
+   "slot": 8
+  },
+  {
+   "asin": "B075M5VY8T",
+   "badge": null,
+   "price": "250",
+   "rating": "3.8",
+   "reviews": "9",
+   "title": "Antislip Full Length Cotton & Lycra Socks for Men, Ideal for Yoga, Exercise, Home, Suitable for Daily Use, Soft and Breathable (Pack of 1)",
+   "slot": 9
+  },
+  {
+   "asin": "B075FW59K1",
+   "badge": null,
+   "price": "399",
+   "rating": "4.0",
+   "reviews": "27",
+   "title": "NOFALL Antislip Full Length Cotton & Lycra Socks for Men, Ideal for Walking, Jogging, Yoga, Office and Home, Suitable for Daily Use, Color - Brown (Pack of 2)",
+   "slot": 10
+  }
+ ],
+ "notes": []
+}

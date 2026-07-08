@@ -511,17 +511,32 @@
    "priority": "P3",
    "datasets": [
     {
-     "id": "socks",
-     "keyword": "cushioned socks",
+     "id": "socks-five-toe-socks-patterned",
+     "keyword": "Frido Five Toe Socks - Patterned",
      "primary": true
     },
     {
-     "id": "socks-frido-check",
-     "keyword": "frido socks",
-     "brandQualified": true
+     "id": "socks-five-toe-socks-solid",
+     "keyword": "Frido Five Toe Socks - Solid"
+    },
+    {
+     "id": "socks-active-socks",
+     "keyword": "Frido Active Socks"
+    },
+    {
+     "id": "socks-five-toe-socks",
+     "keyword": "Frido Five Toe Socks"
+    },
+    {
+     "id": "socks-kids-socks",
+     "keyword": "Frido Kids Socks"
+    },
+    {
+     "id": "socks-winter-socks",
+     "keyword": "Frido Winter Socks"
     }
    ],
-   "correctionNote": "Previously marked 'Needs Verification' too cautiously. Frido Five Toe Socks is a real listing with a live Bestseller badge (sponsored) — it simply has no visibility on the generic category keyword 'cushioned socks'."
+   "skuSource": "frido-product-catalog.json (full base-SKU research, 2026-07-08)"
   },
   {
    "id": "orthotics",

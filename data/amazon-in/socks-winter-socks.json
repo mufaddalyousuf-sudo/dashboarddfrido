@@ -1,0 +1,196 @@
+{
+ "category": "socks-winter-socks",
+ "marketplace": "amazon-in",
+ "keyword": "Frido Winter Socks",
+ "capturedAt": "2026-07-08",
+ "method": "Live scrape amazon.in search page 1, query = exact SKU name (brand-qualified)",
+ "confidence": "High (live snapshot, single keyword)",
+ "fridoOrganicRank": 1,
+ "fridoSponsoredSlot": null,
+ "organic": [
+  {
+   "asin": "B0FYY128RG",
+   "badge": null,
+   "price": "799",
+   "rating": "5.0",
+   "reviews": "4",
+   "title": "Premium Winter Thermal Socks for Men and Women | Cushioned Footbed with Wool Blend Insulation | Ergonomic Cold Weather Thick Warm Winter Wear Socks for Outdoor ",
+   "rank": 1,
+   "isFridoBrand": true
+  },
+  {
+   "asin": "B07RSL1R5N",
+   "badge": null,
+   "price": "269",
+   "rating": "4.1",
+   "reviews": "7,376",
+   "title": "Winter Socks for Men Thick Terry Towel Cushion Socks, Free Size, Pack of 4",
+   "rank": 2
+  },
+  {
+   "asin": "B0GN99NCJ4",
+   "badge": null,
+   "price": "249",
+   "rating": null,
+   "reviews": null,
+   "title": "1Pair, Anti-Slip Winter Socks for Women & Man – Thermal Fluffy Woolen Ankle Warmers, Cozy Bed & Lounge Socks, Ultra-Soft Warm Sleepwear, Solid Color Comfort Soc",
+   "rank": 3
+  },
+  {
+   "asin": "B0CD5L21CJ",
+   "badge": null,
+   "price": "379",
+   "rating": "4.4",
+   "reviews": "1,391",
+   "title": "Thick Heavy Duty Thermal Socks For Men Cushioned Towel Warm Winter Woolen Socks, Calf Length Hi-Performance Soft Moisture Wicking Socks, Pack of 4 Pairs, Free S",
+   "rank": 4
+  },
+  {
+   "asin": "B0DN22BXZ1",
+   "badge": null,
+   "price": "329",
+   "rating": "4.4",
+   "reviews": "545",
+   "title": "Socks For Men Winter Socks For Women Calf Length Winter Socks For Men Woolen Winter Socks For Men Thermal Woolen Socks For Women Winter Wear Anti Slip Warm Ribb",
+   "rank": 5
+  },
+  {
+   "asin": "B0DHCSH214",
+   "badge": "Bestseller",
+   "price": "999",
+   "rating": "4.3",
+   "reviews": "490",
+   "title": "Merino Wool Boot Socks Thermal Winter Warm Thick Cozy Hiking Socks for Men Women 3 Pairs",
+   "rank": 6
+  },
+  {
+   "asin": "B0CNVKJ4D9",
+   "badge": null,
+   "price": "395",
+   "rating": "4.4",
+   "reviews": "1,055",
+   "title": "Winter Thermal Regular Socks for Men | Cotton Rich | Extra Cushioning | Warm, Soft & Cozy Feel | Cold Weather Daily Wear | Pack of 3",
+   "rank": 7
+  },
+  {
+   "asin": "B07YGR43WZ",
+   "badge": null,
+   "price": "399",
+   "rating": "4.3",
+   "reviews": "7,833",
+   "title": "Men's Woolen Calf Length Solid Thick Terry Winter Wear Socks (Multicolor, Free Size) - Combo Pack of 5 Pairs",
+   "rank": 8
+  },
+  {
+   "asin": "B0C4JZM6CH",
+   "badge": null,
+   "price": "379",
+   "rating": "4.2",
+   "reviews": "797",
+   "title": "Thick Soft Heavy Cushioned Towel Woolen Thermal Socks for Men, Warm Winter Wear Socks, Pack of 4 Pairs, Free Size",
+   "rank": 9
+  },
+  {
+   "asin": "B0DJ1Y2Z81",
+   "badge": null,
+   "price": "399",
+   "rating": "4.1",
+   "reviews": "92",
+   "title": "Heavy 3pair Thermal Wool Winter Socks - Soft, Thumb toe Insulated & Heat-Retaining Woolen Socks for Cold Weather - Unisex Cozy, Thick, Ribbed Design - Ideal for",
+   "rank": 10
+  }
+ ],
+ "sponsored": [
+  {
+   "asin": "B09S678GLL",
+   "badge": null,
+   "price": "1,134",
+   "rating": "4.2",
+   "reviews": "7,267",
+   "title": "Bamboo Ankle Socks for Men | Odour-Free and Breathable | Padded Base and Anti-bacterial | 3X Softer Than Regular Socks",
+   "slot": 1
+  },
+  {
+   "asin": "B0DMFMQ8SV",
+   "badge": null,
+   "price": "177",
+   "rating": "4.4",
+   "reviews": "247",
+   "title": "Thermal Woolen Winter Calf Length Socks for Men Thick Terry Towel Cushion Socks, Free Size, Pack of 5, Multicolour",
+   "slot": 2
+  },
+  {
+   "asin": "B07YGR43WZ",
+   "badge": null,
+   "price": "399",
+   "rating": "4.3",
+   "reviews": "7,833",
+   "title": "Men's Woolen Calf Length Solid Thick Terry Winter Wear Socks (Multicolor, Free Size) - Combo Pack of 5 Pairs",
+   "slot": 3
+  },
+  {
+   "asin": "B08YZ19LH9",
+   "badge": null,
+   "price": "411",
+   "rating": "4.2",
+   "reviews": "5,203",
+   "title": "Bamboo Socks for Men Anti-Microbial Ultra Soft Padded Ankle Socks, Pack of 3",
+   "slot": 4
+  },
+  {
+   "asin": "B09V17X8PF",
+   "badge": null,
+   "price": "502",
+   "rating": "4.1",
+   "reviews": "248",
+   "title": "Superman Batman Superhero Character Full Length Socks for Kids- Pack Of 4",
+   "slot": 5
+  },
+  {
+   "asin": "B00VX619G4",
+   "badge": null,
+   "price": "464",
+   "rating": "4.2",
+   "reviews": "790",
+   "title": "Men'S Cotton Odour Free Black Plain Socks- Pack Of 3, Regular",
+   "slot": 6
+  },
+  {
+   "asin": "B0792VZC6N",
+   "badge": null,
+   "price": "847",
+   "rating": "4.1",
+   "reviews": "1,364",
+   "title": "Bamboo Socks for Men | Quarter Length | Odour-Free & Breathable | Padded Base & Anti-bacterial | 3X Softer than Cotton Socks",
+   "slot": 7
+  },
+  {
+   "asin": "B017SPBG48",
+   "badge": null,
+   "price": "568",
+   "rating": "4.3",
+   "reviews": "490",
+   "title": "Men's Cushioned White Joggers",
+   "slot": 8
+  },
+  {
+   "asin": "B077P98G6B",
+   "badge": null,
+   "price": "539",
+   "rating": "4.3",
+   "reviews": "180",
+   "title": "Men's Cotton Ankle Length Bold Striped Design 4 Pair Of Socks (Assorted)",
+   "slot": 9
+  },
+  {
+   "asin": "B01AD8AX50",
+   "badge": null,
+   "price": "538",
+   "rating": "4.1",
+   "reviews": "200",
+   "title": "Men'S Cotton Ankle Length Bold Multicoloured Socks- Pack Of 4",
+   "slot": 10
+  }
+ ],
+ "notes": []
+}
