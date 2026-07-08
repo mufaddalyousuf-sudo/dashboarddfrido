@@ -1,0 +1,125 @@
+{
+ "category": "insoles-silicone-gel-insole",
+ "marketplace": "flipkart",
+ "keyword": "Frido Silicone Gel Insole",
+ "capturedAt": "2026-07-08",
+ "method": "Live scrape flipkart.com mobile search page 1 (__INITIAL_STATE__), query = exact SKU name",
+ "confidence": "Medium-High (live; sponsored flags not exposed on mobile)",
+ "fridoRank": 5,
+ "fridoPresent": true,
+ "results": [
+  {
+   "pos": 1,
+   "title": "betterhood PosturePro Arch Support Shoe Inserts for Men, Women | for Flat Feet | Orthopedic Insole",
+   "price": null,
+   "rating": 3.9,
+   "ratings": 250,
+   "isFrido": false
+  },
+  {
+   "pos": 2,
+   "title": "betterhood PosturePro Dual Gel Shoe Inserts for Men, Women | Everyday Comfort Ergonomic Insole",
+   "price": null,
+   "rating": 4.1,
+   "ratings": 100,
+   "isFrido": false
+  },
+  {
+   "pos": 3,
+   "title": "betterhood PosturePro Orthopedic Heel Pads for Pain Relief | Shoe Inserts for Men Women | Heel Support",
+   "price": null,
+   "rating": 4,
+   "ratings": 225,
+   "isFrido": false
+  },
+  {
+   "pos": 4,
+   "title": "FOVERA Gel - Shoe Inserts for Walking, Running Hiking - All Day Comfort (Female) Insole",
+   "price": null,
+   "rating": 3.9,
+   "ratings": 23314,
+   "isFrido": false
+  },
+  {
+   "pos": 5,
+   "title": "Frido Dual Gel Insoles, Extra Comfort & Support, Trim-to-fit, Made in India (5-9 UK) Insole",
+   "price": null,
+   "rating": 3.8,
+   "ratings": 4042,
+   "isFrido": true
+  },
+  {
+   "pos": 6,
+   "title": "Foot Vital Orthopedic Gel Insoles | Dual Tech | All-Day Comfort | Size M Insole",
+   "price": null,
+   "rating": 3.8,
+   "ratings": 417,
+   "isFrido": false
+  },
+  {
+   "pos": 7,
+   "title": "AGEasy Insoles for Flat Feet |Rebound Relief Technology for Arch Support Insole",
+   "price": null,
+   "rating": 4.2,
+   "ratings": 151,
+   "isFrido": false
+  },
+  {
+   "pos": 8,
+   "title": "infinity deal Silicone Gel Heel Protector Insole Cups for Swelling, Pain Relief, (BLUE) Insole",
+   "price": null,
+   "rating": 0,
+   "ratings": 0,
+   "isFrido": false
+  },
+  {
+   "pos": 9,
+   "title": "Delidge Orthotic Arch support Sport Running Silicone Gel Insole (Small:225-250mm) Insole",
+   "price": null,
+   "rating": 0,
+   "ratings": 0,
+   "isFrido": false
+  },
+  {
+   "pos": 10,
+   "title": "FOVERA Height Increasing Gel Insoles for Men & Women - With 4 Level of Height Elevation Insole",
+   "price": null,
+   "rating": 4.1,
+   "ratings": 342,
+   "isFrido": false
+  },
+  {
+   "pos": 11,
+   "title": "MAYKO & BAYKO Silicone Gel Heel Protector Insole Cups - 2 Count Heel Support Insole",
+   "price": null,
+   "rating": 0,
+   "ratings": 0,
+   "isFrido": false
+  },
+  {
+   "pos": 12,
+   "title": "ADONYX Combo of Knee,Palm, Knee Support",
+   "price": null,
+   "rating": 3.9,
+   "ratings": 11636,
+   "isFrido": false
+  },
+  {
+   "pos": 13,
+   "title": "ADONYX Adustable Compression Foot Pain Relief Ankle Support",
+   "price": null,
+   "rating": 4,
+   "ratings": 3104,
+   "isFrido": false
+  },
+  {
+   "pos": 14,
+   "title": "ADONYX 1 Pack Knee Compression Sleeve, Knee Support for Sports Workout Knee Support",
+   "price": null,
+   "rating": 4,
+   "ratings": 2992,
+   "isFrido": false
+  }
+ ],
+ "notes": []
+}

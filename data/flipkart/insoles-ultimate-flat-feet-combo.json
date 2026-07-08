@@ -1,0 +1,109 @@
+{
+ "category": "insoles-ultimate-flat-feet-combo",
+ "marketplace": "flipkart",
+ "keyword": "Frido Ultimate Flat Feet Combo",
+ "capturedAt": "2026-07-08",
+ "method": "Live scrape flipkart.com mobile search page 1 (__INITIAL_STATE__), query = exact SKU name",
+ "confidence": "Medium-High (live; sponsored flags not exposed on mobile)",
+ "fridoRank": 4,
+ "fridoPresent": true,
+ "results": [
+  {
+   "pos": 1,
+   "title": "FEXMY Heel Pain Relief Cracked Repair Foot Care Heel Pad and Heel Socks Combo Heel Support",
+   "price": null,
+   "rating": 3.8,
+   "ratings": 450,
+   "isFrido": false
+  },
+  {
+   "pos": 2,
+   "title": "FEXMY Shoe Bite Protector Heel Grips, Liner Cushions & Inserts for Loose Shoes Support Heel Support",
+   "price": null,
+   "rating": 3.8,
+   "ratings": 1478,
+   "isFrido": false
+  },
+  {
+   "pos": 3,
+   "title": "FEXMY Heel Grips Liner Cushions Inserts for Loose Shoes Insoles for Men Heel Support",
+   "price": null,
+   "rating": 3.8,
+   "ratings": 1478,
+   "isFrido": false
+  },
+  {
+   "pos": 4,
+   "title": "Frido Ultimate Pro Seat Cushion & Posture Corrector Backrest Combo Back / Lumbar Support",
+   "price": null,
+   "rating": 4,
+   "ratings": 385,
+   "isFrido": true
+  },
+  {
+   "pos": 5,
+   "title": "bansi Arch Support Sock With Comfort Gel Pad, Arch Brace for Flat Feet Support Band Foot Support",
+   "price": null,
+   "rating": 3.9,
+   "ratings": 1003,
+   "isFrido": false
+  },
+  {
+   "pos": 6,
+   "title": "Frido Max Comfort Soft Arch Cushion Insole, Large (8 to 11 UK) Pack of 2 PU Foam Arch Orthotic Shoe Insole",
+   "price": null,
+   "rating": 3.9,
+   "ratings": 75,
+   "isFrido": true
+  },
+  {
+   "pos": 7,
+   "title": "Frido Dual Gel Insoles, Extra Comfort & Support, Trim-to-fit, Made in India (8-13 UK) Silicone, Gel Full Length Orthotic Shoe Insole",
+   "price": null,
+   "rating": 3.9,
+   "ratings": 205,
+   "isFrido": true
+  },
+  {
+   "pos": 8,
+   "title": "Frido Orthotics Bunion Corrector, Pain Relief & Adjustable Toe Straightener, Pack of 2 Foot Support",
+   "price": null,
+   "rating": 0,
+   "ratings": 0,
+   "isFrido": true
+  },
+  {
+   "pos": 9,
+   "title": "Frido Dual Gel Insoles, Extra Comfort & Support, Trim-to-fit, Made in India (5-9 UK) Silicone, Gel Full Length Orthotic Shoe Insole",
+   "price": null,
+   "rating": 3.9,
+   "ratings": 205,
+   "isFrido": true
+  },
+  {
+   "pos": 10,
+   "title": "Frido Wedge Plus Memory Foam Cushion for Sleeping, Acid Reflux Relief & Leg Elevator Back / Lumbar Support",
+   "price": null,
+   "rating": 4.2,
+   "ratings": 435,
+   "isFrido": true
+  },
+  {
+   "pos": 11,
+   "title": "Frido Max Comfort Memory Hi-Per Foam Trimmable Insole, Small (4-8 UK) Gel Arch Orthotic Shoe Insole",
+   "price": null,
+   "rating": 4.1,
+   "ratings": 36,
+   "isFrido": true
+  },
+  {
+   "pos": 12,
+   "title": "Frido Max Comfort Memory Hi-Per Foam Trimmable Insole, Large (9-13 UK), Pack of 2 Gel Arch Orthotic Shoe Insole",
+   "price": null,
+   "rating": 4.8,
+   "ratings": 4,
+   "isFrido": true
+  }
+ ],
+ "notes": []
+}

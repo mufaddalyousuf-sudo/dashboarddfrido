@@ -1,0 +1,125 @@
+{
+ "category": "insoles-dual-gel-insoles",
+ "marketplace": "flipkart",
+ "keyword": "Frido Dual Gel Insoles",
+ "capturedAt": "2026-07-08",
+ "method": "Live scrape flipkart.com mobile search page 1 (__INITIAL_STATE__), query = exact SKU name",
+ "confidence": "Medium-High (live; sponsored flags not exposed on mobile)",
+ "fridoRank": null,
+ "fridoPresent": false,
+ "results": [
+  {
+   "pos": 1,
+   "title": "FEXMY Heel Pain Relief Cracked Repair Foot Care Heel Pad and Heel Socks Combo Heel Support",
+   "price": null,
+   "rating": 3.8,
+   "ratings": 450,
+   "isFrido": false
+  },
+  {
+   "pos": 2,
+   "title": "FEXMY Shoe Bite Protector Heel Grips, Liner Cushions & Inserts for Loose Shoes Support Heel Support",
+   "price": null,
+   "rating": 3.8,
+   "ratings": 1478,
+   "isFrido": false
+  },
+  {
+   "pos": 3,
+   "title": "FEXMY Heel Grips Liner Cushions Inserts for Loose Shoes Insoles for Men Heel Support",
+   "price": null,
+   "rating": 3.8,
+   "ratings": 1478,
+   "isFrido": false
+  },
+  {
+   "pos": 4,
+   "title": "Tinor Unisex Insole With Arch Support Pair For Supination Overpronation Flat Feet Heel Support",
+   "price": null,
+   "rating": 0,
+   "ratings": 0,
+   "isFrido": false
+  },
+  {
+   "pos": 5,
+   "title": "Medilink Insole With Arch Support Pair (Adult & Kid). For Supination, Overpronation Foot Support",
+   "price": null,
+   "rating": 0,
+   "ratings": 0,
+   "isFrido": false
+  },
+  {
+   "pos": 6,
+   "title": "Silencio Foot Insoles, Shoe Insoles, Orthotic Insoles for Men and Women (SIZE 5 to 9) Foot Support",
+   "price": null,
+   "rating": 3.7,
+   "ratings": 387,
+   "isFrido": false
+  },
+  {
+   "pos": 7,
+   "title": "Medilink Unisex Insole With Arch Support Pair (Adult & Kid) Insole",
+   "price": null,
+   "rating": 0,
+   "ratings": 0,
+   "isFrido": false
+  },
+  {
+   "pos": 8,
+   "title": "Silencio Orthotic Arch Support Shoe Insoles for kids, Men & Women EU Size 36-39 Heel Support",
+   "price": null,
+   "rating": 3.9,
+   "ratings": 3760,
+   "isFrido": false
+  },
+  {
+   "pos": 9,
+   "title": "gripkart Herbal Foot Pads Overnight Foot Care Patch PACK OF 6 Insole",
+   "price": null,
+   "rating": 0,
+   "ratings": 0,
+   "isFrido": false
+  },
+  {
+   "pos": 10,
+   "title": "JOICE IMPEX Silicon Gel Sheet for Scars Transparent Medical Silicone Gel Tape Insole",
+   "price": null,
+   "rating": 3.7,
+   "ratings": 27,
+   "isFrido": false
+  },
+  {
+   "pos": 11,
+   "title": "Tinor Insole Full Silicon For feet Support Pain Relief Insole",
+   "price": null,
+   "rating": 0,
+   "ratings": 0,
+   "isFrido": false
+  },
+  {
+   "pos": 12,
+   "title": "HEALTHTREK Flat Foot Insole with Premium Materials & Strong Support (EU Size 40-45) Insole",
+   "price": null,
+   "rating": 2.5,
+   "ratings": 2,
+   "isFrido": false
+  },
+  {
+   "pos": 13,
+   "title": "Baben Free Size Posture Corrector For Men And Women Back / Lumbar Support",
+   "price": null,
+   "rating": 4.1,
+   "ratings": 377,
+   "isFrido": false
+  },
+  {
+   "pos": 14,
+   "title": "Baben Posture corrector belt for men and women for back pain Posture Corrector Posture Corrector",
+   "price": null,
+   "rating": 4.2,
+   "ratings": 74,
+   "isFrido": false
+  }
+ ],
+ "notes": []
+}

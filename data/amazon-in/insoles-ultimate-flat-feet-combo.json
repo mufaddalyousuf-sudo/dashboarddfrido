@@ -1,0 +1,197 @@
+{
+ "category": "insoles-ultimate-flat-feet-combo",
+ "marketplace": "amazon-in",
+ "keyword": "Frido Ultimate Flat Feet Combo",
+ "capturedAt": "2026-07-08",
+ "method": "Live scrape amazon.in search page 1, query = exact SKU name (brand-qualified)",
+ "confidence": "High (live snapshot, single keyword)",
+ "fridoOrganicRank": 3,
+ "fridoSponsoredSlot": 1,
+ "organic": [
+  {
+   "asin": "B0DC73GC9Q",
+   "badge": null,
+   "price": "1,799",
+   "rating": "3.9",
+   "reviews": "77",
+   "title": "Frido Rigid & Semi Rigid Arch Support Insole for Flat Feet | Relieves Feet Pain | Plantar Fasciitis & Heel Spurs | Orthotic Inserts for Stability | Trimmable Sh",
+   "rank": 1
+  },
+  {
+   "asin": "B0D6Z3XW47",
+   "badge": null,
+   "price": "1,199",
+   "rating": "3.9",
+   "reviews": "956",
+   "title": "Frido Rigid Arch Support Insole for Flat Feet | Relieves Feet Pain | Plantar Fasciitis & Heel Spurs | Orthotic Inserts for Enhanced Stability | Trimmable Shoe I",
+   "rank": 2
+  },
+  {
+   "asin": "B0CJ8VYBQP",
+   "badge": null,
+   "price": "2,559",
+   "rating": "4.0",
+   "reviews": "3,077",
+   "title": "Frido Ultimate Pro Seat Cushion & Posture Corrector Backrest Cushion Combo | Relieves Back | Coccyx Pain | Hi-Per Foam Tech for Orthopedic Support | for Long Si",
+   "rank": 3,
+   "isFridoBrand": true
+  },
+  {
+   "asin": "B0DC71PHMR",
+   "badge": null,
+   "price": "499",
+   "rating": "4.0",
+   "reviews": "341",
+   "title": "Frido Arch Sports Insole | Hi-Per Foam Orthotic Inserts for Arch Pain Relief and Injury Prevention | Casual Shoe Insert for Enhanced Comfort | Extra Large Size ",
+   "rank": 4
+  },
+  {
+   "asin": "B0C9CBXC2M",
+   "badge": null,
+   "price": "1,799",
+   "rating": "4.5",
+   "reviews": "19",
+   "title": "Frido Semi Rigid Arch Support Insole for Flat Feet | Relieves Feet Pain | Plantar Fasciitis & Heel Spurs | Orthotic Inserts for Enhanced Stability, Trimmable Sh",
+   "rank": 5
+  },
+  {
+   "asin": "B0FPQT4JJD",
+   "badge": null,
+   "price": "262",
+   "rating": "3.8",
+   "reviews": "1,628",
+   "title": "RENESMEE Orthotic Arch Support Shoe Insoles, Children Pu Cushioning Inserts, Shock Absorption Velvet Surfaces Deep Heel Cup Inner Sole for Flat Feet, Feet Heel ",
+   "rank": 6
+  },
+  {
+   "asin": "B0DJKR4763",
+   "badge": "Bestseller",
+   "price": "899",
+   "rating": "3.8",
+   "reviews": "9,642",
+   "title": "Frido Dual Gel Pro Shoe Insoles -Trimmable Shoe Sole for Men & Women for Stability, Shock Absorption & Comfort | Anti-Sweat Sports Insole, Foot Support Silicone",
+   "rank": 7
+  },
+  {
+   "asin": "B0FR9QVDZR",
+   "badge": "Bestseller",
+   "price": "949",
+   "rating": "4.1",
+   "reviews": "1,744",
+   "title": "Cloud Comfort Slippers for Women & Men | Available in 2 Options- Arch Support & Without Arch |Orthopedic Soft Home Chappal Unisex Slipper, House Slipper with An",
+   "rank": 8
+  },
+  {
+   "asin": "B0CSNNPY8D",
+   "badge": null,
+   "price": "2,400",
+   "rating": "4.0",
+   "reviews": "1",
+   "title": "Introducing the Ultimate Flat Feet Insoles Combo for All Your Footwear Needs!",
+   "rank": 9
+  },
+  {
+   "asin": "B0H2Q1WWHV",
+   "badge": null,
+   "price": "189",
+   "rating": "4.6",
+   "reviews": "4",
+   "title": "MATSON Flat Foot Arch Support for Men & Women | Medial Arch Support for Flat Feet Correction Sleeve with Cushion | Plantar Fasciitis Leg Foot Pain Relief Produc",
+   "rank": 10
+  }
+ ],
+ "sponsored": [
+  {
+   "asin": "B0CJ8VYBQP",
+   "badge": null,
+   "price": "2,559",
+   "rating": "4.0",
+   "reviews": "3,077",
+   "title": "Frido Ultimate Pro Seat Cushion & Posture Corrector Backrest Cushion Combo | Relieves Back | Coccyx Pain | Hi-Per Foam Tech for Orthopedic Support | for Long Si",
+   "slot": 1,
+   "isFridoBrand": true
+  },
+  {
+   "asin": "B0C96XN5D8",
+   "badge": null,
+   "price": "1,099",
+   "rating": "4.1",
+   "reviews": "950",
+   "title": "Frido Semi Rigid Arch Support Insole for Flat Feet | Relieves Feet Pain | Plantar Fasciitis & Heel Spurs | Orthotic Inserts for Stability | Comfortable & Trimma",
+   "slot": 2
+  },
+  {
+   "asin": "B0GTW7HMZY",
+   "badge": "Bestseller",
+   "price": "899",
+   "rating": "4.4",
+   "reviews": "197",
+   "title": "Frido Orthotics Heel Protector for Heel Pain Relief | Gel Heel Pad with Velcro Strap | Anti-Slip Heel Cup Cushion for Men & Women | Plantar Fasciitis, Heel Spur",
+   "slot": 3
+  },
+  {
+   "asin": "B0DSFNVVCJ",
+   "badge": null,
+   "price": "599",
+   "rating": "4.0",
+   "reviews": "240",
+   "title": "betterhood PosturePro Arch Support Insoles | Large, 8-11 UK | Gel Insoles for Shoes, Flat Feet Arch Support Ergonomic Orthopedic Shoe Inserts, Thin and Non-Bulk",
+   "slot": 4
+  },
+  {
+   "asin": "B0C96VW2LP",
+   "badge": null,
+   "price": "1,099",
+   "rating": "4.1",
+   "reviews": "950",
+   "title": "Frido Semi Rigid Arch Support Insole for Flat Feet | Relieves Feet Pain | Plantar Fasciitis & Heel Spurs | Orthotic Inserts for Enhanced Stability | Comfortable",
+   "slot": 5
+  },
+  {
+   "asin": "B09RV5MGQ2",
+   "badge": "Bestseller",
+   "price": "694",
+   "rating": "3.8",
+   "reviews": "9,642",
+   "title": "Frido Dual Gel Heavy Duty Trimmable Insoles | For Loose Shoes or Replacing Existing Insoles | Thick Shoe Inserts | Extra Comfort and Support | Proudly Made in I",
+   "slot": 6
+  },
+  {
+   "asin": "B0D3XX9TJZ",
+   "badge": null,
+   "price": "1,799",
+   "rating": "4.2",
+   "reviews": "3,012",
+   "title": "Frido Wedge Plus Cushion for Sleeping, Sitting & Acid Reflux Relief | Memory Foam Pillow | High Resillience Foam | Orthopedic Wedge Cushion for Leg Elevator | P",
+   "slot": 7
+  },
+  {
+   "asin": "B0CMQ3PMP4",
+   "badge": null,
+   "price": "270",
+   "rating": "3.7",
+   "reviews": "519",
+   "title": "Hansaplast Active Ankle Binder Support for Men & Women | 1 Unit | One Size Fits Most | Ankle Brace for Long Lasting Pain Relief , Stability & Targeted Compressi",
+   "slot": 8
+  },
+  {
+   "asin": "B0GHMYDXX8",
+   "badge": "Bestseller",
+   "price": "249",
+   "rating": "4.2",
+   "reviews": "4,963",
+   "title": "Foot patch (pack of 2) Herbal And Gentle Ingredient Detox Foot Pads, Natural Ingredients for Sleep Aid, Pain Relief, Toxin Removal with Bamboo Vinegar and Acupo",
+   "slot": 9
+  },
+  {
+   "asin": "B0FRS559XT",
+   "badge": null,
+   "price": "1,999",
+   "rating": "4.1",
+   "reviews": "36",
+   "title": "5D Comfort insoles for Men & Women, Insole with 5-Layer Cushion with Poron, Gel & TPU, Arch Support Insole for Flat Feet and Feet Pain | Plantar Fasciitis & Hee",
+   "slot": 10
+  }
+ ],
+ "notes": []
+}

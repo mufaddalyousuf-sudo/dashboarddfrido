@@ -1,0 +1,77 @@
+{
+ "category": "insoles-gel-max-comfort-insole",
+ "marketplace": "flipkart",
+ "keyword": "Frido Gel Max Comfort Insole",
+ "capturedAt": "2026-07-08",
+ "method": "Live scrape flipkart.com mobile search page 1 (__INITIAL_STATE__), query = exact SKU name",
+ "confidence": "Medium-High (live; sponsored flags not exposed on mobile)",
+ "fridoRank": 4,
+ "fridoPresent": true,
+ "results": [
+  {
+   "pos": 1,
+   "title": "betterhood PosturePro Arch Support Shoe Inserts for Men, Women | for Flat Feet | Orthopedic Insole",
+   "price": null,
+   "rating": 3.9,
+   "ratings": 250,
+   "isFrido": false
+  },
+  {
+   "pos": 2,
+   "title": "betterhood PosturePro Dual Gel Shoe Inserts for Men, Women | Everyday Comfort Ergonomic Insole",
+   "price": null,
+   "rating": 4.1,
+   "ratings": 100,
+   "isFrido": false
+  },
+  {
+   "pos": 3,
+   "title": "betterhood PosturePro Orthopedic Heel Pads for Pain Relief | Shoe Inserts for Men Women | Heel Support",
+   "price": null,
+   "rating": 4,
+   "ratings": 225,
+   "isFrido": false
+  },
+  {
+   "pos": 4,
+   "title": "Frido Dual Gel Insoles, Extra Comfort & Support, Trim-to-fit, Made in India (5-9 UK) Insole",
+   "price": null,
+   "rating": 3.8,
+   "ratings": 4042,
+   "isFrido": true
+  },
+  {
+   "pos": 5,
+   "title": "FOVERA Gel - Shoe Inserts for Walking, Running Hiking - All Day Comfort (Male) Insole",
+   "price": null,
+   "rating": 3.9,
+   "ratings": 23314,
+   "isFrido": false
+  },
+  {
+   "pos": 6,
+   "title": "Frido Max Comfort Memory Hi-Per Foam Trimmable Insole, Small (4-8 UK) Gel Arch Orthotic Shoe Insole",
+   "price": null,
+   "rating": 4.1,
+   "ratings": 36,
+   "isFrido": true
+  },
+  {
+   "pos": 7,
+   "title": "FOVERA Height Increasing Gel Insoles for Men & Women - With 4 Level of Height Elevation Insole",
+   "price": null,
+   "rating": 4.1,
+   "ratings": 342,
+   "isFrido": false
+  },
+  {
+   "pos": 8,
+   "title": "FOVERA Gel - Shoe Inserts for Walking, Running Hiking - All Day Comfort (Female) Insole",
+   "price": null,
+   "rating": 3.9,
+   "ratings": 23314,
+   "isFrido": false
+  }
+ ],
+ "notes": []
+}

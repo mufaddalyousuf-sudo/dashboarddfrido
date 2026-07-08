@@ -1,0 +1,197 @@
+{
+ "category": "insoles-orthopedic-heel-pad",
+ "marketplace": "amazon-in",
+ "keyword": "Frido Orthopedic Heel Pad",
+ "capturedAt": "2026-07-08",
+ "method": "Live scrape amazon.in search page 1, query = exact SKU name (brand-qualified)",
+ "confidence": "High (live snapshot, single keyword)",
+ "fridoOrganicRank": 3,
+ "fridoSponsoredSlot": 1,
+ "organic": [
+  {
+   "asin": "B0GTW7HMZY",
+   "badge": "Bestseller",
+   "price": "899",
+   "rating": "4.4",
+   "reviews": "197",
+   "title": "Frido Orthotics Heel Protector for Heel Pain Relief | Gel Heel Pad with Velcro Strap | Anti-Slip Heel Cup Cushion for Men & Women | Plantar Fasciitis, Heel Spur",
+   "rank": 1
+  },
+  {
+   "asin": "B0GTWKWPP1",
+   "badge": "Amazon's Choice",
+   "price": "899",
+   "rating": "4.4",
+   "reviews": "197",
+   "title": "Frido Orthotics Heel Protector for Heel Pain Relief | Gel Heel Pad with Velcro Strap | Anti-Slip Heel Cup Cushion for Men & Women | Plantar Fasciitis, Heel Spur",
+   "rank": 2
+  },
+  {
+   "asin": "B0BXKX5ZQC",
+   "badge": null,
+   "price": "499",
+   "rating": "3.8",
+   "reviews": "2,196",
+   "title": "Frido Orthopedic Heel Pads For Pain Relief | Insole Extra Cushioning And Comfort | Slim Designed Cushions Shock Absorption | Plantar Support | Aggravation&Spur ",
+   "rank": 3,
+   "isFridoBrand": true
+  },
+  {
+   "asin": "B0DM2NKK6L",
+   "badge": null,
+   "price": "190",
+   "rating": "4.0",
+   "reviews": "319",
+   "title": "FOVERA Orthopedic Heel Pads for Heel Pain Relief, Massaging Gel Heel Cups for All Day Cushioning & Comfort, Slim Design for Shock Absorption, Heel Spur & Planta",
+   "rank": 4
+  },
+  {
+   "asin": "B0F7FBX42D",
+   "badge": null,
+   "price": "599",
+   "rating": "4.1",
+   "reviews": "143",
+   "title": "Frido Orthopedic Heel Pad Pro Insole | Gel Heel Pad For Plantar Fasciitis, Heel Spurs & Tendinitis | Anti-Slip, Flexible & Advanced Shock Absorption | Heel Pain",
+   "rank": 5
+  },
+  {
+   "asin": "B0F7FC246N",
+   "badge": null,
+   "price": "599",
+   "rating": "4.1",
+   "reviews": "143",
+   "title": "Frido Orthopedic Heel Pad Pro Insole | Gel Heel Pad For Plantar Fasciitis, Heel Spurs & Tendinitis | Anti-Slip, Flexible & Advanced Shock Absorption | Heel Pain",
+   "rank": 6
+  },
+  {
+   "asin": "B0D63L638V",
+   "badge": null,
+   "price": "439",
+   "rating": "4.0",
+   "reviews": "2,051",
+   "title": "Gel Heel cups Silicon Heel Pad for Heel Ankle Pain, Heel Spur Shoe Support Pad for Men and Women Shock Cushion Pad for Heels Cushion Heel Blue (GEL PAD BLUE PAI",
+   "rank": 7
+  },
+  {
+   "asin": "B0FF2Q97FB",
+   "badge": null,
+   "price": "499",
+   "rating": "4.0",
+   "reviews": "348",
+   "title": "Glowear Silicone Gel Heel Cups for Pain Relief | Plantar Fasciitis, Spur & Achilles Support for Men & Women | Breathable Cushion | Washable & Reusable| Beige/Gr",
+   "rank": 8
+  },
+  {
+   "asin": "B0F5MTP9H7",
+   "badge": null,
+   "price": "389",
+   "rating": "4.0",
+   "reviews": "149",
+   "title": "betterhood PosturePro Orthopedic Heel Pads for Heel Pain Relief | Extra Cushioning Heel Insoles | Shock Absorb Shoe Inserts for Men Women | All-day Comfort Heel",
+   "rank": 9
+  },
+  {
+   "asin": "B0G2H8SGPR",
+   "badge": null,
+   "price": "141",
+   "rating": "4.3",
+   "reviews": "619",
+   "title": "Gel Heel cups Silicone Heel Pad for Heel Ankle Pain, Heel Spur Shoe Support Pad for Men and Women Shock Cushion Pad for Heels",
+   "rank": 10
+  }
+ ],
+ "sponsored": [
+  {
+   "asin": "B0BXKX5ZQC",
+   "badge": null,
+   "price": "499",
+   "rating": "3.8",
+   "reviews": "2,196",
+   "title": "Frido Orthopedic Heel Pads For Pain Relief | Insole Extra Cushioning And Comfort | Slim Designed Cushions Shock Absorption | Plantar Support | Aggravation&Spur ",
+   "slot": 1,
+   "isFridoBrand": true
+  },
+  {
+   "asin": "B0C96XN5D8",
+   "badge": null,
+   "price": "1,099",
+   "rating": "4.1",
+   "reviews": "950",
+   "title": "Frido Semi Rigid Arch Support Insole for Flat Feet | Relieves Feet Pain | Plantar Fasciitis & Heel Spurs | Orthotic Inserts for Stability | Comfortable & Trimma",
+   "slot": 2
+  },
+  {
+   "asin": "B0F5MS5PD8",
+   "badge": null,
+   "price": "389",
+   "rating": "4.0",
+   "reviews": "149",
+   "title": "betterhood PosturePro Orthopedic Heel Pads for Heel Pain Relief | Extra Cushioning Heel Insoles | Shock Absorb Shoe Inserts for Men Women | All-day Comfort Heel",
+   "slot": 3
+  },
+  {
+   "asin": "B0H5JGYYJD",
+   "badge": null,
+   "price": "397",
+   "rating": "5.0",
+   "reviews": "3",
+   "title": "Vn care Heel Protector Pads for Pain Relief for Men & Women | Silicone Gel Heel Pads for Plantar Fasciitis, Heel Pain & Heel Spur | Orthotic Heel Cushion Suppor",
+   "slot": 4
+  },
+  {
+   "asin": "B0GTW2YBXT",
+   "badge": "Bestseller",
+   "price": "899",
+   "rating": "4.4",
+   "reviews": "197",
+   "title": "Frido Orthotics Heel Protector for Heel Pain Relief | Gel Heel Pad with Velcro Strap | Anti-Slip Heel Cup Cushion for Men & Women | Plantar Fasciitis, Heel Spur",
+   "slot": 5
+  },
+  {
+   "asin": "B0F7FBDGZ4",
+   "badge": null,
+   "price": "599",
+   "rating": "4.1",
+   "reviews": "143",
+   "title": "Frido Orthopedic Heel Pad Pro Insole | Gel Heel Pad For Plantar Fasciitis, Heel Spurs & Tendinitis | Anti-Slip, Flexible & Advanced Shock Absorption | Heel Pain",
+   "slot": 6
+  },
+  {
+   "asin": "B0H1RRC21B",
+   "badge": null,
+   "price": "379",
+   "rating": "3.6",
+   "reviews": "96",
+   "title": "DOLTAS Heel Protector with Gel Heel Pad for Heel Pain Relief | Heel Cup Cushion for Plantar Fasciitis, Heel Spurs & Shoe Bite Support | Shock Absorbing Shoe Hee",
+   "slot": 7
+  },
+  {
+   "asin": "B0DVPWCPX4",
+   "badge": null,
+   "price": "915",
+   "rating": "3.4",
+   "reviews": "233",
+   "title": "Dr.Ortho Pain Relief Gel Insoles | Gel Technology for All Day Comfort | Trimmable Sole for Walking, Running, Sports, Formal and Safety Shoes (Size 8-12 UK) - Pa",
+   "slot": 8
+  },
+  {
+   "asin": "B0GVSG3CS8",
+   "badge": null,
+   "price": "377",
+   "rating": null,
+   "reviews": null,
+   "title": "Luxeeva® Heel Pads for Pain Relief, Plantar Fasciitis Heel Support, Silicone Heel Pad for Women | 2 Pairs (Day Use White & Nude with Holes) for Heel Pain Relief",
+   "slot": 9
+  },
+  {
+   "asin": "B0FDBLGSWQ",
+   "badge": null,
+   "price": "549",
+   "rating": "3.3",
+   "reviews": "306",
+   "title": "XENOTY Silicone Gel Heel Protectors Velcro Heel Pad for Pain Relief, Plantar Fasciitis, Arch Support for Flat Feet For Men and Women (Black)",
+   "slot": 10
+  }
+ ],
+ "notes": []
+}

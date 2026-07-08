@@ -1,0 +1,125 @@
+{
+ "category": "insoles-max-comfort-arch-cushion-insoles",
+ "marketplace": "flipkart",
+ "keyword": "Frido Max Comfort Arch Cushion Insoles",
+ "capturedAt": "2026-07-08",
+ "method": "Live scrape flipkart.com mobile search page 1 (__INITIAL_STATE__), query = exact SKU name",
+ "confidence": "Medium-High (live; sponsored flags not exposed on mobile)",
+ "fridoRank": 9,
+ "fridoPresent": true,
+ "results": [
+  {
+   "pos": 1,
+   "title": "Strivex Professional Wrap Band ,Strap For Gym and Fitness Wrist Support",
+   "price": null,
+   "rating": 4.4,
+   "ratings": 150,
+   "isFrido": false
+  },
+  {
+   "pos": 2,
+   "title": "Strivex GYM BELT LEATHER BLACK COLOUR MEDIUM Weight Lifting Belt",
+   "price": null,
+   "rating": 4.7,
+   "ratings": 14,
+   "isFrido": false
+  },
+  {
+   "pos": 3,
+   "title": "Strivex Fitness Mens Gym Gloves with half Wrist Support / Anti Slip Gloves Gym & Fitness Gloves",
+   "price": null,
+   "rating": 0,
+   "ratings": null,
+   "isFrido": false
+  },
+  {
+   "pos": 4,
+   "title": "Strivex POLYESTER BELT ADJUSTABLE X-LARGE Weight Lifting Belt",
+   "price": null,
+   "rating": 4.7,
+   "ratings": 14,
+   "isFrido": false
+  },
+  {
+   "pos": 5,
+   "title": "Strivex Fitness Mens Gym Gloves with half Wrist Support and Anti Slip Gloves Gym & Fitness Gloves",
+   "price": null,
+   "rating": 3.3,
+   "ratings": 3,
+   "isFrido": false
+  },
+  {
+   "pos": 6,
+   "title": "Foot Vital Memory Foam Shoe Insoles Comfortable Insoles Supports Heel & Arch (Pack of 2) Insole",
+   "price": null,
+   "rating": 4.1,
+   "ratings": 6807,
+   "isFrido": false
+  },
+  {
+   "pos": 7,
+   "title": "FOVERA Gel - Shoe Inserts for Walking, Running Hiking - All Day Comfort (Male) Insole",
+   "price": null,
+   "rating": 3.9,
+   "ratings": 23314,
+   "isFrido": false
+  },
+  {
+   "pos": 8,
+   "title": "betterhood PosturePro Dual Gel Shoe Inserts for Men, Women | Everyday Comfort Ergonomic Insole",
+   "price": null,
+   "rating": 4.1,
+   "ratings": 100,
+   "isFrido": false
+  },
+  {
+   "pos": 9,
+   "title": "Frido Arch Support Rigid Insole for Flat Feet, Relieves Feet Pain, Small 3-5 UK PU Foam Arch Orthotic Shoe Insole",
+   "price": null,
+   "rating": 3.7,
+   "ratings": 32,
+   "isFrido": true
+  },
+  {
+   "pos": 10,
+   "title": "Frido Cloud Comfort Diabetic Ortho Arch Support for Pain Relief Anti-Skid Sole Cushion Men Sandals",
+   "price": null,
+   "rating": 4.2,
+   "ratings": 144,
+   "isFrido": true
+  },
+  {
+   "pos": 11,
+   "title": "Thrivanta 1 Pair Memory Foam Shoe Comfortable Supports Heel & Arch Insole",
+   "price": null,
+   "rating": 4.1,
+   "ratings": 1262,
+   "isFrido": false
+  },
+  {
+   "pos": 12,
+   "title": "Frido Heel Pads for Heel Pain Relief & Extra Comfort, S (UK 4-7), Pack of 2 Heel Support",
+   "price": null,
+   "rating": 3.7,
+   "ratings": 40,
+   "isFrido": true
+  },
+  {
+   "pos": 13,
+   "title": "betterhood PosturePro Arch Support Shoe Inserts for Men, Women | for Flat Feet | Orthopedic Insole",
+   "price": null,
+   "rating": 3.9,
+   "ratings": 250,
+   "isFrido": false
+  },
+  {
+   "pos": 14,
+   "title": "Silencio Orthotics Memory Foam Insoles Arch Support Shoe for Pain Relief SIZE EU 36-41 Heel Support",
+   "price": null,
+   "rating": 4,
+   "ratings": 1055,
+   "isFrido": false
+  }
+ ],
+ "notes": []
+}

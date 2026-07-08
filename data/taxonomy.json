@@ -129,11 +129,68 @@
    "priority": "P1",
    "datasets": [
     {
-     "id": "insoles-orthotics",
-     "keyword": "orthopedic insoles",
+     "id": "insoles-arch-support-insoles",
+     "keyword": "Frido Arch Support Insoles",
      "primary": true
+    },
+    {
+     "id": "insoles-arch-sports-insole",
+     "keyword": "Frido Arch Sports Insole"
+    },
+    {
+     "id": "insoles-dual-gel-pro-insoles",
+     "keyword": "Frido Dual Gel Pro Insoles"
+    },
+    {
+     "id": "insoles-plantar-fasciitis-pain-relief-ortho-insoles",
+     "keyword": "Frido Plantar Fasciitis Pain Relief Ortho Insoles"
+    },
+    {
+     "id": "insoles-dual-gel-insoles",
+     "keyword": "Frido Dual Gel Insoles"
+    },
+    {
+     "id": "insoles-arch-support-insoles-rigid-semi-rigid-combo",
+     "keyword": "Frido Arch Support Insoles Rigid + Semi Rigid Combo"
+    },
+    {
+     "id": "insoles-orthopedic-heel-pad",
+     "keyword": "Frido Orthopedic Heel Pad"
+    },
+    {
+     "id": "insoles-max-comfort-memory-hi-per-foam-insole",
+     "keyword": "Frido Max Comfort Memory Hi-Per Foam Insole"
+    },
+    {
+     "id": "insoles-orthopedic-heel-pad-pro-insole",
+     "keyword": "Frido Orthopedic Heel Pad Pro Insole"
+    },
+    {
+     "id": "insoles-gel-max-comfort-insole",
+     "keyword": "Frido Gel Max Comfort Insole"
+    },
+    {
+     "id": "insoles-silicone-gel-insole",
+     "keyword": "Frido Silicone Gel Insole"
+    },
+    {
+     "id": "insoles-ultimate-flat-feet-combo",
+     "keyword": "Frido Ultimate Flat Feet Combo"
+    },
+    {
+     "id": "insoles-orthotics-heel-protector",
+     "keyword": "Frido Orthotics Heel Protector"
+    },
+    {
+     "id": "insoles-max-comfort-arch-cushion-insoles",
+     "keyword": "Frido Max Comfort Arch Cushion Insoles"
+    },
+    {
+     "id": "insoles-ball-of-foot-cushions-pro",
+     "keyword": "Frido Ball of Foot Cushions Pro"
     }
-   ]
+   ],
+   "skuSource": "frido-product-catalog.json (full base-SKU research, 2026-07-08)"
   },
   {
    "id": "pillows",

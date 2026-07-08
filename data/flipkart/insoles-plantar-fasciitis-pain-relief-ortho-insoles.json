@@ -1,0 +1,125 @@
+{
+ "category": "insoles-plantar-fasciitis-pain-relief-ortho-insoles",
+ "marketplace": "flipkart",
+ "keyword": "Frido Plantar Fasciitis Pain Relief Ortho Insoles",
+ "capturedAt": "2026-07-08",
+ "method": "Live scrape flipkart.com mobile search page 1 (__INITIAL_STATE__), query = exact SKU name",
+ "confidence": "Medium-High (live; sponsored flags not exposed on mobile)",
+ "fridoRank": 6,
+ "fridoPresent": true,
+ "results": [
+  {
+   "pos": 1,
+   "title": "betterhood Ankle Binder, ZeroBulk Design for Sports & Injury Recovery, M Pack of 1 Ankle Support",
+   "price": null,
+   "rating": 4.1,
+   "ratings": 223,
+   "isFrido": false
+  },
+  {
+   "pos": 2,
+   "title": "betterhood 4-Strap Knee Brace with Stabilizers for Pain & Injury Recovery, Pack of 1 Knee Support",
+   "price": null,
+   "rating": 4.3,
+   "ratings": 175,
+   "isFrido": false
+  },
+  {
+   "pos": 3,
+   "title": "betterhood Wrist Brace, ZeroBulk Design for Sports and Injury Recovery, Pack of 2 Wrist Support",
+   "price": null,
+   "rating": 4.3,
+   "ratings": 41,
+   "isFrido": false
+  },
+  {
+   "pos": 4,
+   "title": "betterhood Ankle Binder, ZeroBulk Design for Sports & Injury Recovery, L Pack of 2 Ankle Support",
+   "price": null,
+   "rating": 4.1,
+   "ratings": 223,
+   "isFrido": false
+  },
+  {
+   "pos": 5,
+   "title": "betterhood Knee Sleeve with Stabilizers for Sports & Pain Relief, M Pack of 1 Knee Support",
+   "price": null,
+   "rating": 3.9,
+   "ratings": 66,
+   "isFrido": false
+  },
+  {
+   "pos": 6,
+   "title": "Frido Heel Pads for Heel Pain Relief & Extra Comfort, S (UK 4-7), Pack of 4 Heel Support",
+   "price": null,
+   "rating": 3.9,
+   "ratings": 17,
+   "isFrido": true
+  },
+  {
+   "pos": 7,
+   "title": "Frido Dual Gel Insoles, Extra Comfort & Support, Trim-to-fit, Made in India (5-9 UK) Insole",
+   "price": null,
+   "rating": 3.8,
+   "ratings": 4042,
+   "isFrido": true
+  },
+  {
+   "pos": 8,
+   "title": "BIFRRUTANT Heel Support Sleeves Heel Pain Relief Pads Helps Relieve Plantar Fasciitis Heel Support",
+   "price": null,
+   "rating": 0,
+   "ratings": 0,
+   "isFrido": false
+  },
+  {
+   "pos": 9,
+   "title": "HOSPIKART Gel Heel Cup Sleeve for Plantar Fasciitis & Heel Pain Relief (Universal- 1 Pack) Heel Support",
+   "price": null,
+   "rating": 4,
+   "ratings": 502,
+   "isFrido": false
+  },
+  {
+   "pos": 10,
+   "title": "FOVERA Gel - Shoe Inserts for Walking, Running Hiking - All Day Comfort (Male) Insole",
+   "price": null,
+   "rating": 3.9,
+   "ratings": 23314,
+   "isFrido": false
+  },
+  {
+   "pos": 11,
+   "title": "EVERSYS Heel Pain Relief Pad, 1 Pair Plantar Fasciitis Heels Support Heel Support",
+   "price": null,
+   "rating": 3.7,
+   "ratings": 98,
+   "isFrido": false
+  },
+  {
+   "pos": 12,
+   "title": "BIFRRUTANT Heel Pain Relief Plantar Fasciitis Heel Support Foot Pain Relief Heel Pads Heel Support",
+   "price": null,
+   "rating": 1.2,
+   "ratings": 5,
+   "isFrido": false
+  },
+  {
+   "pos": 13,
+   "title": "Yoviex Plantar Fasciitis Heel Support Heel Pressure Relief Pads Moisturizing Heel Care Heel Support",
+   "price": null,
+   "rating": 0,
+   "ratings": 0,
+   "isFrido": false
+  },
+  {
+   "pos": 14,
+   "title": "AGEasy Insoles for Flat Feet |Rebound Relief Technology for Arch Support Insole",
+   "price": null,
+   "rating": 4.2,
+   "ratings": 151,
+   "isFrido": false
+  }
+ ],
+ "notes": []
+}

@@ -1,0 +1,197 @@
+{
+ "category": "insoles-ball-of-foot-cushions-pro",
+ "marketplace": "amazon-in",
+ "keyword": "Frido Ball of Foot Cushions Pro",
+ "capturedAt": "2026-07-08",
+ "method": "Live scrape amazon.in search page 1, query = exact SKU name (brand-qualified)",
+ "confidence": "High (live snapshot, single keyword)",
+ "fridoOrganicRank": 1,
+ "fridoSponsoredSlot": 3,
+ "organic": [
+  {
+   "asin": "B0CTFCXDDW",
+   "badge": null,
+   "price": "699",
+   "rating": "4.0",
+   "reviews": "41",
+   "title": "Frido High Heels Ball of Foot Cushions | Metatarsal Pads with Soft Gel Cushion | Pack of 2 Pairs (1 Wide & 1 Compact) | *high heel footwear not included*",
+   "rank": 1,
+   "isFridoBrand": true
+  },
+  {
+   "asin": "B0CGVJ7THV",
+   "badge": null,
+   "price": "259",
+   "rating": "3.8",
+   "reviews": "658",
+   "title": "Aegon Forefoot Pad for Pain Relief | Hallux Valgus Foot | Bunion Sleeve Foot Pad | Metatarsal Pad | Ball of Foot Cushion for High Heels | Morton's Neuroma | Foo",
+   "rank": 2
+  },
+  {
+   "asin": "B075C6M4LP",
+   "badge": null,
+   "price": "199",
+   "rating": "4.0",
+   "reviews": "238",
+   "title": "Lify Ball of Forefoot Insoles, Front Foot Cushions, Forefoot Insoles for Metatarsal Support and Foot Pain Relief -Self Adhesive - Ball of Foot Pads-2 Pair",
+   "rank": 3
+  },
+  {
+   "asin": "B09RV5MGQ2",
+   "badge": "Bestseller",
+   "price": "694",
+   "rating": "3.8",
+   "reviews": "9,642",
+   "title": "Frido Dual Gel Heavy Duty Trimmable Insoles | For Loose Shoes or Replacing Existing Insoles | Thick Shoe Inserts | Extra Comfort and Support | Proudly Made in I",
+   "rank": 4
+  },
+  {
+   "asin": "B0GTW7HMZY",
+   "badge": "Bestseller",
+   "price": "899",
+   "rating": "4.4",
+   "reviews": "197",
+   "title": "Frido Orthotics Heel Protector for Heel Pain Relief | Gel Heel Pad with Velcro Strap | Anti-Slip Heel Cup Cushion for Men & Women | Plantar Fasciitis, Heel Spur",
+   "rank": 5
+  },
+  {
+   "asin": "B0FJFTDRG5",
+   "badge": null,
+   "price": "258",
+   "rating": "3.5",
+   "reviews": "30",
+   "title": "4 Pairs Honeycomb Fabric Forefoot Pads, High Heel Cushion Inserts Women,Ball Of Foot Cushions, Invisible Socks Pads For Women And Men Reusable Forefoot Pads (Sk",
+   "rank": 6
+  },
+  {
+   "asin": "B0FR27WHZZ",
+   "badge": null,
+   "price": "284",
+   "rating": "4.3",
+   "reviews": "15",
+   "title": "Belanto Ball of Foot Cushions for High Heels, 2 Pair Metatarsal Pads for Women & Men, High Heel Forefoot Cushions Insole Pads, Foot Pain Relief & All-Day Comfor",
+   "rank": 7
+  },
+  {
+   "asin": "B0F7FBDGZ4",
+   "badge": null,
+   "price": "599",
+   "rating": "4.1",
+   "reviews": "143",
+   "title": "Frido Orthopedic Heel Pad Pro Insole | Gel Heel Pad For Plantar Fasciitis, Heel Spurs & Tendinitis | Anti-Slip, Flexible & Advanced Shock Absorption | Heel Pain",
+   "rank": 8
+  },
+  {
+   "asin": "B0GTVSQN4S",
+   "badge": "Bestseller",
+   "price": "899",
+   "rating": "4.4",
+   "reviews": "197",
+   "title": "Frido Orthotics Heel Protector for Heel Pain Relief | Gel Heel Pad with Velcro Strap | Anti-Slip Heel Cup Cushion for Men & Women | Plantar Fasciitis, Heel Spur",
+   "rank": 9
+  },
+  {
+   "asin": "B0C7KF7LPR",
+   "badge": null,
+   "price": "331",
+   "rating": "3.6",
+   "reviews": "405",
+   "title": "Belanto Metatarsal Pad for Women and Men, 1 Pair Forefoot Pad for Pain Relief, Hallux Valgus Bunion Foot Sleeve, Ball of Foot Cushion with Gel Pad, Morton's Neu",
+   "rank": 10
+  }
+ ],
+ "sponsored": [
+  {
+   "asin": "B0C96XN5D8",
+   "badge": null,
+   "price": "1,099",
+   "rating": "4.1",
+   "reviews": "950",
+   "title": "Frido Semi Rigid Arch Support Insole for Flat Feet | Relieves Feet Pain | Plantar Fasciitis & Heel Spurs | Orthotic Inserts for Stability | Comfortable & Trimma",
+   "slot": 1
+  },
+  {
+   "asin": "B0G3XJLB6C",
+   "badge": null,
+   "price": "1,899",
+   "rating": "4.1",
+   "reviews": "320",
+   "title": "Cloud Comfort Orthopaedic Sandals for Women | Arch Support & Heel Cushion | Anti-Slip Sole, Adjustable Buckle | Lightweight Soft PU Footbed | Available in Open ",
+   "slot": 2
+  },
+  {
+   "asin": "B0BXKX5ZQC",
+   "badge": null,
+   "price": "499",
+   "rating": "3.8",
+   "reviews": "2,196",
+   "title": "Frido Orthopedic Heel Pads For Pain Relief | Insole Extra Cushioning And Comfort | Slim Designed Cushions Shock Absorption | Plantar Support | Aggravation&Spur ",
+   "slot": 3,
+   "isFridoBrand": true
+  },
+  {
+   "asin": "B0GQY2RRTV",
+   "badge": null,
+   "price": "289",
+   "rating": "4.0",
+   "reviews": "1,575",
+   "title": "LAKULISH COLLECTION Foot patch (Pack Of 30) Foot Pads For Weight Loss | Detox Foot Patches | Herbal Foot Patch | Natural Ingredients for Sleep Aid, Pain Relief,",
+   "slot": 4
+  },
+  {
+   "asin": "B0DJKR4763",
+   "badge": "Bestseller",
+   "price": "899",
+   "rating": "3.8",
+   "reviews": "9,642",
+   "title": "Frido Dual Gel Pro Shoe Insoles -Trimmable Shoe Sole for Men & Women for Stability, Shock Absorption & Comfort | Anti-Sweat Sports Insole, Foot Support Silicone",
+   "slot": 5
+  },
+  {
+   "asin": "B0BV6SYJKK",
+   "badge": null,
+   "price": "299",
+   "rating": "3.9",
+   "reviews": "224",
+   "title": "Inralimot Ball of Foot Cushions, Metatarsal Pads, High Heel Inserts, Forefoot Cushions and Soft Gel Insole Pads, Ideal for Women Mortons Neuroma & Metatarsal Fo",
+   "slot": 6
+  },
+  {
+   "asin": "B0BF9S9165",
+   "badge": null,
+   "price": "276",
+   "rating": "3.8",
+   "reviews": "2,606",
+   "title": "Helios Memory Foam for All Shoes Makes shoes Super Soft & Comfortable Memory Foam Insole Women's, (SIZE-4) Pack of 1)",
+   "slot": 7
+  },
+  {
+   "asin": "B0DVPWCPX4",
+   "badge": null,
+   "price": "915",
+   "rating": "3.4",
+   "reviews": "233",
+   "title": "Dr.Ortho Pain Relief Gel Insoles | Gel Technology for All Day Comfort | Trimmable Sole for Walking, Running, Sports, Formal and Safety Shoes (Size 8-12 UK) - Pa",
+   "slot": 8
+  },
+  {
+   "asin": "B0C7KF7LPR",
+   "badge": null,
+   "price": "331",
+   "rating": "3.6",
+   "reviews": "405",
+   "title": "Belanto Metatarsal Pad for Women and Men, 1 Pair Forefoot Pad for Pain Relief, Hallux Valgus Bunion Foot Sleeve, Ball of Foot Cushion with Gel Pad, Morton's Neu",
+   "slot": 9
+  },
+  {
+   "asin": "B0F5588BWB",
+   "badge": null,
+   "price": "240",
+   "rating": null,
+   "reviews": null,
+   "title": "PARVY® Heel Pain Relief & Shoe Bite Pads – Silicone Gel Heel Cushion, Foot Mask & Shoe Sole Protector for Women (1 Pair)",
+   "slot": 10
+  }
+ ],
+ "notes": []
+}

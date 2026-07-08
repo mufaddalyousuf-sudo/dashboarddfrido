@@ -134,13 +134,13 @@
     return reasons.slice(0, 3);
   }
 
-  // curated top-3 actions per category — imperative, evidence-cited
+  // curated top-3 actions per category — imperative, evidence-cited.
+  // NOTE: entries here are written against a specific research snapshot and go stale
+  // once a category is re-researched at full SKU depth (its facts/ranks/badges change).
+  // Categories already rewired onto frido-product-catalog.json have their stale entry
+  // removed rather than left showing an outdated claim; fresh ones are pending a
+  // data-driven pass once all 16 categories are on the new research.
   const actions = {
-    cushions: [
-      ["Report the copycat listing", "Organic #6 for “coccyx seat cushion” copies Frido's title (incl. “Hi-Per Foam”) at ₹539. File a brand-registry takedown."],
-      ["Undercut or bundle the coccyx price gap", "Every bestseller ranked above Frido (#5) sells at ₹449–999 vs Frido's ₹1,513. Add a value SKU or a limited coupon to close the gap."],
-      ["Get a Bestseller/Amazon's Choice badge on coccyx", "Rivals ranked above Frido hold Bestseller or Amazon's Choice; Frido holds neither on this keyword — badges are a direct ranking lever."],
-    ],
     pillows: [
       ["Fix sleep-pillow keyword targeting", "Frido runs a sponsored ad on “memory foam pillow” with zero organic top-10 — the listing's title/backend keywords likely don't match this search."],
       ["Push cervical pillow toward a badge", "Cervical pillow ranks #4 organically; sustained review velocity is the most direct path to Amazon's Choice."],
@@ -157,7 +157,6 @@
     chairs: [["Verify the chair's live Amazon rank", "Existence is confirmed (3D Posture Plus Ergonomic Chair, ~4.2★, 101 ratings) but a live rank check was blocked — re-run before deciding on ad spend here."]],
     orthotics: [["Assess marketplace fit for posture corrector", "No top-10 presence in a belt-brand-dominated category — decide whether this is a marketplace-push line or stays D2C-only."]],
     "personal-care": [["Seed visibility for nasal strips", "New line with no top-10 presence against established brands — needs an ad-led launch, not organic-only."]],
-    insoles: [["Defend the #2 insoles position", "Frido already ranks #2 with ad backup — monitor the #1 and sustain review velocity."]],
     "mobility-devices": [["Fix wheelchair-cushion keyword targeting", "Ad runs with zero organic top-10 — align listing keywords to the search term being paid for."]],
   };
 

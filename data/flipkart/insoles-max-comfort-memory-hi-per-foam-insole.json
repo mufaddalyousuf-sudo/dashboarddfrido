@@ -1,0 +1,117 @@
+{
+ "category": "insoles-max-comfort-memory-hi-per-foam-insole",
+ "marketplace": "flipkart",
+ "keyword": "Frido Max Comfort Memory Hi-Per Foam Insole",
+ "capturedAt": "2026-07-08",
+ "method": "Live scrape flipkart.com mobile search page 1 (__INITIAL_STATE__), query = exact SKU name",
+ "confidence": "Medium-High (live; sponsored flags not exposed on mobile)",
+ "fridoRank": 6,
+ "fridoPresent": true,
+ "results": [
+  {
+   "pos": 1,
+   "title": "Strivex Professional Wrap Band ,Strap For Gym and Fitness Wrist Support",
+   "price": null,
+   "rating": 4.4,
+   "ratings": 150,
+   "isFrido": false
+  },
+  {
+   "pos": 2,
+   "title": "Strivex GYM BELT LEATHER BLACK COLOUR MEDIUM Weight Lifting Belt",
+   "price": null,
+   "rating": 4.7,
+   "ratings": 13,
+   "isFrido": false
+  },
+  {
+   "pos": 3,
+   "title": "Strivex Fitness Mens Gym Gloves with half Wrist Support / Anti Slip Gloves Gym & Fitness Gloves",
+   "price": null,
+   "rating": 0,
+   "ratings": null,
+   "isFrido": false
+  },
+  {
+   "pos": 4,
+   "title": "Strivex POLYESTER BELT ADJUSTABLE X-LARGE Weight Lifting Belt",
+   "price": null,
+   "rating": 4.7,
+   "ratings": 13,
+   "isFrido": false
+  },
+  {
+   "pos": 5,
+   "title": "Strivex Fitness Mens Gym Gloves with half Wrist Support and Anti Slip Gloves Gym & Fitness Gloves",
+   "price": null,
+   "rating": 3.3,
+   "ratings": 3,
+   "isFrido": false
+  },
+  {
+   "pos": 6,
+   "title": "Frido Max Comfort Memory Hi-Per Foam Trimmable Insole, Small (4-8 UK) Gel Arch Orthotic Shoe Insole",
+   "price": null,
+   "rating": 4.1,
+   "ratings": 36,
+   "isFrido": true
+  },
+  {
+   "pos": 7,
+   "title": "FOVERA Gel - Shoe Inserts for Walking, Running Hiking - All Day Comfort (Male) Insole",
+   "price": null,
+   "rating": 3.9,
+   "ratings": 23314,
+   "isFrido": false
+  },
+  {
+   "pos": 8,
+   "title": "Frido Dual Gel Insoles, Extra Comfort & Support, Trim-to-fit, Made in India (5-9 UK) Insole",
+   "price": null,
+   "rating": 3.8,
+   "ratings": 4042,
+   "isFrido": true
+  },
+  {
+   "pos": 9,
+   "title": "FOVERA Height Increasing Gel Insoles for Men & Women - With 4 Level of Height Elevation Insole",
+   "price": null,
+   "rating": 4.1,
+   "ratings": 342,
+   "isFrido": false
+  },
+  {
+   "pos": 10,
+   "title": "PHANTOM Memory Foam Bubble Shoe Insoles Unisex Comfortable Athletic Insoles Sport Insole Insole",
+   "price": null,
+   "rating": 4.1,
+   "ratings": 3908,
+   "isFrido": false
+  },
+  {
+   "pos": 11,
+   "title": "hsbtreads Orthotics Memory Foam Insoles Arch Support Shoe for Pain Relief Insole",
+   "price": null,
+   "rating": 3,
+   "ratings": 8,
+   "isFrido": false
+  },
+  {
+   "pos": 12,
+   "title": "betterhood PosturePro Arch Support Shoe Inserts for Men, Women | for Flat Feet | Orthopedic Insole",
+   "price": null,
+   "rating": 3.9,
+   "ratings": 250,
+   "isFrido": false
+  },
+  {
+   "pos": 13,
+   "title": "betterhood PosturePro Dual Gel Shoe Inserts for Men, Women | Everyday Comfort Ergonomic Insole",
+   "price": null,
+   "rating": 4.1,
+   "ratings": 100,
+   "isFrido": false
+  }
+ ],
+ "notes": []
+}
