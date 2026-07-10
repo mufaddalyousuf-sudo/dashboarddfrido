@@ -262,19 +262,19 @@
    "datasets": [
     {
      "id": "mattress-topper-protector-ultimate-mattress-topper",
-     "keyword": "Frido Ultimate Mattress Topper",
+     "keyword": "Mattress Topper",
      "primary": true
     },
     {
      "id": "mattress-topper-protector-mattress-protector",
-     "keyword": "Frido Mattress Protector"
+     "keyword": "Mattress Protector"
     },
     {
      "id": "mattress-topper-protector-mattress-protector-bamboo-terry-fabric",
-     "keyword": "Frido Mattress Protector - Bamboo Terry Fabric"
+     "keyword": "Mattress Protector Bamboo Terry Fabric"
     }
    ],
-   "skuSource": "frido-product-catalog.json (full base-SKU research, 2026-07-08)"
+   "skuSource": "frido-product-catalog.json searchKeyword (generic, brand-stripped), 2026-07-08"
   },
   {
    "id": "covers",
@@ -284,19 +284,19 @@
    "datasets": [
     {
      "id": "covers-wedge-plus-cushion-cover",
-     "keyword": "Frido Wedge Plus Cushion Cover",
+     "keyword": "Wedge Plus Cushion Cover",
      "primary": true
     },
     {
      "id": "covers-deep-sleep-pillow-cover",
-     "keyword": "Frido Deep Sleep Pillow Cover"
+     "keyword": "Deep Sleep Pillow Cover"
     },
     {
      "id": "covers-latex-pillow-cover",
-     "keyword": "Frido Latex Pillow Cover"
+     "keyword": "Latex Pillow Cover"
     }
    ],
-   "skuSource": "frido-product-catalog.json (full base-SKU research, 2026-07-08)"
+   "skuSource": "frido-product-catalog.json searchKeyword (generic, brand-stripped), 2026-07-08"
   },
   {
    "id": "barefoot",

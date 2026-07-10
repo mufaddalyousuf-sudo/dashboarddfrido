@@ -1,14 +1,105 @@
 {
  "category": "covers-deep-sleep-pillow-cover",
  "marketplace": "flipkart",
- "keyword": "Frido Deep Sleep Pillow Cover",
+ "keyword": "Deep Sleep Pillow Cover",
+ "brandKeyword": "Frido Deep Sleep Pillow Cover",
  "capturedAt": "2026-07-08",
- "method": "Live scrape flipkart.com mobile search page 1 (__INITIAL_STATE__), query = exact SKU name",
- "confidence": "Low (fetch blocked)",
+ "method": "Live scrape flipkart.com mobile search page 1 (__INITIAL_STATE__), query = generic product keyword",
+ "confidence": "Medium-High (live; sponsored flags not exposed on mobile)",
  "fridoRank": null,
  "fridoPresent": false,
- "results": [],
- "notes": [
-  "Live fetch failed after retries — needs re-verification."
- ]
+ "fridoUrl": "https://www.flipkart.com/search?q=Deep%20Sleep%20Pillow%20Cover",
+ "results": [
+  {
+   "pos": 1,
+   "title": "Roma Puf Microfibre Sleeping Pillow Pack of 2 Solid Stardust Virgin Microfiber Pillow",
+   "brand": "Roma Puf",
+   "price": null,
+   "rating": 4.5,
+   "ratings": 24,
+   "isFrido": false
+  },
+  {
+   "pos": 2,
+   "title": "Roma Puf Microfibre Sleeping Pillow Pack of 2 Solid",
+   "brand": "Roma Puf",
+   "price": null,
+   "rating": 4.3,
+   "ratings": 3,
+   "isFrido": false
+  },
+  {
+   "pos": 3,
+   "title": "Roma Puf Memory Foam Sleeping Pillow Pack of 1 Solid",
+   "brand": "Roma Puf",
+   "price": null,
+   "rating": 4,
+   "ratings": 8,
+   "isFrido": false
+  },
+  {
+   "pos": 4,
+   "title": "Roma Puf Microfibre Sleeping Pillow Pack of 1 Solid Stardust Virgin Microfiber Pillow",
+   "brand": "Roma Puf",
+   "price": null,
+   "rating": 3.8,
+   "ratings": 9,
+   "isFrido": false
+  },
+  {
+   "pos": 5,
+   "title": "SleepyCat Cotton Pillows Cover",
+   "brand": "SleepyCat",
+   "price": null,
+   "rating": 0,
+   "ratings": 0,
+   "isFrido": false
+  },
+  {
+   "pos": 6,
+   "title": "Shop141 Satin, Silk Pillows Cover",
+   "brand": "Shop141",
+   "price": null,
+   "rating": 4.2,
+   "ratings": 43,
+   "isFrido": false
+  },
+  {
+   "pos": 7,
+   "title": "AVI Plain Plain Filled Zipper Standard Size Pillow Protector",
+   "brand": "AVI",
+   "price": null,
+   "rating": 4,
+   "ratings": 648,
+   "isFrido": false
+  },
+  {
+   "pos": 8,
+   "title": "Zupaya Satin Pillows Cover",
+   "brand": "Zupaya",
+   "price": null,
+   "rating": 4.7,
+   "ratings": 7,
+   "isFrido": false
+  },
+  {
+   "pos": 9,
+   "title": "AGS ACTIVE Cotton Pillows Cover",
+   "brand": "AGS ACTIVE",
+   "price": null,
+   "rating": 4.3,
+   "ratings": 45,
+   "isFrido": false
+  },
+  {
+   "pos": 10,
+   "title": "MGAtrend Cotton Pillows Cover",
+   "brand": "MGAtrend",
+   "price": null,
+   "rating": 3.7,
+   "ratings": 3,
+   "isFrido": false
+  }
+ ],
+ "notes": []
 }

@@ -1,84 +1,113 @@
 {
  "category": "covers-latex-pillow-cover",
  "marketplace": "flipkart",
- "keyword": "Frido Latex Pillow Cover",
+ "keyword": "Latex Pillow Cover",
+ "brandKeyword": "Frido Latex Pillow Cover",
  "capturedAt": "2026-07-08",
- "method": "Live scrape flipkart.com mobile search page 1 (__INITIAL_STATE__), query = exact SKU name",
+ "method": "Live scrape flipkart.com mobile search page 1 (__INITIAL_STATE__), query = generic product keyword",
  "confidence": "Medium-High (live; sponsored flags not exposed on mobile)",
- "fridoRank": 1,
- "fridoPresent": true,
+ "fridoRank": null,
+ "fridoPresent": false,
+ "fridoUrl": "https://www.flipkart.com/search?q=Latex%20Pillow%20Cover",
  "results": [
   {
    "pos": 1,
-   "title": "Frido Latex Sleeping Pillow Pack of 2 Solid Latex Orthopaedic Pillow with Cooling Cover | 100% Natural Latex, Air Vent Holes",
+   "title": "BLUEDOT Cotton Double Bed Cover",
+   "brand": "BLUEDOT",
    "price": null,
-   "rating": 0,
-   "ratings": 0,
-   "isFrido": true
+   "rating": 4,
+   "ratings": 4274,
+   "isFrido": false
   },
   {
    "pos": 2,
-   "title": "Frido Foam Orthopaedic Pillow Pack of 1 Solid High Density Foam Support Cushion",
+   "title": "BLUEDOT Cotton Pillows Cover",
+   "brand": "BLUEDOT",
    "price": null,
-   "rating": 4.4,
-   "ratings": 31,
-   "isFrido": true
+   "rating": 4,
+   "ratings": 1801,
+   "isFrido": false
   },
   {
    "pos": 3,
-   "title": "Frido Latex Sleeping Pillow Pack of 1 Solid Latex Orthopaedic Pillow with Cooling Cover | 100% Natural Latex, Air Vent Holes",
+   "title": "BLUEDOT Cotton Single Flat 200 TC Printed 1 Bedsheet",
+   "brand": "BLUEDOT",
    "price": null,
-   "rating": 0,
-   "ratings": 0,
-   "isFrido": true
+   "rating": 4,
+   "ratings": 604,
+   "isFrido": false
   },
   {
    "pos": 4,
-   "title": "Frido Blended Cushions & Pillows Cover",
+   "title": "Mattress Protector Cotton Pillows Cover",
+   "brand": "Mattress Protector",
    "price": null,
-   "rating": 0,
-   "ratings": 0,
-   "isFrido": true
+   "rating": 4,
+   "ratings": 2189,
+   "isFrido": false
   },
   {
    "pos": 5,
-   "title": "Sleepsia Memory Foam Orthopaedic Pillow Pack of 1 Solid Cool Gel Memory Foam Donut Pillow - Piles Pillow, Tailbone Pain Seat Support",
+   "title": "SATISFLAY Latex Sleeping Pillow Pack of 4 Floral Latex Align Curve Pillow with Bamboo Fabric Cover - 24x16x3.5 inch",
+   "brand": "SATISFLAY",
    "price": null,
-   "rating": 4.2,
-   "ratings": 410,
+   "rating": 0,
+   "ratings": 0,
    "isFrido": false
   },
   {
    "pos": 6,
-   "title": "Frido Memory Foam Orthopaedic Pillow Pack of 1 Solid Knee Pillow with Adjustable Strap | Leg Pillow for Side Sleepers | Melange Cover",
+   "title": "Sleepyhead Latex Sleeping Pillow Pack of 1 Geometric",
+   "brand": "Sleepyhead",
    "price": null,
-   "rating": 3.5,
-   "ratings": 6,
-   "isFrido": true
+   "rating": 0,
+   "ratings": 0,
+   "isFrido": false
   },
   {
    "pos": 7,
-   "title": "Dr. Mashur Memory Foam Orthopaedic Pillow Pack of 1 Solid Orthopedic Comfort Plus, Body Support, Neck Care, Sleep Essentials",
+   "title": "AVI Latex Orthopaedic Pillow Pack of 1 Nature 100% Natural",
+   "brand": "AVI",
    "price": null,
-   "rating": 4.6,
-   "ratings": 167,
+   "rating": 3.8,
+   "ratings": 164,
    "isFrido": false
   },
   {
    "pos": 8,
-   "title": "CUSHIO Memory Foam Sleeping Pillow Pack of 1 Polka Cervical Butterfly Pillow | Neck Pain Relief with Dual Height Design & Arm Rest",
+   "title": "ORGANIC SLEEP Latex Body Pillow Pack of 1 Solid",
+   "brand": "ORGANIC SLEEP",
    "price": null,
-   "rating": 4,
-   "ratings": 5,
+   "rating": 0,
+   "ratings": 0,
    "isFrido": false
   },
   {
    "pos": 9,
-   "title": "Frido Memory Foam Orthopaedic Pillow Pack of 1 Solid Ultimate Deep Sleep Pillow for Neck & Shoulder Pain Relief, King Size 5 Inch",
+   "title": "AVI Latex Orthopaedic Pillow Pack of 2 Nature 100% Natural",
+   "brand": "AVI",
    "price": null,
-   "rating": 4.1,
-   "ratings": 805,
-   "isFrido": true
+   "rating": 3.8,
+   "ratings": 164,
+   "isFrido": false
+  },
+  {
+   "pos": 10,
+   "title": "HOMESO Memory Foam Orthopaedic Pillow Pack of 1 Solid Wedge Plus Pillow for Sleeping Back & Neck Pain Relief Leg Elevator",
+   "brand": "HOMESO",
+   "price": null,
+   "rating": 4.3,
+   "ratings": 877,
+   "isFrido": false
+  },
+  {
+   "pos": 11,
+   "title": "AVI Latex Orthopaedic Pillow Pack of 2 Geometric 100% Natural",
+   "brand": "AVI",
+   "price": null,
+   "rating": 3.8,
+   "ratings": 164,
+   "isFrido": false
   }
  ],
  "notes": []

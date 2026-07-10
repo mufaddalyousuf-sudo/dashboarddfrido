@@ -1,56 +1,64 @@
 {
  "category": "mattress-topper-protector-ultimate-mattress-topper",
  "marketplace": "flipkart",
- "keyword": "Frido Ultimate Mattress Topper",
+ "keyword": "Mattress Topper",
+ "brandKeyword": "Frido Ultimate Mattress Topper",
  "capturedAt": "2026-07-08",
- "method": "Live scrape flipkart.com mobile search page 1 (__INITIAL_STATE__), query = exact SKU name",
+ "method": "Live scrape flipkart.com mobile search page 1 (__INITIAL_STATE__), query = generic product keyword",
  "confidence": "Medium-High (live; sponsored flags not exposed on mobile)",
- "fridoRank": 5,
- "fridoPresent": true,
+ "fridoRank": null,
+ "fridoPresent": false,
+ "fridoUrl": "https://www.flipkart.com/search?q=Mattress%20Topper",
  "results": [
   {
    "pos": 1,
-   "title": "Vastrora Queen Size Fitted Terry Cotton Waterproof, Breathable, Stretchable Mattress Cover",
+   "title": "SleepyHug 2 inch (5.08 cm) Queen Size Foam Breathable Mattress Topper",
+   "brand": "SleepyHug",
    "price": null,
-   "rating": 4.1,
-   "ratings": 563,
+   "rating": 4.3,
+   "ratings": 62,
    "isFrido": false
   },
   {
    "pos": 2,
-   "title": "Vastrora Queen Size Fitted Terry Cotton Breathable, Stretchable, Waterproof Mattress Cover",
+   "title": "AVI 2 inch (5.08 cm) Queen Size Poly Fiber Breathable Mattress Topper",
+   "brand": "AVI",
    "price": null,
-   "rating": 4.2,
-   "ratings": 8524,
+   "rating": 3.9,
+   "ratings": 2825,
    "isFrido": false
   },
   {
    "pos": 3,
-   "title": "Vastrora Double Size Fitted Terry Cotton Breathable, Stretchable, Waterproof Mattress Cover",
+   "title": "RRC King Size Microfibre Breathable, Stretchable, Waterproof Mattress Topper",
+   "brand": "RRC",
    "price": null,
    "rating": 4.2,
-   "ratings": 8524,
+   "ratings": 1978,
    "isFrido": false
   },
   {
    "pos": 4,
-   "title": "Vastrora Double Size Fitted Terry Cotton Waterproof, Breathable, Stretchable Mattress Cover",
+   "title": "WELLGIVER 2 inch (5.08 cm) Queen Size Memory Foam Breathable Mattress Topper",
+   "brand": "WELLGIVER",
    "price": null,
-   "rating": 4.1,
-   "ratings": 563,
+   "rating": 5,
+   "ratings": 10,
    "isFrido": false
   },
   {
    "pos": 5,
-   "title": "Frido 2 inch (5.08 cm) King Size Foam Breathable Mattress Topper",
+   "title": "LINENWALAS 3 inch (7.62 cm) King Size Microfibre Breathable Mattress Topper",
+   "brand": "LINENWALAS",
    "price": null,
-   "rating": 0,
-   "ratings": 0,
-   "isFrido": true
+   "rating": 4.3,
+   "ratings": 18,
+   "isFrido": false
   },
   {
    "pos": 6,
-   "title": "JAYAMBY 4 inch (10.16 cm) King Size Microfibre Stretchable Mattress Topper",
+   "title": "Livpure Smart 4 inch (10.16 cm) Single Size Memory Foam Waterproof Mattress Topper",
+   "brand": "Livpure Smart",
    "price": null,
    "rating": 0,
    "ratings": 0,
@@ -58,47 +66,26 @@
   },
   {
    "pos": 7,
-   "title": "Frido King Size Foam Waterproof Mattress Topper",
+   "title": "WELLGIVER 2 inch (5.08 cm) King Size Memory Foam Breathable Mattress Topper",
+   "brand": "WELLGIVER",
    "price": null,
-   "rating": 0,
-   "ratings": 0,
-   "isFrido": true
+   "rating": 5,
+   "ratings": 10,
+   "isFrido": false
   },
   {
    "pos": 8,
-   "title": "Manavlivings 2 inch (5.08 cm) King Size Microfibre Breathable Mattress Topper",
+   "title": "Aeronix 2 inch (5.08 cm) Double Size Latex Breathable Mattress Topper",
+   "brand": "Aeronix",
    "price": null,
-   "rating": 4.7,
-   "ratings": 6,
+   "rating": 3.2,
+   "ratings": 36,
    "isFrido": false
   },
   {
    "pos": 9,
-   "title": "SleepyHug 2 inch (5.08 cm) King Size Foam Breathable Mattress Topper",
-   "price": null,
-   "rating": 4.3,
-   "ratings": 59,
-   "isFrido": false
-  },
-  {
-   "pos": 10,
-   "title": "Frido Single Size Elastic Strap Terry Cotton Waterproof Mattress Cover",
-   "price": null,
-   "rating": 4.5,
-   "ratings": 22,
-   "isFrido": true
-  },
-  {
-   "pos": 11,
-   "title": "Frido Queen Size Foam Waterproof Mattress Topper",
-   "price": null,
-   "rating": 0,
-   "ratings": 0,
-   "isFrido": true
-  },
-  {
-   "pos": 12,
-   "title": "Livpure Smart 2 inch (5.08 cm) Single Size Memory Foam Breathable Mattress Topper",
+   "title": "Shreewari Single Size Plain Waterproof Mattress Topper",
+   "brand": "Shreewari",
    "price": null,
    "rating": 0,
    "ratings": 0,

@@ -1,177 +1,178 @@
 {
  "category": "mattress-topper-protector-ultimate-mattress-topper",
  "marketplace": "amazon-in",
- "keyword": "Frido Ultimate Mattress Topper",
+ "keyword": "Mattress Topper",
+ "brandKeyword": "Frido Ultimate Mattress Topper",
  "capturedAt": "2026-07-08",
- "method": "Live scrape amazon.in search page 1, query = exact SKU name (brand-qualified)",
+ "method": "Live scrape amazon.in search page 1, query = generic product keyword (brand + Frido product-line/marketing words stripped) — the competitive rank signal, not a brand-qualified existence check",
  "confidence": "High (live snapshot, single keyword)",
- "fridoOrganicRank": 1,
- "fridoSponsoredSlot": 5,
+ "fridoOrganicRank": null,
+ "fridoSponsoredSlot": 1,
+ "fridoUrl": "https://www.amazon.in/dp/B0DHS3HGCG",
  "organic": [
   {
-   "asin": "B0DHS4SVS5",
-   "badge": "Bestseller",
-   "price": "6,499",
-   "rating": "4.4",
-   "reviews": "633",
-   "title": "Ultimate Mattress Topper with Premium Cover for Double Bed | Double Bed Topper 72\"x48\" | 2\" Padding | Mattress Topper for Back Pain & Neck Pain | Soft & Support",
-   "rank": 1,
-   "isFridoBrand": true
+   "asin": "B07FF85N1J",
+   "badge": null,
+   "price": "1,858",
+   "rating": "3.9",
+   "reviews": "4,186",
+   "title": "AVI Super Soft 500 GSM Microfiber Bed Mattress Topper for King Size 78x72 Inch | All Season Comfortable Sleep 2 Inch Thick Mattresses Padding King Size -(Grey, ",
+   "rank": 1
   },
+  {
+   "asin": "B07FF6YZFY",
+   "badge": null,
+   "price": "1,685",
+   "rating": "3.9",
+   "reviews": "4,186",
+   "title": "AVI Super Soft 500 GSM Microfiber Bed Mattress Topper for Queen Size 72x60 Inch | All Season Comfortable Sleep 2 Inch Thick Mattresses Padding Queen Size -(Whit",
+   "rank": 2
+  },
+  {
+   "asin": "B0H51N2GV8",
+   "badge": null,
+   "price": "1,999",
+   "rating": null,
+   "reviews": null,
+   "title": "1500 GSM Premium Mattress Topper 60x75 Inch Queen Size (Grey) – Ultra Soft Quilted Microfiber Bed Topper with Elastic Straps, 2–3 Inch Thick",
+   "rank": 3
+  },
+  {
+   "asin": "B0FHHXS6NJ",
+   "badge": "Bestseller",
+   "price": "4,199",
+   "rating": "4.2",
+   "reviews": "345",
+   "title": "SleepyCat Luxe AirGen™ Memory Foam Soft Mattress Topper - Motion Isolation | 2 Inch Thickness | Supersoft Knitted Fabrics with Ezie Zipper Cover Sleepers (Singl",
+   "rank": 4
+  },
+  {
+   "asin": "B07YFYF6Z8",
+   "badge": null,
+   "price": "2,925",
+   "rating": "3.6",
+   "reviews": "436",
+   "title": "AVI Luxury Soft 5D Spiral 2500 GSM Microfiber Queen Bed Mattress Topper, Extra Thick 3 Inch Mattress Padding, Cooling Breathable Cotton Pillow Top with Elastic ",
+   "rank": 5
+  },
+  {
+   "asin": "B0C599CRNQ",
+   "badge": null,
+   "price": "1,498",
+   "rating": "3.8",
+   "reviews": "387",
+   "title": "Cloth Fusion 600 GSM Mattress Topper Single Bed, Extra Thick 2\" Bed Topper for Improved Sleep Quality and Enhanced Comfort (72x36 inches, Navy)",
+   "rank": 6
+  },
+  {
+   "asin": "B0BTPVH48G",
+   "badge": null,
+   "price": "988",
+   "rating": "3.7",
+   "reviews": "1,133",
+   "title": "Rajasthan Crafts Ultra Soft Microfiber Mattress Topper/Padding (Small Single Bed (36inch x 72inch), Beige)",
+   "rank": 7
+  },
+  {
+   "asin": "B0CSFQGCVQ",
+   "badge": "Bestseller",
+   "price": "5,999",
+   "rating": "4.2",
+   "reviews": "345",
+   "title": "SleepyCat Cotton Microfiber Soft Mattress Topper Baffle Box Quilting 2 Inch Thickness Soft & Breathable Microfiber Fill Pefect for All Sleepers (King,78X72 Inch",
+   "rank": 8
+  },
+  {
+   "asin": "B0C6MKQDDN",
+   "badge": null,
+   "price": "7,106",
+   "rating": "4.0",
+   "reviews": "1,199",
+   "title": "Springtek Premium Multi Zoned Gel Memory Foam Mattress Topper for King Size Bed | King Bed Topper 78\"x72\" | 2\" Padding | Mattress Padding for Comfortable Sleep ",
+   "rank": 9
+  },
+  {
+   "asin": "B0GD7HYWXY",
+   "badge": null,
+   "price": "1,499",
+   "rating": "3.8",
+   "reviews": "387",
+   "title": "Cloth Fusion 600 GSM Mattress Topper Single Bed, Extra Thick 2\" Bed Topper for Improved Sleep Quality and Enhanced Comfort (72X36 Inches, Grey)",
+   "rank": 10
+  }
+ ],
+ "sponsored": [
   {
    "asin": "B0DHS3HGCG",
    "badge": "Amazon's Choice",
    "price": "4,799",
    "rating": "4.4",
    "reviews": "633",
-   "title": "Ultimate Mattress Topper with Premium Cover for Single Bed | Single Bed Topper 72\"x36\" | 2\" Padding | Mattress Topper for Back Pain & Neck Pain | Soft & Support",
-   "rank": 2
+   "title": "Frido Ultimate Mattress Topper with Premium Cover for Single Bed | Single Bed Topper 72\"x36\" | 2\" Padding | Mattress Topper for Back Pain & Neck Pain | Soft & S",
+   "slot": 1,
+   "isFridoBrand": true
   },
   {
-   "asin": "B07T841JH5",
-   "badge": null,
-   "price": "1,952",
-   "rating": "3.9",
-   "reviews": "1,778",
-   "title": "Bed Soft 500 GSM Mattress Topper King Size 78x72 | Mattress Padding Topper for Back & Neck Pain | 2\" Thickness | Bed Topper for Better Sleep | Machine Wash (Kin",
-   "rank": 3
-  },
-  {
-   "asin": "B0CBKGQB3R",
-   "badge": null,
-   "price": "1,619",
-   "rating": "4.0",
-   "reviews": "3,077",
-   "title": "Ultimate Pro Seat Cushion (High Density) for Hip | Tailbone | Coccyx | Sciatica Pain Relief | Proprietary Hi-Per Foam Ergonomic Design | Contoured Cushion for O",
-   "rank": 4
-  },
-  {
-   "asin": "B0GSR914T8",
-   "badge": null,
-   "price": "3,519",
-   "rating": "4.1",
-   "reviews": "20",
-   "title": "2 Inch Memory Foam Mattress Topper, Soft Mattress Padding for Bed with Zipper Cover, Grey, Single Size, 78\"x36\" (6 ft x 3 ft)",
-   "rank": 5
-  },
-  {
-   "asin": "B0CY9MY93C",
-   "badge": null,
-   "price": "1,749",
-   "rating": "3.9",
-   "reviews": "363",
-   "title": "Amazon Brand – Umi Super Soft 600 GSM Mattress Padding Mattress Topper for Comfortable Sleep - White, 6ft x 6.5ft, King Size Bed (72x78 Inches)",
-   "rank": 6
-  },
-  {
-   "asin": "B09SD9SXZQ",
-   "badge": null,
-   "price": "4,700",
-   "rating": "4.3",
-   "reviews": "313",
-   "title": "Orthopedic Mattress Topper - Single Bed 72\"x36\"x2\" Inch, 2-in-1 Reversible Memory Foam & Graphite Infused Cloud Foam | Mattress Topper for Back Pain & Neck Pain",
-   "rank": 7
-  },
-  {
-   "asin": "B0BS74W4Y7",
-   "badge": null,
-   "price": "1,619",
+   "asin": "B0FHHXS6NJ",
+   "badge": "Bestseller",
+   "price": "4,199",
    "rating": "4.2",
-   "reviews": "2,099",
-   "title": "Ultimate Deep Sleep Pillow | King Size 4 Inch Height | Orthopedic Grade Gel Memory Foam for Neck & Shoulder Pain Relief, Includes Bamboo Pillow Cover, Pack of 1",
-   "rank": 8
+   "reviews": "345",
+   "title": "SleepyCat Luxe AirGen™ Memory Foam Soft Mattress Topper - Motion Isolation | 2 Inch Thickness | Supersoft Knitted Fabrics with Ezie Zipper Cover Sleepers (Singl",
+   "slot": 2
+  },
+  {
+   "asin": "B0B4VQTJJ7",
+   "badge": null,
+   "price": "2,889",
+   "rating": "4.0",
+   "reviews": "129",
+   "title": "The White Willow Bed Mattress Topper for Single Size Bed-Memory Foam Cool Gel-Medium Firm Single Bed Mattress Topper for Back Pain & Support-Pressure Relief & E",
+   "slot": 3
   },
   {
    "asin": "B09SCPV9DL",
    "badge": null,
-   "price": "5,900",
+   "price": "5,885",
    "rating": "4.3",
    "reviews": "313",
-   "title": "Orthopedic Mattress Topper - Double/Diwan, 72\"x48\"x2\" Inch, 2-in-1 Reversible Memory Foam & Graphite Infused Cloud Foam | Mattress Topper for Back Pain & Neck P",
-   "rank": 9
-  },
-  {
-   "asin": "B0D5QQ2M3L",
-   "badge": null,
-   "price": "1,399",
-   "rating": "3.8",
-   "reviews": "493",
-   "title": "Super Soft Mattress Topper Single Bed 72X36 | Single Bed Topper Padding 2\" inch | 500 GSM Microfiber Top Surface Back & Neck Pain Relief | Comfort Sleep All Nig",
-   "rank": 10
-  }
- ],
- "sponsored": [
-  {
-   "asin": "B0F9VJG8WJ",
-   "badge": "Bestseller",
-   "price": "4,199",
-   "rating": "4.4",
-   "reviews": "128",
-   "title": "Ultimate Mattress Topper with Standard Cover for Single Bed | Single Bed Topper 72\"x36\" | 2\" Padding | Mattress Topper for Back Pain & Neck Pain | Soft & Suppor",
-   "slot": 1
-  },
-  {
-   "asin": "B0FHHXS6NJ",
-   "badge": null,
-   "price": "4,199",
-   "rating": "4.2",
-   "reviews": "343",
-   "title": "Luxe AirGen™ Memory Foam Soft Mattress Topper - Motion Isolation | 2 Inch Thickness | Supersoft Knitted Fabrics with Ezie Zipper Cover Sleepers (Single, 72x36x2",
-   "slot": 2
-  },
-  {
-   "asin": "B08T7T2PJN",
-   "badge": null,
-   "price": "6,699",
-   "rating": "4.0",
-   "reviews": "559",
-   "title": "Cool Gel Memory Foam Mattress Topper Queen Size 72x60 | 2\" Thick Bed Topper | Plush 3-Zone Design Mattress Pad | Ideal for Back & Side Sleepers | Premium UltraF",
-   "slot": 3
-  },
-  {
-   "asin": "B07T841JH5",
-   "badge": null,
-   "price": "1,952",
-   "rating": "3.9",
-   "reviews": "1,778",
-   "title": "Bed Soft 500 GSM Mattress Topper King Size 78x72 | Mattress Padding Topper for Back & Neck Pain | 2\" Thickness | Bed Topper for Better Sleep | Machine Wash (Kin",
+   "title": "SleepSmith Orthopedic Mattress Topper - Double/Diwan, 72\"x48\"x2\" Inch, 2-in-1 Reversible Memory Foam & Graphite Infused Cloud Foam | Mattress Topper for Back Pa",
    "slot": 4
   },
   {
-   "asin": "B0F9VJ2FD4",
-   "badge": "Bestseller",
-   "price": "6,799",
-   "rating": "4.4",
-   "reviews": "128",
-   "title": "Ultimate Mattress Topper with Standard Cover for Queen Bed | Queen Size Bed Topper 72\"x60\" | 2\" Padding | Mattress Topper for Back Pain & Neck Pain | Soft & Sup",
-   "slot": 5,
-   "isFridoBrand": true
+   "asin": "B0BTPT7YL4",
+   "badge": null,
+   "price": "988",
+   "rating": "3.7",
+   "reviews": "1,133",
+   "title": "Rajasthan Crafts Ultra Soft Microfiber Mattress Topper/Padding (Small Single Bed (36inch x 72inch), Grey)",
+   "slot": 5
   },
   {
-   "asin": "B0FPFB9H5N",
+   "asin": "B0C59FKT1S",
    "badge": null,
-   "price": "3,799",
-   "rating": "4.1",
-   "reviews": "76",
-   "title": "High Resilience Foam Mattress Topper | Single Bed Size 72 x 36 Inch | Orthopedic Bed Topper for Back Pain Relief, Pressure Point Comfort, Cooling Sleep Surface ",
+   "price": "2,299",
+   "rating": "3.8",
+   "reviews": "387",
+   "title": "Cloth Fusion 600 GSM Mattress Topper King Size Bed, Extra Thick 2\" Bed Topper for Improved Sleep Quality and Enhanced Comfort (78x72 inches, Navy)",
    "slot": 6
   },
   {
-   "asin": "B0FPF9N6RC",
+   "asin": "B07PVHMTZM",
    "badge": null,
-   "price": "7,499",
-   "rating": "4.1",
-   "reviews": "76",
-   "title": "High Resilience Foam Mattress Topper | King Bed Size 78 x 72 Inch | Orthopedic Bed Topper for Back Pain Relief, Pressure Point Comfort, Cooling Sleep Surface wi",
+   "price": "639",
+   "rating": "4.2",
+   "reviews": "38,176",
+   "title": "Amazon Brand - Solimo Water Resistant Cotton Mattress Protector 72\"x60\" - Queen Size, Grey",
    "slot": 7
   },
   {
-   "asin": "B09SCTLW8B",
+   "asin": "B0CY9P7845",
    "badge": null,
-   "price": "8,398",
-   "rating": "4.3",
-   "reviews": "313",
-   "title": "Orthopedic Mattress Topper - King Size 78\"x72\"x2\" Inch, 2-in-1 Reversible Memory Foam & Graphite Infused Cloud Foam | Mattress Topper for Back Pain & Neck Pain ",
+   "price": "1,499",
+   "rating": "3.9",
+   "reviews": "363",
+   "title": "Amazon Brand – Umi Super Soft 600 GSM Mattress Padding Mattress Topper for Comfortable Sleep - Grey, 5ft x 6.5ft, Queen Bed (60x78 Inches)",
    "slot": 8
   },
   {
@@ -180,16 +181,16 @@
    "price": "21,900",
    "rating": "4.3",
    "reviews": "13",
-   "title": "100% Certified Natural Latex Mattress Topper with GOTS Fabric| Soft Comfort | 5 Year's Warranty | Mattress Padding Topper King Size (72x72x2 Inches)",
+   "title": "Dreamzee 100% Certified Natural Latex Mattress Topper with GOTS Fabric| Soft Comfort | 5 Year's Warranty | Mattress Padding Topper King Size (72x72x2 Inches)",
    "slot": 9
   },
   {
-   "asin": "B0B8VJ89S1",
+   "asin": "B0DVCC8C3T",
    "badge": null,
-   "price": "4,199",
+   "price": "3,599",
    "rating": "3.8",
    "reviews": "330",
-   "title": "Ultra Soft Microfiber Mattress Topper Super King Size 84X78 | 3\" Inch Thickness | Back & Neck Support | 4 Corner Elastic Band Upto 10\" Inch | Machine Washable (",
+   "title": "AJISH Mattress Topper King Size 78x72 |1200 GSM Super Soft Microfiber Quilted Mattress Padding Bed Topper King Size | 4 Corner Elastic Band | All Season Comfort",
    "slot": 10
   }
  ],

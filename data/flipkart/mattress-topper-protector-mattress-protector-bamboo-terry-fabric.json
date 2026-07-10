@@ -1,76 +1,86 @@
 {
  "category": "mattress-topper-protector-mattress-protector-bamboo-terry-fabric",
  "marketplace": "flipkart",
- "keyword": "Frido Mattress Protector - Bamboo Terry Fabric",
+ "keyword": "Mattress Protector Bamboo Terry Fabric",
+ "brandKeyword": "Frido Mattress Protector - Bamboo Terry Fabric",
  "capturedAt": "2026-07-08",
- "method": "Live scrape flipkart.com mobile search page 1 (__INITIAL_STATE__), query = exact SKU name",
+ "method": "Live scrape flipkart.com mobile search page 1 (__INITIAL_STATE__), query = generic product keyword",
  "confidence": "Medium-High (live; sponsored flags not exposed on mobile)",
- "fridoRank": 5,
- "fridoPresent": true,
+ "fridoRank": null,
+ "fridoPresent": false,
+ "fridoUrl": "https://www.flipkart.com/search?q=Mattress%20Protector%20Bamboo%20Terry%20Fabric",
  "results": [
   {
    "pos": 1,
-   "title": "Vastrora Queen Size Fitted Terry Cotton Waterproof, Breathable, Stretchable Mattress Cover",
+   "title": "Vastrora Double Size Fitted Terry Cotton Breathable, Stretchable, Waterproof Mattress Cover",
+   "brand": "Vastrora",
    "price": null,
-   "rating": 4.1,
-   "ratings": 563,
+   "rating": 4.2,
+   "ratings": 8695,
    "isFrido": false
   },
   {
    "pos": 2,
-   "title": "Vastrora Queen Size Fitted Terry Cotton Breathable, Stretchable, Waterproof Mattress Cover",
+   "title": "Dream Care King Size Fitted Terry Cotton Breathable, Stretchable, Waterproof Mattress Cover",
+   "brand": "Dream Care",
    "price": null,
-   "rating": 4.2,
-   "ratings": 8524,
+   "rating": 4.1,
+   "ratings": 49061,
    "isFrido": false
   },
   {
    "pos": 3,
-   "title": "Vastrora Double Size Fitted Terry Cotton Breathable, Stretchable, Waterproof Mattress Cover",
+   "title": "Wakefit Queen Size Elastic Strap Terry Cotton Waterproof, Stretchable, Breathable Mattress Cover",
+   "brand": "Wakefit",
    "price": null,
    "rating": 4.2,
-   "ratings": 8524,
+   "ratings": 5,
    "isFrido": false
   },
   {
    "pos": 4,
    "title": "Vastrora Double Size Fitted Terry Cotton Waterproof, Breathable, Stretchable Mattress Cover",
+   "brand": "Vastrora",
    "price": null,
-   "rating": 4.1,
-   "ratings": 563,
+   "rating": 4.2,
+   "ratings": 627,
    "isFrido": false
   },
   {
    "pos": 5,
-   "title": "Frido King Size Elastic Strap Terry Cotton Waterproof Mattress Cover",
+   "title": "Loom & Needles King Size Fitted Terry Cotton Breathable, Stretchable, Waterproof Mattress Cover",
+   "brand": "Loom & Needles",
    "price": null,
-   "rating": 0,
-   "ratings": 0,
-   "isFrido": true
+   "rating": 4.4,
+   "ratings": 225,
+   "isFrido": false
   },
   {
    "pos": 6,
-   "title": "Frido Single Size Elastic Strap Terry Cotton Waterproof Mattress Cover",
+   "title": "Ultrasleep King Size Fitted Terry Cotton Breathable, Waterproof Mattress Cover",
+   "brand": "Ultrasleep",
    "price": null,
-   "rating": 0,
-   "ratings": 0,
-   "isFrido": true
+   "rating": 4.2,
+   "ratings": 3992,
+   "isFrido": false
   },
   {
    "pos": 7,
-   "title": "Frido Queen Size Elastic Strap Terry Cotton Waterproof Mattress Cover",
+   "title": "Wakefit Single Size Elastic Strap Terry Cotton Waterproof, Stretchable, Breathable Mattress Cover",
+   "brand": "Wakefit",
    "price": null,
-   "rating": 4.5,
-   "ratings": 22,
-   "isFrido": true
+   "rating": 2,
+   "ratings": 3,
+   "isFrido": false
   },
   {
    "pos": 8,
-   "title": "Frido Double Size Elastic Strap Terry Cotton Waterproof Mattress Cover",
+   "title": "AYKA King Size Fitted Terry Cotton Waterproof, Breathable, Stretchable Mattress Cover",
+   "brand": "AYKA",
    "price": null,
-   "rating": 4.5,
-   "ratings": 22,
-   "isFrido": true
+   "rating": 4.1,
+   "ratings": 1399,
+   "isFrido": false
   }
  ],
  "notes": []
