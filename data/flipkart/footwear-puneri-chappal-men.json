@@ -1,75 +1,139 @@
 {
  "category": "footwear-puneri-chappal-men",
  "marketplace": "flipkart",
- "keyword": "Frido Puneri Chappal - Men",
+ "keyword": "Puneri Chappal Men",
+ "brandKeyword": "Frido Puneri Chappal - Men",
  "capturedAt": "2026-07-08",
- "method": "Live scrape flipkart.com mobile search page 1 (__INITIAL_STATE__), query = exact SKU name",
+ "method": "Live scrape flipkart.com mobile search page 1 (__INITIAL_STATE__), query = generic product keyword",
  "confidence": "Medium-High (live; sponsored flags not exposed on mobile)",
- "fridoRank": 4,
+ "fridoRank": 5,
  "fridoPresent": true,
+ "fridoUrl": "https://www.flipkart.com/search?q=Puneri%20Chappal%20Men",
  "results": [
   {
    "pos": 1,
-   "title": "TOE CANDY Men Flats",
+   "title": "TOE CANDY Men Sandals",
+   "brand": "TOE CANDY",
    "price": null,
-   "rating": 4.7,
-   "ratings": 100,
+   "rating": 3.9,
+   "ratings": 7710,
    "isFrido": false
   },
   {
    "pos": 2,
    "title": "TOE CANDY Men Clogs",
+   "brand": "TOE CANDY",
    "price": null,
-   "rating": 4.8,
-   "ratings": 94,
+   "rating": 3.8,
+   "ratings": 6443,
    "isFrido": false
   },
   {
    "pos": 3,
-   "title": "TOE CANDY Men Casual",
+   "title": "TOE CANDY Men Slippers",
+   "brand": "TOE CANDY",
    "price": null,
-   "rating": 4.8,
-   "ratings": 50,
+   "rating": 4,
+   "ratings": 3624,
    "isFrido": false
   },
   {
    "pos": 4,
-   "title": "Frido Traditional Kolhapuri Leather, Memory Foam, Adjustable Ethnic Puneri Footwear Men Sandals",
+   "title": "GOODREED Men Slippers",
+   "brand": "GOODREED",
    "price": null,
    "rating": 3.6,
-   "ratings": 13,
-   "isFrido": true
+   "ratings": 396,
+   "isFrido": false
   },
   {
    "pos": 5,
-   "title": "Frido Comfort Dual Strap Footwear With Bounce Back Cushioned Footbed Adjustable Velcro Men Casual",
+   "title": "Frido Puneri Arch Comfort Sandal | Leather Chappal with Built-In Arch Support, Cushion Men Flats",
+   "brand": "Frido",
    "price": null,
-   "rating": 4.4,
-   "ratings": 136,
+   "rating": 5,
+   "ratings": 4,
    "isFrido": true
   },
   {
    "pos": 6,
-   "title": "Frido Unisex Cloud Comfort Orthopedic Soft Home Chappal with Anti-Skid Sole Slippers",
+   "title": "Pennen Men Slippers",
+   "brand": "Pennen",
    "price": null,
-   "rating": 4.2,
-   "ratings": 345,
-   "isFrido": true
+   "rating": 0,
+   "ratings": 0,
+   "isFrido": false
   },
   {
    "pos": 7,
-   "title": "Frido Cloud Comfort Diabetic Ortho Arch Support for Pain Relief Anti-Skid Sole Cushion Men Sandals",
+   "title": "PANZIK Men Flip Flops",
+   "brand": "PANZIK",
    "price": null,
-   "rating": 4.2,
-   "ratings": 144,
-   "isFrido": true
+   "rating": 3.9,
+   "ratings": 585,
+   "isFrido": false
   },
   {
    "pos": 8,
-   "title": "TOE CANDY Men Slippers",
+   "title": "eastern club Men Slippers",
+   "brand": "eastern club",
    "price": null,
-   "rating": 4,
-   "ratings": 3601,
+   "rating": 3.9,
+   "ratings": 310,
+   "isFrido": false
+  },
+  {
+   "pos": 9,
+   "title": "PESHAWARI CHAPPAL Men Sandals",
+   "brand": "PESHAWARI CHAPPAL",
+   "price": null,
+   "rating": 4.7,
+   "ratings": 3,
+   "isFrido": false
+  },
+  {
+   "pos": 10,
+   "title": "PAHNAVA Men Slippers",
+   "brand": "PAHNAVA",
+   "price": null,
+   "rating": 3.8,
+   "ratings": 133,
+   "isFrido": false
+  },
+  {
+   "pos": 11,
+   "title": "Bata Men Slides",
+   "brand": "Bata",
+   "price": null,
+   "rating": 4.1,
+   "ratings": 40640,
+   "isFrido": false
+  },
+  {
+   "pos": 12,
+   "title": "Doctor Health Super Soft Men EVA Double Strap Sandals|Adjustable Buckle|Lightweight Anti-Slip Slippers Slippers",
+   "brand": "Doctor Health Super Soft",
+   "price": null,
+   "rating": 4.2,
+   "ratings": 626,
+   "isFrido": false
+  },
+  {
+   "pos": 13,
+   "title": "HOTSTYLE Men Slippers",
+   "brand": "HOTSTYLE",
+   "price": null,
+   "rating": 3.9,
+   "ratings": 217,
+   "isFrido": false
+  },
+  {
+   "pos": 14,
+   "title": "HOTSTYLE Men Sandals",
+   "brand": "HOTSTYLE",
+   "price": null,
+   "rating": 3.7,
+   "ratings": 133,
    "isFrido": false
   }
  ],

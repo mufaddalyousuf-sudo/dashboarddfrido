@@ -1,67 +1,112 @@
 {
  "category": "footwear-men-s-comfort-dual-strap-sandals",
  "marketplace": "flipkart",
- "keyword": "Frido Men's Comfort Dual Strap Sandals",
+ "keyword": "Men's Comfort Dual Strap Sandals",
+ "brandKeyword": "Frido Men's Comfort Dual Strap Sandals",
  "capturedAt": "2026-07-08",
- "method": "Live scrape flipkart.com mobile search page 1 (__INITIAL_STATE__), query = exact SKU name",
+ "method": "Live scrape flipkart.com mobile search page 1 (__INITIAL_STATE__), query = generic product keyword",
  "confidence": "Medium-High (live; sponsored flags not exposed on mobile)",
  "fridoRank": 3,
  "fridoPresent": true,
+ "fridoUrl": "https://www.flipkart.com/search?q=Men's%20Comfort%20Dual%20Strap%20Sandals",
  "results": [
   {
    "pos": 1,
-   "title": "WALKAROO Men Casual",
+   "title": "AMICO Men Sandals",
+   "brand": "AMICO",
    "price": null,
-   "rating": 4,
-   "ratings": 4744,
+   "rating": 3.8,
+   "ratings": 7750,
    "isFrido": false
   },
   {
    "pos": 2,
-   "title": "WALKAROO Men Sandals",
+   "title": "AMICO Men Casual",
+   "brand": "AMICO",
    "price": null,
-   "rating": 4.2,
-   "ratings": 1806,
+   "rating": 3.7,
+   "ratings": 101520,
    "isFrido": false
   },
   {
    "pos": 3,
    "title": "Frido Comfort Dual Strap Footwear With Bounce Back Cushioned Footbed Adjustable Velcro Men Casual",
+   "brand": "Frido",
    "price": null,
    "rating": 4.4,
-   "ratings": 136,
+   "ratings": 145,
    "isFrido": true
   },
   {
    "pos": 4,
-   "title": "Frido Cloud Comfort Diabetic Ortho Arch Support for Pain Relief Anti-Skid Sole Cushion Men Sandals",
+   "title": "UNDERROUTE Stylish Dual Strap Buckle Design Men Sandals",
+   "brand": "UNDERROUTE",
    "price": null,
-   "rating": 4.2,
-   "ratings": 144,
-   "isFrido": true
+   "rating": 3.8,
+   "ratings": 742,
+   "isFrido": false
   },
   {
    "pos": 5,
-   "title": "Frido Unisex Cloud Comfort Arch Support Orthopedic Soft Home Chappal with Anti-Skid Sole Slippers",
+   "title": "Soluxe Men Sandals",
+   "brand": "Soluxe",
    "price": null,
-   "rating": 4.2,
-   "ratings": 580,
-   "isFrido": true
+   "rating": 3.9,
+   "ratings": 279,
+   "isFrido": false
   },
   {
    "pos": 6,
-   "title": "Samyra Men Sandals",
+   "title": "overstar Men Sandals",
+   "brand": "overstar",
    "price": null,
-   "rating": 3.6,
-   "ratings": 175,
+   "rating": 0,
+   "ratings": 0,
    "isFrido": false
   },
   {
    "pos": 7,
-   "title": "Samyra Men Casual",
+   "title": "Mast & Harbour Men Sandals",
+   "brand": "Mast & Harbour",
    "price": null,
    "rating": 0,
-   "ratings": null,
+   "ratings": 0,
+   "isFrido": false
+  },
+  {
+   "pos": 8,
+   "title": "corsac Men Flats",
+   "brand": "corsac",
+   "price": null,
+   "rating": 0,
+   "ratings": 0,
+   "isFrido": false
+  },
+  {
+   "pos": 9,
+   "title": "Rivi9 Men Sandals",
+   "brand": "Rivi9",
+   "price": null,
+   "rating": 0,
+   "ratings": 0,
+   "isFrido": false
+  },
+  {
+   "pos": 10,
+   "title": "PODDAR Men Flats",
+   "brand": "PODDAR",
+   "price": null,
+   "rating": 0,
+   "ratings": 0,
+   "isFrido": false
+  },
+  {
+   "pos": 11,
+   "title": "AMICO Men Flats",
+   "brand": "AMICO",
+   "price": null,
+   "rating": 4,
+   "ratings": 9,
    "isFrido": false
   }
  ],

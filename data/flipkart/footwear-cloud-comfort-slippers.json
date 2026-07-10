@@ -1,14 +1,141 @@
 {
  "category": "footwear-cloud-comfort-slippers",
  "marketplace": "flipkart",
- "keyword": "Frido Cloud Comfort Slippers",
+ "keyword": "Comfort Slippers",
+ "brandKeyword": "Frido Cloud Comfort Slippers",
  "capturedAt": "2026-07-08",
- "method": "Live scrape flipkart.com mobile search page 1 (__INITIAL_STATE__), query = exact SKU name",
- "confidence": "Low (fetch blocked)",
- "fridoRank": null,
- "fridoPresent": false,
- "results": [],
- "notes": [
-  "Live fetch failed after retries — needs re-verification."
- ]
+ "method": "Live scrape flipkart.com mobile search page 1 (__INITIAL_STATE__), query = generic product keyword",
+ "confidence": "Medium-High (live; sponsored flags not exposed on mobile)",
+ "fridoRank": 8,
+ "fridoPresent": true,
+ "fridoUrl": "https://www.flipkart.com/search?q=Comfort%20Slippers",
+ "results": [
+  {
+   "pos": 1,
+   "title": "DUCKINS Cosco Men’s Sports Shoes | Stylish Comfortable Lightweight & Durable Outdoors For Men",
+   "brand": "DUCKINS",
+   "price": null,
+   "rating": 3.7,
+   "ratings": 494,
+   "isFrido": false
+  },
+  {
+   "pos": 2,
+   "title": "DUCKINS Men Sports Running Shoes Lightweight Breathable Anti Skid Sneakers White Casuals For Men",
+   "brand": "DUCKINS",
+   "price": null,
+   "rating": 2.7,
+   "ratings": 3,
+   "isFrido": false
+  },
+  {
+   "pos": 3,
+   "title": "DUCKINS Premium Sports ,Gym, Trending, Stylish Running Shoes For Men Outdoors For Men",
+   "brand": "DUCKINS",
+   "price": null,
+   "rating": 0,
+   "ratings": null,
+   "isFrido": false
+  },
+  {
+   "pos": 4,
+   "title": "DUCKINS Jimmy Cricket Shoes | Stylish Comfortable Lightweight & Durable Outdoors For Men",
+   "brand": "DUCKINS",
+   "price": null,
+   "rating": 3.7,
+   "ratings": 14,
+   "isFrido": false
+  },
+  {
+   "pos": 5,
+   "title": "DUCKINS Outlander Men Trekking Shoes High Grip Lightweight Breathable Hiking Shoes High Tops For Men",
+   "brand": "DUCKINS",
+   "price": null,
+   "rating": 0,
+   "ratings": null,
+   "isFrido": false
+  },
+  {
+   "pos": 6,
+   "title": "DOCTOR FEEL SOFT Men Daily Wear Slippers with Comfortable Soft Sole and Long Lasting Support! Slippers",
+   "brand": "DOCTOR FEEL SOFT",
+   "price": null,
+   "rating": 4.3,
+   "ratings": 1200,
+   "isFrido": false
+  },
+  {
+   "pos": 7,
+   "title": "Footup Men 4 Pair Comfortable|Ultra-Light|Stylish and Trendy|Flip Flops Flip Flops",
+   "brand": "Footup",
+   "price": null,
+   "rating": 3.6,
+   "ratings": 110080,
+   "isFrido": false
+  },
+  {
+   "pos": 8,
+   "title": "Frido Unisex Cloud Comfort Arch Support Orthopedic Soft Home Chappal with Anti-Skid Sole Slippers",
+   "brand": "Frido",
+   "price": null,
+   "rating": 4.2,
+   "ratings": 585,
+   "isFrido": true
+  },
+  {
+   "pos": 9,
+   "title": "DUOSOFT Women Doctor|Orthopedic|Lightweight|Antiskid Non Slip Slippers",
+   "brand": "DUOSOFT",
+   "price": null,
+   "rating": 4.1,
+   "ratings": 46135,
+   "isFrido": false
+  },
+  {
+   "pos": 10,
+   "title": "Ribaxon Men Flip Flops",
+   "brand": "Ribaxon",
+   "price": null,
+   "rating": 3.9,
+   "ratings": 31,
+   "isFrido": false
+  },
+  {
+   "pos": 11,
+   "title": "FOOTFLOW Women Flip Flops",
+   "brand": "FOOTFLOW",
+   "price": null,
+   "rating": 0,
+   "ratings": 0,
+   "isFrido": false
+  },
+  {
+   "pos": 12,
+   "title": "PUMA Men Royalcat Comfort Slides",
+   "brand": "PUMA",
+   "price": null,
+   "rating": 4.2,
+   "ratings": 9648,
+   "isFrido": false
+  },
+  {
+   "pos": 13,
+   "title": "Doctor Health Super Soft Men Newly Launch Stylish | Cushioned | Comfortable | Breathable | Adjustable Strap Slippers",
+   "brand": "Doctor Health Super Soft",
+   "price": null,
+   "rating": 3.6,
+   "ratings": 5462,
+   "isFrido": false
+  },
+  {
+   "pos": 14,
+   "title": "Doctor Health Super Soft Men Newly launch Soft Comfortable Ortho Diabetic Lightweight Antiskid Slippers",
+   "brand": "Doctor Health Super Soft",
+   "price": null,
+   "rating": 4.1,
+   "ratings": 7708,
+   "isFrido": false
+  }
+ ],
+ "notes": []
 }

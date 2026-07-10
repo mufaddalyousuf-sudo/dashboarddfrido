@@ -1,32 +1,37 @@
 {
  "category": "footwear-women-s-arch-comfort-wedge-sandals-buckle-strap",
  "marketplace": "flipkart",
- "keyword": "Frido Women's Arch Comfort Wedge Sandals - Buckle Strap",
+ "keyword": "Women's Arch Comfort Wedge Sandals Buckle Strap",
+ "brandKeyword": "Frido Women's Arch Comfort Wedge Sandals - Buckle Strap",
  "capturedAt": "2026-07-08",
- "method": "Live scrape flipkart.com mobile search page 1 (__INITIAL_STATE__), query = exact SKU name",
+ "method": "Live scrape flipkart.com mobile search page 1 (__INITIAL_STATE__), query = generic product keyword",
  "confidence": "Medium-High (live; sponsored flags not exposed on mobile)",
- "fridoRank": 1,
+ "fridoRank": 10,
  "fridoPresent": true,
+ "fridoUrl": "https://www.flipkart.com/search?q=Women's%20Arch%20Comfort%20Wedge%20Sandals%20Buckle%20Strap",
  "results": [
   {
    "pos": 1,
-   "title": "Frido Cloud Comfort Arch & Heel Support with Anti-Skid Sole, Adjustable Buckle Strap Women Sandals",
+   "title": "WALKAROO Women Casual",
+   "brand": "WALKAROO",
    "price": null,
    "rating": 4.2,
-   "ratings": 144,
-   "isFrido": true
+   "ratings": 138,
+   "isFrido": false
   },
   {
    "pos": 2,
-   "title": "KOWUS Women Wedges",
+   "title": "B&B Women Wedges",
+   "brand": "B&B",
    "price": null,
-   "rating": 0,
-   "ratings": 0,
+   "rating": 4,
+   "ratings": 6,
    "isFrido": false
   },
   {
    "pos": 3,
-   "title": "ANGO Women Wedges",
+   "title": "BSKSTore Women Wedges",
+   "brand": "BSKSTore",
    "price": null,
    "rating": 0,
    "ratings": 0,
@@ -34,23 +39,26 @@
   },
   {
    "pos": 4,
-   "title": "AVSSIS Women Wedges",
+   "title": "Delize Women Wedges",
+   "brand": "Delize",
    "price": null,
-   "rating": 4.1,
-   "ratings": 227,
+   "rating": 0,
+   "ratings": 0,
    "isFrido": false
   },
   {
    "pos": 5,
-   "title": "Froh Feet Women Wedges",
+   "title": "Xcen Women Wedges",
+   "brand": "Xcen",
    "price": null,
-   "rating": 4.1,
-   "ratings": 249,
+   "rating": 0,
+   "ratings": 0,
    "isFrido": false
   },
   {
    "pos": 6,
-   "title": "ERIDANI Women Wedges",
+   "title": "TRYME Women Wedges",
+   "brand": "TRYME",
    "price": null,
    "rating": 0,
    "ratings": 0,
@@ -58,10 +66,65 @@
   },
   {
    "pos": 7,
-   "title": "HARSHUDREAM Women Wedges",
+   "title": "aerowalk Women Wedges",
+   "brand": "aerowalk",
+   "price": null,
+   "rating": 5,
+   "ratings": 5,
+   "isFrido": false
+  },
+  {
+   "pos": 8,
+   "title": "ZORILUXE Women Wedges",
+   "brand": "ZORILUXE",
+   "price": null,
+   "rating": 0,
+   "ratings": 0,
+   "isFrido": false
+  },
+  {
+   "pos": 9,
+   "title": "Deals4you Women Wedges",
+   "brand": "Deals4you",
+   "price": null,
+   "rating": 0,
+   "ratings": 0,
+   "isFrido": false
+  },
+  {
+   "pos": 10,
+   "title": "Frido Cloud Comfort Arch & Heel Support with Anti-Skid Sole, Adjustable Buckle Strap Women Sandals",
+   "brand": "Frido",
    "price": null,
    "rating": 4.2,
-   "ratings": 197,
+   "ratings": 146,
+   "isFrido": true
+  },
+  {
+   "pos": 11,
+   "title": "FAUSTO Fashion Hook and Loop Formal Office Platform Heel Wedges Slip On For Women",
+   "brand": "FAUSTO",
+   "price": null,
+   "rating": 3.9,
+   "ratings": 138,
+   "isFrido": false
+  },
+  {
+   "pos": 12,
+   "title": "FAUSTO Women Wedges",
+   "brand": "FAUSTO",
+   "price": null,
+   "rating": 4,
+   "ratings": 23,
+   "isFrido": false
+  },
+  {
+   "pos": 13,
+   "title": "FAUSTO Formal Back Open Platform Wedge Heel Mule Shoes Slip On For Women",
+   "brand": "FAUSTO",
+   "price": null,
+   "rating": 4.1,
+   "ratings": 500,
    "isFrido": false
   }
  ],

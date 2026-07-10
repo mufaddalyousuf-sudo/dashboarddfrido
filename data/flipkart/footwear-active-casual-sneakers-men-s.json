@@ -1,75 +1,139 @@
 {
  "category": "footwear-active-casual-sneakers-men-s",
  "marketplace": "flipkart",
- "keyword": "Frido Active Casual Sneakers - Men's",
+ "keyword": "Casual Sneakers Men's",
+ "brandKeyword": "Frido Active Casual Sneakers - Men's",
  "capturedAt": "2026-07-08",
- "method": "Live scrape flipkart.com mobile search page 1 (__INITIAL_STATE__), query = exact SKU name",
+ "method": "Live scrape flipkart.com mobile search page 1 (__INITIAL_STATE__), query = generic product keyword",
  "confidence": "Medium-High (live; sponsored flags not exposed on mobile)",
- "fridoRank": 1,
- "fridoPresent": true,
+ "fridoRank": null,
+ "fridoPresent": false,
+ "fridoUrl": "https://www.flipkart.com/search?q=Casual%20Sneakers%20Men's",
  "results": [
   {
    "pos": 1,
-   "title": "Frido Cloud Comfort Light Sports Lace-up Shoes with Zero-Drop Design & Wide Toe Box Sneakers For Men",
+   "title": "aadi Sneakers For Men",
+   "brand": "aadi",
    "price": null,
-   "rating": 4.2,
-   "ratings": 139,
-   "isFrido": true
+   "rating": 3.6,
+   "ratings": 122602,
+   "isFrido": false
   },
   {
    "pos": 2,
-   "title": "Frido Active Shoes | Breathable Mesh, Cushioned Footbed & Zero-Drop Sole For Dailywear Sneakers For Men",
+   "title": "Aeonik Premium White Stylish Casual Sneakers For Men",
+   "brand": "Aeonik",
    "price": null,
-   "rating": 4.7,
-   "ratings": 15,
-   "isFrido": true
+   "rating": 3.5,
+   "ratings": 13,
+   "isFrido": false
   },
   {
    "pos": 3,
-   "title": "Frido Active Shoes | Breathable Mesh, Cushioned Footbed & Zero-Drop Sole For Dailywear Sneakers For Women",
+   "title": "BeeOne Casual Shoes for Men | Elegantly Rounded Front, Soothing Insole Sneakers Sneakers For Men",
+   "brand": "BeeOne",
    "price": null,
-   "rating": 5,
-   "ratings": 4,
-   "isFrido": true
+   "rating": 3.4,
+   "ratings": 367,
+   "isFrido": false
   },
   {
    "pos": 4,
-   "title": "Frido Cloud Comfort Casual Sports Slip-On Shoes, Zero-Drop Barefoot With Wide Toe Box Sneakers For Men",
+   "title": "City Soles Stylish Lightweight Canvas Sneakers for Men & Boys Sneakers For Men",
+   "brand": "City Soles",
    "price": null,
-   "rating": 4.2,
-   "ratings": 80,
-   "isFrido": true
+   "rating": 4.1,
+   "ratings": 4419,
+   "isFrido": false
   },
   {
    "pos": 5,
-   "title": "ADIDAS STREETALK Sneakers For Men",
+   "title": "tigonis Sneakers For Men",
+   "brand": "tigonis",
    "price": null,
-   "rating": 4.3,
-   "ratings": 1727,
+   "rating": 0,
+   "ratings": 0,
    "isFrido": false
   },
   {
    "pos": 6,
-   "title": "ADIDAS ExcelCourt M High Tops For Men",
+   "title": "Pocy Shoes Casual Sneakers For Men Sneakers For Men",
+   "brand": "Pocy Shoes",
    "price": null,
-   "rating": 4.1,
-   "ratings": 20118,
+   "rating": 0,
+   "ratings": 0,
    "isFrido": false
   },
   {
    "pos": 7,
+   "title": "KEE5 KEE5 Men Stylish Casual Retro Sneakers Daily Use Comfortable White 7 UK/IND Sneakers For Men",
+   "brand": "KEE5",
+   "price": null,
+   "rating": 0,
+   "ratings": 0,
+   "isFrido": false
+  },
+  {
+   "pos": 8,
+   "title": "ADIDAS PARK ST 2.0 IKD Sneakers For Men",
+   "brand": "ADIDAS",
+   "price": null,
+   "rating": 4.2,
+   "ratings": 56,
+   "isFrido": false
+  },
+  {
+   "pos": 9,
+   "title": "Haux All-Day Comfort TPR Sole Lightweight Training Shoes Sneakers For Men",
+   "brand": "Haux",
+   "price": null,
+   "rating": 0,
+   "ratings": 0,
+   "isFrido": false
+  },
+  {
+   "pos": 10,
+   "title": "PUMA Smashic Sneakers For Men",
+   "brand": "PUMA",
+   "price": null,
+   "rating": 4.2,
+   "ratings": 39005,
+   "isFrido": false
+  },
+  {
+   "pos": 11,
+   "title": "ADIDAS STREETALK Sneakers For Men",
+   "brand": "ADIDAS",
+   "price": null,
+   "rating": 4.3,
+   "ratings": 1737,
+   "isFrido": false
+  },
+  {
+   "pos": 12,
+   "title": "ADIDAS ExcelCourt M Basketball Shoes For Men",
+   "brand": "ADIDAS",
+   "price": null,
+   "rating": 4.1,
+   "ratings": 20130,
+   "isFrido": false
+  },
+  {
+   "pos": 13,
    "title": "ADIDAS ADVANTAGE 2.0 IKD Tennis Shoes For Men",
+   "brand": "ADIDAS",
    "price": null,
    "rating": 3.9,
    "ratings": 346,
    "isFrido": false
   },
   {
-   "pos": 8,
+   "pos": 14,
    "title": "ADIDAS Blockz Sneaker Sneakers For Men",
+   "brand": "ADIDAS",
    "price": null,
-   "rating": 4,
-   "ratings": 4657,
+   "rating": 3.9,
+   "ratings": 5609,
    "isFrido": false
   }
  ],

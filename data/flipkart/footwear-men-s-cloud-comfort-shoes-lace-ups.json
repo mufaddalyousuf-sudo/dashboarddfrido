@@ -1,84 +1,140 @@
 {
  "category": "footwear-men-s-cloud-comfort-shoes-lace-ups",
  "marketplace": "flipkart",
- "keyword": "Frido Men's Cloud Comfort Shoes - Lace Ups",
+ "keyword": "Men's Comfort Shoes Lace Ups",
+ "brandKeyword": "Frido Men's Cloud Comfort Shoes - Lace Ups",
  "capturedAt": "2026-07-08",
- "method": "Live scrape flipkart.com mobile search page 1 (__INITIAL_STATE__), query = exact SKU name",
+ "method": "Live scrape flipkart.com mobile search page 1 (__INITIAL_STATE__), query = generic product keyword",
  "confidence": "Medium-High (live; sponsored flags not exposed on mobile)",
- "fridoRank": 5,
- "fridoPresent": true,
+ "fridoRank": null,
+ "fridoPresent": false,
+ "fridoUrl": "https://www.flipkart.com/search?q=Men's%20Comfort%20Shoes%20Lace%20Ups",
  "results": [
   {
    "pos": 1,
-   "title": "ADIDAS STREETALK Sneakers For Men",
+   "title": "KATENIA Formal Oxford Oxford For Men",
+   "brand": "KATENIA",
    "price": null,
-   "rating": 4.3,
-   "ratings": 1727,
+   "rating": 4,
+   "ratings": 307,
    "isFrido": false
   },
   {
    "pos": 2,
-   "title": "ADIDAS ExcelCourt M High Tops For Men",
+   "title": "KATENIA Formal shoes for Men's Lace Up For Men",
+   "brand": "KATENIA",
    "price": null,
-   "rating": 4.1,
-   "ratings": 20118,
+   "rating": 3.7,
+   "ratings": 554,
    "isFrido": false
   },
   {
    "pos": 3,
-   "title": "ADIDAS ADVANTAGE 2.0 IKD Tennis Shoes For Men",
+   "title": "KATENIA Brown Office Wear & Party Wear Semi Formal shoes Slip On For Men",
+   "brand": "KATENIA",
    "price": null,
-   "rating": 3.9,
-   "ratings": 346,
+   "rating": 4.1,
+   "ratings": 736,
    "isFrido": false
   },
   {
    "pos": 4,
-   "title": "ADIDAS Blockz Sneaker Sneakers For Men",
+   "title": "KATENIA Formal Shoes Lace Up For Men",
+   "brand": "KATENIA",
    "price": null,
-   "rating": 4,
-   "ratings": 4657,
+   "rating": 3.6,
+   "ratings": 240,
    "isFrido": false
   },
   {
    "pos": 5,
-   "title": "Frido Active Shoes | Breathable Mesh, Cushioned Footbed & Zero-Drop Sole For Dailywear Sneakers For Men",
+   "title": "KATENIA Black Office Wear & Party Wear Semi Formal shoes Lace Up For Men",
+   "brand": "KATENIA",
    "price": null,
-   "rating": 4.7,
-   "ratings": 15,
-   "isFrido": true
+   "rating": 3.7,
+   "ratings": 408,
+   "isFrido": false
   },
   {
    "pos": 6,
-   "title": "Frido Active Walking Shoes | Zero-Drop Sole with Wide Toe Box for Natural Movement Walking Shoes For Men",
+   "title": "BeeOne Casual Shoes for Men | Elegantly Rounded Front, Soothing Insole Sneakers Sneakers For Men",
+   "brand": "BeeOne",
    "price": null,
-   "rating": 0,
-   "ratings": 0,
-   "isFrido": true
+   "rating": 3.4,
+   "ratings": 367,
+   "isFrido": false
   },
   {
    "pos": 7,
-   "title": "Frido Cloud Comfort Light Sports Lace-up Shoes with Zero-Drop Design & Wide Toe Box Sneakers For Men",
+   "title": "CAMPUS DASHO Running Shoes For Men",
+   "brand": "CAMPUS",
    "price": null,
-   "rating": 4.2,
-   "ratings": 139,
-   "isFrido": true
+   "rating": 4.7,
+   "ratings": 3,
+   "isFrido": false
   },
   {
    "pos": 8,
-   "title": "Frido Cloud Comfort Casual Sports Slip-On Shoes, Zero-Drop Barefoot With Wide Toe Box Casuals For Men",
+   "title": "Skechers SUMMITS - FIELD DAY Sneakers For Men",
+   "brand": "Skechers",
    "price": null,
-   "rating": 4.2,
-   "ratings": 80,
-   "isFrido": true
+   "rating": 4.4,
+   "ratings": 6275,
+   "isFrido": false
   },
   {
    "pos": 9,
-   "title": "Frido Cloud Comfort Light Sports Lace-up Shoes with Zero-Drop Design & Wide Toe Box Casuals For Women",
+   "title": "B-Fox Men's Leather Officer Uniform Shoes Light Weight Ultimate Comfort Outdoors For Men",
+   "brand": "B-Fox",
    "price": null,
-   "rating": 4.2,
-   "ratings": 31,
-   "isFrido": true
+   "rating": 3.9,
+   "ratings": 2115,
+   "isFrido": false
+  },
+  {
+   "pos": 10,
+   "title": "Zixer Mens Glossy Office Party Wedding Laced Black Formal Shoe For Men Stylish Boys Lace Up For Men",
+   "brand": "Zixer",
+   "price": null,
+   "rating": 0,
+   "ratings": 0,
+   "isFrido": false
+  },
+  {
+   "pos": 11,
+   "title": "Bestows Men’s Premium Glossy Patent Formal Shoes | Lace-Up & Office Shoes Derby For Men",
+   "brand": "Bestows",
+   "price": null,
+   "rating": 0,
+   "ratings": 0,
+   "isFrido": false
+  },
+  {
+   "pos": 12,
+   "title": "Zixer Mens Glossy Office Party Wedding Lace-Up Tan Formal Shoe For Men Stylish Boys Lace Up For Men",
+   "brand": "Zixer",
+   "price": null,
+   "rating": 0,
+   "ratings": 0,
+   "isFrido": false
+  },
+  {
+   "pos": 13,
+   "title": "Zixer Mens Glossy Office Party Wedding Patent Brown Formal Shoe For Men Stylish Boys Lace Up For Men",
+   "brand": "Zixer",
+   "price": null,
+   "rating": 4.3,
+   "ratings": 3,
+   "isFrido": false
+  },
+  {
+   "pos": 14,
+   "title": "Asics GT-2000 13 Outdoors For Men",
+   "brand": "Asics",
+   "price": null,
+   "rating": 4.3,
+   "ratings": 2463,
+   "isFrido": false
   }
  ],
  "notes": []

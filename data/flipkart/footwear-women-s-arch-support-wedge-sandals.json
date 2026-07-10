@@ -1,83 +1,103 @@
 {
  "category": "footwear-women-s-arch-support-wedge-sandals",
  "marketplace": "flipkart",
- "keyword": "Frido Women's Arch Support Wedge Sandals",
+ "keyword": "Women's Arch Support Wedge Sandals",
+ "brandKeyword": "Frido Women's Arch Support Wedge Sandals",
  "capturedAt": "2026-07-08",
- "method": "Live scrape flipkart.com mobile search page 1 (__INITIAL_STATE__), query = exact SKU name",
+ "method": "Live scrape flipkart.com mobile search page 1 (__INITIAL_STATE__), query = generic product keyword",
  "confidence": "Medium-High (live; sponsored flags not exposed on mobile)",
- "fridoRank": 1,
+ "fridoRank": 3,
  "fridoPresent": true,
+ "fridoUrl": "https://www.flipkart.com/search?q=Women's%20Arch%20Support%20Wedge%20Sandals",
  "results": [
   {
    "pos": 1,
-   "title": "Frido Arch Support Sandals, Ortho Cushion Platform Heels, Anti-Slip Sole For Dailywear Women Flats",
+   "title": "Adda Women Wedges",
+   "brand": "Adda",
    "price": null,
-   "rating": 0,
-   "ratings": 0,
-   "isFrido": true
+   "rating": 4.2,
+   "ratings": 18,
+   "isFrido": false
   },
   {
    "pos": 2,
-   "title": "Frido Unisex Cloud Comfort Arch Support Orthopedic Soft Home Chappal with Anti-Skid Sole Slippers",
+   "title": "Adda Women Slippers",
+   "brand": "Adda",
    "price": null,
-   "rating": 4.2,
-   "ratings": 580,
-   "isFrido": true
+   "rating": 3.9,
+   "ratings": 122,
+   "isFrido": false
   },
   {
    "pos": 3,
-   "title": "Frido Cloud Comfort Arch & Heel Support with Anti-Skid Sole, Adjustable Buckle Strap Women Sandals",
+   "title": "Frido Arch Support Sandals, Ortho Cushion Platform Heels, Anti-Slip Sole For Dailywear Women Flats",
+   "brand": "Frido",
    "price": null,
-   "rating": 4.2,
-   "ratings": 144,
+   "rating": 0,
+   "ratings": 0,
    "isFrido": true
   },
   {
    "pos": 4,
-   "title": "SHOETOPIA Women Wedges",
+   "title": "WFS Women Wedges",
+   "brand": "WFS",
    "price": null,
    "rating": 4,
-   "ratings": 3,
+   "ratings": 926,
    "isFrido": false
   },
   {
    "pos": 5,
-   "title": "MEDIFEET Women Wedges",
+   "title": "DHR FOOWEAR Women Wedges",
+   "brand": "DHR FOOWEAR",
    "price": null,
-   "rating": 4.4,
-   "ratings": 38,
+   "rating": 0,
+   "ratings": 0,
    "isFrido": false
   },
   {
    "pos": 6,
-   "title": "Scholl Women Wedges",
+   "title": "EVOLTAR Women Wedges",
+   "brand": "EVOLTAR",
    "price": null,
-   "rating": 4.6,
-   "ratings": 5,
+   "rating": 0,
+   "ratings": 0,
    "isFrido": false
   },
   {
    "pos": 7,
-   "title": "Frido Traditional Kolhapuri Leather, Memory Foam, Adjustable Ethnic Puneri Footwear Women Sandals",
+   "title": "Rimezs Women Wedges",
+   "brand": "Rimezs",
    "price": null,
    "rating": 0,
    "ratings": 0,
-   "isFrido": true
+   "isFrido": false
   },
   {
    "pos": 8,
-   "title": "WALKAROO Women Casual",
+   "title": "BSKSTore Women Wedges",
+   "brand": "BSKSTore",
    "price": null,
-   "rating": 4.2,
-   "ratings": 692,
+   "rating": 0,
+   "ratings": 0,
    "isFrido": false
   },
   {
    "pos": 9,
-   "title": "WALKAROO Women Wedges",
+   "title": "EL PASO Women Heels",
+   "brand": "EL PASO",
    "price": null,
-   "rating": 4.3,
-   "ratings": 593,
+   "rating": 0,
+   "ratings": 0,
+   "isFrido": false
+  },
+  {
+   "pos": 10,
+   "title": "WALKAROO Women Casual",
+   "brand": "WALKAROO",
+   "price": null,
+   "rating": 4.2,
+   "ratings": 138,
    "isFrido": false
   }
  ],

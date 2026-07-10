@@ -1,60 +1,140 @@
 {
  "category": "footwear-active-walking-shoes-men-s",
  "marketplace": "flipkart",
- "keyword": "Frido Active Walking Shoes - Men's",
+ "keyword": "Walking Shoes Men's",
+ "brandKeyword": "Frido Active Walking Shoes - Men's",
  "capturedAt": "2026-07-08",
- "method": "Live scrape flipkart.com mobile search page 1 (__INITIAL_STATE__), query = exact SKU name",
+ "method": "Live scrape flipkart.com mobile search page 1 (__INITIAL_STATE__), query = generic product keyword",
  "confidence": "Medium-High (live; sponsored flags not exposed on mobile)",
- "fridoRank": 3,
- "fridoPresent": true,
+ "fridoRank": null,
+ "fridoPresent": false,
+ "fridoUrl": "https://www.flipkart.com/search?q=Walking%20Shoes%20Men's",
  "results": [
   {
    "pos": 1,
    "title": "CAMPUS DRIVO Running Shoes For Men",
+   "brand": "CAMPUS",
    "price": null,
    "rating": 4.3,
-   "ratings": 3667,
+   "ratings": 3704,
    "isFrido": false
   },
   {
    "pos": 2,
    "title": "CAMPUS RAGE Running Shoes For Men",
+   "brand": "CAMPUS",
    "price": null,
    "rating": 4.3,
-   "ratings": 1550,
+   "ratings": 1553,
    "isFrido": false
   },
   {
    "pos": 3,
-   "title": "Frido Active Shoes | Breathable Mesh, Cushioned Footbed & Zero-Drop Sole For Dailywear Sneakers For Men",
+   "title": "Pennon Comfortable and Light Weight sports shoes for men and boys Walking Shoes For Men",
+   "brand": "Pennon",
    "price": null,
-   "rating": 4.7,
-   "ratings": 15,
-   "isFrido": true
+   "rating": 3.4,
+   "ratings": 23,
+   "isFrido": false
   },
   {
    "pos": 4,
-   "title": "Frido Cloud Comfort Casual Sports Slip-On Shoes, Zero-Drop Barefoot With Wide Toe Box Casuals For Men",
+   "title": "HOTSTYLE Velox-740 Chunky Shoes,Loafers Shoes, Running Shoes For Men",
+   "brand": "HOTSTYLE",
    "price": null,
-   "rating": 4.2,
-   "ratings": 80,
-   "isFrido": true
+   "rating": 3.9,
+   "ratings": 23021,
+   "isFrido": false
   },
   {
    "pos": 5,
-   "title": "Frido Cloud Comfort Light Sports Lace-up Shoes with Zero-Drop Design & Wide Toe Box Sneakers For Men",
+   "title": "CAMPUS FLYING FURY Walking Shoes For Men",
+   "brand": "CAMPUS",
    "price": null,
    "rating": 4.2,
-   "ratings": 139,
-   "isFrido": true
+   "ratings": 17533,
+   "isFrido": false
   },
   {
    "pos": 6,
-   "title": "Frido Active Walking Shoes | Zero-Drop Sole with Wide Toe Box for Natural Movement Walking Shoes For Men",
+   "title": "SPRENGE Walking Shoes For Men",
+   "brand": "SPRENGE",
+   "price": null,
+   "rating": 4,
+   "ratings": 17447,
+   "isFrido": false
+  },
+  {
+   "pos": 7,
+   "title": "KILLER Walking Shoes For Men",
+   "brand": "KILLER",
+   "price": null,
+   "rating": 4,
+   "ratings": 27384,
+   "isFrido": false
+  },
+  {
+   "pos": 8,
+   "title": "WROGN Walking Shoes For Men",
+   "brand": "WROGN",
    "price": null,
    "rating": 0,
    "ratings": 0,
-   "isFrido": true
+   "isFrido": false
+  },
+  {
+   "pos": 9,
+   "title": "BOLDFIT Smash Pro Badminton shoes for men anti skid non marking indoor badminton shoes Badminton Shoes For Men",
+   "brand": "BOLDFIT",
+   "price": null,
+   "rating": 4.2,
+   "ratings": 532,
+   "isFrido": false
+  },
+  {
+   "pos": 10,
+   "title": "NIVIA Marathon 2.0 Running Shoes For Men",
+   "brand": "NIVIA",
+   "price": null,
+   "rating": 4.1,
+   "ratings": 4351,
+   "isFrido": false
+  },
+  {
+   "pos": 11,
+   "title": "SPOTWALK SPOTWALK-Mexo Stylish Walking Shoes For Men",
+   "brand": "SPOTWALK",
+   "price": null,
+   "rating": 3.8,
+   "ratings": 1653,
+   "isFrido": false
+  },
+  {
+   "pos": 12,
+   "title": "CLYMB cosko Lace up walking outdoor waterproof running Running Shoes For Men",
+   "brand": "CLYMB",
+   "price": null,
+   "rating": 4,
+   "ratings": 106655,
+   "isFrido": false
+  },
+  {
+   "pos": 13,
+   "title": "CLYMB JUMBO 02 Walking/Outdoor/Gym & Hiking Running Shoes For Men",
+   "brand": "CLYMB",
+   "price": null,
+   "rating": 3.9,
+   "ratings": 11100,
+   "isFrido": false
+  },
+  {
+   "pos": 14,
+   "title": "CLYMB Satas Wht Sky Walking/Outdoor/Gym & Traning Outdoors For Men",
+   "brand": "CLYMB",
+   "price": null,
+   "rating": 3.8,
+   "ratings": 11818,
+   "isFrido": false
   }
  ],
  "notes": []

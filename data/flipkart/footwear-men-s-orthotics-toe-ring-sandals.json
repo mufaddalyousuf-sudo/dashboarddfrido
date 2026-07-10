@@ -1,14 +1,105 @@
 {
  "category": "footwear-men-s-orthotics-toe-ring-sandals",
  "marketplace": "flipkart",
- "keyword": "Frido Men's Orthotics Toe Ring Sandals",
+ "keyword": "Men's Orthotics Toe Ring Sandals",
+ "brandKeyword": "Frido Men's Orthotics Toe Ring Sandals",
  "capturedAt": "2026-07-08",
- "method": "Live scrape flipkart.com mobile search page 1 (__INITIAL_STATE__), query = exact SKU name",
- "confidence": "Low (fetch blocked)",
+ "method": "Live scrape flipkart.com mobile search page 1 (__INITIAL_STATE__), query = generic product keyword",
+ "confidence": "Medium-High (live; sponsored flags not exposed on mobile)",
  "fridoRank": null,
  "fridoPresent": false,
- "results": [],
- "notes": [
-  "Live fetch failed after retries — needs re-verification."
- ]
+ "fridoUrl": "https://www.flipkart.com/search?q=Men's%20Orthotics%20Toe%20Ring%20Sandals",
+ "results": [
+  {
+   "pos": 1,
+   "title": "WALKAROO Men Sandals",
+   "brand": "WALKAROO",
+   "price": null,
+   "rating": 4.1,
+   "ratings": 1947,
+   "isFrido": false
+  },
+  {
+   "pos": 2,
+   "title": "WALKAROO Men Casual",
+   "brand": "WALKAROO",
+   "price": null,
+   "rating": 4,
+   "ratings": 4760,
+   "isFrido": false
+  },
+  {
+   "pos": 3,
+   "title": "Soluxe Men Sandals",
+   "brand": "Soluxe",
+   "price": null,
+   "rating": 3.9,
+   "ratings": 279,
+   "isFrido": false
+  },
+  {
+   "pos": 4,
+   "title": "Nine Step Men Clogs",
+   "brand": "Nine Step",
+   "price": null,
+   "rating": 0,
+   "ratings": 0,
+   "isFrido": false
+  },
+  {
+   "pos": 5,
+   "title": "VEEVORT Men Flats",
+   "brand": "VEEVORT",
+   "price": null,
+   "rating": 0,
+   "ratings": 0,
+   "isFrido": false
+  },
+  {
+   "pos": 6,
+   "title": "arixi nexus Men Flats",
+   "brand": "arixi nexus",
+   "price": null,
+   "rating": 0,
+   "ratings": 0,
+   "isFrido": false
+  },
+  {
+   "pos": 7,
+   "title": "Ortho + Rest Doctor Soft MCR Lightweight for Heel Pain Comfort Wear Men Sandals",
+   "brand": "Ortho + Rest",
+   "price": null,
+   "rating": 4.1,
+   "ratings": 524,
+   "isFrido": false
+  },
+  {
+   "pos": 8,
+   "title": "Doctor Health Super Soft NewlyLaunch Stylish|Cushioned|Orthopedic|Breathable|Adjustable Men Flats",
+   "brand": "Doctor Health Super Soft",
+   "price": null,
+   "rating": 3.9,
+   "ratings": 260,
+   "isFrido": false
+  },
+  {
+   "pos": 9,
+   "title": "Binutop Men Sandals",
+   "brand": "Binutop",
+   "price": null,
+   "rating": 4.2,
+   "ratings": 35,
+   "isFrido": false
+  },
+  {
+   "pos": 10,
+   "title": "Lehar Soft and Comfortable Orthopedic Pain Relief Men Flats",
+   "brand": "Lehar",
+   "price": null,
+   "rating": 3.9,
+   "ratings": 40,
+   "isFrido": false
+  }
+ ],
+ "notes": []
 }

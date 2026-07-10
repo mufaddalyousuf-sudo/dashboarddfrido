@@ -1,14 +1,87 @@
 {
  "category": "footwear-women-s-cloud-comfort-sandal-toeless",
  "marketplace": "flipkart",
- "keyword": "Frido Women's Cloud Comfort Sandal - Toeless",
+ "keyword": "Women's Comfort Sandal Toeless",
+ "brandKeyword": "Frido Women's Cloud Comfort Sandal - Toeless",
  "capturedAt": "2026-07-08",
- "method": "Live scrape flipkart.com mobile search page 1 (__INITIAL_STATE__), query = exact SKU name",
- "confidence": "Low (fetch blocked)",
- "fridoRank": null,
- "fridoPresent": false,
- "results": [],
- "notes": [
-  "Live fetch failed after retries — needs re-verification."
- ]
+ "method": "Live scrape flipkart.com mobile search page 1 (__INITIAL_STATE__), query = generic product keyword",
+ "confidence": "Medium-High (live; sponsored flags not exposed on mobile)",
+ "fridoRank": 5,
+ "fridoPresent": true,
+ "fridoUrl": "https://www.flipkart.com/search?q=Women's%20Comfort%20Sandal%20Toeless",
+ "results": [
+  {
+   "pos": 1,
+   "title": "WALKAROO Women Casual",
+   "brand": "WALKAROO",
+   "price": null,
+   "rating": 4.2,
+   "ratings": 138,
+   "isFrido": false
+  },
+  {
+   "pos": 2,
+   "title": "aerowalk Women Wedges",
+   "brand": "aerowalk",
+   "price": null,
+   "rating": 5,
+   "ratings": 5,
+   "isFrido": false
+  },
+  {
+   "pos": 3,
+   "title": "TOUCH IN TOUCH Women Wedges",
+   "brand": "TOUCH IN TOUCH",
+   "price": null,
+   "rating": 0,
+   "ratings": 0,
+   "isFrido": false
+  },
+  {
+   "pos": 4,
+   "title": "Ramkudi Women Flats",
+   "brand": "Ramkudi",
+   "price": null,
+   "rating": 0,
+   "ratings": 0,
+   "isFrido": false
+  },
+  {
+   "pos": 5,
+   "title": "Frido Cloud Comfort Open Toe with Adjustable Z-Strap, Cushioned PU Footbed Women Flats",
+   "brand": "Frido",
+   "price": null,
+   "rating": 4.2,
+   "ratings": 34,
+   "isFrido": true
+  },
+  {
+   "pos": 6,
+   "title": "DOCTOR EXTRA SOFT Women Flat Memory Foam Slippers/FlipFlops Comfortable Sandals Adjustable Strap Slippers",
+   "brand": "DOCTOR EXTRA SOFT",
+   "price": null,
+   "rating": 4.3,
+   "ratings": 1304,
+   "isFrido": false
+  },
+  {
+   "pos": 7,
+   "title": "Paragon EPUK7035L Durable Dailywear Women Flats",
+   "brand": "Paragon",
+   "price": null,
+   "rating": 4.4,
+   "ratings": 49,
+   "isFrido": false
+  },
+  {
+   "pos": 8,
+   "title": "SAYERA Women Flats",
+   "brand": "SAYERA",
+   "price": null,
+   "rating": 4.1,
+   "ratings": 208,
+   "isFrido": false
+  }
+ ],
+ "notes": []
 }

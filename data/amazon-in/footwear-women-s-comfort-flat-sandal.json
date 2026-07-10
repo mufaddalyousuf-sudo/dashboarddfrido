@@ -1,17 +1,19 @@
 {
  "category": "footwear-women-s-comfort-flat-sandal",
  "marketplace": "amazon-in",
- "keyword": "Frido Women's Comfort Flat Sandal",
+ "keyword": "Women's Comfort Flat Sandal",
+ "brandKeyword": "Frido Women's Comfort Flat Sandal",
  "capturedAt": "2026-07-08",
- "method": "Live scrape amazon.in search page 1, query = exact SKU name (brand-qualified)",
+ "method": "Live scrape amazon.in search page 1, query = generic product keyword (brand + Frido product-line/marketing words stripped) — the competitive rank signal, not a brand-qualified existence check",
  "confidence": "High (live snapshot, single keyword)",
  "fridoOrganicRank": 1,
- "fridoSponsoredSlot": 5,
+ "fridoSponsoredSlot": null,
+ "fridoUrl": "https://www.amazon.in/dp/B0GRNL1PD8",
  "organic": [
   {
-   "asin": "B0GSQ9JVCZ",
-   "badge": "Amazon's Choice",
-   "price": "1,625",
+   "asin": "B0GRNL1PD8",
+   "badge": null,
+   "price": "1,599",
    "rating": "4.3",
    "reviews": "126",
    "title": "Women’s Comfort Flat Sandals | Ethnic Style Slip-On | Super Soft Cushioned Sole, Padded Knit Upper, Breathable & Anti-Skid Zero-Drop | Available in Comfort Flat",
@@ -19,76 +21,49 @@
    "isFridoBrand": true
   },
   {
-   "asin": "B0GSQH86B6",
+   "asin": "B0GW3KPNVF",
    "badge": null,
-   "price": "1,625",
-   "rating": "4.3",
-   "reviews": "126",
-   "title": "Women’s Comfort Flat Sandals | Ethnic Style Slip-On | Super Soft Cushioned Sole, Padded Knit Upper, Breathable & Anti-Skid Zero-Drop | Available in Comfort Flat",
+   "price": "414",
+   "rating": "3.5",
+   "reviews": "3",
+   "title": "Women’s Comfort Flat Sandals|Soft Cushioned Footbed, Lightweight PU Platform Sole|CasualWear,Travel,Outdoor,office wear,Stylish,Trendy Sandals|WLP74038",
    "rank": 2
   },
   {
-   "asin": "B0GSQDBWQZ",
+   "asin": "B0FJ2LBQ4C",
    "badge": null,
-   "price": "1,625",
-   "rating": "4.3",
-   "reviews": "126",
-   "title": "Women’s Comfort Flat Sandals | Ethnic Style Slip-On | Super Soft Cushioned Sole, Padded Knit Upper, Breathable & Anti-Skid Zero-Drop | Available in Comfort Flat",
+   "price": "486",
+   "rating": "3.7",
+   "reviews": "203",
+   "title": "Women Stylish Slippers Wedges I Flat Slip on Sandals I Stylish and Casual for Everyday use I Comfortable & Lightweight for Girls & Ladies",
    "rank": 3
   },
   {
-   "asin": "B0G6JZ8HT2",
+   "asin": "B09W5XF5RR",
    "badge": null,
-   "price": "1,899",
-   "rating": "4.1",
-   "reviews": "320",
-   "title": "Cloud Comfort Orthopaedic Sandals for Women | Arch Support & Heel Cushion | Anti-Slip Sole, Adjustable Buckle | Lightweight Soft PU Footbed | Available in Open ",
+   "price": "549",
+   "rating": "4.3",
+   "reviews": "305",
+   "title": "Women's Slip-on Sandal",
    "rank": 4
   },
   {
-   "asin": "B0G3XKVF3R",
+   "asin": "B0D8QGNQBL",
    "badge": null,
-   "price": "1,899",
-   "rating": "4.1",
-   "reviews": "320",
-   "title": "Cloud Comfort Orthopaedic Sandals for Women | Arch Support & Heel Cushion | Anti-Slip Sole, Adjustable Buckle | Lightweight Soft PU Footbed | Available in Open ",
+   "price": "462",
+   "rating": "4.0",
+   "reviews": "536",
+   "title": "Women Flat Sandal",
    "rank": 5
   },
   {
-   "asin": "B0G6JXBCYV",
+   "asin": "B0D77NB9TD",
    "badge": null,
-   "price": null,
-   "rating": "4.1",
-   "reviews": "320",
-   "title": "Cloud Comfort Orthopaedic Sandals for Women | Arch Support & Heel Cushion | Anti-Slip Sole, Adjustable Buckle | Lightweight Soft PU Footbed | Available in Open ",
+   "price": "462",
+   "rating": "4.0",
+   "reviews": "536",
+   "title": "Women Flat Sandal",
    "rank": 6
-  },
-  {
-   "asin": "B0FS23YK7Q",
-   "badge": "Bestseller",
-   "price": "949",
-   "rating": "4.1",
-   "reviews": "1,744",
-   "title": "Cloud Comfort Slippers for Women & Men | Available in 2 Options- Arch Support & Without Arch |Orthopedic Soft Home Chappal Unisex Slipper, House Slipper with An",
-   "rank": 7
-  },
-  {
-   "asin": "B0G3XKW1ML",
-   "badge": null,
-   "price": "1,899",
-   "rating": "4.1",
-   "reviews": "320",
-   "title": "Cloud Comfort Orthopaedic Sandals for Women | Arch Support & Heel Cushion | Anti-Slip Sole, Adjustable Buckle | Lightweight Soft PU Footbed | Available in Open ",
-   "rank": 8
-  },
-  {
-   "asin": "B0FR9SR3SC",
-   "badge": "Bestseller",
-   "price": "949",
-   "rating": "4.1",
-   "reviews": "1,744",
-   "title": "Cloud Comfort Slippers for Women & Men | Available in 2 Options- Arch Support & Without Arch |Orthopedic Soft Home Chappal Unisex Slipper, House Slipper with An",
-   "rank": 9
   },
   {
    "asin": "B0FBKJ8JSP",
@@ -97,99 +72,125 @@
    "rating": "3.7",
    "reviews": "112",
    "title": "Women’s Orthopedic Comfortable Slip-On Sandals | Stylish Criss-Cross Design | Anti-Skid Sole | Lightweight Flats",
+   "rank": 7
+  },
+  {
+   "asin": "B0GRNH77WX",
+   "badge": null,
+   "price": "1,599",
+   "rating": "4.3",
+   "reviews": "126",
+   "title": "Women’s Comfort Flat Sandals | Ethnic Style Slip-On | Super Soft Cushioned Sole, Padded Knit Upper, Breathable & Anti-Skid Zero-Drop | Available in Comfort Flat",
+   "rank": 8
+  },
+  {
+   "asin": "B0CQHGJ8FC",
+   "badge": null,
+   "price": "907",
+   "rating": "4.0",
+   "reviews": "216",
+   "title": "Women Flat Fashion Sandal",
+   "rank": 9
+  },
+  {
+   "asin": "B0GSKG3MYX",
+   "badge": null,
+   "price": "309",
+   "rating": "3.7",
+   "reviews": "8",
+   "title": "Women's Casual Sandals|WL7645",
    "rank": 10
   }
  ],
  "sponsored": [
   {
-   "asin": "B0G3XJLB6C",
-   "badge": null,
-   "price": "1,899",
-   "rating": "4.1",
-   "reviews": "320",
-   "title": "Cloud Comfort Orthopaedic Sandals for Women | Arch Support & Heel Cushion | Anti-Slip Sole, Adjustable Buckle | Lightweight Soft PU Footbed | Available in Open ",
-   "slot": 1
-  },
-  {
-   "asin": "B0GRNTJVB7",
-   "badge": null,
-   "price": "1,368",
-   "rating": "4.3",
-   "reviews": "126",
-   "title": "Women’s Comfort Flat Sandals | Ethnic Style Slip-On | Super Soft Cushioned Sole, Padded Knit Upper, Breathable & Anti-Skid Zero-Drop | Available in Comfort Flat",
-   "slot": 2
-  },
-  {
-   "asin": "B0FR9GV62S",
-   "badge": "Bestseller",
-   "price": "949",
-   "rating": "4.1",
-   "reviews": "1,744",
-   "title": "Cloud Comfort Slippers for Women & Men | Available in 2 Options- Arch Support & Without Arch |Orthopedic Soft Home Chappal Unisex Slipper, House Slipper with An",
-   "slot": 3
-  },
-  {
-   "asin": "B0H15KXL5K",
-   "badge": null,
-   "price": "989",
-   "rating": "3.9",
-   "reviews": "201",
-   "title": "Women Wedge Heels Thong Sandals| Comfortable Flats Sandals | Comfort Orthopaedic Sandals for Women| Doctor Slippers/Flip-Flops | Arch Support & Heel Cushion | L",
-   "slot": 4
-  },
-  {
-   "asin": "B0GSQGX9Y4",
-   "badge": null,
-   "price": "1,625",
-   "rating": "4.3",
-   "reviews": "126",
-   "title": "Women’s Comfort Flat Sandals | Ethnic Style Slip-On | Super Soft Cushioned Sole, Padded Knit Upper, Breathable & Anti-Skid Zero-Drop | Available in Comfort Flat",
-   "slot": 5,
-   "isFridoBrand": true
-  },
-  {
-   "asin": "B0G6JXX4ZZ",
-   "badge": null,
-   "price": "1,899",
-   "rating": "4.1",
-   "reviews": "320",
-   "title": "Cloud Comfort Orthopaedic Sandals for Women | Arch Support & Heel Cushion | Anti-Slip Sole, Adjustable Buckle | Lightweight Soft PU Footbed | Available in Open ",
-   "slot": 6
-  },
-  {
-   "asin": "B0F6NSBBP3",
-   "badge": null,
-   "price": "1,497",
-   "rating": "3.8",
-   "reviews": "178",
-   "title": "Women's Ultra Lightweight Sandals with Memory Foam Cushion|Stylish & Comfortable|Casual & Non-Slip|Diabetic & Orthopedic Flip Flops with Adjustable Strap Ladies",
-   "slot": 7
-  },
-  {
-   "asin": "B0CDGV68YT",
-   "badge": null,
-   "price": "1,197",
-   "rating": "4.1",
-   "reviews": "1,101",
-   "title": "Women's Flat Memory Foam Slippers/Flip-Flops Fashion Stylish Casual Comfortable Diabetic Orthopedic Lightweight Synthetic Slip-On Sandals With Adjustable Strap ",
-   "slot": 8
-  },
-  {
-   "asin": "B0F1YCKDYD",
-   "badge": null,
-   "price": "499",
-   "rating": "4.0",
-   "reviews": "616",
-   "title": "Women Ultra Soft Cushion Footbed Slipper | Comfortable Light Weight Waterproof Slippers |Adult Flip Flops Mild Acupressure | All Day Wear",
-   "slot": 9
-  },
-  {
    "asin": "B0D4ZGQLL7",
    "badge": null,
    "price": "795",
    "rating": "4.1",
-   "reviews": "769",
+   "reviews": "773",
    "title": "Flats for Women Stylish | Lightweight Comfortable Slippers for Woman | Soft Sole Ladies Footwear for All Day Comfort",
+   "slot": 1
+  },
+  {
+   "asin": "B0FGMYJB9X",
+   "badge": null,
+   "price": "5,599",
+   "rating": null,
+   "reviews": null,
+   "title": "Flowt Brown Women Flat Sandal",
+   "slot": 2
+  },
+  {
+   "asin": "B0G9M1F2YB",
+   "badge": null,
+   "price": "1,294",
+   "rating": "4.2",
+   "reviews": "10",
+   "title": "Women’s Criss Cross Matte Finish Flat Sandals | Comfortable Orthopedic Diabetic-Friendly Memory Foam Footbed | Anti-Skid TPR Sole Casual Slip-On Flats for Ladie",
+   "slot": 3
+  },
+  {
+   "asin": "B0H6TXSM63",
+   "badge": null,
+   "price": "470",
+   "rating": null,
+   "reviews": null,
+   "title": "Women's Lightweight Comfort Sandals | Flower Embellished Toe Ring Style | Casual Everyday Wedge Slippers | Women Flats Slipper",
+   "slot": 4
+  },
+  {
+   "asin": "B09RPVZB6V",
+   "badge": "Bestseller",
+   "price": "499",
+   "rating": "4.0",
+   "reviews": "2,483",
+   "title": "CANVI Stylish | Fancy | Comfortable Women's Ethnic Flats Sandals for Women and Girl, Synthetic Leather Sandals Casual Summer Beach Shoes Sandal",
+   "slot": 5
+  },
+  {
+   "asin": "B0C6TXX4M8",
+   "badge": null,
+   "price": "416",
+   "rating": "4.0",
+   "reviews": "589",
+   "title": "Cross Strap Flat Sandals For Women & Girls",
+   "slot": 6
+  },
+  {
+   "asin": "B0BRL1MKRN",
+   "badge": null,
+   "price": "559",
+   "rating": "4.1",
+   "reviews": "4,083",
+   "title": "Drizzle Soft Slippers for Women, Mild Acupressure, Lightweight, Anti Skid & Slip, Diabetic Footwear for Woman, Home Wear Bathroom Chappal for ladies | Waterproo",
+   "slot": 7
+  },
+  {
+   "asin": "B0FQJRF21X",
+   "badge": null,
+   "price": "599",
+   "rating": "3.3",
+   "reviews": "28",
+   "title": "Women’s Stylish Casual Slip-On Flats | Lightweight Comfortable Sandals | Anti-Slip Sole & Soft Cushioned Footbed for All-Day Comfort",
+   "slot": 8
+  },
+  {
+   "asin": "B0F1Y826CK",
+   "badge": null,
+   "price": "483",
+   "rating": "4.0",
+   "reviews": "617",
+   "title": "Women Ultra Soft Cushion Footbed Slipper | Comfortable Light Weight Waterproof Slippers |Adult Flip Flops Mild Acupressure | All Day Wear",
+   "slot": 9
+  },
+  {
+   "asin": "B0D1342GV5",
+   "badge": null,
+   "price": "597",
+   "rating": "3.9",
+   "reviews": "1,391",
+   "title": "Women's Classic Ultra Soft Flip Flops/Slippers with Cushion FootBed for Adult | Comfortable & Light Weight| Stylish & Anti-Skid| Waterproof & Everyday Slip-on f",
    "slot": 10
   }
  ],

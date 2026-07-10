@@ -1,64 +1,73 @@
 {
  "category": "footwear-puneri-chappal-women",
  "marketplace": "flipkart",
- "keyword": "Frido Puneri Chappal - Women",
+ "keyword": "Puneri Chappal Women",
+ "brandKeyword": "Frido Puneri Chappal - Women",
  "capturedAt": "2026-07-08",
- "method": "Live scrape flipkart.com mobile search page 1 (__INITIAL_STATE__), query = exact SKU name",
+ "method": "Live scrape flipkart.com mobile search page 1 (__INITIAL_STATE__), query = generic product keyword",
  "confidence": "Medium-High (live; sponsored flags not exposed on mobile)",
- "fridoRank": 2,
- "fridoPresent": true,
+ "fridoRank": null,
+ "fridoPresent": false,
+ "fridoUrl": "https://www.flipkart.com/search?q=Puneri%20Chappal%20Women",
  "results": [
   {
    "pos": 1,
-   "title": "WALKAROO Women Casual",
+   "title": "Adda Women Clogs",
+   "brand": "Adda",
    "price": null,
-   "rating": 4.5,
-   "ratings": 86,
+   "rating": 4.2,
+   "ratings": 72,
    "isFrido": false
   },
   {
    "pos": 2,
-   "title": "Frido Comfort Dual Strap Footwear With Bounce Back Cushioned Footbed Adjustable Velcro Men Casual",
+   "title": "Adda Men Slides",
+   "brand": "Adda",
    "price": null,
-   "rating": 4.4,
-   "ratings": 136,
-   "isFrido": true
+   "rating": 3.8,
+   "ratings": 10,
+   "isFrido": false
   },
   {
    "pos": 3,
-   "title": "Frido Cloud Comfort Arch & Heel Support with Anti-Skid Sole, Adjustable Buckle Strap Women Sandals",
+   "title": "Adda Men Slippers",
+   "brand": "Adda",
    "price": null,
    "rating": 4.2,
-   "ratings": 144,
-   "isFrido": true
+   "ratings": 58,
+   "isFrido": false
   },
   {
    "pos": 4,
-   "title": "Frido Unisex Cloud Comfort Orthopedic Soft Home Chappal with Anti-Skid Sole Slippers",
+   "title": "PUMPA Doctor Slippers Women Flip Flops",
+   "brand": "PUMPA Doctor Slippers",
    "price": null,
-   "rating": 4.2,
-   "ratings": 345,
-   "isFrido": true
+   "rating": 4,
+   "ratings": 4,
+   "isFrido": false
   },
   {
    "pos": 5,
-   "title": "Frido Cloud Comfort Diabetic Ortho Arch Support for Pain Relief Anti-Skid Sole Cushion Men Sandals",
+   "title": "Doctor Health Super Soft Women NewlyLaunch|Premium|Orthopaedic|Diabetic|Accupressure|Classic|Comfort|Ultrasoft Flip Flops",
+   "brand": "Doctor Health Super Soft",
    "price": null,
-   "rating": 4.2,
-   "ratings": 144,
-   "isFrido": true
+   "rating": 4.3,
+   "ratings": 732,
+   "isFrido": false
   },
   {
    "pos": 6,
-   "title": "Frido Traditional Kolhapuri Leather, Memory Foam, Adjustable Ethnic Puneri Footwear Women Sandals",
+   "title": "yoho Women Bubbles Ortho s Soft and comfortable Mystery Slippers",
+   "brand": "yoho",
    "price": null,
-   "rating": 0,
-   "ratings": 0,
-   "isFrido": true
+   "rating": 4.2,
+   "ratings": 1953,
+   "isFrido": false
   },
   {
    "pos": 7,
-   "title": "Femifolio Women Flats",
+   "title": "Time Jump Women Slides",
+   "brand": "Time Jump",
    "price": null,
    "rating": 0,
    "ratings": 0,
@@ -66,26 +75,65 @@
   },
   {
    "pos": 8,
-   "title": "Doctor Health Super Soft Women Women Orthopedic Slippers Soft Doctor Footwear, Heel Pain Relief, Daily Wear Flip Flops",
+   "title": "MARATHON Women Flip Flops",
+   "brand": "MARATHON",
    "price": null,
-   "rating": 4.2,
-   "ratings": 12856,
+   "rating": 0,
+   "ratings": 0,
    "isFrido": false
   },
   {
    "pos": 9,
    "title": "Doctor Health Super Soft Women Newly Launch|Classic Ultra Soft|Cushion|Comfort|Premium|Stylish Slippers",
+   "brand": "Doctor Health Super Soft",
    "price": null,
    "rating": 4.3,
-   "ratings": 3650,
+   "ratings": 3749,
    "isFrido": false
   },
   {
    "pos": 10,
-   "title": "Doctor Health Super Soft Women Newly Launch | Classic Ultra Soft | Cushion | Comfortable|Premium|Stylish|Trendy Flip Flops",
+   "title": "Ortho + Rest Women Women Doctor Soft MCR Ortho Comfort Lightweight Slippers for Heel & Joint Pain Flip Flops",
+   "brand": "Ortho + Rest",
    "price": null,
-   "rating": 4.2,
-   "ratings": 12856,
+   "rating": 4.3,
+   "ratings": 2402,
+   "isFrido": false
+  },
+  {
+   "pos": 11,
+   "title": "PUMPA Doctor Slippers Women Slippers",
+   "brand": "PUMPA Doctor Slippers",
+   "price": null,
+   "rating": 3.3,
+   "ratings": 3,
+   "isFrido": false
+  },
+  {
+   "pos": 12,
+   "title": "pumpa doctor slipper Women Flip Flops",
+   "brand": "pumpa doctor slipper",
+   "price": null,
+   "rating": 0,
+   "ratings": 0,
+   "isFrido": false
+  },
+  {
+   "pos": 13,
+   "title": "Doctor Health Super Soft Women Doctor Orthopedic Slippers for Women Lightweight, Soft Cushion, Heel Relief Slides",
+   "brand": "Doctor Health Super Soft",
+   "price": null,
+   "rating": 3.7,
+   "ratings": 193,
+   "isFrido": false
+  },
+  {
+   "pos": 14,
+   "title": "WALKAROO Women Casual",
+   "brand": "WALKAROO",
+   "price": null,
+   "rating": 4.5,
+   "ratings": 93,
    "isFrido": false
   }
  ],

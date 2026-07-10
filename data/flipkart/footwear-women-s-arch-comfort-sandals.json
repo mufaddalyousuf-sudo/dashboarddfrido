@@ -1,99 +1,112 @@
 {
  "category": "footwear-women-s-arch-comfort-sandals",
  "marketplace": "flipkart",
- "keyword": "Frido Women's Arch Comfort Sandals",
+ "keyword": "Women's Arch Comfort Sandals",
+ "brandKeyword": "Frido Women's Arch Comfort Sandals",
  "capturedAt": "2026-07-08",
- "method": "Live scrape flipkart.com mobile search page 1 (__INITIAL_STATE__), query = exact SKU name",
+ "method": "Live scrape flipkart.com mobile search page 1 (__INITIAL_STATE__), query = generic product keyword",
  "confidence": "Medium-High (live; sponsored flags not exposed on mobile)",
  "fridoRank": 3,
  "fridoPresent": true,
+ "fridoUrl": "https://www.flipkart.com/search?q=Women's%20Arch%20Comfort%20Sandals",
  "results": [
   {
    "pos": 1,
    "title": "WALKAROO Women Casual",
+   "brand": "WALKAROO",
    "price": null,
    "rating": 4.2,
-   "ratings": 692,
+   "ratings": 138,
    "isFrido": false
   },
   {
    "pos": 2,
-   "title": "WALKAROO Women Wedges",
+   "title": "Impakto Women Arch Support Flip Flop, Lightweight & Soft Cushioned Footbed,Bounce-Back Slippers",
+   "brand": "Impakto",
    "price": null,
-   "rating": 4.3,
-   "ratings": 593,
+   "rating": 4.2,
+   "ratings": 16,
    "isFrido": false
   },
   {
    "pos": 3,
+   "title": "Frido Cloud Comfort Arch & Heel Support with Anti-Skid Sole, Adjustable Buckle Strap Women Sandals",
+   "brand": "Frido",
+   "price": null,
+   "rating": 4.2,
+   "ratings": 146,
+   "isFrido": true
+  },
+  {
+   "pos": 4,
    "title": "Frido Arch Support Sandals, Ortho Cushion Platform Heels, Anti-Slip Sole For Dailywear Women Flats",
+   "brand": "Frido",
    "price": null,
    "rating": 0,
    "ratings": 0,
    "isFrido": true
   },
   {
-   "pos": 4,
-   "title": "Frido Cloud Comfort Arch & Heel Support with Anti-Skid Sole, Adjustable Buckle Strap Women Sandals",
-   "price": null,
-   "rating": 4.2,
-   "ratings": 144,
-   "isFrido": true
-  },
-  {
    "pos": 5,
    "title": "Frido Unisex Cloud Comfort Arch Support Orthopedic Soft Home Chappal with Anti-Skid Sole Slippers",
+   "brand": "Frido",
    "price": null,
    "rating": 4.2,
-   "ratings": 580,
+   "ratings": 585,
    "isFrido": true
   },
   {
    "pos": 6,
-   "title": "Frido Cloud Comfort Diabetic Ortho Arch Support for Pain Relief Anti-Skid Sole Cushion Men Sandals",
+   "title": "DOCTOR EXTRA SOFT Women Flat Memory Foam Slippers/FlipFlops Comfortable Sandals Adjustable Strap Slippers",
+   "brand": "DOCTOR EXTRA SOFT",
    "price": null,
-   "rating": 4.2,
-   "ratings": 144,
-   "isFrido": true
+   "rating": 4.3,
+   "ratings": 1304,
+   "isFrido": false
   },
   {
    "pos": 7,
-   "title": "Frido Comfort Dual Strap Footwear With Bounce Back Cushioned Footbed Adjustable Velcro Men Casual",
+   "title": "Aeroblu Women Flats",
+   "brand": "Aeroblu",
    "price": null,
-   "rating": 4.4,
-   "ratings": 136,
-   "isFrido": true
+   "rating": 3.8,
+   "ratings": 23,
+   "isFrido": false
   },
   {
    "pos": 8,
-   "title": "Frido Puneri Arch Comfort Sandal | Leather Chappal with Built-In Arch Support, Cushion Men Flats",
+   "title": "Shapecrunch Ortho Sandals for Women with Arch Support for Heel Pain Women Casual",
+   "brand": "Shapecrunch",
    "price": null,
-   "rating": 5,
-   "ratings": 4,
-   "isFrido": true
+   "rating": 3.8,
+   "ratings": 33,
+   "isFrido": false
   },
   {
    "pos": 9,
-   "title": "Doctor Health Super Soft Women Women Orthopedic Slippers Soft Doctor Footwear, Heel Pain Relief, Daily Wear Flip Flops",
+   "title": "WALKAROO Women Wedges",
+   "brand": "WALKAROO",
    "price": null,
-   "rating": 4.2,
-   "ratings": 12856,
+   "rating": 4.3,
+   "ratings": 599,
    "isFrido": false
   },
   {
    "pos": 10,
-   "title": "Doctor Health Super Soft Women Newly Launch|Classic Ultra Soft|Cushion|Comfort|Premium|Stylish Slippers",
+   "title": "WALKAROO Men Sandals",
+   "brand": "WALKAROO",
    "price": null,
-   "rating": 4.3,
-   "ratings": 3650,
+   "rating": 4.2,
+   "ratings": 1285,
    "isFrido": false
   },
   {
    "pos": 11,
-   "title": "Doctor Health Super Soft Women Newly Launch | Classic Ultra Soft | Cushion | Comfortable|Premium|Stylish|Trendy Flip Flops",
+   "title": "WALKAROO Men Casual",
+   "brand": "WALKAROO",
    "price": null,
-   "rating": 4.2,
-   "ratings": 12856,
+   "rating": 4,
+   "ratings": 268,
    "isFrido": false
   }
  ],

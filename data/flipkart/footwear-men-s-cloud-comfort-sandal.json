@@ -1,67 +1,139 @@
 {
  "category": "footwear-men-s-cloud-comfort-sandal",
  "marketplace": "flipkart",
- "keyword": "Frido Men's Cloud Comfort Sandal",
+ "keyword": "Men's Comfort Sandal",
+ "brandKeyword": "Frido Men's Cloud Comfort Sandal",
  "capturedAt": "2026-07-08",
- "method": "Live scrape flipkart.com mobile search page 1 (__INITIAL_STATE__), query = exact SKU name",
+ "method": "Live scrape flipkart.com mobile search page 1 (__INITIAL_STATE__), query = generic product keyword",
  "confidence": "Medium-High (live; sponsored flags not exposed on mobile)",
- "fridoRank": 3,
- "fridoPresent": true,
+ "fridoRank": null,
+ "fridoPresent": false,
+ "fridoUrl": "https://www.flipkart.com/search?q=Men's%20Comfort%20Sandal",
  "results": [
   {
    "pos": 1,
-   "title": "WALKAROO Men Sandals",
+   "title": "DUCKINS Cosco Men’s Sports Shoes | Stylish Comfortable Lightweight & Durable Outdoors For Men",
+   "brand": "DUCKINS",
    "price": null,
-   "rating": 4.1,
-   "ratings": 1142,
+   "rating": 3.7,
+   "ratings": 494,
    "isFrido": false
   },
   {
    "pos": 2,
-   "title": "WALKAROO Men Casual",
+   "title": "DUCKINS Men Sports Running Shoes Lightweight Breathable Anti Skid Sneakers White Casuals For Men",
+   "brand": "DUCKINS",
    "price": null,
-   "rating": 3.9,
-   "ratings": 72,
+   "rating": 2.7,
+   "ratings": 3,
    "isFrido": false
   },
   {
    "pos": 3,
-   "title": "Frido Comfort Dual Strap Footwear With Bounce Back Cushioned Footbed Adjustable Velcro Men Casual",
+   "title": "DUCKINS Premium Sports ,Gym, Trending, Stylish Running Shoes For Men Outdoors For Men",
+   "brand": "DUCKINS",
    "price": null,
-   "rating": 4.4,
-   "ratings": 136,
-   "isFrido": true
+   "rating": 0,
+   "ratings": null,
+   "isFrido": false
   },
   {
    "pos": 4,
-   "title": "Frido Puneri Arch Comfort Sandal | Leather Chappal with Built-In Arch Support, Cushion Men Flats",
+   "title": "DUCKINS Jimmy Cricket Shoes | Stylish Comfortable Lightweight & Durable Outdoors For Men",
+   "brand": "DUCKINS",
    "price": null,
-   "rating": 5,
-   "ratings": 4,
-   "isFrido": true
+   "rating": 3.7,
+   "ratings": 14,
+   "isFrido": false
   },
   {
    "pos": 5,
-   "title": "Frido Traditional Kolhapuri Leather, Memory Foam, Adjustable Ethnic Puneri Footwear Men Sandals",
+   "title": "DUCKINS Outlander Men Trekking Shoes High Grip Lightweight Breathable Hiking Shoes High Tops For Men",
+   "brand": "DUCKINS",
    "price": null,
-   "rating": 3.6,
-   "ratings": 13,
-   "isFrido": true
+   "rating": 0,
+   "ratings": null,
+   "isFrido": false
   },
   {
    "pos": 6,
-   "title": "Frido Cloud Comfort Diabetic Ortho Arch Support for Pain Relief Anti-Skid Sole Cushion Men Sandals",
+   "title": "aadi Men Casual",
+   "brand": "aadi",
    "price": null,
-   "rating": 4.2,
-   "ratings": 144,
-   "isFrido": true
+   "rating": 3.8,
+   "ratings": 8811,
+   "isFrido": false
   },
   {
    "pos": 7,
-   "title": "GLB Men Sandals",
+   "title": "WOODLAND Outdoor Comfortable Lightweight Everyday Use Men Casual",
+   "brand": "WOODLAND",
+   "price": null,
+   "rating": 4.2,
+   "ratings": 17869,
+   "isFrido": false
+  },
+  {
+   "pos": 8,
+   "title": "CLYMB Synthetic|Ultralightweight|Comfort|Summer Trendy|Outdoors Men Casual",
+   "brand": "CLYMB",
+   "price": null,
+   "rating": 3.9,
+   "ratings": 4641,
+   "isFrido": false
+  },
+  {
+   "pos": 9,
+   "title": "Restroad Men Flats",
+   "brand": "Restroad",
    "price": null,
    "rating": 3.7,
-   "ratings": 3156,
+   "ratings": 3457,
+   "isFrido": false
+  },
+  {
+   "pos": 10,
+   "title": "LE GREEM Men Sandals",
+   "brand": "LE GREEM",
+   "price": null,
+   "rating": 0,
+   "ratings": 0,
+   "isFrido": false
+  },
+  {
+   "pos": 11,
+   "title": "COMFORPLUS Men Sandals",
+   "brand": "COMFORPLUS",
+   "price": null,
+   "rating": 0,
+   "ratings": 0,
+   "isFrido": false
+  },
+  {
+   "pos": 12,
+   "title": "LANCER Men Flats",
+   "brand": "LANCER",
+   "price": null,
+   "rating": 0,
+   "ratings": 0,
+   "isFrido": false
+  },
+  {
+   "pos": 13,
+   "title": "Feather Leather Men Sandals",
+   "brand": "Feather Leather",
+   "price": null,
+   "rating": 0,
+   "ratings": 0,
+   "isFrido": false
+  },
+  {
+   "pos": 14,
+   "title": "WOODLAND Men Sports Sandals",
+   "brand": "WOODLAND",
+   "price": null,
+   "rating": 4.8,
+   "ratings": 41,
    "isFrido": false
   }
  ],

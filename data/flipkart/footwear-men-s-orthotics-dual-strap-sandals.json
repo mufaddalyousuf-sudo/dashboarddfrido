@@ -1,83 +1,130 @@
 {
  "category": "footwear-men-s-orthotics-dual-strap-sandals",
  "marketplace": "flipkart",
- "keyword": "Frido Men's Orthotics Dual Strap Sandals",
+ "keyword": "Men's Orthotics Dual Strap Sandals",
+ "brandKeyword": "Frido Men's Orthotics Dual Strap Sandals",
  "capturedAt": "2026-07-08",
- "method": "Live scrape flipkart.com mobile search page 1 (__INITIAL_STATE__), query = exact SKU name",
+ "method": "Live scrape flipkart.com mobile search page 1 (__INITIAL_STATE__), query = generic product keyword",
  "confidence": "Medium-High (live; sponsored flags not exposed on mobile)",
  "fridoRank": 3,
  "fridoPresent": true,
+ "fridoUrl": "https://www.flipkart.com/search?q=Men's%20Orthotics%20Dual%20Strap%20Sandals",
  "results": [
   {
    "pos": 1,
-   "title": "AMICO Men Sandals",
+   "title": "GLB Men Sandals",
+   "brand": "GLB",
    "price": null,
-   "rating": 3.8,
-   "ratings": 7737,
+   "rating": 3.7,
+   "ratings": 3178,
    "isFrido": false
   },
   {
    "pos": 2,
-   "title": "AMICO Men Casual",
+   "title": "MHJD Men Flats",
+   "brand": "MHJD",
    "price": null,
-   "rating": 3.7,
-   "ratings": 101527,
+   "rating": 0,
+   "ratings": 0,
    "isFrido": false
   },
   {
    "pos": 3,
    "title": "Frido Comfort Dual Strap Footwear With Bounce Back Cushioned Footbed Adjustable Velcro Men Casual",
+   "brand": "Frido",
    "price": null,
    "rating": 4.4,
-   "ratings": 136,
+   "ratings": 145,
    "isFrido": true
   },
   {
    "pos": 4,
-   "title": "Frido Cloud Comfort Diabetic Ortho Arch Support for Pain Relief Anti-Skid Sole Cushion Men Sandals",
-   "price": null,
-   "rating": 4.2,
-   "ratings": 144,
-   "isFrido": true
-  },
-  {
-   "pos": 5,
-   "title": "Frido Arch Support Sandals, Ortho Cushion Platform Heels, Anti-Slip Sole For Dailywear Women Flats",
+   "title": "Stepsoft Vegan Leather Slippers for Men Slip On with Buckle Straps Soft Cushioned Sole Men Casual",
+   "brand": "Stepsoft",
    "price": null,
    "rating": 0,
    "ratings": 0,
-   "isFrido": true
+   "isFrido": false
+  },
+  {
+   "pos": 5,
+   "title": "overstar Men Sandals",
+   "brand": "overstar",
+   "price": null,
+   "rating": 0,
+   "ratings": 0,
+   "isFrido": false
   },
   {
    "pos": 6,
-   "title": "Frido Cloud Comfort Open Toe with Adjustable Z-Strap, Cushioned PU Footbed Women Flats",
+   "title": "Jz jinzo Men Sandals",
+   "brand": "Jz jinzo",
    "price": null,
-   "rating": 4.2,
-   "ratings": 34,
-   "isFrido": true
+   "rating": 0,
+   "ratings": 0,
+   "isFrido": false
   },
   {
    "pos": 7,
-   "title": "BELLION Men Sandals",
+   "title": "AUCKLAND Men Flats",
+   "brand": "AUCKLAND",
    "price": null,
-   "rating": 3.9,
-   "ratings": 1034,
+   "rating": 0,
+   "ratings": 0,
    "isFrido": false
   },
   {
    "pos": 8,
-   "title": "BELLION stylish men loafers Loafers For Men",
+   "title": "arixi nexus Men Flats",
+   "brand": "arixi nexus",
    "price": null,
-   "rating": 4,
-   "ratings": 21,
+   "rating": 0,
+   "ratings": 0,
    "isFrido": false
   },
   {
    "pos": 9,
-   "title": "BELLION Men Casual",
+   "title": "WOODLAND Men Sports Sandals",
+   "brand": "WOODLAND",
+   "price": null,
+   "rating": 4.8,
+   "ratings": 41,
+   "isFrido": false
+  },
+  {
+   "pos": 10,
+   "title": "SOLEPATCH Men Casual",
+   "brand": "SOLEPATCH",
+   "price": null,
+   "rating": 0,
+   "ratings": 0,
+   "isFrido": false
+  },
+  {
+   "pos": 11,
+   "title": "TOE CANDY Men Clogs",
+   "brand": "TOE CANDY",
+   "price": null,
+   "rating": 4,
+   "ratings": 10355,
+   "isFrido": false
+  },
+  {
+   "pos": 12,
+   "title": "TOE CANDY Men Sandals",
+   "brand": "TOE CANDY",
    "price": null,
    "rating": 3.9,
-   "ratings": 143,
+   "ratings": 7710,
+   "isFrido": false
+  },
+  {
+   "pos": 13,
+   "title": "TOE CANDY Men Slippers",
+   "brand": "TOE CANDY",
+   "price": null,
+   "rating": 4,
+   "ratings": 3624,
    "isFrido": false
   }
  ],

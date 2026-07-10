@@ -1,14 +1,78 @@
 {
  "category": "footwear-women-s-cloud-comfort-shoes-slip-ons",
  "marketplace": "flipkart",
- "keyword": "Frido Women's Cloud Comfort Shoes - Slip Ons",
+ "keyword": "Women's Comfort Shoes Slip Ons",
+ "brandKeyword": "Frido Women's Cloud Comfort Shoes - Slip Ons",
  "capturedAt": "2026-07-08",
- "method": "Live scrape flipkart.com mobile search page 1 (__INITIAL_STATE__), query = exact SKU name",
- "confidence": "Low (fetch blocked)",
+ "method": "Live scrape flipkart.com mobile search page 1 (__INITIAL_STATE__), query = generic product keyword",
+ "confidence": "Medium-High (live; sponsored flags not exposed on mobile)",
  "fridoRank": null,
  "fridoPresent": false,
- "results": [],
- "notes": [
-  "Live fetch failed after retries — needs re-verification."
- ]
+ "fridoUrl": "https://www.flipkart.com/search?q=Women's%20Comfort%20Shoes%20Slip%20Ons",
+ "results": [
+  {
+   "pos": 1,
+   "title": "Fashion Ground Women Grey Knitted Ballerina Flats | Comfortable Slip On Casual Shoes Bellies For Women",
+   "brand": "Fashion Ground",
+   "price": null,
+   "rating": 4.2,
+   "ratings": 76,
+   "isFrido": false
+  },
+  {
+   "pos": 2,
+   "title": "Adda Casuals For Women",
+   "brand": "Adda",
+   "price": null,
+   "rating": 0,
+   "ratings": 0,
+   "isFrido": false
+  },
+  {
+   "pos": 3,
+   "title": "MAhiX Casual Slip-On Shoes Slip On Sneakers For Women",
+   "brand": "MAhiX",
+   "price": null,
+   "rating": 0,
+   "ratings": 0,
+   "isFrido": false
+  },
+  {
+   "pos": 4,
+   "title": "SKITTER ELEGANT TENDY SLIP-ON-MESH BELLIES FOR WOMEN Bellies For Women",
+   "brand": "SKITTER",
+   "price": null,
+   "rating": 0,
+   "ratings": 0,
+   "isFrido": false
+  },
+  {
+   "pos": 5,
+   "title": "DOCTOR EXTRA SOFT D-1001 Women's shoes for Walking Slip On Sneakers For Women",
+   "brand": "DOCTOR EXTRA SOFT",
+   "price": null,
+   "rating": 4.3,
+   "ratings": 9267,
+   "isFrido": false
+  },
+  {
+   "pos": 6,
+   "title": "FixTin Slip On Sneakers For Women",
+   "brand": "FixTin",
+   "price": null,
+   "rating": 3.7,
+   "ratings": 41,
+   "isFrido": false
+  },
+  {
+   "pos": 7,
+   "title": "Fashion Ground FASHION GROUND Women's Knitted Slip-On Casual Shoes Bellies For Women",
+   "brand": "Fashion Ground",
+   "price": null,
+   "rating": 4.2,
+   "ratings": 76,
+   "isFrido": false
+  }
+ ],
+ "notes": []
 }

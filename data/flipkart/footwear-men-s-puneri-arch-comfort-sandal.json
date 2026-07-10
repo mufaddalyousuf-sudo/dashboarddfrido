@@ -1,14 +1,96 @@
 {
  "category": "footwear-men-s-puneri-arch-comfort-sandal",
  "marketplace": "flipkart",
- "keyword": "Frido Men's Puneri Arch Comfort Sandal",
+ "keyword": "Men's Puneri Arch Comfort Sandal",
+ "brandKeyword": "Frido Men's Puneri Arch Comfort Sandal",
  "capturedAt": "2026-07-08",
- "method": "Live scrape flipkart.com mobile search page 1 (__INITIAL_STATE__), query = exact SKU name",
- "confidence": "Low (fetch blocked)",
- "fridoRank": null,
- "fridoPresent": false,
- "results": [],
- "notes": [
-  "Live fetch failed after retries — needs re-verification."
- ]
+ "method": "Live scrape flipkart.com mobile search page 1 (__INITIAL_STATE__), query = generic product keyword",
+ "confidence": "Medium-High (live; sponsored flags not exposed on mobile)",
+ "fridoRank": 3,
+ "fridoPresent": true,
+ "fridoUrl": "https://www.flipkart.com/search?q=Men's%20Puneri%20Arch%20Comfort%20Sandal",
+ "results": [
+  {
+   "pos": 1,
+   "title": "WOODLAND Outdoor Comfortable Lightweight Everyday Use Men Casual",
+   "brand": "WOODLAND",
+   "price": null,
+   "rating": 4.2,
+   "ratings": 7787,
+   "isFrido": false
+  },
+  {
+   "pos": 2,
+   "title": "WOODLAND Outdoor Comfortable Lightweight Everyday Use Men Sports Sandals",
+   "brand": "WOODLAND",
+   "price": null,
+   "rating": 4.3,
+   "ratings": 8217,
+   "isFrido": false
+  },
+  {
+   "pos": 3,
+   "title": "Frido Puneri Arch Comfort Sandal | Leather Chappal with Built-In Arch Support, Cushion Men Flats",
+   "brand": "Frido",
+   "price": null,
+   "rating": 5,
+   "ratings": 4,
+   "isFrido": true
+  },
+  {
+   "pos": 4,
+   "title": "WOODLAND Men Sports Sandals",
+   "brand": "WOODLAND",
+   "price": null,
+   "rating": 4.8,
+   "ratings": 41,
+   "isFrido": false
+  },
+  {
+   "pos": 5,
+   "title": "TREKIVA Stylish and Comfortable Slip-on Slippers | TPG-1045 Men Sandals",
+   "brand": "TREKIVA",
+   "price": null,
+   "rating": 0,
+   "ratings": 0,
+   "isFrido": false
+  },
+  {
+   "pos": 6,
+   "title": "Frido Cloud Comfort Diabetic Ortho Arch Support for Pain Relief Anti-Skid Sole Cushion Men Sandals",
+   "brand": "Frido",
+   "price": null,
+   "rating": 4.2,
+   "ratings": 145,
+   "isFrido": true
+  },
+  {
+   "pos": 7,
+   "title": "SANUGANESSAN Men Sandals",
+   "brand": "SANUGANESSAN",
+   "price": null,
+   "rating": 0,
+   "ratings": 0,
+   "isFrido": false
+  },
+  {
+   "pos": 8,
+   "title": "VEEFOX Men Sandals",
+   "brand": "VEEFOX",
+   "price": null,
+   "rating": 4,
+   "ratings": 267,
+   "isFrido": false
+  },
+  {
+   "pos": 9,
+   "title": "Aeonik Men Sandals",
+   "brand": "Aeonik",
+   "price": null,
+   "rating": 3.5,
+   "ratings": 1304,
+   "isFrido": false
+  }
+ ],
+ "notes": []
 }

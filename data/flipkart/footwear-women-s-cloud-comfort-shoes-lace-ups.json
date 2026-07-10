@@ -1,59 +1,103 @@
 {
  "category": "footwear-women-s-cloud-comfort-shoes-lace-ups",
  "marketplace": "flipkart",
- "keyword": "Frido Women's Cloud Comfort Shoes - Lace ups",
+ "keyword": "Women's Comfort Shoes Lace ups",
+ "brandKeyword": "Frido Women's Cloud Comfort Shoes - Lace ups",
  "capturedAt": "2026-07-08",
- "method": "Live scrape flipkart.com mobile search page 1 (__INITIAL_STATE__), query = exact SKU name",
+ "method": "Live scrape flipkart.com mobile search page 1 (__INITIAL_STATE__), query = generic product keyword",
  "confidence": "Medium-High (live; sponsored flags not exposed on mobile)",
- "fridoRank": 2,
- "fridoPresent": true,
+ "fridoRank": null,
+ "fridoPresent": false,
+ "fridoUrl": "https://www.flipkart.com/search?q=Women's%20Comfort%20Shoes%20Lace%20ups",
  "results": [
   {
    "pos": 1,
-   "title": "CAMPUS ANNIE Women's Casual Shoes | Sock-Like Fit | Integrated FoamLite Tech | Slip On Walking Shoes For Women",
+   "title": "CAMPUS ALICE Women's Sports Shoes | Mesh Upper with Anti Slip Sole Design | Lace-Up Running Shoes For Women",
+   "brand": "CAMPUS",
    "price": null,
-   "rating": 4.2,
-   "ratings": 66525,
+   "rating": 4.3,
+   "ratings": 40733,
    "isFrido": false
   },
   {
    "pos": 2,
-   "title": "Frido Cloud Comfort Light Sports Lace-up Shoes with Zero-Drop Design & Wide Toe Box Casuals For Women",
+   "title": "OFF LIMITS SPLASH MODE W Sneakers For Women",
+   "brand": "OFF LIMITS",
    "price": null,
-   "rating": 4.2,
-   "ratings": 31,
-   "isFrido": true
+   "rating": 0,
+   "ratings": 0,
+   "isFrido": false
   },
   {
    "pos": 3,
-   "title": "Skechers ARCH FIT - FRECKLE ME Sneakers For Women",
+   "title": "NAYESA Stylish Sneaker For Girls And Women | Party Wear Sneaker Sneakers For Women",
+   "brand": "NAYESA",
    "price": null,
-   "rating": 4.4,
-   "ratings": 240,
+   "rating": 0,
+   "ratings": 0,
    "isFrido": false
   },
   {
    "pos": 4,
-   "title": "Frido Active Walking Shoes | Zero-Drop Sole with Wide Toe Box for Natural Movement Walking Shoes For Women",
+   "title": "Sushi Sneakers For Women",
+   "brand": "Sushi",
    "price": null,
-   "rating": 0,
-   "ratings": 0,
-   "isFrido": true
+   "rating": 5,
+   "ratings": 4,
+   "isFrido": false
   },
   {
    "pos": 5,
-   "title": "Crab Shoes Extra Soft, light weight, Running, Walking Shoes For Women",
+   "title": "Skechers GO WALK FLEX Casual Shoes For Women",
+   "brand": "Skechers",
    "price": null,
-   "rating": 3.6,
-   "ratings": 32,
+   "rating": 4.4,
+   "ratings": 859,
    "isFrido": false
   },
   {
    "pos": 6,
-   "title": "Skechers D'Lux Walker-Infinite Motion Casuals For Women",
+   "title": "HRX by Hrithik Roshan -059 07 Running Shoes For Women",
+   "brand": "HRX by Hrithik Roshan",
+   "price": null,
+   "rating": 4.5,
+   "ratings": 34,
+   "isFrido": false
+  },
+  {
+   "pos": 7,
+   "title": "Skechers ARCH FIT-INFINITY COOL Casuals For Women",
+   "brand": "Skechers",
    "price": null,
    "rating": 4.3,
-   "ratings": 1703,
+   "ratings": 470,
+   "isFrido": false
+  },
+  {
+   "pos": 8,
+   "title": "RULFIN Girls Casual Sneakers Lace Up Walking Shoes White Sky Blue Casuals For Women",
+   "brand": "RULFIN",
+   "price": null,
+   "rating": 0,
+   "ratings": 0,
+   "isFrido": false
+  },
+  {
+   "pos": 9,
+   "title": "Asics GEL-VENTURE 11 Running Shoes For Women",
+   "brand": "Asics",
+   "price": null,
+   "rating": 4.4,
+   "ratings": 85,
+   "isFrido": false
+  },
+  {
+   "pos": 10,
+   "title": "CAMPUS comfortable Sneakers For Women",
+   "brand": "CAMPUS",
+   "price": null,
+   "rating": 4.6,
+   "ratings": 468,
    "isFrido": false
   }
  ],
