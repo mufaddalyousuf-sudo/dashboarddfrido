@@ -1,16 +1,19 @@
 {
  "category": "insoles-gel-max-comfort-insole",
  "marketplace": "flipkart",
- "keyword": "Frido Gel Max Comfort Insole",
+ "keyword": "Gel Max Comfort Insole",
+ "brandKeyword": "Frido Gel Max Comfort Insole",
  "capturedAt": "2026-07-08",
- "method": "Live scrape flipkart.com mobile search page 1 (__INITIAL_STATE__), query = exact SKU name",
+ "method": "Live scrape flipkart.com mobile search page 1 (__INITIAL_STATE__), query = generic product keyword",
  "confidence": "Medium-High (live; sponsored flags not exposed on mobile)",
  "fridoRank": 4,
  "fridoPresent": true,
+ "fridoUrl": "https://www.flipkart.com/search?q=Gel%20Max%20Comfort%20Insole",
  "results": [
   {
    "pos": 1,
    "title": "betterhood PosturePro Arch Support Shoe Inserts for Men, Women | for Flat Feet | Orthopedic Insole",
+   "brand": "betterhood",
    "price": null,
    "rating": 3.9,
    "ratings": 250,
@@ -19,14 +22,16 @@
   {
    "pos": 2,
    "title": "betterhood PosturePro Dual Gel Shoe Inserts for Men, Women | Everyday Comfort Ergonomic Insole",
+   "brand": "betterhood",
    "price": null,
    "rating": 4.1,
-   "ratings": 100,
+   "ratings": 101,
    "isFrido": false
   },
   {
    "pos": 3,
    "title": "betterhood PosturePro Orthopedic Heel Pads for Pain Relief | Shoe Inserts for Men Women | Heel Support",
+   "brand": "betterhood",
    "price": null,
    "rating": 4,
    "ratings": 225,
@@ -35,41 +40,82 @@
   {
    "pos": 4,
    "title": "Frido Dual Gel Insoles, Extra Comfort & Support, Trim-to-fit, Made in India (5-9 UK) Insole",
+   "brand": "Frido",
    "price": null,
    "rating": 3.8,
-   "ratings": 4042,
+   "ratings": 4043,
    "isFrido": true
   },
   {
    "pos": 5,
-   "title": "FOVERA Gel - Shoe Inserts for Walking, Running Hiking - All Day Comfort (Male) Insole",
+   "title": "FOVERA Gel - Shoe Inserts for Walking, Running Hiking - All Day Comfort (Female) Insole",
+   "brand": "FOVERA",
    "price": null,
    "rating": 3.9,
-   "ratings": 23314,
+   "ratings": 23316,
    "isFrido": false
   },
   {
    "pos": 6,
-   "title": "Frido Max Comfort Memory Hi-Per Foam Trimmable Insole, Small (4-8 UK) Gel Arch Orthotic Shoe Insole",
+   "title": "COZYVACOMFORT High-Performance Athletic Dual-Gel Technology Insoles Insole",
+   "brand": "COZYVACOMFORT",
    "price": null,
-   "rating": 4.1,
-   "ratings": 36,
-   "isFrido": true
+   "rating": 0,
+   "ratings": 0,
+   "isFrido": false
   },
   {
    "pos": 7,
-   "title": "FOVERA Height Increasing Gel Insoles for Men & Women - With 4 Level of Height Elevation Insole",
+   "title": "FOVERA Gel - Shoe Inserts for Walking, Running Hiking - All Day Comfort (Male) Insole",
+   "brand": "FOVERA",
    "price": null,
-   "rating": 4.1,
-   "ratings": 342,
+   "rating": 3.9,
+   "ratings": 23316,
    "isFrido": false
   },
   {
    "pos": 8,
-   "title": "FOVERA Gel - Shoe Inserts for Walking, Running Hiking - All Day Comfort (Female) Insole",
+   "title": "FOVERA Height Increasing Gel Insoles for Men & Women - With 4 Level of Height Elevation Insole",
+   "brand": "FOVERA",
    "price": null,
-   "rating": 3.9,
-   "ratings": 23314,
+   "rating": 4.1,
+   "ratings": 345,
+   "isFrido": false
+  },
+  {
+   "pos": 9,
+   "title": "Dr Foot Arch Support Gel Insole Pair For Men & Women – 1 Pair (Medium Size) (Pack of 2) Insole",
+   "brand": "Dr Foot",
+   "price": null,
+   "rating": 4.5,
+   "ratings": 11,
+   "isFrido": false
+  },
+  {
+   "pos": 10,
+   "title": "JAMBOREE Gel Insole for Men & Women insole for Walking, Running, Hiking, Standing All Day Insole",
+   "brand": "JAMBOREE",
+   "price": null,
+   "rating": 3.7,
+   "ratings": 151,
+   "isFrido": false
+  },
+  {
+   "pos": 11,
+   "title": "BOLDFIT Shoes for Men Sole Pad Gel Insole",
+   "brand": "BOLDFIT",
+   "price": null,
+   "rating": 3.8,
+   "ratings": 622,
+   "isFrido": false
+  },
+  {
+   "pos": 12,
+   "title": "Dyna Silicare Silicone Insoles(Removable)-1 Pair Insole",
+   "brand": "Dyna",
+   "price": null,
+   "rating": 3.8,
+   "ratings": 211,
    "isFrido": false
   }
  ],

@@ -1,14 +1,132 @@
 {
  "category": "insoles-ball-of-foot-cushions-pro",
  "marketplace": "flipkart",
- "keyword": "Frido Ball of Foot Cushions Pro",
+ "keyword": "Ball of Foot Cushions",
+ "brandKeyword": "Frido Ball of Foot Cushions Pro",
  "capturedAt": "2026-07-08",
- "method": "Live scrape flipkart.com mobile search page 1 (__INITIAL_STATE__), query = exact SKU name",
- "confidence": "Low (fetch blocked)",
+ "method": "Live scrape flipkart.com mobile search page 1 (__INITIAL_STATE__), query = generic product keyword",
+ "confidence": "Medium-High (live; sponsored flags not exposed on mobile)",
  "fridoRank": null,
  "fridoPresent": false,
- "results": [],
- "notes": [
-  "Live fetch failed after retries — needs re-verification."
- ]
+ "fridoUrl": "https://www.flipkart.com/search?q=Ball%20of%20Foot%20Cushions",
+ "results": [
+  {
+   "pos": 1,
+   "title": "FEXMY Heel Pain Relief Cracked Repair Foot Care Heel Pad and Heel Socks Combo Heel Support",
+   "brand": "FEXMY",
+   "price": null,
+   "rating": 3.8,
+   "ratings": 451,
+   "isFrido": false
+  },
+  {
+   "pos": 2,
+   "title": "FEXMY Heel Grips Liner Cushions Inserts for Loose Shoes Insoles for Men Heel Support",
+   "brand": "FEXMY",
+   "price": null,
+   "rating": 3.8,
+   "ratings": 1481,
+   "isFrido": false
+  },
+  {
+   "pos": 3,
+   "title": "FEXMY Shoe Bite Protector Heel Grips, Liner Cushions & Inserts for Loose Shoes Support Heel Support",
+   "brand": "FEXMY",
+   "price": null,
+   "rating": 3.8,
+   "ratings": 1481,
+   "isFrido": false
+  },
+  {
+   "pos": 4,
+   "title": "AARADHYAM Forefoot Pads, High Heel Cushion Inserts Women,Ball Of Foot Cushions Foot Support",
+   "brand": "AARADHYAM",
+   "price": null,
+   "rating": 4.6,
+   "ratings": 5,
+   "isFrido": false
+  },
+  {
+   "pos": 5,
+   "title": "PilloWillo MemoryFoam Knee Pillow-Side Sleeper | Sciatica, Back, Hip, Between Legs Support Knee Support",
+   "brand": "PilloWillo",
+   "price": null,
+   "rating": 3.9,
+   "ratings": 54,
+   "isFrido": false
+  },
+  {
+   "pos": 6,
+   "title": "DLALA Ball of Foot Cushions Metatarsal Foot Pain Relief for Men and Women Foot Support",
+   "brand": "DLALA",
+   "price": null,
+   "rating": 0,
+   "ratings": 0,
+   "isFrido": false
+  },
+  {
+   "pos": 7,
+   "title": "AARADHYAM Soft High Heel Cushion Inserts Women,Ball Of Foot Cushions Foot Support",
+   "brand": "AARADHYAM",
+   "price": null,
+   "rating": 0,
+   "ratings": 0,
+   "isFrido": false
+  },
+  {
+   "pos": 8,
+   "title": "HouseOfCommon Donut Ring Pillow Cushion For Piles Coccyx Sciatica Tailbone Back Pain Support Back / Lumbar Support",
+   "brand": "HouseOfCommon",
+   "price": null,
+   "rating": 4.3,
+   "ratings": 174,
+   "isFrido": false
+  },
+  {
+   "pos": 9,
+   "title": "Wonder Care Silicone Foot Cushion Pad for Daily Wear and Pain Relief 2 Pair Foot Support",
+   "brand": "Wonder Care",
+   "price": null,
+   "rating": 0,
+   "ratings": 0,
+   "isFrido": false
+  },
+  {
+   "pos": 10,
+   "title": "Dr. Frederick's Original 2 Piece Metatarsal Pad Set - Ball of Foot Cushions Foot Support",
+   "brand": "Dr. Frederick's",
+   "price": null,
+   "rating": 0,
+   "ratings": 0,
+   "isFrido": false
+  },
+  {
+   "pos": 11,
+   "title": "AARADHYAM High Heel Cushion Inserts Women,Ball Of Foot Cushions Foot Support",
+   "brand": "AARADHYAM",
+   "price": null,
+   "rating": 0,
+   "ratings": 0,
+   "isFrido": false
+  },
+  {
+   "pos": 12,
+   "title": "KBM & CARE Silicone Gel Finger Socks Toe Separator | Pain Relief Cushion for High Heels, Foot Support",
+   "brand": "KBM & CARE",
+   "price": null,
+   "rating": 0,
+   "ratings": 0,
+   "isFrido": false
+  },
+  {
+   "pos": 13,
+   "title": "Wonder Care Foot Drop Support Brace with Ball Stretch Trainer Pack of 2 Adjustable for Rehab Foot Support",
+   "brand": "Wonder Care",
+   "price": null,
+   "rating": 0,
+   "ratings": 0,
+   "isFrido": false
+  }
+ ],
+ "notes": []
 }

@@ -1,16 +1,18 @@
 {
  "category": "insoles-gel-max-comfort-insole",
  "marketplace": "amazon-in",
- "keyword": "Frido Gel Max Comfort Insole",
+ "keyword": "Gel Max Comfort Insole",
+ "brandKeyword": "Frido Gel Max Comfort Insole",
  "capturedAt": "2026-07-08",
- "method": "Live scrape amazon.in search page 1, query = exact SKU name (brand-qualified)",
+ "method": "Live scrape amazon.in search page 1, query = generic product keyword (brand + Frido product-line/marketing words stripped) — the competitive rank signal, not a brand-qualified existence check",
  "confidence": "High (live snapshot, single keyword)",
  "fridoOrganicRank": 1,
- "fridoSponsoredSlot": 5,
+ "fridoSponsoredSlot": 9,
+ "fridoUrl": "https://www.amazon.in/dp/B0F59RSGYY",
  "organic": [
   {
    "asin": "B0F59RSGYY",
-   "badge": "Amazon's Choice",
+   "badge": null,
    "price": "699",
    "rating": "4.0",
    "reviews": "339",
@@ -19,151 +21,40 @@
    "isFridoBrand": true
   },
   {
-   "asin": "B09RV5JVMM",
+   "asin": "B0DJKR4763",
    "badge": "Bestseller",
-   "price": "699",
+   "price": "899",
    "rating": "3.8",
-   "reviews": "9,642",
-   "title": "Frido Dual Gel Heavy Duty Trimmable Insoles | For Loose Shoes or Replacing Existing Insoles | Thick Shoe Inserts | Extra Comfort and Support | Proudly Made in I",
+   "reviews": "9,650",
+   "title": "Frido Dual Gel Pro Shoe Insoles -Trimmable Shoe Sole for Men & Women for Stability, Shock Absorption & Comfort | Anti-Sweat Sports Insole, Foot Support Silicone",
    "rank": 2
   },
   {
-   "asin": "B0D84BNQTG",
+   "asin": "B0CVH2GMK8",
    "badge": null,
-   "price": "649",
-   "rating": "3.9",
-   "reviews": "231",
-   "title": "Frido Max Comfort Memory Hi-Per Foam Trimmable Insole compatible for Formal Shoes | Loafers | Running | and Casual Shoes | Small (4-8 UK) | Pack of 1",
+   "price": "299",
+   "rating": "4.0",
+   "reviews": "1,581",
+   "title": "Soft Glide Performance Insoles | Plush Cushioning | Anti-Slip | Soft & Breathable | Personalized Comfort for Any Shoe | Unisex | 1 Pair",
    "rank": 3
-  },
-  {
-   "asin": "B09RV5Y43H",
-   "badge": "Bestseller",
-   "price": "1,259",
-   "rating": "3.8",
-   "reviews": "9,642",
-   "title": "Frido Dual Gel Heavy Duty Trimmable Insoles | For Loose Shoes or Replacing Existing Insoles | Thick Shoe Inserts | Extra Comfort and Support | Proudly Made in I",
-   "rank": 4
-  },
-  {
-   "asin": "B0GQSRQRF8",
-   "badge": null,
-   "price": "395",
-   "rating": "4.0",
-   "reviews": "79",
-   "title": "FOVERA Gel Insole for Shoes Men | Dual Gel Technology for All Day Comfort | Trimmable Sole for Walking, Running, Sports, Formal and Safety Shoes (Male, Pack of ",
-   "rank": 5
-  },
-  {
-   "asin": "B0D86WVHRH",
-   "badge": null,
-   "price": "999",
-   "rating": "4.1",
-   "reviews": "18",
-   "title": "Frido Max Comfort Memory Hi-Per Foam Trimmable Insole compatible for Formal Shoes | Loafers | Running | and Casual Shoes | Large (9-13 UK) | Pack of 2",
-   "rank": 6
-  },
-  {
-   "asin": "B0CG35T6BH",
-   "badge": null,
-   "price": "579",
-   "rating": "4.0",
-   "reviews": "1,444",
-   "title": "Frido Max Comfort Arch Cushion Insole | Relieves Arch Pain | Proprietary Hi- Per Foam Orthotic Inserts | Deep Heel Cup for Enhanced Stability | Sports & Casual ",
-   "rank": 7
-  },
-  {
-   "asin": "B0D37LQZBY",
-   "badge": null,
-   "price": "224",
-   "rating": "4.2",
-   "reviews": "2,126",
-   "title": "RENESMEE Memory Foam Shoe Insoles, Elastic Shock Absorbing Height Increasing Sports Shoe Insoles For Men And Women Cuttable Soft Breathable Honeycomb Orthotic R",
-   "rank": 8
-  },
-  {
-   "asin": "B0FQW6FLLV",
-   "badge": null,
-   "price": "1,499",
-   "rating": "4.3",
-   "reviews": "21",
-   "title": "Frido Plantar Fasciitis Pain Relief Ortho Insoles | Orthopedic Arch Support Insoles For Men & Women | Trim-to-fit | For Foot Pain, Heel Pain, Standing & Walking",
-   "rank": 9
-  },
-  {
-   "asin": "B0DC73962Q",
-   "badge": null,
-   "price": "499",
-   "rating": "4.0",
-   "reviews": "341",
-   "title": "Frido Arch Sports Insole | Hi-Per Foam Orthotic Inserts for Arch Pain Relief and Injury Prevention | Casual Shoe Insert for Enhanced Comfort | Small Size (3-6 U",
-   "rank": 10
-  }
- ],
- "sponsored": [
-  {
-   "asin": "B0C96XN5D8",
-   "badge": null,
-   "price": "1,099",
-   "rating": "4.1",
-   "reviews": "950",
-   "title": "Frido Semi Rigid Arch Support Insole for Flat Feet | Relieves Feet Pain | Plantar Fasciitis & Heel Spurs | Orthotic Inserts for Stability | Comfortable & Trimma",
-   "slot": 1
   },
   {
    "asin": "B0FFTDMK18",
    "badge": null,
    "price": "498",
    "rating": "3.9",
-   "reviews": "201",
+   "reviews": "202",
    "title": "Helios® Insoles for Men Memory Foam Ultra Max | Trim To Fit Shoe Sole for Men Size 8–13 Insole For Shoes | Orthotic For Cushioning, Arch Support & All-Day Comfo",
-   "slot": 2
+   "rank": 4
   },
   {
-   "asin": "B0GQSRQRF8",
+   "asin": "B0GQSP2BXK",
    "badge": null,
-   "price": "395",
+   "price": "379",
    "rating": "4.0",
-   "reviews": "79",
-   "title": "FOVERA Gel Insole for Shoes Men | Dual Gel Technology for All Day Comfort | Trimmable Sole for Walking, Running, Sports, Formal and Safety Shoes (Male, Pack of ",
-   "slot": 3
-  },
-  {
-   "asin": "B0BSXMZVLL",
-   "badge": null,
-   "price": "182",
-   "rating": "4.0",
-   "reviews": "967",
-   "title": "Home Genie Memory Foam Shoes Insole | shoe Insoles for All Shoes | Shoe Insole for heel pain | Super Soft Absorption Pads Comfortable, Soft, Durable, Washable (",
-   "slot": 4
-  },
-  {
-   "asin": "B0DJKR4763",
-   "badge": "Bestseller",
-   "price": "899",
-   "rating": "3.8",
-   "reviews": "9,642",
-   "title": "Frido Dual Gel Pro Shoe Insoles -Trimmable Shoe Sole for Men & Women for Stability, Shock Absorption & Comfort | Anti-Sweat Sports Insole, Foot Support Silicone",
-   "slot": 5,
-   "isFridoBrand": true
-  },
-  {
-   "asin": "B0D3B3JP1J",
-   "badge": null,
-   "price": "497",
-   "rating": "3.9",
-   "reviews": "110",
-   "title": "DOCTOR EXTRA SOFT All Day Comfort Triple Gel Trimmable Heel Support Insoles| Orthotic & Plantar Fasciitis| Breathable Heavy Duty Shock Absorption Cushion Sports",
-   "slot": 6
-  },
-  {
-   "asin": "B0FRS559XT",
-   "badge": null,
-   "price": "1,999",
-   "rating": "4.1",
-   "reviews": "36",
-   "title": "5D Comfort insoles for Men & Women, Insole with 5-Layer Cushion with Poron, Gel & TPU, Arch Support Insole for Flat Feet and Feet Pain | Plantar Fasciitis & Hee",
-   "slot": 7
+   "reviews": "81",
+   "title": "FOVERA Gel Insole for Shoes Female | Dual Gel Technology for All Day Comfort | Trimmable Sole for Walking, Running, Sports, Formal and Safety Shoes (Female, Pac",
+   "rank": 5
   },
   {
    "asin": "B0GLYMD7Y5",
@@ -172,24 +63,135 @@
    "rating": "4.0",
    "reviews": "24",
    "title": "UltraCare PRO ERGO PROformance Gel Insoles for Shoes | Shock Absorbing Gel Cushioning for All-Day Comfort | Anti-Slip, Anti-Sweat | Ideal for Walking, Running &",
+   "rank": 6
+  },
+  {
+   "asin": "B0CVS3V7MH",
+   "badge": null,
+   "price": "249",
+   "rating": "4.1",
+   "reviews": "1,705",
+   "title": "SILENCIO Memory Foam Shoe Insoles for Men & Women | Shock Absorbing Orthotic Insoles with Arch Support | Anti-Slip Soft Cushioned Trim-to-Fit Sports Shoe Insert",
+   "rank": 7
+  },
+  {
+   "asin": "B0DPCFMGBG",
+   "badge": null,
+   "price": "349",
+   "rating": "3.8",
+   "reviews": "117",
+   "title": "RENESMEE Silicone Gel Reusable Honeycomb Full Length Non Slip Comfort Sports Insole Air Cushion Damping Shoe Pad Cushion Shoe Inserts for Men & Women (UK/IND 4-",
+   "rank": 8
+  },
+  {
+   "asin": "B0D3B3JP1J",
+   "badge": null,
+   "price": "497",
+   "rating": "3.9",
+   "reviews": "110",
+   "title": "DOCTOR EXTRA SOFT All Day Comfort Triple Gel Trimmable Heel Support Insoles| Orthotic & Plantar Fasciitis| Breathable Heavy Duty Shock Absorption Cushion Sports",
+   "rank": 9
+  },
+  {
+   "asin": "B0D3B54FTK",
+   "badge": null,
+   "price": "497",
+   "rating": "3.9",
+   "reviews": "201",
+   "title": "DOCTOR EXTRA SOFT All Day Comfort Triple Gel Trimmable Heel Support Insoles | Orthotic & Plantar Fasciitis | Breathable Heavy Duty Shock Absorption Cushion Spor",
+   "rank": 10
+  }
+ ],
+ "sponsored": [
+  {
+   "asin": "B0FRS559XT",
+   "badge": null,
+   "price": "1,999",
+   "rating": "4.1",
+   "reviews": "36",
+   "title": "5D Comfort insoles for Men & Women, Insole with 5-Layer Cushion with Poron, Gel & TPU, Arch Support Insole for Flat Feet and Feet Pain | Plantar Fasciitis & Hee",
+   "slot": 1
+  },
+  {
+   "asin": "B019MJ44CO",
+   "badge": null,
+   "price": "975",
+   "rating": "3.8",
+   "reviews": "69",
+   "title": "ONYXNEO Silicon Gel Insole Blue, Pair (S (UK Size 4-5.5))",
+   "slot": 2
+  },
+  {
+   "asin": "B0D5MMQTGX",
+   "badge": null,
+   "price": "2,068",
+   "rating": "3.6",
+   "reviews": "449",
+   "title": "Helios Dual Gelmax insoles | India's number one insole for pain relief and comfort | Trim to fit | Size (8-12) (Pack of 4)",
+   "slot": 3
+  },
+  {
+   "asin": "B0FPD46Q1P",
+   "badge": null,
+   "price": "1,876",
+   "rating": "3.9",
+   "reviews": "202",
+   "title": "Helios® Memory Foam Ultra Max Insoles for Men | Trim to Fit Size 8-13 | Insole for shoes |Orthotic Shoe Inserts for Cushioning, Arch Support Insole & All-Day Co",
+   "slot": 4
+  },
+  {
+   "asin": "B09RV5MGQ2",
+   "badge": "Bestseller",
+   "price": "692",
+   "rating": "3.8",
+   "reviews": "9,650",
+   "title": "Frido Dual Gel Heavy Duty Trimmable Insoles | For Loose Shoes or Replacing Existing Insoles | Thick Shoe Inserts | Extra Comfort and Support | Proudly Made in I",
+   "slot": 5
+  },
+  {
+   "asin": "B0D84BNQTG",
+   "badge": null,
+   "price": "649",
+   "rating": "3.9",
+   "reviews": "233",
+   "title": "Frido Max Comfort Memory Hi-Per Foam Trimmable Insole compatible for Formal Shoes | Loafers | Running | and Casual Shoes | Small (4-8 UK) | Pack of 1",
+   "slot": 6
+  },
+  {
+   "asin": "B0G7H23HJ3",
+   "badge": null,
+   "price": "1,290",
+   "rating": "3.9",
+   "reviews": "10",
+   "title": "COIF Premium Shoe Insoles for Men & Women | Soft Cushion Arch Support Inserts | Shock Absorbing Orthopedic Insoles for Running, Sports & Daily Comfort | Breatha",
+   "slot": 7
+  },
+  {
+   "asin": "B0BH525JVG",
+   "badge": null,
+   "price": "259",
+   "rating": "4.0",
+   "reviews": "967",
+   "title": "Home Genie Memory Foam Shoes Insole | shoe Insoles for All Shoes | Shoe Insole for heel pain | Super Soft Absorption Pads Comfortable, Soft, Durable, Washable (",
    "slot": 8
   },
   {
-   "asin": "B0DVPWCPX4",
-   "badge": null,
-   "price": "915",
-   "rating": "3.4",
-   "reviews": "233",
-   "title": "Dr.Ortho Pain Relief Gel Insoles | Gel Technology for All Day Comfort | Trimmable Sole for Walking, Running, Sports, Formal and Safety Shoes (Size 8-12 UK) - Pa",
-   "slot": 9
+   "asin": "B0DJKR4763",
+   "badge": "Bestseller",
+   "price": "899",
+   "rating": "3.8",
+   "reviews": "9,650",
+   "title": "Frido Dual Gel Pro Shoe Insoles -Trimmable Shoe Sole for Men & Women for Stability, Shock Absorption & Comfort | Anti-Sweat Sports Insole, Foot Support Silicone",
+   "slot": 9,
+   "isFridoBrand": true
   },
   {
-   "asin": "B0BF9S9165",
+   "asin": "B08T9LHLQ7",
    "badge": null,
-   "price": "276",
-   "rating": "3.8",
-   "reviews": "2,606",
-   "title": "Helios Memory Foam for All Shoes Makes shoes Super Soft & Comfortable Memory Foam Insole Women's, (SIZE-4) Pack of 1)",
+   "price": "539",
+   "rating": "3.3",
+   "reviews": "4",
+   "title": "PRO GEL INSOLE I FOOT BED I SIZE SMALL",
    "slot": 10
   }
  ],

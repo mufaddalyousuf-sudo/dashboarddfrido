@@ -1,108 +1,77 @@
 {
  "category": "insoles-ultimate-flat-feet-combo",
  "marketplace": "flipkart",
- "keyword": "Frido Ultimate Flat Feet Combo",
+ "keyword": "Flat Feet Combo",
+ "brandKeyword": "Frido Ultimate Flat Feet Combo",
  "capturedAt": "2026-07-08",
- "method": "Live scrape flipkart.com mobile search page 1 (__INITIAL_STATE__), query = exact SKU name",
+ "method": "Live scrape flipkart.com mobile search page 1 (__INITIAL_STATE__), query = generic product keyword",
  "confidence": "Medium-High (live; sponsored flags not exposed on mobile)",
- "fridoRank": 4,
+ "fridoRank": 6,
  "fridoPresent": true,
+ "fridoUrl": "https://www.flipkart.com/search?q=Flat%20Feet%20Combo",
  "results": [
   {
    "pos": 1,
-   "title": "FEXMY Heel Pain Relief Cracked Repair Foot Care Heel Pad and Heel Socks Combo Heel Support",
+   "title": "WALKAROO Women Casual",
+   "brand": "WALKAROO",
    "price": null,
-   "rating": 3.8,
-   "ratings": 450,
+   "rating": 4.5,
+   "ratings": 93,
    "isFrido": false
   },
   {
    "pos": 2,
-   "title": "FEXMY Shoe Bite Protector Heel Grips, Liner Cushions & Inserts for Loose Shoes Support Heel Support",
+   "title": "Pennen Women Flats",
+   "brand": "Pennen",
    "price": null,
-   "rating": 3.8,
-   "ratings": 1478,
+   "rating": 3.7,
+   "ratings": 633,
    "isFrido": false
   },
   {
    "pos": 3,
-   "title": "FEXMY Heel Grips Liner Cushions Inserts for Loose Shoes Insoles for Men Heel Support",
+   "title": "SUPEREVA Women Flats",
+   "brand": "SUPEREVA",
    "price": null,
-   "rating": 3.8,
-   "ratings": 1478,
+   "rating": 3.9,
+   "ratings": 736,
    "isFrido": false
   },
   {
    "pos": 4,
-   "title": "Frido Ultimate Pro Seat Cushion & Posture Corrector Backrest Combo Back / Lumbar Support",
+   "title": "Phonolite Women Womens Casual comfort stylish trending combo slippers (Pack of 2) Flip Flops",
+   "brand": "Phonolite",
    "price": null,
-   "rating": 4,
-   "ratings": 385,
-   "isFrido": true
+   "rating": 3.8,
+   "ratings": 11048,
+   "isFrido": false
   },
   {
    "pos": 5,
-   "title": "bansi Arch Support Sock With Comfort Gel Pad, Arch Brace for Flat Feet Support Band Foot Support",
+   "title": "Phonolite Women Slippers",
+   "brand": "Phonolite",
    "price": null,
    "rating": 3.9,
-   "ratings": 1003,
+   "ratings": 1336,
    "isFrido": false
   },
   {
    "pos": 6,
-   "title": "Frido Max Comfort Soft Arch Cushion Insole, Large (8 to 11 UK) Pack of 2 PU Foam Arch Orthotic Shoe Insole",
+   "title": "Frido Cloud Comfort Open Toe with Adjustable Z-Strap, Cushioned PU Footbed Women Flats",
+   "brand": "Frido",
    "price": null,
-   "rating": 3.9,
-   "ratings": 75,
+   "rating": 4.2,
+   "ratings": 34,
    "isFrido": true
   },
   {
    "pos": 7,
-   "title": "Frido Dual Gel Insoles, Extra Comfort & Support, Trim-to-fit, Made in India (8-13 UK) Silicone, Gel Full Length Orthotic Shoe Insole",
-   "price": null,
-   "rating": 3.9,
-   "ratings": 205,
-   "isFrido": true
-  },
-  {
-   "pos": 8,
-   "title": "Frido Orthotics Bunion Corrector, Pain Relief & Adjustable Toe Straightener, Pack of 2 Foot Support",
+   "title": "DRACKFOOT Women Flats",
+   "brand": "DRACKFOOT",
    "price": null,
    "rating": 0,
    "ratings": 0,
-   "isFrido": true
-  },
-  {
-   "pos": 9,
-   "title": "Frido Dual Gel Insoles, Extra Comfort & Support, Trim-to-fit, Made in India (5-9 UK) Silicone, Gel Full Length Orthotic Shoe Insole",
-   "price": null,
-   "rating": 3.9,
-   "ratings": 205,
-   "isFrido": true
-  },
-  {
-   "pos": 10,
-   "title": "Frido Wedge Plus Memory Foam Cushion for Sleeping, Acid Reflux Relief & Leg Elevator Back / Lumbar Support",
-   "price": null,
-   "rating": 4.2,
-   "ratings": 435,
-   "isFrido": true
-  },
-  {
-   "pos": 11,
-   "title": "Frido Max Comfort Memory Hi-Per Foam Trimmable Insole, Small (4-8 UK) Gel Arch Orthotic Shoe Insole",
-   "price": null,
-   "rating": 4.1,
-   "ratings": 36,
-   "isFrido": true
-  },
-  {
-   "pos": 12,
-   "title": "Frido Max Comfort Memory Hi-Per Foam Trimmable Insole, Large (9-13 UK), Pack of 2 Gel Arch Orthotic Shoe Insole",
-   "price": null,
-   "rating": 4.8,
-   "ratings": 4,
-   "isFrido": true
+   "isFrido": false
   }
  ],
  "notes": []

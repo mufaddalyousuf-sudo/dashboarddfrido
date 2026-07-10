@@ -1,123 +1,130 @@
 {
  "category": "insoles-plantar-fasciitis-pain-relief-ortho-insoles",
  "marketplace": "flipkart",
- "keyword": "Frido Plantar Fasciitis Pain Relief Ortho Insoles",
+ "keyword": "Plantar Fasciitis Pain Relief Ortho Insoles",
+ "brandKeyword": "Frido Plantar Fasciitis Pain Relief Ortho Insoles",
  "capturedAt": "2026-07-08",
- "method": "Live scrape flipkart.com mobile search page 1 (__INITIAL_STATE__), query = exact SKU name",
+ "method": "Live scrape flipkart.com mobile search page 1 (__INITIAL_STATE__), query = generic product keyword",
  "confidence": "Medium-High (live; sponsored flags not exposed on mobile)",
- "fridoRank": 6,
+ "fridoRank": 5,
  "fridoPresent": true,
+ "fridoUrl": "https://www.flipkart.com/search?q=Plantar%20Fasciitis%20Pain%20Relief%20Ortho%20Insoles",
  "results": [
   {
    "pos": 1,
-   "title": "betterhood Ankle Binder, ZeroBulk Design for Sports & Injury Recovery, M Pack of 1 Ankle Support",
+   "title": "betterhood PosturePro Arch Support Shoe Inserts for Men, Women | for Flat Feet | Orthopedic Insole",
+   "brand": "betterhood",
    "price": null,
-   "rating": 4.1,
-   "ratings": 223,
+   "rating": 3.9,
+   "ratings": 250,
    "isFrido": false
   },
   {
    "pos": 2,
-   "title": "betterhood 4-Strap Knee Brace with Stabilizers for Pain & Injury Recovery, Pack of 1 Knee Support",
+   "title": "betterhood PosturePro Dual Gel Shoe Inserts for Men, Women | Everyday Comfort Ergonomic Insole",
+   "brand": "betterhood",
    "price": null,
-   "rating": 4.3,
-   "ratings": 175,
+   "rating": 4.1,
+   "ratings": 101,
    "isFrido": false
   },
   {
    "pos": 3,
-   "title": "betterhood Wrist Brace, ZeroBulk Design for Sports and Injury Recovery, Pack of 2 Wrist Support",
+   "title": "betterhood PosturePro Orthopedic Heel Pads for Pain Relief | Shoe Inserts for Men Women | Heel Support",
+   "brand": "betterhood",
    "price": null,
-   "rating": 4.3,
-   "ratings": 41,
+   "rating": 4,
+   "ratings": 225,
    "isFrido": false
   },
   {
    "pos": 4,
-   "title": "betterhood Ankle Binder, ZeroBulk Design for Sports & Injury Recovery, L Pack of 2 Ankle Support",
+   "title": "Store2508 Arch Support Flat Feet Pain Relief Plantar Fasciitis Foot Shoe Gel Insoles Socks (1 Pair) Insole",
+   "brand": "Store2508",
    "price": null,
-   "rating": 4.1,
-   "ratings": 223,
+   "rating": 3.8,
+   "ratings": 2761,
    "isFrido": false
   },
   {
    "pos": 5,
-   "title": "betterhood Knee Sleeve with Stabilizers for Sports & Pain Relief, M Pack of 1 Knee Support",
+   "title": "Frido Dual Gel Insoles, Extra Comfort & Support, Trim-to-fit, Made in India (5-9 UK) Insole",
+   "brand": "Frido",
    "price": null,
-   "rating": 3.9,
-   "ratings": 66,
-   "isFrido": false
+   "rating": 3.8,
+   "ratings": 4043,
+   "isFrido": true
   },
   {
    "pos": 6,
-   "title": "Frido Heel Pads for Heel Pain Relief & Extra Comfort, S (UK 4-7), Pack of 4 Heel Support",
-   "price": null,
-   "rating": 3.9,
-   "ratings": 17,
-   "isFrido": true
-  },
-  {
-   "pos": 7,
-   "title": "Frido Dual Gel Insoles, Extra Comfort & Support, Trim-to-fit, Made in India (5-9 UK) Insole",
-   "price": null,
-   "rating": 3.8,
-   "ratings": 4042,
-   "isFrido": true
-  },
-  {
-   "pos": 8,
-   "title": "BIFRRUTANT Heel Support Sleeves Heel Pain Relief Pads Helps Relieve Plantar Fasciitis Heel Support",
+   "title": "Yoviex Plantar Fasciitis Heel Support Foot Comfort Gel Sleeves Heel Pain Relief Pads Heel Support",
+   "brand": "Yoviex",
    "price": null,
    "rating": 0,
    "ratings": 0,
+   "isFrido": false
+  },
+  {
+   "pos": 7,
+   "title": "BIFRRUTANT Heel Support Sleeves Heel Pain Relief Pads Helps Relieve Plantar Fasciitis Heel Support",
+   "brand": "BIFRRUTANT",
+   "price": null,
+   "rating": 0,
+   "ratings": 0,
+   "isFrido": false
+  },
+  {
+   "pos": 8,
+   "title": "HOSPIKART Gel Heel Cup Sleeve for Plantar Fasciitis & Heel Pain Relief (Universal- 1 Pack) Heel Support",
+   "brand": "HOSPIKART",
+   "price": null,
+   "rating": 4,
+   "ratings": 503,
    "isFrido": false
   },
   {
    "pos": 9,
-   "title": "HOSPIKART Gel Heel Cup Sleeve for Plantar Fasciitis & Heel Pain Relief (Universal- 1 Pack) Heel Support",
+   "title": "FOVERA Gel - Shoe Inserts for Walking, Running Hiking - All Day Comfort (Male) Insole",
+   "brand": "FOVERA",
    "price": null,
-   "rating": 4,
-   "ratings": 502,
+   "rating": 3.9,
+   "ratings": 23316,
    "isFrido": false
   },
   {
    "pos": 10,
-   "title": "FOVERA Gel - Shoe Inserts for Walking, Running Hiking - All Day Comfort (Male) Insole",
-   "price": null,
-   "rating": 3.9,
-   "ratings": 23314,
-   "isFrido": false
-  },
-  {
-   "pos": 11,
-   "title": "EVERSYS Heel Pain Relief Pad, 1 Pair Plantar Fasciitis Heels Support Heel Support",
-   "price": null,
-   "rating": 3.7,
-   "ratings": 98,
-   "isFrido": false
-  },
-  {
-   "pos": 12,
-   "title": "BIFRRUTANT Heel Pain Relief Plantar Fasciitis Heel Support Foot Pain Relief Heel Pads Heel Support",
-   "price": null,
-   "rating": 1.2,
-   "ratings": 5,
-   "isFrido": false
-  },
-  {
-   "pos": 13,
-   "title": "Yoviex Plantar Fasciitis Heel Support Heel Pressure Relief Pads Moisturizing Heel Care Heel Support",
+   "title": "Yoviex Heel Pain Relief Pads For Flexible Foot Support For Plantar Fasciitis Support Heel Support",
+   "brand": "Yoviex",
    "price": null,
    "rating": 0,
    "ratings": 0,
    "isFrido": false
   },
   {
-   "pos": 14,
-   "title": "AGEasy Insoles for Flat Feet |Rebound Relief Technology for Arch Support Insole",
+   "pos": 11,
+   "title": "Yoviex Heel Pain Relief Pads For Plantar Fasciitis Support Sweat Resistant Comfort Heel Support",
+   "brand": "Yoviex",
    "price": null,
-   "rating": 4.2,
-   "ratings": 151,
+   "rating": 0,
+   "ratings": 0,
+   "isFrido": false
+  },
+  {
+   "pos": 12,
+   "title": "Dyna Silicare Silicone Heel Cushion-1 Pair Heel Support",
+   "brand": "Dyna",
+   "price": null,
+   "rating": 4,
+   "ratings": 61,
+   "isFrido": false
+  },
+  {
+   "pos": 13,
+   "title": "Dyna Silicare Silicone Insoles(Removable)-1 Pair Insole",
+   "brand": "Dyna",
+   "price": null,
+   "rating": 3.8,
+   "ratings": 211,
    "isFrido": false
   }
  ],

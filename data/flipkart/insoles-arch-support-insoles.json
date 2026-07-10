@@ -1,16 +1,19 @@
 {
  "category": "insoles-arch-support-insoles",
  "marketplace": "flipkart",
- "keyword": "Frido Arch Support Insoles",
+ "keyword": "Arch Support Insoles",
+ "brandKeyword": "Frido Arch Support Insoles",
  "capturedAt": "2026-07-08",
- "method": "Live scrape flipkart.com mobile search page 1 (__INITIAL_STATE__), query = exact SKU name",
+ "method": "Live scrape flipkart.com mobile search page 1 (__INITIAL_STATE__), query = generic product keyword",
  "confidence": "Medium-High (live; sponsored flags not exposed on mobile)",
- "fridoRank": null,
- "fridoPresent": false,
+ "fridoRank": 7,
+ "fridoPresent": true,
+ "fridoUrl": "https://www.flipkart.com/search?q=Arch%20Support%20Insoles",
  "results": [
   {
    "pos": 1,
    "title": "betterhood PosturePro Arch Support Shoe Inserts for Men, Women | for Flat Feet | Orthopedic Insole",
+   "brand": "betterhood",
    "price": null,
    "rating": 3.9,
    "ratings": 250,
@@ -19,14 +22,16 @@
   {
    "pos": 2,
    "title": "betterhood PosturePro Dual Gel Shoe Inserts for Men, Women | Everyday Comfort Ergonomic Insole",
+   "brand": "betterhood",
    "price": null,
    "rating": 4.1,
-   "ratings": 100,
+   "ratings": 101,
    "isFrido": false
   },
   {
    "pos": 3,
    "title": "betterhood PosturePro Orthopedic Heel Pads for Pain Relief | Shoe Inserts for Men Women | Heel Support",
+   "brand": "betterhood",
    "price": null,
    "rating": 4,
    "ratings": 225,
@@ -35,89 +40,64 @@
   {
    "pos": 4,
    "title": "FOVERA Gel - Shoe Inserts for Walking, Running Hiking - All Day Comfort (Male) Insole",
+   "brand": "FOVERA",
    "price": null,
    "rating": 3.9,
-   "ratings": 23314,
+   "ratings": 23316,
    "isFrido": false
   },
   {
    "pos": 5,
-   "title": "AGEasy Insoles for Flat Feet |Rebound Relief Technology for Arch Support Insole",
+   "title": "Foot Vital Memory Foam Shoe Insoles Comfortable Insoles Supports Heel & Arch (Pack of 1) Insole",
+   "brand": "Foot Vital",
    "price": null,
-   "rating": 4.2,
-   "ratings": 151,
+   "rating": 4,
+   "ratings": 4870,
    "isFrido": false
   },
   {
    "pos": 6,
-   "title": "WELLGIVER ComfortMaxx Gel Insoles All Day Comfort & Support, Trimmable Insole",
+   "title": "Thrivanta 1 Pair Memory Foam Shoe Comfortable Supports Heel & Arch Insole",
+   "brand": "Thrivanta",
    "price": null,
-   "rating": 4,
-   "ratings": 40,
+   "rating": 4.1,
+   "ratings": 1262,
    "isFrido": false
   },
   {
    "pos": 7,
-   "title": "Delidge Orthotic Arch support Sport Running Silicone Gel Insole (Small:225-250mm) Insole",
+   "title": "Frido Dual Gel Insoles, Extra Comfort & Support, Trim-to-fit, Made in India (5-9 UK) Insole",
+   "brand": "Frido",
    "price": null,
-   "rating": 0,
-   "ratings": 0,
-   "isFrido": false
+   "rating": 3.8,
+   "ratings": 4043,
+   "isFrido": true
   },
   {
    "pos": 8,
-   "title": "Rameja Memory Foam Shoe Insoles Unisex Comfortable Athletic Insoles for Men and Women Back / Lumbar Support",
+   "title": "lais enterprises Orthotic Arch Support Shoe Insoles Insole",
+   "brand": "lais enterprises",
    "price": null,
-   "rating": 4.1,
-   "ratings": 241,
+   "rating": 3.5,
+   "ratings": 8,
    "isFrido": false
   },
   {
    "pos": 9,
-   "title": "QIQI Height Increase Insoles 4-Layer Heel Orthotic Adjustable Comfortable Breathable Insole",
+   "title": "YUJASV Arch Support Flat Foot Orthopedic Insole Relieve Foot Pain Plantar Fasciitis Insole",
+   "brand": "YUJASV",
    "price": null,
    "rating": 3.8,
-   "ratings": 298,
+   "ratings": 139,
    "isFrido": false
   },
   {
    "pos": 10,
-   "title": "WELLGIVER Gel Insoles - Shoe Inserts for Walking, Running - All Day Comfort, Insole",
+   "title": "Silencio Memory Foam Shoe Insoles, Shock Absorbing Insoles For Men & Women Size EU 39-45 Heel Support",
+   "brand": "Silencio",
    "price": null,
-   "rating": 4,
-   "ratings": 40,
-   "isFrido": false
-  },
-  {
-   "pos": 11,
-   "title": "FALMAGU Flat Foot Arch Support for Men & Women | Medial Arch Support Ankle Support Foot Support",
-   "price": null,
-   "rating": 4,
-   "ratings": 50,
-   "isFrido": false
-  },
-  {
-   "pos": 12,
-   "title": "ADONYX Combo of Knee,Palm, Knee Support",
-   "price": null,
-   "rating": 3.9,
-   "ratings": 11636,
-   "isFrido": false
-  },
-  {
-   "pos": 13,
-   "title": "ADONYX Adustable Compression Foot Pain Relief Ankle Support",
-   "price": null,
-   "rating": 4,
-   "ratings": 3104,
-   "isFrido": false
-  },
-  {
-   "pos": 14,
-   "title": "ADONYX 1 Pack Knee Compression Sleeve, Knee Support for Sports Workout Knee Support",
-   "price": null,
-   "rating": 4,
-   "ratings": 2992,
+   "rating": 3.7,
+   "ratings": 111,
    "isFrido": false
   }
  ],

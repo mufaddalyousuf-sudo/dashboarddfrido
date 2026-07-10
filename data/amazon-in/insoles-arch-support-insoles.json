@@ -1,106 +1,70 @@
 {
  "category": "insoles-arch-support-insoles",
  "marketplace": "amazon-in",
- "keyword": "Frido Arch Support Insoles",
+ "keyword": "Arch Support Insoles",
+ "brandKeyword": "Frido Arch Support Insoles",
  "capturedAt": "2026-07-08",
- "method": "Live scrape amazon.in search page 1, query = exact SKU name (brand-qualified)",
+ "method": "Live scrape amazon.in search page 1, query = generic product keyword (brand + Frido product-line/marketing words stripped) — the competitive rank signal, not a brand-qualified existence check",
  "confidence": "High (live snapshot, single keyword)",
  "fridoOrganicRank": 1,
- "fridoSponsoredSlot": 1,
+ "fridoSponsoredSlot": 2,
+ "fridoUrl": "https://www.amazon.in/dp/B0C96X89BB",
  "organic": [
-  {
-   "asin": "B0D6Z3B4FC",
-   "badge": null,
-   "price": "1,199",
-   "rating": "3.9",
-   "reviews": "956",
-   "title": "Frido Rigid Arch Support Insole for Flat Feet | Relieves Feet Pain | Plantar Fasciitis & Heel Spurs | Orthotic Inserts for Enhanced Stability | Trimmable Shoe I",
-   "rank": 1,
-   "isFridoBrand": true
-  },
   {
    "asin": "B0C96X89BB",
    "badge": null,
    "price": "1,099",
    "rating": "4.1",
-   "reviews": "950",
+   "reviews": "952",
    "title": "Frido Semi Rigid Arch Support Insole for Flat Feet | Relieves Feet Pain | Plantar Fasciitis & Heel Spurs | Orthotic Inserts for Enhanced Stability | Comfortable",
-   "rank": 2
-  },
-  {
-   "asin": "B0DC73GC9Q",
-   "badge": null,
-   "price": "1,799",
-   "rating": "3.9",
-   "reviews": "77",
-   "title": "Frido Rigid & Semi Rigid Arch Support Insole for Flat Feet | Relieves Feet Pain | Plantar Fasciitis & Heel Spurs | Orthotic Inserts for Stability | Trimmable Sh",
-   "rank": 3
-  },
-  {
-   "asin": "B0CG35T6BH",
-   "badge": null,
-   "price": "579",
-   "rating": "4.0",
-   "reviews": "1,444",
-   "title": "Frido Max Comfort Arch Cushion Insole | Relieves Arch Pain | Proprietary Hi- Per Foam Orthotic Inserts | Deep Heel Cup for Enhanced Stability | Sports & Casual ",
-   "rank": 4
-  },
-  {
-   "asin": "B09RV5MGQ2",
-   "badge": "Bestseller",
-   "price": "694",
-   "rating": "3.8",
-   "reviews": "9,642",
-   "title": "Frido Dual Gel Heavy Duty Trimmable Insoles | For Loose Shoes or Replacing Existing Insoles | Thick Shoe Inserts | Extra Comfort and Support | Proudly Made in I",
-   "rank": 5
-  },
-  {
-   "asin": "B0C9CBXC2M",
-   "badge": null,
-   "price": "1,799",
-   "rating": "4.5",
-   "reviews": "19",
-   "title": "Frido Semi Rigid Arch Support Insole for Flat Feet | Relieves Feet Pain | Plantar Fasciitis & Heel Spurs | Orthotic Inserts for Enhanced Stability, Trimmable Sh",
-   "rank": 6
-  },
-  {
-   "asin": "B0DJKR4763",
-   "badge": "Bestseller",
-   "price": "899",
-   "rating": "3.8",
-   "reviews": "9,642",
-   "title": "Frido Dual Gel Pro Shoe Insoles -Trimmable Shoe Sole for Men & Women for Stability, Shock Absorption & Comfort | Anti-Sweat Sports Insole, Foot Support Silicone",
-   "rank": 7
-  },
-  {
-   "asin": "B0FR9QVDZR",
-   "badge": "Bestseller",
-   "price": "949",
-   "rating": "4.1",
-   "reviews": "1,745",
-   "title": "Cloud Comfort Slippers for Women & Men | Available in 2 Options- Arch Support & Without Arch |Orthopedic Soft Home Chappal Unisex Slipper, House Slipper with An",
-   "rank": 8
-  },
-  {
-   "asin": "B0FQW6FLLV",
-   "badge": null,
-   "price": "1,499",
-   "rating": "4.3",
-   "reviews": "21",
-   "title": "Frido Plantar Fasciitis Pain Relief Ortho Insoles | Orthopedic Arch Support Insoles For Men & Women | Trim-to-fit | For Foot Pain, Heel Pain, Standing & Walking",
-   "rank": 9
+   "rank": 1,
+   "isFridoBrand": true
   },
   {
    "asin": "B0DKF681T2",
    "badge": null,
    "price": "298",
-   "rating": "3.4",
-   "reviews": "247",
+   "rating": "3.5",
+   "reviews": "248",
    "title": "Arch Support for Flat Feet Insole,Cuttable Flat Foot Correction Insoles,Relieves Arch Pain,Additional Comfort and Support with Enhanced Foot Stability,Shoe Inso",
-   "rank": 10
-  }
- ],
- "sponsored": [
+   "rank": 2
+  },
+  {
+   "asin": "B0H2F9GHDN",
+   "badge": null,
+   "price": "199",
+   "rating": "4.4",
+   "reviews": "13",
+   "title": "DOSJNI Flat Foot Arch Support Insole for Men & Women | Medial Arch Support Sleeve with Gel Cushion | Plantar Fasciitis & Fallen Arch Pain Relief | Orthotic Foot",
+   "rank": 3
+  },
+  {
+   "asin": "B0DSFPK9LM",
+   "badge": null,
+   "price": "588",
+   "rating": "4.0",
+   "reviews": "241",
+   "title": "betterhood PosturePro Arch Support Insoles | Small, 5-8 UK | Gel Insoles for Shoes, Flat Feet Arch Support Ergonomic Orthopedic Shoe Inserts, Thin and Non-Bulk ",
+   "rank": 4
+  },
+  {
+   "asin": "B0DC71PHMR",
+   "badge": null,
+   "price": "499",
+   "rating": "4.0",
+   "reviews": "345",
+   "title": "Frido Arch Sports Insole | Hi-Per Foam Orthotic Inserts for Arch Pain Relief and Injury Prevention | Casual Shoe Insert for Enhanced Comfort | Extra Large Size ",
+   "rank": 5
+  },
+  {
+   "asin": "B09H39CW9W",
+   "badge": null,
+   "price": "259",
+   "rating": "3.8",
+   "reviews": "2,388",
+   "title": "Aegon Flat Foot Arch Support for Men & Women | Medial Arch Support for Flat Feet Correction Sleeve with Cushion | Plantar Fasciitis Leg Foot Pain Relief Product",
+   "rank": 6
+  },
   {
    "asin": "B0D6Z15DB8",
    "badge": null,
@@ -108,52 +72,90 @@
    "rating": "3.9",
    "reviews": "956",
    "title": "Frido Rigid Arch Support Insole for Flat Feet | Relieves Feet Pain | Plantar Fasciitis & Heel Spurs | Orthotic Inserts for Enhanced Stability | Trimmable Shoe I",
-   "slot": 1,
-   "isFridoBrand": true
+   "rank": 7
   },
+  {
+   "asin": "B0CHNYB166",
+   "badge": "Amazon's Choice",
+   "price": "759",
+   "rating": "4.0",
+   "reviews": "779",
+   "title": "Boldfit Arch Support For Flat Feet Silicone Insole for Shoes Men & Women Flat Foot Correction insoles Orthopedic Gel Flat Feet Arch Support Insole, Plantar Fasc",
+   "rank": 8
+  },
+  {
+   "asin": "B0FZVPV547",
+   "badge": null,
+   "price": "299",
+   "rating": "4.3",
+   "reviews": "13",
+   "title": "ZONALIYA Orthotic Arch Support Shoe Insoles Pu Cushioning Inserts Shock Absorption Velvet Surfaces Deep Heel Cup Inner Sole for Flat Feet Feet Heel Pain Relief ",
+   "rank": 9
+  },
+  {
+   "asin": "B0F4DPDR6B",
+   "badge": null,
+   "price": "209",
+   "rating": "3.9",
+   "reviews": "97",
+   "title": "ATIRAMANIYA Orthopedic Insoles for Plantar Fasciitis Medium Arch Support Shoe Inserts for Flat Feet, Heel Spurs & Foot Pain Relief – Shock Absorbing Comfort Ins",
+   "rank": 10
+  }
+ ],
+ "sponsored": [
   {
    "asin": "B0DSFPK9LM",
    "badge": null,
-   "price": "599",
+   "price": "588",
    "rating": "4.0",
-   "reviews": "240",
+   "reviews": "241",
    "title": "betterhood PosturePro Arch Support Insoles | Small, 5-8 UK | Gel Insoles for Shoes, Flat Feet Arch Support Ergonomic Orthopedic Shoe Inserts, Thin and Non-Bulk ",
-   "slot": 2
+   "slot": 1
   },
   {
-   "asin": "B0FY6VY6B1",
+   "asin": "B0D6Z3B4FC",
    "badge": null,
-   "price": "599",
-   "rating": "3.0",
-   "reviews": "3",
-   "title": "Helios Arch Active Foot Support Insoles for Shoes | Anti-Fatigue Arch Cushion Inserts for All Day Comfort | Unisex | 1 Pair (Size 9–12)",
+   "price": "1,199",
+   "rating": "3.9",
+   "reviews": "956",
+   "title": "Frido Rigid Arch Support Insole for Flat Feet | Relieves Feet Pain | Plantar Fasciitis & Heel Spurs | Orthotic Inserts for Enhanced Stability | Trimmable Shoe I",
+   "slot": 2,
+   "isFridoBrand": true
+  },
+  {
+   "asin": "B0DVPWCPX4",
+   "badge": null,
+   "price": "915",
+   "rating": "3.4",
+   "reviews": "233",
+   "title": "Dr.Ortho Pain Relief Gel Insoles | Gel Technology for All Day Comfort | Trimmable Sole for Walking, Running, Sports, Formal and Safety Shoes (Size 8-12 UK) - Pa",
    "slot": 3
   },
   {
-   "asin": "B0F9XG77C9",
+   "asin": "B0CHNYKGJ5",
    "badge": null,
-   "price": "404",
-   "rating": "3.8",
-   "reviews": "26",
-   "title": "8ease Shoe Insoles for Men & Women – Arch Support Insole for Heel & Foot Pain Relief | Anti-Fatigue Cushion Inner Sole for All-Day Standing & Walking | PU Foam,",
+   "price": "798",
+   "rating": "4.0",
+   "reviews": "779",
+   "title": "Boldfit Arch Support For Flat Feet Silicone Insole for Shoes Men & Women Flat Foot Correction insoles Orthopedic Gel Flat Feet Arch Support Insole, Plantar Fasc",
    "slot": 4
   },
   {
-   "asin": "B0DC71PHMR",
+   "asin": "B0CN5HXHHZ",
    "badge": null,
-   "price": "499",
-   "rating": "4.0",
-   "reviews": "341",
-   "title": "Frido Arch Sports Insole | Hi-Per Foam Orthotic Inserts for Arch Pain Relief and Injury Prevention | Casual Shoe Insert for Enhanced Comfort | Extra Large Size ",
+   "price": "349",
+   "rating": "3.8",
+   "reviews": "1,630",
+   "title": "RENESMEE Orthotic Arch Support Shoe Insoles, Children Pu Cushioning Inserts, Shock Absorption Velvet Surfaces Deep Heel Cup Inner Sole for Flat Feet, Feet Heel ",
    "slot": 5
   },
   {
-   "asin": "B09RV5Y43H",
-   "badge": "Bestseller",
-   "price": "1,259",
-   "rating": "3.8",
-   "reviews": "9,642",
-   "title": "Frido Dual Gel Heavy Duty Trimmable Insoles | For Loose Shoes or Replacing Existing Insoles | Thick Shoe Inserts | Extra Comfort and Support | Proudly Made in I",
+   "asin": "B0CVS58PBV",
+   "badge": null,
+   "price": "249",
+   "rating": "4.1",
+   "reviews": "1,705",
+   "title": "SILENCIO Memory Foam Shoe Insole, Shock Absorption Sports Inserts Anti-Slip Cropable Insoles Arch Support Orthotic Insoles Soft Elastic Insoles for Men Women (E",
    "slot": 6
   },
   {
@@ -175,21 +177,21 @@
    "slot": 8
   },
   {
-   "asin": "B0BKZMYX87",
+   "asin": "B00TB0J50Q",
    "badge": null,
-   "price": "189",
+   "price": "1,740",
    "rating": "4.0",
-   "reviews": "967",
-   "title": "Home Genie Memory Foam Shoes Insole | shoe Insoles for All Shoes | Shoe Insole for heel pain | Super Soft Absorption Pads Comfortable, Soft, Durable, Washable (",
+   "reviews": "1",
+   "title": "ARCH ORTHOTIC INSOLES 307 (S)",
    "slot": 9
   },
   {
-   "asin": "B0GT4CBHMX",
+   "asin": "B0G7H23HJ3",
    "badge": null,
-   "price": "799",
-   "rating": "4.0",
-   "reviews": "17",
-   "title": "Sneakare All Day Comfort Insoles for Men & Women | Wave Cushion Arch Support Inserts | Anti-Fatigue, Odorless, Trim-to-Fit Shoe Insoles for Work, Walking & Dail",
+   "price": "1,290",
+   "rating": "3.9",
+   "reviews": "10",
+   "title": "COIF Premium Shoe Insoles for Men & Women | Soft Cushion Arch Support Inserts | Shock Absorbing Orthopedic Insoles for Running, Sports & Daily Comfort | Breatha",
    "slot": 10
   }
  ],

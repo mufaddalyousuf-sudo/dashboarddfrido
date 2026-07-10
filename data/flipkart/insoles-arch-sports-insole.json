@@ -1,72 +1,82 @@
 {
  "category": "insoles-arch-sports-insole",
  "marketplace": "flipkart",
- "keyword": "Frido Arch Sports Insole",
+ "keyword": "Arch Sports Insole",
+ "brandKeyword": "Frido Arch Sports Insole",
  "capturedAt": "2026-07-08",
- "method": "Live scrape flipkart.com mobile search page 1 (__INITIAL_STATE__), query = exact SKU name",
+ "method": "Live scrape flipkart.com mobile search page 1 (__INITIAL_STATE__), query = generic product keyword",
  "confidence": "Medium-High (live; sponsored flags not exposed on mobile)",
- "fridoRank": 5,
+ "fridoRank": 4,
  "fridoPresent": true,
+ "fridoUrl": "https://www.flipkart.com/search?q=Arch%20Sports%20Insole",
  "results": [
   {
    "pos": 1,
-   "title": "ADONYX Combo of Knee,Palm, Knee Support",
+   "title": "betterhood PosturePro Arch Support Shoe Inserts for Men, Women | for Flat Feet | Orthopedic Insole",
+   "brand": "betterhood",
    "price": null,
    "rating": 3.9,
-   "ratings": 11636,
+   "ratings": 250,
    "isFrido": false
   },
   {
    "pos": 2,
-   "title": "ADONYX Adustable Compression Foot Pain Relief Ankle Support",
+   "title": "betterhood PosturePro Dual Gel Shoe Inserts for Men, Women | Everyday Comfort Ergonomic Insole",
+   "brand": "betterhood",
    "price": null,
-   "rating": 4,
-   "ratings": 3104,
+   "rating": 4.1,
+   "ratings": 101,
    "isFrido": false
   },
   {
    "pos": 3,
-   "title": "ADONYX 1 Pack Knee Compression Sleeve, Knee Support for Sports Workout Knee Support",
+   "title": "betterhood PosturePro Orthopedic Heel Pads for Pain Relief | Shoe Inserts for Men Women | Heel Support",
+   "brand": "betterhood",
    "price": null,
    "rating": 4,
-   "ratings": 2992,
+   "ratings": 225,
    "isFrido": false
   },
   {
    "pos": 4,
-   "title": "ADONYX Premium 3D Sport Ankle Brace Protector Compression Protection Guard Pain Relief Ankle Support",
+   "title": "Frido Dual Gel Insoles, Extra Comfort & Support, Trim-to-fit, Made in India (5-9 UK) Insole",
+   "brand": "Frido",
    "price": null,
-   "rating": 3.9,
-   "ratings": 2345,
-   "isFrido": false
+   "rating": 3.8,
+   "ratings": 4043,
+   "isFrido": true
   },
   {
    "pos": 5,
-   "title": "Frido Dual Gel Insoles, Extra Comfort & Support, Trim-to-fit, Made in India (5-9 UK) Insole",
-   "price": null,
-   "rating": 3.8,
-   "ratings": 4042,
-   "isFrido": true
-  },
-  {
-   "pos": 6,
-   "title": "Frido Dual Gel Insoles, Extra Comfort & Support, Trim-to-fit, Made in India (8-13 UK) Silicone, Gel Full Length Orthotic Shoe Insole",
-   "price": null,
-   "rating": 3.8,
-   "ratings": 4042,
-   "isFrido": true
-  },
-  {
-   "pos": 7,
    "title": "Frido Arch Sports Insole, Relieves Arch Pain, Large (7 to 10 UK) Pack of 1 PU Foam Arch Orthotic Shoe Insole",
+   "brand": "Frido",
    "price": null,
    "rating": 4,
    "ratings": 239,
    "isFrido": true
   },
   {
+   "pos": 6,
+   "title": "Silencio Memory Foam Shoe Insoles, Shock Absorbing Insoles For Men & Women Size EU 39-45 Heel Support",
+   "brand": "Silencio",
+   "price": null,
+   "rating": 3.7,
+   "ratings": 111,
+   "isFrido": false
+  },
+  {
+   "pos": 7,
+   "title": "FOVERA Gel - Shoe Inserts for Walking, Running Hiking - All Day Comfort (Male) Insole",
+   "brand": "FOVERA",
+   "price": null,
+   "rating": 3.9,
+   "ratings": 23316,
+   "isFrido": false
+  },
+  {
    "pos": 8,
    "title": "kridha Sports Shoe Arch Insoles Insole",
+   "brand": "kridha",
    "price": null,
    "rating": 4.3,
    "ratings": 4,
@@ -74,50 +84,29 @@
   },
   {
    "pos": 9,
-   "title": "betterhood PosturePro Arch Support Shoe Inserts for Men, Women | for Flat Feet | Orthopedic Insole",
+   "title": "Frido Dual Gel Insoles, Extra Comfort & Support, Trim-to-fit, Made in India (8-13 UK) Silicone, Gel Full Length Orthotic Shoe Insole",
+   "brand": "Frido",
    "price": null,
-   "rating": 3.9,
-   "ratings": 250,
-   "isFrido": false
+   "rating": 3.8,
+   "ratings": 4043,
+   "isFrido": true
   },
   {
    "pos": 10,
-   "title": "FOVERA Gel - Shoe Inserts for Walking, Running Hiking - All Day Comfort (Male) Insole",
+   "title": "Fifth Genration Flat Foot Arch Support for Men & Women,Medial Arch Support Heel Support",
+   "brand": "Fifth Genration",
    "price": null,
-   "rating": 3.9,
-   "ratings": 23314,
+   "rating": 4,
+   "ratings": 52,
    "isFrido": false
   },
   {
    "pos": 11,
-   "title": "Frido Heel Pads for Heel Pain Relief & Extra Comfort, S (UK 4-7), Pack of 2 Heel Support",
-   "price": null,
-   "rating": 3.7,
-   "ratings": 40,
-   "isFrido": true
-  },
-  {
-   "pos": 12,
-   "title": "Frido Heel Pads for Heel Pain Relief & Extra Comfort, S (UK 4-7), Pack of 4 Heel Support",
-   "price": null,
-   "rating": 3.9,
-   "ratings": 17,
-   "isFrido": true
-  },
-  {
-   "pos": 13,
-   "title": "Pink Square Flat Foot Arch Support - For Sleeves Heel Guard Comfort For Snug Shoes Heel Support",
+   "title": "Yoviex Heel Support Sleeves Heel Stability Support For Plantar Fasciitis Support Heel Support",
+   "brand": "Yoviex",
    "price": null,
    "rating": 0,
    "ratings": 0,
-   "isFrido": false
-  },
-  {
-   "pos": 14,
-   "title": "betterhood PosturePro Dual Gel Shoe Inserts for Men, Women | Everyday Comfort Ergonomic Insole",
-   "price": null,
-   "rating": 4.1,
-   "ratings": 100,
    "isFrido": false
   }
  ],

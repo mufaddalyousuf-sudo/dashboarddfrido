@@ -1,14 +1,132 @@
 {
  "category": "insoles-orthotics-heel-protector",
  "marketplace": "flipkart",
- "keyword": "Frido Orthotics Heel Protector",
+ "keyword": "Orthotics Heel Protector",
+ "brandKeyword": "Frido Orthotics Heel Protector",
  "capturedAt": "2026-07-08",
- "method": "Live scrape flipkart.com mobile search page 1 (__INITIAL_STATE__), query = exact SKU name",
- "confidence": "Low (fetch blocked)",
+ "method": "Live scrape flipkart.com mobile search page 1 (__INITIAL_STATE__), query = generic product keyword",
+ "confidence": "Medium-High (live; sponsored flags not exposed on mobile)",
  "fridoRank": null,
  "fridoPresent": false,
- "results": [],
- "notes": [
-  "Live fetch failed after retries — needs re-verification."
- ]
+ "fridoUrl": "https://www.flipkart.com/search?q=Orthotics%20Heel%20Protector",
+ "results": [
+  {
+   "pos": 1,
+   "title": "betterhood PosturePro Arch Support Shoe Inserts for Men, Women | for Flat Feet | Orthopedic Insole",
+   "brand": "betterhood",
+   "price": null,
+   "rating": 3.9,
+   "ratings": 250,
+   "isFrido": false
+  },
+  {
+   "pos": 2,
+   "title": "betterhood PosturePro Dual Gel Shoe Inserts for Men, Women | Everyday Comfort Ergonomic Insole",
+   "brand": "betterhood",
+   "price": null,
+   "rating": 4.1,
+   "ratings": 101,
+   "isFrido": false
+  },
+  {
+   "pos": 3,
+   "title": "betterhood PosturePro Orthopedic Heel Pads for Pain Relief | Shoe Inserts for Men Women | Heel Support",
+   "brand": "betterhood",
+   "price": null,
+   "rating": 4,
+   "ratings": 225,
+   "isFrido": false
+  },
+  {
+   "pos": 4,
+   "title": "CHIWA Heel Protector | For Heel Pain Relief Everyday Wear Gentle Support Heel Support",
+   "brand": "CHIWA",
+   "price": null,
+   "rating": 3.7,
+   "ratings": 7,
+   "isFrido": false
+  },
+  {
+   "pos": 5,
+   "title": "CHIWA Heel Protector | Comfort Daily Pad For Active Days Heel Support",
+   "brand": "CHIWA",
+   "price": null,
+   "rating": 0,
+   "ratings": 0,
+   "isFrido": false
+  },
+  {
+   "pos": 6,
+   "title": "CHIWA Heel Protector | Comfort Daily Layer For Routine Heel Support",
+   "brand": "CHIWA",
+   "price": null,
+   "rating": 0,
+   "ratings": 0,
+   "isFrido": false
+  },
+  {
+   "pos": 7,
+   "title": "NALOISE Heel Support | Reusable Heel Protector For Men And Women Heel Cover Heel Support",
+   "brand": "NALOISE",
+   "price": null,
+   "rating": 1.6,
+   "ratings": 14,
+   "isFrido": false
+  },
+  {
+   "pos": 8,
+   "title": "CHIWA Heel Protector | Comfort Wear Layer For Office Wear Heel Support",
+   "brand": "CHIWA",
+   "price": null,
+   "rating": 0,
+   "ratings": 0,
+   "isFrido": false
+  },
+  {
+   "pos": 9,
+   "title": "Dream Clouds Heel Socks Silicone heel protector pain relief anti-Crack Heel Support Heel Support",
+   "brand": "Dream Clouds",
+   "price": null,
+   "rating": 0,
+   "ratings": 0,
+   "isFrido": false
+  },
+  {
+   "pos": 10,
+   "title": "CHIWA Heel Protector | For Heel Pain Relief Active Lifestyle Heel Care Heel Support",
+   "brand": "CHIWA",
+   "price": null,
+   "rating": 0,
+   "ratings": 0,
+   "isFrido": false
+  },
+  {
+   "pos": 11,
+   "title": "phizller Heel Protector Soft Pad for Daily Wear Protection Heel Support",
+   "brand": "phizller",
+   "price": null,
+   "rating": 0,
+   "ratings": 0,
+   "isFrido": false
+  },
+  {
+   "pos": 12,
+   "title": "CHIWA Heel Protector | Comfort Protect Fit For Active Days Heel Support",
+   "brand": "CHIWA",
+   "price": null,
+   "rating": 0,
+   "ratings": 0,
+   "isFrido": false
+  },
+  {
+   "pos": 13,
+   "title": "phizller Heel Protector Blister Protection Pad for Walking Support Heel Support",
+   "brand": "phizller",
+   "price": null,
+   "rating": 0,
+   "ratings": 0,
+   "isFrido": false
+  }
+ ],
+ "notes": []
 }

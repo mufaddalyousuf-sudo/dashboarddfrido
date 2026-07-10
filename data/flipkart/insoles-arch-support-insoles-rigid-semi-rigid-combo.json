@@ -1,14 +1,105 @@
 {
  "category": "insoles-arch-support-insoles-rigid-semi-rigid-combo",
  "marketplace": "flipkart",
- "keyword": "Frido Arch Support Insoles Rigid + Semi Rigid Combo",
+ "keyword": "Arch Support Insoles Rigid Semi Rigid Combo",
+ "brandKeyword": "Frido Arch Support Insoles Rigid + Semi Rigid Combo",
  "capturedAt": "2026-07-08",
- "method": "Live scrape flipkart.com mobile search page 1 (__INITIAL_STATE__), query = exact SKU name",
- "confidence": "Low (fetch blocked)",
- "fridoRank": null,
- "fridoPresent": false,
- "results": [],
- "notes": [
-  "Live fetch failed after retries — needs re-verification."
- ]
+ "method": "Live scrape flipkart.com mobile search page 1 (__INITIAL_STATE__), query = generic product keyword",
+ "confidence": "Medium-High (live; sponsored flags not exposed on mobile)",
+ "fridoRank": 5,
+ "fridoPresent": true,
+ "fridoUrl": "https://www.flipkart.com/search?q=Arch%20Support%20Insoles%20Rigid%20Semi%20Rigid%20Combo",
+ "results": [
+  {
+   "pos": 1,
+   "title": "betterhood PosturePro Arch Support Shoe Inserts for Men, Women | for Flat Feet | Orthopedic Insole",
+   "brand": "betterhood",
+   "price": null,
+   "rating": 3.9,
+   "ratings": 250,
+   "isFrido": false
+  },
+  {
+   "pos": 2,
+   "title": "betterhood PosturePro Dual Gel Shoe Inserts for Men, Women | Everyday Comfort Ergonomic Insole",
+   "brand": "betterhood",
+   "price": null,
+   "rating": 4.1,
+   "ratings": 101,
+   "isFrido": false
+  },
+  {
+   "pos": 3,
+   "title": "betterhood PosturePro Orthopedic Heel Pads for Pain Relief | Shoe Inserts for Men Women | Heel Support",
+   "brand": "betterhood",
+   "price": null,
+   "rating": 4,
+   "ratings": 225,
+   "isFrido": false
+  },
+  {
+   "pos": 4,
+   "title": "Foot Vital Memory Foam Shoe Insoles Supports Heel & Arch Absorbs Foot Sweat & Moisture Insole",
+   "brand": "Foot Vital",
+   "price": null,
+   "rating": 4.3,
+   "ratings": 18,
+   "isFrido": false
+  },
+  {
+   "pos": 5,
+   "title": "Frido Dual Gel Insoles, Extra Comfort & Support, Trim-to-fit, Made in India (5-9 UK) Insole",
+   "brand": "Frido",
+   "price": null,
+   "rating": 3.8,
+   "ratings": 4043,
+   "isFrido": true
+  },
+  {
+   "pos": 6,
+   "title": "Onward Men and Women Shoe Insole Heel Cushion Inserts Adhesive Pads SUPPORT PACK OF3 Insole",
+   "brand": "Onward",
+   "price": null,
+   "rating": 3.3,
+   "ratings": 213,
+   "isFrido": false
+  },
+  {
+   "pos": 7,
+   "title": "Store2508 Arch Support Flat Feet Pain Relief Plantar Fasciitis Foot Shoe Gel Insoles Socks (1 Pair) Insole",
+   "brand": "Store2508",
+   "price": null,
+   "rating": 3.8,
+   "ratings": 2761,
+   "isFrido": false
+  },
+  {
+   "pos": 8,
+   "title": "Priyat Arch Support Flat Feet Pain Relief Plantar Fasciitis Foot Shoe Gel Insoles Socks Insole",
+   "brand": "Priyat",
+   "price": null,
+   "rating": 3.7,
+   "ratings": 45,
+   "isFrido": false
+  },
+  {
+   "pos": 9,
+   "title": "ASTARZ Memory Foam Shoe Insole for Men | Soft Support Heel, Pack of 3 Pairs Insole",
+   "brand": "ASTARZ",
+   "price": null,
+   "rating": 0,
+   "ratings": 0,
+   "isFrido": false
+  },
+  {
+   "pos": 10,
+   "title": "Foot Vital Memory Foam Shoe Insoles Comfortable Insoles Supports Heel & Arch (Pack of 1) Insole",
+   "brand": "Foot Vital",
+   "price": null,
+   "rating": 4,
+   "ratings": 4870,
+   "isFrido": false
+  }
+ ],
+ "notes": []
 }

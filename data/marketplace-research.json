@@ -8917,6 +8917,4084 @@
    },
    "status": "listed",
    "capturedAt": "2026-07-08"
+  },
+  {
+   "category": "insoles",
+   "categoryName": "Insoles",
+   "sku": "Arch Sports Insole",
+   "searchKeyword": "Arch Sports Insole",
+   "brandKeyword": "Frido Arch Sports Insole",
+   "amazon": {
+    "fetchOk": true,
+    "organic": [
+     {
+      "asin": "B0DC73962Q",
+      "badge": null,
+      "price": "499",
+      "rating": "4.0",
+      "reviews": "345",
+      "title": "Frido Arch Sports Insole | Hi-Per Foam Orthotic Inserts for Arch Pain Relief and Injury Prevention | Casual Shoe Insert for Enhanced Comfort | Small Size (3-6 U",
+      "rank": 1,
+      "isFridoBrand": true
+     },
+     {
+      "asin": "B0C96X89BB",
+      "badge": null,
+      "price": "1,099",
+      "rating": "4.1",
+      "reviews": "952",
+      "title": "Frido Semi Rigid Arch Support Insole for Flat Feet | Relieves Feet Pain | Plantar Fasciitis & Heel Spurs | Orthotic Inserts for Enhanced Stability | Comfortable",
+      "rank": 2
+     },
+     {
+      "asin": "B0D6Z15DB8",
+      "badge": null,
+      "price": "1,199",
+      "rating": "3.9",
+      "reviews": "956",
+      "title": "Frido Rigid Arch Support Insole for Flat Feet | Relieves Feet Pain | Plantar Fasciitis & Heel Spurs | Orthotic Inserts for Enhanced Stability | Trimmable Shoe I",
+      "rank": 3
+     },
+     {
+      "asin": "B0CN5HXHHZ",
+      "badge": null,
+      "price": "349",
+      "rating": "3.8",
+      "reviews": "1,630",
+      "title": "RENESMEE Orthotic Arch Support Shoe Insoles, Children Pu Cushioning Inserts, Shock Absorption Velvet Surfaces Deep Heel Cup Inner Sole for Flat Feet, Feet Heel ",
+      "rank": 4
+     },
+     {
+      "asin": "B0H2RKCPK8",
+      "badge": null,
+      "price": "179",
+      "rating": "5.0",
+      "reviews": "1",
+      "title": "K KODZN Flat Foot Arch Support Insole for Men & Women | Medial Arch Support Sleeve with Gel Cushion | Plantar Fasciitis & Fallen Arch Pain Relief | Orthotic Foo",
+      "rank": 5
+     },
+     {
+      "asin": "B0CVS58PBV",
+      "badge": null,
+      "price": "249",
+      "rating": "4.1",
+      "reviews": "1,705",
+      "title": "SILENCIO Memory Foam Shoe Insole, Shock Absorption Sports Inserts Anti-Slip Cropable Insoles Arch Support Orthotic Insoles Soft Elastic Insoles for Men Women (E",
+      "rank": 6
+     },
+     {
+      "asin": "B0DJKR4763",
+      "badge": "Bestseller",
+      "price": "899",
+      "rating": "3.8",
+      "reviews": "9,649",
+      "title": "Frido Dual Gel Pro Shoe Insoles -Trimmable Shoe Sole for Men & Women for Stability, Shock Absorption & Comfort | Anti-Sweat Sports Insole, Foot Support Silicone",
+      "rank": 7
+     },
+     {
+      "asin": "B0G2LC6GRJ",
+      "badge": null,
+      "price": "284",
+      "rating": "3.7",
+      "reviews": "8",
+      "title": "Belanto Flat Foot Arch Support Insole for Women & Men, Medial Arch Support for Flat Feet Correction Sleeve with Gel Cushion, Orthotics Arch Support Brace for Pl",
+      "rank": 8
+     },
+     {
+      "asin": "B0D836WJPK",
+      "badge": null,
+      "price": "104",
+      "rating": "3.6",
+      "reviews": "315",
+      "title": "Fresh creation 1 Pairs Arch Support Insoles Fits for Flat Feet & Plantar Fasciitis Orthotic Arch Pads for Women and Men, Gel High Cushion Insert, One Size Fits ",
+      "rank": 9
+     },
+     {
+      "asin": "B0DSFPK9LM",
+      "badge": null,
+      "price": "588",
+      "rating": "4.0",
+      "reviews": "241",
+      "title": "betterhood PosturePro Arch Support Insoles | Small, 5-8 UK | Gel Insoles for Shoes, Flat Feet Arch Support Ergonomic Orthopedic Shoe Inserts, Thin and Non-Bulk ",
+      "rank": 10
+     }
+    ],
+    "sponsored": [
+     {
+      "asin": "B0FRS559XT",
+      "badge": null,
+      "price": "1,999",
+      "rating": "4.1",
+      "reviews": "36",
+      "title": "5D Comfort insoles for Men & Women, Insole with 5-Layer Cushion with Poron, Gel & TPU, Arch Support Insole for Flat Feet and Feet Pain | Plantar Fasciitis & Hee",
+      "slot": 1
+     },
+     {
+      "asin": "B0DSFPK9LM",
+      "badge": null,
+      "price": "588",
+      "rating": "4.0",
+      "reviews": "241",
+      "title": "betterhood PosturePro Arch Support Insoles | Small, 5-8 UK | Gel Insoles for Shoes, Flat Feet Arch Support Ergonomic Orthopedic Shoe Inserts, Thin and Non-Bulk ",
+      "slot": 2
+     },
+     {
+      "asin": "B0G2SKT83Y",
+      "badge": null,
+      "price": "249",
+      "rating": "4.2",
+      "reviews": "70",
+      "title": "Bacchakidoo Memory Foam Shoe Insole, Shock Absorption Sports Inserts Anti-Slip Cropable Arch Support Orthotic Insoles Soft Elastic for Men Women, Multicolour, E",
+      "slot": 3
+     },
+     {
+      "asin": "B0G7GPS2N1",
+      "badge": null,
+      "price": "1,290",
+      "rating": "3.9",
+      "reviews": "10",
+      "title": "COIF Premium Orthopedic Shoe Insoles for Men & Women – Arch Support Cushion Inserts for Foot Pain Relief, Shock Absorbing, Breathable Comfortable Insoles for Sp",
+      "slot": 4
+     },
+     {
+      "asin": "B0H2F9GHDN",
+      "badge": null,
+      "price": "199",
+      "rating": "4.4",
+      "reviews": "13",
+      "title": "DOSJNI Flat Foot Arch Support Insole for Men & Women | Medial Arch Support Sleeve with Gel Cushion | Plantar Fasciitis & Fallen Arch Pain Relief | Orthotic Foot",
+      "slot": 5
+     },
+     {
+      "asin": "B0CX53FQ8W",
+      "badge": null,
+      "price": "599",
+      "rating": "4.0",
+      "reviews": "101",
+      "title": "FOVERA Rigid Arch Support Insole for Flat Feet - Orthotic Shoe Inserts for Plantar Fasciitis, Heel Spurs, High Arch, Foot Pain & Enhanced Stability, Trimmable S",
+      "slot": 6,
+      "isFridoBrand": true
+     },
+     {
+      "asin": "B0GLYMD7Y5",
+      "badge": null,
+      "price": "472",
+      "rating": "4.0",
+      "reviews": "24",
+      "title": "UltraCare PRO ERGO PROformance Gel Insoles for Shoes | Shock Absorbing Gel Cushioning for All-Day Comfort | Anti-Slip, Anti-Sweat | Ideal for Walking, Running &",
+      "slot": 7
+     },
+     {
+      "asin": "B0GVW4RLXZ",
+      "badge": null,
+      "price": "449",
+      "rating": "3.7",
+      "reviews": "52",
+      "title": "ARKITTO Arch Support Insoles Size Medium (UK 6,7,8) for Men & Women | Flat Foot Relief, All-Day Comfort & Footbed Support | Lightweight, Soft, Odourless, Trim-t",
+      "slot": 8
+     },
+     {
+      "asin": "B099FGGX1M",
+      "badge": null,
+      "price": "649",
+      "rating": "4.0",
+      "reviews": "7",
+      "title": "Femme Arch Support Silicon Insole - Trim to Fit",
+      "slot": 9
+     },
+     {
+      "asin": "B0DJKR4763",
+      "badge": "Bestseller",
+      "price": "899",
+      "rating": "3.8",
+      "reviews": "9,649",
+      "title": "Frido Dual Gel Pro Shoe Insoles -Trimmable Shoe Sole for Men & Women for Stability, Shock Absorption & Comfort | Anti-Sweat Sports Insole, Foot Support Silicone",
+      "slot": 10
+     }
+    ],
+    "fridoOrganicRank": 1,
+    "fridoSponsoredSlot": 6,
+    "fridoBadge": null,
+    "fridoAsin": "B0DC73962Q",
+    "fridoUrl": "https://www.amazon.in/dp/B0DC73962Q",
+    "resultCount": 60
+   },
+   "flipkart": {
+    "fetchOk": true,
+    "results": [
+     {
+      "pos": 1,
+      "title": "betterhood PosturePro Arch Support Shoe Inserts for Men, Women | for Flat Feet | Orthopedic Insole",
+      "brand": "betterhood",
+      "price": null,
+      "rating": 3.9,
+      "ratings": 250,
+      "isFrido": false
+     },
+     {
+      "pos": 2,
+      "title": "betterhood PosturePro Dual Gel Shoe Inserts for Men, Women | Everyday Comfort Ergonomic Insole",
+      "brand": "betterhood",
+      "price": null,
+      "rating": 4.1,
+      "ratings": 101,
+      "isFrido": false
+     },
+     {
+      "pos": 3,
+      "title": "betterhood PosturePro Orthopedic Heel Pads for Pain Relief | Shoe Inserts for Men Women | Heel Support",
+      "brand": "betterhood",
+      "price": null,
+      "rating": 4,
+      "ratings": 225,
+      "isFrido": false
+     },
+     {
+      "pos": 4,
+      "title": "Frido Dual Gel Insoles, Extra Comfort & Support, Trim-to-fit, Made in India (5-9 UK) Insole",
+      "brand": "Frido",
+      "price": null,
+      "rating": 3.8,
+      "ratings": 4043,
+      "isFrido": true
+     },
+     {
+      "pos": 5,
+      "title": "Frido Arch Sports Insole, Relieves Arch Pain, Large (7 to 10 UK) Pack of 1 PU Foam Arch Orthotic Shoe Insole",
+      "brand": "Frido",
+      "price": null,
+      "rating": 4,
+      "ratings": 239,
+      "isFrido": true
+     },
+     {
+      "pos": 6,
+      "title": "Silencio Memory Foam Shoe Insoles, Shock Absorbing Insoles For Men & Women Size EU 39-45 Heel Support",
+      "brand": "Silencio",
+      "price": null,
+      "rating": 3.7,
+      "ratings": 111,
+      "isFrido": false
+     },
+     {
+      "pos": 7,
+      "title": "FOVERA Gel - Shoe Inserts for Walking, Running Hiking - All Day Comfort (Male) Insole",
+      "brand": "FOVERA",
+      "price": null,
+      "rating": 3.9,
+      "ratings": 23316,
+      "isFrido": false
+     },
+     {
+      "pos": 8,
+      "title": "kridha Sports Shoe Arch Insoles Insole",
+      "brand": "kridha",
+      "price": null,
+      "rating": 4.3,
+      "ratings": 4,
+      "isFrido": false
+     },
+     {
+      "pos": 9,
+      "title": "Frido Dual Gel Insoles, Extra Comfort & Support, Trim-to-fit, Made in India (8-13 UK) Silicone, Gel Full Length Orthotic Shoe Insole",
+      "brand": "Frido",
+      "price": null,
+      "rating": 3.8,
+      "ratings": 4043,
+      "isFrido": true
+     },
+     {
+      "pos": 10,
+      "title": "Fifth Genration Flat Foot Arch Support for Men & Women,Medial Arch Support Heel Support",
+      "brand": "Fifth Genration",
+      "price": null,
+      "rating": 4,
+      "ratings": 52,
+      "isFrido": false
+     },
+     {
+      "pos": 11,
+      "title": "Yoviex Heel Support Sleeves Heel Stability Support For Plantar Fasciitis Support Heel Support",
+      "brand": "Yoviex",
+      "price": null,
+      "rating": 0,
+      "ratings": 0,
+      "isFrido": false
+     }
+    ],
+    "fridoRank": 4,
+    "fridoUrl": "https://www.flipkart.com/search?q=Arch%20Sports%20Insole"
+   },
+   "status": "listed",
+   "capturedAt": "2026-07-08"
+  },
+  {
+   "category": "insoles",
+   "categoryName": "Insoles",
+   "sku": "Dual Gel Pro Insoles",
+   "searchKeyword": "Dual Gel Insoles",
+   "brandKeyword": "Frido Dual Gel Pro Insoles",
+   "amazon": {
+    "fetchOk": true,
+    "organic": [
+     {
+      "asin": "B09RV5MGQ2",
+      "badge": "Bestseller",
+      "price": "692",
+      "rating": "3.8",
+      "reviews": "9,650",
+      "title": "Frido Dual Gel Heavy Duty Trimmable Insoles | For Loose Shoes or Replacing Existing Insoles | Thick Shoe Inserts | Extra Comfort and Support | Proudly Made in I",
+      "rank": 1
+     },
+     {
+      "asin": "B0DJKRX1P7",
+      "badge": "Bestseller",
+      "price": "899",
+      "rating": "3.8",
+      "reviews": "9,650",
+      "title": "Frido Dual Gel Pro Shoe Insoles -Trimmable Shoe Sole for Men & Women for Stability, Shock Absorption & Comfort | Anti-Sweat Sports Insole, Foot Support Silicone",
+      "rank": 2,
+      "isFridoBrand": true
+     },
+     {
+      "asin": "B0DSFM1JDD",
+      "badge": null,
+      "price": "499",
+      "rating": "4.0",
+      "reviews": "96",
+      "title": "betterhood PosturePro Dual-Layer Gel Insoles | Small, 5-8 UK | Insole for Extra Cushioning, Daily-Use Shoe Inserts, Helps Long-Term Feet Health, Thin Non-Bulk D",
+      "rank": 3
+     },
+     {
+      "asin": "B0FD3FGHBY",
+      "badge": null,
+      "price": "236",
+      "rating": "4.2",
+      "reviews": "4",
+      "title": "Silicone Dual Gel Insole, Orthotic Arch Support Shoe Pad Sport Running Insoles Shoe Inserts for Men and Women Massaging Extra Soft Insole for Shoe Inserts Pad, ",
+      "rank": 4
+     },
+     {
+      "asin": "B0DBVHPHTW",
+      "badge": null,
+      "price": "1,299",
+      "rating": "3.8",
+      "reviews": "1,344",
+      "title": "FOVERA Gel Insoles Pair for Walking, Running, Sports, Formal and Safety Shoes - All Day Comfort with Dual Gel Technology - Full Length Sole for Every Shoe (Male",
+      "rank": 5
+     },
+     {
+      "asin": "B0D37ZLNMD",
+      "badge": null,
+      "price": "524",
+      "rating": "3.6",
+      "reviews": "449",
+      "title": "Helios Insoles for Men | Dual Gelmax Shoe Sole for Men | Trim to Fit Size 8-12 | Gel Cushioning & Shock Absorption | Orthopedic Insole for Shoes | Daily Comfort",
+      "rank": 6
+     },
+     {
+      "asin": "B0F59RSGYY",
+      "badge": null,
+      "price": "699",
+      "rating": "4.0",
+      "reviews": "339",
+      "title": "Frido Gel Max Comfort Insole | Gel Insole with Memory Foam | All-Day Comfort Insoles For Men & Women | Shock Absorption & Anti-Slip For Everyday Use | Trimmable",
+      "rank": 7
+     },
+     {
+      "asin": "B09RX3BFGM",
+      "badge": "Bestseller",
+      "price": "1,259",
+      "rating": "3.8",
+      "reviews": "9,649",
+      "title": "Frido Dual Gel Heavy Duty Trimmable Insoles | For Loose Shoes or Replacing Existing Insoles | Thick Shoe Inserts | Extra Comfort and Support | Proudly Made in I",
+      "rank": 8
+     },
+     {
+      "asin": "B0BWN3J7HL",
+      "badge": null,
+      "price": "289",
+      "rating": "3.8",
+      "reviews": "635",
+      "title": "Dr Foot Dual Gel Insoles Anti-Microbial | For Walking, Running, Hiking & Regular Use | All Day Ultra Comfrort & Support & Shock Absorption With Dual Gel Technol",
+      "rank": 9
+     },
+     {
+      "asin": "B0GRVQTR72",
+      "badge": null,
+      "price": "579",
+      "rating": "4.2",
+      "reviews": "14",
+      "title": "FOOTSOL Premium Gel Insoles (by VISSCO) for All-Day Comfort & Pain Relief | Dual-Gel Cushioning, Shock Absorbing Heel, Breathable & Trim-to-Fit Design for Work,",
+      "rank": 10
+     }
+    ],
+    "sponsored": [
+     {
+      "asin": "B0GQSRQRF8",
+      "badge": null,
+      "price": "395",
+      "rating": "4.0",
+      "reviews": "81",
+      "title": "FOVERA Gel Insole for Shoes Men | Dual Gel Technology for All Day Comfort | Trimmable Sole for Walking, Running, Sports, Formal and Safety Shoes (Male, Pack of ",
+      "slot": 1
+     },
+     {
+      "asin": "B0D37ZLNMD",
+      "badge": null,
+      "price": "524",
+      "rating": "3.6",
+      "reviews": "449",
+      "title": "Helios Insoles for Men | Dual Gelmax Shoe Sole for Men | Trim to Fit Size 8-12 | Gel Cushioning & Shock Absorption | Orthopedic Insole for Shoes | Daily Comfort",
+      "slot": 2
+     },
+     {
+      "asin": "B0DJKR4763",
+      "badge": "Bestseller",
+      "price": "899",
+      "rating": "3.8",
+      "reviews": "9,649",
+      "title": "Frido Dual Gel Pro Shoe Insoles -Trimmable Shoe Sole for Men & Women for Stability, Shock Absorption & Comfort | Anti-Sweat Sports Insole, Foot Support Silicone",
+      "slot": 3,
+      "isFridoBrand": true
+     },
+     {
+      "asin": "B0FRS559XT",
+      "badge": null,
+      "price": "1,999",
+      "rating": "4.1",
+      "reviews": "36",
+      "title": "5D Comfort insoles for Men & Women, Insole with 5-Layer Cushion with Poron, Gel & TPU, Arch Support Insole for Flat Feet and Feet Pain | Plantar Fasciitis & Hee",
+      "slot": 4
+     },
+     {
+      "asin": "B0GVHZYHKV",
+      "badge": null,
+      "price": "199",
+      "rating": "5.0",
+      "reviews": "12",
+      "title": "ZIGZAP 1 Pair Men Women Silicon Gel Heel Cushion Insoles Soles Relieve Foot Pain Protectors Spur Support Shoe pad High Heel Inserts Blue.",
+      "slot": 5
+     },
+     {
+      "asin": "B0GLYMD7Y5",
+      "badge": null,
+      "price": "472",
+      "rating": "4.0",
+      "reviews": "24",
+      "title": "UltraCare PRO ERGO PROformance Gel Insoles for Shoes | Shock Absorbing Gel Cushioning for All-Day Comfort | Anti-Slip, Anti-Sweat | Ideal for Walking, Running &",
+      "slot": 6
+     },
+     {
+      "asin": "B0GT4CBHMX",
+      "badge": null,
+      "price": "799",
+      "rating": "4.0",
+      "reviews": "17",
+      "title": "Sneakare All Day Comfort Insoles for Men & Women | Wave Cushion Arch Support Inserts | Anti-Fatigue, Odorless, Trim-to-Fit Shoe Insoles for Work, Walking & Dail",
+      "slot": 7
+     },
+     {
+      "asin": "B0FBLXVGPQ",
+      "badge": null,
+      "price": "448",
+      "rating": "4.0",
+      "reviews": "2",
+      "title": "BEAR GRIPS Orthotic Shoe Insoles for Diabetics & Elderly – Gel Cushioning, Pain Relief & Fall Prevention – Senior+ Insoles | Men & Women | UK Size 9 to 12",
+      "slot": 8
+     },
+     {
+      "asin": "B019MJ45IW",
+      "badge": null,
+      "price": "975",
+      "rating": "3.8",
+      "reviews": "168",
+      "title": "ONYXNEO Silicone Gel Insoles for Men, Women, Shoes, Footwear, Feet/Heel Pain -Hypoallergenic, Comfortable, Soft, Anti Slip Insole Ideal for Prolonged Standing (",
+      "slot": 9
+     },
+     {
+      "asin": "B0FFTDMK18",
+      "badge": null,
+      "price": "498",
+      "rating": "3.9",
+      "reviews": "202",
+      "title": "Helios® Insoles for Men Memory Foam Ultra Max | Trim To Fit Shoe Sole for Men Size 8–13 Insole For Shoes | Orthotic For Cushioning, Arch Support & All-Day Comfo",
+      "slot": 10
+     }
+    ],
+    "fridoOrganicRank": 2,
+    "fridoSponsoredSlot": 3,
+    "fridoBadge": "Bestseller",
+    "fridoAsin": "B0DJKRX1P7",
+    "fridoUrl": "https://www.amazon.in/dp/B0DJKRX1P7",
+    "resultCount": 59
+   },
+   "flipkart": {
+    "fetchOk": false,
+    "results": [],
+    "fridoRank": null
+   },
+   "status": "needs-verification",
+   "capturedAt": "2026-07-08"
+  },
+  {
+   "category": "insoles",
+   "categoryName": "Insoles",
+   "sku": "Plantar Fasciitis Pain Relief Ortho Insoles",
+   "searchKeyword": "Plantar Fasciitis Pain Relief Ortho Insoles",
+   "brandKeyword": "Frido Plantar Fasciitis Pain Relief Ortho Insoles",
+   "amazon": {
+    "fetchOk": true,
+    "organic": [
+     {
+      "asin": "B0FQW6FLLV",
+      "badge": null,
+      "price": "1,499",
+      "rating": "4.1",
+      "reviews": "23",
+      "title": "Frido Plantar Fasciitis Pain Relief Ortho Insoles | Orthopedic Arch Support Insoles For Men & Women | Trim-to-fit | For Foot Pain, Heel Pain, Standing & Walking",
+      "rank": 1,
+      "isFridoBrand": true
+     },
+     {
+      "asin": "B0DVPWCPX4",
+      "badge": null,
+      "price": "915",
+      "rating": "3.4",
+      "reviews": "233",
+      "title": "Dr.Ortho Pain Relief Gel Insoles | Gel Technology for All Day Comfort | Trimmable Sole for Walking, Running, Sports, Formal and Safety Shoes (Size 8-12 UK) - Pa",
+      "rank": 2
+     },
+     {
+      "asin": "B0GTW7HMZY",
+      "badge": "Bestseller",
+      "price": "899",
+      "rating": "4.4",
+      "reviews": "201",
+      "title": "Frido Orthotics Heel Protector for Heel Pain Relief | Gel Heel Pad with Velcro Strap | Anti-Slip Heel Cup Cushion for Men & Women | Plantar Fasciitis, Heel Spur",
+      "rank": 3
+     },
+     {
+      "asin": "B01MPYEAI5",
+      "badge": "Amazon's Choice",
+      "price": "2,499",
+      "rating": "4.0",
+      "reviews": "33,904",
+      "title": "Dr. Scholl's Men's Pain Relief Orthotics for Plantar Fasciitis , 1 Pair, Size 8-13",
+      "rank": 4
+     },
+     {
+      "asin": "B0DXFYCC6H",
+      "badge": null,
+      "price": "249",
+      "rating": "4.2",
+      "reviews": "658",
+      "title": "Qenixo Memory Foam Insoles – Super Soft, Shock Absorbing Shoe Inserts for Plantar Fasciitis, Foot Pain Relief & Odour Control – Breathable, High Elastic Cloud S",
+      "rank": 5
+     },
+     {
+      "asin": "B0D6Z15DB8",
+      "badge": null,
+      "price": "1,199",
+      "rating": "3.9",
+      "reviews": "956",
+      "title": "Frido Rigid Arch Support Insole for Flat Feet | Relieves Feet Pain | Plantar Fasciitis & Heel Spurs | Orthotic Inserts for Enhanced Stability | Trimmable Shoe I",
+      "rank": 6
+     },
+     {
+      "asin": "B0BXKT3K3L",
+      "badge": null,
+      "price": "499",
+      "rating": "3.8",
+      "reviews": "2,197",
+      "title": "Frido Orthopedic Heel Pads For Heel Pain Relief |Heel Insole For Extra Cushioning & Comfort | Slim Designed Heel Cushions For Shock Absorption | Plantar Fasciit",
+      "rank": 7
+     },
+     {
+      "asin": "B0GT9CGJP3",
+      "badge": null,
+      "price": "189",
+      "rating": "3.0",
+      "reviews": "6",
+      "title": "Belanto Orthopedic Heel Pads For Pain Relief, 1 Pair Plantar Fasciitis Heels Support Cushion Pads for Ankle Pain, Heel Spur Shoe Insert for Men & Women, Heel Pr",
+      "rank": 8
+     },
+     {
+      "asin": "B0H21T6KXB",
+      "badge": null,
+      "price": "149",
+      "rating": null,
+      "reviews": null,
+      "title": "Silicone Gel Orthopedic Arch Support Insoles for Flat Feet & Plantar Fasciitis - High Cushion Heel Pain Relief Orthotic Pads for Men & Women, One Size Fits All ",
+      "rank": 9
+     },
+     {
+      "asin": "B0FDBKXCQ9",
+      "badge": null,
+      "price": "549",
+      "rating": "3.4",
+      "reviews": "308",
+      "title": "XENOTY Silicone Gel Heel Protectors Velcro Heel Pad for Pain Relief, Plantar Fasciitis, Arch Support for Flat Feet For Men and Women (Skin)",
+      "rank": 10
+     }
+    ],
+    "sponsored": [
+     {
+      "asin": "B0FRS559XT",
+      "badge": null,
+      "price": "1,999",
+      "rating": "4.1",
+      "reviews": "36",
+      "title": "5D Comfort insoles for Men & Women, Insole with 5-Layer Cushion with Poron, Gel & TPU, Arch Support Insole for Flat Feet and Feet Pain | Plantar Fasciitis & Hee",
+      "slot": 1
+     },
+     {
+      "asin": "B0DSFPK9LM",
+      "badge": null,
+      "price": "588",
+      "rating": "4.0",
+      "reviews": "241",
+      "title": "betterhood PosturePro Arch Support Insoles | Small, 5-8 UK | Gel Insoles for Shoes, Flat Feet Arch Support Ergonomic Orthopedic Shoe Inserts, Thin and Non-Bulk ",
+      "slot": 2
+     },
+     {
+      "asin": "B0FFTDMK18",
+      "badge": null,
+      "price": "498",
+      "rating": "3.9",
+      "reviews": "202",
+      "title": "Helios® Insoles for Men Memory Foam Ultra Max | Trim To Fit Shoe Sole for Men Size 8–13 Insole For Shoes | Orthotic For Cushioning, Arch Support & All-Day Comfo",
+      "slot": 3
+     },
+     {
+      "asin": "B0BXKT3K3L",
+      "badge": null,
+      "price": "499",
+      "rating": "3.8",
+      "reviews": "2,197",
+      "title": "Frido Orthopedic Heel Pads For Heel Pain Relief |Heel Insole For Extra Cushioning & Comfort | Slim Designed Heel Cushions For Shock Absorption | Plantar Fasciit",
+      "slot": 4
+     },
+     {
+      "asin": "B0D3B3JP1J",
+      "badge": null,
+      "price": "497",
+      "rating": "3.9",
+      "reviews": "110",
+      "title": "DOCTOR EXTRA SOFT All Day Comfort Triple Gel Trimmable Heel Support Insoles| Orthotic & Plantar Fasciitis| Breathable Heavy Duty Shock Absorption Cushion Sports",
+      "slot": 5
+     },
+     {
+      "asin": "B0C96VW2LP",
+      "badge": null,
+      "price": "1,099",
+      "rating": "4.1",
+      "reviews": "952",
+      "title": "Frido Semi Rigid Arch Support Insole for Flat Feet | Relieves Feet Pain | Plantar Fasciitis & Heel Spurs | Orthotic Inserts for Enhanced Stability | Comfortable",
+      "slot": 6,
+      "isFridoBrand": true
+     },
+     {
+      "asin": "B0GVW4RLXZ",
+      "badge": null,
+      "price": "449",
+      "rating": "3.7",
+      "reviews": "52",
+      "title": "ARKITTO Arch Support Insoles Size Medium (UK 6,7,8) for Men & Women | Flat Foot Relief, All-Day Comfort & Footbed Support | Lightweight, Soft, Odourless, Trim-t",
+      "slot": 7
+     },
+     {
+      "asin": "B0DR5Y8TKX",
+      "badge": null,
+      "price": "399",
+      "rating": "3.7",
+      "reviews": "141",
+      "title": "Aegon Heel Pain Relief Pad Cushion | Silicon Gel Heel Cups for Ankle Pain | Heel Spur Shoe Support for Men & Women for Plantar Fasciitis | Swelling | Shock Abso",
+      "slot": 8
+     },
+     {
+      "asin": "B00CXBR55M",
+      "badge": null,
+      "price": "1,740",
+      "rating": null,
+      "reviews": null,
+      "title": "LP Support 307 Medium - Arch Orthotic Insoles",
+      "slot": 9
+     },
+     {
+      "asin": "B0G8FGTCVR",
+      "badge": null,
+      "price": "229",
+      "rating": "4.3",
+      "reviews": "151",
+      "title": "Arch Support for Men & Women | Medial Arch Support for Flat Feet Correction Sleeve with Cushion | Plantar Fasciitis Leg Pain Relief Product | Free Size - 1 Pair",
+      "slot": 10
+     }
+    ],
+    "fridoOrganicRank": 1,
+    "fridoSponsoredSlot": 6,
+    "fridoBadge": null,
+    "fridoAsin": "B0FQW6FLLV",
+    "fridoUrl": "https://www.amazon.in/dp/B0FQW6FLLV",
+    "resultCount": 60
+   },
+   "flipkart": {
+    "fetchOk": true,
+    "results": [
+     {
+      "pos": 1,
+      "title": "betterhood PosturePro Arch Support Shoe Inserts for Men, Women | for Flat Feet | Orthopedic Insole",
+      "brand": "betterhood",
+      "price": null,
+      "rating": 3.9,
+      "ratings": 250,
+      "isFrido": false
+     },
+     {
+      "pos": 2,
+      "title": "betterhood PosturePro Dual Gel Shoe Inserts for Men, Women | Everyday Comfort Ergonomic Insole",
+      "brand": "betterhood",
+      "price": null,
+      "rating": 4.1,
+      "ratings": 101,
+      "isFrido": false
+     },
+     {
+      "pos": 3,
+      "title": "betterhood PosturePro Orthopedic Heel Pads for Pain Relief | Shoe Inserts for Men Women | Heel Support",
+      "brand": "betterhood",
+      "price": null,
+      "rating": 4,
+      "ratings": 225,
+      "isFrido": false
+     },
+     {
+      "pos": 4,
+      "title": "Store2508 Arch Support Flat Feet Pain Relief Plantar Fasciitis Foot Shoe Gel Insoles Socks (1 Pair) Insole",
+      "brand": "Store2508",
+      "price": null,
+      "rating": 3.8,
+      "ratings": 2761,
+      "isFrido": false
+     },
+     {
+      "pos": 5,
+      "title": "Frido Dual Gel Insoles, Extra Comfort & Support, Trim-to-fit, Made in India (5-9 UK) Insole",
+      "brand": "Frido",
+      "price": null,
+      "rating": 3.8,
+      "ratings": 4043,
+      "isFrido": true
+     },
+     {
+      "pos": 6,
+      "title": "Yoviex Plantar Fasciitis Heel Support Foot Comfort Gel Sleeves Heel Pain Relief Pads Heel Support",
+      "brand": "Yoviex",
+      "price": null,
+      "rating": 0,
+      "ratings": 0,
+      "isFrido": false
+     },
+     {
+      "pos": 7,
+      "title": "BIFRRUTANT Heel Support Sleeves Heel Pain Relief Pads Helps Relieve Plantar Fasciitis Heel Support",
+      "brand": "BIFRRUTANT",
+      "price": null,
+      "rating": 0,
+      "ratings": 0,
+      "isFrido": false
+     },
+     {
+      "pos": 8,
+      "title": "HOSPIKART Gel Heel Cup Sleeve for Plantar Fasciitis & Heel Pain Relief (Universal- 1 Pack) Heel Support",
+      "brand": "HOSPIKART",
+      "price": null,
+      "rating": 4,
+      "ratings": 503,
+      "isFrido": false
+     },
+     {
+      "pos": 9,
+      "title": "FOVERA Gel - Shoe Inserts for Walking, Running Hiking - All Day Comfort (Male) Insole",
+      "brand": "FOVERA",
+      "price": null,
+      "rating": 3.9,
+      "ratings": 23316,
+      "isFrido": false
+     },
+     {
+      "pos": 10,
+      "title": "Yoviex Heel Pain Relief Pads For Flexible Foot Support For Plantar Fasciitis Support Heel Support",
+      "brand": "Yoviex",
+      "price": null,
+      "rating": 0,
+      "ratings": 0,
+      "isFrido": false
+     },
+     {
+      "pos": 11,
+      "title": "Yoviex Heel Pain Relief Pads For Plantar Fasciitis Support Sweat Resistant Comfort Heel Support",
+      "brand": "Yoviex",
+      "price": null,
+      "rating": 0,
+      "ratings": 0,
+      "isFrido": false
+     },
+     {
+      "pos": 12,
+      "title": "Dyna Silicare Silicone Heel Cushion-1 Pair Heel Support",
+      "brand": "Dyna",
+      "price": null,
+      "rating": 4,
+      "ratings": 61,
+      "isFrido": false
+     },
+     {
+      "pos": 13,
+      "title": "Dyna Silicare Silicone Insoles(Removable)-1 Pair Insole",
+      "brand": "Dyna",
+      "price": null,
+      "rating": 3.8,
+      "ratings": 211,
+      "isFrido": false
+     }
+    ],
+    "fridoRank": 5,
+    "fridoUrl": "https://www.flipkart.com/search?q=Plantar%20Fasciitis%20Pain%20Relief%20Ortho%20Insoles"
+   },
+   "status": "listed",
+   "capturedAt": "2026-07-08"
+  },
+  {
+   "category": "insoles",
+   "categoryName": "Insoles",
+   "sku": "Dual Gel Insoles",
+   "searchKeyword": "Dual Gel Insoles",
+   "brandKeyword": "Frido Dual Gel Insoles",
+   "amazon": {
+    "fetchOk": true,
+    "organic": [
+     {
+      "asin": "B09RV5MGQ2",
+      "badge": "Bestseller",
+      "price": "692",
+      "rating": "3.8",
+      "reviews": "9,650",
+      "title": "Frido Dual Gel Heavy Duty Trimmable Insoles | For Loose Shoes or Replacing Existing Insoles | Thick Shoe Inserts | Extra Comfort and Support | Proudly Made in I",
+      "rank": 1
+     },
+     {
+      "asin": "B0DJKRX1P7",
+      "badge": "Bestseller",
+      "price": "899",
+      "rating": "3.8",
+      "reviews": "9,650",
+      "title": "Frido Dual Gel Pro Shoe Insoles -Trimmable Shoe Sole for Men & Women for Stability, Shock Absorption & Comfort | Anti-Sweat Sports Insole, Foot Support Silicone",
+      "rank": 2,
+      "isFridoBrand": true
+     },
+     {
+      "asin": "B0DSFM1JDD",
+      "badge": null,
+      "price": "499",
+      "rating": "4.0",
+      "reviews": "96",
+      "title": "betterhood PosturePro Dual-Layer Gel Insoles | Small, 5-8 UK | Insole for Extra Cushioning, Daily-Use Shoe Inserts, Helps Long-Term Feet Health, Thin Non-Bulk D",
+      "rank": 3
+     },
+     {
+      "asin": "B0FD3FGHBY",
+      "badge": null,
+      "price": "236",
+      "rating": "4.2",
+      "reviews": "4",
+      "title": "Silicone Dual Gel Insole, Orthotic Arch Support Shoe Pad Sport Running Insoles Shoe Inserts for Men and Women Massaging Extra Soft Insole for Shoe Inserts Pad, ",
+      "rank": 4
+     },
+     {
+      "asin": "B0DBVHPHTW",
+      "badge": null,
+      "price": "1,299",
+      "rating": "3.8",
+      "reviews": "1,344",
+      "title": "FOVERA Gel Insoles Pair for Walking, Running, Sports, Formal and Safety Shoes - All Day Comfort with Dual Gel Technology - Full Length Sole for Every Shoe (Male",
+      "rank": 5
+     },
+     {
+      "asin": "B0D37ZLNMD",
+      "badge": null,
+      "price": "524",
+      "rating": "3.6",
+      "reviews": "449",
+      "title": "Helios Insoles for Men | Dual Gelmax Shoe Sole for Men | Trim to Fit Size 8-12 | Gel Cushioning & Shock Absorption | Orthopedic Insole for Shoes | Daily Comfort",
+      "rank": 6
+     },
+     {
+      "asin": "B0F59RSGYY",
+      "badge": null,
+      "price": "699",
+      "rating": "4.0",
+      "reviews": "339",
+      "title": "Frido Gel Max Comfort Insole | Gel Insole with Memory Foam | All-Day Comfort Insoles For Men & Women | Shock Absorption & Anti-Slip For Everyday Use | Trimmable",
+      "rank": 7
+     },
+     {
+      "asin": "B09RX3BFGM",
+      "badge": "Bestseller",
+      "price": "1,259",
+      "rating": "3.8",
+      "reviews": "9,649",
+      "title": "Frido Dual Gel Heavy Duty Trimmable Insoles | For Loose Shoes or Replacing Existing Insoles | Thick Shoe Inserts | Extra Comfort and Support | Proudly Made in I",
+      "rank": 8
+     },
+     {
+      "asin": "B0BWN3J7HL",
+      "badge": null,
+      "price": "289",
+      "rating": "3.8",
+      "reviews": "635",
+      "title": "Dr Foot Dual Gel Insoles Anti-Microbial | For Walking, Running, Hiking & Regular Use | All Day Ultra Comfrort & Support & Shock Absorption With Dual Gel Technol",
+      "rank": 9
+     },
+     {
+      "asin": "B0GRVQTR72",
+      "badge": null,
+      "price": "579",
+      "rating": "4.2",
+      "reviews": "14",
+      "title": "FOOTSOL Premium Gel Insoles (by VISSCO) for All-Day Comfort & Pain Relief | Dual-Gel Cushioning, Shock Absorbing Heel, Breathable & Trim-to-Fit Design for Work,",
+      "rank": 10
+     }
+    ],
+    "sponsored": [
+     {
+      "asin": "B0GQSRQRF8",
+      "badge": null,
+      "price": "395",
+      "rating": "4.0",
+      "reviews": "81",
+      "title": "FOVERA Gel Insole for Shoes Men | Dual Gel Technology for All Day Comfort | Trimmable Sole for Walking, Running, Sports, Formal and Safety Shoes (Male, Pack of ",
+      "slot": 1
+     },
+     {
+      "asin": "B0D37ZLNMD",
+      "badge": null,
+      "price": "524",
+      "rating": "3.6",
+      "reviews": "449",
+      "title": "Helios Insoles for Men | Dual Gelmax Shoe Sole for Men | Trim to Fit Size 8-12 | Gel Cushioning & Shock Absorption | Orthopedic Insole for Shoes | Daily Comfort",
+      "slot": 2
+     },
+     {
+      "asin": "B0DJKR4763",
+      "badge": "Bestseller",
+      "price": "899",
+      "rating": "3.8",
+      "reviews": "9,649",
+      "title": "Frido Dual Gel Pro Shoe Insoles -Trimmable Shoe Sole for Men & Women for Stability, Shock Absorption & Comfort | Anti-Sweat Sports Insole, Foot Support Silicone",
+      "slot": 3,
+      "isFridoBrand": true
+     },
+     {
+      "asin": "B0FRS559XT",
+      "badge": null,
+      "price": "1,999",
+      "rating": "4.1",
+      "reviews": "36",
+      "title": "5D Comfort insoles for Men & Women, Insole with 5-Layer Cushion with Poron, Gel & TPU, Arch Support Insole for Flat Feet and Feet Pain | Plantar Fasciitis & Hee",
+      "slot": 4
+     },
+     {
+      "asin": "B0GVHZYHKV",
+      "badge": null,
+      "price": "199",
+      "rating": "5.0",
+      "reviews": "12",
+      "title": "ZIGZAP 1 Pair Men Women Silicon Gel Heel Cushion Insoles Soles Relieve Foot Pain Protectors Spur Support Shoe pad High Heel Inserts Blue.",
+      "slot": 5
+     },
+     {
+      "asin": "B0GLYMD7Y5",
+      "badge": null,
+      "price": "472",
+      "rating": "4.0",
+      "reviews": "24",
+      "title": "UltraCare PRO ERGO PROformance Gel Insoles for Shoes | Shock Absorbing Gel Cushioning for All-Day Comfort | Anti-Slip, Anti-Sweat | Ideal for Walking, Running &",
+      "slot": 6
+     },
+     {
+      "asin": "B0GT4CBHMX",
+      "badge": null,
+      "price": "799",
+      "rating": "4.0",
+      "reviews": "17",
+      "title": "Sneakare All Day Comfort Insoles for Men & Women | Wave Cushion Arch Support Inserts | Anti-Fatigue, Odorless, Trim-to-Fit Shoe Insoles for Work, Walking & Dail",
+      "slot": 7
+     },
+     {
+      "asin": "B0FBLXVGPQ",
+      "badge": null,
+      "price": "448",
+      "rating": "4.0",
+      "reviews": "2",
+      "title": "BEAR GRIPS Orthotic Shoe Insoles for Diabetics & Elderly – Gel Cushioning, Pain Relief & Fall Prevention – Senior+ Insoles | Men & Women | UK Size 9 to 12",
+      "slot": 8
+     },
+     {
+      "asin": "B019MJ45IW",
+      "badge": null,
+      "price": "975",
+      "rating": "3.8",
+      "reviews": "168",
+      "title": "ONYXNEO Silicone Gel Insoles for Men, Women, Shoes, Footwear, Feet/Heel Pain -Hypoallergenic, Comfortable, Soft, Anti Slip Insole Ideal for Prolonged Standing (",
+      "slot": 9
+     },
+     {
+      "asin": "B0FFTDMK18",
+      "badge": null,
+      "price": "498",
+      "rating": "3.9",
+      "reviews": "202",
+      "title": "Helios® Insoles for Men Memory Foam Ultra Max | Trim To Fit Shoe Sole for Men Size 8–13 Insole For Shoes | Orthotic For Cushioning, Arch Support & All-Day Comfo",
+      "slot": 10
+     }
+    ],
+    "fridoOrganicRank": 2,
+    "fridoSponsoredSlot": 3,
+    "fridoBadge": "Bestseller",
+    "fridoAsin": "B0DJKRX1P7",
+    "fridoUrl": "https://www.amazon.in/dp/B0DJKRX1P7",
+    "resultCount": 59
+   },
+   "flipkart": {
+    "fetchOk": false,
+    "results": [],
+    "fridoRank": null
+   },
+   "status": "needs-verification",
+   "capturedAt": "2026-07-08"
+  },
+  {
+   "category": "insoles",
+   "categoryName": "Insoles",
+   "sku": "Arch Support Insoles Rigid + Semi Rigid Combo",
+   "searchKeyword": "Arch Support Insoles Rigid Semi Rigid Combo",
+   "brandKeyword": "Frido Arch Support Insoles Rigid + Semi Rigid Combo",
+   "amazon": {
+    "fetchOk": true,
+    "organic": [
+     {
+      "asin": "B0DC73GC9Q",
+      "badge": null,
+      "price": "1,799",
+      "rating": "3.9",
+      "reviews": "78",
+      "title": "Frido Rigid & Semi Rigid Arch Support Insole for Flat Feet | Relieves Feet Pain | Plantar Fasciitis & Heel Spurs | Orthotic Inserts for Stability | Trimmable Sh",
+      "rank": 1
+     },
+     {
+      "asin": "B0C96VW2LP",
+      "badge": null,
+      "price": "1,099",
+      "rating": "4.1",
+      "reviews": "952",
+      "title": "Frido Semi Rigid Arch Support Insole for Flat Feet | Relieves Feet Pain | Plantar Fasciitis & Heel Spurs | Orthotic Inserts for Enhanced Stability | Comfortable",
+      "rank": 2
+     },
+     {
+      "asin": "B0D6Z15DB8",
+      "badge": null,
+      "price": "1,199",
+      "rating": "3.9",
+      "reviews": "956",
+      "title": "Frido Rigid Arch Support Insole for Flat Feet | Relieves Feet Pain | Plantar Fasciitis & Heel Spurs | Orthotic Inserts for Enhanced Stability | Trimmable Shoe I",
+      "rank": 3
+     },
+     {
+      "asin": "B0CX53FQ8W",
+      "badge": null,
+      "price": "599",
+      "rating": "4.0",
+      "reviews": "101",
+      "title": "FOVERA Rigid Arch Support Insole for Flat Feet - Orthotic Shoe Inserts for Plantar Fasciitis, Heel Spurs, High Arch, Foot Pain & Enhanced Stability, Trimmable S",
+      "rank": 4
+     },
+     {
+      "asin": "B0C9CNTK1Q",
+      "badge": null,
+      "price": "1,799",
+      "rating": "3.6",
+      "reviews": "16",
+      "title": "Frido Semi Rigid Arch Support Insole for Flat Feet | Relieves Feet Pain | Plantar Fasciitis & Heel Spurs | Orthotic Inserts for Stability | Comfortable & Trimma",
+      "rank": 5,
+      "isFridoBrand": true
+     },
+     {
+      "asin": "B0F29ZZLQN",
+      "badge": null,
+      "price": "899",
+      "rating": "3.7",
+      "reviews": "84",
+      "title": "SHAPECRUNCH Arch Support Insoles For Flat Feet, Plantar Fasciitis, Heel Pain - Rigid Orthotics (Black, LARGE [7UK -11UK])",
+      "rank": 6
+     },
+     {
+      "asin": "B0DSFPK9LM",
+      "badge": null,
+      "price": "588",
+      "rating": "4.0",
+      "reviews": "241",
+      "title": "betterhood PosturePro Arch Support Insoles | Small, 5-8 UK | Gel Insoles for Shoes, Flat Feet Arch Support Ergonomic Orthopedic Shoe Inserts, Thin and Non-Bulk ",
+      "rank": 7
+     },
+     {
+      "asin": "B0DJSLFBPP",
+      "badge": null,
+      "price": "699",
+      "rating": "3.7",
+      "reviews": "50",
+      "title": "Hundred Fusion Support Comfort Insoles | Fusion Gel Mesh | Rigid Arch Support |Shock Absorption Silicon Cushioning | Personalized Comfort for Any Shoe | Unisex ",
+      "rank": 8
+     },
+     {
+      "asin": "B0FPQT4JJD",
+      "badge": null,
+      "price": "349",
+      "rating": "3.8",
+      "reviews": "1,630",
+      "title": "RENESMEE Orthotic Arch Support Shoe Insoles, Children Pu Cushioning Inserts, Shock Absorption Velvet Surfaces Deep Heel Cup Inner Sole for Flat Feet, Feet Heel ",
+      "rank": 9
+     },
+     {
+      "asin": "B0H2F9GHDN",
+      "badge": null,
+      "price": "199",
+      "rating": "4.4",
+      "reviews": "13",
+      "title": "DOSJNI Flat Foot Arch Support Insole for Men & Women | Medial Arch Support Sleeve with Gel Cushion | Plantar Fasciitis & Fallen Arch Pain Relief | Orthotic Foot",
+      "rank": 10
+     }
+    ],
+    "sponsored": [
+     {
+      "asin": "B0FPM8C6LS",
+      "badge": null,
+      "price": "1,999",
+      "rating": "4.1",
+      "reviews": "36",
+      "title": "5D Comfort insoles for Men & Women, Insole with 5-Layer Cushion with Poron, Gel & TPU, Arch Support Insole for Flat Feet and Feet Pain | Plantar Fasciitis & Hee",
+      "slot": 1
+     },
+     {
+      "asin": "B0DSFPK9LM",
+      "badge": null,
+      "price": "588",
+      "rating": "4.0",
+      "reviews": "241",
+      "title": "betterhood PosturePro Arch Support Insoles | Small, 5-8 UK | Gel Insoles for Shoes, Flat Feet Arch Support Ergonomic Orthopedic Shoe Inserts, Thin and Non-Bulk ",
+      "slot": 2
+     },
+     {
+      "asin": "B0CW5ZKKSQ",
+      "badge": null,
+      "price": "503",
+      "rating": "3.8",
+      "reviews": "7",
+      "title": "Flamingo Gel Medial Arch Support for Flat Feet | Orthotic Arch Pads for Women and Men | Silicone Adhesive Arch Support Gel Insole for Pain Relieves | Medium |",
+      "slot": 3
+     },
+     {
+      "asin": "B0GSJPD3D7",
+      "badge": null,
+      "price": "2,154",
+      "rating": null,
+      "reviews": null,
+      "title": "INSOLEACE Corrective Orthotic Insoles with Arch Support – MCR Upper | Foot Pain Relief for Flat Feet, Plantar Fasciitis, Heel Spur & Metatarsal Pain | Posture S",
+      "slot": 4
+     },
+     {
+      "asin": "B0C9CBXC2M",
+      "badge": null,
+      "price": "1,799",
+      "rating": "4.5",
+      "reviews": "19",
+      "title": "Frido Semi Rigid Arch Support Insole for Flat Feet | Relieves Feet Pain | Plantar Fasciitis & Heel Spurs | Orthotic Inserts for Enhanced Stability, Trimmable Sh",
+      "slot": 5
+     },
+     {
+      "asin": "B0C9CQ78S1",
+      "badge": null,
+      "price": "1,799",
+      "rating": "5.0",
+      "reviews": "3",
+      "title": "Frido Semi Rigid Arch Support Insole for Flat Feet | Relieves Feet Pain | Plantar Fasciitis & Heel Spurs | Orthotic Inserts for Stability | Trimmable Shoe Inser",
+      "slot": 6,
+      "isFridoBrand": true
+     },
+     {
+      "asin": "B0G7H23HJ3",
+      "badge": null,
+      "price": "1,290",
+      "rating": "3.9",
+      "reviews": "10",
+      "title": "COIF Premium Shoe Insoles for Men & Women | Soft Cushion Arch Support Inserts | Shock Absorbing Orthopedic Insoles for Running, Sports & Daily Comfort | Breatha",
+      "slot": 7
+     },
+     {
+      "asin": "B0GWM86SZ1",
+      "badge": null,
+      "price": "299",
+      "rating": null,
+      "reviews": null,
+      "title": "2 Pairs Flat Foot Arch Support, Plantar Fasciitis Footwear Insoles, Transparent Arch Support for Flat Feet, Five Pairs of Arch Support Insoles for Daily Walking",
+      "slot": 8
+     },
+     {
+      "asin": "B0D3B54FTK",
+      "badge": null,
+      "price": "497",
+      "rating": "3.9",
+      "reviews": "201",
+      "title": "DOCTOR EXTRA SOFT All Day Comfort Triple Gel Trimmable Heel Support Insoles | Orthotic & Plantar Fasciitis | Breathable Heavy Duty Shock Absorption Cushion Spor",
+      "slot": 9
+     },
+     {
+      "asin": "B0GSJVCGMT",
+      "badge": null,
+      "price": "1,948",
+      "rating": "5.0",
+      "reviews": "4",
+      "title": "INSOLEACE Corrective Orthotic Insoles with Arch Support – EVA Upper | Lightweight Shock Absorbing Shoe Inserts for Foot Pain, Flat Feet & Heel Support | Comfort",
+      "slot": 10
+     }
+    ],
+    "fridoOrganicRank": 5,
+    "fridoSponsoredSlot": 6,
+    "fridoBadge": null,
+    "fridoAsin": "B0C9CNTK1Q",
+    "fridoUrl": "https://www.amazon.in/dp/B0C9CNTK1Q",
+    "resultCount": 60
+   },
+   "flipkart": {
+    "fetchOk": true,
+    "results": [
+     {
+      "pos": 1,
+      "title": "betterhood PosturePro Arch Support Shoe Inserts for Men, Women | for Flat Feet | Orthopedic Insole",
+      "brand": "betterhood",
+      "price": null,
+      "rating": 3.9,
+      "ratings": 250,
+      "isFrido": false
+     },
+     {
+      "pos": 2,
+      "title": "betterhood PosturePro Dual Gel Shoe Inserts for Men, Women | Everyday Comfort Ergonomic Insole",
+      "brand": "betterhood",
+      "price": null,
+      "rating": 4.1,
+      "ratings": 101,
+      "isFrido": false
+     },
+     {
+      "pos": 3,
+      "title": "betterhood PosturePro Orthopedic Heel Pads for Pain Relief | Shoe Inserts for Men Women | Heel Support",
+      "brand": "betterhood",
+      "price": null,
+      "rating": 4,
+      "ratings": 225,
+      "isFrido": false
+     },
+     {
+      "pos": 4,
+      "title": "Foot Vital Memory Foam Shoe Insoles Supports Heel & Arch Absorbs Foot Sweat & Moisture Insole",
+      "brand": "Foot Vital",
+      "price": null,
+      "rating": 4.3,
+      "ratings": 18,
+      "isFrido": false
+     },
+     {
+      "pos": 5,
+      "title": "Frido Dual Gel Insoles, Extra Comfort & Support, Trim-to-fit, Made in India (5-9 UK) Insole",
+      "brand": "Frido",
+      "price": null,
+      "rating": 3.8,
+      "ratings": 4043,
+      "isFrido": true
+     },
+     {
+      "pos": 6,
+      "title": "Onward Men and Women Shoe Insole Heel Cushion Inserts Adhesive Pads SUPPORT PACK OF3 Insole",
+      "brand": "Onward",
+      "price": null,
+      "rating": 3.3,
+      "ratings": 213,
+      "isFrido": false
+     },
+     {
+      "pos": 7,
+      "title": "Store2508 Arch Support Flat Feet Pain Relief Plantar Fasciitis Foot Shoe Gel Insoles Socks (1 Pair) Insole",
+      "brand": "Store2508",
+      "price": null,
+      "rating": 3.8,
+      "ratings": 2761,
+      "isFrido": false
+     },
+     {
+      "pos": 8,
+      "title": "Priyat Arch Support Flat Feet Pain Relief Plantar Fasciitis Foot Shoe Gel Insoles Socks Insole",
+      "brand": "Priyat",
+      "price": null,
+      "rating": 3.7,
+      "ratings": 45,
+      "isFrido": false
+     },
+     {
+      "pos": 9,
+      "title": "ASTARZ Memory Foam Shoe Insole for Men | Soft Support Heel, Pack of 3 Pairs Insole",
+      "brand": "ASTARZ",
+      "price": null,
+      "rating": 0,
+      "ratings": 0,
+      "isFrido": false
+     },
+     {
+      "pos": 10,
+      "title": "Foot Vital Memory Foam Shoe Insoles Comfortable Insoles Supports Heel & Arch (Pack of 1) Insole",
+      "brand": "Foot Vital",
+      "price": null,
+      "rating": 4,
+      "ratings": 4870,
+      "isFrido": false
+     }
+    ],
+    "fridoRank": 5,
+    "fridoUrl": "https://www.flipkart.com/search?q=Arch%20Support%20Insoles%20Rigid%20Semi%20Rigid%20Combo"
+   },
+   "status": "listed",
+   "capturedAt": "2026-07-08"
+  },
+  {
+   "category": "insoles",
+   "categoryName": "Insoles",
+   "sku": "Orthopedic Heel Pad",
+   "searchKeyword": "Orthopedic Heel Pad",
+   "brandKeyword": "Frido Orthopedic Heel Pad",
+   "amazon": {
+    "fetchOk": true,
+    "organic": [
+     {
+      "asin": "B0G2H8SGPR",
+      "badge": "Amazon's Choice",
+      "price": "169",
+      "rating": "4.3",
+      "reviews": "625",
+      "title": "Gel Heel cups Silicone Heel Pad for Heel Ankle Pain, Heel Spur Shoe Support Pad for Men and Women Shock Cushion Pad for Heels",
+      "rank": 1
+     },
+     {
+      "asin": "B0DM2NKK6L",
+      "badge": null,
+      "price": "190",
+      "rating": "4.0",
+      "reviews": "321",
+      "title": "FOVERA Orthopedic Heel Pads for Heel Pain Relief, Massaging Gel Heel Cups for All Day Cushioning & Comfort, Slim Design for Shock Absorption, Heel Spur & Planta",
+      "rank": 2
+     },
+     {
+      "asin": "B0GTW7HMZY",
+      "badge": "Bestseller",
+      "price": "899",
+      "rating": "4.4",
+      "reviews": "201",
+      "title": "Frido Orthotics Heel Protector for Heel Pain Relief | Gel Heel Pad with Velcro Strap | Anti-Slip Heel Cup Cushion for Men & Women | Plantar Fasciitis, Heel Spur",
+      "rank": 3
+     },
+     {
+      "asin": "B0BXKT3K3L",
+      "badge": null,
+      "price": "499",
+      "rating": "3.8",
+      "reviews": "2,197",
+      "title": "Frido Orthopedic Heel Pads For Heel Pain Relief |Heel Insole For Extra Cushioning & Comfort | Slim Designed Heel Cushions For Shock Absorption | Plantar Fasciit",
+      "rank": 4,
+      "isFridoBrand": true
+     },
+     {
+      "asin": "B0FSWGB8J8",
+      "badge": null,
+      "price": "293",
+      "rating": "4.0",
+      "reviews": "19",
+      "title": "DOCTOR EXTRA SOFT Orthopedic Heel Pads for Women | Silicone Gel Heel Cups for Pain Relief, Shock Absorption, Plantar Fasciitis, Height Increase | Extra Cushioni",
+      "rank": 5
+     },
+     {
+      "asin": "B0GT9CGJP3",
+      "badge": null,
+      "price": "189",
+      "rating": "3.0",
+      "reviews": "6",
+      "title": "Belanto Orthopedic Heel Pads For Pain Relief, 1 Pair Plantar Fasciitis Heels Support Cushion Pads for Ankle Pain, Heel Spur Shoe Insert for Men & Women, Heel Pr",
+      "rank": 6
+     },
+     {
+      "asin": "B0GTWKWPP1",
+      "badge": "Bestseller",
+      "price": "899",
+      "rating": "4.4",
+      "reviews": "201",
+      "title": "Frido Orthotics Heel Protector for Heel Pain Relief | Gel Heel Pad with Velcro Strap | Anti-Slip Heel Cup Cushion for Men & Women | Plantar Fasciitis, Heel Spur",
+      "rank": 7
+     },
+     {
+      "asin": "B0F7FBX42D",
+      "badge": null,
+      "price": "599",
+      "rating": "4.1",
+      "reviews": "143",
+      "title": "Frido Orthopedic Heel Pad Pro Insole | Gel Heel Pad For Plantar Fasciitis, Heel Spurs & Tendinitis | Anti-Slip, Flexible & Advanced Shock Absorption | Heel Pain",
+      "rank": 8
+     },
+     {
+      "asin": "B0GCK5S7JL",
+      "badge": null,
+      "price": "325",
+      "rating": "4.2",
+      "reviews": "68",
+      "title": "2 Pieces Plantar Fasciitis Heel Protectors and Gel Heel Cups – Premium Heel Pads for Women and Men to Relieve Heel Spur Pain, Achilles Tendonitis, and Cracked H",
+      "rank": 9
+     },
+     {
+      "asin": "B0GSGNPSYR",
+      "badge": null,
+      "price": "199",
+      "rating": "4.2",
+      "reviews": "5",
+      "title": "DJAYK Silicone Gel Heel Cups for Heel Pain Relief – Orthopedic Heel Pads for Plantar Fasciitis & Heel Spur, Shock Absorbing Anti-Slip Heel Cushion Inserts for M",
+      "rank": 10
+     }
+    ],
+    "sponsored": [
+     {
+      "asin": "B0GTWB1GQ1",
+      "badge": "Bestseller",
+      "price": "899",
+      "rating": "4.4",
+      "reviews": "201",
+      "title": "Frido Orthotics Heel Protector for Heel Pain Relief | Gel Heel Pad with Velcro Strap | Anti-Slip Heel Cup Cushion for Men & Women | Plantar Fasciitis, Heel Spur",
+      "slot": 1,
+      "isFridoBrand": true
+     },
+     {
+      "asin": "B0FM42VVHM",
+      "badge": null,
+      "price": "349",
+      "rating": "3.8",
+      "reviews": "160",
+      "title": "Purastep Gel Heel cups Silicon Heel Pad for Heel Ankle Pain, Heel Spur Shoe Support for Men and Women Shock Cushion Pad for Heels Cushion Blue - 1 Pair",
+      "slot": 2
+     },
+     {
+      "asin": "B0H5JGYYJD",
+      "badge": null,
+      "price": "397",
+      "rating": null,
+      "reviews": null,
+      "title": "Vn care Heel Protector Pads for Pain Relief for Men & Women | Silicone Gel Heel Pads for Plantar Fasciitis, Heel Pain & Heel Spur | Orthotic Heel Cushion Suppor",
+      "slot": 3
+     },
+     {
+      "asin": "B0F5MS5PD8",
+      "badge": null,
+      "price": "386",
+      "rating": "4.0",
+      "reviews": "150",
+      "title": "betterhood PosturePro Orthopedic Heel Pads for Heel Pain Relief | Extra Cushioning Heel Insoles | Shock Absorb Shoe Inserts for Men Women | All-day Comfort Heel",
+      "slot": 4
+     },
+     {
+      "asin": "B0D63L638V",
+      "badge": null,
+      "price": "439",
+      "rating": "4.0",
+      "reviews": "2,059",
+      "title": "Gel Heel cups Silicon Heel Pad for Heel Ankle Pain, Heel Spur Shoe Support Pad for Men and Women Shock Cushion Pad for Heels Cushion Heel Blue (GEL PAD BLUE PAI",
+      "slot": 5
+     },
+     {
+      "asin": "B0GTW2YBXT",
+      "badge": "Bestseller",
+      "price": "899",
+      "rating": "4.4",
+      "reviews": "201",
+      "title": "Frido Orthotics Heel Protector for Heel Pain Relief | Gel Heel Pad with Velcro Strap | Anti-Slip Heel Cup Cushion for Men & Women | Plantar Fasciitis, Heel Spur",
+      "slot": 6
+     },
+     {
+      "asin": "B0GLNQ8NBD",
+      "badge": null,
+      "price": "289",
+      "rating": "3.7",
+      "reviews": "166",
+      "title": "PELIRONE (PACK OF 30) Herbal And Gentle Ingredient Foot Pads Natural Ingredients for Sleep Aid, Pain Relief, Toxin Removal with Bamboo Vinegar Detoxification (C",
+      "slot": 7
+     },
+     {
+      "asin": "B0DVPWCPX4",
+      "badge": null,
+      "price": "915",
+      "rating": "3.4",
+      "reviews": "233",
+      "title": "Dr.Ortho Pain Relief Gel Insoles | Gel Technology for All Day Comfort | Trimmable Sole for Walking, Running, Sports, Formal and Safety Shoes (Size 8-12 UK) - Pa",
+      "slot": 8
+     },
+     {
+      "asin": "B0DHY622HV",
+      "badge": null,
+      "price": "499",
+      "rating": "4.0",
+      "reviews": "352",
+      "title": "Glowear Silicone Gel Heel Cups for Pain Relief | Plantar Fasciitis, Spur & Achilles Support for Men & Women | Breathable Cushion | Washable & Reusable | Black, ",
+      "slot": 9
+     },
+     {
+      "asin": "B0GH6R9T71",
+      "badge": null,
+      "price": "359",
+      "rating": "3.1",
+      "reviews": "83",
+      "title": "Belanto Heel Pain Relief Pad, 1 Pair Plantar Fasciitis Heels Support Cushion Pads for Ankle Pain, Heel Spur Shoe Insert for Men & Women, Heel Protector Cups for",
+      "slot": 10
+     }
+    ],
+    "fridoOrganicRank": 4,
+    "fridoSponsoredSlot": 1,
+    "fridoBadge": null,
+    "fridoAsin": "B0BXKT3K3L",
+    "fridoUrl": "https://www.amazon.in/dp/B0BXKT3K3L",
+    "resultCount": 60
+   },
+   "flipkart": {
+    "fetchOk": false,
+    "results": [],
+    "fridoRank": null
+   },
+   "status": "needs-verification",
+   "capturedAt": "2026-07-08"
+  },
+  {
+   "category": "insoles",
+   "categoryName": "Insoles",
+   "sku": "Max Comfort Memory Hi-Per Foam Insole",
+   "searchKeyword": "Max Comfort Memory Hi Per Foam Insole",
+   "brandKeyword": "Frido Max Comfort Memory Hi-Per Foam Insole",
+   "amazon": {
+    "fetchOk": true,
+    "organic": [
+     {
+      "asin": "B0D84BNQTG",
+      "badge": null,
+      "price": "649",
+      "rating": "3.9",
+      "reviews": "233",
+      "title": "Frido Max Comfort Memory Hi-Per Foam Trimmable Insole compatible for Formal Shoes | Loafers | Running | and Casual Shoes | Small (4-8 UK) | Pack of 1",
+      "rank": 1,
+      "isFridoBrand": true
+     },
+     {
+      "asin": "B0D86WVHRH",
+      "badge": null,
+      "price": "999",
+      "rating": "4.1",
+      "reviews": "18",
+      "title": "Frido Max Comfort Memory Hi-Per Foam Trimmable Insole compatible for Formal Shoes | Loafers | Running | and Casual Shoes | Large (9-13 UK) | Pack of 2",
+      "rank": 2
+     },
+     {
+      "asin": "B0F59RSGYY",
+      "badge": null,
+      "price": "699",
+      "rating": "4.0",
+      "reviews": "339",
+      "title": "Frido Gel Max Comfort Insole | Gel Insole with Memory Foam | All-Day Comfort Insoles For Men & Women | Shock Absorption & Anti-Slip For Everyday Use | Trimmable",
+      "rank": 3
+     },
+     {
+      "asin": "B0D37LQZBY",
+      "badge": null,
+      "price": "299",
+      "rating": "4.2",
+      "reviews": "2,127",
+      "title": "RENESMEE Memory Foam Shoe Insoles, Elastic Shock Absorbing Height Increasing Sports Shoe Insoles For Men And Women Cuttable Soft Breathable Honeycomb Orthotic R",
+      "rank": 4
+     },
+     {
+      "asin": "B0CVS3V7MH",
+      "badge": null,
+      "price": "249",
+      "rating": "4.1",
+      "reviews": "1,705",
+      "title": "SILENCIO Memory Foam Shoe Insoles for Men & Women | Shock Absorbing Orthotic Insoles with Arch Support | Anti-Slip Soft Cushioned Trim-to-Fit Sports Shoe Insert",
+      "rank": 5
+     },
+     {
+      "asin": "B0GSWBTYH6",
+      "badge": null,
+      "price": "499",
+      "rating": "3.9",
+      "reviews": "202",
+      "title": "Helios® Memory Foam Ultra Max Insoles for Men | Trim to Fit Size 8-13 | Insole for shoes |Orthotic Shoe Inserts for Cushioning, Arch Support Insole & All-Day Co",
+      "rank": 6
+     },
+     {
+      "asin": "B0FLD79376",
+      "badge": null,
+      "price": "184",
+      "rating": "4.1",
+      "reviews": "250",
+      "title": "HAUX Comfort+ Memory Foam Insoles for Men | Soft Cushion Shoe Insole for Daily Use, Walking, Running, Sports & All-Day Standing Comfort (Red (Pack of 1), UK-9)",
+      "rank": 7
+     },
+     {
+      "asin": "B0DV3LLZSN",
+      "badge": null,
+      "price": "299",
+      "rating": "4.1",
+      "reviews": "330",
+      "title": "Wonder Care Memory Foam Shoe Insoles For Women Shock Absorbing Sports Shoe Insoles For Men And Women Cuttable Soft Breathable Honeycomb Orthotic Replacement Ins",
+      "rank": 8
+     },
+     {
+      "asin": "B0G4WV1F2G",
+      "badge": null,
+      "price": "129",
+      "rating": "5.0",
+      "reviews": "1",
+      "title": "Memory Foam Shoe Insole, Shock Absorption Sports Inserts Anti-Slip Cropable Insoles Arch Support Orthotic Insoles Soft Elastic Insoles for Men Women (EU 40-45)",
+      "rank": 9
+     },
+     {
+      "asin": "B0FRYK7CDP",
+      "badge": null,
+      "price": "249",
+      "rating": "4.3",
+      "reviews": "70",
+      "title": "Purastep Memory Foam Shoe Insoles, Elastic Shock Absorbing Height Increasing Sports Shoe Insoles For Men And Women Cuttable Soft Breathable Honeycomb Orthotic R",
+      "rank": 10
+     }
+    ],
+    "sponsored": [
+     {
+      "asin": "B0FRS559XT",
+      "badge": null,
+      "price": "1,999",
+      "rating": "4.1",
+      "reviews": "36",
+      "title": "5D Comfort insoles for Men & Women, Insole with 5-Layer Cushion with Poron, Gel & TPU, Arch Support Insole for Flat Feet and Feet Pain | Plantar Fasciitis & Hee",
+      "slot": 1
+     },
+     {
+      "asin": "B0BF9S9165",
+      "badge": null,
+      "price": "276",
+      "rating": "3.8",
+      "reviews": "2,606",
+      "title": "Helios Memory Foam for All Shoes Makes shoes Super Soft & Comfortable Memory Foam Insole Women's, (SIZE-4) Pack of 1)",
+      "slot": 2
+     },
+     {
+      "asin": "B0FFTDMK18",
+      "badge": null,
+      "price": "498",
+      "rating": "3.9",
+      "reviews": "202",
+      "title": "Helios® Insoles for Men Memory Foam Ultra Max | Trim To Fit Shoe Sole for Men Size 8–13 Insole For Shoes | Orthotic For Cushioning, Arch Support & All-Day Comfo",
+      "slot": 3
+     },
+     {
+      "asin": "B0F9XG77C9",
+      "badge": null,
+      "price": "404",
+      "rating": "3.8",
+      "reviews": "26",
+      "title": "8ease Shoe Insoles for Men & Women – Arch Support Insole for Heel & Foot Pain Relief | Anti-Fatigue Cushion Inner Sole for All-Day Standing & Walking | PU Foam,",
+      "slot": 4
+     },
+     {
+      "asin": "B0D873BSBQ",
+      "badge": null,
+      "price": "1,599",
+      "rating": "4.0",
+      "reviews": "3",
+      "title": "Frido Max Comfort Memory Hi-Per Foam Trimmable Insole compatible for Formal Shoes | Loafers | Running | and Casual Shoes | Small (4-8 UK) | Pack of 4",
+      "slot": 5,
+      "isFridoBrand": true
+     },
+     {
+      "asin": "B0BH525JVG",
+      "badge": null,
+      "price": "259",
+      "rating": "4.0",
+      "reviews": "967",
+      "title": "Home Genie Memory Foam Shoes Insole | shoe Insoles for All Shoes | Shoe Insole for heel pain | Super Soft Absorption Pads Comfortable, Soft, Durable, Washable (",
+      "slot": 6
+     },
+     {
+      "asin": "B0GLYMD7Y5",
+      "badge": null,
+      "price": "472",
+      "rating": "4.0",
+      "reviews": "24",
+      "title": "UltraCare PRO ERGO PROformance Gel Insoles for Shoes | Shock Absorbing Gel Cushioning for All-Day Comfort | Anti-Slip, Anti-Sweat | Ideal for Walking, Running &",
+      "slot": 7
+     },
+     {
+      "asin": "B0DV3BHBKW",
+      "badge": null,
+      "price": "299",
+      "rating": "4.1",
+      "reviews": "330",
+      "title": "Wonder Care Memory Foam Shoe Insoles For Women Shock Absorbing Sports Shoe Insoles For Men And Women Cuttable Soft Breathable Honeycomb Orthotic Replacement Ins",
+      "slot": 8
+     },
+     {
+      "asin": "B09V7SYGGS",
+      "badge": null,
+      "price": "331",
+      "rating": "3.7",
+      "reviews": "47",
+      "title": "Helios Gel Shoe Insoles for Women | Trim to Fit Size 3–8 | Cushion Comfort Shoe Inserts | Foot Support Insoles for Daily Wear",
+      "slot": 9
+     },
+     {
+      "asin": "B0GVVSDMBS",
+      "badge": null,
+      "price": "449",
+      "rating": "3.7",
+      "reviews": "52",
+      "title": "ARKITTO Arch Support Insoles Size Small (UK 3,4,5) for Men & Women | Flat Foot Relief, All-Day Comfort & Footbed Support | Lightweight, Soft, Odourless, Trim-to",
+      "slot": 10
+     }
+    ],
+    "fridoOrganicRank": 1,
+    "fridoSponsoredSlot": 5,
+    "fridoBadge": null,
+    "fridoAsin": "B0D84BNQTG",
+    "fridoUrl": "https://www.amazon.in/dp/B0D84BNQTG",
+    "resultCount": 60
+   },
+   "flipkart": {
+    "fetchOk": true,
+    "results": [
+     {
+      "pos": 1,
+      "title": "betterhood PosturePro Arch Support Shoe Inserts for Men, Women | for Flat Feet | Orthopedic Insole",
+      "brand": "betterhood",
+      "price": null,
+      "rating": 3.9,
+      "ratings": 250,
+      "isFrido": false
+     },
+     {
+      "pos": 2,
+      "title": "betterhood PosturePro Dual Gel Shoe Inserts for Men, Women | Everyday Comfort Ergonomic Insole",
+      "brand": "betterhood",
+      "price": null,
+      "rating": 4.1,
+      "ratings": 101,
+      "isFrido": false
+     },
+     {
+      "pos": 3,
+      "title": "betterhood PosturePro Orthopedic Heel Pads for Pain Relief | Shoe Inserts for Men Women | Heel Support",
+      "brand": "betterhood",
+      "price": null,
+      "rating": 4,
+      "ratings": 225,
+      "isFrido": false
+     },
+     {
+      "pos": 4,
+      "title": "FOVERA Gel - Shoe Inserts for Walking, Running Hiking - All Day Comfort (Male) Insole",
+      "brand": "FOVERA",
+      "price": null,
+      "rating": 3.9,
+      "ratings": 23316,
+      "isFrido": false
+     },
+     {
+      "pos": 5,
+      "title": "Frido Dual Gel Insoles, Extra Comfort & Support, Trim-to-fit, Made in India (5-9 UK) Insole",
+      "brand": "Frido",
+      "price": null,
+      "rating": 3.8,
+      "ratings": 4043,
+      "isFrido": true
+     },
+     {
+      "pos": 6,
+      "title": "Foot Vital Memory Foam Shoe Insoles Comfortable Insoles Supports Heel & Arch (Pack of 1) Insole",
+      "brand": "Foot Vital",
+      "price": null,
+      "rating": 4,
+      "ratings": 4870,
+      "isFrido": false
+     },
+     {
+      "pos": 7,
+      "title": "MEBISO M-Foam Shoe Insoles, Arch Support Soft Comfortable for Men Women Insole",
+      "brand": "MEBISO",
+      "price": null,
+      "rating": 4.1,
+      "ratings": 15,
+      "isFrido": false
+     },
+     {
+      "pos": 8,
+      "title": "FOVERA Height Increasing Gel Insoles for Men & Women - With 4 Level of Height Elevation Insole",
+      "brand": "FOVERA",
+      "price": null,
+      "rating": 4.1,
+      "ratings": 345,
+      "isFrido": false
+     },
+     {
+      "pos": 9,
+      "title": "Soul Stretch Memory Foam Shoe Insoles | Comfortable Cushion Inserts | Size - 6 | Pack of 2 | Insole",
+      "brand": "Soul Stretch",
+      "price": null,
+      "rating": 0,
+      "ratings": 0,
+      "isFrido": false
+     },
+     {
+      "pos": 10,
+      "title": "ECOLAND Black Memory Foam Shoe Insoles Comfortable Insoles Support Heel (Pack of 3) Insole",
+      "brand": "ECOLAND",
+      "price": null,
+      "rating": 0,
+      "ratings": 0,
+      "isFrido": false
+     },
+     {
+      "pos": 11,
+      "title": "AGEasy Insoles for Flat Feet |Rebound Relief Technology for Arch Support Insole",
+      "brand": "AGEasy",
+      "price": null,
+      "rating": 4.2,
+      "ratings": 151,
+      "isFrido": false
+     },
+     {
+      "pos": 12,
+      "title": "enrics Foam Shoe Insoles, Arch Support Soft Comfortable for Men Women Insole",
+      "brand": "enrics",
+      "price": null,
+      "rating": 0,
+      "ratings": 0,
+      "isFrido": false
+     }
+    ],
+    "fridoRank": 5,
+    "fridoUrl": "https://www.flipkart.com/search?q=Max%20Comfort%20Memory%20Hi%20Per%20Foam%20Insole"
+   },
+   "status": "listed",
+   "capturedAt": "2026-07-08"
+  },
+  {
+   "category": "insoles",
+   "categoryName": "Insoles",
+   "sku": "Orthopedic Heel Pad Pro Insole",
+   "searchKeyword": "Orthopedic Heel Pad Insole",
+   "brandKeyword": "Frido Orthopedic Heel Pad Pro Insole",
+   "amazon": {
+    "fetchOk": true,
+    "organic": [
+     {
+      "asin": "B0GT9CGJP3",
+      "badge": null,
+      "price": "189",
+      "rating": "3.0",
+      "reviews": "6",
+      "title": "Belanto Orthopedic Heel Pads For Pain Relief, 1 Pair Plantar Fasciitis Heels Support Cushion Pads for Ankle Pain, Heel Spur Shoe Insert for Men & Women, Heel Pr",
+      "rank": 1
+     },
+     {
+      "asin": "B0BXKX5ZQC",
+      "badge": null,
+      "price": "499",
+      "rating": "3.8",
+      "reviews": "2,197",
+      "title": "Frido Orthopedic Heel Pads For Pain Relief | Insole Extra Cushioning And Comfort | Slim Designed Cushions Shock Absorption | Plantar Support | Aggravation&Spur ",
+      "rank": 2
+     },
+     {
+      "asin": "B0GVHZYHKV",
+      "badge": null,
+      "price": "199",
+      "rating": "5.0",
+      "reviews": "12",
+      "title": "ZIGZAP 1 Pair Men Women Silicon Gel Heel Cushion Insoles Soles Relieve Foot Pain Protectors Spur Support Shoe pad High Heel Inserts Blue.",
+      "rank": 3
+     },
+     {
+      "asin": "B0DHD1VW9M",
+      "badge": null,
+      "price": "152",
+      "rating": "3.6",
+      "reviews": "58",
+      "title": "Silicone Gel Orthopedic Arch Support Insoles for Flat Feet & Plantar Fasciitis – High Cushion Heel Pain Relief Pads for Men and Women, One Size Fits All",
+      "rank": 4
+     },
+     {
+      "asin": "B0F7FBX42D",
+      "badge": null,
+      "price": "599",
+      "rating": "4.1",
+      "reviews": "143",
+      "title": "Frido Orthopedic Heel Pad Pro Insole | Gel Heel Pad For Plantar Fasciitis, Heel Spurs & Tendinitis | Anti-Slip, Flexible & Advanced Shock Absorption | Heel Pain",
+      "rank": 5,
+      "isFridoBrand": true
+     },
+     {
+      "asin": "B0FH2HP9M8",
+      "badge": null,
+      "price": "299",
+      "rating": "3.7",
+      "reviews": "59",
+      "title": "House of Quirk Height Increase Insoles – 1 Pair Orthopedic Heel Lift Inserts for Men & Women, Arch Support Shoe Pads with Shock Absorption, 3.5 cm (1.4 in) Heig",
+      "rank": 6
+     },
+     {
+      "asin": "B0F5HPR34D",
+      "badge": null,
+      "price": "299",
+      "rating": "4.2",
+      "reviews": "6",
+      "title": "Axionus Silicone Gel Heel Cushion Insoles for Men & Women | Shock Absorption Heel Pad | Soft Orthopedic Shoe Insert for Heel Pain, Plantar Fasciitis & Daily Com",
+      "rank": 7
+     },
+     {
+      "asin": "B0FSWGB8J8",
+      "badge": null,
+      "price": "293",
+      "rating": "4.0",
+      "reviews": "19",
+      "title": "DOCTOR EXTRA SOFT Orthopedic Heel Pads for Women | Silicone Gel Heel Cups for Pain Relief, Shock Absorption, Plantar Fasciitis, Height Increase | Extra Cushioni",
+      "rank": 8
+     },
+     {
+      "asin": "B0F7FC246N",
+      "badge": null,
+      "price": "599",
+      "rating": "4.1",
+      "reviews": "143",
+      "title": "Frido Orthopedic Heel Pad Pro Insole | Gel Heel Pad For Plantar Fasciitis, Heel Spurs & Tendinitis | Anti-Slip, Flexible & Advanced Shock Absorption | Heel Pain",
+      "rank": 9
+     },
+     {
+      "asin": "B0DM2NKK6L",
+      "badge": null,
+      "price": "190",
+      "rating": "4.0",
+      "reviews": "321",
+      "title": "FOVERA Orthopedic Heel Pads for Heel Pain Relief, Massaging Gel Heel Cups for All Day Cushioning & Comfort, Slim Design for Shock Absorption, Heel Spur & Planta",
+      "rank": 10
+     }
+    ],
+    "sponsored": [
+     {
+      "asin": "B0FRS559XT",
+      "badge": null,
+      "price": "1,999",
+      "rating": "4.1",
+      "reviews": "36",
+      "title": "5D Comfort insoles for Men & Women, Insole with 5-Layer Cushion with Poron, Gel & TPU, Arch Support Insole for Flat Feet and Feet Pain | Plantar Fasciitis & Hee",
+      "slot": 1
+     },
+     {
+      "asin": "B0F5MS5PD8",
+      "badge": null,
+      "price": "386",
+      "rating": "4.0",
+      "reviews": "150",
+      "title": "betterhood PosturePro Orthopedic Heel Pads for Heel Pain Relief | Extra Cushioning Heel Insoles | Shock Absorb Shoe Inserts for Men Women | All-day Comfort Heel",
+      "slot": 2
+     },
+     {
+      "asin": "B0FM42VVHM",
+      "badge": null,
+      "price": "349",
+      "rating": "3.8",
+      "reviews": "160",
+      "title": "Purastep Gel Heel cups Silicon Heel Pad for Heel Ankle Pain, Heel Spur Shoe Support for Men and Women Shock Cushion Pad for Heels Cushion Blue - 1 Pair",
+      "slot": 3
+     },
+     {
+      "asin": "B0H5JGYYJD",
+      "badge": null,
+      "price": "397",
+      "rating": null,
+      "reviews": null,
+      "title": "Vn care Heel Protector Pads for Pain Relief for Men & Women | Silicone Gel Heel Pads for Plantar Fasciitis, Heel Pain & Heel Spur | Orthotic Heel Cushion Suppor",
+      "slot": 4
+     },
+     {
+      "asin": "B0F5MTP9H7",
+      "badge": null,
+      "price": "381",
+      "rating": "4.0",
+      "reviews": "150",
+      "title": "betterhood PosturePro Orthopedic Heel Pads for Heel Pain Relief | Extra Cushioning Heel Insoles | Shock Absorb Shoe Inserts for Men Women | All-day Comfort Heel",
+      "slot": 5
+     },
+     {
+      "asin": "B0DHY622HV",
+      "badge": null,
+      "price": "499",
+      "rating": "4.0",
+      "reviews": "352",
+      "title": "Glowear Silicone Gel Heel Cups for Pain Relief | Plantar Fasciitis, Spur & Achilles Support for Men & Women | Breathable Cushion | Washable & Reusable | Black, ",
+      "slot": 6
+     },
+     {
+      "asin": "B0GRQ4RDXV",
+      "badge": null,
+      "price": "189",
+      "rating": "2.9",
+      "reviews": "4",
+      "title": "CKPS 6 Pairs Heel Stickers Liner Cushion Pads for Loose Shoes Self-adhesive Shoe Filler Prevent Heel Slipping, Rubbing, Blisters, Foot Pain, and Improve Shoe Fi",
+      "slot": 7
+     },
+     {
+      "asin": "B0BXKX5ZQC",
+      "badge": null,
+      "price": "499",
+      "rating": "3.8",
+      "reviews": "2,197",
+      "title": "Frido Orthopedic Heel Pads For Pain Relief | Insole Extra Cushioning And Comfort | Slim Designed Cushions Shock Absorption | Plantar Support | Aggravation&Spur ",
+      "slot": 8,
+      "isFridoBrand": true
+     },
+     {
+      "asin": "B0GVRTSM5M",
+      "badge": null,
+      "price": "849",
+      "rating": null,
+      "reviews": null,
+      "title": "Glowear Silicone Gel Heel Pads Combo (2 Pairs) – Breathable Black + Beige/Grey | Foot Cushion for Plantar Fasciitis, Cracked Feet & Daily Use",
+      "slot": 9
+     },
+     {
+      "asin": "B0D7MBCFG4",
+      "badge": null,
+      "price": "199",
+      "rating": "3.6",
+      "reviews": "340",
+      "title": "Wonder Care 1 Pair Gel Heel Cushion For Heel Pain Relief Women And Men | Silicone Heel Pad | Plantar Fascitis Inserts Heel Spur Pads| Achillies Heel Support| Cu",
+      "slot": 10
+     }
+    ],
+    "fridoOrganicRank": 5,
+    "fridoSponsoredSlot": 8,
+    "fridoBadge": null,
+    "fridoAsin": "B0F7FBX42D",
+    "fridoUrl": "https://www.amazon.in/dp/B0F7FBX42D",
+    "resultCount": 60
+   },
+   "flipkart": {
+    "fetchOk": true,
+    "results": [
+     {
+      "pos": 1,
+      "title": "betterhood PosturePro Arch Support Shoe Inserts for Men, Women | for Flat Feet | Orthopedic Insole",
+      "brand": "betterhood",
+      "price": null,
+      "rating": 3.9,
+      "ratings": 250,
+      "isFrido": false
+     },
+     {
+      "pos": 2,
+      "title": "betterhood PosturePro Dual Gel Shoe Inserts for Men, Women | Everyday Comfort Ergonomic Insole",
+      "brand": "betterhood",
+      "price": null,
+      "rating": 4.1,
+      "ratings": 101,
+      "isFrido": false
+     },
+     {
+      "pos": 3,
+      "title": "betterhood PosturePro Orthopedic Heel Pads for Pain Relief | Shoe Inserts for Men Women | Heel Support",
+      "brand": "betterhood",
+      "price": null,
+      "rating": 4,
+      "ratings": 225,
+      "isFrido": false
+     },
+     {
+      "pos": 4,
+      "title": "QERINKLE Gel heel pad pain relief insole cushion shock absorbing plantar support Heel Support",
+      "brand": "QERINKLE",
+      "price": null,
+      "rating": 3.8,
+      "ratings": 28,
+      "isFrido": false
+     },
+     {
+      "pos": 5,
+      "title": "Yoviex Foot Care Heel Pads Orthopedic Heel Support Pads For Men And Women Heel Support",
+      "brand": "Yoviex",
+      "price": null,
+      "rating": 0,
+      "ratings": 0,
+      "isFrido": false
+     },
+     {
+      "pos": 6,
+      "title": "Yoviex Heel Pain Relief Pads For Tired Foot Relaxation Orthopedic Heel Support Pads Heel Support",
+      "brand": "Yoviex",
+      "price": null,
+      "rating": 0,
+      "ratings": 0,
+      "isFrido": false
+     },
+     {
+      "pos": 7,
+      "title": "AGE CARE 1Pair Orthopedic Arch Support Silicone gel Pads Flat Feet Insoles Plantar Fasciitis Arch Socks Heel Cushion pad Insole",
+      "brand": "AGE CARE",
+      "price": null,
+      "rating": 3.8,
+      "ratings": 781,
+      "isFrido": false
+     },
+     {
+      "pos": 8,
+      "title": "Yoviex Heel Support Sleeves Quick Wear Design Orthopedic Heel Support Pads Heel Support",
+      "brand": "Yoviex",
+      "price": null,
+      "rating": 0,
+      "ratings": 0,
+      "isFrido": false
+     },
+     {
+      "pos": 9,
+      "title": "Yoviex Daily Foot Care Support Orthopedic Heel Support Pads For Smooth Heel Protection Heel Support",
+      "brand": "Yoviex",
+      "price": null,
+      "rating": 0,
+      "ratings": 0,
+      "isFrido": false
+     },
+     {
+      "pos": 10,
+      "title": "Yoviex Gel Heel Protectors Reusable Daily Wear Orthopedic Heel Support Pads Heel Support",
+      "brand": "Yoviex",
+      "price": null,
+      "rating": 0,
+      "ratings": 0,
+      "isFrido": false
+     },
+     {
+      "pos": 11,
+      "title": "Yoviex Soft Gel Heel Cups Protective Heel Padding Orthopedic Heel Support Pads Heel Support",
+      "brand": "Yoviex",
+      "price": null,
+      "rating": 0,
+      "ratings": 0,
+      "isFrido": false
+     }
+    ],
+    "fridoRank": null,
+    "fridoUrl": "https://www.flipkart.com/search?q=Orthopedic%20Heel%20Pad%20Insole"
+   },
+   "status": "listed",
+   "capturedAt": "2026-07-08"
+  },
+  {
+   "category": "insoles",
+   "categoryName": "Insoles",
+   "sku": "Gel Max Comfort Insole",
+   "searchKeyword": "Gel Max Comfort Insole",
+   "brandKeyword": "Frido Gel Max Comfort Insole",
+   "amazon": {
+    "fetchOk": true,
+    "organic": [
+     {
+      "asin": "B0F59RSGYY",
+      "badge": null,
+      "price": "699",
+      "rating": "4.0",
+      "reviews": "339",
+      "title": "Frido Gel Max Comfort Insole | Gel Insole with Memory Foam | All-Day Comfort Insoles For Men & Women | Shock Absorption & Anti-Slip For Everyday Use | Trimmable",
+      "rank": 1,
+      "isFridoBrand": true
+     },
+     {
+      "asin": "B0DJKR4763",
+      "badge": "Bestseller",
+      "price": "899",
+      "rating": "3.8",
+      "reviews": "9,650",
+      "title": "Frido Dual Gel Pro Shoe Insoles -Trimmable Shoe Sole for Men & Women for Stability, Shock Absorption & Comfort | Anti-Sweat Sports Insole, Foot Support Silicone",
+      "rank": 2
+     },
+     {
+      "asin": "B0CVH2GMK8",
+      "badge": null,
+      "price": "299",
+      "rating": "4.0",
+      "reviews": "1,581",
+      "title": "Soft Glide Performance Insoles | Plush Cushioning | Anti-Slip | Soft & Breathable | Personalized Comfort for Any Shoe | Unisex | 1 Pair",
+      "rank": 3
+     },
+     {
+      "asin": "B0FFTDMK18",
+      "badge": null,
+      "price": "498",
+      "rating": "3.9",
+      "reviews": "202",
+      "title": "Helios® Insoles for Men Memory Foam Ultra Max | Trim To Fit Shoe Sole for Men Size 8–13 Insole For Shoes | Orthotic For Cushioning, Arch Support & All-Day Comfo",
+      "rank": 4
+     },
+     {
+      "asin": "B0GQSP2BXK",
+      "badge": null,
+      "price": "379",
+      "rating": "4.0",
+      "reviews": "81",
+      "title": "FOVERA Gel Insole for Shoes Female | Dual Gel Technology for All Day Comfort | Trimmable Sole for Walking, Running, Sports, Formal and Safety Shoes (Female, Pac",
+      "rank": 5
+     },
+     {
+      "asin": "B0GLYMD7Y5",
+      "badge": null,
+      "price": "472",
+      "rating": "4.0",
+      "reviews": "24",
+      "title": "UltraCare PRO ERGO PROformance Gel Insoles for Shoes | Shock Absorbing Gel Cushioning for All-Day Comfort | Anti-Slip, Anti-Sweat | Ideal for Walking, Running &",
+      "rank": 6
+     },
+     {
+      "asin": "B0CVS3V7MH",
+      "badge": null,
+      "price": "249",
+      "rating": "4.1",
+      "reviews": "1,705",
+      "title": "SILENCIO Memory Foam Shoe Insoles for Men & Women | Shock Absorbing Orthotic Insoles with Arch Support | Anti-Slip Soft Cushioned Trim-to-Fit Sports Shoe Insert",
+      "rank": 7
+     },
+     {
+      "asin": "B0DPCFMGBG",
+      "badge": null,
+      "price": "349",
+      "rating": "3.8",
+      "reviews": "117",
+      "title": "RENESMEE Silicone Gel Reusable Honeycomb Full Length Non Slip Comfort Sports Insole Air Cushion Damping Shoe Pad Cushion Shoe Inserts for Men & Women (UK/IND 4-",
+      "rank": 8
+     },
+     {
+      "asin": "B0D3B3JP1J",
+      "badge": null,
+      "price": "497",
+      "rating": "3.9",
+      "reviews": "110",
+      "title": "DOCTOR EXTRA SOFT All Day Comfort Triple Gel Trimmable Heel Support Insoles| Orthotic & Plantar Fasciitis| Breathable Heavy Duty Shock Absorption Cushion Sports",
+      "rank": 9
+     },
+     {
+      "asin": "B0D3B54FTK",
+      "badge": null,
+      "price": "497",
+      "rating": "3.9",
+      "reviews": "201",
+      "title": "DOCTOR EXTRA SOFT All Day Comfort Triple Gel Trimmable Heel Support Insoles | Orthotic & Plantar Fasciitis | Breathable Heavy Duty Shock Absorption Cushion Spor",
+      "rank": 10
+     }
+    ],
+    "sponsored": [
+     {
+      "asin": "B0FRS559XT",
+      "badge": null,
+      "price": "1,999",
+      "rating": "4.1",
+      "reviews": "36",
+      "title": "5D Comfort insoles for Men & Women, Insole with 5-Layer Cushion with Poron, Gel & TPU, Arch Support Insole for Flat Feet and Feet Pain | Plantar Fasciitis & Hee",
+      "slot": 1
+     },
+     {
+      "asin": "B019MJ44CO",
+      "badge": null,
+      "price": "975",
+      "rating": "3.8",
+      "reviews": "69",
+      "title": "ONYXNEO Silicon Gel Insole Blue, Pair (S (UK Size 4-5.5))",
+      "slot": 2
+     },
+     {
+      "asin": "B0D5MMQTGX",
+      "badge": null,
+      "price": "2,068",
+      "rating": "3.6",
+      "reviews": "449",
+      "title": "Helios Dual Gelmax insoles | India's number one insole for pain relief and comfort | Trim to fit | Size (8-12) (Pack of 4)",
+      "slot": 3
+     },
+     {
+      "asin": "B0FPD46Q1P",
+      "badge": null,
+      "price": "1,876",
+      "rating": "3.9",
+      "reviews": "202",
+      "title": "Helios® Memory Foam Ultra Max Insoles for Men | Trim to Fit Size 8-13 | Insole for shoes |Orthotic Shoe Inserts for Cushioning, Arch Support Insole & All-Day Co",
+      "slot": 4
+     },
+     {
+      "asin": "B09RV5MGQ2",
+      "badge": "Bestseller",
+      "price": "692",
+      "rating": "3.8",
+      "reviews": "9,650",
+      "title": "Frido Dual Gel Heavy Duty Trimmable Insoles | For Loose Shoes or Replacing Existing Insoles | Thick Shoe Inserts | Extra Comfort and Support | Proudly Made in I",
+      "slot": 5
+     },
+     {
+      "asin": "B0D84BNQTG",
+      "badge": null,
+      "price": "649",
+      "rating": "3.9",
+      "reviews": "233",
+      "title": "Frido Max Comfort Memory Hi-Per Foam Trimmable Insole compatible for Formal Shoes | Loafers | Running | and Casual Shoes | Small (4-8 UK) | Pack of 1",
+      "slot": 6
+     },
+     {
+      "asin": "B0G7H23HJ3",
+      "badge": null,
+      "price": "1,290",
+      "rating": "3.9",
+      "reviews": "10",
+      "title": "COIF Premium Shoe Insoles for Men & Women | Soft Cushion Arch Support Inserts | Shock Absorbing Orthopedic Insoles for Running, Sports & Daily Comfort | Breatha",
+      "slot": 7
+     },
+     {
+      "asin": "B0BH525JVG",
+      "badge": null,
+      "price": "259",
+      "rating": "4.0",
+      "reviews": "967",
+      "title": "Home Genie Memory Foam Shoes Insole | shoe Insoles for All Shoes | Shoe Insole for heel pain | Super Soft Absorption Pads Comfortable, Soft, Durable, Washable (",
+      "slot": 8
+     },
+     {
+      "asin": "B0DJKR4763",
+      "badge": "Bestseller",
+      "price": "899",
+      "rating": "3.8",
+      "reviews": "9,650",
+      "title": "Frido Dual Gel Pro Shoe Insoles -Trimmable Shoe Sole for Men & Women for Stability, Shock Absorption & Comfort | Anti-Sweat Sports Insole, Foot Support Silicone",
+      "slot": 9,
+      "isFridoBrand": true
+     },
+     {
+      "asin": "B08T9LHLQ7",
+      "badge": null,
+      "price": "539",
+      "rating": "3.3",
+      "reviews": "4",
+      "title": "PRO GEL INSOLE I FOOT BED I SIZE SMALL",
+      "slot": 10
+     }
+    ],
+    "fridoOrganicRank": 1,
+    "fridoSponsoredSlot": 9,
+    "fridoBadge": null,
+    "fridoAsin": "B0F59RSGYY",
+    "fridoUrl": "https://www.amazon.in/dp/B0F59RSGYY",
+    "resultCount": 60
+   },
+   "flipkart": {
+    "fetchOk": true,
+    "results": [
+     {
+      "pos": 1,
+      "title": "betterhood PosturePro Arch Support Shoe Inserts for Men, Women | for Flat Feet | Orthopedic Insole",
+      "brand": "betterhood",
+      "price": null,
+      "rating": 3.9,
+      "ratings": 250,
+      "isFrido": false
+     },
+     {
+      "pos": 2,
+      "title": "betterhood PosturePro Dual Gel Shoe Inserts for Men, Women | Everyday Comfort Ergonomic Insole",
+      "brand": "betterhood",
+      "price": null,
+      "rating": 4.1,
+      "ratings": 101,
+      "isFrido": false
+     },
+     {
+      "pos": 3,
+      "title": "betterhood PosturePro Orthopedic Heel Pads for Pain Relief | Shoe Inserts for Men Women | Heel Support",
+      "brand": "betterhood",
+      "price": null,
+      "rating": 4,
+      "ratings": 225,
+      "isFrido": false
+     },
+     {
+      "pos": 4,
+      "title": "Frido Dual Gel Insoles, Extra Comfort & Support, Trim-to-fit, Made in India (5-9 UK) Insole",
+      "brand": "Frido",
+      "price": null,
+      "rating": 3.8,
+      "ratings": 4043,
+      "isFrido": true
+     },
+     {
+      "pos": 5,
+      "title": "FOVERA Gel - Shoe Inserts for Walking, Running Hiking - All Day Comfort (Female) Insole",
+      "brand": "FOVERA",
+      "price": null,
+      "rating": 3.9,
+      "ratings": 23316,
+      "isFrido": false
+     },
+     {
+      "pos": 6,
+      "title": "COZYVACOMFORT High-Performance Athletic Dual-Gel Technology Insoles Insole",
+      "brand": "COZYVACOMFORT",
+      "price": null,
+      "rating": 0,
+      "ratings": 0,
+      "isFrido": false
+     },
+     {
+      "pos": 7,
+      "title": "FOVERA Gel - Shoe Inserts for Walking, Running Hiking - All Day Comfort (Male) Insole",
+      "brand": "FOVERA",
+      "price": null,
+      "rating": 3.9,
+      "ratings": 23316,
+      "isFrido": false
+     },
+     {
+      "pos": 8,
+      "title": "FOVERA Height Increasing Gel Insoles for Men & Women - With 4 Level of Height Elevation Insole",
+      "brand": "FOVERA",
+      "price": null,
+      "rating": 4.1,
+      "ratings": 345,
+      "isFrido": false
+     },
+     {
+      "pos": 9,
+      "title": "Dr Foot Arch Support Gel Insole Pair For Men & Women – 1 Pair (Medium Size) (Pack of 2) Insole",
+      "brand": "Dr Foot",
+      "price": null,
+      "rating": 4.5,
+      "ratings": 11,
+      "isFrido": false
+     },
+     {
+      "pos": 10,
+      "title": "JAMBOREE Gel Insole for Men & Women insole for Walking, Running, Hiking, Standing All Day Insole",
+      "brand": "JAMBOREE",
+      "price": null,
+      "rating": 3.7,
+      "ratings": 151,
+      "isFrido": false
+     },
+     {
+      "pos": 11,
+      "title": "BOLDFIT Shoes for Men Sole Pad Gel Insole",
+      "brand": "BOLDFIT",
+      "price": null,
+      "rating": 3.8,
+      "ratings": 622,
+      "isFrido": false
+     },
+     {
+      "pos": 12,
+      "title": "Dyna Silicare Silicone Insoles(Removable)-1 Pair Insole",
+      "brand": "Dyna",
+      "price": null,
+      "rating": 3.8,
+      "ratings": 211,
+      "isFrido": false
+     }
+    ],
+    "fridoRank": 4,
+    "fridoUrl": "https://www.flipkart.com/search?q=Gel%20Max%20Comfort%20Insole"
+   },
+   "status": "listed",
+   "capturedAt": "2026-07-08"
+  },
+  {
+   "category": "insoles",
+   "categoryName": "Insoles",
+   "sku": "Silicone Gel Insole",
+   "searchKeyword": "Silicone Gel Insole",
+   "brandKeyword": "Frido Silicone Gel Insole",
+   "amazon": {
+    "fetchOk": true,
+    "organic": [
+     {
+      "asin": "B09RV5JVMM",
+      "badge": "Bestseller",
+      "price": "699",
+      "rating": "3.8",
+      "reviews": "9,650",
+      "title": "Frido Dual Gel Heavy Duty Trimmable Insoles | For Loose Shoes or Replacing Existing Insoles | Thick Shoe Inserts | Extra Comfort and Support | Proudly Made in I",
+      "rank": 1
+     },
+     {
+      "asin": "B0GVHZYHKV",
+      "badge": null,
+      "price": "199",
+      "rating": "5.0",
+      "reviews": "12",
+      "title": "ZIGZAP 1 Pair Men Women Silicon Gel Heel Cushion Insoles Soles Relieve Foot Pain Protectors Spur Support Shoe pad High Heel Inserts Blue.",
+      "rank": 2
+     },
+     {
+      "asin": "B0DJKR4763",
+      "badge": "Bestseller",
+      "price": "899",
+      "rating": "3.8",
+      "reviews": "9,650",
+      "title": "Frido Dual Gel Pro Shoe Insoles -Trimmable Shoe Sole for Men & Women for Stability, Shock Absorption & Comfort | Anti-Sweat Sports Insole, Foot Support Silicone",
+      "rank": 3
+     },
+     {
+      "asin": "B019MJ46HM",
+      "badge": null,
+      "price": "975",
+      "rating": "3.6",
+      "reviews": "189",
+      "title": "ONYXNEO Silicone Gel Insoles for Men, Women, Shoes, Footwear, Feet/Heel Pain -Hypoallergenic, Comfortable, Soft, Anti Slip Insole Ideal for Prolonged Standing (",
+      "rank": 4
+     },
+     {
+      "asin": "B0GQSRQRF8",
+      "badge": "Amazon's Choice",
+      "price": "395",
+      "rating": "4.0",
+      "reviews": "81",
+      "title": "FOVERA Gel Insole for Shoes Men | Dual Gel Technology for All Day Comfort | Trimmable Sole for Walking, Running, Sports, Formal and Safety Shoes (Male, Pack of ",
+      "rank": 5
+     },
+     {
+      "asin": "B0G2H8SGPR",
+      "badge": null,
+      "price": "169",
+      "rating": "4.3",
+      "reviews": "625",
+      "title": "Gel Heel cups Silicone Heel Pad for Heel Ankle Pain, Heel Spur Shoe Support Pad for Men and Women Shock Cushion Pad for Heels",
+      "rank": 6
+     },
+     {
+      "asin": "B0F7FBS94H",
+      "badge": null,
+      "price": "499",
+      "rating": "3.5",
+      "reviews": "5",
+      "title": "Frido Silicone Gel Insole for Men & Women | Self-Adhesive, Advanced Shock Absorption & Pressure Relief | Hexagonal Anti-Slip grip | Flexible Design, Foot Pain R",
+      "rank": 7,
+      "isFridoBrand": true
+     },
+     {
+      "asin": "B0GLYMD7Y5",
+      "badge": null,
+      "price": "472",
+      "rating": "4.0",
+      "reviews": "24",
+      "title": "UltraCare PRO ERGO PROformance Gel Insoles for Shoes | Shock Absorbing Gel Cushioning for All-Day Comfort | Anti-Slip, Anti-Sweat | Ideal for Walking, Running &",
+      "rank": 8
+     },
+     {
+      "asin": "B07GPXKBDH",
+      "badge": null,
+      "price": "235",
+      "rating": "3.6",
+      "reviews": "425",
+      "title": "Silicone Gel Insoles for Womens Shoes - Durable & Comfortable Heel Inserts Help Support Relief from Sore Feet, Plantar Fasciitis | Perfect for Work or Casual we",
+      "rank": 9
+     },
+     {
+      "asin": "B0H21T6KXB",
+      "badge": null,
+      "price": "149",
+      "rating": null,
+      "reviews": null,
+      "title": "Silicone Gel Orthopedic Arch Support Insoles for Flat Feet & Plantar Fasciitis - High Cushion Heel Pain Relief Orthotic Pads for Men & Women, One Size Fits All ",
+      "rank": 10
+     }
+    ],
+    "sponsored": [
+     {
+      "asin": "B0H79XR1F5",
+      "badge": null,
+      "price": "299",
+      "rating": null,
+      "reviews": null,
+      "title": "STORMX Silicone Gel Heel Pads for Relief from Pain & Cracked |Anti-Bacterial Gel Technology| Free Size |Pack of 1 Pair (2 Pieces)",
+      "slot": 1
+     },
+     {
+      "asin": "B019MJ44CO",
+      "badge": null,
+      "price": "975",
+      "rating": "3.8",
+      "reviews": "69",
+      "title": "ONYXNEO Silicon Gel Insole Blue, Pair (S (UK Size 4-5.5))",
+      "slot": 2
+     },
+     {
+      "asin": "B07PS6M5W9",
+      "badge": null,
+      "price": "1,080",
+      "rating": "3.8",
+      "reviews": "1,274",
+      "title": "ONYXNEO Silicone Insole with Medial Arch for Flat Feet Correction, Foot Arch, Shoes, Heel Pain - Slim Design, Anti Slip, Comfortable Insole Pads (M (UK Size 5-7",
+      "slot": 3
+     },
+     {
+      "asin": "B0H3HMQBNV",
+      "badge": null,
+      "price": "284",
+      "rating": "3.5",
+      "reviews": "51",
+      "title": "QUIQSHIPP Silicone Gel Heel Protector for Men & Women | Heel Cups for Plantar Fasciitis & Heel Pain Relief | Breathable Hole Design | Soft Cushion Support for D",
+      "slot": 4
+     },
+     {
+      "asin": "B0DPCFKFCF",
+      "badge": null,
+      "price": "349",
+      "rating": "3.8",
+      "reviews": "117",
+      "title": "RENESMEE Silicone Gel Reusable Honeycomb Full Length Non Slip Comfort Sports Insole Air Cushion Damping Shoe Pad Cushion Shoe Inserts for Men & Women (UK/IND 7-",
+      "slot": 5
+     },
+     {
+      "asin": "B0DHD1VW9M",
+      "badge": null,
+      "price": "152",
+      "rating": "3.6",
+      "reviews": "58",
+      "title": "Silicone Gel Orthopedic Arch Support Insoles for Flat Feet & Plantar Fasciitis – High Cushion Heel Pain Relief Pads for Men and Women, One Size Fits All",
+      "slot": 6,
+      "isFridoBrand": true
+     },
+     {
+      "asin": "B0FRS559XT",
+      "badge": null,
+      "price": "1,999",
+      "rating": "4.1",
+      "reviews": "36",
+      "title": "5D Comfort insoles for Men & Women, Insole with 5-Layer Cushion with Poron, Gel & TPU, Arch Support Insole for Flat Feet and Feet Pain | Plantar Fasciitis & Hee",
+      "slot": 7
+     },
+     {
+      "asin": "B0GT4CBHMX",
+      "badge": null,
+      "price": "799",
+      "rating": "4.0",
+      "reviews": "17",
+      "title": "Sneakare All Day Comfort Insoles for Men & Women | Wave Cushion Arch Support Inserts | Anti-Fatigue, Odorless, Trim-to-Fit Shoe Insoles for Work, Walking & Dail",
+      "slot": 8
+     },
+     {
+      "asin": "B0GHMYDXX8",
+      "badge": "Bestseller",
+      "price": "249",
+      "rating": "4.2",
+      "reviews": "4,999",
+      "title": "Foot patch (pack of 2) Herbal And Gentle Ingredient Detox Foot Pads, Natural Ingredients for Sleep Aid, Pain Relief, Toxin Removal with Bamboo Vinegar and Acupo",
+      "slot": 9
+     },
+     {
+      "asin": "B0D37ZLNMD",
+      "badge": null,
+      "price": "524",
+      "rating": "3.6",
+      "reviews": "449",
+      "title": "Helios Insoles for Men | Dual Gelmax Shoe Sole for Men | Trim to Fit Size 8-12 | Gel Cushioning & Shock Absorption | Orthopedic Insole for Shoes | Daily Comfort",
+      "slot": 10
+     }
+    ],
+    "fridoOrganicRank": 7,
+    "fridoSponsoredSlot": 6,
+    "fridoBadge": null,
+    "fridoAsin": "B0F7FBS94H",
+    "fridoUrl": "https://www.amazon.in/dp/B0F7FBS94H",
+    "resultCount": 60
+   },
+   "flipkart": {
+    "fetchOk": true,
+    "results": [
+     {
+      "pos": 1,
+      "title": "betterhood PosturePro Arch Support Shoe Inserts for Men, Women | for Flat Feet | Orthopedic Insole",
+      "brand": "betterhood",
+      "price": null,
+      "rating": 3.9,
+      "ratings": 250,
+      "isFrido": false
+     },
+     {
+      "pos": 2,
+      "title": "betterhood PosturePro Dual Gel Shoe Inserts for Men, Women | Everyday Comfort Ergonomic Insole",
+      "brand": "betterhood",
+      "price": null,
+      "rating": 4.1,
+      "ratings": 101,
+      "isFrido": false
+     },
+     {
+      "pos": 3,
+      "title": "betterhood PosturePro Orthopedic Heel Pads for Pain Relief | Shoe Inserts for Men Women | Heel Support",
+      "brand": "betterhood",
+      "price": null,
+      "rating": 4,
+      "ratings": 225,
+      "isFrido": false
+     },
+     {
+      "pos": 4,
+      "title": "FULKIZA Gel Silicone Shock Cushion Orthotic Shoe Insole Plantar Heel Support Pad 1 Pair Insole",
+      "brand": "FULKIZA",
+      "price": null,
+      "rating": 3.8,
+      "ratings": 136,
+      "isFrido": false
+     },
+     {
+      "pos": 5,
+      "title": "CHIWA Heel Protector | Comfort Gel Fit For Home Heel Support",
+      "brand": "CHIWA",
+      "price": null,
+      "rating": 0,
+      "ratings": 0,
+      "isFrido": false
+     },
+     {
+      "pos": 6,
+      "title": "hsbtreads Silicone Gel Reusable Insole",
+      "brand": "hsbtreads",
+      "price": null,
+      "rating": 3.8,
+      "ratings": 49,
+      "isFrido": false
+     },
+     {
+      "pos": 7,
+      "title": "DEBIK Medical Arch Gel Support Silicone,Orthopedic Shoe Insole Insole",
+      "brand": "DEBIK",
+      "price": null,
+      "rating": 3.8,
+      "ratings": 109,
+      "isFrido": false
+     },
+     {
+      "pos": 8,
+      "title": "HOSPIKART Gel Heel Cup Sleeve for Plantar Fasciitis & Heel Pain Relief (Universal- 1 Pack) Heel Support",
+      "brand": "HOSPIKART",
+      "price": null,
+      "rating": 4,
+      "ratings": 503,
+      "isFrido": false
+     },
+     {
+      "pos": 9,
+      "title": "Frido Dual Gel Insoles, Extra Comfort & Support, Trim-to-fit, Made in India (5-9 UK) Insole",
+      "brand": "Frido",
+      "price": null,
+      "rating": 3.8,
+      "ratings": 4043,
+      "isFrido": true
+     },
+     {
+      "pos": 10,
+      "title": "Freven Silicone Gel Heel Pad Protector Insole Cups for Heel Swelling Pain Relief Heel Support",
+      "brand": "Freven",
+      "price": null,
+      "rating": 0,
+      "ratings": 0,
+      "isFrido": false
+     },
+     {
+      "pos": 11,
+      "title": "CHIWA Silicone Heel Pad | With Gel Heel Padding Home Use Foot Comfort Aid Heel Support",
+      "brand": "CHIWA",
+      "price": null,
+      "rating": 0,
+      "ratings": 0,
+      "isFrido": false
+     },
+     {
+      "pos": 12,
+      "title": "FOVERA Gel - Shoe Inserts for Walking, Running Hiking - All Day Comfort (Female) Insole",
+      "brand": "FOVERA",
+      "price": null,
+      "rating": 3.9,
+      "ratings": 23316,
+      "isFrido": false
+     },
+     {
+      "pos": 13,
+      "title": "Dyna Silicare Silicone Insoles(Removable)-1 Pair Insole",
+      "brand": "Dyna",
+      "price": null,
+      "rating": 3.8,
+      "ratings": 211,
+      "isFrido": false
+     }
+    ],
+    "fridoRank": 9,
+    "fridoUrl": "https://www.flipkart.com/search?q=Silicone%20Gel%20Insole"
+   },
+   "status": "listed",
+   "capturedAt": "2026-07-08"
+  },
+  {
+   "category": "insoles",
+   "categoryName": "Insoles",
+   "sku": "Ultimate Flat Feet Combo",
+   "searchKeyword": "Flat Feet Combo",
+   "brandKeyword": "Frido Ultimate Flat Feet Combo",
+   "amazon": {
+    "fetchOk": true,
+    "organic": [
+     {
+      "asin": "B0H2F9GHDN",
+      "badge": null,
+      "price": "199",
+      "rating": "4.4",
+      "reviews": "13",
+      "title": "DOSJNI Flat Foot Arch Support Insole for Men & Women | Medial Arch Support Sleeve with Gel Cushion | Plantar Fasciitis & Fallen Arch Pain Relief | Orthotic Foot",
+      "rank": 1
+     },
+     {
+      "asin": "B0H2RKCPK8",
+      "badge": null,
+      "price": "179",
+      "rating": "5.0",
+      "reviews": "1",
+      "title": "K KODZN Flat Foot Arch Support Insole for Men & Women | Medial Arch Support Sleeve with Gel Cushion | Plantar Fasciitis & Fallen Arch Pain Relief | Orthotic Foo",
+      "rank": 2
+     },
+     {
+      "asin": "B0H2Q1WWHV",
+      "badge": null,
+      "price": "189",
+      "rating": "3.6",
+      "reviews": "5",
+      "title": "MATSON Flat Foot Arch Support for Men & Women | Medial Arch Support for Flat Feet Correction Sleeve with Cushion | Plantar Fasciitis Leg Foot Pain Relief Produc",
+      "rank": 3
+     },
+     {
+      "asin": "B0H2PNSXHM",
+      "badge": null,
+      "price": "189",
+      "rating": "3.6",
+      "reviews": "5",
+      "title": "MATSON Flat Foot Arch Support for Men & Women | Medial Arch Support for Flat Feet Correction Sleeve with Cushion | Plantar Fasciitis Leg Foot Pain Relief Produc",
+      "rank": 4
+     },
+     {
+      "asin": "B0DPDBK2FH",
+      "badge": null,
+      "price": "189",
+      "rating": "4.4",
+      "reviews": "174",
+      "title": "QUIQSHIPP Cotton Flat Arch Support For Men & Women,Medial Arch Support For Flat Correction Sleeve With Cushion,Leg Pain Relief,Foot Care For Slippers Foot Arch ",
+      "rank": 5
+     },
+     {
+      "asin": "B0GDF5BDVP",
+      "badge": null,
+      "price": "159",
+      "rating": "3.6",
+      "reviews": "56",
+      "title": "GLUN® 1 Set Beige Colour Silicon Gel Foot Arch Support Socks, Cushion Helps Relieve Pain & Discomfort for Flat & Normal Feet",
+      "rank": 6
+     },
+     {
+      "asin": "B0GVB9C3QL",
+      "badge": null,
+      "price": "239",
+      "rating": "5.0",
+      "reviews": "1",
+      "title": "Flat Foot Arch Support for Men & Women | Medial Arch Support for Flat Feet Correction Sleeve with Cushion | Plantar Fasciitis Leg Foot Support Pain Relief Produ",
+      "rank": 7
+     },
+     {
+      "asin": "B0FPQT4JJD",
+      "badge": null,
+      "price": "349",
+      "rating": "3.8",
+      "reviews": "1,630",
+      "title": "RENESMEE Orthotic Arch Support Shoe Insoles, Children Pu Cushioning Inserts, Shock Absorption Velvet Surfaces Deep Heel Cup Inner Sole for Flat Feet, Feet Heel ",
+      "rank": 8
+     },
+     {
+      "asin": "B0G8FGTCVR",
+      "badge": null,
+      "price": "229",
+      "rating": "4.3",
+      "reviews": "151",
+      "title": "Arch Support for Men & Women | Medial Arch Support for Flat Feet Correction Sleeve with Cushion | Plantar Fasciitis Leg Pain Relief Product | Free Size - 1 Pair",
+      "rank": 9
+     },
+     {
+      "asin": "B0CK4P1RL5",
+      "badge": null,
+      "price": "299",
+      "rating": "3.0",
+      "reviews": "6",
+      "title": "SPEFEZ Dual Gel Insoles For Men Insole Women For Loose Shoes or Replacing Existing Insoles Arch Support For Flat Feet Silicone Insole for Shoes With Silicone Ge",
+      "rank": 10
+     }
+    ],
+    "sponsored": [
+     {
+      "asin": "B0FX9JJ9BB",
+      "badge": null,
+      "price": "301",
+      "rating": "4.0",
+      "reviews": "26",
+      "title": "Purastep Flat Foot Arch Support for Men & Women | Medial Arch Support for Flat Feet Correction Sleeve with Cushion | Plantar Fasciitis Leg Foot Support Pain Rel",
+      "slot": 1
+     },
+     {
+      "asin": "B0DSFPK9LM",
+      "badge": null,
+      "price": "588",
+      "rating": "4.0",
+      "reviews": "241",
+      "title": "betterhood PosturePro Arch Support Insoles | Small, 5-8 UK | Gel Insoles for Shoes, Flat Feet Arch Support Ergonomic Orthopedic Shoe Inserts, Thin and Non-Bulk ",
+      "slot": 2
+     },
+     {
+      "asin": "B07PS6M5W9",
+      "badge": null,
+      "price": "1,080",
+      "rating": "3.8",
+      "reviews": "1,274",
+      "title": "ONYXNEO Silicone Insole with Medial Arch for Flat Feet Correction, Foot Arch, Shoes, Heel Pain - Slim Design, Anti Slip, Comfortable Insole Pads (M (UK Size 5-7",
+      "slot": 3
+     },
+     {
+      "asin": "B09H39CW9W",
+      "badge": null,
+      "price": "259",
+      "rating": "3.8",
+      "reviews": "2,388",
+      "title": "Aegon Flat Foot Arch Support for Men & Women | Medial Arch Support for Flat Feet Correction Sleeve with Cushion | Plantar Fasciitis Leg Foot Pain Relief Product",
+      "slot": 4
+     },
+     {
+      "asin": "B0GW8LHSZZ",
+      "badge": null,
+      "price": "179",
+      "rating": "3.7",
+      "reviews": "53",
+      "title": "R RICH OLIVE Flat Arch Support Sleeve for Men & Women Medical Arch Support Cushion for Flat Feet Correction Foot Pain Relief, Plantar Fasciitis Support, Comfort",
+      "slot": 5
+     },
+     {
+      "asin": "B0GH6R9T71",
+      "badge": null,
+      "price": "359",
+      "rating": "3.1",
+      "reviews": "83",
+      "title": "Belanto Heel Pain Relief Pad, 1 Pair Plantar Fasciitis Heels Support Cushion Pads for Ankle Pain, Heel Spur Shoe Insert for Men & Women, Heel Protector Cups for",
+      "slot": 6
+     },
+     {
+      "asin": "B0F1Y826CK",
+      "badge": null,
+      "price": "483",
+      "rating": "4.0",
+      "reviews": "617",
+      "title": "Women Ultra Soft Cushion Footbed Slipper | Comfortable Light Weight Waterproof Slippers |Adult Flip Flops Mild Acupressure | All Day Wear",
+      "slot": 7
+     },
+     {
+      "asin": "B0FDBLGSWQ",
+      "badge": null,
+      "price": "549",
+      "rating": "3.4",
+      "reviews": "308",
+      "title": "XENOTY Silicone Gel Heel Protectors Velcro Heel Pad for Pain Relief, Plantar Fasciitis, Arch Support for Flat Feet For Men and Women (Black)",
+      "slot": 8
+     },
+     {
+      "asin": "B08T9LHLQ7",
+      "badge": null,
+      "price": "539",
+      "rating": "3.3",
+      "reviews": "4",
+      "title": "PRO GEL INSOLE I FOOT BED I SIZE SMALL",
+      "slot": 9
+     },
+     {
+      "asin": "B0BTTWN4V9",
+      "badge": null,
+      "price": "299",
+      "rating": "3.4",
+      "reviews": "543",
+      "title": "Digolex Ball Of Foot Cushions,Metatarsal Pads/Forefoot Cushion,Gel Cushion Toe Separators,Bunion Corrector For Hallux Valgus & Pain Reliever Best For Metatarsal",
+      "slot": 10
+     }
+    ],
+    "fridoOrganicRank": null,
+    "fridoSponsoredSlot": null,
+    "fridoBadge": null,
+    "fridoAsin": null,
+    "fridoUrl": null,
+    "resultCount": 59
+   },
+   "flipkart": {
+    "fetchOk": true,
+    "results": [
+     {
+      "pos": 1,
+      "title": "WALKAROO Women Casual",
+      "brand": "WALKAROO",
+      "price": null,
+      "rating": 4.5,
+      "ratings": 93,
+      "isFrido": false
+     },
+     {
+      "pos": 2,
+      "title": "Pennen Women Flats",
+      "brand": "Pennen",
+      "price": null,
+      "rating": 3.7,
+      "ratings": 633,
+      "isFrido": false
+     },
+     {
+      "pos": 3,
+      "title": "SUPEREVA Women Flats",
+      "brand": "SUPEREVA",
+      "price": null,
+      "rating": 3.9,
+      "ratings": 736,
+      "isFrido": false
+     },
+     {
+      "pos": 4,
+      "title": "Phonolite Women Womens Casual comfort stylish trending combo slippers (Pack of 2) Flip Flops",
+      "brand": "Phonolite",
+      "price": null,
+      "rating": 3.8,
+      "ratings": 11048,
+      "isFrido": false
+     },
+     {
+      "pos": 5,
+      "title": "Phonolite Women Slippers",
+      "brand": "Phonolite",
+      "price": null,
+      "rating": 3.9,
+      "ratings": 1336,
+      "isFrido": false
+     },
+     {
+      "pos": 6,
+      "title": "Frido Cloud Comfort Open Toe with Adjustable Z-Strap, Cushioned PU Footbed Women Flats",
+      "brand": "Frido",
+      "price": null,
+      "rating": 4.2,
+      "ratings": 34,
+      "isFrido": true
+     },
+     {
+      "pos": 7,
+      "title": "DRACKFOOT Women Flats",
+      "brand": "DRACKFOOT",
+      "price": null,
+      "rating": 0,
+      "ratings": 0,
+      "isFrido": false
+     }
+    ],
+    "fridoRank": 6,
+    "fridoUrl": "https://www.flipkart.com/search?q=Flat%20Feet%20Combo"
+   },
+   "status": "listed",
+   "capturedAt": "2026-07-08"
+  },
+  {
+   "category": "insoles",
+   "categoryName": "Insoles",
+   "sku": "Orthotics Heel Protector",
+   "searchKeyword": "Orthotics Heel Protector",
+   "brandKeyword": "Frido Orthotics Heel Protector",
+   "amazon": {
+    "fetchOk": true,
+    "organic": [
+     {
+      "asin": "B0GTW7HMZY",
+      "badge": "Bestseller",
+      "price": "899",
+      "rating": "4.4",
+      "reviews": "201",
+      "title": "Frido Orthotics Heel Protector for Heel Pain Relief | Gel Heel Pad with Velcro Strap | Anti-Slip Heel Cup Cushion for Men & Women | Plantar Fasciitis, Heel Spur",
+      "rank": 1,
+      "isFridoBrand": true
+     },
+     {
+      "asin": "B0D63L638V",
+      "badge": null,
+      "price": "439",
+      "rating": "4.0",
+      "reviews": "2,059",
+      "title": "Gel Heel cups Silicon Heel Pad for Heel Ankle Pain, Heel Spur Shoe Support Pad for Men and Women Shock Cushion Pad for Heels Cushion Heel Blue (GEL PAD BLUE PAI",
+      "rank": 2
+     },
+     {
+      "asin": "B0GTWB1GQ1",
+      "badge": "Bestseller",
+      "price": "899",
+      "rating": "4.4",
+      "reviews": "201",
+      "title": "Frido Orthotics Heel Protector for Heel Pain Relief | Gel Heel Pad with Velcro Strap | Anti-Slip Heel Cup Cushion for Men & Women | Plantar Fasciitis, Heel Spur",
+      "rank": 3
+     },
+     {
+      "asin": "B0GCK5S7JL",
+      "badge": null,
+      "price": "325",
+      "rating": "4.2",
+      "reviews": "68",
+      "title": "2 Pieces Plantar Fasciitis Heel Protectors and Gel Heel Cups – Premium Heel Pads for Women and Men to Relieve Heel Spur Pain, Achilles Tendonitis, and Cracked H",
+      "rank": 4
+     },
+     {
+      "asin": "B0DHY622HV",
+      "badge": null,
+      "price": "499",
+      "rating": "4.0",
+      "reviews": "352",
+      "title": "Glowear Silicone Gel Heel Cups for Pain Relief | Plantar Fasciitis, Spur & Achilles Support for Men & Women | Breathable Cushion | Washable & Reusable | Black, ",
+      "rank": 5
+     },
+     {
+      "asin": "B0H3HMQBNV",
+      "badge": null,
+      "price": "284",
+      "rating": "3.5",
+      "reviews": "51",
+      "title": "QUIQSHIPP Silicone Gel Heel Protector for Men & Women | Heel Cups for Plantar Fasciitis & Heel Pain Relief | Breathable Hole Design | Soft Cushion Support for D",
+      "rank": 6
+     },
+     {
+      "asin": "B0H4FMPCB2",
+      "badge": null,
+      "price": "275",
+      "rating": "5.0",
+      "reviews": "1",
+      "title": "Heel Protector for Heel Pain Relief | | Anti-Slip Heel Cup Cushion for Men & Women | Plantar Fasciitis, Heel Spurs, Shoe Bite Support | Black| Size - L",
+      "rank": 7
+     },
+     {
+      "asin": "B0GWJ6JY12",
+      "badge": null,
+      "price": "159",
+      "rating": "1.8",
+      "reviews": "3",
+      "title": "Silicone Gel Heel Pad for Women & Men | Plantar Fasciitis Heel Support & Pain Relief | Soft Steps Heel Protector | Foot Pain Relief Products & Cushion Insole fo",
+      "rank": 8
+     },
+     {
+      "asin": "B0G2H8SGPR",
+      "badge": null,
+      "price": "169",
+      "rating": "4.3",
+      "reviews": "625",
+      "title": "Gel Heel cups Silicone Heel Pad for Heel Ankle Pain, Heel Spur Shoe Support Pad for Men and Women Shock Cushion Pad for Heels",
+      "rank": 9
+     },
+     {
+      "asin": "B0DM2D9S28",
+      "badge": null,
+      "price": "399",
+      "rating": "3.8",
+      "reviews": "237",
+      "title": "FOVERA Heel Cup Sleeve with Gel Padding for Plantar Fasciitis & Heel Pain Relief - Breathable Neoprene Fabric, Heel Protector for Men & Women - Shock Absorbing,",
+      "rank": 10
+     }
+    ],
+    "sponsored": [
+     {
+      "asin": "B0GTWB1GQ1",
+      "badge": "Bestseller",
+      "price": "899",
+      "rating": "4.4",
+      "reviews": "201",
+      "title": "Frido Orthotics Heel Protector for Heel Pain Relief | Gel Heel Pad with Velcro Strap | Anti-Slip Heel Cup Cushion for Men & Women | Plantar Fasciitis, Heel Spur",
+      "slot": 1,
+      "isFridoBrand": true
+     },
+     {
+      "asin": "B0GXQMFXX9",
+      "badge": null,
+      "price": "249",
+      "rating": "5.0",
+      "reviews": "1",
+      "title": "Belle High Heel Wellness Insoles For Women | Cushioned Ortholite® Heel Support, Anti-Slip & Shock-Absorbing Pads For All Heels, Wedges & Shoes (3 Pairs)",
+      "slot": 2
+     },
+     {
+      "asin": "B0H1RRC21B",
+      "badge": null,
+      "price": "379",
+      "rating": "3.6",
+      "reviews": "97",
+      "title": "DOLTAS Heel Protector with Gel Heel Pad for Heel Pain Relief | Heel Cup Cushion for Plantar Fasciitis, Heel Spurs & Shoe Bite Support | Shock Absorbing Shoe Hee",
+      "slot": 3
+     },
+     {
+      "asin": "B0GYKY6HML",
+      "badge": null,
+      "price": "249",
+      "rating": null,
+      "reviews": null,
+      "title": "Belle ArchEase Cushions for Women | Orthotic Arch Support Insoles with Ortholite Cushioning | Medial Arch Support for Thin Flats, Sandals and Heels (3 pairs)",
+      "slot": 4
+     },
+     {
+      "asin": "B0GTWKWPP1",
+      "badge": "Amazon's Choice",
+      "price": "899",
+      "rating": "4.4",
+      "reviews": "201",
+      "title": "Frido Orthotics Heel Protector for Heel Pain Relief | Gel Heel Pad with Velcro Strap | Anti-Slip Heel Cup Cushion for Men & Women | Plantar Fasciitis, Heel Spur",
+      "slot": 5
+     },
+     {
+      "asin": "B0GYLF7168",
+      "badge": null,
+      "price": "299",
+      "rating": null,
+      "reviews": null,
+      "title": "Belle GripEase Pads for Women | Non-slip Shoe Grip Insoles with Ortholite Cushioning | Foot Pain Relief Pads for Flats, Sandals, and Heels I (3 pairs)",
+      "slot": 6
+     },
+     {
+      "asin": "B0H3HMQBNV",
+      "badge": null,
+      "price": "284",
+      "rating": "3.5",
+      "reviews": "51",
+      "title": "QUIQSHIPP Silicone Gel Heel Protector for Men & Women | Heel Cups for Plantar Fasciitis & Heel Pain Relief | Breathable Hole Design | Soft Cushion Support for D",
+      "slot": 7
+     },
+     {
+      "asin": "B00CXBR55M",
+      "badge": null,
+      "price": "1,740",
+      "rating": null,
+      "reviews": null,
+      "title": "LP Support 307 Medium - Arch Orthotic Insoles",
+      "slot": 8
+     },
+     {
+      "asin": "B0H7HQJKXD",
+      "badge": null,
+      "price": "299",
+      "rating": null,
+      "reviews": null,
+      "title": "STORMX IQ200 Silicone Gel Heel Pad Socks (2pair 4pieces) | Advanced Heel Pain Relief | Premium Gel Cushion for Cracked Heels, Dry Skin & Plantar Heel Discomfort",
+      "slot": 9
+     },
+     {
+      "asin": "B077RZ1B6Z",
+      "badge": null,
+      "price": "389",
+      "rating": "3.9",
+      "reviews": "4,138",
+      "title": "IZZORI Silicone Gel Heel Socks for Dry Hard Cracked Heel Repair Pad, Swelling & Pain Relief, Cushion Support, Foot Care, Ankle Protection, Plantar Fasciitis for",
+      "slot": 10
+     }
+    ],
+    "fridoOrganicRank": 1,
+    "fridoSponsoredSlot": 1,
+    "fridoBadge": "Bestseller",
+    "fridoAsin": "B0GTW7HMZY",
+    "fridoUrl": "https://www.amazon.in/dp/B0GTW7HMZY",
+    "resultCount": 59
+   },
+   "flipkart": {
+    "fetchOk": true,
+    "results": [
+     {
+      "pos": 1,
+      "title": "betterhood PosturePro Arch Support Shoe Inserts for Men, Women | for Flat Feet | Orthopedic Insole",
+      "brand": "betterhood",
+      "price": null,
+      "rating": 3.9,
+      "ratings": 250,
+      "isFrido": false
+     },
+     {
+      "pos": 2,
+      "title": "betterhood PosturePro Dual Gel Shoe Inserts for Men, Women | Everyday Comfort Ergonomic Insole",
+      "brand": "betterhood",
+      "price": null,
+      "rating": 4.1,
+      "ratings": 101,
+      "isFrido": false
+     },
+     {
+      "pos": 3,
+      "title": "betterhood PosturePro Orthopedic Heel Pads for Pain Relief | Shoe Inserts for Men Women | Heel Support",
+      "brand": "betterhood",
+      "price": null,
+      "rating": 4,
+      "ratings": 225,
+      "isFrido": false
+     },
+     {
+      "pos": 4,
+      "title": "CHIWA Heel Protector | For Heel Pain Relief Everyday Wear Gentle Support Heel Support",
+      "brand": "CHIWA",
+      "price": null,
+      "rating": 3.7,
+      "ratings": 7,
+      "isFrido": false
+     },
+     {
+      "pos": 5,
+      "title": "CHIWA Heel Protector | Comfort Daily Pad For Active Days Heel Support",
+      "brand": "CHIWA",
+      "price": null,
+      "rating": 0,
+      "ratings": 0,
+      "isFrido": false
+     },
+     {
+      "pos": 6,
+      "title": "CHIWA Heel Protector | Comfort Daily Layer For Routine Heel Support",
+      "brand": "CHIWA",
+      "price": null,
+      "rating": 0,
+      "ratings": 0,
+      "isFrido": false
+     },
+     {
+      "pos": 7,
+      "title": "NALOISE Heel Support | Reusable Heel Protector For Men And Women Heel Cover Heel Support",
+      "brand": "NALOISE",
+      "price": null,
+      "rating": 1.6,
+      "ratings": 14,
+      "isFrido": false
+     },
+     {
+      "pos": 8,
+      "title": "CHIWA Heel Protector | Comfort Wear Layer For Office Wear Heel Support",
+      "brand": "CHIWA",
+      "price": null,
+      "rating": 0,
+      "ratings": 0,
+      "isFrido": false
+     },
+     {
+      "pos": 9,
+      "title": "Dream Clouds Heel Socks Silicone heel protector pain relief anti-Crack Heel Support Heel Support",
+      "brand": "Dream Clouds",
+      "price": null,
+      "rating": 0,
+      "ratings": 0,
+      "isFrido": false
+     },
+     {
+      "pos": 10,
+      "title": "CHIWA Heel Protector | For Heel Pain Relief Active Lifestyle Heel Care Heel Support",
+      "brand": "CHIWA",
+      "price": null,
+      "rating": 0,
+      "ratings": 0,
+      "isFrido": false
+     },
+     {
+      "pos": 11,
+      "title": "phizller Heel Protector Soft Pad for Daily Wear Protection Heel Support",
+      "brand": "phizller",
+      "price": null,
+      "rating": 0,
+      "ratings": 0,
+      "isFrido": false
+     },
+     {
+      "pos": 12,
+      "title": "CHIWA Heel Protector | Comfort Protect Fit For Active Days Heel Support",
+      "brand": "CHIWA",
+      "price": null,
+      "rating": 0,
+      "ratings": 0,
+      "isFrido": false
+     },
+     {
+      "pos": 13,
+      "title": "phizller Heel Protector Blister Protection Pad for Walking Support Heel Support",
+      "brand": "phizller",
+      "price": null,
+      "rating": 0,
+      "ratings": 0,
+      "isFrido": false
+     }
+    ],
+    "fridoRank": null,
+    "fridoUrl": "https://www.flipkart.com/search?q=Orthotics%20Heel%20Protector"
+   },
+   "status": "listed",
+   "capturedAt": "2026-07-08"
+  },
+  {
+   "category": "insoles",
+   "categoryName": "Insoles",
+   "sku": "Max Comfort Arch Cushion Insoles",
+   "searchKeyword": "Max Comfort Arch Cushion Insoles",
+   "brandKeyword": "Frido Max Comfort Arch Cushion Insoles",
+   "amazon": {
+    "fetchOk": true,
+    "organic": [
+     {
+      "asin": "B0CG392R12",
+      "badge": null,
+      "price": "1,299",
+      "rating": "4.0",
+      "reviews": "1,444",
+      "title": "Frido Max Comfort Arch Cushion Insole | Relieves Arch Pain | Proprietary Hi- Per Foam Orthotic Inserts | Deep Heel Cup for Enhanced Stability | Sports & Casual ",
+      "rank": 1,
+      "isFridoBrand": true
+     },
+     {
+      "asin": "B0F59RSGYY",
+      "badge": null,
+      "price": "699",
+      "rating": "4.0",
+      "reviews": "339",
+      "title": "Frido Gel Max Comfort Insole | Gel Insole with Memory Foam | All-Day Comfort Insoles For Men & Women | Shock Absorption & Anti-Slip For Everyday Use | Trimmable",
+      "rank": 2
+     },
+     {
+      "asin": "B0H2F9GHDN",
+      "badge": null,
+      "price": "199",
+      "rating": "4.4",
+      "reviews": "13",
+      "title": "DOSJNI Flat Foot Arch Support Insole for Men & Women | Medial Arch Support Sleeve with Gel Cushion | Plantar Fasciitis & Fallen Arch Pain Relief | Orthotic Foot",
+      "rank": 3
+     },
+     {
+      "asin": "B0FFTDMK18",
+      "badge": null,
+      "price": "498",
+      "rating": "3.9",
+      "reviews": "202",
+      "title": "Helios® Insoles for Men Memory Foam Ultra Max | Trim To Fit Shoe Sole for Men Size 8–13 Insole For Shoes | Orthotic For Cushioning, Arch Support & All-Day Comfo",
+      "rank": 4
+     },
+     {
+      "asin": "B0FPQT4JJD",
+      "badge": null,
+      "price": "349",
+      "rating": "3.8",
+      "reviews": "1,630",
+      "title": "RENESMEE Orthotic Arch Support Shoe Insoles, Children Pu Cushioning Inserts, Shock Absorption Velvet Surfaces Deep Heel Cup Inner Sole for Flat Feet, Feet Heel ",
+      "rank": 5
+     },
+     {
+      "asin": "B0FY6VY6B1",
+      "badge": null,
+      "price": "599",
+      "rating": "3.0",
+      "reviews": "3",
+      "title": "Helios Arch Active Foot Support Insoles for Shoes | Anti-Fatigue Arch Cushion Inserts for All Day Comfort | Unisex | 1 Pair (Size 9–12)",
+      "rank": 6
+     },
+     {
+      "asin": "B0FZVPV547",
+      "badge": null,
+      "price": "299",
+      "rating": "4.3",
+      "reviews": "13",
+      "title": "ZONALIYA Orthotic Arch Support Shoe Insoles Pu Cushioning Inserts Shock Absorption Velvet Surfaces Deep Heel Cup Inner Sole for Flat Feet Feet Heel Pain Relief ",
+      "rank": 7
+     },
+     {
+      "asin": "B0FVT5FMWV",
+      "badge": null,
+      "price": "199",
+      "rating": "3.9",
+      "reviews": "9",
+      "title": "UCRAVO Memory Foam Shoe Insoles for Men & Women Soft Cushion Shock Absorbing Height Increasing Sports Breathable Orthopedic Arch Support Inserts Cuttable Comfor",
+      "rank": 8
+     },
+     {
+      "asin": "B0BP83G5R5",
+      "badge": null,
+      "price": "178",
+      "rating": "4.0",
+      "reviews": "2,647",
+      "title": "Footvital Memory Foam Shoe Insoles for Men and Women | Soft Cushioned Inserts for Long Standing and Walking | Supports Heel and Arch | Shock Absorbing | Moistur",
+      "rank": 9
+     },
+     {
+      "asin": "B0BWN3P84Q",
+      "badge": null,
+      "price": "269",
+      "rating": "3.8",
+      "reviews": "635",
+      "title": "Dr Foot Gel Insole for Shoes | Flat Feet Arch Support | Women and Men | Silicone Shoe Cushion | All Day Comfort | Dual Gel Technology",
+      "rank": 10
+     }
+    ],
+    "sponsored": [
+     {
+      "asin": "B0FRS559XT",
+      "badge": null,
+      "price": "1,999",
+      "rating": "4.1",
+      "reviews": "36",
+      "title": "5D Comfort insoles for Men & Women, Insole with 5-Layer Cushion with Poron, Gel & TPU, Arch Support Insole for Flat Feet and Feet Pain | Plantar Fasciitis & Hee",
+      "slot": 1
+     },
+     {
+      "asin": "B0F9XG77C9",
+      "badge": null,
+      "price": "404",
+      "rating": "3.8",
+      "reviews": "26",
+      "title": "8ease Shoe Insoles for Men & Women – Arch Support Insole for Heel & Foot Pain Relief | Anti-Fatigue Cushion Inner Sole for All-Day Standing & Walking | PU Foam,",
+      "slot": 2
+     },
+     {
+      "asin": "B07PS6M5W9",
+      "badge": null,
+      "price": "1,080",
+      "rating": "3.8",
+      "reviews": "1,274",
+      "title": "ONYXNEO Silicone Insole with Medial Arch for Flat Feet Correction, Foot Arch, Shoes, Heel Pain - Slim Design, Anti Slip, Comfortable Insole Pads (M (UK Size 5-7",
+      "slot": 3
+     },
+     {
+      "asin": "B0FY6VY6B1",
+      "badge": null,
+      "price": "599",
+      "rating": "3.0",
+      "reviews": "3",
+      "title": "Helios Arch Active Foot Support Insoles for Shoes | Anti-Fatigue Arch Cushion Inserts for All Day Comfort | Unisex | 1 Pair (Size 9–12)",
+      "slot": 4
+     },
+     {
+      "asin": "B0CVS3V7MH",
+      "badge": null,
+      "price": "249",
+      "rating": "4.1",
+      "reviews": "1,705",
+      "title": "SILENCIO Memory Foam Shoe Insoles for Men & Women | Shock Absorbing Orthotic Insoles with Arch Support | Anti-Slip Soft Cushioned Trim-to-Fit Sports Shoe Insert",
+      "slot": 5
+     },
+     {
+      "asin": "B0GWQBBCWY",
+      "badge": null,
+      "price": "399",
+      "rating": "5.0",
+      "reviews": "3",
+      "title": "FOVERA Arch Support Gel Insoles for Men & Women – Premium Soft Shoe Insoles with Massaging Gel Technology, Micro-Shock Absorption, Breathable Fabric Top, for Wa",
+      "slot": 6
+     },
+     {
+      "asin": "B0GLYMD7Y5",
+      "badge": null,
+      "price": "472",
+      "rating": "4.0",
+      "reviews": "24",
+      "title": "UltraCare PRO ERGO PROformance Gel Insoles for Shoes | Shock Absorbing Gel Cushioning for All-Day Comfort | Anti-Slip, Anti-Sweat | Ideal for Walking, Running &",
+      "slot": 7
+     },
+     {
+      "asin": "B0BH525JVG",
+      "badge": null,
+      "price": "259",
+      "rating": "4.0",
+      "reviews": "967",
+      "title": "Home Genie Memory Foam Shoes Insole | shoe Insoles for All Shoes | Shoe Insole for heel pain | Super Soft Absorption Pads Comfortable, Soft, Durable, Washable (",
+      "slot": 8
+     },
+     {
+      "asin": "B0GVVSDMBS",
+      "badge": null,
+      "price": "449",
+      "rating": "3.7",
+      "reviews": "52",
+      "title": "ARKITTO Arch Support Insoles Size Small (UK 3,4,5) for Men & Women | Flat Foot Relief, All-Day Comfort & Footbed Support | Lightweight, Soft, Odourless, Trim-to",
+      "slot": 9
+     },
+     {
+      "asin": "B0BF9S9165",
+      "badge": null,
+      "price": "276",
+      "rating": "3.8",
+      "reviews": "2,606",
+      "title": "Helios Memory Foam for All Shoes Makes shoes Super Soft & Comfortable Memory Foam Insole Women's, (SIZE-4) Pack of 1)",
+      "slot": 10
+     }
+    ],
+    "fridoOrganicRank": 1,
+    "fridoSponsoredSlot": null,
+    "fridoBadge": null,
+    "fridoAsin": "B0CG392R12",
+    "fridoUrl": "https://www.amazon.in/dp/B0CG392R12",
+    "resultCount": 60
+   },
+   "flipkart": {
+    "fetchOk": true,
+    "results": [
+     {
+      "pos": 1,
+      "title": "betterhood PosturePro Arch Support Shoe Inserts for Men, Women | for Flat Feet | Orthopedic Insole",
+      "brand": "betterhood",
+      "price": null,
+      "rating": 3.9,
+      "ratings": 250,
+      "isFrido": false
+     },
+     {
+      "pos": 2,
+      "title": "betterhood PosturePro Dual Gel Shoe Inserts for Men, Women | Everyday Comfort Ergonomic Insole",
+      "brand": "betterhood",
+      "price": null,
+      "rating": 4.1,
+      "ratings": 101,
+      "isFrido": false
+     },
+     {
+      "pos": 3,
+      "title": "betterhood PosturePro Orthopedic Heel Pads for Pain Relief | Shoe Inserts for Men Women | Heel Support",
+      "brand": "betterhood",
+      "price": null,
+      "rating": 4,
+      "ratings": 225,
+      "isFrido": false
+     },
+     {
+      "pos": 4,
+      "title": "FoxGlow Arch Support Sleeve Cushion Heel Spurs Plantar Fasciitis Flat Feet Orthopaedic Pad Heel Support",
+      "brand": "FoxGlow",
+      "price": null,
+      "rating": 3,
+      "ratings": 5,
+      "isFrido": false
+     },
+     {
+      "pos": 5,
+      "title": "COIF Arch Brace for Flat Feet, Plantar Fasciitis Sleeves Shoe Insert Insole, Insole",
+      "brand": "COIF",
+      "price": null,
+      "rating": 3.5,
+      "ratings": 12,
+      "isFrido": false
+     },
+     {
+      "pos": 6,
+      "title": "vintaze Air Protection Orthopedic Insole Arch Support Cushion Foot Arch Cushion Insole",
+      "brand": "vintaze",
+      "price": null,
+      "rating": 3.3,
+      "ratings": 10,
+      "isFrido": false
+     },
+     {
+      "pos": 7,
+      "title": "FOVERA Gel - Shoe Inserts for Walking, Running Hiking - All Day Comfort (Male) Insole",
+      "brand": "FOVERA",
+      "price": null,
+      "rating": 3.9,
+      "ratings": 23316,
+      "isFrido": false
+     },
+     {
+      "pos": 8,
+      "title": "enrics Heel Cushion Inserts Comfort Shoe Insoles Women Insole",
+      "brand": "enrics",
+      "price": null,
+      "rating": 0,
+      "ratings": 0,
+      "isFrido": false
+     },
+     {
+      "pos": 9,
+      "title": "enrics Heel Cushion Inserts Comfort Shoe Insoles Women Sponge Insoles SIZE 4.5-9.5 Insole",
+      "brand": "enrics",
+      "price": null,
+      "rating": 0,
+      "ratings": 0,
+      "isFrido": false
+     },
+     {
+      "pos": 10,
+      "title": "TOWINO Arch Support Insoles Fits for Flat Feet Correction Gel Heel Support",
+      "brand": "TOWINO",
+      "price": null,
+      "rating": 0,
+      "ratings": 0,
+      "isFrido": false
+     },
+     {
+      "pos": 11,
+      "title": "AGEasy Insoles for Flat Feet |Rebound Relief Technology for Arch Support Insole",
+      "brand": "AGEasy",
+      "price": null,
+      "rating": 4.2,
+      "ratings": 151,
+      "isFrido": false
+     }
+    ],
+    "fridoRank": null,
+    "fridoUrl": "https://www.flipkart.com/search?q=Max%20Comfort%20Arch%20Cushion%20Insoles"
+   },
+   "status": "listed",
+   "capturedAt": "2026-07-08"
+  },
+  {
+   "category": "insoles",
+   "categoryName": "Insoles",
+   "sku": "Ball of Foot Cushions Pro",
+   "searchKeyword": "Ball of Foot Cushions",
+   "brandKeyword": "Frido Ball of Foot Cushions Pro",
+   "amazon": {
+    "fetchOk": true,
+    "organic": [
+     {
+      "asin": "B0GDTZ4379",
+      "badge": null,
+      "price": "397",
+      "rating": "3.9",
+      "reviews": "404",
+      "title": "forefoot pads for pain relief hallux valgus support for bunion forefoot Sleeve pads, metatarsal pads for men and women with ball of foot cushion (1 pair) (Black",
+      "rank": 1
+     },
+     {
+      "asin": "B0BY8RLC7K",
+      "badge": null,
+      "price": "249",
+      "rating": "4.3",
+      "reviews": "1,785",
+      "title": "Riootlnm Metatarsal Pads, Ball of Foot Cushions, Heel Pads Inserts for Too Big Shoe, Reduce Foot Pain, No Slip Heel Grips Liners Shoe Pads for Loose Shoe, Blist",
+      "rank": 2
+     },
+     {
+      "asin": "B0CGVJ7THV",
+      "badge": null,
+      "price": "259",
+      "rating": "3.8",
+      "reviews": "660",
+      "title": "Aegon Forefoot Pad for Pain Relief | Hallux Valgus Foot | Bunion Sleeve Foot Pad | Metatarsal Pad | Ball of Foot Cushion for High Heels | Morton's Neuroma | Foo",
+      "rank": 3
+     },
+     {
+      "asin": "B0GJLVRFQ7",
+      "badge": null,
+      "price": "379",
+      "rating": "4.3",
+      "reviews": "10",
+      "title": "Belanto Metatarsal Pad for Women and Men, 1 Pair Forefoot Pad for Pain Relief, Hallux Valgus Bunion Foot Sleeve, Ball of Foot Cushion with Gel Pad, Morton's Neu",
+      "rank": 4
+     },
+     {
+      "asin": "B075C6M4LP",
+      "badge": null,
+      "price": "199",
+      "rating": "4.0",
+      "reviews": "238",
+      "title": "Lify Ball of Forefoot Insoles, Front Foot Cushions, Forefoot Insoles for Metatarsal Support and Foot Pain Relief -Self Adhesive - Ball of Foot Pads-2 Pair",
+      "rank": 5
+     },
+     {
+      "asin": "B0CCY1KTNP",
+      "badge": null,
+      "price": "257",
+      "rating": "3.6",
+      "reviews": "90",
+      "title": "forefoot pads for pain relief hallux valgus support for bunion forefoot Sleeve pads, metatarsal pads for men and women with ball of foot cushion (1 pair) Beige",
+      "rank": 6
+     },
+     {
+      "asin": "B0C7KF7LPR",
+      "badge": null,
+      "price": "331",
+      "rating": "3.6",
+      "reviews": "406",
+      "title": "Belanto Metatarsal Pad for Women and Men, 1 Pair Forefoot Pad for Pain Relief, Hallux Valgus Bunion Foot Sleeve, Ball of Foot Cushion with Gel Pad, Morton's Neu",
+      "rank": 7
+     },
+     {
+      "asin": "B0FR27WHZZ",
+      "badge": null,
+      "price": "284",
+      "rating": "4.3",
+      "reviews": "15",
+      "title": "Belanto Ball of Foot Cushions for High Heels, 2 Pair Metatarsal Pads for Women & Men, High Heel Forefoot Cushions Insole Pads, Foot Pain Relief & All-Day Comfor",
+      "rank": 8
+     },
+     {
+      "asin": "B0CTFCXDDW",
+      "badge": null,
+      "price": "699",
+      "rating": "4.0",
+      "reviews": "41",
+      "title": "Frido High Heels Ball of Foot Cushions | Metatarsal Pads with Soft Gel Cushion | Pack of 2 Pairs (1 Wide & 1 Compact) | *high heel footwear not included*",
+      "rank": 9,
+      "isFridoBrand": true
+     },
+     {
+      "asin": "B0BV6SYJKK",
+      "badge": null,
+      "price": "299",
+      "rating": "3.9",
+      "reviews": "224",
+      "title": "Inralimot Ball of Foot Cushions, Metatarsal Pads, High Heel Inserts, Forefoot Cushions and Soft Gel Insole Pads, Ideal for Women Mortons Neuroma & Metatarsal Fo",
+      "rank": 10
+     }
+    ],
+    "sponsored": [
+     {
+      "asin": "B0C7KF7LPR",
+      "badge": null,
+      "price": "331",
+      "rating": "3.6",
+      "reviews": "406",
+      "title": "Belanto Metatarsal Pad for Women and Men, 1 Pair Forefoot Pad for Pain Relief, Hallux Valgus Bunion Foot Sleeve, Ball of Foot Cushion with Gel Pad, Morton's Neu",
+      "slot": 1
+     },
+     {
+      "asin": "B0F9WTY9PG",
+      "badge": null,
+      "price": "249",
+      "rating": "3.6",
+      "reviews": "5",
+      "title": "VORTEXA Forefoot Pad for Pain Relief | Hallux Valgus Foot | Bunion Sleeve Pad | Metatarsal Pad | Ball of Foot Cushion for High Heels | Morton's Neuroma | Foot S",
+      "slot": 2
+     },
+     {
+      "asin": "B0H6BNBVJJ",
+      "badge": null,
+      "price": "299",
+      "rating": null,
+      "reviews": null,
+      "title": "Experience all-day comfort with premium foot pads designed to cushion your feet, reduce pressure, and provide enhanced support while walking, standing, or exerc",
+      "slot": 3
+     },
+     {
+      "asin": "B0H6BQB68M",
+      "badge": null,
+      "price": "499",
+      "rating": null,
+      "reviews": null,
+      "title": "Experience all-day comfort with premium foot pads designed to cushion your feet, reduce pressure, and provide enhanced support while walking, standing, or exerc",
+      "slot": 4
+     },
+     {
+      "asin": "B0H5K7J6H4",
+      "badge": null,
+      "price": "149",
+      "rating": "5.0",
+      "reviews": "1",
+      "title": "4PCS Forefoot Cushion Pads for Sandals & High Heels, Soft Foam Ball of Foot Inserts, Non-Slip Adhesive Metatarsal Pads for Women, Foot Pain Relief, Beige (2Pair",
+      "slot": 5
+     },
+     {
+      "asin": "B0C61P7NMS",
+      "badge": null,
+      "price": "168",
+      "rating": "3.4",
+      "reviews": "253",
+      "title": "Sichumaria Honeycomb Fabric Forefoot Pads, High Heel Cushion Inserts Women,Ball Of Foot Cushions, Invisible Socks Pads For Women And Men Reusable Forefoot Pads ",
+      "slot": 6
+     },
+     {
+      "asin": "B0GTRCJQ8T",
+      "badge": null,
+      "price": "410",
+      "rating": "4.3",
+      "reviews": "60",
+      "title": "Premium Detox Foot patches 60, Cleansing Toxin Remover Foot Pads, Pain Relief,Stress Relief Sleep Patch for Detoxification, For Men & Women (Patches 60)",
+      "slot": 7
+     },
+     {
+      "asin": "B0FRS559XT",
+      "badge": null,
+      "price": "1,999",
+      "rating": "4.1",
+      "reviews": "36",
+      "title": "5D Comfort insoles for Men & Women, Insole with 5-Layer Cushion with Poron, Gel & TPU, Arch Support Insole for Flat Feet and Feet Pain | Plantar Fasciitis & Hee",
+      "slot": 8
+     },
+     {
+      "asin": "B0GZC76J6V",
+      "badge": null,
+      "price": "299",
+      "rating": null,
+      "reviews": null,
+      "title": "GREEVA Premium Detox Foot Patches 30 Pads for Men & Women, Pain Relief, Stress Relief, Sleep Patch, Cleansing Toxin Remover Foot Pads for Detoxification",
+      "slot": 9
+     },
+     {
+      "asin": "B0BF9S9165",
+      "badge": null,
+      "price": "276",
+      "rating": "3.8",
+      "reviews": "2,606",
+      "title": "Helios Memory Foam for All Shoes Makes shoes Super Soft & Comfortable Memory Foam Insole Women's, (SIZE-4) Pack of 1)",
+      "slot": 10
+     }
+    ],
+    "fridoOrganicRank": 9,
+    "fridoSponsoredSlot": null,
+    "fridoBadge": null,
+    "fridoAsin": "B0CTFCXDDW",
+    "fridoUrl": "https://www.amazon.in/dp/B0CTFCXDDW",
+    "resultCount": 60
+   },
+   "flipkart": {
+    "fetchOk": true,
+    "results": [
+     {
+      "pos": 1,
+      "title": "FEXMY Heel Pain Relief Cracked Repair Foot Care Heel Pad and Heel Socks Combo Heel Support",
+      "brand": "FEXMY",
+      "price": null,
+      "rating": 3.8,
+      "ratings": 451,
+      "isFrido": false
+     },
+     {
+      "pos": 2,
+      "title": "FEXMY Heel Grips Liner Cushions Inserts for Loose Shoes Insoles for Men Heel Support",
+      "brand": "FEXMY",
+      "price": null,
+      "rating": 3.8,
+      "ratings": 1481,
+      "isFrido": false
+     },
+     {
+      "pos": 3,
+      "title": "FEXMY Shoe Bite Protector Heel Grips, Liner Cushions & Inserts for Loose Shoes Support Heel Support",
+      "brand": "FEXMY",
+      "price": null,
+      "rating": 3.8,
+      "ratings": 1481,
+      "isFrido": false
+     },
+     {
+      "pos": 4,
+      "title": "AARADHYAM Forefoot Pads, High Heel Cushion Inserts Women,Ball Of Foot Cushions Foot Support",
+      "brand": "AARADHYAM",
+      "price": null,
+      "rating": 4.6,
+      "ratings": 5,
+      "isFrido": false
+     },
+     {
+      "pos": 5,
+      "title": "PilloWillo MemoryFoam Knee Pillow-Side Sleeper | Sciatica, Back, Hip, Between Legs Support Knee Support",
+      "brand": "PilloWillo",
+      "price": null,
+      "rating": 3.9,
+      "ratings": 54,
+      "isFrido": false
+     },
+     {
+      "pos": 6,
+      "title": "DLALA Ball of Foot Cushions Metatarsal Foot Pain Relief for Men and Women Foot Support",
+      "brand": "DLALA",
+      "price": null,
+      "rating": 0,
+      "ratings": 0,
+      "isFrido": false
+     },
+     {
+      "pos": 7,
+      "title": "AARADHYAM Soft High Heel Cushion Inserts Women,Ball Of Foot Cushions Foot Support",
+      "brand": "AARADHYAM",
+      "price": null,
+      "rating": 0,
+      "ratings": 0,
+      "isFrido": false
+     },
+     {
+      "pos": 8,
+      "title": "HouseOfCommon Donut Ring Pillow Cushion For Piles Coccyx Sciatica Tailbone Back Pain Support Back / Lumbar Support",
+      "brand": "HouseOfCommon",
+      "price": null,
+      "rating": 4.3,
+      "ratings": 174,
+      "isFrido": false
+     },
+     {
+      "pos": 9,
+      "title": "Wonder Care Silicone Foot Cushion Pad for Daily Wear and Pain Relief 2 Pair Foot Support",
+      "brand": "Wonder Care",
+      "price": null,
+      "rating": 0,
+      "ratings": 0,
+      "isFrido": false
+     },
+     {
+      "pos": 10,
+      "title": "Dr. Frederick's Original 2 Piece Metatarsal Pad Set - Ball of Foot Cushions Foot Support",
+      "brand": "Dr. Frederick's",
+      "price": null,
+      "rating": 0,
+      "ratings": 0,
+      "isFrido": false
+     },
+     {
+      "pos": 11,
+      "title": "AARADHYAM High Heel Cushion Inserts Women,Ball Of Foot Cushions Foot Support",
+      "brand": "AARADHYAM",
+      "price": null,
+      "rating": 0,
+      "ratings": 0,
+      "isFrido": false
+     },
+     {
+      "pos": 12,
+      "title": "KBM & CARE Silicone Gel Finger Socks Toe Separator | Pain Relief Cushion for High Heels, Foot Support",
+      "brand": "KBM & CARE",
+      "price": null,
+      "rating": 0,
+      "ratings": 0,
+      "isFrido": false
+     },
+     {
+      "pos": 13,
+      "title": "Wonder Care Foot Drop Support Brace with Ball Stretch Trainer Pack of 2 Adjustable for Rehab Foot Support",
+      "brand": "Wonder Care",
+      "price": null,
+      "rating": 0,
+      "ratings": 0,
+      "isFrido": false
+     }
+    ],
+    "fridoRank": null,
+    "fridoUrl": "https://www.flipkart.com/search?q=Ball%20of%20Foot%20Cushions"
+   },
+   "status": "listed",
+   "capturedAt": "2026-07-08"
   }
  ]
 }

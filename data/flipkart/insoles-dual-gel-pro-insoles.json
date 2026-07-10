@@ -1,125 +1,16 @@
 {
  "category": "insoles-dual-gel-pro-insoles",
  "marketplace": "flipkart",
- "keyword": "Frido Dual Gel Pro Insoles",
+ "keyword": "Dual Gel Insoles",
+ "brandKeyword": "Frido Dual Gel Pro Insoles",
  "capturedAt": "2026-07-08",
- "method": "Live scrape flipkart.com mobile search page 1 (__INITIAL_STATE__), query = exact SKU name",
- "confidence": "Medium-High (live; sponsored flags not exposed on mobile)",
- "fridoRank": 6,
- "fridoPresent": true,
- "results": [
-  {
-   "pos": 1,
-   "title": "Strivex Professional Wrap Band ,Strap For Gym and Fitness Wrist Support",
-   "price": null,
-   "rating": 4.4,
-   "ratings": 150,
-   "isFrido": false
-  },
-  {
-   "pos": 2,
-   "title": "Strivex GYM BELT LEATHER BLACK COLOUR MEDIUM Weight Lifting Belt",
-   "price": null,
-   "rating": 4.7,
-   "ratings": 13,
-   "isFrido": false
-  },
-  {
-   "pos": 3,
-   "title": "Strivex Fitness Mens Gym Gloves with half Wrist Support / Anti Slip Gloves Gym & Fitness Gloves",
-   "price": null,
-   "rating": 0,
-   "ratings": null,
-   "isFrido": false
-  },
-  {
-   "pos": 4,
-   "title": "Strivex POLYESTER BELT ADJUSTABLE X-LARGE Weight Lifting Belt",
-   "price": null,
-   "rating": 4.7,
-   "ratings": 13,
-   "isFrido": false
-  },
-  {
-   "pos": 5,
-   "title": "Strivex Fitness Mens Gym Gloves with half Wrist Support and Anti Slip Gloves Gym & Fitness Gloves",
-   "price": null,
-   "rating": 3.3,
-   "ratings": 3,
-   "isFrido": false
-  },
-  {
-   "pos": 6,
-   "title": "Frido Dual Gel Insoles, Extra Comfort & Support, Trim-to-fit, Made in India (5-9 UK) Insole",
-   "price": null,
-   "rating": 3.8,
-   "ratings": 4042,
-   "isFrido": true
-  },
-  {
-   "pos": 7,
-   "title": "FOVERA Gel - Shoe Inserts for Walking, Running Hiking - All Day Comfort (Male) Insole",
-   "price": null,
-   "rating": 3.9,
-   "ratings": 23314,
-   "isFrido": false
-  },
-  {
-   "pos": 8,
-   "title": "RENESMEE Shoe Insoles Foot Swelling Relief Orthotic Insoles Memory Foam Insoles PU Foam Insole",
-   "price": null,
-   "rating": 4,
-   "ratings": 1160,
-   "isFrido": false
-  },
-  {
-   "pos": 9,
-   "title": "betterhood PosturePro Dual Gel Shoe Inserts for Men, Women | Everyday Comfort Ergonomic Insole",
-   "price": null,
-   "rating": 4.1,
-   "ratings": 100,
-   "isFrido": false
-  },
-  {
-   "pos": 10,
-   "title": "betterhood PosturePro Arch Support Shoe Inserts for Men, Women | for Flat Feet | Orthopedic Insole",
-   "price": null,
-   "rating": 3.9,
-   "ratings": 250,
-   "isFrido": false
-  },
-  {
-   "pos": 11,
-   "title": "Silencio Memory Foam Shoe Insoles, Shock Absorbing Insoles For Men & Women Size EU 39-45 Heel Support",
-   "price": null,
-   "rating": 3.7,
-   "ratings": 111,
-   "isFrido": false
-  },
-  {
-   "pos": 12,
-   "title": "Dr Foot Arch Support Gel Insole Pair For Men & Women – 1 Pair (Medium Size) (Pack of 2) Insole",
-   "price": null,
-   "rating": 4.5,
-   "ratings": 11,
-   "isFrido": false
-  },
-  {
-   "pos": 13,
-   "title": "FOVERA Height Increasing Gel Insoles for Men & Women - With 4 Level of Height Elevation Insole",
-   "price": null,
-   "rating": 4.1,
-   "ratings": 342,
-   "isFrido": false
-  },
-  {
-   "pos": 14,
-   "title": "AGEasy Insoles for Flat Feet |Rebound Relief Technology for Arch Support Insole",
-   "price": null,
-   "rating": 4.2,
-   "ratings": 151,
-   "isFrido": false
-  }
- ],
- "notes": []
+ "method": "Live scrape flipkart.com mobile search page 1 (__INITIAL_STATE__), query = generic product keyword",
+ "confidence": "Low (fetch blocked)",
+ "fridoRank": null,
+ "fridoPresent": false,
+ "fridoUrl": null,
+ "results": [],
+ "notes": [
+  "Live fetch failed after retries — needs re-verification."
+ ]
 }
