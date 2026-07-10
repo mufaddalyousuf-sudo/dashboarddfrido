@@ -1,0 +1,65 @@
+{
+ "asin": "B0DV3STGQT",
+ "productUrl": "https://www.amazon.ae/dp/B0DV3STGQT",
+ "productName": "Frido Unisex Socks 2 Active Socks",
+ "brand": "Frido",
+ "price": 139.0,
+ "currency": "AED",
+ "rating": 4.1,
+ "reviewCount": 8,
+ "availability": "Only 5 left in stock - order soon.",
+ "breadcrumb": [
+  "Fashion",
+  "Men",
+  "Clothing",
+  "Activewear",
+  "Socks"
+ ],
+ "images": [
+  "https://m.media-amazon.com/images/I/81T5jieluXL._AC_SL1500_.jpg",
+  "https://m.media-amazon.com/images/I/71Bq0oe4czL._AC_SL1500_.jpg",
+  "https://m.media-amazon.com/images/I/81HqM+OWH0L._AC_SL1500_.jpg",
+  "https://m.media-amazon.com/images/I/711R6mxUL2L._AC_SL1500_.jpg",
+  "https://m.media-amazon.com/images/I/71rbHg+KwxL._AC_SL1500_.jpg",
+  "https://m.media-amazon.com/images/I/71BKTH8i-dL._AC_SL1500_.jpg",
+  "https://m.media-amazon.com/images/I/61ZezhTWefL._AC_SL1500_.jpg",
+  "https://m.media-amazon.com/images/I/71eZx8u1WsL._AC_SL1500_.jpg"
+ ],
+ "itemType": null,
+ "mainCategory": "Fashion",
+ "mainCategoryRank": 683129,
+ "subcategory": "Men's Athletic Socks",
+ "subcategoryRank": 3212,
+ "allSubcategoryRanks": [
+  {
+   "name": "Men's Athletic Socks",
+   "rank": 3212
+  }
+ ],
+ "specs": {
+  "Color": "Black",
+  "Pattern": "Solid",
+  "Sport Type": "Badminton, Running, Gym & Sports",
+  "Style": "Regular",
+  "Socks Form": "Athletic Socks",
+  "Occasion": "Casual",
+  "Brand Name": "Frido",
+  "Age Range Description": "Adult",
+  "Model Name": "Active Socks",
+  "Style Number": "Frido Active Socks Cyan Large",
+  "Unit Count": "2.0 Count",
+  "Part Number": "FR-ASCB-S2",
+  "Item Weight": "45 Grams",
+  "Manufacturer": "Arcatron Mobility Private Limited",
+  "Country of Origin": "India",
+  "ASIN": "B0DV3STGQT",
+  "Material": "Cotton",
+  "Fabric Type": "Cotton-nylon fabric",
+  "Product Care Instructions": "Hand Wash Only",
+  "Shoe Height Map": "Mid-Calf",
+  "Fit to Size Sentiment": "Fits True To Size",
+  "Fit Type": "regular"
+ },
+ "capturedAt": "2026-07-10",
+ "fetchOk": true
+}

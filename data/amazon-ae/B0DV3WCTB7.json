@@ -1,0 +1,66 @@
+{
+ "asin": "B0DV3WCTB7",
+ "productUrl": "https://www.amazon.ae/dp/B0DV3WCTB7",
+ "productName": "Frido Unisex Socks 2 Active Socks",
+ "brand": "Frido",
+ "price": 139.0,
+ "currency": "AED",
+ "rating": 4.0,
+ "reviewCount": 24,
+ "availability": "Only 4 left in stock - order soon.",
+ "breadcrumb": [
+  "Fashion",
+  "Men",
+  "Clothing",
+  "Activewear",
+  "Socks"
+ ],
+ "images": [
+  "https://m.media-amazon.com/images/I/81fyMJIi7YL._AC_SL1500_.jpg",
+  "https://m.media-amazon.com/images/I/81biAq7SR6L._AC_SL1500_.jpg",
+  "https://m.media-amazon.com/images/I/812uwI-RLYL._AC_SL1500_.jpg",
+  "https://m.media-amazon.com/images/I/81LD1e+GmDL._AC_SL1500_.jpg",
+  "https://m.media-amazon.com/images/I/71tx0gdt+RL._AC_SL1500_.jpg",
+  "https://m.media-amazon.com/images/I/81LK5iKSOpL._AC_SL1500_.jpg",
+  "https://m.media-amazon.com/images/I/61O03UgjhCL._AC_SL1500_.jpg",
+  "https://m.media-amazon.com/images/I/81QZ+neTOyL._AC_SL1500_.jpg"
+ ],
+ "itemType": null,
+ "mainCategory": "Fashion",
+ "mainCategoryRank": 377152,
+ "subcategory": "Men's Athletic Socks",
+ "subcategoryRank": 2050,
+ "allSubcategoryRanks": [
+  {
+   "name": "Men's Athletic Socks",
+   "rank": 2050
+  }
+ ],
+ "specs": {
+  "Color": "Green",
+  "Pattern": "Solid",
+  "Sport Type": "Running, Badminton, Walking, Gym & Sports",
+  "Style": "Regular",
+  "Socks Form": "Athletic Socks",
+  "Occasion": "Casual",
+  "Brand Name": "Frido",
+  "Age Range Description": "Adult",
+  "Model Name": "Active Socks",
+  "Style Number": "Frido Active Socks Cyan Large",
+  "Unit Count": "2.0 Count",
+  "Part Number": "FR-ASNG-M2",
+  "Item Weight": "45 Grams",
+  "Manufacturer": "Arcatron Mobility Private Limited",
+  "Country of Origin": "India",
+  "ASIN": "B0DV3WCTB7",
+  "Material": "Cotton",
+  "Fabric Type": "Cotton-nylon fabric",
+  "Product Care Instructions": "Hand Wash Only",
+  "Apparel Fabric Weight Class": "Lightweight",
+  "Shoe Height Map": "Mid-Calf",
+  "Fit to Size Sentiment": "Positive",
+  "Fit Type": "regular"
+ },
+ "capturedAt": "2026-07-10",
+ "fetchOk": true
+}

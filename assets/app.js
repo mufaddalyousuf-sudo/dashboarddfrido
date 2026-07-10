@@ -500,7 +500,219 @@
     });
   }
 
+  // ================= AMAZON UAE (independent of the India dashboard) =================
+  const aed = (v) => (v == null ? "—" : "AED " + v.toLocaleString("en-AE", { maximumFractionDigits: 2 }));
+  const rankFmt = (v) => (v == null ? "—" : "#" + v.toLocaleString("en-AE"));
+  let uaeProducts = null; // lazy-loaded on first visit
+
+  async function loadUae() {
+    if (uaeProducts) return uaeProducts;
+    const idx = await (await fetch("data/uae-index.json")).json();
+    const rows = await Promise.all(idx.asins.map(async (asin) => {
+      try { return await (await fetch(`data/amazon-ae/${asin}.json`)).json(); }
+      catch { return { asin, fetchOk: false }; }
+    }));
+    uaeProducts = { asOf: idx.asOf, products: rows };
+    return uaeProducts;
+  }
+
+  function uaeStatus(p) {
+    const a = (p.availability || "").toLowerCase();
+    if (!p.fetchOk) return "Needs Verification";
+    if (!a) return "Unknown";
+    if (a.includes("out of stock") || a.includes("unavailable")) return "Out of Stock";
+    if (a.includes("left in stock") || a.includes("only")) return "Low Stock";
+    if (a.includes("in stock")) return "In Stock";
+    return "Unknown";
+  }
+  // the honest "best" rank for a product: lowest (best) subcategory rank if we have one, else the main category rank
+  const uaeBestRank = (p) => p.subcategoryRank ?? p.mainCategoryRank ?? null;
+
+  function setMode(mode) {
+    const isUae = mode === "uae";
+    $("#modeIndia").classList.toggle("on", !isUae);
+    $("#modeIndia").setAttribute("aria-selected", String(!isUae));
+    $("#modeUae").classList.toggle("on", isUae);
+    $("#modeUae").setAttribute("aria-selected", String(isUae));
+    $("#navIndia").hidden = isUae;
+    $("#navUae").hidden = !isUae;
+    $("#indiaControls").style.display = isUae ? "none" : "contents";
+    $("#uaeControls").style.display = isUae ? "flex" : "none";
+    $("#footIndia").hidden = isUae;
+    $("#footUae").hidden = !isUae;
+    $("#tbTitleLink").innerHTML = isUae ? `Frido <span>Amazon UAE Intelligence</span>` : `Frido <span>Marketplace Intelligence</span>`;
+  }
+
+  function renderUaeHome(data) {
+    document.title = "Amazon UAE — Frido Intelligence";
+    setMode("uae");
+    $("#tbMeta").innerHTML = `Snapshot <span class="yl">${data.asOf}</span> · amazon.ae · AED`;
+    const all = data.products;
+    const ok = all.filter((p) => p.fetchOk);
+    const ranked = ok.filter((p) => uaeBestRank(p) != null);
+    const notRanked = ok.filter((p) => uaeBestRank(p) == null);
+    const avgRank = ranked.length ? Math.round(ranked.reduce((a, p) => a + uaeBestRank(p), 0) / ranked.length) : null;
+    const topRanked = ranked.length ? ranked.reduce((a, b) => (uaeBestRank(a) <= uaeBestRank(b) ? a : b)) : null;
+    const lowestRanked = ranked.length ? ranked.reduce((a, b) => (uaeBestRank(a) >= uaeBestRank(b) ? a : b)) : null;
+
+    const kpis = [
+      ["package", "Products Tracked", ok.length, `${all.length - ok.length ? (all.length - ok.length) + " fetch failed" : "first snapshot"}`],
+      ["trending-up", "Average Best Seller Rank", rankFmt(avgRank), ranked.length ? `across ${ranked.length} ranked products` : "no ranked products"],
+      ["crown", "Top Ranked Product", topRanked ? rankFmt(uaeBestRank(topRanked)) : "—", topRanked ? esc((topRanked.productName || "").slice(0, 26)) : "no data"],
+      ["trending-down", "Lowest Ranked Product", lowestRanked ? rankFmt(uaeBestRank(lowestRanked)) : "—", lowestRanked ? esc((lowestRanked.productName || "").slice(0, 26)) : "no data"],
+      ["circle-alert", "Products Not Ranked", notRanked.length, `of ${ok.length} tracked`],
+    ];
+
+    const categories = [...new Set(ok.map((p) => p.mainCategory).filter(Boolean))].sort();
+    const itemTypes = [...new Set(ok.map((p) => p.itemType).filter(Boolean))].sort();
+
+    app.innerHTML = `
+      <div class="kpi-row">${kpis.map(([ic, l, v, t]) => `
+        <div class="glass kpi"><span class="k-ic">${I(ic)}</span><span class="k-val">${v}</span><span class="k-lbl">${l}</span><span class="k-trend">${t}</span></div>`).join("")}</div>
+
+      <div class="panel-head"><span class="ic">${I("store")}</span><h2>Frido Products on Amazon UAE</h2><span class="cnt">${ok.length} products</span></div>
+      <div class="search-select" style="flex-wrap:wrap">
+        <input id="uaeQ" placeholder="Search products…" aria-label="Search products" style="min-width:200px">
+        <select id="uaeCat" aria-label="Filter by category"><option value="">All categories</option>${categories.map((c) => `<option value="${esc(c)}">${esc(c)}</option>`).join("")}</select>
+        <select id="uaeItemType" aria-label="Filter by item type"><option value="">All item types</option>${itemTypes.map((c) => `<option value="${esc(c)}">${esc(c)}</option>`).join("")}</select>
+        <select id="uaeRankFilter" aria-label="Filter by rank">
+          <option value="">Any rank</option>
+          <option value="100">Top 100</option>
+          <option value="1000">Top 1,000</option>
+          <option value="10000">Top 10,000</option>
+          <option value="unranked">Not ranked</option>
+        </select>
+        <select id="uaeRatingFilter" aria-label="Filter by rating">
+          <option value="">Any rating</option>
+          <option value="4">4★ &amp; up</option>
+          <option value="3">3★ &amp; up</option>
+        </select>
+      </div>
+
+      <div class="uae-table-wrap glass glass-block">
+        <table class="tbl uae-tbl">
+          <thead><tr>
+            <th>Product</th><th>ASIN</th><th>Item Type</th><th>Main Category</th>
+            <th class="num">Main Rank</th><th>Best Seller Category</th><th class="num">Best Seller Rank</th>
+            <th class="num">Rating</th><th class="num">Reviews</th><th class="num">Price</th><th>Status</th><th>Updated</th>
+          </tr></thead>
+          <tbody id="uaeTbody"></tbody>
+        </table>
+      </div>`;
+
+    function paint() {
+      const q = ($("#uaeQ").value || "").toLowerCase();
+      const cat = $("#uaeCat").value;
+      const it = $("#uaeItemType").value;
+      const rankF = $("#uaeRankFilter").value;
+      const ratingF = parseFloat($("#uaeRatingFilter").value || "0");
+      const visible = ok.filter((p) => {
+        if (q && !(p.productName || "").toLowerCase().includes(q) && !p.asin.toLowerCase().includes(q)) return false;
+        if (cat && p.mainCategory !== cat) return false;
+        if (it && p.itemType !== it) return false;
+        if (ratingF && !(p.rating >= ratingF)) return false;
+        if (rankF === "unranked" && uaeBestRank(p) != null) return false;
+        if (rankF && rankF !== "unranked" && !(uaeBestRank(p) != null && uaeBestRank(p) <= Number(rankF))) return false;
+        return true;
+      });
+      $("#uaeTbody").innerHTML = visible.map((p) => `
+        <tr class="uae-row" data-asin="${p.asin}" style="cursor:pointer">
+          <td><span class="clip" title="${esc(p.productName)}">${esc((p.productName || "—").slice(0, 60))}</span></td>
+          <td>${esc(p.asin)}</td>
+          <td>${esc(p.itemType || "—")}</td>
+          <td>${esc(p.mainCategory || "—")}</td>
+          <td class="num">${rankFmt(p.mainCategoryRank)}</td>
+          <td>${esc(p.subcategory || "—")}</td>
+          <td class="num">${rankFmt(p.subcategoryRank)}</td>
+          <td class="num">${p.rating ?? "—"}${p.rating ? "★" : ""}</td>
+          <td class="num">${fmt(p.reviewCount)}</td>
+          <td class="num">${aed(p.price)}</td>
+          <td><span class="status ${uaeStatus(p) === "Out of Stock" ? "not-listed" : uaeStatus(p) === "Needs Verification" || uaeStatus(p) === "Unknown" ? "needs-verification" : "listed"}"><i></i>${uaeStatus(p)}</span></td>
+          <td>${esc(p.capturedAt || "—")}</td>
+        </tr>`).join("") || `<tr><td colspan="12"><p class="t-muted" style="padding:16px 4px">No products match.</p></td></tr>`;
+      $("#uaeTbody").querySelectorAll(".uae-row").forEach((r) => r.onclick = () => { location.hash = "#/uae/" + r.dataset.asin; });
+    }
+    paint();
+    ["uaeQ", "uaeCat", "uaeItemType", "uaeRankFilter", "uaeRatingFilter"].forEach((id) => {
+      $("#" + id).addEventListener(id === "uaeQ" ? "input" : "change", paint);
+    });
+  }
+
+  function renderUaeDetail(asin, data) {
+    const p = data.products.find((x) => x.asin === asin);
+    setMode("uae");
+    if (!p) { app.innerHTML = `<a class="crumb" href="#/uae">${I("arrow-left")} All UAE products</a><p class="t-muted">Product not found.</p>`; return; }
+    document.title = `${p.productName || asin} — Amazon UAE`;
+    $("#tbMeta").innerHTML = `Snapshot <span class="yl">${data.asOf}</span> · amazon.ae · AED`;
+
+    const specsRows = Object.entries(p.specs || {}).map(([k, v]) => `<tr><td>${esc(k)}</td><td>${esc(v)}</td></tr>`).join("");
+    const subRanks = (p.allSubcategoryRanks || []).map((s) => `<div class="comp-row" style="grid-template-columns:1fr .6fr"><span class="nm">${esc(s.name)}</span><span class="num">${rankFmt(s.rank)}</span></div>`).join("");
+
+    app.innerHTML = `
+      <a class="crumb" href="#/uae">${I("arrow-left")} All UAE products</a>
+
+      <div class="section glass glass-block">
+        <div style="display:flex;align-items:baseline;gap:12px;flex-wrap:wrap">
+          <h1 class="t-h1">${esc(p.productName || p.asin)}</h1>
+          <span class="status ${uaeStatus(p) === "Out of Stock" ? "not-listed" : uaeStatus(p) === "Needs Verification" || uaeStatus(p) === "Unknown" ? "needs-verification" : "listed"}"><i></i>${uaeStatus(p)}</span>
+        </div>
+        <p class="t-ink2" style="margin-top:8px"><a href="${p.productUrl}" target="_blank" rel="noopener">View on amazon.ae ↗</a> · ASIN ${esc(p.asin)} · Brand ${esc(p.brand || "—")}</p>
+        ${p.images && p.images.length ? `<div style="display:flex;gap:10px;overflow-x:auto;margin-top:14px;padding-bottom:4px">${p.images.map((src) => `<img src="${src}" style="width:110px;height:110px;object-fit:contain;border-radius:12px;background:var(--glass-bg-strong);border:1px solid var(--glass-border)">`).join("")}</div>` : ""}
+      </div>
+
+      <div class="section glass glass-block">
+        <div class="panel-head"><span class="ic">${I("target")}</span><h2 style="font-size:13.5px">Best Sellers Rank</h2></div>
+        <div class="pos-grid">
+          <div><div class="k">${rankFmt(p.mainCategoryRank)}</div><div class="l">${esc(p.mainCategory || "Main category")}</div></div>
+          <div><div class="k">${rankFmt(p.subcategoryRank)}</div><div class="l">${esc(p.subcategory || "Best subcategory")}</div></div>
+          <div><div class="k">${aed(p.price)}</div><div class="l">Price</div></div>
+          <div><div class="k">${p.rating ?? "—"}${p.rating ? "★" : ""}</div><div class="l">Rating</div></div>
+          <div><div class="k">${fmt(p.reviewCount)}</div><div class="l">Reviews</div></div>
+        </div>
+        ${(p.allSubcategoryRanks || []).length > 1 ? `<h4 style="margin-top:16px;font-size:11.5px;font-weight:650;letter-spacing:.04em;text-transform:uppercase;color:var(--muted)">All subcategory ranks</h4>${subRanks}` : ""}
+      </div>
+
+      <div class="section glass glass-block">
+        <div class="panel-head"><span class="ic">${I("info")}</span><h2 style="font-size:13.5px">Item Type &amp; Category</h2></div>
+        <p class="t-ink2">Item Type: <b>${esc(p.itemType || "—")}</b></p>
+        ${p.breadcrumb && p.breadcrumb.length ? `<p class="t-muted" style="margin-top:6px">${p.breadcrumb.map(esc).join(" › ")}</p>` : ""}
+      </div>
+
+      <details class="more glass glass-block">
+        <summary>${I("chart-bar")}<span>Product specs (${Object.keys(p.specs || {}).length} fields)</span><span class="chev">${I("chevron-down")}</span></summary>
+        <div class="inner">
+          <table class="tbl"><tbody>${specsRows || `<tr><td colspan="2">No specs captured.</td></tr>`}</tbody></table>
+        </div>
+      </details>
+
+      <p class="t-muted" style="margin-top:16px">Price history: not available yet — this is the first captured snapshot. Future snapshots will build a trend here.</p>
+      <p class="t-muted" style="margin-top:8px">Source: live amazon.ae product page, ${p.capturedAt || data.asOf}.</p>`;
+  }
+
+  $("#modeIndia").onclick = (e) => { e.preventDefault(); location.hash = "#/"; };
+  $("#modeUae").onclick = (e) => { e.preventDefault(); location.hash = "#/uae"; };
+  $("#sbUaeExport").onclick = async (e) => {
+    e.preventDefault();
+    const data = await loadUae();
+    const rows = [["Product", "ASIN", "Item Type", "Main Category", "Main Category Rank", "Best Seller Category", "Best Seller Rank", "Rating", "Reviews", "Price (AED)", "Status", "Last Updated", "URL"]];
+    data.products.filter((p) => p.fetchOk).forEach((p) => {
+      rows.push([p.productName, p.asin, p.itemType, p.mainCategory, p.mainCategoryRank, p.subcategory, p.subcategoryRank, p.rating, p.reviewCount, p.price, uaeStatus(p), p.capturedAt, p.productUrl]);
+    });
+    const csv = rows.map((r) => r.map((v) => `"${String(v ?? "").replace(/"/g, '""')}"`).join(",")).join("\n");
+    const a = document.createElement("a");
+    a.href = URL.createObjectURL(new Blob([csv], { type: "text/csv" }));
+    a.download = `frido-amazon-uae-${data.asOf}.csv`; a.click();
+  };
+
   function route() {
+    const uaeDetail = location.hash.match(/^#\/uae\/([A-Za-z0-9]+)/);
+    const uaeHome = location.hash.match(/^#\/uae\/?$/);
+    if (uaeDetail || uaeHome) {
+      loadUae().then((data) => { uaeDetail ? renderUaeDetail(uaeDetail[1], data) : renderUaeHome(data); });
+      scrollTo(0, 0);
+      return;
+    }
+    setMode("india");
     const m = location.hash.match(/^#\/([\w-]+)/);
     if (m && m[1]) renderCat(m[1]); else renderHome();
     scrollTo(0, 0);

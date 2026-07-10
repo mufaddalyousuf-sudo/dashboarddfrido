@@ -1,0 +1,67 @@
+{
+ "asin": "B0DV3X1FKR",
+ "productUrl": "https://www.amazon.ae/dp/B0DV3X1FKR",
+ "productName": "Frido Unisex Socks 2 Active Socks",
+ "brand": "Frido",
+ "price": 139.0,
+ "currency": "AED",
+ "rating": 4.0,
+ "reviewCount": 24,
+ "availability": "Only 4 left in stock - order soon.",
+ "breadcrumb": [
+  "Fashion",
+  "Men",
+  "Clothing",
+  "Activewear",
+  "Socks"
+ ],
+ "images": [
+  "https://m.media-amazon.com/images/I/812biZOKhwL._AC_SL1500_.jpg",
+  "https://m.media-amazon.com/images/I/81J9iowITyL._AC_SL1500_.jpg",
+  "https://m.media-amazon.com/images/I/81tnH9QtvqL._AC_SL1500_.jpg",
+  "https://m.media-amazon.com/images/I/81CSsDOYDIL._AC_SL1500_.jpg",
+  "https://m.media-amazon.com/images/I/718TRgq4uFL._AC_SL1500_.jpg",
+  "https://m.media-amazon.com/images/I/818Xj7bVuCL._AC_SL1500_.jpg",
+  "https://m.media-amazon.com/images/I/61m3xwJBVKL._AC_SL1500_.jpg",
+  "https://m.media-amazon.com/images/I/81q66o+lTgL._AC_SL1500_.jpg"
+ ],
+ "itemType": null,
+ "mainCategory": "Fashion",
+ "mainCategoryRank": 377152,
+ "subcategory": "Men's Athletic Socks",
+ "subcategoryRank": 2050,
+ "allSubcategoryRanks": [
+  {
+   "name": "Men's Athletic Socks",
+   "rank": 2050
+  }
+ ],
+ "specs": {
+  "Color": "Cyan",
+  "Pattern": "Solid",
+  "Sport Type": "Running, Badminton, Walking, Gym & Sports",
+  "Style": "Quarter Length",
+  "Socks Form": "Athletic Socks",
+  "Occasion": "Casual",
+  "Brand Name": "Frido",
+  "Age Range Description": "Adult",
+  "Model Name": "Active Socks",
+  "Style Number": "Frido Active Socks Cyan Large",
+  "Unit Count": "2.0 Count",
+  "Part Number": "FR-ASC-L2",
+  "Item Weight": "45 Grams",
+  "Manufacturer": "Arcatron Mobility Private Limited",
+  "Country of Origin": "India",
+  "ASIN": "B0DV3X1FKR",
+  "Material": "Cotton",
+  "Fabric Type": "Cotton-nylon fabric",
+  "Product Care Instructions": "Hand Wash Only",
+  "Apparel Fabric Weight Class": "Lightweight",
+  "Shoe Height Map": "Mid-Calf",
+  "Fit to Size Sentiment": "Positive",
+  "Fit Type": "regular",
+  "Closure Type": "Pull On"
+ },
+ "capturedAt": "2026-07-10",
+ "fetchOk": true
+}
