@@ -638,10 +638,172 @@
     });
   }
 
-  function renderUaeDetail(asin, data) {
+  // ---- Top Competitor Analysis (per-product, dynamic — nothing hardcoded) ----
+  const uaeCompCache = {};
+  async function loadUaeCompetitors(asin) {
+    if (asin in uaeCompCache) return uaeCompCache[asin];
+    try {
+      const d = await (await fetch(`data/amazon-ae-competitors/${asin}.json`)).json();
+      uaeCompCache[asin] = d && d.fetchOk ? d : null;
+    } catch { uaeCompCache[asin] = null; }
+    return uaeCompCache[asin];
+  }
+  const UAE_STOP = new Set(["for", "with", "the", "and", "a", "an", "of", "in", "to", "on", "is", "are", "1", "pair", "pack", "men", "women", "men's", "women's"]);
+  function uaeTitleKeywords(title) {
+    if (!title) return [];
+    const words = title.match(/[A-Za-z][A-Za-z'-]{2,}/g) || [];
+    const seen = new Set(), out = [];
+    for (const w of words) {
+      const wl = w.toLowerCase();
+      if (UAE_STOP.has(wl) || seen.has(wl)) continue;
+      seen.add(wl); out.push(w);
+    }
+    return out;
+  }
+  const uaeAvg = (arr) => (arr.length ? arr.reduce((a, b) => a + b, 0) / arr.length : null);
+
+  function buildUaeGapAnalysis(p, comp) {
+    const top3 = comp && comp.top3 ? comp.top3.filter((c) => c.asin !== p.asin) : [];
+    if (!top3.length) return null;
+    const prices = top3.map((c) => c.price).filter((v) => v != null);
+    const ratings = top3.map((c) => c.rating).filter((v) => v != null);
+    const reviewsArr = top3.map((c) => c.reviewCount).filter((v) => v != null);
+    const avgPrice = uaeAvg(prices), avgRating = uaeAvg(ratings), avgReviews = uaeAvg(reviewsArr);
+    const findings = [];
+
+    if (p.reviewCount != null && avgReviews != null && avgReviews > 0) {
+      const gapPct = ((avgReviews - p.reviewCount) / avgReviews) * 100;
+      if (p.reviewCount < avgReviews * 0.7) {
+        findings.push({ dim: "Reviews", severity: gapPct, text: `Top 3 competitors average ${Math.round(avgReviews).toLocaleString()} reviews vs Frido's ${p.reviewCount.toLocaleString()} — a ${Math.round(gapPct)}% gap. Review volume is a strong signal behind Best Seller Rank.` });
+      } else if (p.reviewCount > avgReviews * 1.2) {
+        findings.push({ dim: "Reviews", advantage: true, text: `Frido has more reviews (${p.reviewCount.toLocaleString()}) than the top-3 average (${Math.round(avgReviews).toLocaleString()}) — reviews are not the gap here.` });
+      }
+    }
+    if (p.rating != null && avgRating != null) {
+      const diff = avgRating - p.rating;
+      if (diff > 0.15) findings.push({ dim: "Rating", severity: diff * 25, text: `Top 3 competitors average ${avgRating.toFixed(1)}★ vs Frido's ${p.rating.toFixed(1)}★.` });
+      else if (diff < -0.15) findings.push({ dim: "Rating", advantage: true, text: `Frido rates higher (${p.rating.toFixed(1)}★) than the top-3 average (${avgRating.toFixed(1)}★).` });
+    }
+    if (p.price != null && avgPrice != null && avgPrice > 0) {
+      const diffPct = ((p.price - avgPrice) / avgPrice) * 100;
+      if (diffPct > 15) findings.push({ dim: "Price", severity: diffPct, text: `Frido is priced ${aed(p.price)} vs a top-3 average of ${aed(avgPrice)} — ${Math.round(diffPct)}% higher.` });
+      else if (diffPct < -15) findings.push({ dim: "Price", advantage: true, text: `Frido is priced lower (${aed(p.price)}) than the top-3 average (${aed(avgPrice)}).` });
+    }
+    const badgedCompetitors = top3.filter((c) => c.badge);
+    if (badgedCompetitors.length && !p.badge) {
+      findings.push({ dim: "Badge", severity: 25 * badgedCompetitors.length, text: `${badgedCompetitors.length} of the top 3 competitors carry an "${badgedCompetitors[0].badge}" badge; Frido's listing has none.` });
+    }
+    const aplusCompetitors = top3.filter((c) => c.hasAplusContent).length;
+    if (aplusCompetitors && !p.hasAplusContent) {
+      findings.push({ dim: "A+ Content", severity: 20 * aplusCompetitors, text: `${aplusCompetitors} of the top 3 competitors have A+ (enhanced) content on their listing; Frido's page does not.` });
+    }
+    const couponCompetitors = top3.filter((c) => c.hasCoupon).length;
+    if (couponCompetitors && !p.hasCoupon) {
+      findings.push({ dim: "Coupons/Offers", severity: 15 * couponCompetitors, text: `${couponCompetitors} of the top 3 competitors are running an on-listing coupon; Frido's listing currently shows none.` });
+    }
+    const fridoKw = new Set(uaeTitleKeywords(p.productName).map((w) => w.toLowerCase()));
+    const compKwCount = new Map();
+    top3.forEach((c) => (c.titleKeywords || []).forEach((k) => { const kl = k.toLowerCase(); if (!fridoKw.has(kl)) compKwCount.set(kl, (compKwCount.get(kl) || 0) + 1); }));
+    const missingKeywords = [...compKwCount.entries()].sort((a, b) => b[1] - a[1]).map(([k]) => k);
+    if (missingKeywords.length) {
+      findings.push({ dim: "Title Keywords", severity: missingKeywords.length * 8, text: `Keywords used in competitor titles but missing from Frido's: ${missingKeywords.slice(0, 6).join(", ")}${missingKeywords.length > 6 ? "…" : ""}.`, keywords: missingKeywords });
+    }
+    const avgTitleLen = uaeAvg(top3.map((c) => c.titleLength).filter((v) => v != null));
+    if (p.titleLength != null && avgTitleLen != null && p.titleLength < avgTitleLen * 0.6) {
+      findings.push({ dim: "Title Length/SEO", severity: 15, text: `Frido's title is ${p.titleLength} characters vs a top-3 average of ${Math.round(avgTitleLen)} — a shorter title surfaces fewer searchable keywords.` });
+    }
+    const avgBullets = uaeAvg(top3.map((c) => c.bulletCount).filter((v) => v != null));
+    if (p.bulletCount != null && avgBullets != null && p.bulletCount < avgBullets - 1) {
+      findings.push({ dim: "Feature Bullets", severity: 10, text: `Frido lists ${p.bulletCount} feature bullets vs a top-3 average of ${avgBullets.toFixed(1)}.` });
+    }
+    findings.sort((a, b) => (b.severity || 0) - (a.severity || 0));
+    const notMeasurable = [
+      "Image quality/composition — Amazon's product page doesn't expose an objective image-quality signal; a manual side-by-side is needed to judge this.",
+      "Overall product positioning/brand messaging — not derivable from structured page data; requires human judgement."
+    ];
+    return { top3, findings, notMeasurable, avgPrice, avgRating, avgReviews };
+  }
+
+  const UAE_ACTION_TEXT = {
+    "Reviews": "Run a review-generation push (post-purchase follow-up prompts, Vine) to close the review-volume gap versus the category leaders.",
+    "Rating": "Investigate recent negative reviews and address the root complaint — rating is dragging BSR relative to competitors.",
+    "Price": "Re-test pricing (or add a bundle/discount) closer to the top-3 average; Frido is priced meaningfully above the category norm.",
+    "Badge": "Target Amazon's Choice / Bestseller badge eligibility by improving the sales-velocity and rating inputs that unlock it.",
+    "A+ Content": "Build out A+ (Enhanced Brand) content for this listing — competitors with A+ content are outranking Frido here.",
+    "Coupons/Offers": "Add an on-listing coupon or limited-time offer to match competitor promotions and lift click-through/conversion.",
+    "Title Keywords": "Rework the product title to include the missing high-frequency competitor keywords for better search matchability.",
+    "Title Length/SEO": "Lengthen the title to use more of Amazon's searchable character budget, following competitor title structure.",
+    "Feature Bullets": "Expand the feature-bullet list to match competitor depth — more bullets means more scannable, keyword-rich content."
+  };
+  function buildUaeRecommendedActions(gap) {
+    if (!gap) return [];
+    return gap.findings.filter((f) => !f.advantage).slice(0, 5).map((f) => ({ dim: f.dim, action: UAE_ACTION_TEXT[f.dim] || `Address the ${f.dim} gap identified above.`, evidence: f.text }));
+  }
+
+  function renderUaeCompetitorSection(p, comp) {
+    if (!comp || !comp.top3 || !comp.top3.length) {
+      return `<div class="section glass glass-block">
+        <div class="panel-head"><span class="ic">${I("swords")}</span><h2 style="font-size:13.5px">Top Competitor Analysis</h2></div>
+        <p class="t-muted">No Best Seller subcategory competitor data captured for this product${p.subcategory ? ` (${esc(p.subcategory)})` : ""} yet.</p>
+      </div>`;
+    }
+    const gap = buildUaeGapAnalysis(p, comp);
+    const actions = buildUaeRecommendedActions(gap);
+    const others = comp.top3.filter((c) => c.asin !== p.asin).slice(0, 3);
+
+    const cards = others.map((c) => `
+      <div class="competitor-card">
+        <div class="cc-rank">#${c.rank}</div>
+        ${c.image ? `<img class="cc-img" src="${esc(c.image)}" alt="">` : `<div class="cc-img cc-img-ph">${I("image")}</div>`}
+        <div class="cc-body">
+          <div class="cc-brand">${esc(c.brand || "—")}${c.badge ? `<span class="cc-badge">${esc(c.badge)}</span>` : ""}</div>
+          <a class="cc-title" href="${esc(c.productUrl || "#")}" target="_blank" rel="noopener">${esc(c.title || c.asin)}</a>
+          <div class="cc-meta">
+            <span>${aed(c.price)}</span>
+            <span>${c.rating != null ? c.rating.toFixed(1) + "★" : "—"}</span>
+            <span>${c.reviewCount != null ? fmt(c.reviewCount) + " reviews" : "—"}</span>
+          </div>
+          ${(c.titleKeywords || []).length ? `<div class="cc-kw">${c.titleKeywords.slice(0, 6).map((k) => `<span class="kw-chip">${esc(k)}</span>`).join("")}</div>` : ""}
+          ${(c.bullets || []).length ? `<ul class="cc-bullets">${c.bullets.slice(0, 3).map((b) => `<li>${esc(b)}</li>`).join("")}</ul>` : ""}
+        </div>
+      </div>`).join("");
+
+    const gapHtml = gap && gap.findings.length ? gap.findings.map((f) => `
+      <div class="gap-item ${f.advantage ? "advantage" : ""}">
+        <span class="gap-dim">${f.advantage ? I("check") : I("triangle-alert")}${esc(f.dim)}</span>
+        <p>${f.text}</p>
+      </div>`).join("") : `<p class="t-muted">No measurable gaps found across price, rating, reviews, badge, A+ content, coupons or title keywords against the top 3 competitors.</p>`;
+
+    const notMeasurableHtml = gap ? `<div class="gap-unmeasurable">
+        <p class="t-label" style="margin-bottom:6px">Not measurable from available data</p>
+        <ul>${gap.notMeasurable.map((t) => `<li>${esc(t)}</li>`).join("")}</ul>
+      </div>` : "";
+
+    const actionsHtml = actions.length ? `<ol class="reco-list">${actions.map((a) => `<li><b>${esc(a.dim)}</b><p>${esc(a.action)}</p></li>`).join("")}</ol>` : `<p class="t-muted">No high-impact gaps identified from measured data — current positioning looks competitive on the dimensions we can measure.</p>`;
+
+    return `
+      <div class="section glass glass-block">
+        <div class="panel-head"><span class="ic">${I("swords")}</span><h2 style="font-size:13.5px">Top Competitor Analysis</h2><span class="cnt">${esc(comp.subcategory || p.subcategory || "")}</span></div>
+        <div class="competitor-grid">${cards}</div>
+      </div>
+
+      <div class="section glass glass-block">
+        <div class="panel-head"><span class="ic">${I("sparkles")}</span><h2 style="font-size:13.5px">AI Gap Analysis</h2></div>
+        <div class="gap-list">${gapHtml}</div>
+        ${notMeasurableHtml}
+      </div>
+
+      <div class="section glass glass-block">
+        <div class="panel-head"><span class="ic">${I("lightbulb")}</span><h2 style="font-size:13.5px">Recommended Actions</h2></div>
+        ${actionsHtml}
+      </div>`;
+  }
+
+  async function renderUaeDetail(asin, data) {
     const p = data.products.find((x) => x.asin === asin);
     setMode("uae");
     if (!p) { app.innerHTML = `<a class="crumb" href="#/uae">${I("arrow-left")} All UAE products</a><p class="t-muted">Product not found.</p>`; return; }
+    const comp = await loadUaeCompetitors(asin);
     document.title = `${p.productName || asin} — Amazon UAE`;
     $("#tbMeta").innerHTML = `Snapshot <span class="yl">${data.asOf}</span> · amazon.ae · AED`;
 
@@ -671,6 +833,8 @@
         </div>
         ${(p.allSubcategoryRanks || []).length > 1 ? `<h4 style="margin-top:16px;font-size:11.5px;font-weight:650;letter-spacing:.04em;text-transform:uppercase;color:var(--muted)">All subcategory ranks</h4>${subRanks}` : ""}
       </div>
+
+      ${renderUaeCompetitorSection(p, comp)}
 
       <div class="section glass glass-block">
         <div class="panel-head"><span class="ic">${I("info")}</span><h2 style="font-size:13.5px">Item Type &amp; Category</h2></div>
