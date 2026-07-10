@@ -1,40 +1,59 @@
 {
  "category": "personal-care-anti-slip-bath-mat",
  "marketplace": "amazon-in",
- "keyword": "Frido Anti-Slip Bath Mat",
+ "keyword": "Anti Slip Bath Mat",
+ "brandKeyword": "Frido Anti-Slip Bath Mat",
  "capturedAt": "2026-07-08",
- "method": "Live scrape amazon.in search page 1, query = exact SKU name (brand-qualified)",
+ "method": "Live scrape amazon.in search page 1, query = generic product keyword (brand + Frido product-line/marketing words stripped) — the competitive rank signal, not a brand-qualified existence check",
  "confidence": "High (live snapshot, single keyword)",
- "fridoOrganicRank": 1,
- "fridoSponsoredSlot": 5,
+ "fridoOrganicRank": null,
+ "fridoSponsoredSlot": null,
+ "fridoUrl": null,
  "organic": [
   {
-   "asin": "B0GZW44FWH",
-   "badge": null,
-   "price": "1,699",
-   "rating": "4.4",
-   "reviews": "37",
-   "title": "Frido Anti-Slip Bath Mat with Dense Suction Cups | Quick-Drain Design for Faster Drying | Helps Prevent Mould Buildup | PVC Shower Mat for Wet Bathroom Floors |",
-   "rank": 1,
-   "isFridoBrand": true
+   "asin": "B09MVT9JJ6",
+   "badge": "Amazon's Choice",
+   "price": "313",
+   "rating": "4.0",
+   "reviews": "1,108",
+   "title": "VHKD PVC Bathroom mats Anti Slip Bathroom mat Non Slip Bath Anti Skid Doormat Rectangle (Grey | 70 X 35)",
+   "rank": 1
   },
   {
-   "asin": "B0GZW1W7DT",
+   "asin": "B0CFLDM7N8",
    "badge": null,
-   "price": "1,699",
-   "rating": "4.4",
-   "reviews": "37",
-   "title": "Frido Anti-Slip Bath Mat with Dense Suction Cups | Quick-Drain Design for Faster Drying | Helps Prevent Mould Buildup | PVC Shower Mat for Wet Bathroom Floors |",
+   "price": "339",
+   "rating": "4.1",
+   "reviews": "3,180",
+   "title": "VERVENIX Pack of 2 Bathroom Mats Anti Slip Quick Dry Soft Water Absorbing | Oval Anti-Skid Non-Slip Rubber Doormat for Home, Kitchen & Washroom | (Blue)",
    "rank": 2
   },
   {
-   "asin": "B0GTW57FN7",
-   "badge": null,
-   "price": "1,599",
-   "rating": "4.4",
-   "reviews": "70",
-   "title": "Frido Hot & Cold Therapy Cap | 360° Full Head Coverage | Reusable Cooling & Warming Cap with Gentle Compression | Purple",
+   "asin": "B0C968RYY1",
+   "badge": "Bestseller",
+   "price": "474",
+   "rating": "4.3",
+   "reviews": "1,523",
+   "title": "Rubber Anti Skid & Multipurpose/Bathroom Mat/Shower Mat/Carpet/Rugs/Rainmat/Swimming Pool Mat|Waterproof Doormat For Indoor/Outdoor Home Office Entrance||(Grey,",
    "rank": 3
+  },
+  {
+   "asin": "B0FGV7GMTL",
+   "badge": null,
+   "price": "249",
+   "rating": "4.0",
+   "reviews": "29",
+   "title": "Door mat Bathroom mats Anti Slip for Entrance Floor Foot Skid Bathtub Bath Shower Suction Cups (Beige 70x40cm)",
+   "rank": 4
+  },
+  {
+   "asin": "B0CB93VYW9",
+   "badge": null,
+   "price": "579",
+   "rating": "4.0",
+   "reviews": "689",
+   "title": "RichAxis Rectangular Anti Skid Bath Mat with Foot Scrubber for Bath Room Shower Mat with Suction Cups & Drain Holes Silicone Floor Mat for Kids & Adults (70 X 3",
+   "rank": 5
   },
   {
    "asin": "B082P17SP5",
@@ -43,127 +62,72 @@
    "rating": "4.4",
    "reviews": "611",
    "title": "Eurotex Rectangular Shower Mat Non Slip for Bathroom, Anti Skid Bathtub Mat (Plastic Stripped- Rubber Base, 46cm x 61cm)- Beige",
-   "rank": 4
-  },
-  {
-   "asin": "B0CXV37WRG",
-   "badge": null,
-   "price": "799",
-   "rating": "4.1",
-   "reviews": "283",
-   "title": "RichAxis PVC Anti Skid Mat For Bathroom Anti Slip Bathroom Mat Shower Area Anti Skid Mats With Suction Cups And Drain Holes For Bathtub Floor Mat (68X38 Cm,Grey",
-   "rank": 5
+   "rank": 6
   },
   {
    "asin": "B0G1Y6J2T8",
    "badge": null,
    "price": "779",
-   "rating": "4.0",
-   "reviews": "45",
+   "rating": "4.1",
+   "reviews": "46",
    "title": "HOMEZE TPE Anti-Slip Shower Mat – Elevate Your Bathing Experience | Strong Suction Grips & Drain Holes | Anti-Skid Bath Mat for Elderly | Premium Bathtub & Show",
-   "rank": 6
-  },
-  {
-   "asin": "B0FTVLFTC3",
-   "badge": null,
-   "price": "449",
-   "rating": "4.0",
-   "reviews": "1,105",
-   "title": "VHKD 2PCS PVC Bathroom mats Anti Slip Bathroom mat Non Slip Bath Anti Skid Doormat Rectangle (Grey+Blue)[70x35cm]",
    "rank": 7
   },
   {
-   "asin": "B09C6DWSLT",
+   "asin": "B0CKRJ8424",
    "badge": null,
-   "price": "499",
-   "rating": "4.3",
-   "reviews": "5,733",
-   "title": "ishro home Anti Skid & Multipurpose Rectangular Rubihr/Bathroom Mat/Shower Mat/Carpet/Rugs/Rainmat/Swimming Pool Mat||2X3 Feet",
+   "price": "179",
+   "rating": "4.0",
+   "reviews": "5,966",
+   "title": "Cortina Pack of 1 Quick Dry Water Absorbing Rectangular Silicon Floor Mat | Anti-Skid & Non-Slip Cushion Doormat for Home, Kitchen, Office, Washroom | 60x40cm (",
    "rank": 8
   },
   {
-   "asin": "B0GJ4K8XPZ",
+   "asin": "B076ZRSLDJ",
    "badge": null,
-   "price": "899",
+   "price": "319",
    "rating": "4.0",
-   "reviews": "24",
-   "title": "HomeCloud Non-Slip Shower Mat for Bathtub, Anti-Slip Bath Mat with Suction Cups, Drainage Holes & Foot Massage Exfoliating Surface (D_Grey)",
+   "reviews": "5,225",
+   "title": "Amazon Brand - Solimo Premium Anti-Slip Microfibre Bathmat - 60cm x 40cm, Light Taupe",
    "rank": 9
   },
   {
-   "asin": "B0F2MG5L71",
+   "asin": "B0F83JH72B",
    "badge": null,
-   "price": "238",
-   "rating": "3.9",
-   "reviews": "3",
-   "title": "VATTU PVC Silicone Shower Bath Mat Anti Slip Bathtub Bathroom Met with Suction Cup Drain Hole & Anti Skid Floormat for Toilet Kitchen Bathroom 70 X 35 CM (Grey ",
+   "price": "399",
+   "rating": "4.3",
+   "reviews": "103",
+   "title": "VHKD PVC Bathroom Door Bath mat Anti Slip Skid with Foot Scrubber for Room Shower Suction Cups Drain Holes Silicone Floor mat Rectangle (Pink)",
    "rank": 10
   }
  ],
  "sponsored": [
   {
-   "asin": "B0DTKQGBTK",
+   "asin": "B09C6DWSLT",
    "badge": null,
-   "price": "838",
+   "price": "499",
    "rating": "4.3",
-   "reviews": "7",
-   "title": "BEAR GRIPS BubbleGuard Anti-Slip Bathroom Shower mat with Anti-Skid Suction Cups and Foot Scrub | TPE Material | Large Size 80 X 50 Cm| Sky Blue",
+   "reviews": "5,734",
+   "title": "ishro home Anti Skid & Multipurpose Rectangular Rubihr/Bathroom Mat/Shower Mat/Carpet/Rugs/Rainmat/Swimming Pool Mat||2X3 Feet",
    "slot": 1
   },
   {
-   "asin": "B0DTKR132F",
-   "badge": null,
-   "price": "838",
-   "rating": "3.7",
-   "reviews": "7",
-   "title": "BEAR GRIPS BubbleGuard Anti-Slip Bathroom Shower mat with Anti-Skid Suction Cups and Foot Scrub | TPE Material | Large Size 80 X 50 Cm| Stone Grey",
+   "asin": "B0C968RYY1",
+   "badge": "Bestseller",
+   "price": "474",
+   "rating": "4.3",
+   "reviews": "1,523",
+   "title": "Rubber Anti Skid & Multipurpose/Bathroom Mat/Shower Mat/Carpet/Rugs/Rainmat/Swimming Pool Mat|Waterproof Doormat For Indoor/Outdoor Home Office Entrance||(Grey,",
    "slot": 2
   },
   {
-   "asin": "B0CL9TRN8D",
+   "asin": "B0CBG192DY",
    "badge": null,
-   "price": "1,163",
-   "rating": "3.9",
-   "reviews": "1,114",
-   "title": "The Artment your artistic apartment TerraDry Stone Bathroom Diatomaceous Earth Shower Mat, Non-Slip Super Absorbent Quick Drying Bathroom Mat | Natural, Easy to",
-   "slot": 3
-  },
-  {
-   "asin": "B0B6W7M12N",
-   "badge": null,
-   "price": "1,195",
-   "rating": "4.4",
-   "reviews": "63",
-   "title": "Eurotex Anti Skid Mat for Bathroom Floor, Bathroom Anti Skid Mats for Bathing Area, Kitchen, Pool Wet Area, Non Slip (43x61 cm, Beige)",
-   "slot": 4
-  },
-  {
-   "asin": "B0G5N96PP5",
-   "badge": "Amazon's Choice",
-   "price": "1,599",
-   "rating": "4.4",
-   "reviews": "37",
-   "title": "Frido AeroDry Bath Mat, Premium Anti-Slip Bathroom Mat with Firm Grip, Fast-Drain Design & Gentle Massage Texture, Non-Slip PVC Shower Mat for Bathroom Floor - ",
-   "slot": 5,
-   "isFridoBrand": true
-  },
-  {
-   "asin": "B0FKTF1VBC",
-   "badge": null,
-   "price": "949",
+   "price": "539",
    "rating": "4.1",
-   "reviews": "147",
-   "title": "HomeCloud Non-Slip Shower Mat for Bathroom & Bathtub – Anti-Skid Mat with Strong Suction Cups, Drainage Holes & Foot Massage Surface-Exfoliating Textured Bath M",
-   "slot": 6
-  },
-  {
-   "asin": "B0FTGCX89P",
-   "badge": null,
-   "price": "749",
-   "rating": "4.0",
-   "reviews": "1,043",
-   "title": "LUXE HOME INTERNATIONAL Polyester Contour Bath Mat – Washable, Anti Skid, Water Absorbent Contour Mats for Bathroom, Toilet, Wash Basin & Bathroom Contour Mat S",
-   "slot": 7
+   "reviews": "309",
+   "title": "JUGTE Anti Slip Bath Mat with with Foot Scrubber Rubber Bathroom Mat for Floor, Non-Slip Shower Mat with Drain Holes, Quick Dry Soft Foot Massage Mat for Bathro",
+   "slot": 3
   },
   {
    "asin": "B082P17SP5",
@@ -172,16 +136,43 @@
    "rating": "4.4",
    "reviews": "611",
    "title": "Eurotex Rectangular Shower Mat Non Slip for Bathroom, Anti Skid Bathtub Mat (Plastic Stripped- Rubber Base, 46cm x 61cm)- Beige",
-   "slot": 8
+   "slot": 4
   },
   {
-   "asin": "B076ZPWDLF",
+   "asin": "B0D17BQG64",
    "badge": null,
-   "price": "269",
+   "price": "199",
    "rating": "4.0",
-   "reviews": "5,223",
-   "title": "Amazon Brand - Solimo Premium Anti-Slip Microfibre Bathmat - 60cm x 40cm, Pale Grey",
-   "slot": 9
+   "reviews": "1,867",
+   "title": "Yellow Weaves Synthetic Rubber 1 Pc Anti Slip Water Soaking Floor Mat,Water Absorbent Non Slip Bath Mat,Quick Dry Mat for Bathroom,Door Mat for Home,Kitchen,Off",
+   "slot": 5
+  },
+  {
+   "asin": "B076ZRSLDJ",
+   "badge": null,
+   "price": "319",
+   "rating": "4.0",
+   "reviews": "5,225",
+   "title": "Amazon Brand - Solimo Premium Anti-Slip Microfibre Bathmat - 60cm x 40cm, Light Taupe",
+   "slot": 6
+  },
+  {
+   "asin": "B0BR7LLMJ8",
+   "badge": null,
+   "price": "469",
+   "rating": "4.0",
+   "reviews": "1,046",
+   "title": "LUXE HOME INTERNATIONAL Microfiber Luxe Home Bath Mat Super Soft Non Slip Vegas Mats For Bathroom, Kitchen, Bedroom, And Door (40X60 Cm, Beige) Pack Of 1, Recta",
+   "slot": 7
+  },
+  {
+   "asin": "B0H3H9WG13",
+   "badge": null,
+   "price": "588",
+   "rating": "5.0",
+   "reviews": "4",
+   "title": "TIB Anti Skid Waterproof PVC Rubber Mat for Bathroom, Floor, Swimming Pool, Shower, Entrance & Rainy Areas | Multipurpose Dual Colour Floor Mat,2x3 Feet,Beige &",
+   "slot": 8
   },
   {
    "asin": "B0G449MNQ5",
@@ -190,6 +181,15 @@
    "rating": "4.1",
    "reviews": "38",
    "title": "enera Stella Microfibre Bathmat, Soft & Absorbent High GSM, Non-Slip Latex Backing, Quick Dry, Washable Multipurpose Floormat for Bathroom, Bedroom & Home (Beig",
+   "slot": 9
+  },
+  {
+   "asin": "B0F9WKGFCV",
+   "badge": null,
+   "price": "449",
+   "rating": null,
+   "reviews": null,
+   "title": "SpringVine Cotton Bath Mat | Quick Dry, Anti-Skid, Reversible, Ultra Absorbent, Machine Washable Rug | Soft Non-Slip Door Mat for Bathroom Bedroom and Floor Use",
    "slot": 10
   }
  ],

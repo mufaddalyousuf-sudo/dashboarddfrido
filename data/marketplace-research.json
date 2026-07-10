@@ -36957,6 +36957,2589 @@
    },
    "status": "needs-verification",
    "capturedAt": "2026-07-08"
+  },
+  {
+   "category": "personal-care",
+   "categoryName": "Personal Care",
+   "sku": "Nasal Strip Pro",
+   "searchKeyword": "Nasal Strip",
+   "brandKeyword": "Frido Nasal Strip Pro",
+   "amazon": {
+    "fetchOk": true,
+    "organic": [
+     {
+      "asin": "B0H2Z55CNR",
+      "badge": null,
+      "price": "187",
+      "rating": "4.5",
+      "reviews": "3,803",
+      "title": "GONIRY Magnetic Nose Strips for Breathing | Snoring Stopper for Men | Nasal Strips for Breathing | Nasal Dilators For Breathing | Instant Relief From Snoring | ",
+      "rank": 1
+     },
+     {
+      "asin": "B0GV3F3SF6",
+      "badge": null,
+      "price": "189",
+      "rating": "4.7",
+      "reviews": "12,723",
+      "title": "Magnetic Nose Strips for Breathing | Snoring Stopper for Men | Nasal Strips for Breathing | Nasal Dilators For Breathing | Instant Relief From Snoring | Snore S",
+      "rank": 2
+     },
+     {
+      "asin": "B0GVJX9CC9",
+      "badge": "Amazon's Choice",
+      "price": "199",
+      "rating": "4.0",
+      "reviews": "456",
+      "title": "Magnetic Universal Nasal Strips | Breathing Nasal Strip | Anti Snoring Nose Clip | Skin Safe Sleep Nasal Strips | Nasal Dilators For Breathing | Snore Stopper |",
+      "rank": 3
+     },
+     {
+      "asin": "B0G42J82LW",
+      "badge": "Bestseller",
+      "price": "297",
+      "rating": "3.3",
+      "reviews": "349",
+      "title": "Vn care Magnetic Universal Nasal Strips | Breathing Nasal Strip | Anti Snoring Nose Clip | Skin Safe Sleep Nasal Strips | Nasal Dilators For Breathing | Snore S",
+      "rank": 4
+     },
+     {
+      "asin": "B0GMG51P91",
+      "badge": null,
+      "price": "199",
+      "rating": "3.8",
+      "reviews": "93",
+      "title": "PANCA Magnetic Nose Strips for Breathing & Snoring Support | Nasal Dilator Strips for Men | Reusable Anti Snoring Nose Clip for Better Airflow During Sleep | Ea",
+      "rank": 5
+     },
+     {
+      "asin": "B0F8H4G6CS",
+      "badge": null,
+      "price": "420",
+      "rating": "3.5",
+      "reviews": "66",
+      "title": "ZIBUYU® 50-Count Nose Strips for Breathing Hypoallergenic Nasal Strips for Stuffy Nose, Better Breath & Open Nostrils (55x17mm) Adhesive Nasal Breathing Strips",
+      "rank": 6
+     },
+     {
+      "asin": "B0G2XFH8SC",
+      "badge": null,
+      "price": "499",
+      "rating": "3.5",
+      "reviews": "82",
+      "title": "AWESOME Nasal Strips for Breathing & Snoring Relief, 30 Strips – Strong Hold Nose Strips for Better Airflow, Sleep & Sports Performance – Sweat-Resistant, Skin-",
+      "rank": 7
+     },
+     {
+      "asin": "B0FMQ341QM",
+      "badge": null,
+      "price": "219",
+      "rating": "4.2",
+      "reviews": "6",
+      "title": "Nasal Strips For Breathing Nose Strips Reduces Snoring & Enhances Sleep, Skin-Friendly Breathing Nasal Strip Nose Tape For Sleeping, Anti Snoring Device - 20 St",
+      "rank": 8
+     },
+     {
+      "asin": "B0FDQZ3ZFN",
+      "badge": null,
+      "price": "599",
+      "rating": "3.4",
+      "reviews": "271",
+      "title": "BREATH FIX Large Size Nasal Strips 2.0 - CDSCO-Licensed Medical Device in India, Black Colour, Nasal Strip for Breathing, Enhances Sleep & Athletic Performance,",
+      "rank": 9
+     },
+     {
+      "asin": "B0FXXXWBXV",
+      "badge": null,
+      "price": "220",
+      "rating": "3.4",
+      "reviews": "195",
+      "title": "ANTIL'S Magnetic Anti-Snoring Nose Clip (Pack of 15) | Nasal Strips for Breathing Relief | Sleep Aid Snore Stopper Device for Men & Women | Reusable Nose Dilato",
+      "rank": 10
+     }
+    ],
+    "sponsored": [
+     {
+      "asin": "B0FSRF7W8T",
+      "badge": "Bestseller",
+      "price": "287",
+      "rating": "4.1",
+      "reviews": "1,169",
+      "title": "Vn care Magnetic Nose Strips for Breathing | Snoring Stopper for Men | Nasal Strips for Breathing | Nasal Dilators For Breathing | Instant Relief From Snoring |",
+      "slot": 1
+     },
+     {
+      "asin": "B0G2XFH8SC",
+      "badge": null,
+      "price": "499",
+      "rating": "3.5",
+      "reviews": "82",
+      "title": "AWESOME Nasal Strips for Breathing & Snoring Relief, 30 Strips – Strong Hold Nose Strips for Better Airflow, Sleep & Sports Performance – Sweat-Resistant, Skin-",
+      "slot": 2
+     },
+     {
+      "asin": "B0F8JD3QBN",
+      "badge": null,
+      "price": "889",
+      "rating": "3.7",
+      "reviews": "328",
+      "title": "PureFlow Pro Nasal Strips – CDSCO-Licensed Medical Device in India, Hypoallergenic Adhesive & Ultra-Strong Spring for Instant Relief – Reduces Snoring & Enhance",
+      "slot": 3
+     },
+     {
+      "asin": "B0FDFH74F4",
+      "badge": null,
+      "price": "899",
+      "rating": "4.0",
+      "reviews": "194",
+      "title": "PureFlow Pro Transparent Nasal Strips – CDSCO-Licensed Medical Device in India, Hypoallergenic Adhesive & Ultra-Strong Spring for Instant Relief – Reduces Snori",
+      "slot": 4
+     },
+     {
+      "asin": "B0H5CJT8P1",
+      "badge": "Bestseller",
+      "price": "199",
+      "rating": "4.3",
+      "reviews": "6,950",
+      "title": "Clear Passage Magnetic Universal Nasal Strips | Breathing Nasal Strip | Anti Snoring Nose Clip | Skin Safe Sleep Nasal Strips | Nasal Dilators For Breathing | S",
+      "slot": 5
+     },
+     {
+      "asin": "B0FSLL2S3Y",
+      "badge": null,
+      "price": "399",
+      "rating": "3.5",
+      "reviews": "58",
+      "title": "Atovio BreatheX Nasal Strips – Extra Strength Snoring & Congestion Relief | Sweat-Proof, Hypoallergenic Adhesive | Opens Nasal Passages for Better Breathing, Sl",
+      "slot": 6
+     },
+     {
+      "asin": "B0FY68TTBT",
+      "badge": null,
+      "price": "499",
+      "rating": "3.5",
+      "reviews": "9",
+      "title": "AWESOME Magnetic Nasal Dilators for Better Breathing & Nighttime Comfort – Reusable Anti Snoring Nose Clip with Adjustable Magnetic Fit, Lightweight Skin-Safe A",
+      "slot": 7
+     },
+     {
+      "asin": "B0DWLKW32T",
+      "badge": null,
+      "price": "647",
+      "rating": "3.3",
+      "reviews": "58",
+      "title": "Oxyclip Magnetic Nasal Strips –India’s #1 Magnetic Nasal Strip | Extra Strength Snoring Relief | Boost Oxygen, Improve Sleep & Facial Structure | Skin-Safe, Reu",
+      "slot": 8
+     },
+     {
+      "asin": "B0CNPC22HV",
+      "badge": null,
+      "price": "299",
+      "rating": "3.8",
+      "reviews": "682",
+      "title": "Herbal Nasal spray for ALLERGY | Soothes Symptoms of Cold | Relieves Sneezing, Itchy Nose, Runny Nose, Itchy Eyes, and Nasal Congestion | Clinically Backed| Ayu",
+      "slot": 9
+     },
+     {
+      "asin": "B0H2BZ86NP",
+      "badge": null,
+      "price": "749",
+      "rating": "5.0",
+      "reviews": "2",
+      "title": "PureFlow Junior Nose Strips for Kids – Gentle Nasal Strips for Easier Breathing During Play, School & Sleep | Hypoallergenic, Sweat-Resistant, Drug-Free Nasal B",
+      "slot": 10
+     }
+    ],
+    "fridoOrganicRank": null,
+    "fridoSponsoredSlot": null,
+    "fridoBadge": null,
+    "fridoAsin": null,
+    "fridoUrl": null,
+    "resultCount": 59
+   },
+   "flipkart": {
+    "fetchOk": true,
+    "results": [
+     {
+      "pos": 1,
+      "title": "Amazheal Magnetic Nose Clip for snoring Relief Anti-snoring Device",
+      "brand": "Amazheal",
+      "price": null,
+      "rating": 4.6,
+      "ratings": 98,
+      "isFrido": false
+     },
+     {
+      "pos": 2,
+      "title": "JINCHA Magnetic Nasal Strips for Breathing | Anti Snoring Nose Clip Skin Safe pake of 1 Anti-snoring Device",
+      "brand": "JINCHA",
+      "price": null,
+      "rating": 3.7,
+      "ratings": 16,
+      "isFrido": false
+     },
+     {
+      "pos": 3,
+      "title": "Klova Nasal Strips for Breathing | Snoring Nose Clip | Pure Flow Magnetic Nose Strips Anti-snoring Device",
+      "brand": "Klova",
+      "price": null,
+      "rating": 3.5,
+      "ratings": 8,
+      "isFrido": false
+     },
+     {
+      "pos": 4,
+      "title": "RR LOOK Magnetic Nasal Strips for Breathing | Anti Snoring Nose Clip Skin Safe Anti-snoring Device",
+      "brand": "RR LOOK",
+      "price": null,
+      "rating": 0,
+      "ratings": 0,
+      "isFrido": false
+     },
+     {
+      "pos": 5,
+      "title": "JINCHA Nasal Strips- Extra Strength Snoring & Congestion Relief- CDSCO Anti-snoring Anti-snoring Device",
+      "brand": "JINCHA",
+      "price": null,
+      "rating": 0,
+      "ratings": 0,
+      "isFrido": false
+     },
+     {
+      "pos": 6,
+      "title": "LAXIT Magnetic Nasal Strips Anti Snoring Nose Clip Device for Breathing Sleep Aid Anti-snoring Device",
+      "brand": "LAXIT",
+      "price": null,
+      "rating": 0,
+      "ratings": 0,
+      "isFrido": false
+     },
+     {
+      "pos": 7,
+      "title": "Ramya beauty care Non-Magnetic Nasal Strips 30PCS Hypoallergenic Adhesive &Ultra-Strong Spring Anti-snoring Device",
+      "brand": "Ramya beauty care",
+      "price": null,
+      "rating": 3.5,
+      "ratings": 43,
+      "isFrido": false
+     },
+     {
+      "pos": 8,
+      "title": "JINCHA Magnetic Clip for Airway Support Anti-snoring Device Anti-snoring Device",
+      "brand": "JINCHA",
+      "price": null,
+      "rating": 0,
+      "ratings": 0,
+      "isFrido": false
+     },
+     {
+      "pos": 9,
+      "title": "Ramya beauty care Congestion AIR Flow Pro Nasal Strips Hypoallergenic Adhesive 30 Pice Anti-snoring Device",
+      "brand": "Ramya beauty care",
+      "price": null,
+      "rating": 0,
+      "ratings": 0,
+      "isFrido": false
+     }
+    ],
+    "fridoRank": null,
+    "fridoUrl": "https://www.flipkart.com/search?q=Nasal%20Strip"
+   },
+   "status": "needs-verification",
+   "capturedAt": "2026-07-08"
+  },
+  {
+   "category": "personal-care",
+   "categoryName": "Personal Care",
+   "sku": "Nasal Strips",
+   "searchKeyword": "Nasal Strips",
+   "brandKeyword": "Frido Nasal Strips",
+   "amazon": {
+    "fetchOk": true,
+    "organic": [
+     {
+      "asin": "B0H2Z55CNR",
+      "badge": null,
+      "price": "187",
+      "rating": "4.5",
+      "reviews": "3,803",
+      "title": "GONIRY Magnetic Nose Strips for Breathing | Snoring Stopper for Men | Nasal Strips for Breathing | Nasal Dilators For Breathing | Instant Relief From Snoring | ",
+      "rank": 1
+     },
+     {
+      "asin": "B0GV3F3SF6",
+      "badge": null,
+      "price": "189",
+      "rating": "4.7",
+      "reviews": "12,723",
+      "title": "Magnetic Nose Strips for Breathing | Snoring Stopper for Men | Nasal Strips for Breathing | Nasal Dilators For Breathing | Instant Relief From Snoring | Snore S",
+      "rank": 2
+     },
+     {
+      "asin": "B0GMG51P91",
+      "badge": null,
+      "price": "199",
+      "rating": "3.8",
+      "reviews": "93",
+      "title": "PANCA Magnetic Nose Strips for Breathing & Snoring Support | Nasal Dilator Strips for Men | Reusable Anti Snoring Nose Clip for Better Airflow During Sleep | Ea",
+      "rank": 3
+     },
+     {
+      "asin": "B0GVJX9CC9",
+      "badge": "Amazon's Choice",
+      "price": "199",
+      "rating": "4.0",
+      "reviews": "456",
+      "title": "Magnetic Universal Nasal Strips | Breathing Nasal Strip | Anti Snoring Nose Clip | Skin Safe Sleep Nasal Strips | Nasal Dilators For Breathing | Snore Stopper |",
+      "rank": 4
+     },
+     {
+      "asin": "B0H71RN7M9",
+      "badge": null,
+      "price": "499",
+      "rating": "5.0",
+      "reviews": "11",
+      "title": "Breathing Nasal Strips - ( 30 Count ) Breathe Right Nasal Strips for Snoring, Extra Strength Beige Nasal Pureflow Breathing Strips to Improve Sleep, Instant Nas",
+      "rank": 5
+     },
+     {
+      "asin": "B0G42J82LW",
+      "badge": "Bestseller",
+      "price": "297",
+      "rating": "3.3",
+      "reviews": "349",
+      "title": "Vn care Magnetic Universal Nasal Strips | Breathing Nasal Strip | Anti Snoring Nose Clip | Skin Safe Sleep Nasal Strips | Nasal Dilators For Breathing | Snore S",
+      "rank": 6
+     },
+     {
+      "asin": "B0G2XFH8SC",
+      "badge": null,
+      "price": "499",
+      "rating": "3.5",
+      "reviews": "82",
+      "title": "AWESOME Nasal Strips for Breathing & Snoring Relief, 30 Strips – Strong Hold Nose Strips for Better Airflow, Sleep & Sports Performance – Sweat-Resistant, Skin-",
+      "rank": 7
+     },
+     {
+      "asin": "B0GSRS1LD4",
+      "badge": null,
+      "price": "499",
+      "rating": "1.0",
+      "reviews": "2",
+      "title": "Breathing Nasal Strips - ( 30 Count ) Breathe Right Nasal Strips for Snoring, Extra Strength Beige Nasal Pureflow Breathing Strips to Improve Sleep, Instant Nas",
+      "rank": 8
+     },
+     {
+      "asin": "B0F8H4G6CS",
+      "badge": null,
+      "price": "420",
+      "rating": "3.5",
+      "reviews": "66",
+      "title": "ZIBUYU® 50-Count Nose Strips for Breathing Hypoallergenic Nasal Strips for Stuffy Nose, Better Breath & Open Nostrils (55x17mm) Adhesive Nasal Breathing Strips",
+      "rank": 9
+     },
+     {
+      "asin": "B0FDQZ3ZFN",
+      "badge": null,
+      "price": "599",
+      "rating": "3.4",
+      "reviews": "271",
+      "title": "BREATH FIX Large Size Nasal Strips 2.0 - CDSCO-Licensed Medical Device in India, Black Colour, Nasal Strip for Breathing, Enhances Sleep & Athletic Performance,",
+      "rank": 10
+     }
+    ],
+    "sponsored": [
+     {
+      "asin": "B0FSRF7W8T",
+      "badge": "Bestseller",
+      "price": "287",
+      "rating": "4.1",
+      "reviews": "1,169",
+      "title": "Vn care Magnetic Nose Strips for Breathing | Snoring Stopper for Men | Nasal Strips for Breathing | Nasal Dilators For Breathing | Instant Relief From Snoring |",
+      "slot": 1
+     },
+     {
+      "asin": "B0G2XFH8SC",
+      "badge": null,
+      "price": "499",
+      "rating": "3.5",
+      "reviews": "82",
+      "title": "AWESOME Nasal Strips for Breathing & Snoring Relief, 30 Strips – Strong Hold Nose Strips for Better Airflow, Sleep & Sports Performance – Sweat-Resistant, Skin-",
+      "slot": 2
+     },
+     {
+      "asin": "B0F8JD3QBN",
+      "badge": null,
+      "price": "889",
+      "rating": "3.7",
+      "reviews": "328",
+      "title": "PureFlow Pro Nasal Strips – CDSCO-Licensed Medical Device in India, Hypoallergenic Adhesive & Ultra-Strong Spring for Instant Relief – Reduces Snoring & Enhance",
+      "slot": 3
+     },
+     {
+      "asin": "B0FDFH74F4",
+      "badge": null,
+      "price": "899",
+      "rating": "4.0",
+      "reviews": "194",
+      "title": "PureFlow Pro Transparent Nasal Strips – CDSCO-Licensed Medical Device in India, Hypoallergenic Adhesive & Ultra-Strong Spring for Instant Relief – Reduces Snori",
+      "slot": 4
+     },
+     {
+      "asin": "B0H5CJT8P1",
+      "badge": "Bestseller",
+      "price": "199",
+      "rating": "4.3",
+      "reviews": "6,950",
+      "title": "Clear Passage Magnetic Universal Nasal Strips | Breathing Nasal Strip | Anti Snoring Nose Clip | Skin Safe Sleep Nasal Strips | Nasal Dilators For Breathing | S",
+      "slot": 5
+     },
+     {
+      "asin": "B0FSLL2S3Y",
+      "badge": null,
+      "price": "399",
+      "rating": "3.5",
+      "reviews": "58",
+      "title": "Atovio BreatheX Nasal Strips – Extra Strength Snoring & Congestion Relief | Sweat-Proof, Hypoallergenic Adhesive | Opens Nasal Passages for Better Breathing, Sl",
+      "slot": 6
+     },
+     {
+      "asin": "B0FY68TTBT",
+      "badge": null,
+      "price": "499",
+      "rating": "3.5",
+      "reviews": "9",
+      "title": "AWESOME Magnetic Nasal Dilators for Better Breathing & Nighttime Comfort – Reusable Anti Snoring Nose Clip with Adjustable Magnetic Fit, Lightweight Skin-Safe A",
+      "slot": 7
+     },
+     {
+      "asin": "B0DWLKW32T",
+      "badge": null,
+      "price": "647",
+      "rating": "3.3",
+      "reviews": "58",
+      "title": "Oxyclip Magnetic Nasal Strips –India’s #1 Magnetic Nasal Strip | Extra Strength Snoring Relief | Boost Oxygen, Improve Sleep & Facial Structure | Skin-Safe, Reu",
+      "slot": 8
+     },
+     {
+      "asin": "B0H2BZ86NP",
+      "badge": null,
+      "price": "749",
+      "rating": "5.0",
+      "reviews": "2",
+      "title": "PureFlow Junior Nose Strips for Kids – Gentle Nasal Strips for Easier Breathing During Play, School & Sleep | Hypoallergenic, Sweat-Resistant, Drug-Free Nasal B",
+      "slot": 9
+     },
+     {
+      "asin": "B0H71KWCCK",
+      "badge": null,
+      "price": "180",
+      "rating": null,
+      "reviews": null,
+      "title": "ANTIL'S Magnetic Nasal Dilator Kit | Reusable Anti Snoring Nose Clip with 20 Adhesive Magnetic Patches & Storage Case | Improves Airflow for Sleep, Running, Gym",
+      "slot": 10
+     }
+    ],
+    "fridoOrganicRank": null,
+    "fridoSponsoredSlot": null,
+    "fridoBadge": null,
+    "fridoAsin": null,
+    "fridoUrl": null,
+    "resultCount": 59
+   },
+   "flipkart": {
+    "fetchOk": true,
+    "results": [
+     {
+      "pos": 1,
+      "title": "Amazheal Magnetic Nose Clip for snoring Relief Anti-snoring Device",
+      "brand": "Amazheal",
+      "price": null,
+      "rating": 4.6,
+      "ratings": 98,
+      "isFrido": false
+     },
+     {
+      "pos": 2,
+      "title": "LAXIT Magnetic Nasal Strips Anti Snoring Nose Clip Device for Breathing Sleep Aid Anti-snoring Device",
+      "brand": "LAXIT",
+      "price": null,
+      "rating": 0,
+      "ratings": 0,
+      "isFrido": false
+     },
+     {
+      "pos": 3,
+      "title": "Klova Nasal Strips for Breathing | Snoring Nose Clip | Pure Flow Magnetic Nose Strips Anti-snoring Device",
+      "brand": "Klova",
+      "price": null,
+      "rating": 3.5,
+      "ratings": 8,
+      "isFrido": false
+     },
+     {
+      "pos": 4,
+      "title": "RR LOOK Magnetic Nasal Strips for Breathing | Anti Snoring Nose Clip Skin Safe Anti-snoring Device",
+      "brand": "RR LOOK",
+      "price": null,
+      "rating": 0,
+      "ratings": 0,
+      "isFrido": false
+     },
+     {
+      "pos": 5,
+      "title": "JINCHA Magnetic Nasal Strips for Breathing | Anti Snoring Nose Clip Skin Safe pake of 1 Anti-snoring Device",
+      "brand": "JINCHA",
+      "price": null,
+      "rating": 3.7,
+      "ratings": 16,
+      "isFrido": false
+     },
+     {
+      "pos": 6,
+      "title": "LAXIT Anti Snoring Nasal Strips for Better Breathing Sleep Aid Pack of 15 Anti-snoring Device",
+      "brand": "LAXIT",
+      "price": null,
+      "rating": 0,
+      "ratings": 0,
+      "isFrido": false
+     },
+     {
+      "pos": 7,
+      "title": "JINCHA Nasal Strips- Extra Strength Snoring & Congestion Relief- CDSCO Anti-snoring Anti-snoring Device",
+      "brand": "JINCHA",
+      "price": null,
+      "rating": 0,
+      "ratings": 0,
+      "isFrido": false
+     },
+     {
+      "pos": 8,
+      "title": "VOIISH Anti Snore Nasal Strips Size Good for Small-Standard Adult Nose Anti-snoring Device",
+      "brand": "VOIISH",
+      "price": null,
+      "rating": 3.6,
+      "ratings": 48,
+      "isFrido": false
+     },
+     {
+      "pos": 9,
+      "title": "JINCHA Magnetic Clip for Airway Support Anti-snoring Device Anti-snoring Device",
+      "brand": "JINCHA",
+      "price": null,
+      "rating": 0,
+      "ratings": 0,
+      "isFrido": false
+     },
+     {
+      "pos": 10,
+      "title": "Ramya beauty care Non-Magnetic Nasal Strips 30PCS Hypoallergenic Adhesive &Ultra-Strong Spring Anti-snoring Device",
+      "brand": "Ramya beauty care",
+      "price": null,
+      "rating": 3.5,
+      "ratings": 43,
+      "isFrido": false
+     }
+    ],
+    "fridoRank": null,
+    "fridoUrl": "https://www.flipkart.com/search?q=Nasal%20Strips"
+   },
+   "status": "needs-verification",
+   "capturedAt": "2026-07-08"
+  },
+  {
+   "category": "personal-care",
+   "categoryName": "Personal Care",
+   "sku": "Cold & Hot Therapy Cap",
+   "searchKeyword": "Cold and Hot Therapy Cap",
+   "brandKeyword": "Frido Cold & Hot Therapy Cap",
+   "amazon": {
+    "fetchOk": true,
+    "organic": [
+     {
+      "asin": "B0GTWD8K54",
+      "badge": "Amazon's Choice",
+      "price": "1,599",
+      "rating": "4.5",
+      "reviews": "80",
+      "title": "Frido Hot & Cold Therapy Cap | 360° Full Head Coverage | Reusable Cooling & Warming Cap with Gentle Compression | Blue",
+      "rank": 1,
+      "isFridoBrand": true
+     },
+     {
+      "asin": "B0GWDSJ629",
+      "badge": null,
+      "price": "249",
+      "rating": "4.2",
+      "reviews": "127",
+      "title": "Migraine Relief Cap for Headache & Migraine Pain | Hot & Cold Therapy Cooling Gel Mask | Sinus, Stress, Tension Relief Head Wrap | Reusable Ice Pack Cap for Men",
+      "rank": 2
+     },
+     {
+      "asin": "B0GTW57FN7",
+      "badge": null,
+      "price": "1,599",
+      "rating": "4.5",
+      "reviews": "80",
+      "title": "Frido Hot & Cold Therapy Cap | 360° Full Head Coverage | Reusable Cooling & Warming Cap with Gentle Compression | Purple",
+      "rank": 3
+     },
+     {
+      "asin": "B0DDX3RJ2R",
+      "badge": null,
+      "price": "218",
+      "rating": "4.1",
+      "reviews": "928",
+      "title": "my novel things Migraine Relief Cap, Headache Relief Cap 2PCS with Gel Cooling Eye Mask, Hot Cold Therapy Ice Cap, Cold Compress for Head Sinus, Puffy Eyes, Ten",
+      "rank": 4
+     },
+     {
+      "asin": "B0DG6N7NKF",
+      "badge": null,
+      "price": "569",
+      "rating": "3.7",
+      "reviews": "529",
+      "title": "Blase Migraine Relief Cap – Hot & Cold Therapy Headache Cap for Migraine, Sinus & Tension Relief | Thermax Gel Ice Head Wrap for Instant Comfort & Relaxation – ",
+      "rank": 5
+     },
+     {
+      "asin": "B0C13SCY3P",
+      "badge": null,
+      "price": "295",
+      "rating": "3.5",
+      "reviews": "3,830",
+      "title": "ACWOO Migraine Relief Cap, Reusable Cold Hot Therapy Migraine and Headache Relief Cap, Single-Sided Gel Ice Hot Head Wrap for Chronic Migraine, Tension Headache",
+      "rank": 6
+     },
+     {
+      "asin": "B0H48WL87Y",
+      "badge": null,
+      "price": "279",
+      "rating": "5.0",
+      "reviews": "9",
+      "title": "Migraine Relief Cap for Headache & Migraine Pain | Hot & Cold Therapy Cooling Gel Mask | Sinus, Stress, Tension Relief Head Wrap | Reusable Ice Pack Cap for Men",
+      "rank": 7
+     },
+     {
+      "asin": "B0G3X8WNSS",
+      "badge": null,
+      "price": "249",
+      "rating": "5.0",
+      "reviews": "2",
+      "title": "Migraine Relief Cap – Ice Head Wrap for Headache, Tension & Puffy Eyes | Reusable Hot & Cold Gel Therapy Hat | 360° Coverage, One Size Fits All (Black)",
+      "rank": 8
+     },
+     {
+      "asin": "B0H58P2SBQ",
+      "badge": null,
+      "price": "359",
+      "rating": "4.6",
+      "reviews": "185",
+      "title": "ELEGAR Migraine Relief Cap – Hot & Cold Therapy Headache Cap for Migraine, Sinus & Tension Relief | Thermax Gel Ice Head Wrap for Instant Comfort & Relaxation –",
+      "rank": 9
+     },
+     {
+      "asin": "B0D3RWPX7B",
+      "badge": null,
+      "price": "240",
+      "rating": "4.5",
+      "reviews": "33",
+      "title": "Migraine Relief Cap, Soothing Headache Relief Cap, Sinus Relief Migraine Mask, Cooling Gel Hat, Face Cold Compress Head Wrap for Tension, Stress & Hangover",
+      "rank": 10
+     }
+    ],
+    "sponsored": [
+     {
+      "asin": "B0GYT6WXHP",
+      "badge": null,
+      "price": "449",
+      "rating": null,
+      "reviews": null,
+      "title": "Migraine Relief Cap – Hot & Cold Therapy Headache Cap for Migraine, Sinus & Tension Relief | Thermax Gel Ice Head Wrap for Instant Comfort & Relaxation – Reusab",
+      "slot": 1
+     },
+     {
+      "asin": "B0H3P1V6X5",
+      "badge": null,
+      "price": "495",
+      "rating": null,
+      "reviews": null,
+      "title": "Blase Migraine Relief Cap – Hot & Cold Therapy Headache Cap for Migraine, Sinus & Tension Relief | Thermax Gel Ice Head Wrap for Instant Comfort & Relaxation – ",
+      "slot": 2
+     },
+     {
+      "asin": "B0H71C9C35",
+      "badge": null,
+      "price": "499",
+      "rating": null,
+      "reviews": null,
+      "title": "Migraine Relief Cap – Hot & Cold Therapy Headache Cap for Migraine, Sinus & Tension Relief | Thermax Gel Ice Head Wrap for Instant Comfort & Relaxation – Reusab",
+      "slot": 3
+     },
+     {
+      "asin": "B0DN5VPTGX",
+      "badge": null,
+      "price": "279",
+      "rating": "3.3",
+      "reviews": "17",
+      "title": "Migraine Relief Cap for Hot & Cold Therapy, Tension Headache Relief, Unisex",
+      "slot": 4
+     },
+     {
+      "asin": "B0GTW1S48V",
+      "badge": null,
+      "price": "1,599",
+      "rating": "4.5",
+      "reviews": "80",
+      "title": "Frido Hot & Cold Therapy Cap | 360° Full Head Coverage | Reusable Cooling & Warming Cap with Gentle Compression | Pink",
+      "slot": 5,
+      "isFridoBrand": true
+     },
+     {
+      "asin": "B0H5CJVL3Z",
+      "badge": null,
+      "price": "999",
+      "rating": "5.0",
+      "reviews": "1",
+      "title": "Cult Migraine Relief Cap – Hot & Cold Gel Therapy Head Wrap for Migraines, Headaches, Sinus Pressure & Stress Relief",
+      "slot": 6
+     },
+     {
+      "asin": "B0DJGF7788",
+      "badge": null,
+      "price": "714",
+      "rating": "4.0",
+      "reviews": "135",
+      "title": "Herb Tantra Migraine Go Relief Cap | Soothing Headache Hat Ice Pack Mask | Face Cold Compress Cooling Gel Head Wrap | Products for Tension, Stress & Hangover",
+      "slot": 7
+     },
+     {
+      "asin": "B0FRFWYRWB",
+      "badge": null,
+      "price": "399",
+      "rating": "3.9",
+      "reviews": "84",
+      "title": "Cult Reusable Hot & Cold Gel Pack with Eye Mask for Puffiness, Headache, Migraine, Eye Strain, Injuries, Muscle Recovery & Everyday Pain Relief – Pack of 3",
+      "slot": 8
+     },
+     {
+      "asin": "B0F798PQ84",
+      "badge": null,
+      "price": "75,000",
+      "rating": null,
+      "reviews": null,
+      "title": "Breg Polar Care Wave Cold Therapy Device | Ice & Compression for Surgical Recovery, Swelling Reduction, Orthopedic Pain Relief | Ideal for Facility & Home Use (",
+      "slot": 9
+     },
+     {
+      "asin": "B0DG6N7NKF",
+      "badge": null,
+      "price": "569",
+      "rating": "3.7",
+      "reviews": "529",
+      "title": "Blase Migraine Relief Cap – Hot & Cold Therapy Headache Cap for Migraine, Sinus & Tension Relief | Thermax Gel Ice Head Wrap for Instant Comfort & Relaxation – ",
+      "slot": 10
+     }
+    ],
+    "fridoOrganicRank": 1,
+    "fridoSponsoredSlot": 5,
+    "fridoBadge": "Amazon's Choice",
+    "fridoAsin": "B0GTWD8K54",
+    "fridoUrl": "https://www.amazon.in/dp/B0GTWD8K54",
+    "resultCount": 59
+   },
+   "flipkart": {
+    "fetchOk": true,
+    "results": [
+     {
+      "pos": 1,
+      "title": "Outer Woods Insulin Cooler Bottle Case with 24 Hours Cooling 6 Units Mini Ice Gel Packs Fits Insulin Pens upto 6 inch Pack",
+      "brand": "Outer Woods",
+      "price": null,
+      "rating": 3.8,
+      "ratings": 50,
+      "isFrido": false
+     },
+     {
+      "pos": 2,
+      "title": "Outer Woods Insulin Cooler Bottle Medium (800ml) with 8 Ice Gel Packs Insulin Cooler for Diabetics Pack",
+      "brand": "Outer Woods",
+      "price": null,
+      "rating": 0,
+      "ratings": null,
+      "isFrido": false
+     },
+     {
+      "pos": 3,
+      "title": "Outer Woods Insulin Cooler Bottle Medium (800ml) with 8 Ice Gel Packs Insulin Cooler For Diabetics Pack",
+      "brand": "Outer Woods",
+      "price": null,
+      "rating": 4,
+      "ratings": 3,
+      "isFrido": false
+     },
+     {
+      "pos": 4,
+      "title": "Outer Woods Insulin Cooler Bottle Medium (800ml) with 8 Ice Gel Packs Insulin Cooler for Diabetics Pack Pack",
+      "brand": "Outer Woods",
+      "price": null,
+      "rating": 0,
+      "ratings": null,
+      "isFrido": false
+     },
+     {
+      "pos": 5,
+      "title": "Outer Woods Insulin Cooler Bottle Case - Large - 24 Hours Cooling With 10 Mini Ice Gel Packs and Bottle Cover Pack",
+      "brand": "Outer Woods",
+      "price": null,
+      "rating": 4.1,
+      "ratings": 24,
+      "isFrido": false
+     },
+     {
+      "pos": 6,
+      "title": "CELEORIS Migraine Relief Cap – Hot & Cold Therapy Supporter",
+      "brand": "CELEORIS",
+      "price": null,
+      "rating": 0,
+      "ratings": 0,
+      "isFrido": false
+     },
+     {
+      "pos": 7,
+      "title": "KIYANSHENTERPRISE Migraine Relief Cap Head Support",
+      "brand": "KIYANSHENTERPRISE",
+      "price": null,
+      "rating": 3.9,
+      "ratings": 121,
+      "isFrido": false
+     },
+     {
+      "pos": 8,
+      "title": "Fluent Hot Water Bag Ice bag for Pain Relief Cold Ice Pack Bag Injuries Cold therapy Hot And Ice Bag 1 L Hot Water Bag",
+      "brand": "Fluent",
+      "price": null,
+      "rating": 4.2,
+      "ratings": 98,
+      "isFrido": false
+     },
+     {
+      "pos": 9,
+      "title": "Herb Tantra Migraine Go Hot and Cold Gel Headace Cap Gel",
+      "brand": "Herb Tantra",
+      "price": null,
+      "rating": 4,
+      "ratings": 59,
+      "isFrido": false
+     },
+     {
+      "pos": 10,
+      "title": "AIGOSTAR Hot & Cold Therapy Headache Cap for Migraine, Sinus & Tension Relief Head Support",
+      "brand": "AIGOSTAR",
+      "price": null,
+      "rating": 3.9,
+      "ratings": 200,
+      "isFrido": false
+     },
+     {
+      "pos": 11,
+      "title": "Snopple Hot Water Bottle Cozy Plush Cover for Period Cramps & Muscle Relaxation Therapy Plaster & Patch",
+      "brand": "Snopple",
+      "price": null,
+      "rating": 4.6,
+      "ratings": 9,
+      "isFrido": false
+     },
+     {
+      "pos": 12,
+      "title": "Outer Woods Insulin Cooler Bottle Case - Medium - 24 Hours Cooling With 8 Mini Ice Gel Packs and Bottle Cover Pack",
+      "brand": "Outer Woods",
+      "price": null,
+      "rating": 4.1,
+      "ratings": 48,
+      "isFrido": false
+     },
+     {
+      "pos": 13,
+      "title": "MY Dr. Knee Cap with Hot&Cold Gel Pack combo|Gym,Workout| NonSlip,SweatFree | One Peice Knee Support",
+      "brand": "MY Dr.",
+      "price": null,
+      "rating": 4,
+      "ratings": 3,
+      "isFrido": false
+     },
+     {
+      "pos": 14,
+      "title": "ORIFAB Hot & Cold Therapy Ice Bag Head Support",
+      "brand": "ORIFAB",
+      "price": null,
+      "rating": 0,
+      "ratings": 0,
+      "isFrido": false
+     }
+    ],
+    "fridoRank": null,
+    "fridoUrl": "https://www.flipkart.com/search?q=Cold%20and%20Hot%20Therapy%20Cap"
+   },
+   "status": "listed",
+   "capturedAt": "2026-07-08"
+  },
+  {
+   "category": "personal-care",
+   "categoryName": "Personal Care",
+   "sku": "Electric Heating Pad",
+   "searchKeyword": "Electric Heating Pad",
+   "brandKeyword": "Frido Electric Heating Pad",
+   "amazon": {
+    "fetchOk": true,
+    "organic": [
+     {
+      "asin": "B0D9QQXR58",
+      "badge": "Amazon's Choice",
+      "price": "783",
+      "rating": "4.0",
+      "reviews": "1,155",
+      "title": "1MG Tata Electric Heating Belt | Heating Pad For Back, Shoulder, Knee, Ankle, Period Pain Relief | 4 Layer Insulation For Safe Usage | 3 Heat Settings | Auto Sh",
+      "rank": 1
+     },
+     {
+      "asin": "B0CB3PZCDN",
+      "badge": null,
+      "price": "598",
+      "rating": "4.0",
+      "reviews": "1,306",
+      "title": "Infi Orthopaedic Electric Heating Pad for Back Pain + Period Cramps Relief | LARGE SIZE | 3 Level Temperature Controller | Pain Relief Heating Belt with Tempera",
+      "rank": 2
+     },
+     {
+      "asin": "B09HMRGV5S",
+      "badge": null,
+      "price": "1,086",
+      "rating": "4.1",
+      "reviews": "4,634",
+      "title": "Flamingo Orthopaedic Electric Heating Pad - XL SIZE | Pain Relief Heating Belt with Temperature Controller for Lower Back, Knee, Shoulder, Cramps, and Neck | Ba",
+      "rank": 3
+     },
+     {
+      "asin": "B0CVS59BXG",
+      "badge": null,
+      "price": "899",
+      "rating": "4.1",
+      "reviews": "2,345",
+      "title": "MEDTECH HP11 Orthopaedic Electric Heating Pad For Back Pain + Period Cramps Relief|Large Size|With Temperature Controller For Lower Back,Knee,Shoulder,Cramps,An",
+      "rank": 4
+     },
+     {
+      "asin": "B0CN3D3243",
+      "badge": "Bestseller",
+      "price": "349",
+      "rating": "4.1",
+      "reviews": "1,770",
+      "title": "Careforce Electric Hot Water Bag for Pain Relief Heating Pad for Periods Cramps, Muscle Aches Hand Warmer for Shoulder, Back, Neck and Full Body Relief Heat Pac",
+      "rank": 5
+     },
+     {
+      "asin": "B0CNY17TTZ",
+      "badge": null,
+      "price": "220",
+      "rating": "4.0",
+      "reviews": "570",
+      "title": "Antil's Soft Velvet Electric Rechargeable hot Water Heating Bag/Hot Bottle Pouch Pad with Auto Cut for Pain Relief and Body Warming (Multi-Color)",
+      "rank": 6
+     },
+     {
+      "asin": "B0FQTM23MM",
+      "badge": null,
+      "price": "731",
+      "rating": "4.4",
+      "reviews": "618",
+      "title": "Heating Pad for Back Pain Relief, Heating Pads for Period Cramps with 9 Heat Settings & 4 Timers Auto-off, Machine Washable, Dry & Moist Heat, Soft Electric Hea",
+      "rank": 7
+     },
+     {
+      "asin": "B09HMP3R79",
+      "badge": null,
+      "price": "1,052",
+      "rating": "4.0",
+      "reviews": "2,427",
+      "title": "Flamingo Orthopaedic Electric Heating Pad | Pain Relief Heating Belt with Temperature Controller for Lower Back, Knee, Shoulder, Cramps, and Neck | Back Pain Re",
+      "rank": 8
+     },
+     {
+      "asin": "B0D1GL6J1X",
+      "badge": null,
+      "price": "1,099",
+      "rating": "4.1",
+      "reviews": "586",
+      "title": "Dr.Ortho Orthopaedic Electric Heating Belt with 3 Levels of Temperature Control,Lower Back Heat Therapy Waist Wrap,Pain Relief of Abdominal,Stomach,Lumbar,Muscl",
+      "rank": 9
+     },
+     {
+      "asin": "B0FP22HBDP",
+      "badge": null,
+      "price": "699",
+      "rating": "4.3",
+      "reviews": "130",
+      "title": "Premium Orthopaedic BLACK OLIVE® Electric Heating Belt for Back Pain + Period Cramps Relief | LARGE SIZE | Pain Relief Heating Belt with Temperature Controller ",
+      "rank": 10
+     }
+    ],
+    "sponsored": [
+     {
+      "asin": "B0D9QQXR58",
+      "badge": "Amazon's Choice",
+      "price": "783",
+      "rating": "4.0",
+      "reviews": "1,155",
+      "title": "1MG Tata Electric Heating Belt | Heating Pad For Back, Shoulder, Knee, Ankle, Period Pain Relief | 4 Layer Insulation For Safe Usage | 3 Heat Settings | Auto Sh",
+      "slot": 1
+     },
+     {
+      "asin": "B0DRVVB2BN",
+      "badge": null,
+      "price": "799",
+      "rating": "4.1",
+      "reviews": "2,345",
+      "title": "MEDTECH Orthopaedic Electric Heating Pad | Heat Belt with Temperature Controller | Pain Relief Heating Belt for Lower Back, Knee, Shoulder, Cramps, & Neck | Hea",
+      "slot": 2
+     },
+     {
+      "asin": "B0F6C5RMSK",
+      "badge": null,
+      "price": "1,884",
+      "rating": "4.0",
+      "reviews": "2,427",
+      "title": "Flamingo Plus Orthopaedic Electric Heating Pad - JUMBO SIZE for Back Pain Relief | Heat Therapy Pad for Muscle Pain, Neck, Shoulder & Period Cramps | Temperatur",
+      "slot": 3
+     },
+     {
+      "asin": "B0CZK16SYF",
+      "badge": null,
+      "price": "898",
+      "rating": "4.0",
+      "reviews": "549",
+      "title": "Heatronics Electric Heating Pad Regular | Heating Pad for Back Pain & Period Cramps | 3 Heat Levels | ThermoLock™ Thermostat | TheraFlex™ 6-Layer Safety | Deep ",
+      "slot": 4
+     },
+     {
+      "asin": "B0CKRXR836",
+      "badge": null,
+      "price": "220",
+      "rating": "4.1",
+      "reviews": "1,287",
+      "title": "ANTIL'S heating bag, hot water bags for pain relief, heating bag electric, Heating Pad-Heat Pouch Hot Water Bottle Bag, Electric Hot Water Bag For Pain Relief T",
+      "slot": 5
+     },
+     {
+      "asin": "B08DL9F634",
+      "badge": null,
+      "price": "585",
+      "rating": "3.9",
+      "reviews": "4,319",
+      "title": "ADDMAX Electric Heating Pad for Pain Relief | Orthopaedic Heating Belt for Back, Lumbar, Stomach & Period Cramps | Heat Therapy Waist Belt with 3 Temperature Se",
+      "slot": 6
+     },
+     {
+      "asin": "B0CZK44ZDP",
+      "badge": null,
+      "price": "1,309",
+      "rating": "3.9",
+      "reviews": "412",
+      "title": "Heatronics Electric Heating Pad XL | Large Heating Pad for Back & Period Pain Relief | 3 Heat Levels | ThermoLock™ Control | TheraFlex™ 6-Layer Build | ISO 1348",
+      "slot": 7
+     },
+     {
+      "asin": "B0F9YJQFL1",
+      "badge": null,
+      "price": "599",
+      "rating": "3.8",
+      "reviews": "77",
+      "title": "MEDTECH® Orthopaedic Electric Heating Pad for Pain Relief | Heat Pad Electric for Pain Relief suitable for Lower Back, Knee, Shoulder, Period Cramps, Neck and B",
+      "slot": 8
+     },
+     {
+      "asin": "B0D1GL6J1X",
+      "badge": null,
+      "price": "1,099",
+      "rating": "4.1",
+      "reviews": "586",
+      "title": "Dr.Ortho Orthopaedic Electric Heating Belt with 3 Levels of Temperature Control,Lower Back Heat Therapy Waist Wrap,Pain Relief of Abdominal,Stomach,Lumbar,Muscl",
+      "slot": 9
+     },
+     {
+      "asin": "B0FXR9C3KQ",
+      "badge": null,
+      "price": "1,240",
+      "rating": "4.0",
+      "reviews": "22",
+      "title": "Quills premium Electric Heating Pad for Pain Relief (40cm x 25cm) soft velvet Heat Pad for Back, Neck, Shoulder, Knee & Cramps – Adjustable Temperature Heat bel",
+      "slot": 10
+     }
+    ],
+    "fridoOrganicRank": null,
+    "fridoSponsoredSlot": null,
+    "fridoBadge": null,
+    "fridoAsin": null,
+    "fridoUrl": null,
+    "resultCount": 60
+   },
+   "flipkart": {
+    "fetchOk": false,
+    "results": [],
+    "fridoRank": null
+   },
+   "status": "needs-verification",
+   "capturedAt": "2026-07-08"
+  },
+  {
+   "category": "personal-care",
+   "categoryName": "Personal Care",
+   "sku": "Sleep Eye Mask",
+   "searchKeyword": "Sleep Eye Mask",
+   "brandKeyword": "Frido Sleep Eye Mask",
+   "amazon": {
+    "fetchOk": true,
+    "organic": [
+     {
+      "asin": "B0H1H47Z6N",
+      "badge": null,
+      "price": "105",
+      "rating": "3.6",
+      "reviews": "7",
+      "title": "Premium Eye Mask Combo (Pack of 2) - 1 Grey & 1 Black Sleeping Masks - Ultra-Soft & Light-Blocking Travel Sleep Masks with Adjustable Elastic Strap for Men & Wo",
+      "rank": 1
+     },
+     {
+      "asin": "B0F3G5TSFM",
+      "badge": "Amazon's Choice",
+      "price": "67",
+      "rating": "4.8",
+      "reviews": "18",
+      "title": "Satin Sleep Eye Mask with Cooling Gel for Men & Women, Black | Cooling Gel, Night Deep Sleep, Dark Circles, Puffy Eyes, Dry Eyes",
+      "rank": 2
+     },
+     {
+      "asin": "B0CVMSSSMM",
+      "badge": null,
+      "price": "501",
+      "rating": "4.4",
+      "reviews": "1,782",
+      "title": "INSIME 3D Memory foam Sleeping Mask For Men Women Sleep Mask Blind Fold Eye Cover Pad For Travel | Night eye band eyemask patch Complete Blackout Sleeping Eye M",
+      "rank": 3
+     },
+     {
+      "asin": "B0FNN7N2YN",
+      "badge": null,
+      "price": "299",
+      "rating": "4.2",
+      "reviews": "3,131",
+      "title": "Boldfit Eye Mask for Sleeping with Adjustable Strap Super Soft Sleep Masks Blind Fold for Comfortable Sleep Travelling Eye Pad for Girls Blind Folds for Sleepin",
+      "rank": 4
+     },
+     {
+      "asin": "B0H3DW3ZL5",
+      "badge": null,
+      "price": "268",
+      "rating": "5.0",
+      "reviews": "10",
+      "title": "PACK OF 2 Eye Mask for Sleeping with Adjustable Strap Super Soft Sleep Masks Blind Fold for Comfortable Sleep Travelling Eye Pad for Girls Blind Folds for Sleep",
+      "rank": 5
+     },
+     {
+      "asin": "B0FTZBVB4F",
+      "badge": null,
+      "price": "299",
+      "rating": "4.3",
+      "reviews": "84",
+      "title": "Lyrovo 3D Contoured Eye Mask for Sleeping Men & Women | Soft Adjustable Sleep Mask for Eyes | Comfortable Eye Cover for Sleep, Travel & Meditation | Black Eye S",
+      "rank": 6
+     },
+     {
+      "asin": "B0BQM8KWB2",
+      "badge": "Bestseller",
+      "price": "199",
+      "rating": "4.1",
+      "reviews": "6,191",
+      "title": "Boldfit Eye Mask for Sleeping with Adjustable Strap Super Soft Sleeping Mask Blind Fold for Comfortable Sleep Travelling Sleep Mask Pad for Girls Sleeping Eye M",
+      "rank": 7
+     },
+     {
+      "asin": "B0CXPW8QYB",
+      "badge": null,
+      "price": "219",
+      "rating": "4.2",
+      "reviews": "2,645",
+      "title": "TOWINO® Eye Mask for Sleeping Super Soft & Smooth And Fully Adjustable To All Size Heads - Super Soft & Comfortable for Women and Men, Blindfold for Travelling,",
+      "rank": 8
+     },
+     {
+      "asin": "B0GQY4P78Q",
+      "badge": null,
+      "price": "199",
+      "rating": "4.3",
+      "reviews": "31",
+      "title": "Velvet Eye Sleep Mask for Men & Women Soft Light Blocking Sleeping Eye Mask with Adjustable Strap Travel Relaxation Eye Cover for Home Flight Deep Rest (Dusty P",
+      "rank": 9
+     },
+     {
+      "asin": "B0F9FP2SZF",
+      "badge": null,
+      "price": "179",
+      "rating": "4.5",
+      "reviews": "270",
+      "title": "Eye Mask for Sleeping with Adjustable Strap Super Soft Sleeping Mask Blind Fold for Comfortable Sleep Travelling Sleep Mask Pad for men and women R",
+      "rank": 10
+     }
+    ],
+    "sponsored": [
+     {
+      "asin": "B0GPQVX5PV",
+      "badge": null,
+      "price": "999",
+      "rating": "4.4",
+      "reviews": "24",
+      "title": "Frido 3D Eye Mask for Men & Women | 100% Blackout Sleep Mask | Zero Pressure Memory Foam for Eyelids & Lashes | Adjustable Straps for Travel & Meditation | Soft",
+      "slot": 1,
+      "isFridoBrand": true
+     },
+     {
+      "asin": "B01LN7K4ZO",
+      "badge": null,
+      "price": "302",
+      "rating": "4.1",
+      "reviews": "10,189",
+      "title": "Friends of Meditation® 100% Mulberry Silk Sleep Mask – Pure Silk Eye Mask for Sleeping, Super Smooth Blackout Blindfold, Soft Adjustable Strap, Luxury Eye Cover",
+      "slot": 2
+     },
+     {
+      "asin": "B0GCG4HWQC",
+      "badge": null,
+      "price": "199",
+      "rating": "4.2",
+      "reviews": "9",
+      "title": "VFK by Xtrim Eye Mask for Sleeping with Adjustable Strap, Premium Sleeping Mask for Men, Women and Kids, Blind Fold for Comfortable Sleep, Travelling Sleep Mask",
+      "slot": 3
+     },
+     {
+      "asin": "B0BTT7NVJH",
+      "badge": null,
+      "price": "346",
+      "rating": "4.4",
+      "reviews": "978",
+      "title": "WiseLife Luxury Silk Velvet Sleep Eye Mask For Men & Women | Ultra Smooth & Adjustable Blind Fold Suitable For All Family Members | Sleeping, Travelling, Relaxa",
+      "slot": 4
+     },
+     {
+      "asin": "B07M99B2GV",
+      "badge": null,
+      "price": "115",
+      "rating": "4.0",
+      "reviews": "2,009",
+      "title": "Adjustable 100% Super Soft Cotton Eye Mask Sleep Mask Super Smooth Sleep Mask and Blind Fold (Black)",
+      "slot": 5
+     },
+     {
+      "asin": "B0H3QCWJM5",
+      "badge": null,
+      "price": "119",
+      "rating": "5.0",
+      "reviews": "7",
+      "title": "Cooling Eye Mask Reusable Mask for Puffy Eyes,Eye Ice Pack Eye Mask with Soft Plush Backing for Dark Circles, Stress Relief, Sleeping",
+      "slot": 6
+     },
+     {
+      "asin": "B0FPBMKJFZ",
+      "badge": null,
+      "price": "699",
+      "rating": "3.4",
+      "reviews": "11",
+      "title": "PureFlow Deep Sleep Mask for Men & Women | Ultra-Soft Velvet Eye Mask | 100% Blackout | Adjustable No-Pressure Fit | Perfect for Travel, Meditation & Sleeping |",
+      "slot": 7
+     },
+     {
+      "asin": "B0C4TJQCHW",
+      "badge": null,
+      "price": "355",
+      "rating": "4.1",
+      "reviews": "37",
+      "title": "JERN Pack of 10 Eye Shades Mask for Proper Sleep",
+      "slot": 8
+     },
+     {
+      "asin": "B0FP9K5P2L",
+      "badge": null,
+      "price": "1,299",
+      "rating": "4.7",
+      "reviews": "8",
+      "title": "Grey Dawn Weighted Eye Mask | Cooling Sleep Mask with Gentle Pressure for Deeper Rest | Soft Cotton Percale | Stress & Migraine Relief | Travel-Friendly",
+      "slot": 9
+     },
+     {
+      "asin": "B0GWX2BW7F",
+      "badge": null,
+      "price": "1,790",
+      "rating": null,
+      "reviews": null,
+      "title": "Silk Eye Pillow for Sleep & Relaxation – 100% Mulberry Silk (22 Momme), Flaxseed & Lavender Filled, Weighted Eye Mask for Stress Relief, Meditation, Migraine & ",
+      "slot": 10
+     }
+    ],
+    "fridoOrganicRank": null,
+    "fridoSponsoredSlot": 1,
+    "fridoBadge": null,
+    "fridoAsin": "B0GPQVX5PV",
+    "fridoUrl": "https://www.amazon.in/dp/B0GPQVX5PV",
+    "resultCount": 59
+   },
+   "flipkart": {
+    "fetchOk": false,
+    "results": [],
+    "fridoRank": null
+   },
+   "status": "needs-verification",
+   "capturedAt": "2026-07-08"
+  },
+  {
+   "category": "personal-care",
+   "categoryName": "Personal Care",
+   "sku": "3D Eye Mask",
+   "searchKeyword": "3D Eye Mask",
+   "brandKeyword": "Frido 3D Eye Mask",
+   "amazon": {
+    "fetchOk": true,
+    "organic": [
+     {
+      "asin": "B0FTZBVB4F",
+      "badge": "Amazon's Choice",
+      "price": "299",
+      "rating": "4.3",
+      "reviews": "84",
+      "title": "Lyrovo 3D Contoured Eye Mask for Sleeping Men & Women | Soft Adjustable Sleep Mask for Eyes | Comfortable Eye Cover for Sleep, Travel & Meditation | Black Eye S",
+      "rank": 1
+     },
+     {
+      "asin": "B0CVMSSSMM",
+      "badge": null,
+      "price": "501",
+      "rating": "4.4",
+      "reviews": "1,782",
+      "title": "INSIME 3D Memory foam Sleeping Mask For Men Women Sleep Mask Blind Fold Eye Cover Pad For Travel | Night eye band eyemask patch Complete Blackout Sleeping Eye M",
+      "rank": 2
+     },
+     {
+      "asin": "B0GSWDHQNW",
+      "badge": null,
+      "price": "229",
+      "rating": "5.0",
+      "reviews": "1",
+      "title": "3D Contoured Sleep Eye Mask for Men & Women | Concave Cup Design, Total Light Blocking Blindfold | Soft Comfortable Eye Shade for Travel, Yoga & Nap",
+      "rank": 3
+     },
+     {
+      "asin": "B0GZBLR9VD",
+      "badge": null,
+      "price": "299",
+      "rating": "4.8",
+      "reviews": "9",
+      "title": "VeeDee 3D Sleep Mask for Men & Women, 100% Light Blocking Opaque Eye Mask for Sleeping, High-Density Soft Sponge Night Blindfold, Comfortable Pressure-Free Cont",
+      "rank": 4
+     },
+     {
+      "asin": "B0GY8YQ2TF",
+      "badge": null,
+      "price": "129",
+      "rating": null,
+      "reviews": null,
+      "title": "Sleeping Eye Mask for Side Sleeper, Light Blocking Eye Mask for Sleeping, 3D Contoured Adjustable Strap for Travel Nap",
+      "rank": 5
+     },
+     {
+      "asin": "B0FLQGJQ6H",
+      "badge": null,
+      "price": "499",
+      "rating": "4.9",
+      "reviews": "27",
+      "title": "Tobfit Blackout Sleep Mask for Women Men Zero Eye Pressure Eye Mask, Lycra Fabric 3D Ergonomic Design Eye Movement and Eyelash Friendly, Ultra Comfortable Blind",
+      "rank": 6
+     },
+     {
+      "asin": "B0GXYZYQPL",
+      "badge": null,
+      "price": "119",
+      "rating": null,
+      "reviews": null,
+      "title": "3D Contoured Sleep Eye Mask – Ultra Soft Light Blocking Eye Cover for Deep Sleep, Travel & Relaxation – Comfortable Pressure-Free Eye Mask with Adjustable Strap",
+      "rank": 7
+     },
+     {
+      "asin": "B0BS9JX4TF",
+      "badge": null,
+      "price": "179",
+      "rating": "3.5",
+      "reviews": "41",
+      "title": "JUDEE Memory Foam Sleep Eye Mask, 3D Contoured 100% Blackout Eye Mask With Adjustable Strap, Soft And Comfortable Night Blindfold For Women Men, Eye Mask For Sl",
+      "rank": 8
+     },
+     {
+      "asin": "B0GL2BHM37",
+      "badge": null,
+      "price": "699",
+      "rating": "3.0",
+      "reviews": "2",
+      "title": "CETAPLAST 3D Contoured Sleep Mask – 100% Blackout Eye Shade for Deep Sleep & Travel – Zero Pressure Design, Eyelash Friendly & Makeup Safe (Adjustable Strap) Bl",
+      "rank": 9
+     },
+     {
+      "asin": "B00X3F9B4K",
+      "badge": null,
+      "price": "175",
+      "rating": "3.5",
+      "reviews": "699",
+      "title": "Inditradition 3D Solid Contoured Eye Mask For Travel, Sleeping, Meditation, Yoga (Pack of 1, Black)",
+      "rank": 10
+     }
+    ],
+    "sponsored": [
+     {
+      "asin": "B01LN7K4ZO",
+      "badge": null,
+      "price": "302",
+      "rating": "4.1",
+      "reviews": "10,189",
+      "title": "Friends of Meditation® 100% Mulberry Silk Sleep Mask – Pure Silk Eye Mask for Sleeping, Super Smooth Blackout Blindfold, Soft Adjustable Strap, Luxury Eye Cover",
+      "slot": 1
+     },
+     {
+      "asin": "B0GPQVX5PV",
+      "badge": null,
+      "price": "999",
+      "rating": "4.4",
+      "reviews": "24",
+      "title": "Frido 3D Eye Mask for Men & Women | 100% Blackout Sleep Mask | Zero Pressure Memory Foam for Eyelids & Lashes | Adjustable Straps for Travel & Meditation | Soft",
+      "slot": 2,
+      "isFridoBrand": true
+     },
+     {
+      "asin": "B0GWTY5BY7",
+      "badge": null,
+      "price": "399",
+      "rating": null,
+      "reviews": null,
+      "title": "Eye Mask for Sleeping Travel Accessories， Unique Gadgets, 3D Design for Comfort, Black Sleep Mask, 3-Pack Set for Travel and Home Use",
+      "slot": 3
+     },
+     {
+      "asin": "B0GZGSZS94",
+      "badge": null,
+      "price": "299",
+      "rating": "4.8",
+      "reviews": "9",
+      "title": "VeeDee 3D Sleep Mask for Men & Women, 100% Light Blocking Opaque Eye Mask for Sleeping, High-Density Soft Sponge Night Blindfold, Comfortable Pressure-Free Cont",
+      "slot": 4
+     },
+     {
+      "asin": "B0GJ51CBJK",
+      "badge": null,
+      "price": "299",
+      "rating": "3.8",
+      "reviews": "15",
+      "title": "VIZARO Luxury Sleep Eye Mask for Side Sleeper Men Women, Zero Eye Pressure 3D Sleeping Mask, Light Blocking Patented Design Night Blindfold, Soft Eye Shade Cove",
+      "slot": 5
+     },
+     {
+      "asin": "B0BTT81487",
+      "badge": null,
+      "price": "346",
+      "rating": "4.4",
+      "reviews": "978",
+      "title": "WiseLife Luxury Silk Velvet Sleep Eye Mask For Men & Women | Ultra Smooth & Adjustable Blind Fold Suitable For All Family Members | Sleeping, Travelling, Relaxa",
+      "slot": 6
+     },
+     {
+      "asin": "B0BCW9NS77",
+      "badge": null,
+      "price": "246",
+      "rating": "4.4",
+      "reviews": "104",
+      "title": "WiseLife Natural Silk Eye Mask, Ultra Smooth Adjustable Sleep Mask and Blind Fold | For Sleeping, Travelling, Relaxation, Blind Fold | Eye-cover Light blocker (",
+      "slot": 7
+     },
+     {
+      "asin": "B0GWVMPQ4J",
+      "badge": null,
+      "price": "999",
+      "rating": "3.0",
+      "reviews": "2",
+      "title": "AWESOME Eye Mask for Sleeping – 3D Contoured Sleeping Eye Mask with Zero Eye Pressure & 100% Blackout Coverage – Adjustable Sleep Mask for Side Sleepers, Travel",
+      "slot": 8
+     },
+     {
+      "asin": "B0D3TTLXBP",
+      "badge": null,
+      "price": "1,099",
+      "rating": "4.4",
+      "reviews": "25",
+      "title": "amiciCare Fabric 3D Eye Sleeping Mask: Ergonomic Blindfold For Superior Comfort With Zero Eye Pressure And Total Darkness,Black",
+      "slot": 9
+     },
+     {
+      "asin": "B0C4TJQCHW",
+      "badge": null,
+      "price": "355",
+      "rating": "4.1",
+      "reviews": "37",
+      "title": "JERN Pack of 10 Eye Shades Mask for Proper Sleep",
+      "slot": 10
+     }
+    ],
+    "fridoOrganicRank": null,
+    "fridoSponsoredSlot": 2,
+    "fridoBadge": null,
+    "fridoAsin": "B0GPQVX5PV",
+    "fridoUrl": "https://www.amazon.in/dp/B0GPQVX5PV",
+    "resultCount": 59
+   },
+   "flipkart": {
+    "fetchOk": true,
+    "results": [
+     {
+      "pos": 1,
+      "title": "SWISS BEAUTY Hydra Eye Serum Patch for Nourishment | Anti-wrinkle | Anti-aging | Reduce Dark Circles - (AloeVera, Pack of 60pcs)",
+      "brand": "SWISS BEAUTY",
+      "price": null,
+      "rating": 4.2,
+      "ratings": 10392,
+      "isFrido": false
+     },
+     {
+      "pos": 2,
+      "title": "SWISS BEAUTY Hydra Eye Serum Patch for Nourishment | Anti-wrinkle | Anti-aging | Reduce Dark Circles - (Golden, Pack of 60pcs)",
+      "brand": "SWISS BEAUTY",
+      "price": null,
+      "rating": 4.2,
+      "ratings": 6092,
+      "isFrido": false
+     },
+     {
+      "pos": 3,
+      "title": "SWISS BEAUTY Hydra Eye Patch",
+      "brand": "SWISS BEAUTY",
+      "price": null,
+      "rating": 4.2,
+      "ratings": 591,
+      "isFrido": false
+     },
+     {
+      "pos": 4,
+      "title": "takshenterpise Black Head Band mask NEW BLACK EYE MASK 3D Sleep Mask Eye Mask",
+      "brand": "takshenterpise",
+      "price": null,
+      "rating": 0,
+      "ratings": 0,
+      "isFrido": false
+     },
+     {
+      "pos": 5,
+      "title": "Frido 3D Eye Mask for Unisex | 100% Blackout Sleep Mask with Adjustable Straps",
+      "brand": "Frido",
+      "price": null,
+      "rating": 4.8,
+      "ratings": 11,
+      "isFrido": true
+     },
+     {
+      "pos": 6,
+      "title": "AJICA Adjustable 3D Lazy Eye Patches for Kids & Adults, for Left or Right Eyes",
+      "brand": "AJICA",
+      "price": null,
+      "rating": 4.2,
+      "ratings": 113,
+      "isFrido": false
+     },
+     {
+      "pos": 7,
+      "title": "craftx 3D Sleeping Eyemask With Earplugs, 100% Darkness, Eye Mask ( Olive )",
+      "brand": "craftx",
+      "price": null,
+      "rating": 3.9,
+      "ratings": 316,
+      "isFrido": false
+     },
+     {
+      "pos": 8,
+      "title": "vartin Velvet Eye Mask for Yoga Meditation Kids/Adults, Soft and Orthoptic",
+      "brand": "vartin",
+      "price": null,
+      "rating": 4.2,
+      "ratings": 124,
+      "isFrido": false
+     },
+     {
+      "pos": 9,
+      "title": "craftx 3D Sleeping Eyemask With Earplugs, 100% Darkness, Eye Mask ( Olive , PACK OF 2 )",
+      "brand": "craftx",
+      "price": null,
+      "rating": 3.9,
+      "ratings": 118,
+      "isFrido": false
+     },
+     {
+      "pos": 10,
+      "title": "VISTRAN Sleep Eye Mask for Side Sleeper Men Women Zero Eye Pressure 3D Sleeping Mask",
+      "brand": "VISTRAN",
+      "price": null,
+      "rating": 3.7,
+      "ratings": 13,
+      "isFrido": false
+     },
+     {
+      "pos": 11,
+      "title": "Clefairy Red Light Therapy Massager, Red Light Therapy Eyelift Device with Microcurrent",
+      "brand": "Clefairy",
+      "price": null,
+      "rating": 0,
+      "ratings": 0,
+      "isFrido": false
+     },
+     {
+      "pos": 12,
+      "title": "derkit Cooling Therapy Eye Mask and Ice & Heat Relief Eye Mask",
+      "brand": "derkit",
+      "price": null,
+      "rating": 0,
+      "ratings": 0,
+      "isFrido": false
+     }
+    ],
+    "fridoRank": 5,
+    "fridoUrl": "https://www.flipkart.com/search?q=3D%20Eye%20Mask"
+   },
+   "status": "listed",
+   "capturedAt": "2026-07-08"
+  },
+  {
+   "category": "personal-care",
+   "categoryName": "Personal Care",
+   "sku": "Anti-Slip Bath Mat",
+   "searchKeyword": "Anti Slip Bath Mat",
+   "brandKeyword": "Frido Anti-Slip Bath Mat",
+   "amazon": {
+    "fetchOk": true,
+    "organic": [
+     {
+      "asin": "B09MVT9JJ6",
+      "badge": "Amazon's Choice",
+      "price": "313",
+      "rating": "4.0",
+      "reviews": "1,108",
+      "title": "VHKD PVC Bathroom mats Anti Slip Bathroom mat Non Slip Bath Anti Skid Doormat Rectangle (Grey | 70 X 35)",
+      "rank": 1
+     },
+     {
+      "asin": "B0CFLDM7N8",
+      "badge": null,
+      "price": "339",
+      "rating": "4.1",
+      "reviews": "3,180",
+      "title": "VERVENIX Pack of 2 Bathroom Mats Anti Slip Quick Dry Soft Water Absorbing | Oval Anti-Skid Non-Slip Rubber Doormat for Home, Kitchen & Washroom | (Blue)",
+      "rank": 2
+     },
+     {
+      "asin": "B0C968RYY1",
+      "badge": "Bestseller",
+      "price": "474",
+      "rating": "4.3",
+      "reviews": "1,523",
+      "title": "Rubber Anti Skid & Multipurpose/Bathroom Mat/Shower Mat/Carpet/Rugs/Rainmat/Swimming Pool Mat|Waterproof Doormat For Indoor/Outdoor Home Office Entrance||(Grey,",
+      "rank": 3
+     },
+     {
+      "asin": "B0FGV7GMTL",
+      "badge": null,
+      "price": "249",
+      "rating": "4.0",
+      "reviews": "29",
+      "title": "Door mat Bathroom mats Anti Slip for Entrance Floor Foot Skid Bathtub Bath Shower Suction Cups (Beige 70x40cm)",
+      "rank": 4
+     },
+     {
+      "asin": "B0CB93VYW9",
+      "badge": null,
+      "price": "579",
+      "rating": "4.0",
+      "reviews": "689",
+      "title": "RichAxis Rectangular Anti Skid Bath Mat with Foot Scrubber for Bath Room Shower Mat with Suction Cups & Drain Holes Silicone Floor Mat for Kids & Adults (70 X 3",
+      "rank": 5
+     },
+     {
+      "asin": "B082P17SP5",
+      "badge": null,
+      "price": "1,297",
+      "rating": "4.4",
+      "reviews": "611",
+      "title": "Eurotex Rectangular Shower Mat Non Slip for Bathroom, Anti Skid Bathtub Mat (Plastic Stripped- Rubber Base, 46cm x 61cm)- Beige",
+      "rank": 6
+     },
+     {
+      "asin": "B0G1Y6J2T8",
+      "badge": null,
+      "price": "779",
+      "rating": "4.1",
+      "reviews": "46",
+      "title": "HOMEZE TPE Anti-Slip Shower Mat – Elevate Your Bathing Experience | Strong Suction Grips & Drain Holes | Anti-Skid Bath Mat for Elderly | Premium Bathtub & Show",
+      "rank": 7
+     },
+     {
+      "asin": "B0CKRJ8424",
+      "badge": null,
+      "price": "179",
+      "rating": "4.0",
+      "reviews": "5,966",
+      "title": "Cortina Pack of 1 Quick Dry Water Absorbing Rectangular Silicon Floor Mat | Anti-Skid & Non-Slip Cushion Doormat for Home, Kitchen, Office, Washroom | 60x40cm (",
+      "rank": 8
+     },
+     {
+      "asin": "B076ZRSLDJ",
+      "badge": null,
+      "price": "319",
+      "rating": "4.0",
+      "reviews": "5,225",
+      "title": "Amazon Brand - Solimo Premium Anti-Slip Microfibre Bathmat - 60cm x 40cm, Light Taupe",
+      "rank": 9
+     },
+     {
+      "asin": "B0F83JH72B",
+      "badge": null,
+      "price": "399",
+      "rating": "4.3",
+      "reviews": "103",
+      "title": "VHKD PVC Bathroom Door Bath mat Anti Slip Skid with Foot Scrubber for Room Shower Suction Cups Drain Holes Silicone Floor mat Rectangle (Pink)",
+      "rank": 10
+     }
+    ],
+    "sponsored": [
+     {
+      "asin": "B09C6DWSLT",
+      "badge": null,
+      "price": "499",
+      "rating": "4.3",
+      "reviews": "5,734",
+      "title": "ishro home Anti Skid & Multipurpose Rectangular Rubihr/Bathroom Mat/Shower Mat/Carpet/Rugs/Rainmat/Swimming Pool Mat||2X3 Feet",
+      "slot": 1
+     },
+     {
+      "asin": "B0C968RYY1",
+      "badge": "Bestseller",
+      "price": "474",
+      "rating": "4.3",
+      "reviews": "1,523",
+      "title": "Rubber Anti Skid & Multipurpose/Bathroom Mat/Shower Mat/Carpet/Rugs/Rainmat/Swimming Pool Mat|Waterproof Doormat For Indoor/Outdoor Home Office Entrance||(Grey,",
+      "slot": 2
+     },
+     {
+      "asin": "B0CBG192DY",
+      "badge": null,
+      "price": "539",
+      "rating": "4.1",
+      "reviews": "309",
+      "title": "JUGTE Anti Slip Bath Mat with with Foot Scrubber Rubber Bathroom Mat for Floor, Non-Slip Shower Mat with Drain Holes, Quick Dry Soft Foot Massage Mat for Bathro",
+      "slot": 3
+     },
+     {
+      "asin": "B082P17SP5",
+      "badge": null,
+      "price": "1,297",
+      "rating": "4.4",
+      "reviews": "611",
+      "title": "Eurotex Rectangular Shower Mat Non Slip for Bathroom, Anti Skid Bathtub Mat (Plastic Stripped- Rubber Base, 46cm x 61cm)- Beige",
+      "slot": 4
+     },
+     {
+      "asin": "B0D17BQG64",
+      "badge": null,
+      "price": "199",
+      "rating": "4.0",
+      "reviews": "1,867",
+      "title": "Yellow Weaves Synthetic Rubber 1 Pc Anti Slip Water Soaking Floor Mat,Water Absorbent Non Slip Bath Mat,Quick Dry Mat for Bathroom,Door Mat for Home,Kitchen,Off",
+      "slot": 5
+     },
+     {
+      "asin": "B076ZRSLDJ",
+      "badge": null,
+      "price": "319",
+      "rating": "4.0",
+      "reviews": "5,225",
+      "title": "Amazon Brand - Solimo Premium Anti-Slip Microfibre Bathmat - 60cm x 40cm, Light Taupe",
+      "slot": 6
+     },
+     {
+      "asin": "B0BR7LLMJ8",
+      "badge": null,
+      "price": "469",
+      "rating": "4.0",
+      "reviews": "1,046",
+      "title": "LUXE HOME INTERNATIONAL Microfiber Luxe Home Bath Mat Super Soft Non Slip Vegas Mats For Bathroom, Kitchen, Bedroom, And Door (40X60 Cm, Beige) Pack Of 1, Recta",
+      "slot": 7
+     },
+     {
+      "asin": "B0H3H9WG13",
+      "badge": null,
+      "price": "588",
+      "rating": "5.0",
+      "reviews": "4",
+      "title": "TIB Anti Skid Waterproof PVC Rubber Mat for Bathroom, Floor, Swimming Pool, Shower, Entrance & Rainy Areas | Multipurpose Dual Colour Floor Mat,2x3 Feet,Beige &",
+      "slot": 8
+     },
+     {
+      "asin": "B0G449MNQ5",
+      "badge": null,
+      "price": "659",
+      "rating": "4.1",
+      "reviews": "38",
+      "title": "enera Stella Microfibre Bathmat, Soft & Absorbent High GSM, Non-Slip Latex Backing, Quick Dry, Washable Multipurpose Floormat for Bathroom, Bedroom & Home (Beig",
+      "slot": 9
+     },
+     {
+      "asin": "B0F9WKGFCV",
+      "badge": null,
+      "price": "449",
+      "rating": null,
+      "reviews": null,
+      "title": "SpringVine Cotton Bath Mat | Quick Dry, Anti-Skid, Reversible, Ultra Absorbent, Machine Washable Rug | Soft Non-Slip Door Mat for Bathroom Bedroom and Floor Use",
+      "slot": 10
+     }
+    ],
+    "fridoOrganicRank": null,
+    "fridoSponsoredSlot": null,
+    "fridoBadge": null,
+    "fridoAsin": null,
+    "fridoUrl": null,
+    "resultCount": 59
+   },
+   "flipkart": {
+    "fetchOk": true,
+    "results": [
+     {
+      "pos": 1,
+      "title": "Sunvibe Rubber Bathroom Mat",
+      "brand": "Sunvibe",
+      "price": null,
+      "rating": 4.2,
+      "ratings": 3137,
+      "isFrido": false
+     },
+     {
+      "pos": 2,
+      "title": "HurryShoppy Rubber Bathroom Mat",
+      "brand": "HurryShoppy",
+      "price": null,
+      "rating": 4.2,
+      "ratings": 1534,
+      "isFrido": false
+     },
+     {
+      "pos": 3,
+      "title": "DestinyHome Rubber Bathroom Mat",
+      "brand": "DestinyHome",
+      "price": null,
+      "rating": 4.3,
+      "ratings": 116,
+      "isFrido": false
+     },
+     {
+      "pos": 4,
+      "title": "Helu International PVC (Polyvinyl Chloride) Bathroom Mat",
+      "brand": "Helu International",
+      "price": null,
+      "rating": 0,
+      "ratings": 0,
+      "isFrido": false
+     },
+     {
+      "pos": 5,
+      "title": "AAYOMAY Rubber Bathroom Mat",
+      "brand": "AAYOMAY",
+      "price": null,
+      "rating": 4.7,
+      "ratings": 3,
+      "isFrido": false
+     },
+     {
+      "pos": 6,
+      "title": "MODERN FAB Microfiber Bathroom Mat",
+      "brand": "MODERN FAB",
+      "price": null,
+      "rating": 4,
+      "ratings": 434,
+      "isFrido": false
+     },
+     {
+      "pos": 7,
+      "title": "Shoppingzone Rubber Bathroom Mat",
+      "brand": "Shoppingzone",
+      "price": null,
+      "rating": 4.2,
+      "ratings": 833,
+      "isFrido": false
+     },
+     {
+      "pos": 8,
+      "title": "Waterproof Rubber Bathroom Mat",
+      "brand": "Waterproof",
+      "price": null,
+      "rating": 4.1,
+      "ratings": 5163,
+      "isFrido": false
+     },
+     {
+      "pos": 9,
+      "title": "DALUCI Rubber Bathroom Mat",
+      "brand": "DALUCI",
+      "price": null,
+      "rating": 4.1,
+      "ratings": 4828,
+      "isFrido": false
+     },
+     {
+      "pos": 10,
+      "title": "GreenLife PVC (Polyvinyl Chloride) Bathroom Mat",
+      "brand": "GreenLife",
+      "price": null,
+      "rating": 3.9,
+      "ratings": 158,
+      "isFrido": false
+     },
+     {
+      "pos": 11,
+      "title": "JIDHA Polyester Bathroom Mat",
+      "brand": "JIDHA",
+      "price": null,
+      "rating": 0,
+      "ratings": 0,
+      "isFrido": false
+     }
+    ],
+    "fridoRank": null,
+    "fridoUrl": "https://www.flipkart.com/search?q=Anti%20Slip%20Bath%20Mat"
+   },
+   "status": "needs-verification",
+   "capturedAt": "2026-07-08"
+  },
+  {
+   "category": "personal-care",
+   "categoryName": "Personal Care",
+   "sku": "Five Finger Neck Massager",
+   "searchKeyword": "Five Finger Neck Massager",
+   "brandKeyword": "Frido Five Finger Neck Massager",
+   "amazon": {
+    "fetchOk": true,
+    "organic": [
+     {
+      "asin": "B0G1HK9DNF",
+      "badge": null,
+      "price": "1,999",
+      "rating": "3.8",
+      "reviews": "258",
+      "title": "Bionic Heated Massager, Wireless Portable Shiatsu Neck and Back Massager, Electric Deep Tissue 4D Kneading Massage, Simulated Human Hand Design for Pain Relief ",
+      "rank": 1
+     },
+     {
+      "asin": "B0G818JC4K",
+      "badge": null,
+      "price": "1,604",
+      "rating": "2.9",
+      "reviews": "3",
+      "title": "Astrohile Shoulder and Neck Massager, Heated Massager, Neck Massager with Fingers, 4D Kneading Massager, Simulates a Real Palm Massager for Comfort, Relax Muscl",
+      "rank": 2
+     },
+     {
+      "asin": "B0GCHWQCG1",
+      "badge": null,
+      "price": "1,999",
+      "rating": "3.7",
+      "reviews": "7",
+      "title": "Concepta Neck Massager for Cervical Pain | Wireless Shiatsu Back & Neck Massager | Wireless Heated Neck Massagers & Shoulder Massager | Portable Body Massager M",
+      "rank": 3
+     },
+     {
+      "asin": "B0GDQG46C2",
+      "badge": null,
+      "price": "1,470",
+      "rating": "3.3",
+      "reviews": "28",
+      "title": "L'UVEŔA Neck and Back Massager for Cervical Pain Relief with Heating, Body Massagers for Aches and Relief, Electric 5D Cervical Massage Machine for Deep Tissue ",
+      "rank": 4
+     },
+     {
+      "asin": "B0GPW1GHXZ",
+      "badge": null,
+      "price": "1,799",
+      "rating": "3.7",
+      "reviews": "30",
+      "title": "Boldfit Electric Cordless Shiatsu Neck Shoulder Massager with Heat for Cervical Pain,2 Bi-Directional Rollers, 3 Speeds, 3600mAh Rechargeable, Hands-Free Back B",
+      "rank": 5
+     },
+     {
+      "asin": "B0GSXF49GX",
+      "badge": null,
+      "price": "249",
+      "rating": "5.0",
+      "reviews": "2",
+      "title": "5th Generation Neck and Shoulder Massager, 6-Wheel Dual Pressure Trigger Point Manual Massager, 360° Rotatable Deep Tissue Roller, Turquoise",
+      "rank": 6
+     },
+     {
+      "asin": "B0GBKNGZP6",
+      "badge": null,
+      "price": "1,999",
+      "rating": "3.0",
+      "reviews": "186",
+      "title": "Massager, Massage Machine For Body Pain, Head Massager For Scalp, Shoulder Massager, Scalp Massager, Heated Massager, Shoulder and Neck Massage, Pain Relief",
+      "rank": 7
+     },
+     {
+      "asin": "B0CFH85HXV",
+      "badge": null,
+      "price": "242",
+      "rating": null,
+      "reviews": null,
+      "title": "Full Body Mini Massager with 8 Modes/19 Levels Electric Rechargeable Portable Pain Relief EMS Acupoint Massage Patch for Shoulder, Neck, Arms, Legs, Neck, Men/W",
+      "rank": 8
+     },
+     {
+      "asin": "B0GW39JGBW",
+      "badge": null,
+      "price": "289",
+      "rating": null,
+      "reviews": null,
+      "title": "Big Meridian Neck Massager with Charger, Pain Relief, Deep Tissue Full Body Massager, 1 Piece",
+      "rank": 9
+     },
+     {
+      "asin": "B0GD1KBTRY",
+      "badge": null,
+      "price": "289",
+      "rating": null,
+      "reviews": null,
+      "title": "Neck Massager Roller with 6 Wheels, Dual Pressure Point Cervical Neck & Spine Massage Tool, Pinpoint Roller for Pain Relief, Muscle Relaxation & Stress Relief",
+      "rank": 10
+     }
+    ],
+    "sponsored": [
+     {
+      "asin": "B0GVDDCBRZ",
+      "badge": null,
+      "price": "1,999",
+      "rating": "4.1",
+      "reviews": "118",
+      "title": "KIYU Bionic Heated Massager, Wireless Portable Shiatsu Neck and Back Massager, Electric Deep Tissue 4D Kneading Massage, Simulated Human Hand Design for Pain Re",
+      "slot": 1
+     },
+     {
+      "asin": "B0G1HK9DNF",
+      "badge": null,
+      "price": "1,999",
+      "rating": "3.8",
+      "reviews": "258",
+      "title": "Bionic Heated Massager, Wireless Portable Shiatsu Neck and Back Massager, Electric Deep Tissue 4D Kneading Massage, Simulated Human Hand Design for Pain Relief ",
+      "slot": 2
+     },
+     {
+      "asin": "B0H159KW2M",
+      "badge": null,
+      "price": "2,499",
+      "rating": "4.6",
+      "reviews": "4,463",
+      "title": "KIMEE Bionic Heated Neck Massager, Wireless Shiatsu Neck & Shoulder Back Massager, Electric 4D Deep Tissue Kneading with Heat, Cordless Portable for Pain Relief",
+      "slot": 3
+     },
+     {
+      "asin": "B0GX71BCRX",
+      "badge": null,
+      "price": "1,599",
+      "rating": "3.0",
+      "reviews": "4",
+      "title": "OLV Rechargeable Neck Pillow Massager with 3 Modes, U-Shape 360° Travel Neck Support | Memory Foam Cervical Pillow for Pain Relief, Vibration Massage for Flight",
+      "slot": 4
+     },
+     {
+      "asin": "B0GKFNXG8X",
+      "badge": null,
+      "price": "1,994",
+      "rating": "4.0",
+      "reviews": "143",
+      "title": "Bionic Heated Massager, Wireless Portable Shiatsu Neck and Back Massager, Electric Deep Tissue 4D Kneading Massage, Simulated Human Hand Design for Pain Relief ",
+      "slot": 5
+     },
+     {
+      "asin": "B0H1MJQSHJ",
+      "badge": null,
+      "price": "1,799",
+      "rating": "3.9",
+      "reviews": "1,924",
+      "title": "Shoulder and Neck Massager, Bionic Heated Massager, Neck Massager with Fingers, Kneading Massage, Simulates a Real Palm Massage for Comfort, Relax Muscle Tensio",
+      "slot": 6
+     },
+     {
+      "asin": "B0GCHWQCG1",
+      "badge": null,
+      "price": "1,999",
+      "rating": "3.7",
+      "reviews": "7",
+      "title": "Concepta Neck Massager for Cervical Pain | Wireless Shiatsu Back & Neck Massager | Wireless Heated Neck Massagers & Shoulder Massager | Portable Body Massager M",
+      "slot": 7
+     },
+     {
+      "asin": "B0GMCLX8RS",
+      "badge": null,
+      "price": "1,449",
+      "rating": "5.0",
+      "reviews": "2",
+      "title": "6D Neck & Back Massager with Heat | Wearable Electric Deep Tissue Massager for Neck, Shoulder, Back, Waist & Legs | 4D Shiatsu Kneading, 6 Massage Heads, 5 Mode",
+      "slot": 8
+     },
+     {
+      "asin": "B01KUJ1VMG",
+      "badge": null,
+      "price": "3,427",
+      "rating": "4.5",
+      "reviews": "29,735",
+      "title": "Beurer Pain Relief Products With Reliable German Technology (Digital TENS EMS EM49), White",
+      "slot": 9
+     },
+     {
+      "asin": "B0D1GL6J1X",
+      "badge": null,
+      "price": "1,099",
+      "rating": "4.1",
+      "reviews": "586",
+      "title": "Dr.Ortho Orthopaedic Electric Heating Belt with 3 Levels of Temperature Control,Lower Back Heat Therapy Waist Wrap,Pain Relief of Abdominal,Stomach,Lumbar,Muscl",
+      "slot": 10
+     }
+    ],
+    "fridoOrganicRank": null,
+    "fridoSponsoredSlot": null,
+    "fridoBadge": null,
+    "fridoAsin": null,
+    "fridoUrl": null,
+    "resultCount": 60
+   },
+   "flipkart": {
+    "fetchOk": true,
+    "results": [
+     {
+      "pos": 1,
+      "title": "Asbah AF1005 Tonic Electric Handheld Full Body Pain Relief for Back, Neck and Foot Massager",
+      "brand": "",
+      "price": null,
+      "rating": 3.9,
+      "ratings": 942,
+      "isFrido": false
+     },
+     {
+      "pos": 2,
+      "title": "iTechPie PINK MASSGER -04 Massager Tool Protable Handheld Five Fingers Claw Steel Ball Relaxation Head Massager For Home Office Travel Massager",
+      "brand": "",
+      "price": null,
+      "rating": 3.6,
+      "ratings": 29,
+      "isFrido": false
+     },
+     {
+      "pos": 3,
+      "title": "Acupunctoreum China Finger With 5 Sujok Rings For Relieving Stress And Tension & Relaxes The Mind And Body Massager",
+      "brand": "",
+      "price": null,
+      "rating": 0,
+      "ratings": 0,
+      "isFrido": false
+     },
+     {
+      "pos": 4,
+      "title": "Esarora Cordless Chargeable Head Massager Scalp Massager 4 Massage Heads_J5S8W3H2 Relax Scalp Stress, Handheld Scalp Massager Tool Helps Hair Growth_5Y7W872 Mas",
+      "brand": "",
+      "price": null,
+      "rating": 3.7,
+      "ratings": 3,
+      "isFrido": false
+     },
+     {
+      "pos": 5,
+      "title": "Pulse X Impact For Pain Relief, Neck and Full Body Gun Massager",
+      "brand": "",
+      "price": null,
+      "rating": 0,
+      "ratings": 0,
+      "isFrido": false
+     },
+     {
+      "pos": 6,
+      "title": "Enem Neck & Shoulder Massager",
+      "brand": "Enem",
+      "price": null,
+      "rating": 3.9,
+      "ratings": 12,
+      "isFrido": false
+     },
+     {
+      "pos": 7,
+      "title": "Ronofic Acupressure 5 Sujok Ring With China Finger For Pain Relief And Stress Relief Massager",
+      "brand": "",
+      "price": null,
+      "rating": 0,
+      "ratings": 0,
+      "isFrido": false
+     },
+     {
+      "pos": 8,
+      "title": "OQPQND Rechargeable Vibration Neck, Shoulder, Leg, Back For Men & Women",
+      "brand": "OQPQND",
+      "price": null,
+      "rating": 0,
+      "ratings": 0,
+      "isFrido": false
+     },
+     {
+      "pos": 9,
+      "title": "Cult Deep Cure Pillow massager, Shiatsu rollers for Neck, Back, Pain Relief, Corded Massager",
+      "brand": "",
+      "price": null,
+      "rating": 4,
+      "ratings": 359,
+      "isFrido": false
+     },
+     {
+      "pos": 10,
+      "title": "ARG HEALTHCARE Back Massage Cushion Car Seat Massager Portable Massage For Back Pain Relief 12 Rubbing Balls for Back, Neck, Calf, Shoulder, Palm, Lower Leg, Th",
+      "brand": "",
+      "price": null,
+      "rating": 4,
+      "ratings": 246,
+      "isFrido": false
+     }
+    ],
+    "fridoRank": null,
+    "fridoUrl": "https://www.flipkart.com/search?q=Five%20Finger%20Neck%20Massager"
+   },
+   "status": "needs-verification",
+   "capturedAt": "2026-07-08"
+  },
+  {
+   "category": "personal-care",
+   "categoryName": "Personal Care",
+   "sku": "Cramp Relief Belt",
+   "searchKeyword": "Cramp Relief Belt",
+   "brandKeyword": "Frido Cramp Relief Belt",
+   "amazon": {
+    "fetchOk": true,
+    "organic": [
+     {
+      "asin": "B0FPR25FS4",
+      "badge": "Amazon's Choice",
+      "price": "499",
+      "rating": "4.3",
+      "reviews": "175",
+      "title": "BLACK OLIVE® Portable Cordless Heating Belt for Menstrual Cramps Relief, Heating Pad for Stomach, 3-Speed Temperature Adjustment and 4-Speed Massage Modes, Back",
+      "rank": 1
+     },
+     {
+      "asin": "B0F32Y7471",
+      "badge": null,
+      "price": "1,491",
+      "rating": "4.4",
+      "reviews": "443",
+      "title": "SELLASTIC Period Cramp Relief Massager | Portable Cordless Menstrual Pain Massage with 3 Heat Modes & 3 Massage Modes | Bigger Front LED Display with Battery & ",
+      "rank": 2
+     },
+     {
+      "asin": "B0FKBNDV1F",
+      "badge": null,
+      "price": "849",
+      "rating": "4.0",
+      "reviews": "22",
+      "title": "MildCares Period Cramp Massager Belt – Cordless Rechargeable Heating Pad with 3 Heat Levels & 4 Massage Modes | Portable Period Pain Relief Massager for Cramps,",
+      "rank": 3
+     },
+     {
+      "asin": "B0DPHW2K1G",
+      "badge": null,
+      "price": "499",
+      "rating": "4.0",
+      "reviews": "278",
+      "title": "Liznoriz Portable Electric Heating Belt for Menstrual Cramps Relief, 3 Speed Digital Temperature Display Warm Compress Heating Pad with Adjustable Waist Strap (",
+      "rank": 4
+     },
+     {
+      "asin": "B0GG6V3L9P",
+      "badge": null,
+      "price": "393",
+      "rating": "4.0",
+      "reviews": "16",
+      "title": "Period Cramp Relief Heating Pad Pain Device With 4 Massage Modes For Menstrual Pain And Belly Or Back Pain Relief, LED Display, Comfortable Belt, Multicolor",
+      "rank": 5
+     },
+     {
+      "asin": "B0BKYVWWKR",
+      "badge": null,
+      "price": "999",
+      "rating": "4.0",
+      "reviews": "144",
+      "title": "Houzaide Period Cramp Relief Massager Belt With Heating Pad & Vibration for Periods & Back Pain Relief– Rechargeable, Wireless – 1 Year Warranty – Ideal Gift fo",
+      "rank": 6
+     },
+     {
+      "asin": "B0FGCSRNSL",
+      "badge": null,
+      "price": "1,497",
+      "rating": "4.0",
+      "reviews": "107",
+      "title": "SELLASTIC Wireless Electric Heating Pad Belt for Back Pain and Period Cramp Relief | Adjustable, Fits Sizes | 3 Heat and 6 Massage Modes | Lower Back, Lumbar, A",
+      "rank": 7
+     },
+     {
+      "asin": "B0F5BFMKQP",
+      "badge": null,
+      "price": "569",
+      "rating": "4.2",
+      "reviews": "429",
+      "title": "Zorb Period Cramp Relief Device for Women – Rechargeable Heating Pad with Vibration | Period Pain Relief Massager | Menstrual Cramp Comfort & Cramps Relief Mach",
+      "rank": 8
+     },
+     {
+      "asin": "B0DKTRRFF3",
+      "badge": null,
+      "price": "1,336",
+      "rating": "4.0",
+      "reviews": "400",
+      "title": "UltraCare PRO EVA Period Heating Pad with Massager for Women | Fast Relief from Menstrual Cramps & Period Pain | 9 Heat & Massage Modes | Soft & Comfortable | P",
+      "rank": 9
+     },
+     {
+      "asin": "B0FQQHC4S9",
+      "badge": null,
+      "price": "499",
+      "rating": "4.8",
+      "reviews": "21",
+      "title": "Desi BAE ease pro period cramp relief massager with bigger battery | 3 Heat Modes & 4 Massage Modes for Period Pain Relief | Quick Heating Menstrual Period Pain",
+      "rank": 10
+     }
+    ],
+    "sponsored": [
+     {
+      "asin": "B0DG8WS1MV",
+      "badge": null,
+      "price": "299",
+      "rating": "4.2",
+      "reviews": "162",
+      "title": "Cramp Relief Roll-On by Nua | Quick Relief | All Natural | For Abdomen, Back and Leg Pain | Absorbs Easily | Stain-free | Safe on Skin",
+      "slot": 1
+     },
+     {
+      "asin": "B0FKBNDV1F",
+      "badge": null,
+      "price": "849",
+      "rating": "4.0",
+      "reviews": "22",
+      "title": "MildCares Period Cramp Massager Belt – Cordless Rechargeable Heating Pad with 3 Heat Levels & 4 Massage Modes | Portable Period Pain Relief Massager for Cramps,",
+      "slot": 2
+     },
+     {
+      "asin": "B0FWRJH1KV",
+      "badge": null,
+      "price": "499",
+      "rating": "4.0",
+      "reviews": "310",
+      "title": "ANTIL'S Portable Cordless Heating Pad for Menstrual Pain Relief | Adjustable 3 Heat & 4 Massage Modes | Rechargeable Belly and Back Warmer for Women | Period Cr",
+      "slot": 3
+     },
+     {
+      "asin": "B0F32Y7471",
+      "badge": null,
+      "price": "1,491",
+      "rating": "4.4",
+      "reviews": "443",
+      "title": "SELLASTIC Period Cramp Relief Massager | Portable Cordless Menstrual Pain Massage with 3 Heat Modes & 3 Massage Modes | Bigger Front LED Display with Battery & ",
+      "slot": 4
+     },
+     {
+      "asin": "B09XMJBK8V",
+      "badge": null,
+      "price": "387",
+      "rating": "4.0",
+      "reviews": "2,435",
+      "title": "ENLIWISH Portable Cordless Heating Pad for Menstrual Cramps Relief, for Stomach, 3-Speed Temperature Adjustment and 4-Speed Massage Modes, Back and Belly Heatin",
+      "slot": 5
+     },
+     {
+      "asin": "B0H26MLF91",
+      "badge": null,
+      "price": "439",
+      "rating": "5.0",
+      "reviews": "2",
+      "title": "GSEL Portable Cordless Heating Pad for Menstrual Pain Relief | Adjustable 3 Heat & 4 Massage Modes | Rechargeable Belly and Back Warmer for Women | Period Cramp",
+      "slot": 6
+     },
+     {
+      "asin": "B0FM8CQFQ1",
+      "badge": null,
+      "price": "299",
+      "rating": "5.0",
+      "reviews": "15",
+      "title": "THE MAGICIAN Cramp Relief Gel -50gm| Starting 15 Seconds| 100% Plant Actives| 100% Safe| Zero Irritation| No Burns| For Cramps, Back, Legs and All Muscular Pain",
+      "slot": 7
+     },
+     {
+      "asin": "B0CR5SVMPN",
+      "badge": null,
+      "price": "411",
+      "rating": "3.6",
+      "reviews": "147",
+      "title": "R3SET Herbal Tablets| Instant Relief for Abdominal, Period, menstrual cramps, Stomach, Knee & Joint Pain | 100% Vegetarian & Natural | Powered by natural herbs ",
+      "slot": 8
+     },
+     {
+      "asin": "B0D1GL6J1X",
+      "badge": null,
+      "price": "1,099",
+      "rating": "4.1",
+      "reviews": "586",
+      "title": "Dr.Ortho Orthopaedic Electric Heating Belt with 3 Levels of Temperature Control,Lower Back Heat Therapy Waist Wrap,Pain Relief of Abdominal,Stomach,Lumbar,Muscl",
+      "slot": 9
+     },
+     {
+      "asin": "B0DKTRRFF3",
+      "badge": null,
+      "price": "1,336",
+      "rating": "4.0",
+      "reviews": "400",
+      "title": "UltraCare PRO EVA Period Heating Pad with Massager for Women | Fast Relief from Menstrual Cramps & Period Pain | 9 Heat & Massage Modes | Soft & Comfortable | P",
+      "slot": 10
+     }
+    ],
+    "fridoOrganicRank": null,
+    "fridoSponsoredSlot": null,
+    "fridoBadge": null,
+    "fridoAsin": null,
+    "fridoUrl": null,
+    "resultCount": 60
+   },
+   "flipkart": {
+    "fetchOk": true,
+    "results": [
+     {
+      "pos": 1,
+      "title": "MAKFIRST Foot Pads weight loss Herbal Detox Weight Routine Support Plaster & Patch",
+      "brand": "MAKFIRST",
+      "price": null,
+      "rating": 3.9,
+      "ratings": 2530,
+      "isFrido": false
+     },
+     {
+      "pos": 2,
+      "title": "MAKFIRST Foot Pads weight loss Plaster & Patch",
+      "brand": "MAKFIRST",
+      "price": null,
+      "rating": 4,
+      "ratings": 517,
+      "isFrido": false
+     },
+     {
+      "pos": 3,
+      "title": "PRO99S Period Pain Relief Electric Heating Pads Menstrual Heating Belt Massager Inhaler",
+      "brand": "PRO99S",
+      "price": null,
+      "rating": 4.2,
+      "ratings": 74,
+      "isFrido": false
+     },
+     {
+      "pos": 4,
+      "title": "Hiwaga Cordless Menstrual Cramp Relief Massager,Portable Period Pain Relief Warm Belt Plaster & Patch",
+      "brand": "Hiwaga",
+      "price": null,
+      "rating": 4.1,
+      "ratings": 893,
+      "isFrido": false
+     },
+     {
+      "pos": 5,
+      "title": "MILDCARES Period Pain Relief Massager | Rechargeable Heating Pad Belt Menstrual Cramp Belt Plaster & Patch",
+      "brand": "MILDCARES",
+      "price": null,
+      "rating": 4.1,
+      "ratings": 1196,
+      "isFrido": false
+     },
+     {
+      "pos": 6,
+      "title": "HEMOGARD Crampfree Women period cramp relief massager | Period cramp belt Slimming Machine",
+      "brand": "",
+      "price": null,
+      "rating": 4,
+      "ratings": 2774,
+      "isFrido": false
+     },
+     {
+      "pos": 7,
+      "title": "BRONTIX Pain free Women period cramp relief massager | Period cramp belt | Menstrual Cramps Relief Massager",
+      "brand": "",
+      "price": null,
+      "rating": 4.2,
+      "ratings": 774,
+      "isFrido": false
+     },
+     {
+      "pos": 8,
+      "title": "Exquisite & Glares Heating Pads for Cramps, Portable Cordless Menstrual Heating Pad , Period Pain Relief Heating Pad with 3 Heat Levels and 3 Massage Massager L",
+      "brand": "Exquisite & Glares",
+      "price": null,
+      "rating": 3.8,
+      "ratings": 50,
+      "isFrido": false
+     },
+     {
+      "pos": 9,
+      "title": "Dr care Heating Pad Heating Pad",
+      "brand": "",
+      "price": null,
+      "rating": 4.1,
+      "ratings": 1919,
+      "isFrido": false
+     },
+     {
+      "pos": 10,
+      "title": "PRO99S Heating Pad for Period Pain Relief massager for Heating Belly Wrap Belt Inhaler",
+      "brand": "PRO99S",
+      "price": null,
+      "rating": 4,
+      "ratings": 482,
+      "isFrido": false
+     },
+     {
+      "pos": 11,
+      "title": "BELENZO Electric Cordless Heating Pad for Period Pain, Cramp Relief, Back Pain in Period Inhaler",
+      "brand": "BELENZO",
+      "price": null,
+      "rating": 4.1,
+      "ratings": 6631,
+      "isFrido": false
+     },
+     {
+      "pos": 12,
+      "title": "PRO99S Portable Heating Pad for Period Pain Relief massager for Heating Belly Wrap Belt Inhaler",
+      "brand": "PRO99S",
+      "price": null,
+      "rating": 4.4,
+      "ratings": 45,
+      "isFrido": false
+     }
+    ],
+    "fridoRank": null,
+    "fridoUrl": "https://www.flipkart.com/search?q=Cramp%20Relief%20Belt"
+   },
+   "status": "needs-verification",
+   "capturedAt": "2026-07-08"
   }
  ]
 }

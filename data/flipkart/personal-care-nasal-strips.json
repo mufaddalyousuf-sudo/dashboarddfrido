@@ -1,40 +1,46 @@
 {
  "category": "personal-care-nasal-strips",
  "marketplace": "flipkart",
- "keyword": "Frido Nasal Strips",
+ "keyword": "Nasal Strips",
+ "brandKeyword": "Frido Nasal Strips",
  "capturedAt": "2026-07-08",
- "method": "Live scrape flipkart.com mobile search page 1 (__INITIAL_STATE__), query = exact SKU name",
+ "method": "Live scrape flipkart.com mobile search page 1 (__INITIAL_STATE__), query = generic product keyword",
  "confidence": "Medium-High (live; sponsored flags not exposed on mobile)",
  "fridoRank": null,
  "fridoPresent": false,
+ "fridoUrl": "https://www.flipkart.com/search?q=Nasal%20Strips",
  "results": [
   {
    "pos": 1,
-   "title": "FEXMY Heel Pain Relief Cracked Repair Foot Care Heel Pad and Heel Socks Combo Heel Support",
+   "title": "Amazheal Magnetic Nose Clip for snoring Relief Anti-snoring Device",
+   "brand": "Amazheal",
    "price": null,
-   "rating": 3.8,
-   "ratings": 450,
+   "rating": 4.6,
+   "ratings": 98,
    "isFrido": false
   },
   {
    "pos": 2,
-   "title": "FEXMY Shoe Bite Protector Heel Grips, Liner Cushions & Inserts for Loose Shoes Support Heel Support",
+   "title": "LAXIT Magnetic Nasal Strips Anti Snoring Nose Clip Device for Breathing Sleep Aid Anti-snoring Device",
+   "brand": "LAXIT",
    "price": null,
-   "rating": 3.8,
-   "ratings": 1478,
+   "rating": 0,
+   "ratings": 0,
    "isFrido": false
   },
   {
    "pos": 3,
-   "title": "FEXMY Heel Grips Liner Cushions Inserts for Loose Shoes Insoles for Men Heel Support",
+   "title": "Klova Nasal Strips for Breathing | Snoring Nose Clip | Pure Flow Magnetic Nose Strips Anti-snoring Device",
+   "brand": "Klova",
    "price": null,
-   "rating": 3.8,
-   "ratings": 1478,
+   "rating": 3.5,
+   "ratings": 8,
    "isFrido": false
   },
   {
    "pos": 4,
    "title": "RR LOOK Magnetic Nasal Strips for Breathing | Anti Snoring Nose Clip Skin Safe Anti-snoring Device",
+   "brand": "RR LOOK",
    "price": null,
    "rating": 0,
    "ratings": 0,
@@ -42,15 +48,17 @@
   },
   {
    "pos": 5,
-   "title": "NIRADHITYA Breathing Breathe Right Pure flow Nose Snoring Stopper Aid Dilator Strips 30 Pcs Anti-snoring Device",
+   "title": "JINCHA Magnetic Nasal Strips for Breathing | Anti Snoring Nose Clip Skin Safe pake of 1 Anti-snoring Device",
+   "brand": "JINCHA",
    "price": null,
-   "rating": 4.6,
-   "ratings": 26,
+   "rating": 3.7,
+   "ratings": 16,
    "isFrido": false
   },
   {
    "pos": 6,
-   "title": "Ramya beauty care Congestion AIR Flow Pro Nasal Strips Hypoallergenic Adhesive 30 Pice Anti-snoring Device",
+   "title": "LAXIT Anti Snoring Nasal Strips for Better Breathing Sleep Aid Pack of 15 Anti-snoring Device",
+   "brand": "LAXIT",
    "price": null,
    "rating": 0,
    "ratings": 0,
@@ -58,7 +66,8 @@
   },
   {
    "pos": 7,
-   "title": "Ramya beauty care Air flows Nasal Strips Breathing Sleep, Drug-Free, Skin Safe Nose Strips 30 pice Anti-snoring Device",
+   "title": "JINCHA Nasal Strips- Extra Strength Snoring & Congestion Relief- CDSCO Anti-snoring Anti-snoring Device",
+   "brand": "JINCHA",
    "price": null,
    "rating": 0,
    "ratings": 0,
@@ -66,15 +75,17 @@
   },
   {
    "pos": 8,
-   "title": "Ramya beauty care Pro Nasal Strips CDSCO Licensed Medical Device in India, Hypoallergenic Adhesive Anti-snoring Device",
+   "title": "VOIISH Anti Snore Nasal Strips Size Good for Small-Standard Adult Nose Anti-snoring Device",
+   "brand": "VOIISH",
    "price": null,
-   "rating": 0,
-   "ratings": 0,
+   "rating": 3.6,
+   "ratings": 48,
    "isFrido": false
   },
   {
    "pos": 9,
-   "title": "Wonder Care Breathing Nasal Strips for Snoring Relief and Easy Airflow Support Stick On Nose Pad",
+   "title": "JINCHA Magnetic Clip for Airway Support Anti-snoring Device Anti-snoring Device",
+   "brand": "JINCHA",
    "price": null,
    "rating": 0,
    "ratings": 0,
@@ -82,42 +93,11 @@
   },
   {
    "pos": 10,
-   "title": "atovio BreatheX Nasal Strips for Congestion Relief & Better Breathing - Clear (10 Pcs) Anti-snoring Device",
+   "title": "Ramya beauty care Non-Magnetic Nasal Strips 30PCS Hypoallergenic Adhesive &Ultra-Strong Spring Anti-snoring Device",
+   "brand": "Ramya beauty care",
    "price": null,
-   "rating": 0,
-   "ratings": 0,
-   "isFrido": false
-  },
-  {
-   "pos": 11,
-   "title": "Colorstock Nasal Strips | Nose Nasal Strip - Easy Airflow Boost For Daily Use Anti-snoring Device",
-   "price": null,
-   "rating": 0,
-   "ratings": 0,
-   "isFrido": false
-  },
-  {
-   "pos": 12,
-   "title": "LAXIT Magnetic Nasal Strips Anti Snoring Nose Clip Device for Breathing Sleep Aid Anti-snoring Device",
-   "price": null,
-   "rating": 0,
-   "ratings": 0,
-   "isFrido": false
-  },
-  {
-   "pos": 13,
-   "title": "atovio BreatheX Clear Nose Strips for Breathing, Sleep & Nasal Airflow - Pack of 20 Anti-snoring Device",
-   "price": null,
-   "rating": 0,
-   "ratings": 0,
-   "isFrido": false
-  },
-  {
-   "pos": 14,
-   "title": "Baben Free Size Posture Corrector For Men And Women Back / Lumbar Support",
-   "price": null,
-   "rating": 4.1,
-   "ratings": 377,
+   "rating": 3.5,
+   "ratings": 43,
    "isFrido": false
   }
  ],

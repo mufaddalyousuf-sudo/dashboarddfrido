@@ -1,67 +1,143 @@
 {
  "category": "personal-care-3d-eye-mask",
  "marketplace": "amazon-in",
- "keyword": "Frido 3D Eye Mask",
+ "keyword": "3D Eye Mask",
+ "brandKeyword": "Frido 3D Eye Mask",
  "capturedAt": "2026-07-08",
- "method": "Live scrape amazon.in search page 1, query = exact SKU name (brand-qualified)",
+ "method": "Live scrape amazon.in search page 1, query = generic product keyword (brand + Frido product-line/marketing words stripped) — the competitive rank signal, not a brand-qualified existence check",
  "confidence": "High (live snapshot, single keyword)",
- "fridoOrganicRank": 1,
- "fridoSponsoredSlot": 1,
+ "fridoOrganicRank": null,
+ "fridoSponsoredSlot": 2,
+ "fridoUrl": "https://www.amazon.in/dp/B0GPQVX5PV",
  "organic": [
   {
-   "asin": "B0GPQVX5PV",
+   "asin": "B0FTZBVB4F",
    "badge": "Amazon's Choice",
-   "price": "999",
-   "rating": "4.4",
-   "reviews": "24",
-   "title": "Frido 3D Eye Mask for Men & Women | 100% Blackout Sleep Mask | Zero Pressure Memory Foam for Eyelids & Lashes | Adjustable Straps for Travel & Meditation | Soft",
-   "rank": 1,
-   "isFridoBrand": true
-  },
-  {
-   "asin": "B0GPQP16HC",
-   "badge": null,
-   "price": "999",
-   "rating": "5.0",
-   "reviews": "6",
-   "title": "Frido 3D Eye Mask for Men & Women | 100% Blackout Sleep Mask | Zero Pressure Memory Foam for Eyelids & Lashes | Adjustable Straps for Travel & Meditation | Soft",
-   "rank": 2
+   "price": "299",
+   "rating": "4.3",
+   "reviews": "84",
+   "title": "Lyrovo 3D Contoured Eye Mask for Sleeping Men & Women | Soft Adjustable Sleep Mask for Eyes | Comfortable Eye Cover for Sleep, Travel & Meditation | Black Eye S",
+   "rank": 1
   },
   {
    "asin": "B0CVMSSSMM",
    "badge": null,
-   "price": "486",
+   "price": "501",
    "rating": "4.4",
-   "reviews": "1,779",
+   "reviews": "1,782",
    "title": "INSIME 3D Memory foam Sleeping Mask For Men Women Sleep Mask Blind Fold Eye Cover Pad For Travel | Night eye band eyemask patch Complete Blackout Sleeping Eye M",
+   "rank": 2
+  },
+  {
+   "asin": "B0GSWDHQNW",
+   "badge": null,
+   "price": "229",
+   "rating": "5.0",
+   "reviews": "1",
+   "title": "3D Contoured Sleep Eye Mask for Men & Women | Concave Cup Design, Total Light Blocking Blindfold | Soft Comfortable Eye Shade for Travel, Yoga & Nap",
    "rank": 3
   },
   {
-   "asin": "B0FBS1J597",
+   "asin": "B0GZBLR9VD",
    "badge": null,
-   "price": "699",
-   "rating": "4.0",
-   "reviews": "10",
-   "title": "Frido Sleep Eye Mask for Men & Women | Ultra-Soft Sleeping Eye Mask | Light Blocking Design | Multi-Adjustable Strap | No Pressure Fit | Lightweight Sleep Eye M",
+   "price": "299",
+   "rating": "4.8",
+   "reviews": "9",
+   "title": "VeeDee 3D Sleep Mask for Men & Women, 100% Light Blocking Opaque Eye Mask for Sleeping, High-Density Soft Sponge Night Blindfold, Comfortable Pressure-Free Cont",
    "rank": 4
   },
   {
-   "asin": "B0FTZBVB4F",
+   "asin": "B0GY8YQ2TF",
    "badge": null,
-   "price": "299",
-   "rating": "4.3",
-   "reviews": "83",
-   "title": "Lyrovo 3D Contoured Eye Mask for Sleeping Men & Women | Soft Adjustable Sleep Mask for Eyes | Comfortable Eye Cover for Sleep, Travel & Meditation | Black Eye S",
+   "price": "129",
+   "rating": null,
+   "reviews": null,
+   "title": "Sleeping Eye Mask for Side Sleeper, Light Blocking Eye Mask for Sleeping, 3D Contoured Adjustable Strap for Travel Nap",
    "rank": 5
   },
   {
-   "asin": "B0FBS3PNHV",
+   "asin": "B0FLQGJQ6H",
+   "badge": null,
+   "price": "499",
+   "rating": "4.9",
+   "reviews": "27",
+   "title": "Tobfit Blackout Sleep Mask for Women Men Zero Eye Pressure Eye Mask, Lycra Fabric 3D Ergonomic Design Eye Movement and Eyelash Friendly, Ultra Comfortable Blind",
+   "rank": 6
+  },
+  {
+   "asin": "B0GXYZYQPL",
+   "badge": null,
+   "price": "119",
+   "rating": null,
+   "reviews": null,
+   "title": "3D Contoured Sleep Eye Mask – Ultra Soft Light Blocking Eye Cover for Deep Sleep, Travel & Relaxation – Comfortable Pressure-Free Eye Mask with Adjustable Strap",
+   "rank": 7
+  },
+  {
+   "asin": "B0BS9JX4TF",
+   "badge": null,
+   "price": "179",
+   "rating": "3.5",
+   "reviews": "41",
+   "title": "JUDEE Memory Foam Sleep Eye Mask, 3D Contoured 100% Blackout Eye Mask With Adjustable Strap, Soft And Comfortable Night Blindfold For Women Men, Eye Mask For Sl",
+   "rank": 8
+  },
+  {
+   "asin": "B0GL2BHM37",
    "badge": null,
    "price": "699",
-   "rating": "4.3",
-   "reviews": "12",
-   "title": "Frido Sleep Eye Mask for Men & Women | Ultra-Soft Sleeping Eye Mask | Light Blocking Design | Multi-Adjustable Strap | No Pressure Fit | Lightweight Sleep Eye M",
-   "rank": 6
+   "rating": "3.0",
+   "reviews": "2",
+   "title": "CETAPLAST 3D Contoured Sleep Mask – 100% Blackout Eye Shade for Deep Sleep & Travel – Zero Pressure Design, Eyelash Friendly & Makeup Safe (Adjustable Strap) Bl",
+   "rank": 9
+  },
+  {
+   "asin": "B00X3F9B4K",
+   "badge": null,
+   "price": "175",
+   "rating": "3.5",
+   "reviews": "699",
+   "title": "Inditradition 3D Solid Contoured Eye Mask For Travel, Sleeping, Meditation, Yoga (Pack of 1, Black)",
+   "rank": 10
+  }
+ ],
+ "sponsored": [
+  {
+   "asin": "B01LN7K4ZO",
+   "badge": null,
+   "price": "302",
+   "rating": "4.1",
+   "reviews": "10,189",
+   "title": "Friends of Meditation® 100% Mulberry Silk Sleep Mask – Pure Silk Eye Mask for Sleeping, Super Smooth Blackout Blindfold, Soft Adjustable Strap, Luxury Eye Cover",
+   "slot": 1
+  },
+  {
+   "asin": "B0GPQVX5PV",
+   "badge": null,
+   "price": "999",
+   "rating": "4.4",
+   "reviews": "24",
+   "title": "Frido 3D Eye Mask for Men & Women | 100% Blackout Sleep Mask | Zero Pressure Memory Foam for Eyelids & Lashes | Adjustable Straps for Travel & Meditation | Soft",
+   "slot": 2,
+   "isFridoBrand": true
+  },
+  {
+   "asin": "B0GWTY5BY7",
+   "badge": null,
+   "price": "399",
+   "rating": null,
+   "reviews": null,
+   "title": "Eye Mask for Sleeping Travel Accessories， Unique Gadgets, 3D Design for Comfort, Black Sleep Mask, 3-Pack Set for Travel and Home Use",
+   "slot": 3
+  },
+  {
+   "asin": "B0GZGSZS94",
+   "badge": null,
+   "price": "299",
+   "rating": "4.8",
+   "reviews": "9",
+   "title": "VeeDee 3D Sleep Mask for Men & Women, 100% Light Blocking Opaque Eye Mask for Sleeping, High-Density Soft Sponge Night Blindfold, Comfortable Pressure-Free Cont",
+   "slot": 4
   },
   {
    "asin": "B0GJ51CBJK",
@@ -70,109 +146,43 @@
    "rating": "3.8",
    "reviews": "15",
    "title": "VIZARO Luxury Sleep Eye Mask for Side Sleeper Men Women, Zero Eye Pressure 3D Sleeping Mask, Light Blocking Patented Design Night Blindfold, Soft Eye Shade Cove",
-   "rank": 7
-  },
-  {
-   "asin": "B0GT91RBKK",
-   "badge": null,
-   "price": "2,560",
-   "rating": null,
-   "reviews": null,
-   "title": "Frido Travel Comfort Combo | 3D Blackout Eye Mask & Memory Foam Travel Neck Pillow with Free Pouch for Men & Women | Perfect for Flights, Car, Train Travel | Li",
-   "rank": 8
-  },
-  {
-   "asin": "B0FYWDCTJN",
-   "badge": null,
-   "price": "563",
-   "rating": "3.5",
-   "reviews": "11",
-   "title": "Lyrovo [UPDATED] 3D Contoured Eye Mask for Sleeping Men & Women – Memory Foam Sleep Mask, Ultra Soft Silk Cotton Blindfold for Deep Sleep, Adjustable Strap, 100",
-   "rank": 9
-  },
-  {
-   "asin": "B0GT8PSHNF",
-   "badge": null,
-   "price": "2,560",
-   "rating": null,
-   "reviews": null,
-   "title": "Frido Travel Comfort Combo | 3D Blackout Eye Mask & Memory Foam Travel Neck Pillow with Free Pouch for Men & Women | Perfect for Flights, Car, Train Travel | Li",
-   "rank": 10
-  }
- ],
- "sponsored": [
-  {
-   "asin": "B0GPQVX5PV",
-   "badge": "Amazon's Choice",
-   "price": "999",
-   "rating": "4.4",
-   "reviews": "24",
-   "title": "Frido 3D Eye Mask for Men & Women | 100% Blackout Sleep Mask | Zero Pressure Memory Foam for Eyelids & Lashes | Adjustable Straps for Travel & Meditation | Soft",
-   "slot": 1,
-   "isFridoBrand": true
-  },
-  {
-   "asin": "B01LN7K4ZO",
-   "badge": null,
-   "price": "302",
-   "rating": "4.1",
-   "reviews": "10,188",
-   "title": "Friends of Meditation® 100% Mulberry Silk Sleep Mask – Pure Silk Eye Mask for Sleeping, Super Smooth Blackout Blindfold, Soft Adjustable Strap, Luxury Eye Cover",
-   "slot": 2
-  },
-  {
-   "asin": "B0H75WCKXQ",
-   "badge": null,
-   "price": "199",
-   "rating": null,
-   "reviews": null,
-   "title": "3D Contoured Eye Mask for Sleeping Men & Women | Soft Adjustable Sleep Mask for Eyes | Comfortable Eye Cover for Sleep, Travel & Meditation | Black Eye Sleeping",
-   "slot": 3
-  },
-  {
-   "asin": "B07KGMWBHM",
-   "badge": null,
-   "price": "1,199",
-   "rating": "4.1",
-   "reviews": "16,578",
-   "title": "MIZON SNAIL INTENSIVE GOLD EYE GEL PATCH for Dark Circles, Moisturising Eye Serum Mask, Cooling Hydrogel for Under Eye Bags, Reduces Wrinkle 30 PAIRS (Gold & Sn",
-   "slot": 4
-  },
-  {
-   "asin": "B0GPQTW38N",
-   "badge": null,
-   "price": "999",
-   "rating": "4.6",
-   "reviews": "6",
-   "title": "Frido 3D Eye Mask for Men & Women | 100% Blackout Sleep Mask | Zero Pressure Memory Foam for Eyelids & Lashes | Adjustable Straps for Travel & Meditation | Soft",
    "slot": 5
   },
   {
-   "asin": "B0GT8SNNZD",
+   "asin": "B0BTT81487",
    "badge": null,
-   "price": "2,560",
-   "rating": "4.2",
-   "reviews": "64",
-   "title": "Frido Travel Comfort Combo | 3D Blackout Eye Mask & Memory Foam Travel Neck Pillow with Free Pouch for Men & Women | Perfect for Flights, Car, Train Travel | Li",
+   "price": "346",
+   "rating": "4.4",
+   "reviews": "978",
+   "title": "WiseLife Luxury Silk Velvet Sleep Eye Mask For Men & Women | Ultra Smooth & Adjustable Blind Fold Suitable For All Family Members | Sleeping, Travelling, Relaxa",
    "slot": 6
   },
   {
-   "asin": "B09GG71RT9",
+   "asin": "B0BCW9NS77",
    "badge": null,
-   "price": "199",
-   "rating": "3.9",
-   "reviews": "230",
-   "title": "LuxaDerme Korean Under Eye Bio-Cellulose Mask for Dark Circles & Puffiness | Cooling Eye Patches with Niacinamide & Sea Buckthorn | Brightens, Depuffs & Smoothe",
+   "price": "246",
+   "rating": "4.4",
+   "reviews": "104",
+   "title": "WiseLife Natural Silk Eye Mask, Ultra Smooth Adjustable Sleep Mask and Blind Fold | For Sleeping, Travelling, Relaxation, Blind Fold | Eye-cover Light blocker (",
    "slot": 7
   },
   {
-   "asin": "B0GPXXRMDC",
+   "asin": "B0GWVMPQ4J",
    "badge": null,
-   "price": "1,499",
-   "rating": "1.0",
-   "reviews": "1",
-   "title": "ONLYU Heated Eye Mask for Dry Eyes, Warm Eye Compress with Flaxseed for MGD, Dry Eye Syndrome, Chalazion Blepharitis Stye Eye Treatment, Steam Moist to Unclog G",
+   "price": "999",
+   "rating": "3.0",
+   "reviews": "2",
+   "title": "AWESOME Eye Mask for Sleeping – 3D Contoured Sleeping Eye Mask with Zero Eye Pressure & 100% Blackout Coverage – Adjustable Sleep Mask for Side Sleepers, Travel",
    "slot": 8
+  },
+  {
+   "asin": "B0D3TTLXBP",
+   "badge": null,
+   "price": "1,099",
+   "rating": "4.4",
+   "reviews": "25",
+   "title": "amiciCare Fabric 3D Eye Sleeping Mask: Ergonomic Blindfold For Superior Comfort With Zero Eye Pressure And Total Darkness,Black",
+   "slot": 9
   },
   {
    "asin": "B0C4TJQCHW",
@@ -181,15 +191,6 @@
    "rating": "4.1",
    "reviews": "37",
    "title": "JERN Pack of 10 Eye Shades Mask for Proper Sleep",
-   "slot": 9
-  },
-  {
-   "asin": "B0C7ZVCDRY",
-   "badge": null,
-   "price": "428",
-   "rating": "4.1",
-   "reviews": "89",
-   "title": "Oculeaf Hot and Cold Gel Eye Mask | Digital Eye Strain & Dry Eyes | Dark Circles & Puffy Eyes | Sinus Pain & Stress",
    "slot": 10
   }
  ],

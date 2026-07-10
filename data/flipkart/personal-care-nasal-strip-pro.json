@@ -1,40 +1,46 @@
 {
  "category": "personal-care-nasal-strip-pro",
  "marketplace": "flipkart",
- "keyword": "Frido Nasal Strip Pro",
+ "keyword": "Nasal Strip",
+ "brandKeyword": "Frido Nasal Strip Pro",
  "capturedAt": "2026-07-08",
- "method": "Live scrape flipkart.com mobile search page 1 (__INITIAL_STATE__), query = exact SKU name",
+ "method": "Live scrape flipkart.com mobile search page 1 (__INITIAL_STATE__), query = generic product keyword",
  "confidence": "Medium-High (live; sponsored flags not exposed on mobile)",
  "fridoRank": null,
  "fridoPresent": false,
+ "fridoUrl": "https://www.flipkart.com/search?q=Nasal%20Strip",
  "results": [
   {
    "pos": 1,
-   "title": "FEXMY Heel Pain Relief Cracked Repair Foot Care Heel Pad and Heel Socks Combo Heel Support",
+   "title": "Amazheal Magnetic Nose Clip for snoring Relief Anti-snoring Device",
+   "brand": "Amazheal",
    "price": null,
-   "rating": 3.8,
-   "ratings": 450,
+   "rating": 4.6,
+   "ratings": 98,
    "isFrido": false
   },
   {
    "pos": 2,
-   "title": "FEXMY Shoe Bite Protector Heel Grips, Liner Cushions & Inserts for Loose Shoes Support Heel Support",
+   "title": "JINCHA Magnetic Nasal Strips for Breathing | Anti Snoring Nose Clip Skin Safe pake of 1 Anti-snoring Device",
+   "brand": "JINCHA",
    "price": null,
-   "rating": 3.8,
-   "ratings": 1480,
+   "rating": 3.7,
+   "ratings": 16,
    "isFrido": false
   },
   {
    "pos": 3,
-   "title": "FEXMY Heel Grips Liner Cushions Inserts for Loose Shoes Insoles for Men Heel Support",
+   "title": "Klova Nasal Strips for Breathing | Snoring Nose Clip | Pure Flow Magnetic Nose Strips Anti-snoring Device",
+   "brand": "Klova",
    "price": null,
-   "rating": 3.8,
-   "ratings": 1480,
+   "rating": 3.5,
+   "ratings": 8,
    "isFrido": false
   },
   {
    "pos": 4,
-   "title": "Ramya beauty care Airflow & Ease pro Nasal Strips 30 pcs Pro Nasal Strips Nose Strip Anti-snoring Anti-snoring Device",
+   "title": "RR LOOK Magnetic Nasal Strips for Breathing | Anti Snoring Nose Clip Skin Safe Anti-snoring Device",
+   "brand": "RR LOOK",
    "price": null,
    "rating": 0,
    "ratings": 0,
@@ -42,7 +48,8 @@
   },
   {
    "pos": 5,
-   "title": "Ramya beauty care Airflow pro Nasal Strips 30 pcs Pro Nasal Strips Nose Strip Anti-snoring Anti-snoring Device",
+   "title": "JINCHA Nasal Strips- Extra Strength Snoring & Congestion Relief- CDSCO Anti-snoring Anti-snoring Device",
+   "brand": "JINCHA",
    "price": null,
    "rating": 0,
    "ratings": 0,
@@ -50,7 +57,8 @@
   },
   {
    "pos": 6,
-   "title": "Ramya beauty care Premium pro Nasal Strips 30 pcs Pro Nasal Strips Nose Strip Anti-snoring Nasal Anti-snoring Device",
+   "title": "LAXIT Magnetic Nasal Strips Anti Snoring Nose Clip Device for Breathing Sleep Aid Anti-snoring Device",
+   "brand": "LAXIT",
    "price": null,
    "rating": 0,
    "ratings": 0,
@@ -58,66 +66,29 @@
   },
   {
    "pos": 7,
-   "title": "Ramya beauty care Large Premium pro Nasal Strips 30 pcs Pro Nasal Strips Nose Strip Anti-snoring Device",
+   "title": "Ramya beauty care Non-Magnetic Nasal Strips 30PCS Hypoallergenic Adhesive &Ultra-Strong Spring Anti-snoring Device",
+   "brand": "Ramya beauty care",
    "price": null,
-   "rating": 0,
-   "ratings": 0,
+   "rating": 3.5,
+   "ratings": 43,
    "isFrido": false
   },
   {
    "pos": 8,
-   "title": "EKAKSH ENTERPRISE Breathe Right- 30 Pcs Pure Flow Nose Strips- Snore Stopper Dilator Breathing Aid Anti-snoring Device",
+   "title": "JINCHA Magnetic Clip for Airway Support Anti-snoring Device Anti-snoring Device",
+   "brand": "JINCHA",
    "price": null,
-   "rating": 4.7,
-   "ratings": 31,
+   "rating": 0,
+   "ratings": 0,
    "isFrido": false
   },
   {
    "pos": 9,
-   "title": "LAXIT Magnetic Nasal Strips Anti Snoring Nose Clip Device for Breathing Sleep Aid Anti-snoring Device",
-   "price": null,
-   "rating": 0,
-   "ratings": 0,
-   "isFrido": false
-  },
-  {
-   "pos": 10,
    "title": "Ramya beauty care Congestion AIR Flow Pro Nasal Strips Hypoallergenic Adhesive 30 Pice Anti-snoring Device",
+   "brand": "Ramya beauty care",
    "price": null,
    "rating": 0,
    "ratings": 0,
-   "isFrido": false
-  },
-  {
-   "pos": 11,
-   "title": "Ramya beauty care Nose Opener Pro Nasal Strips CDSCO-Licensed Medical Device 30 Strips Anti-snoring Device",
-   "price": null,
-   "rating": 0,
-   "ratings": 0,
-   "isFrido": false
-  },
-  {
-   "pos": 12,
-   "title": "Ramya beauty care Pro Nasal Strips CDSCO Licensed Medical Device in India, Hypoallergenic Adhesive Anti-snoring Device",
-   "price": null,
-   "rating": 0,
-   "ratings": 0,
-   "isFrido": false
-  },
-  {
-   "pos": 13,
-   "title": "Awesome Nasal Stripes for Breathing Anti Snoring Aid,Non-Magnetic Strong Adhesive,Flexible Fit Nose Shaper",
-   "price": null,
-   "rating": 3.9,
-   "ratings": 16,
-   "isFrido": false
-  },
-  {
-   "pos": 14,
-   "title": "Baben Free Size Posture Corrector For Men And Women Back / Lumbar Support",
-   "price": null,
-   "rating": 4.1,
-   "ratings": 377,
    "isFrido": false
   }
  ],

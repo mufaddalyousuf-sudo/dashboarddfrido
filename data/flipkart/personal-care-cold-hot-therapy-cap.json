@@ -1,40 +1,46 @@
 {
  "category": "personal-care-cold-hot-therapy-cap",
  "marketplace": "flipkart",
- "keyword": "Frido Cold & Hot Therapy Cap",
+ "keyword": "Cold and Hot Therapy Cap",
+ "brandKeyword": "Frido Cold & Hot Therapy Cap",
  "capturedAt": "2026-07-08",
- "method": "Live scrape flipkart.com mobile search page 1 (__INITIAL_STATE__), query = exact SKU name",
+ "method": "Live scrape flipkart.com mobile search page 1 (__INITIAL_STATE__), query = generic product keyword",
  "confidence": "Medium-High (live; sponsored flags not exposed on mobile)",
- "fridoRank": 6,
- "fridoPresent": true,
+ "fridoRank": null,
+ "fridoPresent": false,
+ "fridoUrl": "https://www.flipkart.com/search?q=Cold%20and%20Hot%20Therapy%20Cap",
  "results": [
   {
    "pos": 1,
-   "title": "Baben Free Size Posture Corrector For Men And Women Back / Lumbar Support",
+   "title": "Outer Woods Insulin Cooler Bottle Case with 24 Hours Cooling 6 Units Mini Ice Gel Packs Fits Insulin Pens upto 6 inch Pack",
+   "brand": "Outer Woods",
    "price": null,
-   "rating": 4.1,
-   "ratings": 377,
+   "rating": 3.8,
+   "ratings": 50,
    "isFrido": false
   },
   {
    "pos": 2,
-   "title": "Baben Posture corrector belt for men and women for back pain Posture Corrector Posture Corrector",
+   "title": "Outer Woods Insulin Cooler Bottle Medium (800ml) with 8 Ice Gel Packs Insulin Cooler for Diabetics Pack",
+   "brand": "Outer Woods",
    "price": null,
-   "rating": 4.2,
-   "ratings": 74,
+   "rating": 0,
+   "ratings": null,
    "isFrido": false
   },
   {
    "pos": 3,
-   "title": "Baben Free Size Sciatica Pain Relief Belt – Adjustable Lower Back & Hip Support Abdominal Belt",
+   "title": "Outer Woods Insulin Cooler Bottle Medium (800ml) with 8 Ice Gel Packs Insulin Cooler For Diabetics Pack",
+   "brand": "Outer Woods",
    "price": null,
-   "rating": 5,
-   "ratings": 21,
+   "rating": 4,
+   "ratings": 3,
    "isFrido": false
   },
   {
    "pos": 4,
-   "title": "Baben 3 in 1 Postpartum Support - Recovery Belly Belt Free Size Abdominal Support Abdominal Belt",
+   "title": "Outer Woods Insulin Cooler Bottle Medium (800ml) with 8 Ice Gel Packs Insulin Cooler for Diabetics Pack Pack",
+   "brand": "Outer Woods",
    "price": null,
    "rating": 0,
    "ratings": null,
@@ -42,74 +48,92 @@
   },
   {
    "pos": 5,
-   "title": "Baben Posture Corrector Belt for Men & Women Back Support Brace Shoulder Pain Relief Posture Corrector",
+   "title": "Outer Woods Insulin Cooler Bottle Case - Large - 24 Hours Cooling With 10 Mini Ice Gel Packs and Bottle Cover Pack",
+   "brand": "Outer Woods",
    "price": null,
-   "rating": 3.5,
-   "ratings": 4,
+   "rating": 4.1,
+   "ratings": 24,
    "isFrido": false
   },
   {
    "pos": 6,
-   "title": "Frido Hot & Cold Therapy Cap for Migraine & Headache Relief | 360° Compression Head Support",
-   "price": null,
-   "rating": 4.4,
-   "ratings": 41,
-   "isFrido": true
-  },
-  {
-   "pos": 7,
-   "title": "Frido Wedge Plus Memory Foam Cushion for Sleeping, Acid Reflux Relief & Leg Elevator Back / Lumbar Support",
-   "price": null,
-   "rating": 4.2,
-   "ratings": 435,
-   "isFrido": true
-  },
-  {
-   "pos": 8,
-   "title": "Frido Active Knee Cap for Pain Relief, Joint Support & Injury Recovery, Core Black, L Knee Support",
-   "price": null,
-   "rating": 4.4,
-   "ratings": 356,
-   "isFrido": true
-  },
-  {
-   "pos": 9,
-   "title": "Frido Ultimate Pro Seat Cushion for Hip & Tailbone Pain Relief- Light Grey Back / Lumbar Support",
-   "price": null,
-   "rating": 4.1,
-   "ratings": 297,
-   "isFrido": true
-  },
-  {
-   "pos": 10,
-   "title": "MEDISKY First Aid,Sports Injury,Pain Relief and Hot/Cold Therapy Nylon Gel",
+   "title": "CELEORIS Migraine Relief Cap – Hot & Cold Therapy Supporter",
+   "brand": "CELEORIS",
    "price": null,
    "rating": 0,
    "ratings": 0,
    "isFrido": false
   },
   {
-   "pos": 11,
-   "title": "FEXMY Heel Pain Relief Cracked Repair Foot Care Heel Pad and Heel Socks Combo Heel Support",
+   "pos": 7,
+   "title": "KIYANSHENTERPRISE Migraine Relief Cap Head Support",
+   "brand": "KIYANSHENTERPRISE",
    "price": null,
-   "rating": 3.8,
-   "ratings": 450,
+   "rating": 3.9,
+   "ratings": 121,
+   "isFrido": false
+  },
+  {
+   "pos": 8,
+   "title": "Fluent Hot Water Bag Ice bag for Pain Relief Cold Ice Pack Bag Injuries Cold therapy Hot And Ice Bag 1 L Hot Water Bag",
+   "brand": "Fluent",
+   "price": null,
+   "rating": 4.2,
+   "ratings": 98,
+   "isFrido": false
+  },
+  {
+   "pos": 9,
+   "title": "Herb Tantra Migraine Go Hot and Cold Gel Headace Cap Gel",
+   "brand": "Herb Tantra",
+   "price": null,
+   "rating": 4,
+   "ratings": 59,
+   "isFrido": false
+  },
+  {
+   "pos": 10,
+   "title": "AIGOSTAR Hot & Cold Therapy Headache Cap for Migraine, Sinus & Tension Relief Head Support",
+   "brand": "AIGOSTAR",
+   "price": null,
+   "rating": 3.9,
+   "ratings": 200,
+   "isFrido": false
+  },
+  {
+   "pos": 11,
+   "title": "Snopple Hot Water Bottle Cozy Plush Cover for Period Cramps & Muscle Relaxation Therapy Plaster & Patch",
+   "brand": "Snopple",
+   "price": null,
+   "rating": 4.6,
+   "ratings": 9,
    "isFrido": false
   },
   {
    "pos": 12,
-   "title": "FEXMY Shoe Bite Protector Heel Grips, Liner Cushions & Inserts for Loose Shoes Support Heel Support",
+   "title": "Outer Woods Insulin Cooler Bottle Case - Medium - 24 Hours Cooling With 8 Mini Ice Gel Packs and Bottle Cover Pack",
+   "brand": "Outer Woods",
    "price": null,
-   "rating": 3.8,
-   "ratings": 1480,
+   "rating": 4.1,
+   "ratings": 48,
    "isFrido": false
   },
   {
    "pos": 13,
-   "title": "FEXMY Heel Grips Liner Cushions Inserts for Loose Shoes Insoles for Men Heel Support",
+   "title": "MY Dr. Knee Cap with Hot&Cold Gel Pack combo|Gym,Workout| NonSlip,SweatFree | One Peice Knee Support",
+   "brand": "MY Dr.",
    "price": null,
-   "rating": 3.8,
-   "ratings": 1480,
+   "rating": 4,
+   "ratings": 3,
+   "isFrido": false
+  },
+  {
+   "pos": 14,
+   "title": "ORIFAB Hot & Cold Therapy Ice Bag Head Support",
+   "brand": "ORIFAB",
+   "price": null,
+   "rating": 0,
+   "ratings": 0,
    "isFrido": false
   }
  ],

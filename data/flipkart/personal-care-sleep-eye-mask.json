@@ -1,93 +1,16 @@
 {
  "category": "personal-care-sleep-eye-mask",
  "marketplace": "flipkart",
- "keyword": "Frido Sleep Eye Mask",
+ "keyword": "Sleep Eye Mask",
+ "brandKeyword": "Frido Sleep Eye Mask",
  "capturedAt": "2026-07-08",
- "method": "Live scrape flipkart.com mobile search page 1 (__INITIAL_STATE__), query = exact SKU name",
- "confidence": "Medium-High (live; sponsored flags not exposed on mobile)",
- "fridoRank": 4,
- "fridoPresent": true,
- "results": [
-  {
-   "pos": 1,
-   "title": "SWISS BEAUTY Hydra Eye Serum Patch for Nourishment | Anti-wrinkle | Anti-aging | Reduce Dark Circles - (AloeVera, Pack of 60pcs)",
-   "price": null,
-   "rating": 4.2,
-   "ratings": 10364,
-   "isFrido": false
-  },
-  {
-   "pos": 2,
-   "title": "SWISS BEAUTY Hydra Eye Serum Patch for Nourishment | Anti-wrinkle | Anti-aging | Reduce Dark Circles - (Golden, Pack of 60pcs)",
-   "price": null,
-   "rating": 4.2,
-   "ratings": 6073,
-   "isFrido": false
-  },
-  {
-   "pos": 3,
-   "title": "SWISS BEAUTY Hydra Eye Patch",
-   "price": null,
-   "rating": 4.2,
-   "ratings": 590,
-   "isFrido": false
-  },
-  {
-   "pos": 4,
-   "title": "Frido 3D Eye Mask for Unisex | 100% Blackout Sleep Mask with Adjustable Straps",
-   "price": null,
-   "rating": 4.8,
-   "ratings": 10,
-   "isFrido": true
-  },
-  {
-   "pos": 5,
-   "title": "Frido Sleep Eye Mask Light Blocking Adjustable Ultra-Soft Unisex Mask Peach",
-   "price": null,
-   "rating": 0,
-   "ratings": 0,
-   "isFrido": true
-  },
-  {
-   "pos": 6,
-   "title": "INFISPACE EYEMASK-SOLID-PINK-ASleep Eye Mask Pack of 1",
-   "price": null,
-   "rating": 0,
-   "ratings": 0,
-   "isFrido": false
-  },
-  {
-   "pos": 7,
-   "title": "Frido Sleep Eye Mask Light Blocking Adjustable Ultra-Soft Unisex Mask Lavender",
-   "price": null,
-   "rating": 0,
-   "ratings": 0,
-   "isFrido": true
-  },
-  {
-   "pos": 8,
-   "title": "FEXMY Eye Mask for Sleeping ZERO_PRESSURE_3D_EYEMASK",
-   "price": null,
-   "rating": 4.8,
-   "ratings": 6,
-   "isFrido": false
-  },
-  {
-   "pos": 9,
-   "title": "Frido Hot & Cold Therapy Cap for Migraine & Headache Relief | 360° Compression Head Support",
-   "price": null,
-   "rating": 4.4,
-   "ratings": 41,
-   "isFrido": true
-  },
-  {
-   "pos": 10,
-   "title": "Deri Bella Lifestyle Premium Black Velvet Eye Mask with Elastic Strap for Sleeping for Men & Women",
-   "price": null,
-   "rating": 4.4,
-   "ratings": 17,
-   "isFrido": false
-  }
- ],
- "notes": []
+ "method": "Live scrape flipkart.com mobile search page 1 (__INITIAL_STATE__), query = generic product keyword",
+ "confidence": "Low (fetch blocked)",
+ "fridoRank": null,
+ "fridoPresent": false,
+ "fridoUrl": null,
+ "results": [],
+ "notes": [
+  "Live fetch failed after retries — needs re-verification."
+ ]
 }

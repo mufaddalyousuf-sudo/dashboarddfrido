@@ -1,40 +1,46 @@
 {
  "category": "personal-care-five-finger-neck-massager",
  "marketplace": "flipkart",
- "keyword": "Frido Five Finger Neck Massager",
+ "keyword": "Five Finger Neck Massager",
+ "brandKeyword": "Frido Five Finger Neck Massager",
  "capturedAt": "2026-07-08",
- "method": "Live scrape flipkart.com mobile search page 1 (__INITIAL_STATE__), query = exact SKU name",
+ "method": "Live scrape flipkart.com mobile search page 1 (__INITIAL_STATE__), query = generic product keyword",
  "confidence": "Medium-High (live; sponsored flags not exposed on mobile)",
  "fridoRank": null,
  "fridoPresent": false,
+ "fridoUrl": "https://www.flipkart.com/search?q=Five%20Finger%20Neck%20Massager",
  "results": [
   {
    "pos": 1,
-   "title": "Cult Revive Vibration & Shiatsu therapy, Pain Relief, Boost Blood Circulation, Foot Massager",
+   "title": "Asbah AF1005 Tonic Electric Handheld Full Body Pain Relief for Back, Neck and Foot Massager",
+   "brand": "",
    "price": null,
-   "rating": 4.2,
-   "ratings": 16253,
+   "rating": 3.9,
+   "ratings": 942,
    "isFrido": false
   },
   {
    "pos": 2,
-   "title": "Enem Neck & Shoulder Massager",
-   "price": null,
-   "rating": 3.9,
-   "ratings": 12,
-   "isFrido": false
-  },
-  {
-   "pos": 3,
    "title": "iTechPie PINK MASSGER -04 Massager Tool Protable Handheld Five Fingers Claw Steel Ball Relaxation Head Massager For Home Office Travel Massager",
+   "brand": "",
    "price": null,
    "rating": 3.6,
    "ratings": 29,
    "isFrido": false
   },
   {
+   "pos": 3,
+   "title": "Acupunctoreum China Finger With 5 Sujok Rings For Relieving Stress And Tension & Relaxes The Mind And Body Massager",
+   "brand": "",
+   "price": null,
+   "rating": 0,
+   "ratings": 0,
+   "isFrido": false
+  },
+  {
    "pos": 4,
    "title": "Esarora Cordless Chargeable Head Massager Scalp Massager 4 Massage Heads_J5S8W3H2 Relax Scalp Stress, Handheld Scalp Massager Tool Helps Hair Growth_5Y7W872 Mas",
+   "brand": "",
    "price": null,
    "rating": 3.7,
    "ratings": 3,
@@ -43,6 +49,7 @@
   {
    "pos": 5,
    "title": "Pulse X Impact For Pain Relief, Neck and Full Body Gun Massager",
+   "brand": "",
    "price": null,
    "rating": 0,
    "ratings": 0,
@@ -50,15 +57,17 @@
   },
   {
    "pos": 6,
-   "title": "ARG HEALTHCARE Back Massage Cushion Car Seat Massager Portable Massage For Back Pain Relief 12 Rubbing Balls for Back, Neck, Calf, Shoulder, Palm, Lower Leg, Th",
+   "title": "Enem Neck & Shoulder Massager",
+   "brand": "Enem",
    "price": null,
-   "rating": 4,
-   "ratings": 246,
+   "rating": 3.9,
+   "ratings": 12,
    "isFrido": false
   },
   {
    "pos": 7,
    "title": "Ronofic Acupressure 5 Sujok Ring With China Finger For Pain Relief And Stress Relief Massager",
+   "brand": "",
    "price": null,
    "rating": 0,
    "ratings": 0,
@@ -66,7 +75,8 @@
   },
   {
    "pos": 8,
-   "title": "netclub Acupressure massager 5 Star Magnet Set (Pack of 10) With Paper Tape & Sujok Finger Ring with thumb pad finger care body massager fitness kit pain relief",
+   "title": "OQPQND Rechargeable Vibration Neck, Shoulder, Leg, Back For Men & Women",
+   "brand": "OQPQND",
    "price": null,
    "rating": 0,
    "ratings": 0,
@@ -74,18 +84,20 @@
   },
   {
    "pos": 9,
-   "title": "ShreeDevam Ergonomic Body Comfort Device for Comfortable Use",
+   "title": "Cult Deep Cure Pillow massager, Shiatsu rollers for Neck, Back, Pain Relief, Corded Massager",
+   "brand": "",
    "price": null,
-   "rating": 0,
-   "ratings": 0,
+   "rating": 4,
+   "ratings": 359,
    "isFrido": false
   },
   {
    "pos": 10,
-   "title": "Zovilstore Rechargeable Advanced 5-Head Electric Massage Gun – Deep Tissue Pain Relief with Multiple Attachments for Neck, Back, Legs & Full Body Pain Relief Ma",
+   "title": "ARG HEALTHCARE Back Massage Cushion Car Seat Massager Portable Massage For Back Pain Relief 12 Rubbing Balls for Back, Neck, Calf, Shoulder, Palm, Lower Leg, Th",
+   "brand": "",
    "price": null,
-   "rating": 4.4,
-   "ratings": 11,
+   "rating": 4,
+   "ratings": 246,
    "isFrido": false
   }
  ],

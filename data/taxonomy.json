@@ -624,43 +624,43 @@
    "datasets": [
     {
      "id": "personal-care-nasal-strip-pro",
-     "keyword": "Frido Nasal Strip Pro",
+     "keyword": "Nasal Strip",
      "primary": true
     },
     {
      "id": "personal-care-nasal-strips",
-     "keyword": "Frido Nasal Strips"
+     "keyword": "Nasal Strips"
     },
     {
      "id": "personal-care-cold-hot-therapy-cap",
-     "keyword": "Frido Cold & Hot Therapy Cap"
+     "keyword": "Cold and Hot Therapy Cap"
     },
     {
      "id": "personal-care-electric-heating-pad",
-     "keyword": "Frido Electric Heating Pad"
+     "keyword": "Electric Heating Pad"
     },
     {
      "id": "personal-care-sleep-eye-mask",
-     "keyword": "Frido Sleep Eye Mask"
+     "keyword": "Sleep Eye Mask"
     },
     {
      "id": "personal-care-3d-eye-mask",
-     "keyword": "Frido 3D Eye Mask"
+     "keyword": "3D Eye Mask"
     },
     {
      "id": "personal-care-anti-slip-bath-mat",
-     "keyword": "Frido Anti-Slip Bath Mat"
+     "keyword": "Anti Slip Bath Mat"
     },
     {
      "id": "personal-care-five-finger-neck-massager",
-     "keyword": "Frido Five Finger Neck Massager"
+     "keyword": "Five Finger Neck Massager"
     },
     {
      "id": "personal-care-cramp-relief-belt",
-     "keyword": "Frido Cramp Relief Belt"
+     "keyword": "Cramp Relief Belt"
     }
    ],
-   "skuSource": "frido-product-catalog.json (full base-SKU research, 2026-07-08)"
+   "skuSource": "frido-product-catalog.json searchKeyword (generic, brand-stripped), 2026-07-08"
   },
   {
    "id": "workspace",

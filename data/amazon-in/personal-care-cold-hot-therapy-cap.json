@@ -1,195 +1,197 @@
 {
  "category": "personal-care-cold-hot-therapy-cap",
  "marketplace": "amazon-in",
- "keyword": "Frido Cold & Hot Therapy Cap",
+ "keyword": "Cold and Hot Therapy Cap",
+ "brandKeyword": "Frido Cold & Hot Therapy Cap",
  "capturedAt": "2026-07-08",
- "method": "Live scrape amazon.in search page 1, query = exact SKU name (brand-qualified)",
+ "method": "Live scrape amazon.in search page 1, query = generic product keyword (brand + Frido product-line/marketing words stripped) — the competitive rank signal, not a brand-qualified existence check",
  "confidence": "High (live snapshot, single keyword)",
  "fridoOrganicRank": 1,
- "fridoSponsoredSlot": 1,
+ "fridoSponsoredSlot": 5,
+ "fridoUrl": "https://www.amazon.in/dp/B0GTWD8K54",
  "organic": [
   {
    "asin": "B0GTWD8K54",
-   "badge": null,
+   "badge": "Amazon's Choice",
    "price": "1,599",
-   "rating": "4.4",
-   "reviews": "70",
+   "rating": "4.5",
+   "reviews": "80",
    "title": "Frido Hot & Cold Therapy Cap | 360° Full Head Coverage | Reusable Cooling & Warming Cap with Gentle Compression | Blue",
    "rank": 1,
    "isFridoBrand": true
   },
   {
-   "asin": "B0GTW1S48V",
+   "asin": "B0GWDSJ629",
    "badge": null,
-   "price": "1,599",
-   "rating": "4.4",
-   "reviews": "70",
-   "title": "Frido Hot & Cold Therapy Cap | 360° Full Head Coverage | Reusable Cooling & Warming Cap with Gentle Compression | Pink",
+   "price": "249",
+   "rating": "4.2",
+   "reviews": "127",
+   "title": "Migraine Relief Cap for Headache & Migraine Pain | Hot & Cold Therapy Cooling Gel Mask | Sinus, Stress, Tension Relief Head Wrap | Reusable Ice Pack Cap for Men",
    "rank": 2
-  },
-  {
-   "asin": "B0GWRBV8Z5",
-   "badge": null,
-   "price": "1,999",
-   "rating": "4.3",
-   "reviews": "11",
-   "title": "Frido Ultimate Deep Sleep Pillow with Cooling Cover | Orthopaedic Gel Memory Foam Pillow for Neck & Shoulder Pain Relief | Breathable, Pressure Relief for Side ",
-   "rank": 3
-  },
-  {
-   "asin": "B0DCC799DN",
-   "badge": null,
-   "price": "1,699",
-   "rating": "4.0",
-   "reviews": "97",
-   "title": "Frido Ultimate Neck Contour Cervical Plus Pillow for Neck, Back Pain, Shoulder Pain, Orthopedic Ergonomic Memory Foam Best Pillow for Cervical Spine Neck Pain R",
-   "rank": 4
-  },
-  {
-   "asin": "B0FYY128RG",
-   "badge": null,
-   "price": "799",
-   "rating": "5.0",
-   "reviews": "4",
-   "title": "Frido Premium Winter Thermal Socks for Men and Women | Cushioned Footbed with Wool Blend Insulation | Ergonomic Cold Weather Thick Warm Winter Wear Socks for Ou",
-   "rank": 5
-  },
-  {
-   "asin": "B0GWRP1DB9",
-   "badge": null,
-   "price": "1,999",
-   "rating": "4.3",
-   "reviews": "11",
-   "title": "Frido Ultimate Deep Sleep Pillow with Cooling Cover | Orthopedic Gel Memory Foam Pillow for Neck & Shoulder Pain Relief | Breathable, Pressure Relief for Side &",
-   "rank": 6
-  },
-  {
-   "asin": "B0GWRF2WQ2",
-   "badge": "Bestseller",
-   "price": "2,799",
-   "rating": "4.2",
-   "reviews": "3,012",
-   "title": "Frido Wedge Plus Cushion with Cooling Cover for Sleeping, Sitting & Acid Reflux Relief | High Resillience Foam | Orthopedic Wedge Cushion for Leg Elevator | Pre",
-   "rank": 7
-  },
-  {
-   "asin": "B0D1R6QDCT",
-   "badge": null,
-   "price": "1,599",
-   "rating": "4.3",
-   "reviews": "95",
-   "title": "Frido Memory Foam Piles Seat Cushion for Pain Relief from Hemorrhoids & Fistula,Non-Slip Contour Cushion with Innovative Keyhole Design & Additional Thigh Suppo",
-   "rank": 8
-  },
-  {
-   "asin": "B0D31TT9X9",
-   "badge": null,
-   "price": "1,429",
-   "rating": "4.2",
-   "reviews": "2,099",
-   "title": "Frido Ultra Slim Deep Sleep Pillow | King Size 2 Inch Height | Orthopedic Grade Gel Memory Foam for Neck & Shoulder Pain Relief, Includes Bamboo Pillow Cover, P",
-   "rank": 9
-  },
-  {
-   "asin": "B0CBKGQB3R",
-   "badge": null,
-   "price": "1,619",
-   "rating": "4.0",
-   "reviews": "3,077",
-   "title": "Frido Ultimate Pro Seat Cushion (High Density) for Hip | Tailbone | Coccyx | Sciatica Pain Relief | Proprietary Hi-Per Foam Ergonomic Design | Contoured Cushion",
-   "rank": 10
-  }
- ],
- "sponsored": [
-  {
-   "asin": "B0GTWD8K54",
-   "badge": null,
-   "price": "1,599",
-   "rating": "4.4",
-   "reviews": "70",
-   "title": "Frido Hot & Cold Therapy Cap | 360° Full Head Coverage | Reusable Cooling & Warming Cap with Gentle Compression | Blue",
-   "slot": 1,
-   "isFridoBrand": true
-  },
-  {
-   "asin": "B0DMKDY515",
-   "badge": null,
-   "price": "1,694",
-   "rating": "4.1",
-   "reviews": "1,120",
-   "title": "Frido Travel Neck Pillow, 100% Hi-Per Foam, Lightweight Neck Support Pillow, Neck Pillow for Flight Travel, Memory Foam Car Neck Pillow, Adjustable Velcro Strap",
-   "slot": 2
-  },
-  {
-   "asin": "B0FR9SR3SC",
-   "badge": "Bestseller",
-   "price": "949",
-   "rating": "4.1",
-   "reviews": "1,744",
-   "title": "Frido Cloud Comfort Slippers for Women & Men | Available in 2 Options- Arch Support & Without Arch |Orthopedic Soft Home Chappal Unisex Slipper, House Slipper w",
-   "slot": 3
-  },
-  {
-   "asin": "B0CPZQK127",
-   "badge": null,
-   "price": "1,239",
-   "rating": "4.2",
-   "reviews": "687",
-   "title": "Frido Ultimate Cervical Neck Pillow for Pain Relief Sleep | Improves Posture & Spinal Alignment | Neck Pain Relief Cushion with Ultra Responsive Memory Foam & S",
-   "slot": 4
   },
   {
    "asin": "B0GTW57FN7",
    "badge": null,
    "price": "1,599",
-   "rating": "4.4",
-   "reviews": "70",
+   "rating": "4.5",
+   "reviews": "80",
    "title": "Frido Hot & Cold Therapy Cap | 360° Full Head Coverage | Reusable Cooling & Warming Cap with Gentle Compression | Purple",
-   "slot": 5
+   "rank": 3
   },
   {
-   "asin": "B0D12WJZ9Q",
+   "asin": "B0DDX3RJ2R",
    "badge": null,
-   "price": "399",
+   "price": "218",
+   "rating": "4.1",
+   "reviews": "928",
+   "title": "my novel things Migraine Relief Cap, Headache Relief Cap 2PCS with Gel Cooling Eye Mask, Hot Cold Therapy Ice Cap, Cold Compress for Head Sinus, Puffy Eyes, Ten",
+   "rank": 4
+  },
+  {
+   "asin": "B0DG6N7NKF",
+   "badge": null,
+   "price": "569",
+   "rating": "3.7",
+   "reviews": "529",
+   "title": "Blase Migraine Relief Cap – Hot & Cold Therapy Headache Cap for Migraine, Sinus & Tension Relief | Thermax Gel Ice Head Wrap for Instant Comfort & Relaxation – ",
+   "rank": 5
+  },
+  {
+   "asin": "B0C13SCY3P",
+   "badge": null,
+   "price": "295",
    "rating": "3.5",
-   "reviews": "163",
-   "title": "Zanskar Headache & Migraine Roll-on | Instant Relief from Stress, Eye Strain, Sinus & Cold | Magnesium + Lavender + Clove | Natural, Pocket-Friendly, Premium Pa",
+   "reviews": "3,830",
+   "title": "ACWOO Migraine Relief Cap, Reusable Cold Hot Therapy Migraine and Headache Relief Cap, Single-Sided Gel Ice Hot Head Wrap for Chronic Migraine, Tension Headache",
+   "rank": 6
+  },
+  {
+   "asin": "B0H48WL87Y",
+   "badge": null,
+   "price": "279",
+   "rating": "5.0",
+   "reviews": "9",
+   "title": "Migraine Relief Cap for Headache & Migraine Pain | Hot & Cold Therapy Cooling Gel Mask | Sinus, Stress, Tension Relief Head Wrap | Reusable Ice Pack Cap for Men",
+   "rank": 7
+  },
+  {
+   "asin": "B0G3X8WNSS",
+   "badge": null,
+   "price": "249",
+   "rating": "5.0",
+   "reviews": "2",
+   "title": "Migraine Relief Cap – Ice Head Wrap for Headache, Tension & Puffy Eyes | Reusable Hot & Cold Gel Therapy Hat | 360° Coverage, One Size Fits All (Black)",
+   "rank": 8
+  },
+  {
+   "asin": "B0H58P2SBQ",
+   "badge": null,
+   "price": "359",
+   "rating": "4.6",
+   "reviews": "185",
+   "title": "ELEGAR Migraine Relief Cap – Hot & Cold Therapy Headache Cap for Migraine, Sinus & Tension Relief | Thermax Gel Ice Head Wrap for Instant Comfort & Relaxation –",
+   "rank": 9
+  },
+  {
+   "asin": "B0D3RWPX7B",
+   "badge": null,
+   "price": "240",
+   "rating": "4.5",
+   "reviews": "33",
+   "title": "Migraine Relief Cap, Soothing Headache Relief Cap, Sinus Relief Migraine Mask, Cooling Gel Hat, Face Cold Compress Head Wrap for Tension, Stress & Hangover",
+   "rank": 10
+  }
+ ],
+ "sponsored": [
+  {
+   "asin": "B0GYT6WXHP",
+   "badge": null,
+   "price": "449",
+   "rating": null,
+   "reviews": null,
+   "title": "Migraine Relief Cap – Hot & Cold Therapy Headache Cap for Migraine, Sinus & Tension Relief | Thermax Gel Ice Head Wrap for Instant Comfort & Relaxation – Reusab",
+   "slot": 1
+  },
+  {
+   "asin": "B0H3P1V6X5",
+   "badge": null,
+   "price": "495",
+   "rating": null,
+   "reviews": null,
+   "title": "Blase Migraine Relief Cap – Hot & Cold Therapy Headache Cap for Migraine, Sinus & Tension Relief | Thermax Gel Ice Head Wrap for Instant Comfort & Relaxation – ",
+   "slot": 2
+  },
+  {
+   "asin": "B0H71C9C35",
+   "badge": null,
+   "price": "499",
+   "rating": null,
+   "reviews": null,
+   "title": "Migraine Relief Cap – Hot & Cold Therapy Headache Cap for Migraine, Sinus & Tension Relief | Thermax Gel Ice Head Wrap for Instant Comfort & Relaxation – Reusab",
+   "slot": 3
+  },
+  {
+   "asin": "B0DN5VPTGX",
+   "badge": null,
+   "price": "279",
+   "rating": "3.3",
+   "reviews": "17",
+   "title": "Migraine Relief Cap for Hot & Cold Therapy, Tension Headache Relief, Unisex",
+   "slot": 4
+  },
+  {
+   "asin": "B0GTW1S48V",
+   "badge": null,
+   "price": "1,599",
+   "rating": "4.5",
+   "reviews": "80",
+   "title": "Frido Hot & Cold Therapy Cap | 360° Full Head Coverage | Reusable Cooling & Warming Cap with Gentle Compression | Pink",
+   "slot": 5,
+   "isFridoBrand": true
+  },
+  {
+   "asin": "B0H5CJVL3Z",
+   "badge": null,
+   "price": "999",
+   "rating": "5.0",
+   "reviews": "1",
+   "title": "Cult Migraine Relief Cap – Hot & Cold Gel Therapy Head Wrap for Migraines, Headaches, Sinus Pressure & Stress Relief",
    "slot": 6
   },
   {
-   "asin": "B0D4HH594J",
+   "asin": "B0DJGF7788",
    "badge": null,
-   "price": "600",
-   "rating": "3.8",
-   "reviews": "39",
-   "title": "SandPuppy Wristcool - Refreezable Wrist Ice Pack for pain relief | Flexible Cold Pack for Wrist Pain Relief | Antifreeze Gel for Enhanced Body Contact | Reusabl",
+   "price": "714",
+   "rating": "4.0",
+   "reviews": "135",
+   "title": "Herb Tantra Migraine Go Relief Cap | Soothing Headache Hat Ice Pack Mask | Face Cold Compress Cooling Gel Head Wrap | Products for Tension, Stress & Hangover",
    "slot": 7
   },
   {
-   "asin": "B0FDBFW7PM",
+   "asin": "B0FRFWYRWB",
    "badge": null,
-   "price": "1,893",
-   "rating": "4.6",
-   "reviews": "272",
-   "title": "Frido Leg Elevation Wedge Pillow for Edema, Varicose Veins, Fracture | High Resilience Foam Cushion for Leg, Knee & Thigh Support | Back Pain & Swelling Relief ",
+   "price": "399",
+   "rating": "3.9",
+   "reviews": "84",
+   "title": "Cult Reusable Hot & Cold Gel Pack with Eye Mask for Puffiness, Headache, Migraine, Eye Strain, Injuries, Muscle Recovery & Everyday Pain Relief – Pack of 3",
    "slot": 8
   },
   {
-   "asin": "B0CGZQ8FPP",
+   "asin": "B0F798PQ84",
    "badge": null,
-   "price": "577",
-   "rating": "3.6",
-   "reviews": "170",
-   "title": "Migraine & Sinus Relief Medicine Nasal Spray 15ml – Fast-Acting Migraine Headache Relief, Sinus Pain & Pressure Treatment, Natural Plant Extract Herbal Formula,",
+   "price": "75,000",
+   "rating": null,
+   "reviews": null,
+   "title": "Breg Polar Care Wave Cold Therapy Device | Ice & Compression for Surgical Recovery, Swelling Reduction, Orthopedic Pain Relief | Ideal for Facility & Home Use (",
    "slot": 9
   },
   {
-   "asin": "B0CW1S2WQ2",
+   "asin": "B0DG6N7NKF",
    "badge": null,
-   "price": "703",
-   "rating": "4.1",
-   "reviews": "197",
-   "title": "Ice Gel Pack Set Long-Lasting Cooling Compact Size Keeps Food, Drinks, Medicines & Vaccines Cold Ideal for Pain Relief & Cold Therapy Travel-Friendly & Reusable",
+   "price": "569",
+   "rating": "3.7",
+   "reviews": "529",
+   "title": "Blase Migraine Relief Cap – Hot & Cold Therapy Headache Cap for Migraine, Sinus & Tension Relief | Thermax Gel Ice Head Wrap for Instant Comfort & Relaxation – ",
    "slot": 10
   }
  ],

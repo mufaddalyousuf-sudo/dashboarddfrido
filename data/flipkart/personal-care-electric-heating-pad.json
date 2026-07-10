@@ -1,12 +1,14 @@
 {
  "category": "personal-care-electric-heating-pad",
  "marketplace": "flipkart",
- "keyword": "Frido Electric Heating Pad",
+ "keyword": "Electric Heating Pad",
+ "brandKeyword": "Frido Electric Heating Pad",
  "capturedAt": "2026-07-08",
- "method": "Live scrape flipkart.com mobile search page 1 (__INITIAL_STATE__), query = exact SKU name",
+ "method": "Live scrape flipkart.com mobile search page 1 (__INITIAL_STATE__), query = generic product keyword",
  "confidence": "Low (fetch blocked)",
  "fridoRank": null,
  "fridoPresent": false,
+ "fridoUrl": null,
  "results": [],
  "notes": [
   "Live fetch failed after retries — needs re-verification."

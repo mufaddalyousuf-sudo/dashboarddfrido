@@ -1,75 +1,121 @@
 {
  "category": "personal-care-3d-eye-mask",
  "marketplace": "flipkart",
- "keyword": "Frido 3D Eye Mask",
+ "keyword": "3D Eye Mask",
+ "brandKeyword": "Frido 3D Eye Mask",
  "capturedAt": "2026-07-08",
- "method": "Live scrape flipkart.com mobile search page 1 (__INITIAL_STATE__), query = exact SKU name",
+ "method": "Live scrape flipkart.com mobile search page 1 (__INITIAL_STATE__), query = generic product keyword",
  "confidence": "Medium-High (live; sponsored flags not exposed on mobile)",
- "fridoRank": 1,
+ "fridoRank": 5,
  "fridoPresent": true,
+ "fridoUrl": "https://www.flipkart.com/search?q=3D%20Eye%20Mask",
  "results": [
   {
    "pos": 1,
-   "title": "Frido 3D Eye Mask for Unisex | 100% Blackout Sleep Mask with Adjustable Straps",
+   "title": "SWISS BEAUTY Hydra Eye Serum Patch for Nourishment | Anti-wrinkle | Anti-aging | Reduce Dark Circles - (AloeVera, Pack of 60pcs)",
+   "brand": "SWISS BEAUTY",
    "price": null,
-   "rating": 4.8,
-   "ratings": 10,
-   "isFrido": true
+   "rating": 4.2,
+   "ratings": 10392,
+   "isFrido": false
   },
   {
    "pos": 2,
-   "title": "3D BRO Deep Moisturizing Avocado Anti Aging Eye Mask for Under Eye Firmness Support",
+   "title": "SWISS BEAUTY Hydra Eye Serum Patch for Nourishment | Anti-wrinkle | Anti-aging | Reduce Dark Circles - (Golden, Pack of 60pcs)",
+   "brand": "SWISS BEAUTY",
    "price": null,
-   "rating": 0,
-   "ratings": 0,
+   "rating": 4.2,
+   "ratings": 6092,
    "isFrido": false
   },
   {
    "pos": 3,
-   "title": "TRK HUB 3D Memory Foam Sleeping Mask for Men Women Sleep Mask Blind Fold Eye Cover Pad",
+   "title": "SWISS BEAUTY Hydra Eye Patch",
+   "brand": "SWISS BEAUTY",
    "price": null,
-   "rating": 4.1,
-   "ratings": 94,
+   "rating": 4.2,
+   "ratings": 591,
    "isFrido": false
   },
   {
    "pos": 4,
-   "title": "FEXMY Eye Mask for Sleeping ZERO_PRESSURE_3D_EYEMASK",
+   "title": "takshenterpise Black Head Band mask NEW BLACK EYE MASK 3D Sleep Mask Eye Mask",
+   "brand": "takshenterpise",
    "price": null,
-   "rating": 4.8,
-   "ratings": 6,
+   "rating": 0,
+   "ratings": 0,
    "isFrido": false
   },
   {
    "pos": 5,
-   "title": "STEFLON 3D Memory Foam Sleep Mask for Men & Women",
+   "title": "Frido 3D Eye Mask for Unisex | 100% Blackout Sleep Mask with Adjustable Straps",
+   "brand": "Frido",
    "price": null,
-   "rating": 0,
-   "ratings": 0,
-   "isFrido": false
+   "rating": 4.8,
+   "ratings": 11,
+   "isFrido": true
   },
   {
    "pos": 6,
-   "title": "Askovids 3D Sleep Mask, Blackout Eye Cover Eye Mask",
+   "title": "AJICA Adjustable 3D Lazy Eye Patches for Kids & Adults, for Left or Right Eyes",
+   "brand": "AJICA",
    "price": null,
-   "rating": 0,
-   "ratings": 0,
+   "rating": 4.2,
+   "ratings": 113,
    "isFrido": false
   },
   {
    "pos": 7,
-   "title": "MOMISY 3D Memory Foam Sleep Mask for Men & Women, Complete Blackout Eye Cover Patch",
+   "title": "craftx 3D Sleeping Eyemask With Earplugs, 100% Darkness, Eye Mask ( Olive )",
+   "brand": "craftx",
    "price": null,
-   "rating": 3.7,
-   "ratings": 34,
+   "rating": 3.9,
+   "ratings": 316,
    "isFrido": false
   },
   {
    "pos": 8,
-   "title": "Fotnil 3D Breathable Sleep Eye Mask, Sleeping Blindfold Night Eyeshade mask 1 packs.",
+   "title": "vartin Velvet Eye Mask for Yoga Meditation Kids/Adults, Soft and Orthoptic",
+   "brand": "vartin",
    "price": null,
-   "rating": 3.6,
-   "ratings": 45,
+   "rating": 4.2,
+   "ratings": 124,
+   "isFrido": false
+  },
+  {
+   "pos": 9,
+   "title": "craftx 3D Sleeping Eyemask With Earplugs, 100% Darkness, Eye Mask ( Olive , PACK OF 2 )",
+   "brand": "craftx",
+   "price": null,
+   "rating": 3.9,
+   "ratings": 118,
+   "isFrido": false
+  },
+  {
+   "pos": 10,
+   "title": "VISTRAN Sleep Eye Mask for Side Sleeper Men Women Zero Eye Pressure 3D Sleeping Mask",
+   "brand": "VISTRAN",
+   "price": null,
+   "rating": 3.7,
+   "ratings": 13,
+   "isFrido": false
+  },
+  {
+   "pos": 11,
+   "title": "Clefairy Red Light Therapy Massager, Red Light Therapy Eyelift Device with Microcurrent",
+   "brand": "Clefairy",
+   "price": null,
+   "rating": 0,
+   "ratings": 0,
+   "isFrido": false
+  },
+  {
+   "pos": 12,
+   "title": "derkit Cooling Therapy Eye Mask and Ice & Heat Relief Eye Mask",
+   "brand": "derkit",
+   "price": null,
+   "rating": 0,
+   "ratings": 0,
    "isFrido": false
   }
  ],

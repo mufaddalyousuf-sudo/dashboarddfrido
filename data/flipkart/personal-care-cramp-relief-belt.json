@@ -1,123 +1,121 @@
 {
  "category": "personal-care-cramp-relief-belt",
  "marketplace": "flipkart",
- "keyword": "Frido Cramp Relief Belt",
+ "keyword": "Cramp Relief Belt",
+ "brandKeyword": "Frido Cramp Relief Belt",
  "capturedAt": "2026-07-08",
- "method": "Live scrape flipkart.com mobile search page 1 (__INITIAL_STATE__), query = exact SKU name",
+ "method": "Live scrape flipkart.com mobile search page 1 (__INITIAL_STATE__), query = generic product keyword",
  "confidence": "Medium-High (live; sponsored flags not exposed on mobile)",
  "fridoRank": null,
  "fridoPresent": false,
+ "fridoUrl": "https://www.flipkart.com/search?q=Cramp%20Relief%20Belt",
  "results": [
   {
    "pos": 1,
-   "title": "Baben Free Size Posture Corrector For Men And Women Back / Lumbar Support",
+   "title": "MAKFIRST Foot Pads weight loss Herbal Detox Weight Routine Support Plaster & Patch",
+   "brand": "MAKFIRST",
    "price": null,
-   "rating": 4.1,
-   "ratings": 377,
+   "rating": 3.9,
+   "ratings": 2530,
    "isFrido": false
   },
   {
    "pos": 2,
-   "title": "Baben Posture corrector belt for men and women for back pain Posture Corrector Posture Corrector",
+   "title": "MAKFIRST Foot Pads weight loss Plaster & Patch",
+   "brand": "MAKFIRST",
    "price": null,
-   "rating": 4.2,
-   "ratings": 74,
+   "rating": 4,
+   "ratings": 517,
    "isFrido": false
   },
   {
    "pos": 3,
-   "title": "Baben Free Size Sciatica Pain Relief Belt – Adjustable Lower Back & Hip Support Abdominal Belt",
-   "price": null,
-   "rating": 5,
-   "ratings": 21,
-   "isFrido": false
-  },
-  {
-   "pos": 4,
-   "title": "Baben 3 in 1 Postpartum Support - Recovery Belly Belt Free Size Abdominal Support Abdominal Belt",
-   "price": null,
-   "rating": 0,
-   "ratings": null,
-   "isFrido": false
-  },
-  {
-   "pos": 5,
-   "title": "Baben Posture Corrector Belt for Men & Women Back Support Brace Shoulder Pain Relief Posture Corrector",
-   "price": null,
-   "rating": 3.5,
-   "ratings": 4,
-   "isFrido": false
-  },
-  {
-   "pos": 6,
-   "title": "ELTRUD Crampfree Women period cramp relief massager, Period cramp belt Slimming Machine Inhaler",
-   "price": null,
-   "rating": 0,
-   "ratings": 0,
-   "isFrido": false
-  },
-  {
-   "pos": 7,
-   "title": "MILDCARES Period Pain Relief Massager | Rechargeable Heating Pad Belt Menstrual Cramp Belt Plaster & Patch",
-   "price": null,
-   "rating": 4.1,
-   "ratings": 1189,
-   "isFrido": false
-  },
-  {
-   "pos": 8,
    "title": "PRO99S Period Pain Relief Electric Heating Pads Menstrual Heating Belt Massager Inhaler",
+   "brand": "PRO99S",
    "price": null,
    "rating": 4.2,
    "ratings": 74,
    "isFrido": false
   },
   {
-   "pos": 9,
-   "title": "PRO99S Portable Period Pain Electric Cordless Heating Pad Cramps Relief belt Inhaler",
+   "pos": 4,
+   "title": "Hiwaga Cordless Menstrual Cramp Relief Massager,Portable Period Pain Relief Warm Belt Plaster & Patch",
+   "brand": "Hiwaga",
    "price": null,
-   "rating": 4.3,
-   "ratings": 20,
+   "rating": 4.1,
+   "ratings": 893,
+   "isFrido": false
+  },
+  {
+   "pos": 5,
+   "title": "MILDCARES Period Pain Relief Massager | Rechargeable Heating Pad Belt Menstrual Cramp Belt Plaster & Patch",
+   "brand": "MILDCARES",
+   "price": null,
+   "rating": 4.1,
+   "ratings": 1196,
+   "isFrido": false
+  },
+  {
+   "pos": 6,
+   "title": "HEMOGARD Crampfree Women period cramp relief massager | Period cramp belt Slimming Machine",
+   "brand": "",
+   "price": null,
+   "rating": 4,
+   "ratings": 2774,
+   "isFrido": false
+  },
+  {
+   "pos": 7,
+   "title": "BRONTIX Pain free Women period cramp relief massager | Period cramp belt | Menstrual Cramps Relief Massager",
+   "brand": "",
+   "price": null,
+   "rating": 4.2,
+   "ratings": 774,
+   "isFrido": false
+  },
+  {
+   "pos": 8,
+   "title": "Exquisite & Glares Heating Pads for Cramps, Portable Cordless Menstrual Heating Pad , Period Pain Relief Heating Pad with 3 Heat Levels and 3 Massage Massager L",
+   "brand": "Exquisite & Glares",
+   "price": null,
+   "rating": 3.8,
+   "ratings": 50,
+   "isFrido": false
+  },
+  {
+   "pos": 9,
+   "title": "Dr care Heating Pad Heating Pad",
+   "brand": "",
+   "price": null,
+   "rating": 4.1,
+   "ratings": 1919,
    "isFrido": false
   },
   {
    "pos": 10,
-   "title": "BELENZO Electric Cordless Heating Pad for Period Pain, Cramp Relief, Back Pain in Period Inhaler",
+   "title": "PRO99S Heating Pad for Period Pain Relief massager for Heating Belly Wrap Belt Inhaler",
+   "brand": "PRO99S",
    "price": null,
-   "rating": 4.1,
-   "ratings": 6593,
+   "rating": 4,
+   "ratings": 482,
    "isFrido": false
   },
   {
    "pos": 11,
-   "title": "GRELLA Heating Pad for Period Pain Relief massager for Heating Belly Wrap Belt Plaster & Patch",
+   "title": "BELENZO Electric Cordless Heating Pad for Period Pain, Cramp Relief, Back Pain in Period Inhaler",
+   "brand": "BELENZO",
    "price": null,
-   "rating": 4.2,
-   "ratings": 298,
+   "rating": 4.1,
+   "ratings": 6631,
    "isFrido": false
   },
   {
    "pos": 12,
-   "title": "JOICE IMPEX Women Period Cramp Relief Massager | Period Cramp Belt | Menstrual Heating Pad Plaster & Patch",
+   "title": "PRO99S Portable Heating Pad for Period Pain Relief massager for Heating Belly Wrap Belt Inhaler",
+   "brand": "PRO99S",
    "price": null,
-   "rating": 4,
-   "ratings": 36,
-   "isFrido": false
-  },
-  {
-   "pos": 13,
-   "title": "Pawells Lumbar Support Belt for Back Pain Relief for Men & Women Back / Lumbar Support",
-   "price": null,
-   "rating": 5,
-   "ratings": 4,
-   "isFrido": false
-  },
-  {
-   "pos": 14,
-   "title": "varique massager,massager for women,Body Electric Massage Ring for Body Pain Relief Inhaler",
-   "price": null,
-   "rating": 5,
-   "ratings": 33,
+   "rating": 4.4,
+   "ratings": 45,
    "isFrido": false
   }
  ],
