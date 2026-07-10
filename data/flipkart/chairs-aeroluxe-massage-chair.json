@@ -1,56 +1,64 @@
 {
  "category": "chairs-aeroluxe-massage-chair",
  "marketplace": "flipkart",
- "keyword": "Frido Aeroluxe Massage Chair",
+ "keyword": "Massage Chair",
+ "brandKeyword": "Frido Aeroluxe Massage Chair",
  "capturedAt": "2026-07-08",
- "method": "Live scrape flipkart.com mobile search page 1 (__INITIAL_STATE__), query = exact SKU name",
+ "method": "Live scrape flipkart.com mobile search page 1 (__INITIAL_STATE__), query = generic product keyword",
  "confidence": "Medium-High (live; sponsored flags not exposed on mobile)",
  "fridoRank": null,
  "fridoPresent": false,
+ "fridoUrl": "https://www.flipkart.com/search?q=Massage%20Chair",
  "results": [
   {
    "pos": 1,
-   "title": "TENACT Posture Corrector Belt Pro Fix for Men & Women Straight Back pain Relief Posture Corrector",
+   "title": "ExtraLux Full Body Massage Chair Pad with Heat & Vibration | Neck, Back & Waist Massager Massage Chair",
+   "brand": "ExtraLux",
    "price": null,
-   "rating": 3.8,
-   "ratings": 8159,
+   "rating": 4.3,
+   "ratings": 6,
    "isFrido": false
   },
   {
    "pos": 2,
-   "title": "TENACT Posture Corrector Belt for men & women Back Support & Posture Corrector",
+   "title": "JSB MZ08 Massage Chair Recliner Zero Gravity for Home Stress Relief (Gold Brown) Massage Chair",
+   "brand": "JSB",
    "price": null,
-   "rating": 3.8,
-   "ratings": 3650,
+   "rating": 0,
+   "ratings": 0,
    "isFrido": false
   },
   {
    "pos": 3,
-   "title": "TENACT Premium Belt for Men & Women Pain Relief Posture Corrector",
+   "title": "ExtraLux Electric Seat Massager with Heating Function | Neck & Back Shiatsu Massage Chair",
+   "brand": "ExtraLux",
    "price": null,
-   "rating": 3.6,
-   "ratings": 1774,
+   "rating": 3.8,
+   "ratings": 4,
    "isFrido": false
   },
   {
    "pos": 4,
-   "title": "TENACT Posture Corrector Belt Pro for Men & Women Back Support Belt for Straight Back Back / Lumbar Support",
+   "title": "MikeaInfo Global Enterprises Shampoo Station With Mayur Design chair Shampoo Chair",
+   "brand": "MikeaInfo Global Enterprises",
    "price": null,
-   "rating": 3.9,
-   "ratings": 111,
+   "rating": 3.6,
+   "ratings": 13,
    "isFrido": false
   },
   {
    "pos": 5,
-   "title": "TENACT Posture Corrector Belt for Women & Men Back Support Belt for Posture Corrector",
+   "title": "varnirajimportexport Electric Heated Low Back and Neck Shiatsu Massager Cushion Vibrating Massage Chair",
+   "brand": "varnirajimportexport",
    "price": null,
-   "rating": 3.9,
-   "ratings": 292,
+   "rating": 4.4,
+   "ratings": 9,
    "isFrido": false
   },
   {
    "pos": 6,
-   "title": "Robocura Luxury Eminent Plus Full Body Massage Chair, Corded Electric Massage Chair",
+   "title": "ExtraLux Ergonomic Massage Seat Pad with Intelligent Heat Therapy | Deep Kneading Massage Chair",
+   "brand": "ExtraLux",
    "price": null,
    "rating": 0,
    "ratings": 0,
@@ -58,66 +66,29 @@
   },
   {
    "pos": 7,
-   "title": "ULTIMATE IS52 Delux Quick Relief Body Massager Massager",
+   "title": "botcura Luxury Massage Chair with Recliner Zero Gravity for Home Stress Relief Massage Chair",
+   "brand": "botcura",
    "price": null,
-   "rating": 4,
-   "ratings": 95,
+   "rating": 4.9,
+   "ratings": 9,
    "isFrido": false
   },
   {
    "pos": 8,
-   "title": "Cult Riviera 4D Massage Chair with Rovo Walking Technique| Head-to-Toe Massage Chair Massage Chair",
+   "title": "ExtraLux Heated Massage Chair Pad for Back, Neck & Waist | Multifunctional Vibration Massage Chair",
+   "brand": "ExtraLux",
    "price": null,
-   "rating": 1,
-   "ratings": 2,
+   "rating": 3.4,
+   "ratings": 5,
    "isFrido": false
   },
   {
    "pos": 9,
-   "title": "ROBOSTAR 99 Z Massage Chair",
+   "title": "Cult LUXE Full Body Zero Gravity with AI Voice, SL 3D Track & 18 Preset Program Massage Chair",
+   "brand": "Cult",
    "price": null,
-   "rating": 0,
-   "ratings": 0,
-   "isFrido": false
-  },
-  {
-   "pos": 10,
-   "title": "Drogo Multi-Purpose Ergonomic Gaming Chair with Head & USB Massager Pillow, PU Leather Gaming Chair",
-   "price": null,
-   "rating": 4.5,
-   "ratings": 443,
-   "isFrido": false
-  },
-  {
-   "pos": 11,
-   "title": "Drogo Multi-Purpose Ergonomic Gaming Chair with Adjustable Seat, Head & USB Massager Gaming Chair",
-   "price": null,
-   "rating": 4.5,
-   "ratings": 443,
-   "isFrido": false
-  },
-  {
-   "pos": 12,
-   "title": "botcura SL Track Full Body Massage Chair Massage Chair",
-   "price": null,
-   "rating": 0,
-   "ratings": 0,
-   "isFrido": false
-  },
-  {
-   "pos": 13,
-   "title": "Future Massager Junior Roboking Plus Full body luxury zero gravity massage chair Massage Chair",
-   "price": null,
-   "rating": 0,
-   "ratings": 0,
-   "isFrido": false
-  },
-  {
-   "pos": 14,
-   "title": "iRest SL A 710 4D Massage Chair",
-   "price": null,
-   "rating": 0,
-   "ratings": 0,
+   "rating": 4.7,
+   "ratings": 3,
    "isFrido": false
   }
  ],

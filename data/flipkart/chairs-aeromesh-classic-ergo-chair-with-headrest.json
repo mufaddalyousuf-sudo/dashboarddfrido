@@ -1,75 +1,103 @@
 {
  "category": "chairs-aeromesh-classic-ergo-chair-with-headrest",
  "marketplace": "flipkart",
- "keyword": "Frido AeroMesh Classic Ergo Chair - With Headrest",
+ "keyword": "Ergo Chair With Headrest",
+ "brandKeyword": "Frido AeroMesh Classic Ergo Chair - With Headrest",
  "capturedAt": "2026-07-08",
- "method": "Live scrape flipkart.com mobile search page 1 (__INITIAL_STATE__), query = exact SKU name",
+ "method": "Live scrape flipkart.com mobile search page 1 (__INITIAL_STATE__), query = generic product keyword",
  "confidence": "Medium-High (live; sponsored flags not exposed on mobile)",
- "fridoRank": 1,
- "fridoPresent": true,
+ "fridoRank": null,
+ "fridoPresent": false,
+ "fridoUrl": "https://www.flipkart.com/search?q=Ergo%20Chair%20With%20Headrest",
  "results": [
   {
    "pos": 1,
-   "title": "Frido Aeromesh Classic Ergonomic Office Chair for Home & Work,Breathable Mesh Backrest NA Office Adjustable Arm Chair",
+   "title": "Drogo Pulse Ergonomic Gaming Chair, PU Leather, Lumbar Support, Recliner & Footrest Gaming Chair",
+   "brand": "Drogo",
    "price": null,
    "rating": 0,
    "ratings": 0,
-   "isFrido": true
+   "isFrido": false
   },
   {
    "pos": 2,
-   "title": "Frido Aeromesh Classic Ergonomic Office Chair with Headrest, Lumbar & 2D Armrests Mesh Office Adjustable Arm Chair",
+   "title": "Drogo High Back Ergonomic Gaming Chair with Adjustable Neck, Armrest PU Leather Gaming Chair",
+   "brand": "Drogo",
    "price": null,
-   "rating": 0,
-   "ratings": 0,
-   "isFrido": true
+   "rating": 4.2,
+   "ratings": 163,
+   "isFrido": false
   },
   {
    "pos": 3,
-   "title": "IAFA Diego Mid Back Ergonomic Office Heavy Duty Black Metal Base Mesh Office Arm Chair",
+   "title": "ASTRIDE Ergofit Ergonomic High Back, Synchro Tilt Mechanism, Heavy Duty Metal Base Mesh Office Adjustable Arm Chair",
+   "brand": "ASTRIDE",
    "price": null,
-   "rating": 4,
-   "ratings": 14746,
+   "rating": 4.1,
+   "ratings": 12747,
    "isFrido": false
   },
   {
    "pos": 4,
-   "title": "CELLBELL Desire C104 High Back Fabric, Mesh Office Executive Chair",
+   "title": "ASTRIDE Ergofit Ergonomic Chair High Back, Synchro Tilt Mechanism, Heavy Duty Metal Base Mesh Office Adjustable Arm Chair",
+   "brand": "ASTRIDE",
    "price": null,
-   "rating": 3.6,
-   "ratings": 23,
+   "rating": 4.1,
+   "ratings": 12747,
    "isFrido": false
   },
   {
    "pos": 5,
-   "title": "Frido AeroMesh Ergo Chair, Adjustable Armrests & Headrest, 120kg Capacity Mesh Office Adjustable Arm Chair",
+   "title": "The Sleep Company Stylux SmartGRID Premium Ergonomic High-Back Desk Chair for Office & Home Nylon Office Executive Chair",
+   "brand": "The Sleep Company",
    "price": null,
-   "rating": 0,
-   "ratings": 0,
-   "isFrido": true
+   "rating": 4,
+   "ratings": 451,
+   "isFrido": false
   },
   {
    "pos": 6,
-   "title": "Drogo Office Chair for Work from Home Computer Chair with 3D Headrest & Lumbar Support Mesh Office Executive Chair",
+   "title": "IAFA Diego High Back Ergonomic Office Chair Heavy Duty Black Metal Base Mesh Office Arm Chair",
+   "brand": "IAFA",
    "price": null,
-   "rating": 0,
-   "ratings": 0,
+   "rating": 3.7,
+   "ratings": 247,
    "isFrido": false
   },
   {
    "pos": 7,
-   "title": "IAFA Ergolux High Back Ergonomic Office Chair with Heavy Duty Metal Base Mesh Office Adjustable Arm Chair",
+   "title": "Drogo Office Chair for Work from Home Computer Chair with 3D Headrest & Lumbar Support Mesh Office Executive Chair",
+   "brand": "Drogo",
    "price": null,
-   "rating": 4,
-   "ratings": 4025,
+   "rating": 0,
+   "ratings": 0,
    "isFrido": false
   },
   {
    "pos": 8,
-   "title": "beaatho Verona High Back With Ergonomic Revolving Nylon Office Arm Chair",
+   "title": "ASTRIDE Ergofit Ergonomic Chair 2D Headrest,Tilt Lock Mechanism Nylon Base Mesh Office Adjustable Arm Chair",
+   "brand": "ASTRIDE",
    "price": null,
-   "rating": 3.7,
-   "ratings": 1535,
+   "rating": 4.1,
+   "ratings": 12747,
+   "isFrido": false
+  },
+  {
+   "pos": 9,
+   "title": "The Sleep Company Stylux SmartGRID Premium Ergonomic High-Back Desk for Office & Home Nylon Office Executive Chair",
+   "brand": "The Sleep Company",
+   "price": null,
+   "rating": 4,
+   "ratings": 451,
+   "isFrido": false
+  },
+  {
+   "pos": 10,
+   "title": "Chaiirtech Upto 2 Years of Warranty | High Back | Ergonomic | Home & Office Leatherette Office Adjustable Arm Chair",
+   "brand": "Chaiirtech",
+   "price": null,
+   "rating": 2,
+   "ratings": 4,
    "isFrido": false
   }
  ],

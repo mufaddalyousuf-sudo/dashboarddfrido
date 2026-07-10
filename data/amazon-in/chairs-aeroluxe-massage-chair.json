@@ -1,102 +1,103 @@
 {
  "category": "chairs-aeroluxe-massage-chair",
  "marketplace": "amazon-in",
- "keyword": "Frido Aeroluxe Massage Chair",
+ "keyword": "Massage Chair",
+ "brandKeyword": "Frido Aeroluxe Massage Chair",
  "capturedAt": "2026-07-08",
- "method": "Live scrape amazon.in search page 1, query = exact SKU name (brand-qualified)",
+ "method": "Live scrape amazon.in search page 1, query = generic product keyword (brand + Frido product-line/marketing words stripped) — the competitive rank signal, not a brand-qualified existence check",
  "confidence": "High (live snapshot, single keyword)",
- "fridoOrganicRank": 2,
- "fridoSponsoredSlot": 5,
+ "fridoOrganicRank": null,
+ "fridoSponsoredSlot": null,
+ "fridoUrl": null,
  "organic": [
   {
-   "asin": "B0DR2RX2SK",
-   "badge": "Amazon's Choice",
-   "price": "16,149",
-   "rating": "4.0",
-   "reviews": "205",
-   "title": "3D Posture Plus Ergonomic Chair | Adjustable Lumbar Support & 135° Recline | for Lumbar Pain & Posture Correction | Leather Chairs for Office Work, Home, Gaming",
-   "rank": 1
-  },
-  {
-   "asin": "B0DVPNFC13",
-   "badge": null,
-   "price": "15,999",
-   "rating": "4.0",
-   "reviews": "122",
-   "title": "AeroMesh Ergo Chair, Adjustable Armrests & Headrest, Lumbar Support, Breathable Mesh Back Fabric, Customizable Seat Depth & Height, Office Chair for Work, Study",
-   "rank": 2,
-   "isFridoBrand": true
-  },
-  {
-   "asin": "B0C33YXKT3",
-   "badge": null,
-   "price": "4,999",
-   "rating": "3.5",
-   "reviews": "66",
-   "title": "Deep Heal Cushion Shiatsu Massage Chair for Neck and Back with Deep Vibration Massager for Body Pain Relief at Home,Office Massager (Black)",
-   "rank": 3
-  },
-  {
-   "asin": "B0FRSCGK2W",
-   "badge": null,
-   "price": "12,999",
-   "rating": "5.0",
-   "reviews": "2",
-   "title": "Aeromesh Classic Ergonomic Office Chair with Headrest | Breathable Mesh Backrest, Adjustable Lumbar Support & 2D Armrests | Comfortable Computer Chair for Home,",
-   "rank": 4
-  },
-  {
-   "asin": "B0FPCQ4C9L",
-   "badge": null,
-   "price": "36,999",
-   "rating": "3.8",
-   "reviews": "14",
-   "title": "ErgoLuxe Executive Chair | Premium Ergonomic Office Chair with Integrated Lumbar Support | 3D Adjustable Armrests, Retractable Footrest & 145° Reclining | High ",
-   "rank": 5
-  },
-  {
-   "asin": "B0DJBYDNGC",
-   "badge": null,
-   "price": "1,899",
-   "rating": "4.1",
-   "reviews": "276",
-   "title": "Revive Back Massager for Pain Relief | Cushion Massager with 4 Nodes | Neck Massager for Pain Relief & Body Pain | Gentle Warmth and 2 Speeds",
-   "rank": 6
-  },
-  {
-   "asin": "B0FYP2474S",
-   "badge": null,
-   "price": "7,999",
-   "rating": "5.0",
-   "reviews": "5",
-   "title": "Durafit91™ Portable Chair Massager with Heat, Vibration | Full Back, Neck Support Massage Cushion | Electric Shiatsu Seat Massager for Pain Relief, Relaxation &",
-   "rank": 7
-  },
-  {
-   "asin": "B0FRSCC17C",
-   "badge": null,
-   "price": "12,999",
-   "rating": "1.0",
-   "reviews": "1",
-   "title": "Aeromesh Classic Ergonomic Office Chair with Headrest | Breathable Mesh Backrest, Adjustable Lumbar Support & 2D Armrests | Comfortable Computer Chair for Home,",
-   "rank": 8
-  },
-  {
    "asin": "B07V1MPZYD",
-   "badge": null,
+   "badge": "Amazon's Choice",
    "price": "34,999",
    "rating": "4.0",
    "reviews": "270",
-   "title": "LLM549 Full Body Massage Chair with Recliner and powerful 3D back and Leg Massage for Home| Massage chair for Full Body Relaxation at Home, 1 Year Warranty, Ele",
+   "title": "Lifelong LLM549 Full Body Massage Chair with Recliner and powerful 3D back and Leg Massage for Home| Massage chair for Full Body Relaxation at Home, 1 Year Warr",
+   "rank": 1
+  },
+  {
+   "asin": "B0H4RJ295Z",
+   "badge": null,
+   "price": "59,999",
+   "rating": null,
+   "reviews": null,
+   "title": "indulge PMC-2 Full Body Massage Chair with Zero Gravity Function | 5 Auto Programs | 25 Airbags | Voice Control | Heating Function Waist & Calf | Bluetooth Musi",
+   "rank": 2
+  },
+  {
+   "asin": "B0DNMR1N3M",
+   "badge": null,
+   "price": "61,499",
+   "rating": null,
+   "reviews": null,
+   "title": "BOTCURA 1010 Luxury Massage Chair with Recliner Zero Gravity for Home Stress Relief",
+   "rank": 3
+  },
+  {
+   "asin": "B0FFBJZ2YZ",
+   "badge": null,
+   "price": "79,999",
+   "rating": "4.6",
+   "reviews": "40",
+   "title": "Lixo LI4405 Neo Full Body Massage Chair for Home | 4D Mechanism | 24 Auto Programs | SL Track | Dual Zero Gravity | Voice Control | Heating | Bluetooth | Foot R",
+   "rank": 4
+  },
+  {
+   "asin": "B0GLNLY9NB",
+   "badge": null,
+   "price": "1,27,999",
+   "rating": "4.9",
+   "reviews": "19",
+   "title": "Lixo LI5222 Full Body Massage Chair| 4D Mechanism| SL-Track| 20 Auto Programs| Three Zero Gravity| Ambient LED Lighting | Voice Control |Dual Heating|Full Body ",
+   "rank": 5
+  },
+  {
+   "asin": "B0DHXZ1CGG",
+   "badge": null,
+   "price": "1,08,000",
+   "rating": "4.0",
+   "reviews": "17",
+   "title": "RoboTouch EconoSmart Zero Gravity Full Body Electric Massage Chair (Brown)",
+   "rank": 6
+  },
+  {
+   "asin": "B0GSWRK33C",
+   "badge": null,
+   "price": "22,990",
+   "rating": "5.0",
+   "reviews": "7",
+   "title": "DROGO Monarch-X Massage Office Chair with Vibration & Heat | Big and Tall Ergonomic Executive Computer Chair with PU Leather & 150Reclining | Gaming Chair with ",
+   "rank": 7
+  },
+  {
+   "asin": "B0H6XLY7X5",
+   "badge": null,
+   "price": "64,999",
+   "rating": "4.4",
+   "reviews": "66",
+   "title": "Lixo Massage Chair-LI4400A, Comfort with 22 Auto Wellness Programs, 4 Innovative Features, Rotary Switch, Bluetooth & LCD Screen | Prime Triple-Core Massage Cha",
+   "rank": 8
+  },
+  {
+   "asin": "B0H6WVYT8S",
+   "badge": null,
+   "price": "69,999",
+   "rating": "4.4",
+   "reviews": "66",
+   "title": "Lixo Massage Chair-LI4400B, Comfort with 22 Auto Wellness Programs, 4 Innovative Features, Rotary Switch, Bluetooth & LCD Screen | Prime Triple-Core Massage Cha",
    "rank": 9
   },
   {
-   "asin": "B0B8MZ9FHC",
+   "asin": "B0C89PRL3W",
    "badge": null,
-   "price": "15,999",
-   "rating": "4.2",
-   "reviews": "1,708",
-   "title": "Stylux Premium Ergonomic Office Chair | Patented SmartGRID seat | SpinePro Lumbar Support | Work, Home, Study | Adjustable Headrest & 4D Armrests | Free Install",
+   "price": "1,24,999",
+   "rating": "5.0",
+   "reviews": "9",
+   "title": "ARG HEALTHCARE Electric Massage Chair for Pain Relief with Head Massage 3D Chair| 40 Airbag, Body Scanner Full automatic, Zero Gravity | massage chair for home ",
    "rank": 10
   }
  ],
@@ -104,20 +105,56 @@
   {
    "asin": "B0D8T61JZH",
    "badge": null,
-   "price": "1,14,000",
+   "price": "1,23,000",
    "rating": "4.4",
    "reviews": "91",
-   "title": "EconoPremium Ultra Luxury Massage Chair: Touch Control, SL Track, Zero Gravity, Zero Space, Wireless Charging, Airbag Massage, Back Heating – Ideal for Elderly ",
+   "title": "RoboTouch EconoPremium Ultra Luxury Massage Chair: Touch Control, SL Track, Zero Gravity, Zero Space, Wireless Charging, Airbag Massage, Back Heating – Ideal fo",
    "slot": 1
   },
   {
-   "asin": "B0GRV4W7V4",
+   "asin": "B0GL1WRS5J",
    "badge": null,
-   "price": "949",
-   "rating": "4.3",
-   "reviews": "42",
-   "title": "Charge Go Massage Gun | 5 Specialized Heads For Full Body Pain Relief | Body Massager for Pain Relief | Massage Gun for Back Leg & Full Body",
+   "price": "64,999",
+   "rating": "4.4",
+   "reviews": "66",
+   "title": "Lixo LI4400A Full Body Massage Chair for Home | 22 Auto Programs | Zero Gravity Recliner | Voice Control | Back Heating | Bluetooth Speaker | Foot Rollers | USB",
    "slot": 2
+  },
+  {
+   "asin": "B0GLNLY9NB",
+   "badge": null,
+   "price": "1,27,999",
+   "rating": "4.9",
+   "reviews": "19",
+   "title": "Lixo LI5222 Full Body Massage Chair| 4D Mechanism| SL-Track| 20 Auto Programs| Three Zero Gravity| Ambient LED Lighting | Voice Control |Dual Heating|Full Body ",
+   "slot": 3
+  },
+  {
+   "asin": "B0FFBHRYRW",
+   "badge": null,
+   "price": "79,999",
+   "rating": "4.6",
+   "reviews": "40",
+   "title": "Lixo LI4405 Full Body Massage Chair for Home| 4D Mechanism | 24 Auto Programs | SL-Track | Dual Zero Gravity | Smart Voice Control | Full Body Airbags | Foot Ro",
+   "slot": 4
+  },
+  {
+   "asin": "B0FD8VK3FR",
+   "badge": null,
+   "price": "95,000",
+   "rating": "5.0",
+   "reviews": "1",
+   "title": "SOBO RelaxPro Massage Chair Full Body Zero Gravity Auto Modes Full Body Airbags and Heat Therapy with 3 Year Warranty",
+   "slot": 5
+  },
+  {
+   "asin": "B0G43FSVD6",
+   "badge": null,
+   "price": "5,59,999",
+   "rating": "5.0",
+   "reviews": "3",
+   "title": "ROBOTICVIBE RV9090 4D Massage Chair | Dual-Core System | 28 Auto Programs | 143cm SL-Track | Negative Ion Air-Purification | Voice Control | V-Hand Techniques |",
+   "slot": 6
   },
   {
    "asin": "B0GX5SRSRJ",
@@ -125,53 +162,16 @@
    "price": "2,40,000",
    "rating": "5.0",
    "reviews": "1",
-   "title": "5D Zero Gravity Full Body Massage Chair for Home with AI Smart Body Scan Zero Gravity Recliner Full Body Deep Tissue Massage Heat Therapy Bluetooth Speakers 5 Y",
-   "slot": 3
-  },
-  {
-   "asin": "B0GX5QKLSY",
-   "badge": null,
-   "price": "2,99,000",
-   "rating": null,
-   "reviews": null,
-   "title": "5D Zero Gravity Full Body Massage Chair for Home | Smart Body Scan | Zero Gravity Luxury Recliner | Heat Therapy | Bluetooth Audio | Elite Wellness Chair | Grey",
-   "slot": 4
-  },
-  {
-   "asin": "B0FPCP1MMN",
-   "badge": null,
-   "price": "36,999",
-   "rating": "3.8",
-   "reviews": "14",
-   "title": "ErgoLuxe Executive Chair | Premium Ergonomic Office Chair with Integrated Lumbar Support | 3D Adjustable Armrests, Retractable Footrest & 145° Reclining | High ",
-   "slot": 5,
-   "isFridoBrand": true
-  },
-  {
-   "asin": "B0H71LMGGY",
-   "badge": null,
-   "price": "1,667",
-   "rating": "4.6",
-   "reviews": "27,391",
-   "title": "Bionic Heated Massager, Wireless Portable Shiatsu Neck and Back Massager, Electric Deep Tissue 4D Kneading Massage, Simulated Human Hand Design for Pain Relief ",
-   "slot": 6
-  },
-  {
-   "asin": "B0DQVCYVR1",
-   "badge": null,
-   "price": "3,749",
-   "rating": "3.8",
-   "reviews": "55",
-   "title": "Electric Relax Foot Massager With Shiatsu & Vibration Therapy, 4 Automatic Programs, Enhances Blood Circulation, Pain Relief Foot Massager,Grey",
+   "title": "SOBO 5D Zero Gravity Full Body Massage Chair for Home with AI Smart Body Scan Zero Gravity Recliner Full Body Deep Tissue Massage Heat Therapy Bluetooth Speaker",
    "slot": 7
   },
   {
-   "asin": "B0FQJMN8LW",
+   "asin": "B083R8K4LY",
    "badge": null,
-   "price": "10,999",
-   "rating": "3.8",
-   "reviews": "48",
-   "title": "Durafit91™ Electric Leg Massager For Pain Relief | Foot and Calf Massager | 4 types of Foot Massage Shiatsu, Rolling, Deep Kneading, Mild Heat Warm Infrared The",
+   "price": "1,58,000",
+   "rating": "3.9",
+   "reviews": "15",
+   "title": "SOBO 5D Massage Chair with Touch Control Panel Zero Gravity SL Track 5 Year Warranty",
    "slot": 8
   },
   {
@@ -179,17 +179,17 @@
    "badge": null,
    "price": "8,999",
    "rating": "3.9",
-   "reviews": "132",
-   "title": "Foot & Calf Massager Machine for Pain Relief | 3 Adjustable Intensity Levels| Electric Massager with Digital Display | Feet Massage for Blood Circulation & Soot",
+   "reviews": "133",
+   "title": "Lifelong Foot & Calf Massager Machine for Pain Relief | 3 Adjustable Intensity Levels| Electric Massager with Digital Display | Feet Massage for Blood Circulati",
    "slot": 9
   },
   {
-   "asin": "B0GPVB4L8H",
-   "badge": "Bestseller",
-   "price": "1,899",
-   "rating": "4.2",
-   "reviews": "39",
-   "title": "KnotRelief Electric Shiatsu Back & Neck Massager, 4 Deep-Kneading Nodes, Infrared Heat, Bi-Directional Rotation, Portable Back Massager for Pain Relief, Car & H",
+   "asin": "B0BTHT1XV6",
+   "badge": null,
+   "price": "11,499",
+   "rating": "4.4",
+   "reviews": "3",
+   "title": "AROGYA Foot, Calf & Leg Massager For Pain Relief & Relaxation 3 Modes Intensity Kneading & Shiatsu Massage Rolling, Vibration & Heat Therapy Improved Blood Circ",
    "slot": 10
   }
  ],

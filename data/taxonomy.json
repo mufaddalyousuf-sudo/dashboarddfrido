@@ -726,43 +726,43 @@
    "datasets": [
     {
      "id": "chairs-vajra-gaming-chair",
-     "keyword": "Frido Vajra Gaming Chair",
+     "keyword": "Gaming Chair",
      "primary": true
     },
     {
      "id": "chairs-ergoluxe-executive-chair",
-     "keyword": "Frido ErgoLuxe Executive Chair"
+     "keyword": "Executive Chair"
     },
     {
      "id": "chairs-3d-posture-plus-ergonomic-chair",
-     "keyword": "Frido 3D Posture Plus Ergonomic Chair"
+     "keyword": "3D Posture Plus Ergonomic Chair"
     },
     {
      "id": "chairs-aeromesh-ergo-chair",
-     "keyword": "Frido AeroMesh Ergo Chair"
+     "keyword": "Ergo Chair"
     },
     {
      "id": "chairs-glide-ergo-chair",
-     "keyword": "Frido Glide Ergo Chair"
+     "keyword": "Ergo Chair"
     },
     {
      "id": "chairs-aeromesh-classic-ergo-chair-without-headrest",
-     "keyword": "Frido AeroMesh Classic Ergo Chair - Without Headrest"
+     "keyword": "Ergo Chair Without Headrest"
     },
     {
      "id": "chairs-embrace-ergo-chair",
-     "keyword": "Frido Embrace Ergo Chair"
+     "keyword": "Ergo Chair"
     },
     {
      "id": "chairs-aeromesh-classic-ergo-chair-with-headrest",
-     "keyword": "Frido AeroMesh Classic Ergo Chair - With Headrest"
+     "keyword": "Ergo Chair With Headrest"
     },
     {
      "id": "chairs-aeroluxe-massage-chair",
-     "keyword": "Frido Aeroluxe Massage Chair"
+     "keyword": "Massage Chair"
     }
    ],
-   "skuSource": "frido-product-catalog.json (full base-SKU research, 2026-07-08)"
+   "skuSource": "frido-product-catalog.json searchKeyword (generic, brand-stripped), 2026-07-08"
   }
  ]
 }

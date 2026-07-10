@@ -1,123 +1,94 @@
 {
  "category": "chairs-ergoluxe-executive-chair",
  "marketplace": "flipkart",
- "keyword": "Frido ErgoLuxe Executive Chair",
+ "keyword": "Executive Chair",
+ "brandKeyword": "Frido ErgoLuxe Executive Chair",
  "capturedAt": "2026-07-08",
- "method": "Live scrape flipkart.com mobile search page 1 (__INITIAL_STATE__), query = exact SKU name",
+ "method": "Live scrape flipkart.com mobile search page 1 (__INITIAL_STATE__), query = generic product keyword",
  "confidence": "Medium-High (live; sponsored flags not exposed on mobile)",
- "fridoRank": 6,
- "fridoPresent": true,
+ "fridoRank": null,
+ "fridoPresent": false,
+ "fridoUrl": "https://www.flipkart.com/search?q=Executive%20Chair",
  "results": [
   {
    "pos": 1,
-   "title": "Baben Free Size Posture Corrector For Men And Women Back / Lumbar Support",
+   "title": "beaatho Nylon Office Executive Chair",
+   "brand": "beaatho",
    "price": null,
-   "rating": 4.1,
-   "ratings": 377,
+   "rating": 3.7,
+   "ratings": 6,
    "isFrido": false
   },
   {
    "pos": 2,
-   "title": "Baben Posture corrector belt for men and women for back pain Posture Corrector Posture Corrector",
+   "title": "The Sleep Company Stylux SmartGRID Premium Ergonomic High-Back Desk for Office & Home Nylon Office Executive Chair",
+   "brand": "The Sleep Company",
    "price": null,
-   "rating": 4.2,
-   "ratings": 74,
+   "rating": 4,
+   "ratings": 451,
    "isFrido": false
   },
   {
    "pos": 3,
-   "title": "Baben Free Size Sciatica Pain Relief Belt – Adjustable Lower Back & Hip Support Abdominal Belt",
+   "title": "MRC Executive Chairs M061 Pro High Back Office Chair Ergonomic Premium Finish Ultra Comfort Leatherette Office Executive Chair",
+   "brand": "MRC Executive Chairs",
    "price": null,
-   "rating": 5,
-   "ratings": 21,
+   "rating": 4,
+   "ratings": 39,
    "isFrido": false
   },
   {
    "pos": 4,
-   "title": "Baben 3 in 1 Postpartum Support - Recovery Belly Belt Free Size Abdominal Support Abdominal Belt",
+   "title": "Interio by Godrej Vurv Mid Back Mesh Office Executive Chair",
+   "brand": "Interio by Godrej",
    "price": null,
-   "rating": 0,
-   "ratings": null,
+   "rating": 4.3,
+   "ratings": 3892,
    "isFrido": false
   },
   {
    "pos": 5,
-   "title": "Baben Posture Corrector Belt for Men & Women Back Support Brace Shoulder Pain Relief Posture Corrector",
+   "title": "The Sleep Company Stylux SmartGRID Premium Ergonomic High-Back Desk Chair for Office & Home Nylon Office Executive Chair",
+   "brand": "The Sleep Company",
    "price": null,
-   "rating": 3.5,
-   "ratings": 4,
+   "rating": 4,
+   "ratings": 451,
    "isFrido": false
   },
   {
    "pos": 6,
-   "title": "Frido Premium ErgoLuxe Executive Office Chair | Lumbar Support | 3D Adjustable Armrest Leather Office Executive Chair",
+   "title": "ASTRIDE Airsense Mid Back Office Chair for Work from Home/Study, Tilt Lock,Metal Base Mesh Office Executive Chair",
+   "brand": "ASTRIDE",
    "price": null,
-   "rating": 0,
-   "ratings": 0,
-   "isFrido": true
+   "rating": 4.2,
+   "ratings": 1006,
+   "isFrido": false
   },
   {
    "pos": 7,
-   "title": "FUGO office study chair Leatherette Office Executive Chair",
+   "title": "oakluxe Leatherette Office Executive Chair",
+   "brand": "oakluxe",
    "price": null,
-   "rating": 3,
-   "ratings": 7,
+   "rating": 0,
+   "ratings": 0,
    "isFrido": false
   },
   {
    "pos": 8,
-   "title": "FUGO Leatherette Office Executive Chair",
+   "title": "The Sleep Company Elite Premium Ergonomic High-Back Desk for Office & Home With Footrest Mesh Office Executive Chair",
+   "brand": "The Sleep Company",
    "price": null,
-   "rating": 0,
-   "ratings": 0,
+   "rating": 4,
+   "ratings": 10,
    "isFrido": false
   },
   {
    "pos": 9,
-   "title": "Drogo Leather Office Executive Chair",
+   "title": "Da URBAN Merlion Grey-Z High Back Ergonomic Mesh Office Chair Mesh Office Executive Chair",
+   "brand": "Da URBAN",
    "price": null,
-   "rating": 5,
-   "ratings": 4,
-   "isFrido": false
-  },
-  {
-   "pos": 10,
-   "title": "Drogo Ergonomic Office Chair for Work from Home Computer Chair with Adjustable Seat Mesh Office Executive Chair",
-   "price": null,
-   "rating": 4.3,
-   "ratings": 4,
-   "isFrido": false
-  },
-  {
-   "pos": 11,
-   "title": "Drogo Ergonomic Office/Gaming for Work from Home Computer with Head & USB Mesh Office Executive Chair",
-   "price": null,
-   "rating": 4.1,
-   "ratings": 8,
-   "isFrido": false
-  },
-  {
-   "pos": 12,
-   "title": "ErgoX Leatherette Office Arm Chair",
-   "price": null,
-   "rating": 0,
-   "ratings": 0,
-   "isFrido": false
-  },
-  {
-   "pos": 13,
-   "title": "Oakcraft Velor Ergo, 3 Years On-Site Warranty for Unrivaled Quality and Luxury Leatherette Office Executive Chair",
-   "price": null,
-   "rating": 3.7,
-   "ratings": 13,
-   "isFrido": false
-  },
-  {
-   "pos": 14,
-   "title": "FUGO Chair FG10C Office Chair, Study Chair, Computer Chair, 3 Years Warranty Leatherette Office Executive Chair",
-   "price": null,
-   "rating": 3.5,
-   "ratings": 6,
+   "rating": 3.9,
+   "ratings": 345,
    "isFrido": false
   }
  ],

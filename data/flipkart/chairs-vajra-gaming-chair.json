@@ -1,51 +1,103 @@
 {
  "category": "chairs-vajra-gaming-chair",
  "marketplace": "flipkart",
- "keyword": "Frido Vajra Gaming Chair",
+ "keyword": "Gaming Chair",
+ "brandKeyword": "Frido Vajra Gaming Chair",
  "capturedAt": "2026-07-08",
- "method": "Live scrape flipkart.com mobile search page 1 (__INITIAL_STATE__), query = exact SKU name",
+ "method": "Live scrape flipkart.com mobile search page 1 (__INITIAL_STATE__), query = generic product keyword",
  "confidence": "Medium-High (live; sponsored flags not exposed on mobile)",
  "fridoRank": null,
  "fridoPresent": false,
+ "fridoUrl": "https://www.flipkart.com/search?q=Gaming%20Chair",
  "results": [
   {
    "pos": 1,
-   "title": "CELLBELL Transformer Lite Ergonomic High Back Racing, 1D Armrest Tilt Mechanism, Leather Reclining Office. Gaming Chair",
+   "title": "Morph RAPTOR SYNC X RGB Gaming Chair with Bluetooth Speakers, Massage, Footrest Gaming Chair",
+   "brand": "Morph",
    "price": null,
-   "rating": 4.1,
-   "ratings": 445,
+   "rating": 0,
+   "ratings": 0,
    "isFrido": false
   },
   {
    "pos": 2,
    "title": "Drogo High Back Ergonomic Gaming Chair with Adjustable Neck, Armrest PU Leather Gaming Chair",
+   "brand": "Drogo",
    "price": null,
    "rating": 4.2,
-   "ratings": 162,
+   "ratings": 163,
    "isFrido": false
   },
   {
    "pos": 3,
-   "title": "GREEN SOUL Blade Ergonomic Gaming Chair|Multi-Functional Computer Chair|Ergo Sync Armrest Gaming Chair",
+   "title": "Drogo Pulse Ergonomic Gaming Chair, PU Leather, Lumbar Support, Recliner & Footrest Gaming Chair",
+   "brand": "Drogo",
    "price": null,
-   "rating": 4.5,
-   "ratings": 431,
+   "rating": 0,
+   "ratings": 0,
    "isFrido": false
   },
   {
    "pos": 4,
-   "title": "GREEN SOUL Monster Ult. (S) Multi-Functional Ergonomic |Gaming & WFH|Supreme Comfort Gaming Chair",
+   "title": "GTPLAYER 1USA Multi-Functional Ergonomic Multi-Functional Ergonomic Gaming Chair Gaming Chair",
+   "brand": "GTPLAYER",
    "price": null,
-   "rating": 4.4,
-   "ratings": 562,
+   "rating": 4.3,
+   "ratings": 996,
    "isFrido": false
   },
   {
    "pos": 5,
-   "title": "ASE Gaming Gold Series Gaming Chair with 180 Degree Reclining And Black Metal Base Gaming Chair",
+   "title": "Drogo Multi-Purpose Ergonomic Gaming Chair with Head & USB Massager Pillow, PU Leather Gaming Chair",
+   "brand": "Drogo",
    "price": null,
-   "rating": 3.5,
-   "ratings": 6,
+   "rating": 4.5,
+   "ratings": 443,
+   "isFrido": false
+  },
+  {
+   "pos": 6,
+   "title": "GREEN SOUL Blade Ergonomic Gaming Chair|Multi-Functional Computer Chair|Ergo Sync Armrest Gaming Chair",
+   "brand": "GREEN SOUL",
+   "price": null,
+   "rating": 4.5,
+   "ratings": 437,
+   "isFrido": false
+  },
+  {
+   "pos": 7,
+   "title": "Drogo Multi-Purpose Ergonomic Gaming Chair with Adjustable Seat, Head & USB Massager Gaming Chair",
+   "brand": "Drogo",
+   "price": null,
+   "rating": 4.5,
+   "ratings": 443,
+   "isFrido": false
+  },
+  {
+   "pos": 8,
+   "title": "ASE Gaming Gold Series with 180 Degree Reclining And Black Metal Base Gaming Chair",
+   "brand": "ASE Gaming",
+   "price": null,
+   "rating": 3.9,
+   "ratings": 14,
+   "isFrido": false
+  },
+  {
+   "pos": 9,
+   "title": "Drogo Multi-Purpose Ergonomic Gaming Chair with Head & Lumbar Pillow, Adjustable seat Gaming Chair",
+   "brand": "Drogo",
+   "price": null,
+   "rating": 4.5,
+   "ratings": 391,
+   "isFrido": false
+  },
+  {
+   "pos": 10,
+   "title": "CELLBELL Batman Series High Back DC Comics- Batman High Back Gaming Chair",
+   "brand": "CELLBELL",
+   "price": null,
+   "rating": 4.4,
+   "ratings": 13,
    "isFrido": false
   }
  ],
