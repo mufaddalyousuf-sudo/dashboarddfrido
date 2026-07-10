@@ -1,30 +1,86 @@
 {
  "category": "barefoot-x-hrx-barefoot-sock-shoe-pro",
  "marketplace": "amazon-in",
- "keyword": "Frido x HRX Barefoot Sock Shoe Pro",
+ "keyword": "Barefoot Sock Shoe",
+ "brandKeyword": "Frido x HRX Barefoot Sock Shoe Pro",
  "capturedAt": "2026-07-08",
- "method": "Live scrape amazon.in search page 1, query = exact SKU name (brand-qualified)",
+ "method": "Live scrape amazon.in search page 1, query = generic product keyword (brand + Frido product-line/marketing words stripped) — the competitive rank signal, not a brand-qualified existence check",
  "confidence": "High (live snapshot, single keyword)",
- "fridoOrganicRank": 8,
- "fridoSponsoredSlot": 5,
+ "fridoOrganicRank": null,
+ "fridoSponsoredSlot": null,
+ "fridoUrl": null,
  "organic": [
   {
-   "asin": "B0DCP4YY16",
+   "asin": "B0DCP88VNG",
    "badge": null,
    "price": "1,031",
    "rating": "4.3",
-   "reviews": "1,773",
+   "reviews": "1,783",
    "title": "Barefoot Rooted Wide feet Shoes for Men | Lightweight Running & Training Shoes with Soft Sole & Superior Grip | Running, Jogging Regular Gym Shoes for Men",
    "rank": 1
   },
   {
-   "asin": "B0BNHJ53FM",
+   "asin": "B0BNHHCGCP",
    "badge": null,
    "price": "499",
    "rating": "3.9",
-   "reviews": "1,600",
+   "reviews": "1,602",
    "title": "Barefoot Water Aqua Shoes for Men, Women - Non-Slip Quick-Dry Skin Shoes, Sand Socks for Swimming, Beach, Yoga, Diving",
    "rank": 2
+  },
+  {
+   "asin": "B0D9BPD9KY",
+   "badge": null,
+   "price": "532",
+   "rating": "3.6",
+   "reviews": "138",
+   "title": "Yoga Socks for Women, Breathable Cotton 5-Toe Socks for Women, Anti Skid Women Socks, Elastic Strap Design for Pilates, Dance, Barre, Home Workout & Barefoot Fi",
+   "rank": 3
+  },
+  {
+   "asin": "B0CLGLL8YL",
+   "badge": "Amazon's Choice",
+   "price": "923",
+   "rating": "4.2",
+   "reviews": "2,460",
+   "title": "Barefoot Rooted Comfortable Big Toe Box Gym, Cross Training, Walking Shoes for Men",
+   "rank": 4
+  },
+  {
+   "asin": "B0DYP83N6X",
+   "badge": null,
+   "price": "1,031",
+   "rating": "4.3",
+   "reviews": "1,783",
+   "title": "Barefoot Rooted Wide feet Shoes for Men | Lightweight Running & Training Shoes with Soft Sole & Superior Grip | Running, Jogging Regular Gym Shoes for Men",
+   "rank": 5
+  },
+  {
+   "asin": "B091F16ZSV",
+   "badge": null,
+   "price": "492",
+   "rating": "4.2",
+   "reviews": "514",
+   "title": "3 Pairs Yoga Sports Socks for Women - Non-Slip Anti Skid Grip, Cotton Cushioned Comfort, Ideal for Exercise, Gym, Walking - Pack of 3 Multicolor",
+   "rank": 6
+  },
+  {
+   "asin": "B0DNFVZL83",
+   "badge": null,
+   "price": "934",
+   "rating": "4.1",
+   "reviews": "565",
+   "title": "Barefoot for Wide feet Shoes for Women | Lightweight & Soft Sole with Superior Grip | Ideal for Running on Soft Ground, Training & Gym Workout",
+   "rank": 7
+  },
+  {
+   "asin": "B0F13GXRNN",
+   "badge": "Bestseller",
+   "price": "1,031",
+   "rating": "4.3",
+   "reviews": "1,783",
+   "title": "Barefoot Rooted Wide feet Shoes for Men | Lightweight Running & Training Shoes with Soft Sole & Superior Grip | Running, Jogging Regular Gym Shoes for Men",
+   "rank": 8
   },
   {
    "asin": "B0F8C1685V",
@@ -33,163 +89,107 @@
    "rating": "4.0",
    "reviews": "90",
    "title": "Unisex Two-Toe Grip Socks Anti-Slip Socks for Yoga, Pilates, Home & Elderly Use | Non-Skid Sole for Fall Prevention | Breathable & Stretch Fit",
-   "rank": 3
-  },
-  {
-   "asin": "B0CLGMQ57G",
-   "badge": null,
-   "price": "924",
-   "rating": "4.2",
-   "reviews": "2,459",
-   "title": "Barefoot Rooted Comfortable Big Toe Box Gym, Cross Training, Walking Shoes for Men",
-   "rank": 4
-  },
-  {
-   "asin": "B0F8BW9J2S",
-   "badge": null,
-   "price": "348",
-   "rating": "4.0",
-   "reviews": "90",
-   "title": "Unisex Two-Toe Grip Socks Anti-Slip Socks for Yoga, Pilates, Home & Elderly Use | Non-Skid Sole for Fall Prevention | Breathable & Stretch Fit",
-   "rank": 5
-  },
-  {
-   "asin": "B0DJKR4763",
-   "badge": "Bestseller",
-   "price": "899",
-   "rating": "3.8",
-   "reviews": "9,642",
-   "title": "Frido Dual Gel Pro Shoe Insoles -Trimmable Shoe Sole for Men & Women for Stability, Shock Absorption & Comfort | Anti-Sweat Sports Insole, Foot Support Silicone",
-   "rank": 6
-  },
-  {
-   "asin": "B0DNFSZ1BZ",
-   "badge": null,
-   "price": "924",
-   "rating": "4.1",
-   "reviews": "563",
-   "title": "Barefoot for Wide feet Shoes for Women | Lightweight & Soft Sole with Superior Grip | Ideal for Running on Soft Ground, Training & Gym Workout",
-   "rank": 7
-  },
-  {
-   "asin": "B0H5W3MKLK",
-   "badge": null,
-   "price": "2,199",
-   "rating": "4.4",
-   "reviews": "41",
-   "title": "Cloud Comfort Walking Shoes for Women | Zero-Drop Barefoot Design with Wide Toe Box | Lightweight Breathable Comfort Shoes | Natural Foot Movement | Available i",
-   "rank": 8,
-   "isFridoBrand": true
-  },
-  {
-   "asin": "B0DV3SJKSY",
-   "badge": null,
-   "price": "399",
-   "rating": "4.2",
-   "reviews": "333",
-   "title": "Active Socks for Men & Women | Cotton Nylon Grip | Anti-Sweat, Odor-Free | Ideal for Walking, Running, Training, Gym & Sports,",
    "rank": 9
   },
   {
-   "asin": "B0DKYRL6YJ",
+   "asin": "B0BNHHKNRS",
    "badge": null,
-   "price": "399",
-   "rating": "4.2",
-   "reviews": "333",
-   "title": "Active Socks for Men & Women | Cotton Nylon Grip | Anti-Sweat, Odor-Free | Ideal for Walking, Running, Training, Gym & Sports,",
+   "price": "499",
+   "rating": "3.9",
+   "reviews": "1,602",
+   "title": "Barefoot Water Aqua Shoes for Men, Women - Non-Slip Quick-Dry Skin Shoes, Sand Socks for Swimming, Beach, Yoga, Diving",
    "rank": 10
   }
  ],
  "sponsored": [
   {
-   "asin": "B0DSG2VQF7",
+   "asin": "B08YYXXCQ7",
    "badge": null,
-   "price": "278",
-   "rating": "4.4",
-   "reviews": "42",
-   "title": "Socks For Women | Cotton Anti Skid Ankle length Socks for Gym, Yoga, jogging and running | Free Size | Pack of 3 Pairs",
-   "slot": 1
-  },
-  {
-   "asin": "B01BY4Y73G",
-   "badge": null,
-   "price": "558",
-   "rating": "4.4",
-   "reviews": "1,734",
-   "title": "Women’s Ankle Length Sports Socks (Pack of 4 Pairs) – Cushioned, Breathable & Stretchable Cotton Athletic Socks",
-   "slot": 2
-  },
-  {
-   "asin": "B08YYZ25KT",
-   "badge": null,
-   "price": "410",
+   "price": "411",
    "rating": "4.2",
-   "reviews": "5,203",
+   "reviews": "5,204",
    "title": "Bamboo Socks for Men Anti-Microbial Ultra Soft Padded Ankle Socks, Pack of 3",
-   "slot": 3
-  },
-  {
-   "asin": "B0H4BCP9NR",
-   "badge": null,
-   "price": "600",
-   "rating": null,
-   "reviews": null,
-   "title": "Women Anti Slip Fitness Socks | Non-Skid Socks for Yoga, Gym, Pilates, Barre, Dance & Workout | Breathable and Stretch Grip Socks for Women, (Pack of 2 - Black ",
-   "slot": 4
-  },
-  {
-   "asin": "B0DYP7ZPVB",
-   "badge": null,
-   "price": "1,031",
-   "rating": "4.3",
-   "reviews": "1,773",
-   "title": "Barefoot Rooted Wide feet Shoes for Men | Lightweight Running & Training Shoes with Soft Sole & Superior Grip | Running, Jogging Regular Gym Shoes for Men",
-   "slot": 5,
-   "isFridoBrand": true
-  },
-  {
-   "asin": "B0GX9X1VDY",
-   "badge": null,
-   "price": "539",
-   "rating": "5.0",
-   "reviews": "2",
-   "title": "Eco-Friendly Printed Bamboo Socks – Soft and Breathable Unisex Crew Socks, Designed in the UK | Carbon-Neutral Antibacterial Socks for Regular Wear, Sizes M (UK",
-   "slot": 6
-  },
-  {
-   "asin": "B09V17X8PF",
-   "badge": null,
-   "price": "502",
-   "rating": "4.1",
-   "reviews": "248",
-   "title": "Superman Batman Superhero Character Full Length Socks for Kids- Pack Of 4",
-   "slot": 7
+   "slot": 1
   },
   {
    "asin": "B08W38DBZJ",
    "badge": "Bestseller",
-   "price": "876",
+   "price": "907",
    "rating": "4.2",
-   "reviews": "1,607",
+   "reviews": "1,608",
    "title": "Bamboo Compression Socks For Men & Women | Odour Free & Superior Grip | Running, Cycling, Boosts Blood Circulation & Recovery",
+   "slot": 2
+  },
+  {
+   "asin": "B0BNHHPQKR",
+   "badge": null,
+   "price": "499",
+   "rating": "3.9",
+   "reviews": "1,602",
+   "title": "Barefoot Water Aqua Shoes for Men, Women - Non-Slip Quick-Dry Skin Shoes, Sand Socks for Swimming, Beach, Yoga, Diving",
+   "slot": 3
+  },
+  {
+   "asin": "B094BDRY2B",
+   "badge": null,
+   "price": "999",
+   "rating": "4.1",
+   "reviews": "1,042",
+   "title": "Men's Bamboo Socks | Ankle Length | Ultra-Soft & Sweat-wicking | Cushioned Sole with Anti-Bacterial Finish",
+   "slot": 4
+  },
+  {
+   "asin": "B0BNHJ3CK6",
+   "badge": null,
+   "price": "499",
+   "rating": "3.9",
+   "reviews": "1,602",
+   "title": "Barefoot Water Aqua Shoes for Men, Women - Non-Slip Quick-Dry Skin Shoes, Sand Socks for Swimming, Beach, Yoga, Diving",
+   "slot": 5
+  },
+  {
+   "asin": "B0DBVLZYVF",
+   "badge": null,
+   "price": "347",
+   "rating": "4.1",
+   "reviews": "215",
+   "title": "Grip Socks for Men & Women, Ankle Cotton Anti Slip Socks Ideal for Yoga, Pilates, Elderly Care/Senior Citizen, Walking, Home.",
+   "slot": 6
+  },
+  {
+   "asin": "B00VX619G4",
+   "badge": null,
+   "price": "464",
+   "rating": "4.2",
+   "reviews": "790",
+   "title": "Men'S Cotton Odour Free Black Plain Socks- Pack Of 3, Regular",
+   "slot": 7
+  },
+  {
+   "asin": "B0F8BTRS3J",
+   "badge": null,
+   "price": "349",
+   "rating": "4.0",
+   "reviews": "90",
+   "title": "Unisex Two-Toe Grip Socks Anti-Slip Socks for Yoga, Pilates, Home & Elderly Use | Non-Skid Sole for Fall Prevention | Breathable & Stretch Fit",
    "slot": 8
   },
   {
-   "asin": "B09PVGQWFC",
+   "asin": "B0CQPD7HXN",
    "badge": null,
-   "price": "718",
-   "rating": "4.3",
-   "reviews": "101",
-   "title": "Bamboo Calf Socks for Kids: Cushioned Base, Anti Bacterial, Comfort Fit, Odour Free, Skin-Friendly",
+   "price": "1,044",
+   "rating": "5.0",
+   "reviews": "1",
+   "title": "Christmas Socks Gift Set for Men Pack of 3 | Crew Length | Combed Cotton | Free Size (UK 7-12) (Regular)",
    "slot": 9
   },
   {
-   "asin": "B0H5KRX2VC",
+   "asin": "B0BLSQC9T2",
    "badge": null,
-   "price": "3,999",
-   "rating": "5.0",
-   "reviews": "8",
-   "title": "Active Walking Shoes for Men & Women | Lightweight Breathable Mesh Upper | Zero-Drop Sole with Wide Toe Box for Natural Movement | Cushioned Comfort Lace-Up Sne",
+   "price": "199",
+   "rating": "4.5",
+   "reviews": "65",
+   "title": "Tom & Jerry Unisex Full - Length Character Socks",
    "slot": 10
   }
  ],

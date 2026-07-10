@@ -1,84 +1,50 @@
 {
  "category": "barefoot-barefoot-sock-shoe-classic",
  "marketplace": "flipkart",
- "keyword": "Frido Barefoot Sock Shoe Classic",
+ "keyword": "Barefoot Sock Shoe",
+ "brandKeyword": "Frido Barefoot Sock Shoe Classic",
  "capturedAt": "2026-07-08",
- "method": "Live scrape flipkart.com mobile search page 1 (__INITIAL_STATE__), query = exact SKU name",
+ "method": "Live scrape flipkart.com mobile search page 1 (__INITIAL_STATE__), query = generic product keyword",
  "confidence": "Medium-High (live; sponsored flags not exposed on mobile)",
- "fridoRank": 3,
- "fridoPresent": true,
+ "fridoRank": null,
+ "fridoPresent": false,
+ "fridoUrl": "https://www.flipkart.com/search?q=Barefoot%20Sock%20Shoe",
  "results": [
   {
    "pos": 1,
-   "title": "krijo Men & Women Ankle Length",
+   "title": "DUCKINS Outdoors For Men",
+   "brand": "DUCKINS",
    "price": null,
-   "rating": 4.1,
-   "ratings": 124,
+   "rating": 3.8,
+   "ratings": 320,
    "isFrido": false
   },
   {
    "pos": 2,
-   "title": "krijo Men & Women Solid Ankle Length",
+   "title": "Aeonik Premium White Stylish Casual Sneakers For Men",
+   "brand": "Aeonik",
    "price": null,
-   "rating": 4,
-   "ratings": 241,
+   "rating": 3.5,
+   "ratings": 13,
    "isFrido": false
   },
   {
    "pos": 3,
-   "title": "Frido Cloud Comfort Casual Slip-On Shoes | Zero-Drop Barefoot Style With Wide Toe Box Slip On Sneakers For Women",
+   "title": "Birde Walking Shoes For Men",
+   "brand": "Birde",
    "price": null,
-   "rating": 0,
-   "ratings": 0,
-   "isFrido": true
-  },
-  {
-   "pos": 4,
-   "title": "Frido Active Knee Cap for Pain Relief, Joint Support & Injury Recovery, Black, Medium Knee Support",
-   "price": null,
-   "rating": 4.4,
-   "ratings": 356,
-   "isFrido": true
-  },
-  {
-   "pos": 5,
-   "title": "Frido Cloud Comfort Casual Sports Slip-On Shoes, Zero-Drop Barefoot With Wide Toe Box Casuals For Men",
-   "price": null,
-   "rating": 4.2,
-   "ratings": 80,
-   "isFrido": true
-  },
-  {
-   "pos": 6,
-   "title": "Frido Active Knee Cap for Pain Relief, Joint Support & Injury Recovery, Grey, Large Knee Support",
-   "price": null,
-   "rating": 4.4,
-   "ratings": 356,
-   "isFrido": true
-  },
-  {
-   "pos": 7,
-   "title": "Frido Active Knee Cap for Pain Relief, Joint Support & Injury Recovery, Grey, Medium Knee Support",
-   "price": null,
-   "rating": 4.4,
-   "ratings": 356,
-   "isFrido": true
-  },
-  {
-   "pos": 8,
-   "title": "Wonder Care Neoprene Plantar Fasciitis Night Splint Sock – Heel & Achilles Pain Relief Ankle Support",
-   "price": null,
-   "rating": 3.7,
-   "ratings": 132,
+   "rating": 3.9,
+   "ratings": 18,
    "isFrido": false
   },
   {
-   "pos": 9,
-   "title": "Frido Active Knee Cap for Pain Relief, Joint Support & Injury Recovery, Grey, XL Knee Support",
+   "pos": 4,
+   "title": "yoho CAS 108 Soft Insole, Slip-Resistance|Casual Daily Wear & Travel Sneakers For Men",
+   "brand": "yoho",
    "price": null,
-   "rating": 4.4,
-   "ratings": 356,
-   "isFrido": true
+   "rating": 4.2,
+   "ratings": 373,
+   "isFrido": false
   }
  ],
  "notes": []

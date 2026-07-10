@@ -306,19 +306,19 @@
    "datasets": [
     {
      "id": "barefoot-barefoot-sock-shoe-classic",
-     "keyword": "Frido Barefoot Sock Shoe Classic",
+     "keyword": "Barefoot Sock Shoe",
      "primary": true
     },
     {
      "id": "barefoot-x-hrx-barefoot-sock-shoe-pro",
-     "keyword": "Frido x HRX Barefoot Sock Shoe Pro"
+     "keyword": "Barefoot Sock Shoe"
     },
     {
      "id": "barefoot-barefoot-sock-shoe-pro",
-     "keyword": "Frido Barefoot Sock Shoe Pro"
+     "keyword": "Barefoot Sock Shoe"
     }
    ],
-   "skuSource": "frido-product-catalog.json (full base-SKU research, 2026-07-08)"
+   "skuSource": "frido-product-catalog.json searchKeyword (generic, brand-stripped), 2026-07-08"
   },
   {
    "id": "footwear",

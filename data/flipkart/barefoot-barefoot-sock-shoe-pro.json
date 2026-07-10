@@ -1,107 +1,49 @@
 {
  "category": "barefoot-barefoot-sock-shoe-pro",
  "marketplace": "flipkart",
- "keyword": "Frido Barefoot Sock Shoe Pro",
+ "keyword": "Barefoot Sock Shoe",
+ "brandKeyword": "Frido Barefoot Sock Shoe Pro",
  "capturedAt": "2026-07-08",
- "method": "Live scrape flipkart.com mobile search page 1 (__INITIAL_STATE__), query = exact SKU name",
+ "method": "Live scrape flipkart.com mobile search page 1 (__INITIAL_STATE__), query = generic product keyword",
  "confidence": "Medium-High (live; sponsored flags not exposed on mobile)",
- "fridoRank": 5,
- "fridoPresent": true,
+ "fridoRank": null,
+ "fridoPresent": false,
+ "fridoUrl": "https://www.flipkart.com/search?q=Barefoot%20Sock%20Shoe",
  "results": [
   {
    "pos": 1,
-   "title": "ADONYX Combo of Knee,Palm, Knee Support",
+   "title": "DUCKINS Outdoors For Men",
+   "brand": "DUCKINS",
    "price": null,
-   "rating": 3.9,
-   "ratings": 11636,
+   "rating": 3.8,
+   "ratings": 320,
    "isFrido": false
   },
   {
    "pos": 2,
-   "title": "ADONYX Adustable Compression Foot Pain Relief Ankle Support",
+   "title": "Aeonik Premium White Stylish Casual Sneakers For Men",
+   "brand": "Aeonik",
    "price": null,
-   "rating": 4,
-   "ratings": 3104,
+   "rating": 3.5,
+   "ratings": 13,
    "isFrido": false
   },
   {
    "pos": 3,
-   "title": "ADONYX 1 Pack Knee Compression Sleeve, Knee Support for Sports Workout Knee Support",
-   "price": null,
-   "rating": 4,
-   "ratings": 2992,
-   "isFrido": false
-  },
-  {
-   "pos": 4,
-   "title": "ADONYX Premium 3D Sport Ankle Brace Protector Compression Protection Guard Pain Relief Ankle Support",
+   "title": "Birde Walking Shoes For Men",
+   "brand": "Birde",
    "price": null,
    "rating": 3.9,
-   "ratings": 2345,
-   "isFrido": false
-  },
-  {
-   "pos": 5,
-   "title": "Frido Anti Sweat Active Socks for Badminton, Walking, Running, Gym & Sports, Odor-Free Men & Women Mid-Calf/Crew",
-   "price": null,
-   "rating": 4.1,
-   "ratings": 98,
-   "isFrido": true
-  },
-  {
-   "pos": 6,
-   "title": "SHNMN Gel Heel Pad Silicone Cup Cushion for Heel Pain Men Women Blue Men & Women Solid Ankle Length, Thigh, Peds/Footie/No-Show",
-   "price": null,
-   "rating": 4.4,
-   "ratings": 102,
-   "isFrido": false
-  },
-  {
-   "pos": 7,
-   "title": "Wonder Care Neoprene Plantar Fasciitis Night Splint Sock – Heel & Achilles Pain Relief Ankle Support",
-   "price": null,
-   "rating": 3.7,
-   "ratings": 132,
-   "isFrido": false
-  },
-  {
-   "pos": 8,
-   "title": "JSB BS60-XL Padded Diabetic Socks Seamless Stretchable with Gel Insole Support Insole",
-   "price": null,
-   "rating": 4.1,
    "ratings": 18,
    "isFrido": false
   },
   {
-   "pos": 9,
-   "title": "Frido High Heels Ball of Foot Cushions, Pack of 2 Pairs (1 Wide & 1 Compact) Heel Support",
+   "pos": 4,
+   "title": "yoho CAS 108 Soft Insole, Slip-Resistance|Casual Daily Wear & Travel Sneakers For Men",
+   "brand": "yoho",
    "price": null,
-   "rating": 3.7,
-   "ratings": 3,
-   "isFrido": true
-  },
-  {
-   "pos": 10,
-   "title": "Frido Anti Sweat Active Socks for Badminton, Walking, Running, Gym & Sports, Odor-Free Men & Women Printed Mid-Calf/Crew",
-   "price": null,
-   "rating": 4.1,
-   "ratings": 98,
-   "isFrido": true
-  },
-  {
-   "pos": 11,
-   "title": "Wonder Care Men & Women Solid Mid-Calf/Crew",
-   "price": null,
-   "rating": 3.6,
-   "ratings": 33,
-   "isFrido": false
-  },
-  {
-   "pos": 12,
-   "title": "Wonder Care Neoprene Plantar Fasciitis Night Splint Sock – Heel & Achilles Pain Relief (S) Ankle Support",
-   "price": null,
-   "rating": 3.7,
-   "ratings": 132,
+   "rating": 4.2,
+   "ratings": 373,
    "isFrido": false
   }
  ],

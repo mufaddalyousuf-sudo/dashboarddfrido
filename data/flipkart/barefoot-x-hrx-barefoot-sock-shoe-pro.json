@@ -1,14 +1,51 @@
 {
  "category": "barefoot-x-hrx-barefoot-sock-shoe-pro",
  "marketplace": "flipkart",
- "keyword": "Frido x HRX Barefoot Sock Shoe Pro",
+ "keyword": "Barefoot Sock Shoe",
+ "brandKeyword": "Frido x HRX Barefoot Sock Shoe Pro",
  "capturedAt": "2026-07-08",
- "method": "Live scrape flipkart.com mobile search page 1 (__INITIAL_STATE__), query = exact SKU name",
- "confidence": "Low (fetch blocked)",
+ "method": "Live scrape flipkart.com mobile search page 1 (__INITIAL_STATE__), query = generic product keyword",
+ "confidence": "Medium-High (live; sponsored flags not exposed on mobile)",
  "fridoRank": null,
  "fridoPresent": false,
- "results": [],
- "notes": [
-  "Live fetch failed after retries — needs re-verification."
- ]
+ "fridoUrl": "https://www.flipkart.com/search?q=Barefoot%20Sock%20Shoe",
+ "results": [
+  {
+   "pos": 1,
+   "title": "DUCKINS Outdoors For Men",
+   "brand": "DUCKINS",
+   "price": null,
+   "rating": 3.8,
+   "ratings": 320,
+   "isFrido": false
+  },
+  {
+   "pos": 2,
+   "title": "Aeonik Premium White Stylish Casual Sneakers For Men",
+   "brand": "Aeonik",
+   "price": null,
+   "rating": 3.5,
+   "ratings": 13,
+   "isFrido": false
+  },
+  {
+   "pos": 3,
+   "title": "Birde Walking Shoes For Men",
+   "brand": "Birde",
+   "price": null,
+   "rating": 3.9,
+   "ratings": 18,
+   "isFrido": false
+  },
+  {
+   "pos": 4,
+   "title": "yoho CAS 108 Soft Insole, Slip-Resistance|Casual Daily Wear & Travel Sneakers For Men",
+   "brand": "yoho",
+   "price": null,
+   "rating": 4.2,
+   "ratings": 373,
+   "isFrido": false
+  }
+ ],
+ "notes": []
 }
