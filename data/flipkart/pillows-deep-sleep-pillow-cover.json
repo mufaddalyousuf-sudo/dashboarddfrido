@@ -1,92 +1,113 @@
 {
  "category": "pillows-deep-sleep-pillow-cover",
  "marketplace": "flipkart",
- "keyword": "Frido Deep Sleep Pillow Cover",
+ "keyword": "Deep Sleep Pillow Cover",
+ "brandKeyword": "Frido Deep Sleep Pillow Cover",
  "capturedAt": "2026-07-08",
- "method": "Live scrape flipkart.com mobile search page 1 (__INITIAL_STATE__), query = exact SKU name",
+ "method": "Live scrape flipkart.com mobile search page 1 (__INITIAL_STATE__), query = generic product keyword",
  "confidence": "Medium-High (live; sponsored flags not exposed on mobile)",
- "fridoRank": 1,
- "fridoPresent": true,
+ "fridoRank": null,
+ "fridoPresent": false,
+ "fridoUrl": "https://www.flipkart.com/search?q=Deep%20Sleep%20Pillow%20Cover",
  "results": [
   {
    "pos": 1,
-   "title": "Frido Blended Pillows Cover",
+   "title": "AYKA Microfibre Sleeping Pillow Pack of 1 Solid Soft Microfiber Pillow for Sleeping",
+   "brand": "AYKA",
    "price": null,
-   "rating": 0,
-   "ratings": 0,
-   "isFrido": true
+   "rating": 4.3,
+   "ratings": 150,
+   "isFrido": false
   },
   {
    "pos": 2,
-   "title": "Frido Memory Foam Orthopaedic Pillow Pack of 1 Solid Ultimate Deep Sleep Pillow for Neck & Shoulder Pain Relief, King Size 5 Inch",
+   "title": "AYKA Microfibre Sleeping Pillow Pack of 1 Solid Soft Microfiber Pillows",
+   "brand": "AYKA",
    "price": null,
-   "rating": 4.1,
-   "ratings": 805,
-   "isFrido": true
+   "rating": 4.3,
+   "ratings": 2421,
+   "isFrido": false
   },
   {
    "pos": 3,
-   "title": "Frido Blended Cushions & Pillows Cover",
+   "title": "AYKA Polyester Fibre, Cotton Sleeping Pillow Pack of 1 Geometric Cord Pillow",
+   "brand": "AYKA",
    "price": null,
-   "rating": 0,
-   "ratings": 0,
-   "isFrido": true
+   "rating": 4.3,
+   "ratings": 56,
+   "isFrido": false
   },
   {
    "pos": 4,
-   "title": "deepaksaini Polycotton Pillows Cover",
+   "title": "AYKA Microfibre Sleeping Pillow Pack of 2 Solid Soft Microfiber Pillows",
+   "brand": "AYKA",
    "price": null,
-   "rating": 0,
-   "ratings": 0,
+   "rating": 4.2,
+   "ratings": 152,
    "isFrido": false
   },
   {
    "pos": 5,
-   "title": "Sleepyhead Polyester Fibre Sleeping Pillow Pack of 2 Geometric",
-   "price": null,
-   "rating": 4.3,
-   "ratings": 8747,
-   "isFrido": false
-  },
-  {
-   "pos": 6,
-   "title": "Frido Memory Foam Cushion Pack of 1 Solid Wedge Plus Cushion for Sleeping, Acid Reflux Relief, Leg Elevator, Pregnancy",
-   "price": null,
-   "rating": 4.2,
-   "ratings": 217,
-   "isFrido": true
-  },
-  {
-   "pos": 7,
-   "title": "Frido Memory Foam Sleeping Pillow Pack of 1 Abstract Ultimate Memory Foam Ortho Deep Sleep Pillow | Cooling Cover | King Size 5 Inch",
-   "price": null,
-   "rating": 5,
-   "ratings": 3,
-   "isFrido": true
-  },
-  {
-   "pos": 8,
-   "title": "loomex Cotton Pillows Cover",
+   "title": "SleepyCat Cotton Pillows Cover",
+   "brand": "SleepyCat",
    "price": null,
    "rating": 0,
    "ratings": 0,
    "isFrido": false
   },
   {
-   "pos": 9,
-   "title": "Frido Memory Foam Cushion Pack of 2 Solid Wedge Plus with Neck Rest Pillow | Back, Neck, Knee & Leg Support",
+   "pos": 6,
+   "title": "Shop141 Satin, Silk Pillows Cover",
+   "brand": "Shop141",
    "price": null,
-   "rating": 4,
-   "ratings": 23,
-   "isFrido": true
+   "rating": 4.2,
+   "ratings": 43,
+   "isFrido": false
+  },
+  {
+   "pos": 7,
+   "title": "seema home decor Cotton Pillows Cover",
+   "brand": "seema home decor",
+   "price": null,
+   "rating": 5,
+   "ratings": 3,
+   "isFrido": false
+  },
+  {
+   "pos": 8,
+   "title": "Zupaya Satin Pillows Cover",
+   "brand": "Zupaya",
+   "price": null,
+   "rating": 4.7,
+   "ratings": 7,
+   "isFrido": false
+  },
+  {
+   "pos": 9,
+   "title": "MGAtrend Cotton Pillows Cover",
+   "brand": "MGAtrend",
+   "price": null,
+   "rating": 3.7,
+   "ratings": 3,
+   "isFrido": false
   },
   {
    "pos": 10,
-   "title": "Frido Memory Foam Orthopaedic Pillow Pack of 1 Solid Ultimate Deep Sleep Pillow for Neck & Shoulder Pain Relief, King Size 4 Inch",
+   "title": "AVI Plain Plain Filled Zipper Standard Size Pillow Protector",
+   "brand": "AVI",
    "price": null,
-   "rating": 4.1,
-   "ratings": 805,
-   "isFrido": true
+   "rating": 4,
+   "ratings": 648,
+   "isFrido": false
+  },
+  {
+   "pos": 11,
+   "title": "AGS ACTIVE Cotton Pillows Cover",
+   "brand": "AGS ACTIVE",
+   "price": null,
+   "rating": 4.3,
+   "ratings": 45,
+   "isFrido": false
   }
  ],
  "notes": []

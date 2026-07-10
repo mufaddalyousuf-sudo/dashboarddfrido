@@ -1,83 +1,130 @@
 {
  "category": "pillows-ortho-memory-foam-pillow",
  "marketplace": "flipkart",
- "keyword": "Frido Ortho Memory Foam Pillow",
+ "keyword": "Ortho Memory Foam Pillow",
+ "brandKeyword": "Frido Ortho Memory Foam Pillow",
  "capturedAt": "2026-07-08",
- "method": "Live scrape flipkart.com mobile search page 1 (__INITIAL_STATE__), query = exact SKU name",
+ "method": "Live scrape flipkart.com mobile search page 1 (__INITIAL_STATE__), query = generic product keyword",
  "confidence": "Medium-High (live; sponsored flags not exposed on mobile)",
- "fridoRank": 1,
- "fridoPresent": true,
+ "fridoRank": null,
+ "fridoPresent": false,
+ "fridoUrl": "https://www.flipkart.com/search?q=Ortho%20Memory%20Foam%20Pillow",
  "results": [
   {
    "pos": 1,
-   "title": "Frido Memory Foam Orthopaedic Pillow Pack of 1 Solid Ultimate Deep Sleep Pillow for Neck & Shoulder Pain Relief, King Size 4 Inch",
+   "title": "AYKA Microfibre Sleeping Pillow Pack of 1 Solid Soft Microfiber Pillow for Sleeping",
+   "brand": "AYKA",
    "price": null,
-   "rating": 4.1,
-   "ratings": 805,
-   "isFrido": true
+   "rating": 4.3,
+   "ratings": 150,
+   "isFrido": false
   },
   {
    "pos": 2,
-   "title": "Frido Memory Foam Cervical Pack of 1 Solid Ultimate Contour Cervical Neck Pillow for Pain Relief Sleep",
+   "title": "AYKA Microfibre Sleeping Pillow Pack of 1 Solid Soft Microfiber Pillows",
+   "brand": "AYKA",
    "price": null,
-   "rating": 4.2,
-   "ratings": 53,
-   "isFrido": true
+   "rating": 4.3,
+   "ratings": 2421,
+   "isFrido": false
   },
   {
    "pos": 3,
-   "title": "Frido Memory Foam Sleeping Pillow Pack of 1 Abstract Ultimate Memory Foam Ortho Deep Sleep Pillow | Cooling Cover | King Size 5 Inch",
+   "title": "AYKA Polyester Fibre, Cotton Sleeping Pillow Pack of 1 Geometric Cord Pillow",
+   "brand": "AYKA",
    "price": null,
-   "rating": 5,
-   "ratings": 3,
-   "isFrido": true
+   "rating": 4.3,
+   "ratings": 56,
+   "isFrido": false
   },
   {
    "pos": 4,
-   "title": "Frido Memory Foam, Microfibre Orthopaedic Pillow Pack of 1 Geometric Crescent Adjustable Sleeping Pillow | Neck & Shoulder Support| Half-Moon Design",
+   "title": "AYKA Microfibre Sleeping Pillow Pack of 2 Solid Soft Microfiber Pillows",
+   "brand": "AYKA",
    "price": null,
-   "rating": 0,
-   "ratings": 0,
-   "isFrido": true
+   "rating": 4.2,
+   "ratings": 152,
+   "isFrido": false
   },
   {
    "pos": 5,
-   "title": "Frido Memory Foam Sleeping Pillow Pack of 1 Abstract Ultimate Memory Foam Ortho Deep Sleep Pillow | Cooling Cover | King Size 4 Inch",
+   "title": "Cervixa Memory Foam Orthopaedic Pillow Pack of 1 Geometric Orthopedic Cervical Memory Foam Pillow",
+   "brand": "Cervixa",
    "price": null,
-   "rating": 5,
-   "ratings": 3,
-   "isFrido": true
+   "rating": 4.1,
+   "ratings": 89,
+   "isFrido": false
   },
   {
    "pos": 6,
-   "title": "Frido Memory Foam Orthopaedic Pillow Pack of 1 Solid Ultimate Deep Sleep Pillow for Neck & Shoulder Pain Relief, King Size 5 Inch",
+   "title": "LIVPURE Memory Foam Orthopaedic Pillow Pack of 1 Solid Breeze Contour Pillow with Perforated and Premium",
+   "brand": "LIVPURE",
    "price": null,
-   "rating": 4.1,
-   "ratings": 805,
-   "isFrido": true
+   "rating": 4,
+   "ratings": 537,
+   "isFrido": false
   },
   {
    "pos": 7,
-   "title": "Frido Memory Foam Sleeping Pillow Pack of 1 Solid Cuddle Pillow | Ultra-Soft Hugging Memory Foam Pillow , Side Sleepers & Travel",
+   "title": "Flipkart SmartBuy Memory Foam, Polyester Fibre Orthopaedic Pillow Pack of 1 Solid",
+   "brand": "Flipkart SmartBuy",
    "price": null,
-   "rating": 4.5,
-   "ratings": 23,
-   "isFrido": true
+   "rating": 3.7,
+   "ratings": 11,
+   "isFrido": false
   },
   {
    "pos": 8,
-   "title": "Frido Memory Foam Orthopaedic Pillow Pack of 2 Solid Ultimate Deep Sleep Pillow for Neck & Shoulder Pain Relief, King Size 4 Inch",
+   "title": "LA VERNE Memory Foam Sleeping Pillow Pack of 2 Abstract Luxury",
+   "brand": "LA VERNE",
    "price": null,
-   "rating": 4.1,
-   "ratings": 805,
-   "isFrido": true
+   "rating": 4.2,
+   "ratings": 53996,
+   "isFrido": false
   },
   {
    "pos": 9,
-   "title": "Dr. Ortho Memory Foam Orthopaedic Pillow Pack of 1 Solid",
+   "title": "FOVERA Memory Foam Cervical Pack of 1 Solid Cervical Pillow",
+   "brand": "FOVERA",
+   "price": null,
+   "rating": 5,
+   "ratings": 6,
+   "isFrido": false
+  },
+  {
+   "pos": 10,
+   "title": "araami Memory Foam Orthopaedic Pillow Pack of 1 Solid ORTHOPEDIC Solid Sleeping",
+   "brand": "araami",
    "price": null,
    "rating": 4,
-   "ratings": 705,
+   "ratings": 4971,
+   "isFrido": false
+  },
+  {
+   "pos": 11,
+   "title": "velvure Memory Foam Orthopaedic Pillow Pack of 1 Geometric Cervical Contour Memory Foam Pillow, Stomached, Anti-Snoring, Side Sleepers",
+   "brand": "velvure",
+   "price": null,
+   "rating": 3,
+   "ratings": 3,
+   "isFrido": false
+  },
+  {
+   "pos": 12,
+   "title": "COO RIZZ Nap time Anytime Memory Foam Orthopaedic Pillow Pack of 1 Geometric Cooling Contour Gel Pillow for Sleeping and Neck Pain Relief",
+   "brand": "COO RIZZ Nap time Anytime",
+   "price": null,
+   "rating": 5,
+   "ratings": 2,
+   "isFrido": false
+  },
+  {
+   "pos": 13,
+   "title": "LA VERNE Memory Foam Sleeping Pillow Pack of 1 Geometric Luxury",
+   "brand": "LA VERNE",
+   "price": null,
+   "rating": 4.2,
+   "ratings": 53996,
    "isFrido": false
   }
  ],

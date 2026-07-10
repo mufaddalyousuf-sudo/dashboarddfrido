@@ -1,76 +1,140 @@
 {
  "category": "pillows-crescent-adjustable-pillow",
  "marketplace": "flipkart",
- "keyword": "Frido Crescent Adjustable Pillow",
+ "keyword": "Crescent Adjustable Pillow",
+ "brandKeyword": "Frido Crescent Adjustable Pillow",
  "capturedAt": "2026-07-08",
- "method": "Live scrape flipkart.com mobile search page 1 (__INITIAL_STATE__), query = exact SKU name",
+ "method": "Live scrape flipkart.com mobile search page 1 (__INITIAL_STATE__), query = generic product keyword",
  "confidence": "Medium-High (live; sponsored flags not exposed on mobile)",
- "fridoRank": 3,
- "fridoPresent": true,
+ "fridoRank": null,
+ "fridoPresent": false,
+ "fridoUrl": "https://www.flipkart.com/search?q=Crescent%20Adjustable%20Pillow",
  "results": [
   {
    "pos": 1,
-   "title": "AYKA Microfibre Sleeping Pillow Pack of 2 Solid Soft Microfiber Pillows",
+   "title": "THE WOOD WHITE INDIA Microfibre Sleeping Pillow Pack of 2 Solid Soft Pillow Set of 2. 16 x 24 Inches",
+   "brand": "THE WOOD WHITE INDIA",
    "price": null,
-   "rating": 4.3,
-   "ratings": 2410,
+   "rating": 4,
+   "ratings": 1971,
    "isFrido": false
   },
   {
    "pos": 2,
-   "title": "AYKA Microfibre Sleeping Pillow Pack of 2 Solid Soft Microfiber Pillow for Sleeping",
+   "title": "THE WOOD WHITE INDIA Microfibre Sleeping Pillow Pack of 2 Solid Microfiber 16 x 24 Inches or 41 x 61 cm.",
+   "brand": "THE WOOD WHITE INDIA",
    "price": null,
-   "rating": 4.3,
-   "ratings": 148,
+   "rating": 4,
+   "ratings": 16576,
    "isFrido": false
   },
   {
    "pos": 3,
-   "title": "Frido Memory Foam, Microfibre Orthopaedic Pillow Pack of 1 Geometric Crescent Adjustable Sleeping Pillow | Neck & Shoulder Support| Half-Moon Design",
+   "title": "THE WOOD WHITE INDIA Microfibre Sleeping Pillow Pack of 2 Abstract Self Grey Pillow Set of 2 in 16” x 24” Inch with 600 GMS of Plush Filling",
+   "brand": "THE WOOD WHITE INDIA",
    "price": null,
-   "rating": 0,
-   "ratings": 0,
-   "isFrido": true
+   "rating": 4,
+   "ratings": 16576,
+   "isFrido": false
   },
   {
    "pos": 4,
-   "title": "Frido Memory Foam Cushion Pack of 1 Solid Wedge Plus Cushion for Sleeping, Acid Reflux Relief, Leg Elevator, Pregnancy",
+   "title": "THE WOOD WHITE INDIA Microfibre Sleeping Pillow Pack of 2 Solid Soft Pillow Set of 2. size 16 x 24 Inches",
+   "brand": "THE WOOD WHITE INDIA",
    "price": null,
-   "rating": 4.2,
-   "ratings": 217,
-   "isFrido": true
+   "rating": 4,
+   "ratings": 16576,
+   "isFrido": false
   },
   {
    "pos": 5,
-   "title": "Frido Foam Orthopaedic Pillow Pack of 1 Solid High Density Foam Support Cushion",
+   "title": "THE WOOD WHITE INDIA Microfibre Sleeping Pillow Pack of 2 Solid Basic White Pillow Set of 2 in 41 x 61 cm with Blue Border",
+   "brand": "THE WOOD WHITE INDIA",
    "price": null,
-   "rating": 4.4,
-   "ratings": 31,
-   "isFrido": true
+   "rating": 4,
+   "ratings": 401,
+   "isFrido": false
   },
   {
    "pos": 6,
-   "title": "Frido Memory Foam Cushion Pack of 2 Solid Wedge Plus with Neck Rest Pillow | Back, Neck, Knee & Leg Support",
+   "title": "TLK-HWB Memory Foam Orthopaedic Pillow Pack of 1 Nature Cervical Contour Memory Foam Pillow&Stomached, Anti-Snoring, Side Sleepers",
+   "brand": "TLK-HWB",
    "price": null,
-   "rating": 4,
-   "ratings": 23,
-   "isFrido": true
+   "rating": 3.9,
+   "ratings": 1294,
+   "isFrido": false
   },
   {
    "pos": 7,
-   "title": "Frido Memory Foam Sleeping Pillow Pack of 1 Solid Cuddle Pillow | Ultra-Soft Hugging Memory Foam Pillow , Side Sleepers & Travel",
+   "title": "VIV-ATIQ Memory Foam Orthopaedic Pillow Pack of 1 Solid Contour Cervical Neck Pillow with Extra Curve for Sleeping Comfort",
+   "brand": "VIV-ATIQ",
    "price": null,
-   "rating": 4.5,
-   "ratings": 23,
-   "isFrido": true
+   "rating": 4.2,
+   "ratings": 16,
+   "isFrido": false
   },
   {
    "pos": 8,
-   "title": "Frido Ultimate Contour Cervical Neck Pillow for Pain Relief Sleep Cervical Pillow",
+   "title": "credicus Memory Foam Orthopaedic Pillow Pack of 1 Solid Cervical Contour Memory Foam Pillow + Anti-Snoring + Stomached + Side Sleepers",
+   "brand": "credicus",
    "price": null,
-   "rating": 3.7,
-   "ratings": 58,
-   "isFrido": true
+   "rating": 3.9,
+   "ratings": 695,
+   "isFrido": false
+  },
+  {
+   "pos": 9,
+   "title": "MIVOR Memory Foam Orthopaedic Pillow Pack of 1 Solid",
+   "brand": "MIVOR",
+   "price": null,
+   "rating": 4.3,
+   "ratings": 4,
+   "isFrido": false
+  },
+  {
+   "pos": 10,
+   "title": "CRAFKEN Memory Foam Orthopaedic Pillow Pack of 1 Floral Wedge Memory Foam Pillow",
+   "brand": "CRAFKEN",
+   "price": null,
+   "rating": 4.1,
+   "ratings": 33,
+   "isFrido": false
+  },
+  {
+   "pos": 11,
+   "title": "HR-RHM Memory Foam Orthopaedic Pillow Pack of 1 Nature Cervical Contour Memory Foam Pillow, Stomached, Anti-Snoring, Side Sleepers",
+   "brand": "HR-RHM",
+   "price": null,
+   "rating": 0,
+   "ratings": 0,
+   "isFrido": false
+  },
+  {
+   "pos": 12,
+   "title": "FOVERA Memory Foam Cervical Pack of 1 Solid Cervical Pillow",
+   "brand": "FOVERA",
+   "price": null,
+   "rating": 5,
+   "ratings": 6,
+   "isFrido": false
+  },
+  {
+   "pos": 13,
+   "title": "HOMESO Memory Foam Orthopaedic Pillow Pack of 1 Solid Wedge Plus Pillow for Sleeping Back & Neck Pain Relief Leg Elevator",
+   "brand": "HOMESO",
+   "price": null,
+   "rating": 4.3,
+   "ratings": 877,
+   "isFrido": false
+  },
+  {
+   "pos": 14,
+   "title": "Sleep Yoga Memory Foam, Latex Orthopaedic Pillow Pack of 1 Solid OrthoRest Memory Foam Pillow",
+   "brand": "Sleep Yoga",
+   "price": null,
+   "rating": 3.9,
+   "ratings": 44,
+   "isFrido": false
   }
  ],
  "notes": []

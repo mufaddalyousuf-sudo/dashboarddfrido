@@ -1,115 +1,130 @@
 {
  "category": "pillows-latex-pillow",
  "marketplace": "flipkart",
- "keyword": "Frido Latex Pillow",
+ "keyword": "Latex Pillow",
+ "brandKeyword": "Frido Latex Pillow",
  "capturedAt": "2026-07-08",
- "method": "Live scrape flipkart.com mobile search page 1 (__INITIAL_STATE__), query = exact SKU name",
+ "method": "Live scrape flipkart.com mobile search page 1 (__INITIAL_STATE__), query = generic product keyword",
  "confidence": "Medium-High (live; sponsored flags not exposed on mobile)",
- "fridoRank": 4,
- "fridoPresent": true,
+ "fridoRank": null,
+ "fridoPresent": false,
+ "fridoUrl": "https://www.flipkart.com/search?q=Latex%20Pillow",
  "results": [
   {
    "pos": 1,
-   "title": "AYKA Microfibre Sleeping Pillow Pack of 2 Solid Soft Microfiber Pillows",
+   "title": "AYKA Microfibre Sleeping Pillow Pack of 1 Solid Soft Microfiber Pillows",
+   "brand": "AYKA",
    "price": null,
    "rating": 4.3,
-   "ratings": 2410,
+   "ratings": 2421,
    "isFrido": false
   },
   {
    "pos": 2,
-   "title": "AYKA Microfibre Sleeping Pillow Pack of 4 Solid Soft Microfiber Pillows",
+   "title": "AYKA Microfibre Sleeping Pillow Pack of 1 Solid Soft Microfiber Pillow for Sleeping",
+   "brand": "AYKA",
    "price": null,
    "rating": 4.3,
-   "ratings": 2410,
+   "ratings": 150,
    "isFrido": false
   },
   {
    "pos": 3,
-   "title": "AYKA Polyester Fibre, Cotton Sleeping Pillow Pack of 1 Geometric Cord Pillow",
+   "title": "AYKA Microfibre Sleeping Pillow Pack of 2 Solid Soft Microfiber Pillows",
+   "brand": "AYKA",
    "price": null,
    "rating": 4.3,
-   "ratings": 55,
+   "ratings": 2421,
    "isFrido": false
   },
   {
    "pos": 4,
-   "title": "Frido Memory Foam Orthopaedic Pillow Pack of 1 Solid Ultimate Deep Sleep Pillow for Neck & Shoulder Pain Relief, King Size 5 Inch",
+   "title": "AVI Latex Orthopaedic Pillow Pack of 2 Nature 100% Natural",
+   "brand": "AVI",
    "price": null,
-   "rating": 4.1,
-   "ratings": 805,
-   "isFrido": true
+   "rating": 3.9,
+   "ratings": 408,
+   "isFrido": false
   },
   {
    "pos": 5,
-   "title": "Frido Memory Foam Orthopaedic Pillow Pack of 1 Solid Ultimate Deep Sleep Pillow for Neck & Shoulder Pain Relief, King Size 4 Inch",
+   "title": "RECORN Microfibre, Polyester Fibre, Down & Feather, Latex Sleeping Pillow Pack of 2 Solid Bed Pillow",
+   "brand": "RECORN",
    "price": null,
-   "rating": 4.1,
-   "ratings": 805,
-   "isFrido": true
+   "rating": 4,
+   "ratings": 148,
+   "isFrido": false
   },
   {
    "pos": 6,
-   "title": "Frido Memory Foam Orthopaedic Pillow Pack of 2 Solid Ultimate Deep Sleep Pillow for Neck & Shoulder Pain Relief, King Size 4 Inch",
+   "title": "SATISFLAY Latex Sleeping Pillow Pack of 4 Floral Latex Comfort Pillow with Bamboo Fabric Cover - 24x16x4 inch",
+   "brand": "SATISFLAY",
    "price": null,
-   "rating": 4.1,
-   "ratings": 805,
-   "isFrido": true
+   "rating": 0,
+   "ratings": 0,
+   "isFrido": false
   },
   {
    "pos": 7,
-   "title": "Frido Latex Sleeping Pillow Pack of 2 Solid Latex Orthopaedic Pillow with Cooling Cover | 100% Natural Latex, Air Vent Holes",
+   "title": "velvure Memory Foam Orthopaedic Pillow Pack of 1 Geometric Cervical Contour Memory Foam Pillow, Stomached, Anti-Snoring, Side Sleepers",
+   "brand": "velvure",
    "price": null,
    "rating": 0,
    "ratings": 0,
-   "isFrido": true
+   "isFrido": false
   },
   {
    "pos": 8,
-   "title": "Frido Memory Foam Orthopaedic Pillow Pack of 1 Abstract Orthopaedic Wedge Plus Cushion with Cooling Cover for Sleeping & Sitting Relief",
+   "title": "Crown Comfort Latex Sleeping Pillow Pack of 1 Nature",
+   "brand": "Crown Comfort",
    "price": null,
    "rating": 0,
    "ratings": 0,
-   "isFrido": true
+   "isFrido": false
   },
   {
    "pos": 9,
-   "title": "Frido Latex Sleeping Pillow Pack of 1 Solid Latex Orthopaedic Pillow with Cooling Cover | 100% Natural Latex, Air Vent Holes",
+   "title": "SleepyCat Latex Sleeping Pillow Pack of 1 Solid Natural",
+   "brand": "SleepyCat",
    "price": null,
-   "rating": 0,
-   "ratings": 0,
-   "isFrido": true
+   "rating": 3.7,
+   "ratings": 9,
+   "isFrido": false
   },
   {
    "pos": 10,
-   "title": "Frido Memory Foam Sleeping Pillow Pack of 1 Abstract Ultimate Memory Foam Ortho Deep Sleep Pillow | Cooling Cover | King Size 5 Inch",
+   "title": "SATISFLAY Latex Sleeping Pillow Pack of 4 Floral Latex Align Curve Pillow with Bamboo Fabric Cover - 24x16x3.5 inch",
+   "brand": "SATISFLAY",
    "price": null,
-   "rating": 5,
-   "ratings": 3,
-   "isFrido": true
+   "rating": 0,
+   "ratings": 0,
+   "isFrido": false
   },
   {
    "pos": 11,
-   "title": "Frido Memory Foam Sleeping Pillow Pack of 1 Solid Cuddle Pillow | Ultra-Soft Hugging Memory Foam Pillow , Side Sleepers & Travel",
+   "title": "Sleep Yoga Memory Foam Orthopaedic Pillow Pack of 1 Geometric",
+   "brand": "Sleep Yoga",
    "price": null,
-   "rating": 4.5,
-   "ratings": 23,
-   "isFrido": true
+   "rating": 0,
+   "ratings": 0,
+   "isFrido": false
   },
   {
    "pos": 12,
-   "title": "WELLGIVER Memory Foam Desk Pillow Pack of 1 Solid",
+   "title": "AVI Latex Orthopaedic Pillow Pack of 1 Nature 100% Natural",
+   "brand": "AVI",
    "price": null,
-   "rating": 4.8,
-   "ratings": 6,
+   "rating": 3.8,
+   "ratings": 164,
    "isFrido": false
   },
   {
    "pos": 13,
-   "title": "AVI Latex Orthopaedic Pillow Pack of 2 Geometric 100% Natural",
+   "title": "Dr Trust Memory Foam Orthopaedic Pillow Pack of 1 Solid USA 347 Contour Cervical Neck Shoulder Spondylitis Pain Relief Sleeping",
+   "brand": "Dr Trust",
    "price": null,
-   "rating": 3.8,
-   "ratings": 164,
+   "rating": 3.9,
+   "ratings": 839,
    "isFrido": false
   }
  ],

@@ -1,100 +1,131 @@
 {
  "category": "pillows-ultimate-deep-sleep-pillow",
  "marketplace": "flipkart",
- "keyword": "Frido Ultimate Deep Sleep Pillow",
+ "keyword": "Deep Sleep Pillow",
+ "brandKeyword": "Frido Ultimate Deep Sleep Pillow",
  "capturedAt": "2026-07-08",
- "method": "Live scrape flipkart.com mobile search page 1 (__INITIAL_STATE__), query = exact SKU name",
+ "method": "Live scrape flipkart.com mobile search page 1 (__INITIAL_STATE__), query = generic product keyword",
  "confidence": "Medium-High (live; sponsored flags not exposed on mobile)",
- "fridoRank": 4,
+ "fridoRank": 9,
  "fridoPresent": true,
+ "fridoUrl": "https://www.flipkart.com/search?q=Deep%20Sleep%20Pillow",
  "results": [
   {
    "pos": 1,
-   "title": "AYKA Microfibre Sleeping Pillow Pack of 2 Solid Soft Microfiber Pillows",
+   "title": "AYKA Microfibre Sleeping Pillow Pack of 2 Solid Soft Microfiber Pillow for Sleeping",
+   "brand": "AYKA",
    "price": null,
    "rating": 4.3,
-   "ratings": 2410,
+   "ratings": 150,
    "isFrido": false
   },
   {
    "pos": 2,
-   "title": "AYKA Microfibre Sleeping Pillow Pack of 4 Solid Soft Microfiber Pillows",
+   "title": "AYKA Microfibre Sleeping Pillow Pack of 2 Solid Soft Microfiber Pillows",
+   "brand": "AYKA",
    "price": null,
    "rating": 4.3,
-   "ratings": 2410,
+   "ratings": 2421,
    "isFrido": false
   },
   {
    "pos": 3,
-   "title": "AYKA Polyester Fibre, Cotton Sleeping Pillow Pack of 1 Geometric Cord Pillow",
+   "title": "AYKA Microfibre Sleeping Pillow Pack of 2 Solid Premium Pillows Series",
+   "brand": "AYKA",
    "price": null,
-   "rating": 4.3,
-   "ratings": 55,
+   "rating": 4.2,
+   "ratings": 152,
    "isFrido": false
   },
   {
    "pos": 4,
-   "title": "Frido Memory Foam Orthopaedic Pillow Pack of 1 Solid Ultimate Deep Sleep Pillow for Neck & Shoulder Pain Relief, King Size 5 Inch",
+   "title": "Flipkart SmartBuy Memory Foam, Polyester Fibre Orthopaedic Pillow Pack of 1 Solid",
+   "brand": "Flipkart SmartBuy",
    "price": null,
-   "rating": 4.1,
-   "ratings": 805,
-   "isFrido": true
+   "rating": 3.7,
+   "ratings": 11,
+   "isFrido": false
   },
   {
    "pos": 5,
-   "title": "Frido Memory Foam Cushion Pack of 2 Solid Wedge Plus with Neck Rest Pillow | Back, Neck, Knee & Leg Support",
+   "title": "Welspun Microfibre Sleeping Pillow Pack of 2 Solid",
+   "brand": "Welspun",
    "price": null,
-   "rating": 4,
-   "ratings": 23,
-   "isFrido": true
+   "rating": 4.1,
+   "ratings": 103,
+   "isFrido": false
   },
   {
    "pos": 6,
-   "title": "Frido Memory Foam Orthopaedic Pillow Pack of 1 Solid Ultimate Deep Sleep Pillow for Neck & Shoulder Pain Relief, King Size 4 Inch",
+   "title": "VIV-ATIQ Memory Foam Orthopaedic Pillow Pack of 1 Solid Cervical Contour Memory Foam Pillow / Stomache / Side Sleepers / Anti-Snoring",
+   "brand": "VIV-ATIQ",
    "price": null,
-   "rating": 4.1,
-   "ratings": 805,
-   "isFrido": true
+   "rating": 4,
+   "ratings": 167,
+   "isFrido": false
   },
   {
    "pos": 7,
-   "title": "Frido Memory Foam Cushion Pack of 1 Solid Wedge Plus Cushion for Sleeping, Acid Reflux Relief, Leg Elevator, Pregnancy",
+   "title": "DALUCI Microfibre Sleeping Pillow Pack of 2 Solid Comfort & Soft Microfiber Sleeping Pillow – Ultra Soft Bed Pillow for Sleeping",
+   "brand": "DALUCI",
    "price": null,
-   "rating": 4.2,
-   "ratings": 217,
-   "isFrido": true
+   "rating": 4.3,
+   "ratings": 317,
+   "isFrido": false
   },
   {
    "pos": 8,
-   "title": "Frido Foam Orthopaedic Pillow Pack of 1 Solid High Density Foam Support Cushion",
+   "title": "COO RIZZ Nap time Anytime Memory Foam Orthopaedic Pillow Pack of 1 Geometric Cooling Contour Gel Pillow for Sleeping and Neck Pain Relief",
+   "brand": "COO RIZZ Nap time Anytime",
    "price": null,
-   "rating": 4.4,
-   "ratings": 31,
-   "isFrido": true
+   "rating": 5,
+   "ratings": 2,
+   "isFrido": false
   },
   {
    "pos": 9,
-   "title": "Frido Memory Foam Orthopaedic Pillow Pack of 2 Solid Ultimate Deep Sleep Pillow for Neck & Shoulder Pain Relief, King Size 4 Inch",
+   "title": "Frido Memory Foam Orthopaedic Pillow Pack of 1 Solid Ultimate Deep Sleep Pillow for Neck & Shoulder Pain Relief, King Size 5 Inch",
+   "brand": "Frido",
    "price": null,
    "rating": 4.1,
-   "ratings": 805,
+   "ratings": 808,
    "isFrido": true
   },
   {
    "pos": 10,
-   "title": "Frido Memory Foam Sleeping Pillow Pack of 1 Abstract Ultimate Memory Foam Ortho Deep Sleep Pillow | Cooling Cover | King Size 5 Inch",
+   "title": "velvure Microfibre Sleeping Pillow Pack of 2 Solid",
+   "brand": "velvure",
    "price": null,
-   "rating": 5,
-   "ratings": 3,
-   "isFrido": true
+   "rating": 0,
+   "ratings": 0,
+   "isFrido": false
   },
   {
    "pos": 11,
-   "title": "Frido Microfibre Sleeping Pillow Pack of 1 Solid Ultimate Cozy Gel Microfiber Sleeping Pillow, Long Lasting Fluffiness, King Size",
+   "title": "HOMESO Memory Foam Orthopaedic Pillow Pack of 1 Solid Wedge Plus Pillow for Sleeping Back & Neck Pain Relief Leg Elevator",
+   "brand": "HOMESO",
    "price": null,
    "rating": 4.3,
-   "ratings": 170,
-   "isFrido": true
+   "ratings": 877,
+   "isFrido": false
+  },
+  {
+   "pos": 12,
+   "title": "Sleep Yoga Memory Foam Sleeping Pillow Pack of 1 Solid",
+   "brand": "Sleep Yoga",
+   "price": null,
+   "rating": 5,
+   "ratings": 2,
+   "isFrido": false
+  },
+  {
+   "pos": 13,
+   "title": "SANJU BROTHER Microfibre Sleeping Pillow Pack of 2 Solid Quilted",
+   "brand": "SANJU BROTHER",
+   "price": null,
+   "rating": 0,
+   "ratings": 0,
+   "isFrido": false
   }
  ],
  "notes": []

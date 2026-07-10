@@ -1,14 +1,132 @@
 {
  "category": "pillows-ultimate-cozy-pillow",
  "marketplace": "flipkart",
- "keyword": "Frido Ultimate Cozy Pillow",
+ "keyword": "Cozy Pillow",
+ "brandKeyword": "Frido Ultimate Cozy Pillow",
  "capturedAt": "2026-07-08",
- "method": "Live scrape flipkart.com mobile search page 1 (__INITIAL_STATE__), query = exact SKU name",
- "confidence": "Low (fetch blocked)",
- "fridoRank": null,
- "fridoPresent": false,
- "results": [],
- "notes": [
-  "Live fetch failed after retries — needs re-verification."
- ]
+ "method": "Live scrape flipkart.com mobile search page 1 (__INITIAL_STATE__), query = generic product keyword",
+ "confidence": "Medium-High (live; sponsored flags not exposed on mobile)",
+ "fridoRank": 9,
+ "fridoPresent": true,
+ "fridoUrl": "https://www.flipkart.com/search?q=Cozy%20Pillow",
+ "results": [
+  {
+   "pos": 1,
+   "title": "AYKA Microfibre Sleeping Pillow Pack of 2 Solid Soft Microfiber Pillow for Sleeping",
+   "brand": "AYKA",
+   "price": null,
+   "rating": 4.3,
+   "ratings": 150,
+   "isFrido": false
+  },
+  {
+   "pos": 2,
+   "title": "AYKA Microfibre Sleeping Pillow Pack of 2 Solid Soft Microfiber Pillows",
+   "brand": "AYKA",
+   "price": null,
+   "rating": 4.3,
+   "ratings": 2421,
+   "isFrido": false
+  },
+  {
+   "pos": 3,
+   "title": "AYKA Microfibre Sleeping Pillow Pack of 2 Solid Premium Pillows Series",
+   "brand": "AYKA",
+   "price": null,
+   "rating": 4.2,
+   "ratings": 152,
+   "isFrido": false
+  },
+  {
+   "pos": 4,
+   "title": "Woomzy Cotton Orthopaedic Pillow Pack of 1 Solid Contour Memory Foam Pillow / Stomache / Side Sleepers /Geometric Orthopaedic",
+   "brand": "Woomzy",
+   "price": null,
+   "rating": 3.6,
+   "ratings": 20,
+   "isFrido": false
+  },
+  {
+   "pos": 5,
+   "title": "DALUCI Microfibre Sleeping Pillow Pack of 1 Solid Ultra Soft Microfiber Bed Pillows for Sleeping",
+   "brand": "DALUCI",
+   "price": null,
+   "rating": 4.3,
+   "ratings": 317,
+   "isFrido": false
+  },
+  {
+   "pos": 6,
+   "title": "Mom's Moon Microfibre Sleeping Pillow Pack of 2 Solid Cozy Comfort Gusseted Pillow",
+   "brand": "Mom's Moon",
+   "price": null,
+   "rating": 3.9,
+   "ratings": 4459,
+   "isFrido": false
+  },
+  {
+   "pos": 7,
+   "title": "Dr Trust Microfibre Body Pillow Pack of 1 Solid USA Long Cuddle Pillow for Sleeping and Pregnancy, Washable Premium Velvet Cover",
+   "brand": "Dr Trust",
+   "price": null,
+   "rating": 4.3,
+   "ratings": 76,
+   "isFrido": false
+  },
+  {
+   "pos": 8,
+   "title": "CUSHIO Memory Foam Orthopaedic Pillow Pack of 1 Solid Memory Foam Bed Wedge Pillow for Back Support, Leg Elevation, Acid Reflux",
+   "brand": "CUSHIO",
+   "price": null,
+   "rating": 4.2,
+   "ratings": 58,
+   "isFrido": false
+  },
+  {
+   "pos": 9,
+   "title": "Frido Memory Foam Orthopaedic Pillow Pack of 1 Solid Ultimate Deep Sleep Pillow for Neck & Shoulder Pain Relief, King Size 5 Inch",
+   "brand": "Frido",
+   "price": null,
+   "rating": 4.1,
+   "ratings": 808,
+   "isFrido": true
+  },
+  {
+   "pos": 10,
+   "title": "Frido Memory Foam Sleeping Pillow Pack of 1 Solid Cuddle Pillow | Ultra-Soft Hugging Memory Foam Pillow , Side Sleepers & Travel",
+   "brand": "Frido",
+   "price": null,
+   "rating": 4.5,
+   "ratings": 23,
+   "isFrido": true
+  },
+  {
+   "pos": 11,
+   "title": "Sifflex Microfibre Sleeping Pillow Pack of 2 Floral Sifflex Premium Sleep Series",
+   "brand": "Sifflex",
+   "price": null,
+   "rating": 0,
+   "ratings": 0,
+   "isFrido": false
+  },
+  {
+   "pos": 12,
+   "title": "Dormyo Memory Foam Sleeping Pillow Pack of 1 Geometric Dormyo Classic Cervical Pillow for Neck and Shoulder Pain (24”L x 14”W x 5\"H)",
+   "brand": "Dormyo",
+   "price": null,
+   "rating": 4.2,
+   "ratings": 62,
+   "isFrido": false
+  },
+  {
+   "pos": 13,
+   "title": "SANJU BROTHER Microfibre Sleeping Pillow Pack of 2 Solid Quilted",
+   "brand": "SANJU BROTHER",
+   "price": null,
+   "rating": 0,
+   "ratings": 0,
+   "isFrido": false
+  }
+ ],
+ "notes": []
 }

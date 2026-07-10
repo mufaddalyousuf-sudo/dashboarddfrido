@@ -1,91 +1,103 @@
 {
  "category": "pillows-ultimate-neck-contour-cervical-pillow",
  "marketplace": "flipkart",
- "keyword": "Frido Ultimate Neck Contour Cervical Pillow",
+ "keyword": "Neck Contour Cervical Pillow",
+ "brandKeyword": "Frido Ultimate Neck Contour Cervical Pillow",
  "capturedAt": "2026-07-08",
- "method": "Live scrape flipkart.com mobile search page 1 (__INITIAL_STATE__), query = exact SKU name",
+ "method": "Live scrape flipkart.com mobile search page 1 (__INITIAL_STATE__), query = generic product keyword",
  "confidence": "Medium-High (live; sponsored flags not exposed on mobile)",
- "fridoRank": 1,
- "fridoPresent": true,
+ "fridoRank": null,
+ "fridoPresent": false,
+ "fridoUrl": "https://www.flipkart.com/search?q=Neck%20Contour%20Cervical%20Pillow",
  "results": [
   {
    "pos": 1,
-   "title": "Frido Ultimate Cervical Neck Pillow for Pain Relief Sleep, Pack of 2 Cervical Pillow",
+   "title": "FOVERA Cervical Pillow for Neck Pain | Orthopedic Memory Foam Contour Sleeping Pillow, Cervical Pillow",
+   "brand": "FOVERA",
    "price": null,
-   "rating": 3.8,
-   "ratings": 6,
-   "isFrido": true
+   "rating": 4.1,
+   "ratings": 177,
+   "isFrido": false
   },
   {
    "pos": 2,
-   "title": "Frido Ultimate Pro Seat Cushion & Posture Corrector Backrest Combo Back / Lumbar Support",
+   "title": "MY ARMOR Orthopedic Memory Foam Cervical Pillow for Neck & Shoulder Pain with Outer Cover Cervical Pillow",
+   "brand": "MY ARMOR",
    "price": null,
-   "rating": 4,
-   "ratings": 385,
-   "isFrido": true
+   "rating": 4.1,
+   "ratings": 2541,
+   "isFrido": false
   },
   {
    "pos": 3,
-   "title": "Frido Ultimate Cervical Neck Pillow for Pain Relief Sleep, Pack of 4 Cervical Pillow",
+   "title": "FOVERA Cervical Pillow Cool Gel Memory Foam for Neck & Shoulder Pain Relief Cervical Pillow",
+   "brand": "FOVERA",
    "price": null,
-   "rating": 0,
-   "ratings": 0,
-   "isFrido": true
+   "rating": 4.2,
+   "ratings": 2646,
+   "isFrido": false
   },
   {
    "pos": 4,
-   "title": "FOVERA Cervical Pillow for Neck Pain | Orthopedic Memory Foam Contour Sleeping Pillow, Cervical Pillow",
+   "title": "betterhood PosturePro Contour Pillow for Neck Shoulder Pain, Ergonomic Ortho Memory Foam Cervical Pillow",
+   "brand": "betterhood",
    "price": null,
    "rating": 4.1,
-   "ratings": 168,
+   "ratings": 104,
    "isFrido": false
   },
   {
    "pos": 5,
-   "title": "AGEasy Cervical Pillow Memory Foam Solid Orthopaedic Pillow Cervical Pillow",
+   "title": "Dr Trust USA Large Orthopaedic Contoured Memory Foam 355 Neck Cervical Pillow",
+   "brand": "Dr Trust",
    "price": null,
-   "rating": 4.2,
-   "ratings": 123,
+   "rating": 4.1,
+   "ratings": 1888,
    "isFrido": false
   },
   {
    "pos": 6,
-   "title": "Frido Ultimate Neck for Pain Relief Sleep, Pack of 2 Cervical Pillow",
+   "title": "betterhood PosturePro Pillow for Neck Shoulder Pain, 100% Memory Foam, Ergonomic Orthopedic Cervical Pillow",
+   "brand": "betterhood",
    "price": null,
-   "rating": 3.8,
-   "ratings": 4,
-   "isFrido": true
+   "rating": 4.3,
+   "ratings": 384,
+   "isFrido": false
   },
   {
    "pos": 7,
-   "title": "TYNOR Regular, Grey, Universal Size, 1 Unit Cervical Pillow",
+   "title": "Aryamurti Contour Memory Foam ,Orthopedic for Neck Pain Cervical Pillow",
+   "brand": "Aryamurti",
    "price": null,
    "rating": 4.1,
-   "ratings": 1207,
+   "ratings": 3746,
    "isFrido": false
   },
   {
    "pos": 8,
    "title": "FOVERA Gel Memory Foam Pain Relief Cervical Pillow",
+   "brand": "FOVERA",
    "price": null,
    "rating": 4.2,
-   "ratings": 2628,
+   "ratings": 2646,
    "isFrido": false
   },
   {
    "pos": 9,
-   "title": "MY ARMOR Orthopedic Memory Foam Cervical Pillow for Neck & Shoulder Pain with Outer Cover Cervical Pillow",
+   "title": "Kartona Orthopaedic Cervical Pillow - Memory Foam Pillow Cervical Pillow",
+   "brand": "Kartona",
    "price": null,
-   "rating": 4.1,
-   "ratings": 2524,
+   "rating": 4.2,
+   "ratings": 1911,
    "isFrido": false
   },
   {
    "pos": 10,
    "title": "MY ARMOR Cool Gel Memory Foam Cervical Pillow for Neck Pain and Shoulder Pain Relief Cervical Pillow",
+   "brand": "MY ARMOR",
    "price": null,
    "rating": 4.6,
-   "ratings": 135,
+   "ratings": 138,
    "isFrido": false
   }
  ],

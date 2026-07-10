@@ -12995,6 +12995,4370 @@
    },
    "status": "listed",
    "capturedAt": "2026-07-08"
+  },
+  {
+   "category": "pillows",
+   "categoryName": "Pillows",
+   "sku": "Ultimate Deep Sleep Pillow",
+   "searchKeyword": "Deep Sleep Pillow",
+   "brandKeyword": "Frido Ultimate Deep Sleep Pillow",
+   "amazon": {
+    "fetchOk": true,
+    "organic": [
+     {
+      "asin": "B0D31TM3XL",
+      "badge": "Amazon's Choice",
+      "price": "1,529",
+      "rating": "4.2",
+      "reviews": "2,099",
+      "title": "Ultimate Deep Sleep Pillow | King Size 5 Inch Height | Orthopedic Grade Gel Memory Foam for Neck & Shoulder Pain Relief, Includes Bamboo Pillow Cover, Pack of 1",
+      "rank": 1,
+      "isFridoBrand": true
+     },
+     {
+      "asin": "B0GWRBV8Z5",
+      "badge": null,
+      "price": "1,999",
+      "rating": "4.4",
+      "reviews": "12",
+      "title": "Ultimate Deep Sleep Pillow with Cooling Cover | Orthopaedic Gel Memory Foam Pillow for Neck & Shoulder Pain Relief | Breathable, Pressure Relief for Side & Back",
+      "rank": 2
+     },
+     {
+      "asin": "B0DYVLQYT8",
+      "badge": "Bestseller",
+      "price": "599",
+      "rating": "4.0",
+      "reviews": "552",
+      "title": "Ergonomic Memory Foam Pillow for Neck Pain | 2 Years Warranty | 21 x 14 x 4.5 Inch | Orthopedic Pillow for Side Sleeping | Removable Washable Jacquard Blue Cove",
+      "rank": 3
+     },
+     {
+      "asin": "B0H361NFBW",
+      "badge": null,
+      "price": "449",
+      "rating": "4.6",
+      "reviews": "77",
+      "title": "𝗞𝗢𝗦𝗠𝗘𝗥 Memory Foam Pillow, Contour Cervical Orthopedic Memory Foam Pillows Supports Neck Pain and Shoulder Pain for Sleeping, Ergonomic Cervical Neck Support Pi",
+      "rank": 4
+     },
+     {
+      "asin": "B0DPL237H1",
+      "badge": null,
+      "price": "599",
+      "rating": "3.9",
+      "reviews": "911",
+      "title": "MYARMOR Cervical Pillow for Neck Pain | 2 Years Warranty | for Spondylitis Neck & Shoulder Pain, Orthopedic Memory Foam Pillow for Sleeping, Regular Size - 18.5",
+      "rank": 5
+     },
+     {
+      "asin": "B0847LWLKF",
+      "badge": null,
+      "price": "1,162",
+      "rating": "4.0",
+      "reviews": "9,709",
+      "title": "Memory Foam Pillow – Cool Gel Cervical Support for Neck & Shoulder Relief Orthopedic SleepingPillow for Back Side & Stomach Sleepers Medium Firm Standard Size (",
+      "rank": 6
+     },
+     {
+      "asin": "B0G7XSWHW4",
+      "badge": null,
+      "price": "599",
+      "rating": "3.7",
+      "reviews": "123",
+      "title": "Cervical Pillow for Neck Pain | Orthopedic Memory Foam Neck Pillow for Sleeping |Cervical Support for Spondylitis, Back & Shoulder Pain Relief |19x12x3.5 Inch| ",
+      "rank": 7
+     },
+     {
+      "asin": "B0822SXQGH",
+      "badge": null,
+      "price": "999",
+      "rating": "4.2",
+      "reviews": "3,559",
+      "title": "Orthopaedic Memory Foam Pillow for Better Shoulder and Neck Support, 1 Piece (Standard Size, 25x16 inches, White, Bamboo Fabric)",
+      "rank": 8
+     },
+     {
+      "asin": "B0FKM69BB5",
+      "badge": null,
+      "price": "597",
+      "rating": "4.0",
+      "reviews": "608",
+      "title": "Cervical Pillow for Neck Pain | 2 Years Warranty | for Spondylitis Neck & Shoulder Pain, Orthopedic Memory Foam Pillow for Sleeping, Standard Size, 18 x 11 x 3.",
+      "rank": 9
+     },
+     {
+      "asin": "B0FTS1XXVF",
+      "badge": null,
+      "price": "549",
+      "rating": "4.0",
+      "reviews": "1,315",
+      "title": "Memory Foam Pillow,nek Pillow,Orthopedic Memory Foam Pillows Supports Neck Pain and Shoulder Pain for Sleeping, Ergonomic Cervical Pillow (Steel Grey)",
+      "rank": 10
+     }
+    ],
+    "sponsored": [
+     {
+      "asin": "B0GF9MQKXJ",
+      "badge": null,
+      "price": "2,399",
+      "rating": "5.0",
+      "reviews": "1",
+      "title": "PureSleep Contour Cervical Pillow Pillow for Neck & Shoulder Pain| 100% Memory Foam Sleeping Pillow for Spondylitis Neck Support Cushion (2 x 24 White Foam, Whi",
+      "slot": 1
+     },
+     {
+      "asin": "B0GRTY5QFR",
+      "badge": null,
+      "price": "599",
+      "rating": "4.0",
+      "reviews": "225",
+      "title": "Memory Foam Cervical Pillow for Neck Pain | Orthopedic Contour Neck Support Pillow for Sleeping, for Neck and Shoulder Pain, Dual Height (Grey Jacquard Cover, P",
+      "slot": 2
+     },
+     {
+      "asin": "B0GTTTN51Z",
+      "badge": null,
+      "price": "1,799",
+      "rating": "4.6",
+      "reviews": "20",
+      "title": "CalmNest Anti-snoring Cervical 100% Memory Foam Pillow for Neck Pain & Shoulder Pain| Sleeping Pillow for Spondylitis Neck| Orthopaedic Ergonomic [2X 19 Blue Fo",
+      "slot": 3
+     },
+     {
+      "asin": "B0DXB5FDKW",
+      "badge": "Bestseller",
+      "price": "599",
+      "rating": "3.9",
+      "reviews": "1,776",
+      "title": "Contour Cervical Memory Foam Pillow | 2-Year Manufacturing Warranty | Ergonomic 3-Zone Orthopedic Pillow for Neck Support & Cervical Spine Alignment | Made in I",
+      "slot": 4
+     },
+     {
+      "asin": "B0DXBCP7M4",
+      "badge": "Bestseller",
+      "price": "597",
+      "rating": "3.9",
+      "reviews": "1,776",
+      "title": "Cervical Memory Foam Pillow for Neck Support | 2-Year Manufacturing Warranty | Orthopedic Contour Pillow for Cervical Spine Alignment & Shoulder Support | Made ",
+      "slot": 5
+     },
+     {
+      "asin": "B07L6GZYDV",
+      "badge": "Bestseller",
+      "price": "845",
+      "rating": "4.3",
+      "reviews": "81,744",
+      "title": "Hollow Fiber Sleeping Pillow | Height Adjustable | Soft & Fluffy Comfort | White & Grey | 27 x 16 Inch | Set of 2 |Free Extra Fiber for Custom Comfort (300 Gram",
+      "slot": 6
+     },
+     {
+      "asin": "B0G7XSWHW4",
+      "badge": null,
+      "price": "599",
+      "rating": "3.7",
+      "reviews": "123",
+      "title": "Cervical Pillow for Neck Pain | Orthopedic Memory Foam Neck Pillow for Sleeping |Cervical Support for Spondylitis, Back & Shoulder Pain Relief |19x12x3.5 Inch| ",
+      "slot": 7
+     },
+     {
+      "asin": "B097H8RR2B",
+      "badge": null,
+      "price": "1,952",
+      "rating": "4.0",
+      "reviews": "9,709",
+      "title": "Memory Foam Set of 2-Cool Gel Pillow for Neck & Shoulder Pain-Cervical Pillow for Sleeping-Orthopedic for Back, Side & Stomach Sleepers-Medium Firm-Standard-4\" ",
+      "slot": 8
+     },
+     {
+      "asin": "B0DQQCFD1N",
+      "badge": null,
+      "price": "699",
+      "rating": "3.6",
+      "reviews": "12",
+      "title": "Cervical Memory Foam Pillow - Ergonomic Neck Support Pillow for Sleeping, Neck & Shoulder Pain Relief, Orthopedic Contour Design with Ultra Soft Breathable & Sk",
+      "slot": 9
+     },
+     {
+      "asin": "B0F332522D",
+      "badge": null,
+      "price": "3,499",
+      "rating": "4.0",
+      "reviews": "1",
+      "title": "Cervical Butterfly Pillow – Orthopedic Memory Foam for Neck & Shoulder Pain Relief | Contour Pillow with Arm Rest | Dual Height Design for Side & Back Sleepers ",
+      "slot": 10
+     }
+    ],
+    "fridoOrganicRank": 1,
+    "fridoSponsoredSlot": null,
+    "fridoBadge": "Amazon's Choice",
+    "fridoAsin": "B0D31TM3XL",
+    "fridoUrl": "https://www.amazon.in/dp/B0D31TM3XL",
+    "resultCount": 60
+   },
+   "flipkart": {
+    "fetchOk": true,
+    "results": [
+     {
+      "pos": 1,
+      "title": "AYKA Microfibre Sleeping Pillow Pack of 2 Solid Soft Microfiber Pillow for Sleeping",
+      "brand": "AYKA",
+      "price": null,
+      "rating": 4.3,
+      "ratings": 150,
+      "isFrido": false
+     },
+     {
+      "pos": 2,
+      "title": "AYKA Microfibre Sleeping Pillow Pack of 2 Solid Soft Microfiber Pillows",
+      "brand": "AYKA",
+      "price": null,
+      "rating": 4.3,
+      "ratings": 2421,
+      "isFrido": false
+     },
+     {
+      "pos": 3,
+      "title": "AYKA Microfibre Sleeping Pillow Pack of 2 Solid Premium Pillows Series",
+      "brand": "AYKA",
+      "price": null,
+      "rating": 4.2,
+      "ratings": 152,
+      "isFrido": false
+     },
+     {
+      "pos": 4,
+      "title": "Flipkart SmartBuy Memory Foam, Polyester Fibre Orthopaedic Pillow Pack of 1 Solid",
+      "brand": "Flipkart SmartBuy",
+      "price": null,
+      "rating": 3.7,
+      "ratings": 11,
+      "isFrido": false
+     },
+     {
+      "pos": 5,
+      "title": "Welspun Microfibre Sleeping Pillow Pack of 2 Solid",
+      "brand": "Welspun",
+      "price": null,
+      "rating": 4.1,
+      "ratings": 103,
+      "isFrido": false
+     },
+     {
+      "pos": 6,
+      "title": "VIV-ATIQ Memory Foam Orthopaedic Pillow Pack of 1 Solid Cervical Contour Memory Foam Pillow / Stomache / Side Sleepers / Anti-Snoring",
+      "brand": "VIV-ATIQ",
+      "price": null,
+      "rating": 4,
+      "ratings": 167,
+      "isFrido": false
+     },
+     {
+      "pos": 7,
+      "title": "DALUCI Microfibre Sleeping Pillow Pack of 2 Solid Comfort & Soft Microfiber Sleeping Pillow – Ultra Soft Bed Pillow for Sleeping",
+      "brand": "DALUCI",
+      "price": null,
+      "rating": 4.3,
+      "ratings": 317,
+      "isFrido": false
+     },
+     {
+      "pos": 8,
+      "title": "COO RIZZ Nap time Anytime Memory Foam Orthopaedic Pillow Pack of 1 Geometric Cooling Contour Gel Pillow for Sleeping and Neck Pain Relief",
+      "brand": "COO RIZZ Nap time Anytime",
+      "price": null,
+      "rating": 5,
+      "ratings": 2,
+      "isFrido": false
+     },
+     {
+      "pos": 9,
+      "title": "Frido Memory Foam Orthopaedic Pillow Pack of 1 Solid Ultimate Deep Sleep Pillow for Neck & Shoulder Pain Relief, King Size 5 Inch",
+      "brand": "Frido",
+      "price": null,
+      "rating": 4.1,
+      "ratings": 808,
+      "isFrido": true
+     },
+     {
+      "pos": 10,
+      "title": "velvure Microfibre Sleeping Pillow Pack of 2 Solid",
+      "brand": "velvure",
+      "price": null,
+      "rating": 0,
+      "ratings": 0,
+      "isFrido": false
+     },
+     {
+      "pos": 11,
+      "title": "HOMESO Memory Foam Orthopaedic Pillow Pack of 1 Solid Wedge Plus Pillow for Sleeping Back & Neck Pain Relief Leg Elevator",
+      "brand": "HOMESO",
+      "price": null,
+      "rating": 4.3,
+      "ratings": 877,
+      "isFrido": false
+     },
+     {
+      "pos": 12,
+      "title": "Sleep Yoga Memory Foam Sleeping Pillow Pack of 1 Solid",
+      "brand": "Sleep Yoga",
+      "price": null,
+      "rating": 5,
+      "ratings": 2,
+      "isFrido": false
+     },
+     {
+      "pos": 13,
+      "title": "SANJU BROTHER Microfibre Sleeping Pillow Pack of 2 Solid Quilted",
+      "brand": "SANJU BROTHER",
+      "price": null,
+      "rating": 0,
+      "ratings": 0,
+      "isFrido": false
+     }
+    ],
+    "fridoRank": 9,
+    "fridoUrl": "https://www.flipkart.com/search?q=Deep%20Sleep%20Pillow"
+   },
+   "status": "listed",
+   "capturedAt": "2026-07-08"
+  },
+  {
+   "category": "pillows",
+   "categoryName": "Pillows",
+   "sku": "Ultimate Cozy Pillow",
+   "searchKeyword": "Cozy Pillow",
+   "brandKeyword": "Frido Ultimate Cozy Pillow",
+   "amazon": {
+    "fetchOk": true,
+    "organic": [
+     {
+      "asin": "B0FPMFG9NW",
+      "badge": null,
+      "price": "799",
+      "rating": "4.2",
+      "reviews": "1,268",
+      "title": "Frido Ultimate Cozy Classic Pillow - A Super Soft & Fluffy Pillow for Sleeping - Premium Comfort for Side, Back & Stomach Sleepers - White, Set of 1",
+      "rank": 1,
+      "isFridoBrand": true
+     },
+     {
+      "asin": "B0BFNRKR8Z",
+      "badge": null,
+      "price": "449",
+      "rating": "4.0",
+      "reviews": "3,029",
+      "title": "MYARMOR Microfiber Pillows Set 2, Soft Adjustable Pillow for Sleeping - 16 x 24 Inches -White",
+      "rank": 2
+     },
+     {
+      "asin": "B0FDKSNHHM",
+      "badge": null,
+      "price": "399",
+      "rating": "3.3",
+      "reviews": "90",
+      "title": "CareFoam Height Adjustable Microfiber Sleeping Pillows – Set of 2 | 16\" x 24\"| Soft, Supportive & Washable | Ideal for Back, Side & Stomach Sleepers | White",
+      "rank": 3
+     },
+     {
+      "asin": "B0DWSM9TNF",
+      "badge": null,
+      "price": "489",
+      "rating": "4.0",
+      "reviews": "3,029",
+      "title": "MYARMOR Height Adjustable Microfiber Pillows Set of 2 for Sleeping - 16\"x24\" Standard Pillow | 6 Months Warranty | 41 x 61 cm - Grey",
+      "rank": 4
+     },
+     {
+      "asin": "B0F7Y5XDPB",
+      "badge": "Amazon's Choice",
+      "price": "199",
+      "rating": "4.2",
+      "reviews": "1,185",
+      "title": "RAGGLE Set of 2 Satin Silk Pillowcase for Hair and Skin Standard Size 18\"X 28\" with Soft Breathable Smooth Cooling Pillow Covers for Sleeping or Pillow Protecto",
+      "rank": 5
+     },
+     {
+      "asin": "B07L6GZYDV",
+      "badge": "Bestseller",
+      "price": "845",
+      "rating": "4.3",
+      "reviews": "81,744",
+      "title": "Wakefit Hollow Fiber Sleeping Pillow | Height Adjustable | Soft & Fluffy Comfort | White & Grey | 27 x 16 Inch | Set of 2 |Free Extra Fiber for Custom Comfort (",
+      "rank": 6
+     },
+     {
+      "asin": "B0F39MJV39",
+      "badge": null,
+      "price": "349",
+      "rating": "3.0",
+      "reviews": "100",
+      "title": "AVSHUB Sunflower Shaped 6 Kali Cushion Cute Preppy Decorative Throw Pillow | Floor Pillowcase with Fibre Filling Aesthetic Decoration for Sofa Bedroom Car Offic",
+      "rank": 7
+     },
+     {
+      "asin": "B0H6CHFZB1",
+      "badge": null,
+      "price": "229",
+      "rating": "3.4",
+      "reviews": "10",
+      "title": "Microfiber Soft White Pillows | Pillows for Sleeping - Sets of 2 (Size - 16x24 Inches & 40x60 cm) - Pack of 2 Soft White Pillows",
+      "rank": 8
+     },
+     {
+      "asin": "B0DW93M8LQ",
+      "badge": null,
+      "price": "698",
+      "rating": "4.0",
+      "reviews": "3,331",
+      "title": "Zinnia Comfort Soft Microfiber Pillow | White | Basic Size 41 x 61 CM | Pack of 4",
+      "rank": 9
+     },
+     {
+      "asin": "B0DG95LM89",
+      "badge": null,
+      "price": "869",
+      "rating": "4.0",
+      "reviews": "3,029",
+      "title": "MYARMOR Height Adjustable Microfiber Pillows Set of 4 for Sleeping - 16 x 24 Inches - White",
+      "rank": 10
+     }
+    ],
+    "sponsored": [
+     {
+      "asin": "B0CYWKQGJW",
+      "badge": null,
+      "price": "1,599",
+      "rating": "4.2",
+      "reviews": "1,268",
+      "title": "Frido Ultimate Cozy Sleeping Pillow | (High Density) Gel Microfiber Bed Pillow | Breathable & Hypo-Allergenic Cushion for Bed | Bed Pillow for Long Lasting Fluf",
+      "slot": 1,
+      "isFridoBrand": true
+     },
+     {
+      "asin": "B084X87XW7",
+      "badge": null,
+      "price": "3,699",
+      "rating": "4.3",
+      "reviews": "11",
+      "title": "Jewear Imported 100% Cotton White Fluffy Soft Sleeping 10/90 Goose Down & Feather Pillow Size 17\" X 27\" Pack of 2",
+      "slot": 2
+     },
+     {
+      "asin": "B0GJT1YXNH",
+      "badge": null,
+      "price": "1,196",
+      "rating": "4.0",
+      "reviews": "122",
+      "title": "AYKA Premium Microfiber Pillow for Sleeping | Super Soft & Fluffy Bed Pillow | 100% Virgin Microfiber Filling | Hypoallergenic, Breathable | Ideal for All Sleep",
+      "slot": 3
+     },
+     {
+      "asin": "B0DVD681G7",
+      "badge": null,
+      "price": "1,599",
+      "rating": "4.5",
+      "reviews": "4",
+      "title": "CUSHIO Bed Wedge Pillow for Sleeping, Memory Foam Wedge Cushion for Acid Reflux, Back Support Pillow for Bed Sitting, Orthopedic Wedge Pillow for Neck & Back Pa",
+      "slot": 4
+     },
+     {
+      "asin": "B0H7CNXG9J",
+      "badge": null,
+      "price": "249",
+      "rating": "5.0",
+      "reviews": "1",
+      "title": "MINIMART Microfiber Soft White Pillows | Pillows for Sleeping - Sets of 2 (Size - 16x24 Inches & 40x60 cm) - Pack of 2 Soft White Pillows",
+      "slot": 5
+     },
+     {
+      "asin": "B0DYVLQYT8",
+      "badge": "Bestseller",
+      "price": "599",
+      "rating": "4.0",
+      "reviews": "552",
+      "title": "WELLGIVER Ergonomic Memory Foam Pillow for Neck Pain | 2 Years Warranty | 21 x 14 x 4.5 Inch | Orthopedic Pillow for Side Sleeping | Removable Washable Jacquard",
+      "slot": 6
+     },
+     {
+      "asin": "B0D6BM9ZRL",
+      "badge": null,
+      "price": "2,498",
+      "rating": "3.5",
+      "reviews": "21",
+      "title": "CUSHIO Adjustable Memory Foam Wedge Pillow for Back Support, 7-in-1 Versatile Design for Sleeping, Elevation and Leg Support with Removable Cover (22\"x22\"x12\" I",
+      "slot": 7
+     },
+     {
+      "asin": "B0DXBCP7M4",
+      "badge": "Bestseller",
+      "price": "597",
+      "rating": "3.9",
+      "reviews": "1,776",
+      "title": "CareFoam Cervical Memory Foam Pillow for Neck Support | 2-Year Manufacturing Warranty | Orthopedic Contour Pillow for Cervical Spine Alignment & Shoulder Suppor",
+      "slot": 8
+     },
+     {
+      "asin": "B0CC6BQRTB",
+      "badge": null,
+      "price": "2,298",
+      "rating": "4.2",
+      "reviews": "163",
+      "title": "CUSHIO Cooling Gel Memory Foam Pillow | Size 24\"x16\"x3.5\" (Set of 2) Cervical Pillow for Relieving Neck & Shoulder Pain with Free Pillow Cover (White & Grey)",
+      "slot": 9
+     },
+     {
+      "asin": "B0H761J6N1",
+      "badge": null,
+      "price": "2,100",
+      "rating": null,
+      "reviews": null,
+      "title": "Bed with Mosquito Net for Newborn, Premium Cotton Baby Nest Bedding Set, Portable Infant Sleeping Bed with Pillow & Bolsters, Soft Breathable Baby Lounger for 0",
+      "slot": 10
+     }
+    ],
+    "fridoOrganicRank": 1,
+    "fridoSponsoredSlot": 1,
+    "fridoBadge": null,
+    "fridoAsin": "B0FPMFG9NW",
+    "fridoUrl": "https://www.amazon.in/dp/B0FPMFG9NW",
+    "resultCount": 60
+   },
+   "flipkart": {
+    "fetchOk": true,
+    "results": [
+     {
+      "pos": 1,
+      "title": "AYKA Microfibre Sleeping Pillow Pack of 2 Solid Soft Microfiber Pillow for Sleeping",
+      "brand": "AYKA",
+      "price": null,
+      "rating": 4.3,
+      "ratings": 150,
+      "isFrido": false
+     },
+     {
+      "pos": 2,
+      "title": "AYKA Microfibre Sleeping Pillow Pack of 2 Solid Soft Microfiber Pillows",
+      "brand": "AYKA",
+      "price": null,
+      "rating": 4.3,
+      "ratings": 2421,
+      "isFrido": false
+     },
+     {
+      "pos": 3,
+      "title": "AYKA Microfibre Sleeping Pillow Pack of 2 Solid Premium Pillows Series",
+      "brand": "AYKA",
+      "price": null,
+      "rating": 4.2,
+      "ratings": 152,
+      "isFrido": false
+     },
+     {
+      "pos": 4,
+      "title": "Woomzy Cotton Orthopaedic Pillow Pack of 1 Solid Contour Memory Foam Pillow / Stomache / Side Sleepers /Geometric Orthopaedic",
+      "brand": "Woomzy",
+      "price": null,
+      "rating": 3.6,
+      "ratings": 20,
+      "isFrido": false
+     },
+     {
+      "pos": 5,
+      "title": "DALUCI Microfibre Sleeping Pillow Pack of 1 Solid Ultra Soft Microfiber Bed Pillows for Sleeping",
+      "brand": "DALUCI",
+      "price": null,
+      "rating": 4.3,
+      "ratings": 317,
+      "isFrido": false
+     },
+     {
+      "pos": 6,
+      "title": "Mom's Moon Microfibre Sleeping Pillow Pack of 2 Solid Cozy Comfort Gusseted Pillow",
+      "brand": "Mom's Moon",
+      "price": null,
+      "rating": 3.9,
+      "ratings": 4459,
+      "isFrido": false
+     },
+     {
+      "pos": 7,
+      "title": "Dr Trust Microfibre Body Pillow Pack of 1 Solid USA Long Cuddle Pillow for Sleeping and Pregnancy, Washable Premium Velvet Cover",
+      "brand": "Dr Trust",
+      "price": null,
+      "rating": 4.3,
+      "ratings": 76,
+      "isFrido": false
+     },
+     {
+      "pos": 8,
+      "title": "CUSHIO Memory Foam Orthopaedic Pillow Pack of 1 Solid Memory Foam Bed Wedge Pillow for Back Support, Leg Elevation, Acid Reflux",
+      "brand": "CUSHIO",
+      "price": null,
+      "rating": 4.2,
+      "ratings": 58,
+      "isFrido": false
+     },
+     {
+      "pos": 9,
+      "title": "Frido Memory Foam Orthopaedic Pillow Pack of 1 Solid Ultimate Deep Sleep Pillow for Neck & Shoulder Pain Relief, King Size 5 Inch",
+      "brand": "Frido",
+      "price": null,
+      "rating": 4.1,
+      "ratings": 808,
+      "isFrido": true
+     },
+     {
+      "pos": 10,
+      "title": "Frido Memory Foam Sleeping Pillow Pack of 1 Solid Cuddle Pillow | Ultra-Soft Hugging Memory Foam Pillow , Side Sleepers & Travel",
+      "brand": "Frido",
+      "price": null,
+      "rating": 4.5,
+      "ratings": 23,
+      "isFrido": true
+     },
+     {
+      "pos": 11,
+      "title": "Sifflex Microfibre Sleeping Pillow Pack of 2 Floral Sifflex Premium Sleep Series",
+      "brand": "Sifflex",
+      "price": null,
+      "rating": 0,
+      "ratings": 0,
+      "isFrido": false
+     },
+     {
+      "pos": 12,
+      "title": "Dormyo Memory Foam Sleeping Pillow Pack of 1 Geometric Dormyo Classic Cervical Pillow for Neck and Shoulder Pain (24”L x 14”W x 5\"H)",
+      "brand": "Dormyo",
+      "price": null,
+      "rating": 4.2,
+      "ratings": 62,
+      "isFrido": false
+     },
+     {
+      "pos": 13,
+      "title": "SANJU BROTHER Microfibre Sleeping Pillow Pack of 2 Solid Quilted",
+      "brand": "SANJU BROTHER",
+      "price": null,
+      "rating": 0,
+      "ratings": 0,
+      "isFrido": false
+     }
+    ],
+    "fridoRank": 9,
+    "fridoUrl": "https://www.flipkart.com/search?q=Cozy%20Pillow"
+   },
+   "status": "listed",
+   "capturedAt": "2026-07-08"
+  },
+  {
+   "category": "pillows",
+   "categoryName": "Pillows",
+   "sku": "Ultimate Neck Contour Cervical Plus Pillow",
+   "searchKeyword": "Neck Contour Cervical Plus Pillow",
+   "brandKeyword": "Frido Ultimate Neck Contour Cervical Plus Pillow",
+   "amazon": {
+    "fetchOk": true,
+    "organic": [
+     {
+      "asin": "B0DCC799DN",
+      "badge": null,
+      "price": "1,699",
+      "rating": "4.0",
+      "reviews": "97",
+      "title": "Frido Ultimate Neck Contour Cervical Plus Pillow for Neck, Back Pain, Shoulder Pain, Orthopedic Ergonomic Memory Foam Best Pillow for Cervical Spine Neck Pain R",
+      "rank": 1,
+      "isFridoBrand": true
+     },
+     {
+      "asin": "B0DCC8WKSX",
+      "badge": null,
+      "price": "1,699",
+      "rating": "4.0",
+      "reviews": "97",
+      "title": "Frido Ultimate Neck Contour Cervical Plus Pillow for Neck, Back Pain, Shoulder Pain, Orthopedic Ergonomic Memory Foam Best Pillow for Cervical Spine Neck Pain R",
+      "rank": 2
+     },
+     {
+      "asin": "B0GMQ9KLH4",
+      "badge": "Bestseller",
+      "price": "649",
+      "rating": "3.9",
+      "reviews": "1,776",
+      "title": "CareFoam Contour Cervical Memory Foam Pillow | 2-Year Manufacturing Warranty | Ergonomic 3-Zone Orthopedic Pillow for Neck Support & Cervical Spine Alignment | ",
+      "rank": 3
+     },
+     {
+      "asin": "B0GN8XQL2K",
+      "badge": null,
+      "price": "948",
+      "rating": "4.4",
+      "reviews": "26,172",
+      "title": "Cervical Neck Pillow for Sleeping | Premium Memory Foam Cervical Pillow for Neck Pain Relief & Shoulder Support | Orthopedic Contour Pillow for Spinal Alignment",
+      "rank": 4
+     },
+     {
+      "asin": "B0H69H4T99",
+      "badge": "Bestseller",
+      "price": "598",
+      "rating": "3.9",
+      "reviews": "1,776",
+      "title": "CareFoam Cervical Memory Foam Pillow for Neck Support | 2-Year Manufacturing Warranty | Orthopedic Contour Pillow for Cervical Spine Alignment & Shoulder Suppor",
+      "rank": 5
+     },
+     {
+      "asin": "B0GH1PWSBZ",
+      "badge": null,
+      "price": "472",
+      "rating": "4.0",
+      "reviews": "84",
+      "title": "LA VERNE Memory Foam Cervical Pillow with Cool Gel | Contour Neck & Shoulder Pain Relief Pillow | Orthopedic Design Improves Posture | Ideal for Back & Side Sle",
+      "rank": 6
+     },
+     {
+      "asin": "B0FKM69BB5",
+      "badge": null,
+      "price": "597",
+      "rating": "4.0",
+      "reviews": "608",
+      "title": "FOVERA Cervical Pillow for Neck Pain | 2 Years Warranty | for Spondylitis Neck & Shoulder Pain, Orthopedic Memory Foam Pillow for Sleeping, Standard Size, 18 x ",
+      "rank": 7
+     },
+     {
+      "asin": "B0GRTY5QFR",
+      "badge": null,
+      "price": "599",
+      "rating": "4.0",
+      "reviews": "225",
+      "title": "FOVERA Memory Foam Cervical Pillow for Neck Pain | Orthopedic Contour Neck Support Pillow for Sleeping, for Neck and Shoulder Pain, Dual Height (Grey Jacquard C",
+      "rank": 8
+     },
+     {
+      "asin": "B0GRTWWNW5",
+      "badge": null,
+      "price": "598",
+      "rating": "4.0",
+      "reviews": "225",
+      "title": "FOVERA Memory Foam Cervical Pillow for Neck Pain | Orthopedic Contour Neck Support Pillow for Sleeping, for Neck and Shoulder Pain, Dual Height (White Jacquard ",
+      "rank": 9
+     },
+     {
+      "asin": "B0FM46L611",
+      "badge": null,
+      "price": "703",
+      "rating": "3.9",
+      "reviews": "563",
+      "title": "Memory Foam Pillow Contour Cervical Orthopedic Memory Foam Pillows Supports Neck Pain and Shoulder Pain for Sleeping, Ergonomic Cervical Pillow Neck Support Pil",
+      "rank": 10
+     }
+    ],
+    "sponsored": [
+     {
+      "asin": "B0DG5YJYL3",
+      "badge": null,
+      "price": "599",
+      "rating": "3.2",
+      "reviews": "11",
+      "title": "Memory Foam Pillow Contour Cervical Orthopedic Supports Neck Pain and Shoulder Pain for Sleeping, Ergonomic Cervical Pillow Neck Support Pillow for Side Back(Pi",
+      "slot": 1
+     },
+     {
+      "asin": "B08VJCPK4H",
+      "badge": null,
+      "price": "1,809",
+      "rating": "3.8",
+      "reviews": "304",
+      "title": "The White Willow Cervical Contour Ergonomic Orthopedic Memory Foam Pillow for Neck & Back Pain Relief Designed for All Sleeping Positions- Side, Back, Stomach- ",
+      "slot": 2
+     },
+     {
+      "asin": "B0GRTY5QFR",
+      "badge": null,
+      "price": "599",
+      "rating": "4.0",
+      "reviews": "225",
+      "title": "FOVERA Memory Foam Cervical Pillow for Neck Pain | Orthopedic Contour Neck Support Pillow for Sleeping, for Neck and Shoulder Pain, Dual Height (Grey Jacquard C",
+      "slot": 3
+     },
+     {
+      "asin": "B0G65GFZWJ",
+      "badge": null,
+      "price": "599",
+      "rating": "3.9",
+      "reviews": "563",
+      "title": "Memory Foam Pillow Contour Cervical Orthopedic Memory Foam Pillows Supports Neck Pain and Shoulder Pain for Sleeping, Ergonomic Cervical Pillow Neck Support Pil",
+      "slot": 4
+     },
+     {
+      "asin": "B0DXBCP7M4",
+      "badge": "Bestseller",
+      "price": "597",
+      "rating": "3.9",
+      "reviews": "1,776",
+      "title": "CareFoam Cervical Memory Foam Pillow for Neck Support | 2-Year Manufacturing Warranty | Orthopedic Contour Pillow for Cervical Spine Alignment & Shoulder Suppor",
+      "slot": 5
+     },
+     {
+      "asin": "B0D56LQGDJ",
+      "badge": null,
+      "price": "450",
+      "rating": "4.1",
+      "reviews": "108",
+      "title": "Cervical Contour Memory Foam Pillow for Sleeping,Orthopedic Pillow for Neck Pain, Support for Back,Stomach,Side Sleepers, with Breathable Zip Cover (Grey)",
+      "slot": 6
+     },
+     {
+      "asin": "B0FF3M93SD",
+      "badge": null,
+      "price": "1,599",
+      "rating": "3.2",
+      "reviews": "23",
+      "title": "Cervical Anti Snoring Pillows Memory Foam| 2 Years Warranty | Pain Relief Sleep, Improves Posture, Spinal Alignment, Neck Pain Relief | 19 x 12 x 4 Inch | (Pack",
+      "slot": 7
+     },
+     {
+      "asin": "B0DSV94VY3",
+      "badge": null,
+      "price": "2,688",
+      "rating": "4.2",
+      "reviews": "381",
+      "title": "betterhood PosturePro Premium Cervical Pillow for Neck Pain and Shoulder Pain, Memory Foam Pillow, Cervical Pillow for Spondylitis Neck, Contour Pillow for Neck",
+      "slot": 8
+     },
+     {
+      "asin": "B0D53R7N5F",
+      "badge": null,
+      "price": "1,234",
+      "rating": "4.1",
+      "reviews": "17",
+      "title": "Sleepsia Cervical Pillow for Neck Pain | 1 Year Warranty | Cervical Contour Orthopedic Pillow for Neck and Shoulder Pain Relief Ergonomic Memory Foam Pillows fo",
+      "slot": 9
+     },
+     {
+      "asin": "B0D7MF6DKJ",
+      "badge": null,
+      "price": "1,023",
+      "rating": "3.9",
+      "reviews": "727",
+      "title": "Sleepsia Cervical Pillow for Neck Pain & Shoulder Pain Relief | 1-Year Warranty| Orthopedic Memory Foam Cervical Pillow, Spondylitis-Ortho Neck Support Medical ",
+      "slot": 10
+     }
+    ],
+    "fridoOrganicRank": 1,
+    "fridoSponsoredSlot": null,
+    "fridoBadge": null,
+    "fridoAsin": "B0DCC799DN",
+    "fridoUrl": "https://www.amazon.in/dp/B0DCC799DN",
+    "resultCount": 60
+   },
+   "flipkart": {
+    "fetchOk": true,
+    "results": [
+     {
+      "pos": 1,
+      "title": "FlyTouch Orthopaedic Neck And Shoulder Relaxer, Cervical Traction Device Pillow Cervical Pillow",
+      "brand": "FlyTouch",
+      "price": null,
+      "rating": 3,
+      "ratings": 4,
+      "isFrido": false
+     },
+     {
+      "pos": 2,
+      "title": "FOVERA Cervical Pillow for Neck Pain | Orthopedic Memory Foam Contour Sleeping Pillow, Cervical Pillow",
+      "brand": "FOVERA",
+      "price": null,
+      "rating": 4.1,
+      "ratings": 177,
+      "isFrido": false
+     },
+     {
+      "pos": 3,
+      "title": "MY ARMOR Orthopedic Memory Foam Contour Cervical Pillow With Bamboo Outer Cover - Cervical Pillow",
+      "brand": "MY ARMOR",
+      "price": null,
+      "rating": 4.1,
+      "ratings": 2541,
+      "isFrido": false
+     },
+     {
+      "pos": 4,
+      "title": "Frido Ultimate Neck Contour Cervical Plus Pillow for Neck Pain Relief Sleep Cervical Pillow",
+      "brand": "Frido",
+      "price": null,
+      "rating": 4.2,
+      "ratings": 30,
+      "isFrido": true
+     },
+     {
+      "pos": 5,
+      "title": "MY ARMOR Orthopedic Memory Foam Cervical Pillow for Neck & Shoulder Pain with Outer Cover Cervical Pillow",
+      "brand": "MY ARMOR",
+      "price": null,
+      "rating": 4.1,
+      "ratings": 2541,
+      "isFrido": false
+     },
+     {
+      "pos": 6,
+      "title": "betterhood PosturePro Contour Pillow for Neck Shoulder Pain, Ergonomic Ortho Memory Foam Cervical Pillow",
+      "brand": "betterhood",
+      "price": null,
+      "rating": 4.1,
+      "ratings": 104,
+      "isFrido": false
+     },
+     {
+      "pos": 7,
+      "title": "HRT Cervical Neck Traction Device Pillow for Pain Relief, Muscle Relax Neck Support",
+      "brand": "HRT",
+      "price": null,
+      "rating": 0,
+      "ratings": 0,
+      "isFrido": false
+     },
+     {
+      "pos": 8,
+      "title": "FOVERA Gel Memory Foam Pain Relief Cervical Pillow",
+      "brand": "FOVERA",
+      "price": null,
+      "rating": 4.2,
+      "ratings": 2646,
+      "isFrido": false
+     },
+     {
+      "pos": 9,
+      "title": "betterhood PosturePro Pillow for Neck Shoulder Pain, 100% Memory Foam, Ergonomic Orthopedic Cervical Pillow",
+      "brand": "betterhood",
+      "price": null,
+      "rating": 4.3,
+      "ratings": 384,
+      "isFrido": false
+     },
+     {
+      "pos": 10,
+      "title": "MY ARMOR Cool Gel Memory Foam Cervical Pillow for Neck Pain and Shoulder Pain Relief Cervical Pillow",
+      "brand": "MY ARMOR",
+      "price": null,
+      "rating": 4.6,
+      "ratings": 138,
+      "isFrido": false
+     }
+    ],
+    "fridoRank": 4,
+    "fridoUrl": "https://www.flipkart.com/search?q=Neck%20Contour%20Cervical%20Plus%20Pillow"
+   },
+   "status": "listed",
+   "capturedAt": "2026-07-08"
+  },
+  {
+   "category": "pillows",
+   "categoryName": "Pillows",
+   "sku": "Ultra Slim Deep Sleep Pillow",
+   "searchKeyword": "Ultra Slim Deep Sleep Pillow",
+   "brandKeyword": "Frido Ultra Slim Deep Sleep Pillow",
+   "amazon": {
+    "fetchOk": true,
+    "organic": [
+     {
+      "asin": "B0D31TT9X9",
+      "badge": null,
+      "price": "1,499",
+      "rating": "4.2",
+      "reviews": "2,099",
+      "title": "Frido Ultra Slim Deep Sleep Pillow | King Size 2 Inch Height | Orthopedic Grade Gel Memory Foam for Neck & Shoulder Pain Relief, Includes Bamboo Pillow Cover, P",
+      "rank": 1,
+      "isFridoBrand": true
+     },
+     {
+      "asin": "B079VTR75Z",
+      "badge": null,
+      "price": "1,332",
+      "rating": "4.0",
+      "reviews": "3,622",
+      "title": "The White Willow Ultra Slim Pillow-Memory Foam Support for Sleeping-Ultra Thin Support for Neck Pain Relief-Thin Cervical Pillow for Neck Support-Thinnest Ortho",
+      "rank": 2
+     },
+     {
+      "asin": "B0D7QF9ZW7",
+      "badge": null,
+      "price": "1,999",
+      "rating": "4.0",
+      "reviews": "1,198",
+      "title": "The Sleep Company SmartGRID Thin Pillow | for Stomach & Back Sleepers | Neck Pain Relief | Ultra Slim Design | (24 x 15 x 2.25 Inch) | Washable Cover | Pack of ",
+      "rank": 3
+     },
+     {
+      "asin": "B0DP25DYTS",
+      "badge": null,
+      "price": "840",
+      "rating": "3.8",
+      "reviews": "100",
+      "title": "Dr.Ortho Orthopaedic Ultra Thin Memory Foam Pillow, Bed Pillow for Sleeping-Cervical Pillow for Neck & Shoulder Pain, Medium Firm - White (20\" x 12.5\" x 2\")",
+      "rank": 4
+     },
+     {
+      "asin": "B0G6SYXGGB",
+      "badge": null,
+      "price": "1,102",
+      "rating": null,
+      "reviews": null,
+      "title": "Ultra Slim Deep Sleep Pillow | Memory Foam for Neck & Shoulder Pain Relief (24x16x4 Inch) 2 Years Warranty",
+      "rank": 5
+     },
+     {
+      "asin": "B0DXB5FDKW",
+      "badge": "Bestseller",
+      "price": "599",
+      "rating": "3.9",
+      "reviews": "1,776",
+      "title": "CareFoam Contour Cervical Memory Foam Pillow | 2-Year Manufacturing Warranty | Ergonomic 3-Zone Orthopedic Pillow for Neck Support & Cervical Spine Alignment | ",
+      "rank": 6
+     },
+     {
+      "asin": "B0GVMZTGXM",
+      "badge": null,
+      "price": "749",
+      "rating": "4.5",
+      "reviews": "7",
+      "title": "Ultra Slim Sleeping Pillow, Gray Geometric Memory Foam for Spinal Health, Breathable Jacquard Fabric Cover, Orthopedic Bedding for Stomach and Back Sleepers, Al",
+      "rank": 7
+     },
+     {
+      "asin": "B0H7MFKYQC",
+      "badge": null,
+      "price": "1,599",
+      "rating": null,
+      "reviews": null,
+      "title": "Ultra Slim Deep Sleep Pillow | King Size 5 Inch Height | Orthopedic Grade Gel Memory Foam for Neck & Shoulder Pain Relief, Includes Bamboo Pillow Cover",
+      "rank": 8
+     },
+     {
+      "asin": "B0H7M5ZTFZ",
+      "badge": null,
+      "price": "1,799",
+      "rating": null,
+      "reviews": null,
+      "title": "Ultra Slim Deep Sleep Pillow | King Size 5 Inch Height | Orthopedic Grade Gel Memory Foam for Neck & Shoulder Pain Relief, Includes Bamboo Pillow Cover",
+      "rank": 9
+     },
+     {
+      "asin": "B0H222HZVB",
+      "badge": null,
+      "price": "1,399",
+      "rating": null,
+      "reviews": null,
+      "title": "Relaxer Ultra Slim Deep Pillow | Low Profile Memory Foam Pillow for Back, Stomach & Side Sleepers | Cervical Neck & Head Alignment | Deeper Sleep, Snoring & Nec",
+      "rank": 10
+     }
+    ],
+    "sponsored": [
+     {
+      "asin": "B079VTR75Z",
+      "badge": null,
+      "price": "1,332",
+      "rating": "4.0",
+      "reviews": "3,622",
+      "title": "The White Willow Ultra Slim Pillow-Memory Foam Support for Sleeping-Ultra Thin Support for Neck Pain Relief-Thin Cervical Pillow for Neck Support-Thinnest Ortho",
+      "slot": 1
+     },
+     {
+      "asin": "B07PWPPS86",
+      "badge": null,
+      "price": "1,481",
+      "rating": "4.1",
+      "reviews": "65",
+      "title": "The White Willow Ultra Thin Pillow For Sleeping-Ultra Slim Memory Foam Pillow Cool Gel-Slim Pillow For Neck & Shoulder Pain-Flat Pillow-Orthopedic Cervical Pill",
+      "slot": 2
+     },
+     {
+      "asin": "B0DWH2K36F",
+      "badge": null,
+      "price": "1,799",
+      "rating": "4.0",
+      "reviews": "609",
+      "title": "The Sleep Company Smart Adjustable Plush Pillow|Super Soft & Fluffy| White, Pack of 2,Microfiber",
+      "slot": 3
+     },
+     {
+      "asin": "B084X87XW7",
+      "badge": null,
+      "price": "3,699",
+      "rating": "4.3",
+      "reviews": "11",
+      "title": "Jewear Imported 100% Cotton White Fluffy Soft Sleeping 10/90 Goose Down & Feather Pillow Size 17\" X 27\" Pack of 2",
+      "slot": 4
+     },
+     {
+      "asin": "B0H7MQ74CY",
+      "badge": null,
+      "price": "999",
+      "rating": "4.3",
+      "reviews": "11",
+      "title": "Ultra Slim Deep Sleep Pillow | King Size 5 Inch Height | Orthopedic Grade Gel Memory Foam for Neck & Shoulder Pain Relief, Includes Bamboo Pillow Cover",
+      "slot": 5
+     },
+     {
+      "asin": "B07Q4DG34W",
+      "badge": null,
+      "price": "749",
+      "rating": "4.4",
+      "reviews": "636",
+      "title": "Amazon Brand - Solimo Ultra-Thin Memory Foam Pillow with Pillow Cover, 60 x 40 x 5.5 cm, White, 1 Piece",
+      "slot": 6
+     },
+     {
+      "asin": "B0DQQCFD1N",
+      "badge": null,
+      "price": "699",
+      "rating": "3.6",
+      "reviews": "12",
+      "title": "Cervical Memory Foam Pillow - Ergonomic Neck Support Pillow for Sleeping, Neck & Shoulder Pain Relief, Orthopedic Contour Design with Ultra Soft Breathable & Sk",
+      "slot": 7
+     },
+     {
+      "asin": "B0CC684VL4",
+      "badge": null,
+      "price": "3,599",
+      "rating": "4.2",
+      "reviews": "163",
+      "title": "CUSHIO Cooling Gel Memory Foam Pillow | Size 24\"x16\"x3.5\" (Set of 4) Cervical Pillow for Relieving Neck & Shoulder Pain with Free Pillow Cover (White & Grey)",
+      "slot": 8
+     },
+     {
+      "asin": "B0FYQDBLYM",
+      "badge": null,
+      "price": "2,090",
+      "rating": "4.0",
+      "reviews": "2",
+      "title": "100% Natural Latex Slim Pillow with Bamboo Fabric | Suitable for Side, Back & Stomach Sleepers | Latex Pillow for Neck Pain 24x15x2.75 (Pack of 1)",
+      "slot": 9
+     },
+     {
+      "asin": "B0F332522D",
+      "badge": null,
+      "price": "3,499",
+      "rating": "4.0",
+      "reviews": "1",
+      "title": "CUSHIO Cervical Butterfly Pillow – Orthopedic Memory Foam for Neck & Shoulder Pain Relief | Contour Pillow with Arm Rest | Dual Height Design for Side & Back Sl",
+      "slot": 10
+     }
+    ],
+    "fridoOrganicRank": 1,
+    "fridoSponsoredSlot": null,
+    "fridoBadge": null,
+    "fridoAsin": "B0D31TT9X9",
+    "fridoUrl": "https://www.amazon.in/dp/B0D31TT9X9",
+    "resultCount": 60
+   },
+   "flipkart": {
+    "fetchOk": true,
+    "results": [
+     {
+      "pos": 1,
+      "title": "AYKA Microfibre Sleeping Pillow Pack of 1 Solid Soft Microfiber Pillows",
+      "brand": "AYKA",
+      "price": null,
+      "rating": 4.3,
+      "ratings": 2421,
+      "isFrido": false
+     },
+     {
+      "pos": 2,
+      "title": "AYKA Microfibre Sleeping Pillow Pack of 1 Solid Soft Microfiber Pillow for Sleeping",
+      "brand": "AYKA",
+      "price": null,
+      "rating": 4.3,
+      "ratings": 150,
+      "isFrido": false
+     },
+     {
+      "pos": 3,
+      "title": "AYKA Microfibre Sleeping Pillow Pack of 2 Solid Soft Microfiber Pillows",
+      "brand": "AYKA",
+      "price": null,
+      "rating": 4.3,
+      "ratings": 2421,
+      "isFrido": false
+     },
+     {
+      "pos": 4,
+      "title": "Welspun Microfibre Sleeping Pillow Pack of 2 Solid",
+      "brand": "Welspun",
+      "price": null,
+      "rating": 4.1,
+      "ratings": 103,
+      "isFrido": false
+     },
+     {
+      "pos": 5,
+      "title": "MY ARMOR Microfibre Sleeping Pillow Pack of 2 Stripes pillows set",
+      "brand": "MY ARMOR",
+      "price": null,
+      "rating": 4.2,
+      "ratings": 7972,
+      "isFrido": false
+     },
+     {
+      "pos": 6,
+      "title": "Cervixa Memory Foam Orthopaedic Pillow Pack of 1 Geometric Orthopedic Cervical Memory Foam Pillow",
+      "brand": "Cervixa",
+      "price": null,
+      "rating": 4.1,
+      "ratings": 89,
+      "isFrido": false
+     },
+     {
+      "pos": 7,
+      "title": "SOVE Memory Foam Sleeping Pillow Pack of 2 Stripes NA",
+      "brand": "SOVE",
+      "price": null,
+      "rating": 0,
+      "ratings": 0,
+      "isFrido": false
+     },
+     {
+      "pos": 8,
+      "title": "DALUCI Microfibre Sleeping Pillow Pack of 1 Solid Ultra Soft Microfiber Bed Pillows for Sleeping",
+      "brand": "DALUCI",
+      "price": null,
+      "rating": 4.3,
+      "ratings": 317,
+      "isFrido": false
+     },
+     {
+      "pos": 9,
+      "title": "VXHAENTERPRISE Memory Foam Orthopaedic Pillow Pack of 1 Nature Comfort Cervical Contour Smooth Pillow/Side Sleepers",
+      "brand": "VXHAENTERPRISE",
+      "price": null,
+      "rating": 0,
+      "ratings": 0,
+      "isFrido": false
+     },
+     {
+      "pos": 10,
+      "title": "VZHAENTERPRICE Memory Foam Orthopaedic Pillow Pack of 1 Nature Comfort Cervical Contour Smooth Pillow/Side Sleepers",
+      "brand": "VZHAENTERPRICE",
+      "price": null,
+      "rating": 4.6,
+      "ratings": 10,
+      "isFrido": false
+     }
+    ],
+    "fridoRank": null,
+    "fridoUrl": "https://www.flipkart.com/search?q=Ultra%20Slim%20Deep%20Sleep%20Pillow"
+   },
+   "status": "listed",
+   "capturedAt": "2026-07-08"
+  },
+  {
+   "category": "pillows",
+   "categoryName": "Pillows",
+   "sku": "Cervical Butterfly Pillow",
+   "searchKeyword": "Cervical Butterfly Pillow",
+   "brandKeyword": "Frido Cervical Butterfly Pillow",
+   "amazon": {
+    "fetchOk": true,
+    "organic": [
+     {
+      "asin": "B0DYVLMKRH",
+      "badge": "Bestseller",
+      "price": "1,249",
+      "rating": "4.0",
+      "reviews": "552",
+      "title": "WELLGIVER Cervical Butterfly Pillow | Orthopedic Memory Foam for Neck & Shoulder Pain | Ergonomic Contour Design | Dual Height Support | Side Sleeper Pillow wit",
+      "rank": 1
+     },
+     {
+      "asin": "B0F32YG7ZX",
+      "badge": null,
+      "price": "1,799",
+      "rating": "3.6",
+      "reviews": "98",
+      "title": "CUSHIO Cervical Butterfly Pillow – Orthopedic Memory Foam for Neck & Shoulder Pain Relief | Contour Pillow with Arm Rest | Dual Height Design for Side & Back Sl",
+      "rank": 2
+     },
+     {
+      "asin": "B0DPL3HCMC",
+      "badge": null,
+      "price": "649",
+      "rating": "3.9",
+      "reviews": "911",
+      "title": "MYARMOR Cervical Pillow for Neck Pain Spondylitis Neck, Orthopedic Memory Foam Pillow for Sleeping, Neck Support Contour Pillow for Shoulder Pain, Regular Size ",
+      "rank": 3
+     },
+     {
+      "asin": "B08VJCPK4H",
+      "badge": null,
+      "price": "1,809",
+      "rating": "3.8",
+      "reviews": "304",
+      "title": "The White Willow Cervical Contour Ergonomic Orthopedic Memory Foam Pillow for Neck & Back Pain Relief Designed for All Sleeping Positions- Side, Back, Stomach- ",
+      "rank": 4
+     },
+     {
+      "asin": "B0DD44NRJJ",
+      "badge": null,
+      "price": "999",
+      "rating": "3.3",
+      "reviews": "11",
+      "title": "Premium Memory Foam Pillow for Neck & Shoulder Support | Orthopedic Cervical Contour Design | Comfort Sleep for Side & Back Sleepers Butterflu Shaped",
+      "rank": 5
+     },
+     {
+      "asin": "B0F332522D",
+      "badge": null,
+      "price": "3,499",
+      "rating": "4.0",
+      "reviews": "1",
+      "title": "CUSHIO Cervical Butterfly Pillow – Orthopedic Memory Foam for Neck & Shoulder Pain Relief | Contour Pillow with Arm Rest | Dual Height Design for Side & Back Sl",
+      "rank": 6
+     },
+     {
+      "asin": "B07NGHZ5H5",
+      "badge": null,
+      "price": "1,707",
+      "rating": "3.8",
+      "reviews": "304",
+      "title": "The White Willow Butterfly Cervical Pillow for Neck & Shoulder Pain Relief – Memory Foam Orthopedic Pillow with Dual-Height Ergonomic Neck Support for Back & Si",
+      "rank": 7
+     },
+     {
+      "asin": "B0GVNJVMWP",
+      "badge": null,
+      "price": "999",
+      "rating": "4.5",
+      "reviews": "7",
+      "title": "Orthopedic Memory Foam Pillow, 60 x 38 x 15 cm, ARC Cervical Support Area, Breathable Mesh Sides with Hidden Zipper, Slow Rebound Core for Spinal Alignment,Whit",
+      "rank": 8
+     },
+     {
+      "asin": "B07NGPF755",
+      "badge": null,
+      "price": "1,679",
+      "rating": "3.8",
+      "reviews": "304",
+      "title": "The White Willow Butterfly Cervical Pillow for Neck & Shoulder Pain Relief – Memory Foam Orthopedic Pillow with Dual Height Support for Back & Side Sleepers – C",
+      "rank": 9
+     },
+     {
+      "asin": "B0GH2HW4NH",
+      "badge": null,
+      "price": "1,596",
+      "rating": null,
+      "reviews": null,
+      "title": "SNOWINK Cervical Butterfly Pillow | Orthopedic Memory Foam for Neck & Shoulder Pain | Ergonomic Contour Design | Dual Height Support | Side Sleeper Pillow with ",
+      "rank": 10
+     }
+    ],
+    "sponsored": [
+     {
+      "asin": "B0F32YG7ZX",
+      "badge": null,
+      "price": "1,799",
+      "rating": "3.6",
+      "reviews": "98",
+      "title": "CUSHIO Cervical Butterfly Pillow – Orthopedic Memory Foam for Neck & Shoulder Pain Relief | Contour Pillow with Arm Rest | Dual Height Design for Side & Back Sl",
+      "slot": 1
+     },
+     {
+      "asin": "B0GRR1V2S7",
+      "badge": null,
+      "price": "1,399",
+      "rating": null,
+      "reviews": null,
+      "title": "Cervical Butterfly Pillow | Orthopedic Memory Foam Cushioning for Neck & Shoulder Pain | Ergonomic Contours | Dual Height Options | Pillow for Side Sleepers wit",
+      "slot": 2
+     },
+     {
+      "asin": "B0F332522D",
+      "badge": null,
+      "price": "3,499",
+      "rating": "4.0",
+      "reviews": "1",
+      "title": "CUSHIO Cervical Butterfly Pillow – Orthopedic Memory Foam for Neck & Shoulder Pain Relief | Contour Pillow with Arm Rest | Dual Height Design for Side & Back Sl",
+      "slot": 3
+     },
+     {
+      "asin": "B0CB1GC4BV",
+      "badge": null,
+      "price": "1,899",
+      "rating": "4.1",
+      "reviews": "62",
+      "title": "CUSHIO Memory Foam Pillow for Neck Pain and Shoulder Pain, Cervical Orthopedic Pillow 21x13x3 Inch, Ergonomic Memory Foam Neck Support Pillow, Ortho Pillow for ",
+      "slot": 4
+     },
+     {
+      "asin": "B0CPPLGHN8",
+      "badge": null,
+      "price": "1,699",
+      "rating": "3.8",
+      "reviews": "238",
+      "title": "MY ARMOR Cervical Memory Foam Pillow for Neck Pain Relief | Butterfly Orthopedic Contour Pillow | Dual Height Ergonomic Design for Side, Back Sleepers | Shoulde",
+      "slot": 5
+     },
+     {
+      "asin": "B0CPZD4PQT",
+      "badge": null,
+      "price": "1,239",
+      "rating": "4.2",
+      "reviews": "687",
+      "title": "Frido Ultimate Cervical Neck Pillow for Pain Relief Sleep | Improves Posture & Spinal Alignment | Neck Pain Relief Cushion with Ultra Responsive Memory Foam & S",
+      "slot": 6,
+      "isFridoBrand": true
+     },
+     {
+      "asin": "B0DXBCP7M4",
+      "badge": "Bestseller",
+      "price": "597",
+      "rating": "3.9",
+      "reviews": "1,776",
+      "title": "CareFoam Cervical Memory Foam Pillow for Neck Support | 2-Year Manufacturing Warranty | Orthopedic Contour Pillow for Cervical Spine Alignment & Shoulder Suppor",
+      "slot": 7
+     },
+     {
+      "asin": "B0CSFVK8TJ",
+      "badge": null,
+      "price": "949",
+      "rating": "3.9",
+      "reviews": "727",
+      "title": "Sleepsia Cervical Pillow for Neck Pain | 1 Year Warranty | Orthopedic Pillows for Neck Pain and Shoulder Pain, Cervical Pillow for Spondylitis Neck, Contour Mem",
+      "slot": 8
+     },
+     {
+      "asin": "B0FF3L3B7Q",
+      "badge": null,
+      "price": "799",
+      "rating": "3.2",
+      "reviews": "23",
+      "title": "Cervical Anti Snoring Pillow for Neck Pain | 2 Years Warranty | for Spondylitis Neck & Shoulder Pain, Orthopedic Memory Foam Pillow for Sleeping, Regular Size -",
+      "slot": 9
+     },
+     {
+      "asin": "B0DPL237H1",
+      "badge": null,
+      "price": "599",
+      "rating": "3.9",
+      "reviews": "911",
+      "title": "MYARMOR Cervical Pillow for Neck Pain | 2 Years Warranty | for Spondylitis Neck & Shoulder Pain, Orthopedic Memory Foam Pillow for Sleeping, Regular Size - 18.5",
+      "slot": 10
+     }
+    ],
+    "fridoOrganicRank": null,
+    "fridoSponsoredSlot": 6,
+    "fridoBadge": null,
+    "fridoAsin": "B0CPZD4PQT",
+    "fridoUrl": "https://www.amazon.in/dp/B0CPZD4PQT",
+    "resultCount": 60
+   },
+   "flipkart": {
+    "fetchOk": true,
+    "results": [
+     {
+      "pos": 1,
+      "title": "MY ARMOR Orthopedic Memory Foam Cervical Pillow for Neck & Shoulder Pain with Outer Cover Cervical Pillow",
+      "brand": "MY ARMOR",
+      "price": null,
+      "rating": 4.1,
+      "ratings": 2541,
+      "isFrido": false
+     },
+     {
+      "pos": 2,
+      "title": "FOVERA Cervical Pillow for Neck Pain | Orthopedic Memory Foam Contour Sleeping Pillow, Cervical Pillow",
+      "brand": "FOVERA",
+      "price": null,
+      "rating": 4.1,
+      "ratings": 177,
+      "isFrido": false
+     },
+     {
+      "pos": 3,
+      "title": "FOVERA Cervical Pillow Cool Gel Memory Foam for Neck & Shoulder Pain Relief Cervical Pillow",
+      "brand": "FOVERA",
+      "price": null,
+      "rating": 4.2,
+      "ratings": 2646,
+      "isFrido": false
+     },
+     {
+      "pos": 4,
+      "title": "betterhood PosturePro Pillow for Neck Shoulder Pain, 100% Memory Foam, Ergonomic Orthopedic Cervical Pillow",
+      "brand": "betterhood",
+      "price": null,
+      "rating": 4.3,
+      "ratings": 384,
+      "isFrido": false
+     },
+     {
+      "pos": 5,
+      "title": "Kartona Orthopaedic Cervical Pillow - Memory Foam Pillow Cervical Pillow",
+      "brand": "Kartona",
+      "price": null,
+      "rating": 4.2,
+      "ratings": 1911,
+      "isFrido": false
+     },
+     {
+      "pos": 6,
+      "title": "Dr Trust USA Large Orthopaedic Contoured Memory Foam 355 Neck Cervical Pillow",
+      "brand": "Dr Trust",
+      "price": null,
+      "rating": 4.1,
+      "ratings": 1888,
+      "isFrido": false
+     },
+     {
+      "pos": 7,
+      "title": "betterhood PosturePro Contour Pillow for Neck Shoulder Pain, Ergonomic Ortho Memory Foam Cervical Pillow",
+      "brand": "betterhood",
+      "price": null,
+      "rating": 4.1,
+      "ratings": 104,
+      "isFrido": false
+     },
+     {
+      "pos": 8,
+      "title": "FOVERA Gel Memory Foam Pain Relief Cervical Pillow",
+      "brand": "FOVERA",
+      "price": null,
+      "rating": 4.2,
+      "ratings": 2646,
+      "isFrido": false
+     },
+     {
+      "pos": 9,
+      "title": "MY ARMOR Cool Gel Memory Foam Cervical Pillow for Neck Pain and Shoulder Pain Relief Cervical Pillow",
+      "brand": "MY ARMOR",
+      "price": null,
+      "rating": 4.6,
+      "ratings": 138,
+      "isFrido": false
+     }
+    ],
+    "fridoRank": null,
+    "fridoUrl": "https://www.flipkart.com/search?q=Cervical%20Butterfly%20Pillow"
+   },
+   "status": "listed",
+   "capturedAt": "2026-07-08"
+  },
+  {
+   "category": "pillows",
+   "categoryName": "Pillows",
+   "sku": "Latex Pillow",
+   "searchKeyword": "Latex Pillow",
+   "brandKeyword": "Frido Latex Pillow",
+   "amazon": {
+    "fetchOk": true,
+    "organic": [
+     {
+      "asin": "B0F2SWXPMT",
+      "badge": "Amazon's Choice",
+      "price": "2,330",
+      "rating": "4.3",
+      "reviews": "761",
+      "title": "SleepyCat Natural Latex Pillow | Medium Firm Support for Neck & Shoulder Pain Relief | GOLS-Certified Organic Latex | Hypoallergenic & Breathable | 24 x 16 inch",
+      "rank": 1
+     },
+     {
+      "asin": "B0GWRLMZMS",
+      "badge": null,
+      "price": "2,999",
+      "rating": "3.3",
+      "reviews": "4",
+      "title": "Frido Latex Pillow with Cooling Cover |100% Natural Latex Orthopaedic Pillow for Neck & Shoulder Pain Relief |Reversible Cooling Design with Air Vent Holes | Er",
+      "rank": 2,
+      "isFridoBrand": true
+     },
+     {
+      "asin": "B09HXW3JXD",
+      "badge": null,
+      "price": "1,614",
+      "rating": "4.1",
+      "reviews": "17",
+      "title": "SleepSmith Latex Foam Orthopedic Pillow Combo – Relieve Back & Neck Pain | Removable Zipper Cover | Ideal for Side, Back & Stomach Sleepers | 1-Year Warranty (L",
+      "rank": 3
+     },
+     {
+      "asin": "B0DXBCP7M4",
+      "badge": "Bestseller",
+      "price": "597",
+      "rating": "3.9",
+      "reviews": "1,776",
+      "title": "CareFoam Cervical Memory Foam Pillow for Neck Support | 2-Year Manufacturing Warranty | Orthopedic Contour Pillow for Cervical Spine Alignment & Shoulder Suppor",
+      "rank": 4
+     },
+     {
+      "asin": "B0DK5RJM98",
+      "badge": null,
+      "price": "2,249",
+      "rating": "4.3",
+      "reviews": "80",
+      "title": "Standard Pincore Pillow, 100% Natural Latex, Size 27x15x5 Inch, Pack of 1 with 100% Natural Cotton Cover, Pincore Technology & Bounce Back Property, Breathable,",
+      "rank": 5
+     },
+     {
+      "asin": "B09XF2LF8J",
+      "badge": null,
+      "price": "1,679",
+      "rating": "4.2",
+      "reviews": "125",
+      "title": "The White Willow Engineered Latex Pillow – Orthopedic Support for Neck & Shoulder Pain Relief – Soft – Standard Size – 4\" H – Grey",
+      "rank": 6
+     },
+     {
+      "asin": "B0G9R9X9BM",
+      "badge": null,
+      "price": "1,999",
+      "rating": "4.0",
+      "reviews": "323",
+      "title": "AVI 100% Natural Cervical Latex Pillow 35 Density Ultra Plush Latex Foam Bed Pillow for Sleeping, Side and Stomach Sleepers- with Inner Cotton Cover, Pack of 1,",
+      "rank": 7
+     },
+     {
+      "asin": "B0D97H5HXC",
+      "badge": null,
+      "price": "2,169",
+      "rating": "3.9",
+      "reviews": "25",
+      "title": "Sleepwell Latex Plus Regular Pillow for Neck Pain Relief- Orthopedic, Memory Foam Pillow, Pack of 1 (Grey & Blue, 66X46 CM)",
+      "rank": 8
+     },
+     {
+      "asin": "B0CFG6NHGR",
+      "badge": null,
+      "price": "2,807",
+      "rating": "4.3",
+      "reviews": "50",
+      "title": "DREAMZEE Certified 100% Natural Latex Pillow with Aloe-Vera Zipper Fabric for Side and Stomach Sleepers | Organic Bed Pillow Standard Size 23x15 Inches - with O",
+      "rank": 9
+     },
+     {
+      "asin": "B0G3RK3FK1",
+      "badge": null,
+      "price": "449",
+      "rating": "4.0",
+      "reviews": "3",
+      "title": "Premium Memory Foam Contour Pillow for Kids, Natural Latex, Ergonomic Design, Washable Cover, Dust-Proof Inner, Neck Support for Sleeping",
+      "rank": 10
+     }
+    ],
+    "sponsored": [
+     {
+      "asin": "B0DCBYFSZN",
+      "badge": null,
+      "price": "2,807",
+      "rating": "4.3",
+      "reviews": "50",
+      "title": "DREAMZEE Certified 100% Natural Latex Pillow with Aloe-Vera Zipper Fabric for Side and Stomach Sleepers | Organic Bed Contour Pillow Size 23x16 Inches - with Or",
+      "slot": 1
+     },
+     {
+      "asin": "B08DP2YCZX",
+      "badge": null,
+      "price": "3,960",
+      "rating": "4.1",
+      "reviews": "138",
+      "title": "MM FOAM 100% Latex Life Companion Pillow, Latex Pillow for Sleeping, Side and Stomach Sleepers- Pack of 2, White, (25.5 x 16.25 x 4.75 inches)",
+      "slot": 2
+     },
+     {
+      "asin": "B084X87XW7",
+      "badge": null,
+      "price": "3,699",
+      "rating": "4.3",
+      "reviews": "11",
+      "title": "Jewear Imported 100% Cotton White Fluffy Soft Sleeping 10/90 Goose Down & Feather Pillow Size 17\" X 27\" Pack of 2",
+      "slot": 3
+     },
+     {
+      "asin": "B0FYQDBLYM",
+      "badge": null,
+      "price": "2,090",
+      "rating": "4.0",
+      "reviews": "2",
+      "title": "100% Natural Latex Slim Pillow with Bamboo Fabric | Suitable for Side, Back & Stomach Sleepers | Latex Pillow for Neck Pain 24x15x2.75 (Pack of 1)",
+      "slot": 4
+     },
+     {
+      "asin": "B0CBLYFMSJ",
+      "badge": null,
+      "price": "2,679",
+      "rating": "4.0",
+      "reviews": "323",
+      "title": "AVI 100% Netural Regular Latex Pillow|Ultra Plush Latex Foam Pillow|Bed Pillow for Sleeping, Side and Stomach Sleepers- with Inner Cotton Cover, Pack of 2, Whit",
+      "slot": 5
+     },
+     {
+      "asin": "B0DYVLQYT8",
+      "badge": "Bestseller",
+      "price": "599",
+      "rating": "4.0",
+      "reviews": "552",
+      "title": "WELLGIVER Ergonomic Memory Foam Pillow for Neck Pain | 2 Years Warranty | 21 x 14 x 4.5 Inch | Orthopedic Pillow for Side Sleeping | Removable Washable Jacquard",
+      "slot": 6
+     },
+     {
+      "asin": "B0DS629J17",
+      "badge": null,
+      "price": "1,189",
+      "rating": "4.2",
+      "reviews": "381",
+      "title": "betterhood PosturePro Premium Cervical Pillow for Neck Pain and Shoulder Pain, Memory Foam Pillow, Cervical Pillow for Spondylitis Neck, Contour Pillow for Neck",
+      "slot": 7
+     },
+     {
+      "asin": "B097H8RR2B",
+      "badge": null,
+      "price": "1,952",
+      "rating": "4.0",
+      "reviews": "9,709",
+      "title": "The White Willow Memory Foam Set of 2-Cool Gel Pillow for Neck & Shoulder Pain-Cervical Pillow for Sleeping-Orthopedic for Back, Side & Stomach Sleepers-Medium ",
+      "slot": 8
+     },
+     {
+      "asin": "B0DXBCP7M4",
+      "badge": "Bestseller",
+      "price": "597",
+      "rating": "3.9",
+      "reviews": "1,776",
+      "title": "CareFoam Cervical Memory Foam Pillow for Neck Support | 2-Year Manufacturing Warranty | Orthopedic Contour Pillow for Cervical Spine Alignment & Shoulder Suppor",
+      "slot": 9
+     },
+     {
+      "asin": "B08PYQ22WP",
+      "badge": null,
+      "price": "2,199",
+      "rating": "4.0",
+      "reviews": "1,198",
+      "title": "The Sleep Company SmartGRID Hybrid Pillow | Neck & Shoulder Support Sleeping Pillow | Ideal for Side Sleepers | 26 x 16 Inches | 5\" Height | White | Pack of 1",
+      "slot": 10
+     }
+    ],
+    "fridoOrganicRank": 2,
+    "fridoSponsoredSlot": null,
+    "fridoBadge": null,
+    "fridoAsin": "B0GWRLMZMS",
+    "fridoUrl": "https://www.amazon.in/dp/B0GWRLMZMS",
+    "resultCount": 60
+   },
+   "flipkart": {
+    "fetchOk": true,
+    "results": [
+     {
+      "pos": 1,
+      "title": "AYKA Microfibre Sleeping Pillow Pack of 1 Solid Soft Microfiber Pillows",
+      "brand": "AYKA",
+      "price": null,
+      "rating": 4.3,
+      "ratings": 2421,
+      "isFrido": false
+     },
+     {
+      "pos": 2,
+      "title": "AYKA Microfibre Sleeping Pillow Pack of 1 Solid Soft Microfiber Pillow for Sleeping",
+      "brand": "AYKA",
+      "price": null,
+      "rating": 4.3,
+      "ratings": 150,
+      "isFrido": false
+     },
+     {
+      "pos": 3,
+      "title": "AYKA Microfibre Sleeping Pillow Pack of 2 Solid Soft Microfiber Pillows",
+      "brand": "AYKA",
+      "price": null,
+      "rating": 4.3,
+      "ratings": 2421,
+      "isFrido": false
+     },
+     {
+      "pos": 4,
+      "title": "AVI Latex Orthopaedic Pillow Pack of 2 Nature 100% Natural",
+      "brand": "AVI",
+      "price": null,
+      "rating": 3.9,
+      "ratings": 408,
+      "isFrido": false
+     },
+     {
+      "pos": 5,
+      "title": "RECORN Microfibre, Polyester Fibre, Down & Feather, Latex Sleeping Pillow Pack of 2 Solid Bed Pillow",
+      "brand": "RECORN",
+      "price": null,
+      "rating": 4,
+      "ratings": 148,
+      "isFrido": false
+     },
+     {
+      "pos": 6,
+      "title": "SATISFLAY Latex Sleeping Pillow Pack of 4 Floral Latex Comfort Pillow with Bamboo Fabric Cover - 24x16x4 inch",
+      "brand": "SATISFLAY",
+      "price": null,
+      "rating": 0,
+      "ratings": 0,
+      "isFrido": false
+     },
+     {
+      "pos": 7,
+      "title": "velvure Memory Foam Orthopaedic Pillow Pack of 1 Geometric Cervical Contour Memory Foam Pillow, Stomached, Anti-Snoring, Side Sleepers",
+      "brand": "velvure",
+      "price": null,
+      "rating": 0,
+      "ratings": 0,
+      "isFrido": false
+     },
+     {
+      "pos": 8,
+      "title": "Crown Comfort Latex Sleeping Pillow Pack of 1 Nature",
+      "brand": "Crown Comfort",
+      "price": null,
+      "rating": 0,
+      "ratings": 0,
+      "isFrido": false
+     },
+     {
+      "pos": 9,
+      "title": "SleepyCat Latex Sleeping Pillow Pack of 1 Solid Natural",
+      "brand": "SleepyCat",
+      "price": null,
+      "rating": 3.7,
+      "ratings": 9,
+      "isFrido": false
+     },
+     {
+      "pos": 10,
+      "title": "SATISFLAY Latex Sleeping Pillow Pack of 4 Floral Latex Align Curve Pillow with Bamboo Fabric Cover - 24x16x3.5 inch",
+      "brand": "SATISFLAY",
+      "price": null,
+      "rating": 0,
+      "ratings": 0,
+      "isFrido": false
+     },
+     {
+      "pos": 11,
+      "title": "Sleep Yoga Memory Foam Orthopaedic Pillow Pack of 1 Geometric",
+      "brand": "Sleep Yoga",
+      "price": null,
+      "rating": 0,
+      "ratings": 0,
+      "isFrido": false
+     },
+     {
+      "pos": 12,
+      "title": "AVI Latex Orthopaedic Pillow Pack of 1 Nature 100% Natural",
+      "brand": "AVI",
+      "price": null,
+      "rating": 3.8,
+      "ratings": 164,
+      "isFrido": false
+     },
+     {
+      "pos": 13,
+      "title": "Dr Trust Memory Foam Orthopaedic Pillow Pack of 1 Solid USA 347 Contour Cervical Neck Shoulder Spondylitis Pain Relief Sleeping",
+      "brand": "Dr Trust",
+      "price": null,
+      "rating": 3.9,
+      "ratings": 839,
+      "isFrido": false
+     }
+    ],
+    "fridoRank": null,
+    "fridoUrl": "https://www.flipkart.com/search?q=Latex%20Pillow"
+   },
+   "status": "listed",
+   "capturedAt": "2026-07-08"
+  },
+  {
+   "category": "pillows",
+   "categoryName": "Pillows",
+   "sku": "Crescent Adjustable Pillow",
+   "searchKeyword": "Crescent Adjustable Pillow",
+   "brandKeyword": "Frido Crescent Adjustable Pillow",
+   "amazon": {
+    "fetchOk": true,
+    "organic": [
+     {
+      "asin": "B0H4W2WHCR",
+      "badge": null,
+      "price": "1,499",
+      "rating": "4.2",
+      "reviews": "1,268",
+      "title": "Crescent Adjustable Pillow for Side Sleepers, Ergonomic Neck & Shoulder Support, Customizable Loft, Cooling Airflow & Adaptive Comfort for Better Sleep, Half-Mo",
+      "rank": 1,
+      "isFridoBrand": true
+     },
+     {
+      "asin": "B0CK14XY95",
+      "badge": null,
+      "price": "480",
+      "rating": "4.2",
+      "reviews": "2,658",
+      "title": "Cervical Pillow for Neck Pain Relief, Contour Memory Foam Pillows for Sleeping, Ergonomic Pillow Adjustable Orthopedic Cooling Pillow Bed Pillow Neck Support fo",
+      "rank": 2
+     },
+     {
+      "asin": "B0DWSM9TNF",
+      "badge": null,
+      "price": "489",
+      "rating": "4.0",
+      "reviews": "3,029",
+      "title": "MYARMOR Height Adjustable Microfiber Pillows Set of 2 for Sleeping - 16\"x24\" Standard Pillow | 6 Months Warranty | 41 x 61 cm - Grey",
+      "rank": 3
+     },
+     {
+      "asin": "B0H5PWJHWH",
+      "badge": "Bestseller",
+      "price": "409",
+      "rating": "4.3",
+      "reviews": "81,744",
+      "title": "Sleeping Pillow | Height Adjustable | Soft & Fluffy Comfort | Light Grey | 27 x 16 Inch | Set of 1 |Free Extra Fiber for Custom Comfort",
+      "rank": 4
+     },
+     {
+      "asin": "B0BFNRKR8Z",
+      "badge": null,
+      "price": "449",
+      "rating": "4.0",
+      "reviews": "3,029",
+      "title": "MYARMOR Microfiber Pillows Set 2, Soft Adjustable Pillow for Sleeping - 16 x 24 Inches -White",
+      "rank": 5
+     },
+     {
+      "asin": "B0FDKSNHHM",
+      "badge": null,
+      "price": "399",
+      "rating": "3.3",
+      "reviews": "90",
+      "title": "Height Adjustable Microfiber Sleeping Pillows – Set of 2 | 16\" x 24\"| Soft, Supportive & Washable | Ideal for Back, Side & Stomach Sleepers | White",
+      "rank": 6
+     },
+     {
+      "asin": "B0H5PS6W6W",
+      "badge": "Bestseller",
+      "price": "709",
+      "rating": "4.3",
+      "reviews": "81,744",
+      "title": "Sleeping Pillow | Height Adjustable | Soft & Fluffy Comfort | Light Grey | 27 x 16 Inch | Set of 2 |Free Extra Fiber for Custom Comfort",
+      "rank": 7
+     },
+     {
+      "asin": "B0H2MNPKPT",
+      "badge": null,
+      "price": "249",
+      "rating": null,
+      "reviews": null,
+      "title": "Pillow Soft and Fluffy Microfiber Bed Pillow, White, Hypoallergenic, Adjustable Loft, Spinal Alignment Support",
+      "rank": 8
+     },
+     {
+      "asin": "B0C7V2Q7XS",
+      "badge": null,
+      "price": "999",
+      "rating": "4.2",
+      "reviews": "436",
+      "title": "Quilted Pillows Set 2 | Soft and Adjustable Sleeping Pillow | Premium Microfiber 105 GSM Bed Pillows for Sleeping | Luxurious White Quilted (17 x 27 Inches) | F",
+      "rank": 9
+     },
+     {
+      "asin": "B0F8BQKY4D",
+      "badge": null,
+      "price": "7,480",
+      "rating": "4.3",
+      "reviews": "66",
+      "title": "Side Sleeper Pillows for Adults, Cervical Pillow for Side Sleepers Neck and Shoulder Pain Relief, Cooling Ergonomic Crescent Neck Pillow Adjustable Shredded Mem",
+      "rank": 10
+     }
+    ],
+    "sponsored": [
+     {
+      "asin": "B0DWSM9TNF",
+      "badge": null,
+      "price": "489",
+      "rating": "4.0",
+      "reviews": "3,029",
+      "title": "MYARMOR Height Adjustable Microfiber Pillows Set of 2 for Sleeping - 16\"x24\" Standard Pillow | 6 Months Warranty | 41 x 61 cm - Grey",
+      "slot": 1
+     },
+     {
+      "asin": "B0CFG9MK7B",
+      "badge": null,
+      "price": "5,900",
+      "rating": "4.3",
+      "reviews": "50",
+      "title": "Certified 100% Natural Latex Pillow with Aloe-Vera Zipper Fabric for Side and Stomach Sleepers | Organic Bed Contour Pillow Size 23x15 Inches - with Organic Pil",
+      "slot": 2
+     },
+     {
+      "asin": "B0DBZMP1Z6",
+      "badge": null,
+      "price": "2,589",
+      "rating": "4.1",
+      "reviews": "3,954",
+      "title": "Adjustable Wedge Pillow with Memory Foam & Head Rest | Multi-Purpose Back & Leg Support Cushion for Bed & Sofa | Soft Removable Washable Cover | Durable Design ",
+      "slot": 3
+     },
+     {
+      "asin": "B08YNPKBLL",
+      "badge": null,
+      "price": "1,382",
+      "rating": "4.0",
+      "reviews": "3,622",
+      "title": "Ultra Thin Pillow for Sleeping-Ultra Slim Memory Foam-Slim Support for Neck & Shoulder Pain-Flat Design-Orthopedic Cervical Support for Neck Support-King-Medium",
+      "slot": 4
+     },
+     {
+      "asin": "B07L6GZYDV",
+      "badge": "Bestseller",
+      "price": "845",
+      "rating": "4.3",
+      "reviews": "81,744",
+      "title": "Hollow Fiber Sleeping Pillow | Height Adjustable | Soft & Fluffy Comfort | White & Grey | 27 x 16 Inch | Set of 2 |Free Extra Fiber for Custom Comfort (300 Gram",
+      "slot": 5
+     },
+     {
+      "asin": "B0FCCRNYK2",
+      "badge": null,
+      "price": "799",
+      "rating": "5.0",
+      "reviews": "1",
+      "title": "Granules Adjustable Pillow, Pack of 1, 18x27 Inch | Shredluxe™ Fill - Blend of Memory Foam & Premium Fibre | Soft & Firm Pillow | Breathable & Anti-Lump Bed Pil",
+      "slot": 6
+     },
+     {
+      "asin": "B0DXBCP7M4",
+      "badge": "Bestseller",
+      "price": "597",
+      "rating": "3.9",
+      "reviews": "1,776",
+      "title": "Cervical Memory Foam Pillow for Neck Support | 2-Year Manufacturing Warranty | Orthopedic Contour Pillow for Cervical Spine Alignment & Shoulder Support | Made ",
+      "slot": 7
+     },
+     {
+      "asin": "B097H8RR2B",
+      "badge": null,
+      "price": "1,952",
+      "rating": "4.0",
+      "reviews": "9,709",
+      "title": "Memory Foam Set of 2-Cool Gel Pillow for Neck & Shoulder Pain-Cervical Pillow for Sleeping-Orthopedic for Back, Side & Stomach Sleepers-Medium Firm-Standard-4\" ",
+      "slot": 8
+     },
+     {
+      "asin": "B0DVD681G7",
+      "badge": null,
+      "price": "1,599",
+      "rating": "4.5",
+      "reviews": "4",
+      "title": "Bed Wedge Pillow for Sleeping, Memory Foam Wedge Cushion for Acid Reflux, Back Support Pillow for Bed Sitting, Orthopedic Wedge Pillow for Neck & Back Pain, Leg",
+      "slot": 9
+     },
+     {
+      "asin": "B0D3XX9TJZ",
+      "badge": null,
+      "price": "1,799",
+      "rating": "4.2",
+      "reviews": "3,016",
+      "title": "Wedge Plus Cushion for Sleeping, Sitting & Acid Reflux Relief | Memory Foam Pillow | High Resillience Foam | Orthopedic Wedge Cushion for Leg Elevator | Pregnan",
+      "slot": 10
+     }
+    ],
+    "fridoOrganicRank": 1,
+    "fridoSponsoredSlot": null,
+    "fridoBadge": null,
+    "fridoAsin": "B0H4W2WHCR",
+    "fridoUrl": "https://www.amazon.in/dp/B0H4W2WHCR",
+    "resultCount": 60
+   },
+   "flipkart": {
+    "fetchOk": true,
+    "results": [
+     {
+      "pos": 1,
+      "title": "THE WOOD WHITE INDIA Microfibre Sleeping Pillow Pack of 2 Solid Soft Pillow Set of 2. 16 x 24 Inches",
+      "brand": "THE WOOD WHITE INDIA",
+      "price": null,
+      "rating": 4,
+      "ratings": 1971,
+      "isFrido": false
+     },
+     {
+      "pos": 2,
+      "title": "THE WOOD WHITE INDIA Microfibre Sleeping Pillow Pack of 2 Solid Microfiber 16 x 24 Inches or 41 x 61 cm.",
+      "brand": "THE WOOD WHITE INDIA",
+      "price": null,
+      "rating": 4,
+      "ratings": 16576,
+      "isFrido": false
+     },
+     {
+      "pos": 3,
+      "title": "THE WOOD WHITE INDIA Microfibre Sleeping Pillow Pack of 2 Abstract Self Grey Pillow Set of 2 in 16” x 24” Inch with 600 GMS of Plush Filling",
+      "brand": "THE WOOD WHITE INDIA",
+      "price": null,
+      "rating": 4,
+      "ratings": 16576,
+      "isFrido": false
+     },
+     {
+      "pos": 4,
+      "title": "THE WOOD WHITE INDIA Microfibre Sleeping Pillow Pack of 2 Solid Soft Pillow Set of 2. size 16 x 24 Inches",
+      "brand": "THE WOOD WHITE INDIA",
+      "price": null,
+      "rating": 4,
+      "ratings": 16576,
+      "isFrido": false
+     },
+     {
+      "pos": 5,
+      "title": "THE WOOD WHITE INDIA Microfibre Sleeping Pillow Pack of 2 Solid Basic White Pillow Set of 2 in 41 x 61 cm with Blue Border",
+      "brand": "THE WOOD WHITE INDIA",
+      "price": null,
+      "rating": 4,
+      "ratings": 401,
+      "isFrido": false
+     },
+     {
+      "pos": 6,
+      "title": "TLK-HWB Memory Foam Orthopaedic Pillow Pack of 1 Nature Cervical Contour Memory Foam Pillow&Stomached, Anti-Snoring, Side Sleepers",
+      "brand": "TLK-HWB",
+      "price": null,
+      "rating": 3.9,
+      "ratings": 1294,
+      "isFrido": false
+     },
+     {
+      "pos": 7,
+      "title": "VIV-ATIQ Memory Foam Orthopaedic Pillow Pack of 1 Solid Contour Cervical Neck Pillow with Extra Curve for Sleeping Comfort",
+      "brand": "VIV-ATIQ",
+      "price": null,
+      "rating": 4.2,
+      "ratings": 16,
+      "isFrido": false
+     },
+     {
+      "pos": 8,
+      "title": "credicus Memory Foam Orthopaedic Pillow Pack of 1 Solid Cervical Contour Memory Foam Pillow + Anti-Snoring + Stomached + Side Sleepers",
+      "brand": "credicus",
+      "price": null,
+      "rating": 3.9,
+      "ratings": 695,
+      "isFrido": false
+     },
+     {
+      "pos": 9,
+      "title": "MIVOR Memory Foam Orthopaedic Pillow Pack of 1 Solid",
+      "brand": "MIVOR",
+      "price": null,
+      "rating": 4.3,
+      "ratings": 4,
+      "isFrido": false
+     },
+     {
+      "pos": 10,
+      "title": "CRAFKEN Memory Foam Orthopaedic Pillow Pack of 1 Floral Wedge Memory Foam Pillow",
+      "brand": "CRAFKEN",
+      "price": null,
+      "rating": 4.1,
+      "ratings": 33,
+      "isFrido": false
+     },
+     {
+      "pos": 11,
+      "title": "HR-RHM Memory Foam Orthopaedic Pillow Pack of 1 Nature Cervical Contour Memory Foam Pillow, Stomached, Anti-Snoring, Side Sleepers",
+      "brand": "HR-RHM",
+      "price": null,
+      "rating": 0,
+      "ratings": 0,
+      "isFrido": false
+     },
+     {
+      "pos": 12,
+      "title": "FOVERA Memory Foam Cervical Pack of 1 Solid Cervical Pillow",
+      "brand": "FOVERA",
+      "price": null,
+      "rating": 5,
+      "ratings": 6,
+      "isFrido": false
+     },
+     {
+      "pos": 13,
+      "title": "HOMESO Memory Foam Orthopaedic Pillow Pack of 1 Solid Wedge Plus Pillow for Sleeping Back & Neck Pain Relief Leg Elevator",
+      "brand": "HOMESO",
+      "price": null,
+      "rating": 4.3,
+      "ratings": 877,
+      "isFrido": false
+     },
+     {
+      "pos": 14,
+      "title": "Sleep Yoga Memory Foam, Latex Orthopaedic Pillow Pack of 1 Solid OrthoRest Memory Foam Pillow",
+      "brand": "Sleep Yoga",
+      "price": null,
+      "rating": 3.9,
+      "ratings": 44,
+      "isFrido": false
+     }
+    ],
+    "fridoRank": null,
+    "fridoUrl": "https://www.flipkart.com/search?q=Crescent%20Adjustable%20Pillow"
+   },
+   "status": "listed",
+   "capturedAt": "2026-07-08"
+  },
+  {
+   "category": "pillows",
+   "categoryName": "Pillows",
+   "sku": "Cuddle Sleep Pillow",
+   "searchKeyword": "Cuddle Sleep Pillow",
+   "brandKeyword": "Frido Cuddle Sleep Pillow",
+   "amazon": {
+    "fetchOk": true,
+    "organic": [
+     {
+      "asin": "B08KS2YSFR",
+      "badge": null,
+      "price": "1,699",
+      "rating": "4.3",
+      "reviews": "761",
+      "title": "SleepyCat Microfiber Cuddle Pillow Covered with Luxe Modal Fabric for Body Support | Ideal for Side Sleepers and Expecting Mothers | Machine Washable | 50x19 in",
+      "rank": 1
+     },
+     {
+      "asin": "B0GTDNPYFC",
+      "badge": null,
+      "price": "948",
+      "rating": "4.0",
+      "reviews": "604",
+      "title": "Dr Trust USA 3210 Cuddlee Cuddle Pillow for Cozy Comfort, Deep Sleep, Lounging & Curved Memory Foam Hugging for Side Sleepers, Neck & Shoulder Support, Breathab",
+      "rank": 2
+     },
+     {
+      "asin": "B0BHXC2P34",
+      "badge": null,
+      "price": "1,029",
+      "rating": "4.2",
+      "reviews": "2,135",
+      "title": "MYARMOR Maternity Pillow | Microfiber Long Body Side Pegnancy Pillow for Women Sleep | for Hugging & Relaxing, Washable Velvet Cover with Zip, Grey +Navy Blue, ",
+      "rank": 3
+     },
+     {
+      "asin": "B0FFSZF3W8",
+      "badge": null,
+      "price": "1,299",
+      "rating": "4.3",
+      "reviews": "32",
+      "title": "Dr Trust USA 398 Yawnicorn Long Large Cuddle Pillow for Sleeping and Pregnancy, Microfibre Body Side Pillow for Hugging, Relaxing, Washable with Premium Velvet ",
+      "rank": 4
+     },
+     {
+      "asin": "B0DD3PCZBP",
+      "badge": null,
+      "price": "1,248",
+      "rating": "4.4",
+      "reviews": "15",
+      "title": "Wakefit Long Cuddle Pillow | Side Body Pillow for Sleep & Pregnancy Support | Soft & Resilient Fiber Fill | 3 Months Warranty | Woodrose | 50 x 19.68 x 4 inch",
+      "rank": 5
+     },
+     {
+      "asin": "B0BN3RYP4Y",
+      "badge": null,
+      "price": "1,049",
+      "rating": "5.0",
+      "reviews": "7",
+      "title": "Tishangi Designer Ultra Soft Full Body Shaped Pillow for Side Sleeper, Hug, Cuddle | Spine, Back Support Cushion | Washable, Premium Velvet Cover with Zip | Bei",
+      "rank": 6
+     },
+     {
+      "asin": "B0DWFXWJXJ",
+      "badge": null,
+      "price": "2,994",
+      "rating": "4.2",
+      "reviews": "118",
+      "title": "Frido Cuddle Pillow | Breathable & Ultra-Soft Memory Foam | Sleeping Support for Adults | Best Hugging Pillow for Side Sleepers & Travel | Anti-Frizz & Skin-Fri",
+      "rank": 7,
+      "isFridoBrand": true
+     },
+     {
+      "asin": "B0C175TKZC",
+      "badge": null,
+      "price": null,
+      "rating": "4.1",
+      "reviews": "897",
+      "title": "WOODWHITE Full Body Long Pillow for Sleeping (18 x 54 inch) – Soft Microfiber Hug & Cuddle Pillow for Pregnancy, Side Sleepers & Maternity Support | Large Bolst",
+      "rank": 8
+     },
+     {
+      "asin": "B0DDCQVPLC",
+      "badge": null,
+      "price": "719",
+      "rating": "4.4",
+      "reviews": "19",
+      "title": "SleepyCat Sateen Cuddle Pillow Case - Pack of 1 | Made of 100% Cotton | Solid 300 TC Buttey Soft Sateen Weave with Envelope Clousre - Denim (Cuddle Size, 52x20 ",
+      "rank": 9
+     },
+     {
+      "asin": "B0H41KKQPK",
+      "badge": null,
+      "price": "299",
+      "rating": null,
+      "reviews": null,
+      "title": "Ultra-Comfort Anti-Startle Safe & Mom's Touch Feeling Baby Sleep Pillow with Plush Hands | Cuddle Positioner Plush Calming Hug Positioning Cushion for Head Supp",
+      "rank": 10
+     }
+    ],
+    "sponsored": [
+     {
+      "asin": "B0G5Z7GLC2",
+      "badge": null,
+      "price": "3,699",
+      "rating": "3.7",
+      "reviews": "9",
+      "title": "Natural Latex Cuddle Body Pillow, 100% Natural Latex,Breathable & Adjustable- Supportive Design Great for Pregnancy Comfort with Aloe Vera Knitted Cover,Size 52",
+      "slot": 1
+     },
+     {
+      "asin": "B0GVSDWWV8",
+      "badge": null,
+      "price": "999",
+      "rating": "4.2",
+      "reviews": "213",
+      "title": "StarAndDaisy Baby Pregnancy Pillow for Women | Maternity Pillow for Pregnancy Sleeping with Cuddle Pillow with Belly Support Adjustable Butterfly Design (Momcar",
+      "slot": 2
+     },
+     {
+      "asin": "B0FFSZF3W8",
+      "badge": null,
+      "price": "1,299",
+      "rating": "4.3",
+      "reviews": "32",
+      "title": "Dr Trust USA 398 Yawnicorn Long Large Cuddle Pillow for Sleeping and Pregnancy, Microfibre Body Side Pillow for Hugging, Relaxing, Washable with Premium Velvet ",
+      "slot": 3
+     },
+     {
+      "asin": "B0H3BPKL49",
+      "badge": null,
+      "price": "1,299",
+      "rating": "5.0",
+      "reviews": "3",
+      "title": "Cuddle Microfiber Body Pillow | Hug Pillow | Ultra Soft & Fluffy Full Body Pillow | Pregnancy Pillow for Sleeping | Side Sleeper Support Pillow | Breathable & W",
+      "slot": 4
+     },
+     {
+      "asin": "B0H419WRGJ",
+      "badge": null,
+      "price": "299",
+      "rating": "4.2",
+      "reviews": "213",
+      "title": "SoftlySpoken Ultra-Comfort Anti-Startle Safe & Mom's Touch Feeling Baby Sleep Pillow with Plush Hands | Cuddle Positioner Plush Calming Hug Positioning Cushion ",
+      "slot": 5
+     },
+     {
+      "asin": "B0G7XSWHW4",
+      "badge": null,
+      "price": "599",
+      "rating": "3.7",
+      "reviews": "123",
+      "title": "Lifelong Cervical Pillow for Neck Pain | Orthopedic Memory Foam Neck Pillow for Sleeping |Cervical Support for Spondylitis, Back & Shoulder Pain Relief |19x12x3",
+      "slot": 6
+     },
+     {
+      "asin": "B0CPPLGHN8",
+      "badge": null,
+      "price": "1,699",
+      "rating": "3.8",
+      "reviews": "238",
+      "title": "MY ARMOR Cervical Memory Foam Pillow for Neck Pain Relief | Butterfly Orthopedic Contour Pillow | Dual Height Ergonomic Design for Side, Back Sleepers | Shoulde",
+      "slot": 7
+     },
+     {
+      "asin": "B0DQQCFD1N",
+      "badge": null,
+      "price": "699",
+      "rating": "3.6",
+      "reviews": "12",
+      "title": "Cervical Memory Foam Pillow - Ergonomic Neck Support Pillow for Sleeping, Neck & Shoulder Pain Relief, Orthopedic Contour Design with Ultra Soft Breathable & Sk",
+      "slot": 8
+     },
+     {
+      "asin": "B0C3CZYFWB",
+      "badge": null,
+      "price": "2,299",
+      "rating": "4.3",
+      "reviews": "5,851",
+      "title": "COOZLY G Shape Belly Back Pregnancy Pillow | G Shape Maternity Pillow with 100% Cotton Removable Covers | G Pregnancy Sleeping Pillow (Lavender)",
+      "slot": 9
+     },
+     {
+      "asin": "B0F332522D",
+      "badge": null,
+      "price": "3,499",
+      "rating": "4.0",
+      "reviews": "1",
+      "title": "CUSHIO Cervical Butterfly Pillow – Orthopedic Memory Foam for Neck & Shoulder Pain Relief | Contour Pillow with Arm Rest | Dual Height Design for Side & Back Sl",
+      "slot": 10
+     }
+    ],
+    "fridoOrganicRank": 7,
+    "fridoSponsoredSlot": null,
+    "fridoBadge": null,
+    "fridoAsin": "B0DWFXWJXJ",
+    "fridoUrl": "https://www.amazon.in/dp/B0DWFXWJXJ",
+    "resultCount": 60
+   },
+   "flipkart": {
+    "fetchOk": true,
+    "results": [
+     {
+      "pos": 1,
+      "title": "AYKA Microfibre Sleeping Pillow Pack of 1 Solid Soft Microfiber Pillows",
+      "brand": "AYKA",
+      "price": null,
+      "rating": 4.3,
+      "ratings": 2421,
+      "isFrido": false
+     },
+     {
+      "pos": 2,
+      "title": "AYKA Microfibre Sleeping Pillow Pack of 1 Solid Soft Microfiber Pillow for Sleeping",
+      "brand": "AYKA",
+      "price": null,
+      "rating": 4.3,
+      "ratings": 150,
+      "isFrido": false
+     },
+     {
+      "pos": 3,
+      "title": "AYKA Microfibre Sleeping Pillow Pack of 2 Solid Soft Microfiber Pillows",
+      "brand": "AYKA",
+      "price": null,
+      "rating": 4.3,
+      "ratings": 2421,
+      "isFrido": false
+     },
+     {
+      "pos": 4,
+      "title": "ORGANIC SLEEP Latex Body Pillow Pack of 1 Solid",
+      "brand": "ORGANIC SLEEP",
+      "price": null,
+      "rating": 0,
+      "ratings": 0,
+      "isFrido": false
+     },
+     {
+      "pos": 5,
+      "title": "HOMBOX Memory Foam Sleeping Pillow Pack of 1 Solid Memory Foam Luxury Pillow , Cuddle Pillow",
+      "brand": "HOMBOX",
+      "price": null,
+      "rating": 0,
+      "ratings": 0,
+      "isFrido": false
+     },
+     {
+      "pos": 6,
+      "title": "Orchid Pillows Polyester Fibre, Cotton Body Pillow Pack of 1 Solid Body Pillows",
+      "brand": "Orchid Pillows",
+      "price": null,
+      "rating": 0,
+      "ratings": 0,
+      "isFrido": false
+     },
+     {
+      "pos": 7,
+      "title": "SleepyCat Memory Foam Orthopaedic Pillow Pack of 4 Solid Bamboo Fabric Standard Size (25x16 inches)",
+      "brand": "SleepyCat",
+      "price": null,
+      "rating": 4.3,
+      "ratings": 2466,
+      "isFrido": false
+     },
+     {
+      "pos": 8,
+      "title": "Sleepyhead Polyester Fibre Sleeping Pillow Pack of 2 Geometric",
+      "brand": "Sleepyhead",
+      "price": null,
+      "rating": 4.3,
+      "ratings": 8752,
+      "isFrido": false
+     },
+     {
+      "pos": 9,
+      "title": "Frido Memory Foam Sleeping Pillow Pack of 1 Solid Cuddle Pillow | Ultra-Soft Hugging Memory Foam Pillow , Side Sleepers & Travel",
+      "brand": "Frido",
+      "price": null,
+      "rating": 4.5,
+      "ratings": 23,
+      "isFrido": true
+     },
+     {
+      "pos": 10,
+      "title": "COO RIZZ Nap time Anytime Foam Orthopaedic Pillow Pack of 1 Solid Adjustable Wedge Pillow With Headrest | Neck, Back, Leg Elevation",
+      "brand": "COO RIZZ Nap time Anytime",
+      "price": null,
+      "rating": 0,
+      "ratings": 0,
+      "isFrido": false
+     },
+     {
+      "pos": 11,
+      "title": "HOMESO Memory Foam Orthopaedic Pillow Pack of 1 Solid Wedge Plus Pillow for Sleeping Back & Neck Pain Relief Leg Elevator",
+      "brand": "HOMESO",
+      "price": null,
+      "rating": 4.3,
+      "ratings": 877,
+      "isFrido": false
+     },
+     {
+      "pos": 12,
+      "title": "SleepyHug Memory Foam Orthopaedic Pillow Pack of 1 Solid Wedge Pillow",
+      "brand": "SleepyHug",
+      "price": null,
+      "rating": 4.7,
+      "ratings": 41,
+      "isFrido": false
+     }
+    ],
+    "fridoRank": 9,
+    "fridoUrl": "https://www.flipkart.com/search?q=Cuddle%20Sleep%20Pillow"
+   },
+   "status": "listed",
+   "capturedAt": "2026-07-08"
+  },
+  {
+   "category": "pillows",
+   "categoryName": "Pillows",
+   "sku": "Ultimate Neck Contour Cervical Pillow",
+   "searchKeyword": "Neck Contour Cervical Pillow",
+   "brandKeyword": "Frido Ultimate Neck Contour Cervical Pillow",
+   "amazon": {
+    "fetchOk": true,
+    "organic": [
+     {
+      "asin": "B0DXB5FDKW",
+      "badge": "Bestseller",
+      "price": "599",
+      "rating": "3.9",
+      "reviews": "1,776",
+      "title": "CareFoam Contour Cervical Memory Foam Pillow | 2-Year Manufacturing Warranty | Ergonomic 3-Zone Orthopedic Pillow for Neck Support & Cervical Spine Alignment | ",
+      "rank": 1
+     },
+     {
+      "asin": "B0DPL237H1",
+      "badge": null,
+      "price": "599",
+      "rating": "3.9",
+      "reviews": "911",
+      "title": "MYARMOR Cervical Pillow for Neck Pain | 2 Years Warranty | for Spondylitis Neck & Shoulder Pain, Orthopedic Memory Foam Pillow for Sleeping, Regular Size - 18.5",
+      "rank": 2
+     },
+     {
+      "asin": "B0GN8XQL2K",
+      "badge": null,
+      "price": "948",
+      "rating": "4.4",
+      "reviews": "26,172",
+      "title": "Cervical Neck Pillow for Sleeping | Premium Memory Foam Cervical Pillow for Neck Pain Relief & Shoulder Support | Orthopedic Contour Pillow for Spinal Alignment",
+      "rank": 3
+     },
+     {
+      "asin": "B0CR3PBD24",
+      "badge": null,
+      "price": "1,494",
+      "rating": "4.1",
+      "reviews": "1,629",
+      "title": "Frido Ultimate Contour Cervical Neck Pillow | for Pain Relief Sleep | Improves Posture & Spinal Alignment | Neck Pain Relief Cushion with Ultra Responsive Memor",
+      "rank": 4,
+      "isFridoBrand": true
+     },
+     {
+      "asin": "B0FKM69BB5",
+      "badge": "Amazon's Choice",
+      "price": "597",
+      "rating": "4.0",
+      "reviews": "608",
+      "title": "FOVERA Cervical Pillow for Neck Pain | 2 Years Warranty | for Spondylitis Neck & Shoulder Pain, Orthopedic Memory Foam Pillow for Sleeping, Standard Size, 18 x ",
+      "rank": 5
+     },
+     {
+      "asin": "B0GH1PWSBZ",
+      "badge": null,
+      "price": "472",
+      "rating": "4.0",
+      "reviews": "84",
+      "title": "LA VERNE Memory Foam Cervical Pillow with Cool Gel | Contour Neck & Shoulder Pain Relief Pillow | Orthopedic Design Improves Posture | Ideal for Back & Side Sle",
+      "rank": 6
+     },
+     {
+      "asin": "B0D56LQGDJ",
+      "badge": null,
+      "price": "450",
+      "rating": "4.1",
+      "reviews": "108",
+      "title": "Cervical Contour Memory Foam Pillow for Sleeping,Orthopedic Pillow for Neck Pain, Support for Back,Stomach,Side Sleepers, with Breathable Zip Cover (Grey)",
+      "rank": 7
+     },
+     {
+      "asin": "B0GBY3QDJ9",
+      "badge": null,
+      "price": "349",
+      "rating": "3.9",
+      "reviews": "563",
+      "title": "TEKCOOL Neck Support Stretcher - Cervical Traction Device for Neck & Shoulder Pain Relief, Massage Relaxer, Acupressure Chiropractic Neck Support (Sky Blue)",
+      "rank": 8
+     },
+     {
+      "asin": "B0GMQYJJZ8",
+      "badge": "Bestseller",
+      "price": "649",
+      "rating": "3.9",
+      "reviews": "1,776",
+      "title": "CareFoam Contour Cervical Memory Foam Pillow | 2-Year Manufacturing Warranty | Ergonomic 3-Zone Orthopedic Pillow for Neck Support & Cervical Spine Alignment | ",
+      "rank": 9
+     },
+     {
+      "asin": "B0DYVK2TWR",
+      "badge": "Bestseller",
+      "price": "599",
+      "rating": "4.0",
+      "reviews": "552",
+      "title": "WELLGIVER Cervical Memory Foam Pillow for Neck Pain | 2 Year Warranty | 19 x 11 x 4 Inch Standard | Orthopedic Pillow Spondylitis Neck & Shoulder Pain | Washabl",
+      "rank": 10
+     }
+    ],
+    "sponsored": [
+     {
+      "asin": "B0DXB5FDKW",
+      "badge": "Bestseller",
+      "price": "599",
+      "rating": "3.9",
+      "reviews": "1,776",
+      "title": "CareFoam Contour Cervical Memory Foam Pillow | 2-Year Manufacturing Warranty | Ergonomic 3-Zone Orthopedic Pillow for Neck Support & Cervical Spine Alignment | ",
+      "slot": 1
+     },
+     {
+      "asin": "B0F32YG7ZX",
+      "badge": null,
+      "price": "1,799",
+      "rating": "3.6",
+      "reviews": "98",
+      "title": "CUSHIO Cervical Butterfly Pillow – Orthopedic Memory Foam for Neck & Shoulder Pain Relief | Contour Pillow with Arm Rest | Dual Height Design for Side & Back Sl",
+      "slot": 2
+     },
+     {
+      "asin": "B0CHW5MMJT",
+      "badge": null,
+      "price": "1,296",
+      "rating": "4.0",
+      "reviews": "30",
+      "title": "Leeford Contoured Cervical Pillow for Neck Pain, Spondylitis, Cervical | PU Foam Neck Support for Pain Relief & Better Sleep",
+      "slot": 3
+     },
+     {
+      "asin": "B0GRTY5QFR",
+      "badge": null,
+      "price": "599",
+      "rating": "4.0",
+      "reviews": "225",
+      "title": "FOVERA Memory Foam Cervical Pillow for Neck Pain | Orthopedic Contour Neck Support Pillow for Sleeping, for Neck and Shoulder Pain, Dual Height (Grey Jacquard C",
+      "slot": 4
+     },
+     {
+      "asin": "B0GMQ9KLH4",
+      "badge": "Bestseller",
+      "price": "649",
+      "rating": "3.9",
+      "reviews": "1,776",
+      "title": "CareFoam Contour Cervical Memory Foam Pillow | 2-Year Manufacturing Warranty | Ergonomic 3-Zone Orthopedic Pillow for Neck Support & Cervical Spine Alignment | ",
+      "slot": 5
+     },
+     {
+      "asin": "B0FPD4CWLP",
+      "badge": null,
+      "price": "899",
+      "rating": "4.3",
+      "reviews": "9",
+      "title": "AGEasy (Max Group Cervical Pillow for Neck, Back & Shoulder Pain, Improves Posture & Spinal Alignment | Orthopedic Cushion with 100% Memory Foam & Skin Friendly",
+      "slot": 6
+     },
+     {
+      "asin": "B0FF3L3B7Q",
+      "badge": null,
+      "price": "799",
+      "rating": "3.2",
+      "reviews": "23",
+      "title": "Cervical Anti Snoring Pillow for Neck Pain | 2 Years Warranty | for Spondylitis Neck & Shoulder Pain, Orthopedic Memory Foam Pillow for Sleeping, Regular Size -",
+      "slot": 7
+     },
+     {
+      "asin": "B0DHQZ1F8Y",
+      "badge": null,
+      "price": "1,399",
+      "rating": "4.2",
+      "reviews": "381",
+      "title": "betterhood PosturePro Premium Cervical Pillow for Neck Pain and Shoulder Pain, Memory Foam Pillow, Cervical Pillow for Spondylitis Neck, Contour Pillow for Neck",
+      "slot": 8
+     },
+     {
+      "asin": "B08VJCPK4H",
+      "badge": null,
+      "price": "1,809",
+      "rating": "3.8",
+      "reviews": "304",
+      "title": "The White Willow Cervical Contour Ergonomic Orthopedic Memory Foam Pillow for Neck & Back Pain Relief Designed for All Sleeping Positions- Side, Back, Stomach- ",
+      "slot": 9
+     },
+     {
+      "asin": "B0B2MY7YBD",
+      "badge": null,
+      "price": "1,199",
+      "rating": "3.9",
+      "reviews": "68",
+      "title": "Dormyo Ultra Slim Pillow - Memory Foam for Sleeping - Ultra Thin for Neck Pain Relief - Thin Cervical for Neck Support - Thinnest Orthopedic (1, Luxe, 25.5\" x 1",
+      "slot": 10
+     }
+    ],
+    "fridoOrganicRank": 4,
+    "fridoSponsoredSlot": null,
+    "fridoBadge": null,
+    "fridoAsin": "B0CR3PBD24",
+    "fridoUrl": "https://www.amazon.in/dp/B0CR3PBD24",
+    "resultCount": 59
+   },
+   "flipkart": {
+    "fetchOk": true,
+    "results": [
+     {
+      "pos": 1,
+      "title": "FOVERA Cervical Pillow for Neck Pain | Orthopedic Memory Foam Contour Sleeping Pillow, Cervical Pillow",
+      "brand": "FOVERA",
+      "price": null,
+      "rating": 4.1,
+      "ratings": 177,
+      "isFrido": false
+     },
+     {
+      "pos": 2,
+      "title": "MY ARMOR Orthopedic Memory Foam Cervical Pillow for Neck & Shoulder Pain with Outer Cover Cervical Pillow",
+      "brand": "MY ARMOR",
+      "price": null,
+      "rating": 4.1,
+      "ratings": 2541,
+      "isFrido": false
+     },
+     {
+      "pos": 3,
+      "title": "FOVERA Cervical Pillow Cool Gel Memory Foam for Neck & Shoulder Pain Relief Cervical Pillow",
+      "brand": "FOVERA",
+      "price": null,
+      "rating": 4.2,
+      "ratings": 2646,
+      "isFrido": false
+     },
+     {
+      "pos": 4,
+      "title": "betterhood PosturePro Contour Pillow for Neck Shoulder Pain, Ergonomic Ortho Memory Foam Cervical Pillow",
+      "brand": "betterhood",
+      "price": null,
+      "rating": 4.1,
+      "ratings": 104,
+      "isFrido": false
+     },
+     {
+      "pos": 5,
+      "title": "Dr Trust USA Large Orthopaedic Contoured Memory Foam 355 Neck Cervical Pillow",
+      "brand": "Dr Trust",
+      "price": null,
+      "rating": 4.1,
+      "ratings": 1888,
+      "isFrido": false
+     },
+     {
+      "pos": 6,
+      "title": "betterhood PosturePro Pillow for Neck Shoulder Pain, 100% Memory Foam, Ergonomic Orthopedic Cervical Pillow",
+      "brand": "betterhood",
+      "price": null,
+      "rating": 4.3,
+      "ratings": 384,
+      "isFrido": false
+     },
+     {
+      "pos": 7,
+      "title": "Aryamurti Contour Memory Foam ,Orthopedic for Neck Pain Cervical Pillow",
+      "brand": "Aryamurti",
+      "price": null,
+      "rating": 4.1,
+      "ratings": 3746,
+      "isFrido": false
+     },
+     {
+      "pos": 8,
+      "title": "FOVERA Gel Memory Foam Pain Relief Cervical Pillow",
+      "brand": "FOVERA",
+      "price": null,
+      "rating": 4.2,
+      "ratings": 2646,
+      "isFrido": false
+     },
+     {
+      "pos": 9,
+      "title": "Kartona Orthopaedic Cervical Pillow - Memory Foam Pillow Cervical Pillow",
+      "brand": "Kartona",
+      "price": null,
+      "rating": 4.2,
+      "ratings": 1911,
+      "isFrido": false
+     },
+     {
+      "pos": 10,
+      "title": "MY ARMOR Cool Gel Memory Foam Cervical Pillow for Neck Pain and Shoulder Pain Relief Cervical Pillow",
+      "brand": "MY ARMOR",
+      "price": null,
+      "rating": 4.6,
+      "ratings": 138,
+      "isFrido": false
+     }
+    ],
+    "fridoRank": null,
+    "fridoUrl": "https://www.flipkart.com/search?q=Neck%20Contour%20Cervical%20Pillow"
+   },
+   "status": "listed",
+   "capturedAt": "2026-07-08"
+  },
+  {
+   "category": "pillows",
+   "categoryName": "Pillows",
+   "sku": "Ultimate Cozy Classic Pillow",
+   "searchKeyword": "Cozy Pillow",
+   "brandKeyword": "Frido Ultimate Cozy Classic Pillow",
+   "amazon": {
+    "fetchOk": true,
+    "organic": [
+     {
+      "asin": "B0FPMFG9NW",
+      "badge": null,
+      "price": "799",
+      "rating": "4.2",
+      "reviews": "1,268",
+      "title": "Frido Ultimate Cozy Classic Pillow - A Super Soft & Fluffy Pillow for Sleeping - Premium Comfort for Side, Back & Stomach Sleepers - White, Set of 1",
+      "rank": 1,
+      "isFridoBrand": true
+     },
+     {
+      "asin": "B0BFNRKR8Z",
+      "badge": null,
+      "price": "449",
+      "rating": "4.0",
+      "reviews": "3,029",
+      "title": "MYARMOR Microfiber Pillows Set 2, Soft Adjustable Pillow for Sleeping - 16 x 24 Inches -White",
+      "rank": 2
+     },
+     {
+      "asin": "B0FDKSNHHM",
+      "badge": null,
+      "price": "399",
+      "rating": "3.3",
+      "reviews": "90",
+      "title": "CareFoam Height Adjustable Microfiber Sleeping Pillows – Set of 2 | 16\" x 24\"| Soft, Supportive & Washable | Ideal for Back, Side & Stomach Sleepers | White",
+      "rank": 3
+     },
+     {
+      "asin": "B0DWSM9TNF",
+      "badge": null,
+      "price": "489",
+      "rating": "4.0",
+      "reviews": "3,029",
+      "title": "MYARMOR Height Adjustable Microfiber Pillows Set of 2 for Sleeping - 16\"x24\" Standard Pillow | 6 Months Warranty | 41 x 61 cm - Grey",
+      "rank": 4
+     },
+     {
+      "asin": "B0F7Y5XDPB",
+      "badge": "Amazon's Choice",
+      "price": "199",
+      "rating": "4.2",
+      "reviews": "1,185",
+      "title": "RAGGLE Set of 2 Satin Silk Pillowcase for Hair and Skin Standard Size 18\"X 28\" with Soft Breathable Smooth Cooling Pillow Covers for Sleeping or Pillow Protecto",
+      "rank": 5
+     },
+     {
+      "asin": "B07L6GZYDV",
+      "badge": "Bestseller",
+      "price": "845",
+      "rating": "4.3",
+      "reviews": "81,744",
+      "title": "Wakefit Hollow Fiber Sleeping Pillow | Height Adjustable | Soft & Fluffy Comfort | White & Grey | 27 x 16 Inch | Set of 2 |Free Extra Fiber for Custom Comfort (",
+      "rank": 6
+     },
+     {
+      "asin": "B0F39MJV39",
+      "badge": null,
+      "price": "349",
+      "rating": "3.0",
+      "reviews": "100",
+      "title": "AVSHUB Sunflower Shaped 6 Kali Cushion Cute Preppy Decorative Throw Pillow | Floor Pillowcase with Fibre Filling Aesthetic Decoration for Sofa Bedroom Car Offic",
+      "rank": 7
+     },
+     {
+      "asin": "B0H6CHFZB1",
+      "badge": null,
+      "price": "229",
+      "rating": "3.4",
+      "reviews": "10",
+      "title": "Microfiber Soft White Pillows | Pillows for Sleeping - Sets of 2 (Size - 16x24 Inches & 40x60 cm) - Pack of 2 Soft White Pillows",
+      "rank": 8
+     },
+     {
+      "asin": "B0DW93M8LQ",
+      "badge": null,
+      "price": "698",
+      "rating": "4.0",
+      "reviews": "3,331",
+      "title": "Zinnia Comfort Soft Microfiber Pillow | White | Basic Size 41 x 61 CM | Pack of 4",
+      "rank": 9
+     },
+     {
+      "asin": "B0DG95LM89",
+      "badge": null,
+      "price": "869",
+      "rating": "4.0",
+      "reviews": "3,029",
+      "title": "MYARMOR Height Adjustable Microfiber Pillows Set of 4 for Sleeping - 16 x 24 Inches - White",
+      "rank": 10
+     }
+    ],
+    "sponsored": [
+     {
+      "asin": "B0CYWKQGJW",
+      "badge": null,
+      "price": "1,599",
+      "rating": "4.2",
+      "reviews": "1,268",
+      "title": "Frido Ultimate Cozy Sleeping Pillow | (High Density) Gel Microfiber Bed Pillow | Breathable & Hypo-Allergenic Cushion for Bed | Bed Pillow for Long Lasting Fluf",
+      "slot": 1,
+      "isFridoBrand": true
+     },
+     {
+      "asin": "B084X87XW7",
+      "badge": null,
+      "price": "3,699",
+      "rating": "4.3",
+      "reviews": "11",
+      "title": "Jewear Imported 100% Cotton White Fluffy Soft Sleeping 10/90 Goose Down & Feather Pillow Size 17\" X 27\" Pack of 2",
+      "slot": 2
+     },
+     {
+      "asin": "B0GJT1YXNH",
+      "badge": null,
+      "price": "1,196",
+      "rating": "4.0",
+      "reviews": "122",
+      "title": "AYKA Premium Microfiber Pillow for Sleeping | Super Soft & Fluffy Bed Pillow | 100% Virgin Microfiber Filling | Hypoallergenic, Breathable | Ideal for All Sleep",
+      "slot": 3
+     },
+     {
+      "asin": "B0DVD681G7",
+      "badge": null,
+      "price": "1,599",
+      "rating": "4.5",
+      "reviews": "4",
+      "title": "CUSHIO Bed Wedge Pillow for Sleeping, Memory Foam Wedge Cushion for Acid Reflux, Back Support Pillow for Bed Sitting, Orthopedic Wedge Pillow for Neck & Back Pa",
+      "slot": 4
+     },
+     {
+      "asin": "B0H7CNXG9J",
+      "badge": null,
+      "price": "249",
+      "rating": "5.0",
+      "reviews": "1",
+      "title": "MINIMART Microfiber Soft White Pillows | Pillows for Sleeping - Sets of 2 (Size - 16x24 Inches & 40x60 cm) - Pack of 2 Soft White Pillows",
+      "slot": 5
+     },
+     {
+      "asin": "B0DYVLQYT8",
+      "badge": "Bestseller",
+      "price": "599",
+      "rating": "4.0",
+      "reviews": "552",
+      "title": "WELLGIVER Ergonomic Memory Foam Pillow for Neck Pain | 2 Years Warranty | 21 x 14 x 4.5 Inch | Orthopedic Pillow for Side Sleeping | Removable Washable Jacquard",
+      "slot": 6
+     },
+     {
+      "asin": "B0D6BM9ZRL",
+      "badge": null,
+      "price": "2,498",
+      "rating": "3.5",
+      "reviews": "21",
+      "title": "CUSHIO Adjustable Memory Foam Wedge Pillow for Back Support, 7-in-1 Versatile Design for Sleeping, Elevation and Leg Support with Removable Cover (22\"x22\"x12\" I",
+      "slot": 7
+     },
+     {
+      "asin": "B0DXBCP7M4",
+      "badge": "Bestseller",
+      "price": "597",
+      "rating": "3.9",
+      "reviews": "1,776",
+      "title": "CareFoam Cervical Memory Foam Pillow for Neck Support | 2-Year Manufacturing Warranty | Orthopedic Contour Pillow for Cervical Spine Alignment & Shoulder Suppor",
+      "slot": 8
+     },
+     {
+      "asin": "B0CC6BQRTB",
+      "badge": null,
+      "price": "2,298",
+      "rating": "4.2",
+      "reviews": "163",
+      "title": "CUSHIO Cooling Gel Memory Foam Pillow | Size 24\"x16\"x3.5\" (Set of 2) Cervical Pillow for Relieving Neck & Shoulder Pain with Free Pillow Cover (White & Grey)",
+      "slot": 9
+     },
+     {
+      "asin": "B0H761J6N1",
+      "badge": null,
+      "price": "2,100",
+      "rating": null,
+      "reviews": null,
+      "title": "Bed with Mosquito Net for Newborn, Premium Cotton Baby Nest Bedding Set, Portable Infant Sleeping Bed with Pillow & Bolsters, Soft Breathable Baby Lounger for 0",
+      "slot": 10
+     }
+    ],
+    "fridoOrganicRank": 1,
+    "fridoSponsoredSlot": 1,
+    "fridoBadge": null,
+    "fridoAsin": "B0FPMFG9NW",
+    "fridoUrl": "https://www.amazon.in/dp/B0FPMFG9NW",
+    "resultCount": 60
+   },
+   "flipkart": {
+    "fetchOk": true,
+    "results": [
+     {
+      "pos": 1,
+      "title": "AYKA Microfibre Sleeping Pillow Pack of 2 Solid Soft Microfiber Pillow for Sleeping",
+      "brand": "AYKA",
+      "price": null,
+      "rating": 4.3,
+      "ratings": 150,
+      "isFrido": false
+     },
+     {
+      "pos": 2,
+      "title": "AYKA Microfibre Sleeping Pillow Pack of 2 Solid Soft Microfiber Pillows",
+      "brand": "AYKA",
+      "price": null,
+      "rating": 4.3,
+      "ratings": 2421,
+      "isFrido": false
+     },
+     {
+      "pos": 3,
+      "title": "AYKA Microfibre Sleeping Pillow Pack of 2 Solid Premium Pillows Series",
+      "brand": "AYKA",
+      "price": null,
+      "rating": 4.2,
+      "ratings": 152,
+      "isFrido": false
+     },
+     {
+      "pos": 4,
+      "title": "Woomzy Cotton Orthopaedic Pillow Pack of 1 Solid Contour Memory Foam Pillow / Stomache / Side Sleepers /Geometric Orthopaedic",
+      "brand": "Woomzy",
+      "price": null,
+      "rating": 3.6,
+      "ratings": 20,
+      "isFrido": false
+     },
+     {
+      "pos": 5,
+      "title": "DALUCI Microfibre Sleeping Pillow Pack of 1 Solid Ultra Soft Microfiber Bed Pillows for Sleeping",
+      "brand": "DALUCI",
+      "price": null,
+      "rating": 4.3,
+      "ratings": 317,
+      "isFrido": false
+     },
+     {
+      "pos": 6,
+      "title": "Mom's Moon Microfibre Sleeping Pillow Pack of 2 Solid Cozy Comfort Gusseted Pillow",
+      "brand": "Mom's Moon",
+      "price": null,
+      "rating": 3.9,
+      "ratings": 4459,
+      "isFrido": false
+     },
+     {
+      "pos": 7,
+      "title": "Dr Trust Microfibre Body Pillow Pack of 1 Solid USA Long Cuddle Pillow for Sleeping and Pregnancy, Washable Premium Velvet Cover",
+      "brand": "Dr Trust",
+      "price": null,
+      "rating": 4.3,
+      "ratings": 76,
+      "isFrido": false
+     },
+     {
+      "pos": 8,
+      "title": "CUSHIO Memory Foam Orthopaedic Pillow Pack of 1 Solid Memory Foam Bed Wedge Pillow for Back Support, Leg Elevation, Acid Reflux",
+      "brand": "CUSHIO",
+      "price": null,
+      "rating": 4.2,
+      "ratings": 58,
+      "isFrido": false
+     },
+     {
+      "pos": 9,
+      "title": "Frido Memory Foam Orthopaedic Pillow Pack of 1 Solid Ultimate Deep Sleep Pillow for Neck & Shoulder Pain Relief, King Size 5 Inch",
+      "brand": "Frido",
+      "price": null,
+      "rating": 4.1,
+      "ratings": 808,
+      "isFrido": true
+     },
+     {
+      "pos": 10,
+      "title": "Frido Memory Foam Sleeping Pillow Pack of 1 Solid Cuddle Pillow | Ultra-Soft Hugging Memory Foam Pillow , Side Sleepers & Travel",
+      "brand": "Frido",
+      "price": null,
+      "rating": 4.5,
+      "ratings": 23,
+      "isFrido": true
+     },
+     {
+      "pos": 11,
+      "title": "Sifflex Microfibre Sleeping Pillow Pack of 2 Floral Sifflex Premium Sleep Series",
+      "brand": "Sifflex",
+      "price": null,
+      "rating": 0,
+      "ratings": 0,
+      "isFrido": false
+     },
+     {
+      "pos": 12,
+      "title": "Dormyo Memory Foam Sleeping Pillow Pack of 1 Geometric Dormyo Classic Cervical Pillow for Neck and Shoulder Pain (24”L x 14”W x 5\"H)",
+      "brand": "Dormyo",
+      "price": null,
+      "rating": 4.2,
+      "ratings": 62,
+      "isFrido": false
+     },
+     {
+      "pos": 13,
+      "title": "SANJU BROTHER Microfibre Sleeping Pillow Pack of 2 Solid Quilted",
+      "brand": "SANJU BROTHER",
+      "price": null,
+      "rating": 0,
+      "ratings": 0,
+      "isFrido": false
+     }
+    ],
+    "fridoRank": 9,
+    "fridoUrl": "https://www.flipkart.com/search?q=Cozy%20Pillow"
+   },
+   "status": "listed",
+   "capturedAt": "2026-07-08"
+  },
+  {
+   "category": "pillows",
+   "categoryName": "Pillows",
+   "sku": "Deep Sleep Pillow Cover",
+   "searchKeyword": "Deep Sleep Pillow Cover",
+   "brandKeyword": "Frido Deep Sleep Pillow Cover",
+   "amazon": {
+    "fetchOk": true,
+    "organic": [
+     {
+      "asin": "B0GY4RM3K7",
+      "badge": null,
+      "price": "499",
+      "rating": "4.0",
+      "reviews": "2",
+      "title": "Frido Deep Sleep Pillow Cooling Cover | Soft, Breathable & Odor-Resistant | Durable Zipper & Machine Washable | Premium Cooling Fabric for Comfort",
+      "rank": 1,
+      "isFridoBrand": true
+     },
+     {
+      "asin": "B0GWRBV8Z5",
+      "badge": null,
+      "price": "1,999",
+      "rating": "4.4",
+      "reviews": "12",
+      "title": "Frido Ultimate Deep Sleep Pillow with Cooling Cover | Orthopaedic Gel Memory Foam Pillow for Neck & Shoulder Pain Relief | Breathable, Pressure Relief for Side ",
+      "rank": 2
+     },
+     {
+      "asin": "B0GTFCYM97",
+      "badge": null,
+      "price": "220",
+      "rating": "3.9",
+      "reviews": "12",
+      "title": "HOUSE FOX Zippered Cotton Pillow Covers (NOT Pillow) – 18x28 Inch | 1 pair | Set of 2 Pillowcases | Protectors | Hidden Chain , Soft, Durable & Fade Resistant (",
+      "rank": 3
+     },
+     {
+      "asin": "B0DJ1MS5HQ",
+      "badge": null,
+      "price": "599",
+      "rating": "4.2",
+      "reviews": "137",
+      "title": "Mush Bamboo Pillow Cover Set of 2 | 100% Bamboo Pillow Cover for Hair and Skin | Breathable, Silky Soft and Cooling Envelope Pillowcases for Hot Sleepers & Nigh",
+      "rank": 4
+     },
+     {
+      "asin": "B0D31TT9X9",
+      "badge": null,
+      "price": "1,499",
+      "rating": "4.2",
+      "reviews": "2,099",
+      "title": "Frido Ultra Slim Deep Sleep Pillow | King Size 2 Inch Height | Orthopedic Grade Gel Memory Foam for Neck & Shoulder Pain Relief, Includes Bamboo Pillow Cover, P",
+      "rank": 5
+     },
+     {
+      "asin": "B0CB4D8Z1R",
+      "badge": null,
+      "price": "149",
+      "rating": "3.9",
+      "reviews": "1,285",
+      "title": "BSB HOME® 220 TC Premium Glace Cotton Solid Striped Pillow Covers | Ultrasoft Breathable Envelope Closure| Pack of 2 Pillow Covers King Size (Grey, 20 x 30 Inch",
+      "rank": 6
+     },
+     {
+      "asin": "B0FRMDBQT8",
+      "badge": null,
+      "price": "299",
+      "rating": "4.2",
+      "reviews": "74",
+      "title": "Mytrident Urban Comfort Pillow Covers Set of 2, 144 TC, 100% Cotton, Juliet Blue",
+      "rank": 7
+     },
+     {
+      "asin": "B0CJCSMDLR",
+      "badge": "Bestseller",
+      "price": "299",
+      "rating": "4.3",
+      "reviews": "7,129",
+      "title": "Go well Satin Silk Pillow Covers Pack of 2 for Hair and Skin-with Satin Scrunchies for Women Stylish|Satin Pillow Cover for Hair and Skin|scrunchies for Women 3",
+      "rank": 8
+     },
+     {
+      "asin": "B0D9NMS6TQ",
+      "badge": null,
+      "price": "939",
+      "rating": "4.2",
+      "reviews": "230",
+      "title": "Mush Bamboo Pillow Cover Set of 2 | 400 TC | 100% Bamboo Pillow Cover for Hair and Skin | Breathable, Silky Soft and Envelope Pillowcases for Hot Sleepers & Nig",
+      "rank": 9
+     },
+     {
+      "asin": "B0DC6WC7XF",
+      "badge": null,
+      "price": "239",
+      "rating": "4.2",
+      "reviews": "663",
+      "title": "SITTELLA® 72x46 cm Set of 2 Satin Silk Pillow Covers | 600 TC Soft Pillowcase for Hair & Skin | Envelope Closure |Navy Blue",
+      "rank": 10
+     }
+    ],
+    "sponsored": [
+     {
+      "asin": "B0F29H1PQX",
+      "badge": "Bestseller",
+      "price": "779",
+      "rating": "4.2",
+      "reviews": "861",
+      "title": "MY ARMOR Waterproof & Dustproof Cotton Quilted Pillow Cover Protectors, Standard Size | 220+ GSM- Set of 2, Grey (18\" x28\")",
+      "slot": 1
+     },
+     {
+      "asin": "B09TKXK5C3",
+      "badge": null,
+      "price": "1,424",
+      "rating": "4.0",
+      "reviews": "287",
+      "title": "FURBO 100% Pure Mulberry Silk Pillowcase | 22 Momme 6A Grade Silk Pillow Cover for Hair & Skin | Cooling, Breathable, Smooth & Soft | Hidden Zipper Closure | An",
+      "slot": 2
+     },
+     {
+      "asin": "B09PK3QPLR",
+      "badge": "Bestseller",
+      "price": "265",
+      "rating": "4.3",
+      "reviews": "7,129",
+      "title": "GO WELL Solid Satin Silk Pillow Covers Pack of 2 for Hair and Skin-with Satin Scrunchies |Satin Pillow coves for Hair and Skin|scrunchies for Women 3-Pieces|Sil",
+      "slot": 3
+     },
+     {
+      "asin": "B0F2T1RNF7",
+      "badge": null,
+      "price": "1,299",
+      "rating": "4.1",
+      "reviews": "421",
+      "title": "Ayka 100% Waterproof Quilted Pillow Protector 220 GSM Soft Cotton Quilted Pillow Cover Protector Zippered Closure, Protection Against Water Spills & Dustmites- ",
+      "slot": 4
+     },
+     {
+      "asin": "B07RZJHB7X",
+      "badge": "Bestseller",
+      "price": "492",
+      "rating": "4.3",
+      "reviews": "2,371",
+      "title": "Trance Home Linen Anti-Bacterial Hypoallergenic Terry Solid Waterproof Pillow Protector|Dust Mite-Bed Bug-Fluid Spill Protection Covers(Standard|18X28 Inch,Bamb",
+      "slot": 5
+     },
+     {
+      "asin": "B0BZ87F4MM",
+      "badge": null,
+      "price": "149",
+      "rating": "4.0",
+      "reviews": "5,053",
+      "title": "BSB HOME 180 TC Premium Cotton Pillow Covers | Regular Pillow Cases | Set of 2 Pieces Pillow Covers only King Size (Blue, 20 x 30 Inches)",
+      "slot": 6
+     },
+     {
+      "asin": "B0CQNK6SBD",
+      "badge": null,
+      "price": "258",
+      "rating": "4.1",
+      "reviews": "6,371",
+      "title": "Amazon Brand - Solimo Pristine Off-White Pillow Cover, Brushed Cotton (Set of 2, White, 17\" X 27\"), 144 Thread Count, 68L x 43W Centimeters, Solid",
+      "slot": 7
+     },
+     {
+      "asin": "B0F93VMPJ2",
+      "badge": null,
+      "price": "1,328",
+      "rating": "4.0",
+      "reviews": "36",
+      "title": "Mulberry Silk Pillowcase – Standard 20x26 Inch – 22 Momme Highest Grade Silk – Cooling for Hair & Skin – Breathable Anti-Frizz with Hidden Zipper – Soft Luxury ",
+      "slot": 8
+     },
+     {
+      "asin": "B07VTQHBV4",
+      "badge": null,
+      "price": "474",
+      "rating": "3.9",
+      "reviews": "569",
+      "title": "Daksh Sateen Stripe 300 TC Cotton Pillow Cover, 20 x 36 inch, Sky Blue, 2 Pieces",
+      "slot": 9
+     },
+     {
+      "asin": "B0DYJYW369",
+      "badge": null,
+      "price": "699",
+      "rating": "3.9",
+      "reviews": "570",
+      "title": "LINENWALAS 100% Bamboo Geometric Quilted Pillow Cover - Set of 2|Ultra-Soft,Cooling & Breathable|Skin & Hair Friendly|Hidden Zipper Closure|Sweat-Absorbent & Hy",
+      "slot": 10
+     }
+    ],
+    "fridoOrganicRank": 1,
+    "fridoSponsoredSlot": null,
+    "fridoBadge": null,
+    "fridoAsin": "B0GY4RM3K7",
+    "fridoUrl": "https://www.amazon.in/dp/B0GY4RM3K7",
+    "resultCount": 60
+   },
+   "flipkart": {
+    "fetchOk": true,
+    "results": [
+     {
+      "pos": 1,
+      "title": "AYKA Microfibre Sleeping Pillow Pack of 1 Solid Soft Microfiber Pillow for Sleeping",
+      "brand": "AYKA",
+      "price": null,
+      "rating": 4.3,
+      "ratings": 150,
+      "isFrido": false
+     },
+     {
+      "pos": 2,
+      "title": "AYKA Microfibre Sleeping Pillow Pack of 1 Solid Soft Microfiber Pillows",
+      "brand": "AYKA",
+      "price": null,
+      "rating": 4.3,
+      "ratings": 2421,
+      "isFrido": false
+     },
+     {
+      "pos": 3,
+      "title": "AYKA Polyester Fibre, Cotton Sleeping Pillow Pack of 1 Geometric Cord Pillow",
+      "brand": "AYKA",
+      "price": null,
+      "rating": 4.3,
+      "ratings": 56,
+      "isFrido": false
+     },
+     {
+      "pos": 4,
+      "title": "AYKA Microfibre Sleeping Pillow Pack of 2 Solid Soft Microfiber Pillows",
+      "brand": "AYKA",
+      "price": null,
+      "rating": 4.2,
+      "ratings": 152,
+      "isFrido": false
+     },
+     {
+      "pos": 5,
+      "title": "SleepyCat Cotton Pillows Cover",
+      "brand": "SleepyCat",
+      "price": null,
+      "rating": 0,
+      "ratings": 0,
+      "isFrido": false
+     },
+     {
+      "pos": 6,
+      "title": "Shop141 Satin, Silk Pillows Cover",
+      "brand": "Shop141",
+      "price": null,
+      "rating": 4.2,
+      "ratings": 43,
+      "isFrido": false
+     },
+     {
+      "pos": 7,
+      "title": "seema home decor Cotton Pillows Cover",
+      "brand": "seema home decor",
+      "price": null,
+      "rating": 5,
+      "ratings": 3,
+      "isFrido": false
+     },
+     {
+      "pos": 8,
+      "title": "Zupaya Satin Pillows Cover",
+      "brand": "Zupaya",
+      "price": null,
+      "rating": 4.7,
+      "ratings": 7,
+      "isFrido": false
+     },
+     {
+      "pos": 9,
+      "title": "MGAtrend Cotton Pillows Cover",
+      "brand": "MGAtrend",
+      "price": null,
+      "rating": 3.7,
+      "ratings": 3,
+      "isFrido": false
+     },
+     {
+      "pos": 10,
+      "title": "AVI Plain Plain Filled Zipper Standard Size Pillow Protector",
+      "brand": "AVI",
+      "price": null,
+      "rating": 4,
+      "ratings": 648,
+      "isFrido": false
+     },
+     {
+      "pos": 11,
+      "title": "AGS ACTIVE Cotton Pillows Cover",
+      "brand": "AGS ACTIVE",
+      "price": null,
+      "rating": 4.3,
+      "ratings": 45,
+      "isFrido": false
+     }
+    ],
+    "fridoRank": null,
+    "fridoUrl": "https://www.flipkart.com/search?q=Deep%20Sleep%20Pillow%20Cover"
+   },
+   "status": "listed",
+   "capturedAt": "2026-07-08"
+  },
+  {
+   "category": "pillows",
+   "categoryName": "Pillows",
+   "sku": "Latex Pillow Cover",
+   "searchKeyword": "Latex Pillow Cover",
+   "brandKeyword": "Frido Latex Pillow Cover",
+   "amazon": {
+    "fetchOk": true,
+    "organic": [
+     {
+      "asin": "B0GYYNBCNF",
+      "badge": null,
+      "price": "499",
+      "rating": null,
+      "reviews": null,
+      "title": "Frido Latex Pillow Cover | Soft, Breathable & Odor-Resistant | Durable Zipper & Machine Washable | Premium Cooling Fabric for Comfort | Colling Cover",
+      "rank": 1,
+      "isFridoBrand": true
+     },
+     {
+      "asin": "B0BFP1WSMG",
+      "badge": "Bestseller",
+      "price": "489",
+      "rating": "4.2",
+      "reviews": "861",
+      "title": "MY ARMOR Pillow Protector Waterproof | Pillow Covers Set of 2 & Dustproof Cotton Terry Pillow, 220+ GSM Standard Size Pillow Cover (18 x 28 Inches) – Grey",
+      "rank": 2
+     },
+     {
+      "asin": "B09Y59PMFS",
+      "badge": null,
+      "price": "429",
+      "rating": "4.4",
+      "reviews": "790",
+      "title": "Trance Ultra Soft Terry 100% Waterproof Pillow Protector Cover with Zippered Closure | Dust Mite - Bed Bug Protection | Oil Water Protection (Standard: 18 x 28 ",
+      "rank": 3
+     },
+     {
+      "asin": "B0GWRLMZMS",
+      "badge": null,
+      "price": "2,999",
+      "rating": "3.3",
+      "reviews": "4",
+      "title": "Frido Latex Pillow with Cooling Cover |100% Natural Latex Orthopaedic Pillow for Neck & Shoulder Pain Relief |Reversible Cooling Design with Air Vent Holes | Er",
+      "rank": 4
+     },
+     {
+      "asin": "B0FNWLFTS3",
+      "badge": "Bestseller",
+      "price": "599",
+      "rating": "3.9",
+      "reviews": "1,776",
+      "title": "CareFoam Cervical Memory Foam Pillow for Neck Support | 2-Year Manufacturing Warranty | Orthopedic Contour Pillow for Cervical Spine Alignment & Shoulder Suppor",
+      "rank": 5
+     },
+     {
+      "asin": "B0F12WZPHY",
+      "badge": null,
+      "price": "324",
+      "rating": "4.0",
+      "reviews": "112",
+      "title": "Waterproof & Dustproof Cotton Terry Pillow Protectors – Standard Size, Breathable & Soft Pillow Cover, Zippered Enclosure, Hypoallergenic (Beige-18x28 Inches, P",
+      "rank": 6
+     },
+     {
+      "asin": "B0DJ1JT76F",
+      "badge": null,
+      "price": "599",
+      "rating": "4.2",
+      "reviews": "137",
+      "title": "Mush Solid Bamboo Pillow Cover Set of 2 | 100% Bamboo Pillow Cover For Hair And Skin|Breathable,Silky Soft & Cooling Envelope Pillowcases For Hot Sleepers & Nig",
+      "rank": 7
+     },
+     {
+      "asin": "B0G3RK3FK1",
+      "badge": "Amazon's Choice",
+      "price": "449",
+      "rating": "4.0",
+      "reviews": "3",
+      "title": "Premium Memory Foam Contour Pillow for Kids, Natural Latex, Ergonomic Design, Washable Cover, Dust-Proof Inner, Neck Support for Sleeping",
+      "rank": 8
+     },
+     {
+      "asin": "B0DJZM5D9V",
+      "badge": null,
+      "price": "220",
+      "rating": "4.2",
+      "reviews": "2,081",
+      "title": "GO WELL solid Satin Silk Pillow Covers Pack of 2 for Hair and Skin-with Satin Scrunchies for Women Stylish|Satin Pillow coer for Hair and Skin for Women 3-Piece",
+      "rank": 9
+     },
+     {
+      "asin": "B0CBLYFMSJ",
+      "badge": null,
+      "price": "2,679",
+      "rating": "4.0",
+      "reviews": "323",
+      "title": "AVI 100% Netural Regular Latex Pillow|Ultra Plush Latex Foam Pillow|Bed Pillow for Sleeping, Side and Stomach Sleepers- with Inner Cotton Cover, Pack of 2, Whit",
+      "rank": 10
+     }
+    ],
+    "sponsored": [
+     {
+      "asin": "B0F2T1RNF7",
+      "badge": null,
+      "price": "1,299",
+      "rating": "4.1",
+      "reviews": "421",
+      "title": "Ayka 100% Waterproof Quilted Pillow Protector 220 GSM Soft Cotton Quilted Pillow Cover Protector Zippered Closure, Protection Against Water Spills & Dustmites- ",
+      "slot": 1
+     },
+     {
+      "asin": "B09PK3QPLR",
+      "badge": "Bestseller",
+      "price": "265",
+      "rating": "4.3",
+      "reviews": "7,129",
+      "title": "GO WELL Solid Satin Silk Pillow Covers Pack of 2 for Hair and Skin-with Satin Scrunchies |Satin Pillow coves for Hair and Skin|scrunchies for Women 3-Pieces|Sil",
+      "slot": 2
+     },
+     {
+      "asin": "B0DQ82KFWL",
+      "badge": null,
+      "price": "1,424",
+      "rating": "4.0",
+      "reviews": "287",
+      "title": "FURBO 100% Pure Mulberry Silk Pillowcase | 22 Momme 6A Grade Silk Pillow Cover for Hair & Skin | Cooling, Breathable, Smooth & Soft | Hidden Zipper Closure | An",
+      "slot": 3
+     },
+     {
+      "asin": "B0F93VMPJ2",
+      "badge": null,
+      "price": "1,328",
+      "rating": "4.0",
+      "reviews": "36",
+      "title": "Mulberry Silk Pillowcase – Standard 20x26 Inch – 22 Momme Highest Grade Silk – Cooling for Hair & Skin – Breathable Anti-Frizz with Hidden Zipper – Soft Luxury ",
+      "slot": 4
+     },
+     {
+      "asin": "B0F7Y5XDPB",
+      "badge": "Bestseller",
+      "price": "199",
+      "rating": "4.2",
+      "reviews": "1,185",
+      "title": "RAGGLE Set of 2 Satin Silk Pillowcase for Hair and Skin Standard Size 18\"X 28\" with Soft Breathable Smooth Cooling Pillow Covers for Sleeping or Pillow Protecto",
+      "slot": 5
+     },
+     {
+      "asin": "B0DYVLQYT8",
+      "badge": "Bestseller",
+      "price": "599",
+      "rating": "4.0",
+      "reviews": "552",
+      "title": "WELLGIVER Ergonomic Memory Foam Pillow for Neck Pain | 2 Years Warranty | 21 x 14 x 4.5 Inch | Orthopedic Pillow for Side Sleeping | Removable Washable Jacquard",
+      "slot": 6
+     },
+     {
+      "asin": "B0G5Z7GLC2",
+      "badge": null,
+      "price": "3,699",
+      "rating": "3.7",
+      "reviews": "9",
+      "title": "Natural Latex Cuddle Body Pillow, 100% Natural Latex,Breathable & Adjustable- Supportive Design Great for Pregnancy Comfort with Aloe Vera Knitted Cover,Size 52",
+      "slot": 7
+     },
+     {
+      "asin": "B0GNZRJBWX",
+      "badge": null,
+      "price": "1,749",
+      "rating": "3.1",
+      "reviews": "5",
+      "title": "DREAMZEE Certified 100% Natural Latex Pillow Shredded Pillow with Aloe-Vera Zipper Fabric for Side and Stomach Sleepers | Organic Bed Pillow Size 24x15 Inches -",
+      "slot": 8
+     },
+     {
+      "asin": "B0BFP1Y5B1",
+      "badge": "Bestseller",
+      "price": "455",
+      "rating": "4.2",
+      "reviews": "861",
+      "title": "MY ARMOR Pillow Covers Set of 2 | Pillow Protector Waterproof & Dustproof Cotton Terry Pillow, 220+ GSM Standard Size Pillow Cover (18\" x28\") – Maroon",
+      "slot": 9
+     },
+     {
+      "asin": "B0CQNK6SBD",
+      "badge": null,
+      "price": "258",
+      "rating": "4.1",
+      "reviews": "6,371",
+      "title": "Amazon Brand - Solimo Pristine Off-White Pillow Cover, Brushed Cotton (Set of 2, White, 17\" X 27\"), 144 Thread Count, 68L x 43W Centimeters, Solid",
+      "slot": 10
+     }
+    ],
+    "fridoOrganicRank": 1,
+    "fridoSponsoredSlot": null,
+    "fridoBadge": null,
+    "fridoAsin": "B0GYYNBCNF",
+    "fridoUrl": "https://www.amazon.in/dp/B0GYYNBCNF",
+    "resultCount": 60
+   },
+   "flipkart": {
+    "fetchOk": true,
+    "results": [
+     {
+      "pos": 1,
+      "title": "Mattress Protector Cotton Pillows Cover",
+      "brand": "Mattress Protector",
+      "price": null,
+      "rating": 4,
+      "ratings": 2189,
+      "isFrido": false
+     },
+     {
+      "pos": 2,
+      "title": "AVI Plain Plain Filled Zipper Standard Size Pillow Protector",
+      "brand": "AVI",
+      "price": null,
+      "rating": 4,
+      "ratings": 648,
+      "isFrido": false
+     },
+     {
+      "pos": 3,
+      "title": "AVI Latex Orthopaedic Pillow Pack of 1 Nature 100% Natural",
+      "brand": "AVI",
+      "price": null,
+      "rating": 3.9,
+      "ratings": 408,
+      "isFrido": false
+     },
+     {
+      "pos": 4,
+      "title": "SATISFLAY Latex Sleeping Pillow Pack of 4 Floral Latex Align Curve Pillow with Bamboo Fabric Cover - 24x16x3.5 inch",
+      "brand": "SATISFLAY",
+      "price": null,
+      "rating": 0,
+      "ratings": 0,
+      "isFrido": false
+     },
+     {
+      "pos": 5,
+      "title": "ORGANIC SLEEP Latex Body Pillow Pack of 1 Solid",
+      "brand": "ORGANIC SLEEP",
+      "price": null,
+      "rating": 0,
+      "ratings": 0,
+      "isFrido": false
+     },
+     {
+      "pos": 6,
+      "title": "HOMESO Memory Foam Orthopaedic Pillow Pack of 1 Solid Wedge Plus Pillow for Sleeping Back & Neck Pain Relief Leg Elevator",
+      "brand": "HOMESO",
+      "price": null,
+      "rating": 4.3,
+      "ratings": 877,
+      "isFrido": false
+     },
+     {
+      "pos": 7,
+      "title": "AVI Latex Orthopaedic Pillow Pack of 2 Nature 100% Natural",
+      "brand": "AVI",
+      "price": null,
+      "rating": 3.8,
+      "ratings": 164,
+      "isFrido": false
+     },
+     {
+      "pos": 8,
+      "title": "AVI Latex Orthopaedic Pillow Pack of 2 Geometric 100% Natural",
+      "brand": "AVI",
+      "price": null,
+      "rating": 3.8,
+      "ratings": 164,
+      "isFrido": false
+     }
+    ],
+    "fridoRank": null,
+    "fridoUrl": "https://www.flipkart.com/search?q=Latex%20Pillow%20Cover"
+   },
+   "status": "listed",
+   "capturedAt": "2026-07-08"
+  },
+  {
+   "category": "pillows",
+   "categoryName": "Pillows",
+   "sku": "Ortho Memory Foam Pillow",
+   "searchKeyword": "Ortho Memory Foam Pillow",
+   "brandKeyword": "Frido Ortho Memory Foam Pillow",
+   "amazon": {
+    "fetchOk": true,
+    "organic": [
+     {
+      "asin": "B0DXBCP7M4",
+      "badge": "Bestseller",
+      "price": "597",
+      "rating": "3.9",
+      "reviews": "1,776",
+      "title": "CareFoam Cervical Memory Foam Pillow for Neck Support | 2-Year Manufacturing Warranty | Orthopedic Contour Pillow for Cervical Spine Alignment & Shoulder Suppor",
+      "rank": 1
+     },
+     {
+      "asin": "B0FKM69BB5",
+      "badge": "Amazon's Choice",
+      "price": "597",
+      "rating": "4.0",
+      "reviews": "608",
+      "title": "FOVERA Cervical Pillow for Neck Pain | 2 Years Warranty | for Spondylitis Neck & Shoulder Pain, Orthopedic Memory Foam Pillow for Sleeping, Standard Size, 18 x ",
+      "rank": 2
+     },
+     {
+      "asin": "B0DYVLQYT8",
+      "badge": "Bestseller",
+      "price": "599",
+      "rating": "4.0",
+      "reviews": "552",
+      "title": "WELLGIVER Ergonomic Memory Foam Pillow for Neck Pain | 2 Years Warranty | 21 x 14 x 4.5 Inch | Orthopedic Pillow for Side Sleeping | Removable Washable Jacquard",
+      "rank": 3
+     },
+     {
+      "asin": "B0F88C6B8N",
+      "badge": null,
+      "price": "548",
+      "rating": "4.0",
+      "reviews": "129",
+      "title": "Memory Foam Pillow for Sleeping-Cervical Pillow for Neck Pain,Shoulder & Back Pain Relief-Orthopedic Pillow for Neck Support-Ortho Pillow",
+      "rank": 4
+     },
+     {
+      "asin": "B0F2YY3JFZ",
+      "badge": null,
+      "price": "999",
+      "rating": "4.2",
+      "reviews": "1,268",
+      "title": "Frido Ortho Memory Foam Pillow | Height-Adjustable Ergonomic Pillow for Neck & Spine Support | Premium Comfort for Side, Back, and Stomach Sleepers | Breathable",
+      "rank": 5,
+      "isFridoBrand": true
+     },
+     {
+      "asin": "B0D4QWPWJK",
+      "badge": null,
+      "price": "1,049",
+      "rating": "4.0",
+      "reviews": "655",
+      "title": "CareFoam Orthopedic Memory Foam Pillow for Comfortable Sleep, Neck & Shoulder Pain Relief with Removable Zipper White Jacquard Cover 24 x 15 x 5 Inch Pack of 1",
+      "rank": 6
+     },
+     {
+      "asin": "B0D969ZYHJ",
+      "badge": null,
+      "price": "649",
+      "rating": "4.2",
+      "reviews": "275",
+      "title": "Memory Foam Pillow for Sleeping-Cervical Pillow for Neck Pain,Shoulder & Back Pain Relief-Orthopedic Pillow for Neck Support-Ortho Pillow,White",
+      "rank": 7
+     },
+     {
+      "asin": "B0GMQ9KLH4",
+      "badge": "Bestseller",
+      "price": "649",
+      "rating": "3.9",
+      "reviews": "1,776",
+      "title": "CareFoam Contour Cervical Memory Foam Pillow | 2-Year Manufacturing Warranty | Ergonomic 3-Zone Orthopedic Pillow for Neck Support & Cervical Spine Alignment | ",
+      "rank": 8
+     },
+     {
+      "asin": "B0C3CGR8VQ",
+      "badge": null,
+      "price": "1,199",
+      "rating": "3.9",
+      "reviews": "456",
+      "title": "Dr.Ortho Premium Orthopedic Cervical Memory Foam Neck Pillow For Pain Relief Sleep, Improves Posture, Vaccum-Squeezed Packaging (Full Size - 60X36X10 Cm),White",
+      "rank": 9
+     },
+     {
+      "asin": "B0FTS1XXVF",
+      "badge": null,
+      "price": "549",
+      "rating": "4.0",
+      "reviews": "1,315",
+      "title": "Blairmore Memory Foam Pillow,nek Pillow,Orthopedic Memory Foam Pillows Supports Neck Pain and Shoulder Pain for Sleeping, Ergonomic Cervical Pillow (Steel Grey)",
+      "rank": 10
+     }
+    ],
+    "sponsored": [
+     {
+      "asin": "B097H8RR2B",
+      "badge": null,
+      "price": "1,952",
+      "rating": "4.0",
+      "reviews": "9,709",
+      "title": "The White Willow Memory Foam Set of 2-Cool Gel Pillow for Neck & Shoulder Pain-Cervical Pillow for Sleeping-Orthopedic for Back, Side & Stomach Sleepers-Medium ",
+      "slot": 1
+     },
+     {
+      "asin": "B0CLDN29H7",
+      "badge": null,
+      "price": "999",
+      "rating": "4.1",
+      "reviews": "192",
+      "title": "Careforce Orthopedic Cervical Pillow for Neck and Shoulder Pain Relief Ergonomic Memory Foam Pillows for Sleeping Ideal for Chronic Neck Pain & Spinal Alignment",
+      "slot": 2
+     },
+     {
+      "asin": "B0DXBCP7M4",
+      "badge": "Bestseller",
+      "price": "597",
+      "rating": "3.9",
+      "reviews": "1,776",
+      "title": "CareFoam Cervical Memory Foam Pillow for Neck Support | 2-Year Manufacturing Warranty | Orthopedic Contour Pillow for Cervical Spine Alignment & Shoulder Suppor",
+      "slot": 3
+     },
+     {
+      "asin": "B0CC684ZSP",
+      "badge": null,
+      "price": "3,099",
+      "rating": "4.2",
+      "reviews": "119",
+      "title": "CUSHIO Memory Foam Pillow - 22\"x14\"x3.5\" Inches (Pack of 4) Orthopedic Bed Pillow for Neck & Shoulder Pain Relief - Wake Up Refreshed - Free Pillow Cover (White",
+      "slot": 4
+     },
+     {
+      "asin": "B0B2MY7YBD",
+      "badge": null,
+      "price": "1,199",
+      "rating": "3.9",
+      "reviews": "68",
+      "title": "Dormyo Ultra Slim Pillow - Memory Foam for Sleeping - Ultra Thin for Neck Pain Relief - Thin Cervical for Neck Support - Thinnest Orthopedic (1, Luxe, 25.5\" x 1",
+      "slot": 5
+     },
+     {
+      "asin": "B0F332522D",
+      "badge": null,
+      "price": "3,499",
+      "rating": "4.0",
+      "reviews": "1",
+      "title": "CUSHIO Cervical Butterfly Pillow – Orthopedic Memory Foam for Neck & Shoulder Pain Relief | Contour Pillow with Arm Rest | Dual Height Design for Side & Back Sl",
+      "slot": 6
+     },
+     {
+      "asin": "B08F3LDL8L",
+      "badge": null,
+      "price": "1,174",
+      "rating": "4.0",
+      "reviews": "969",
+      "title": "Dr.Ortho Orthopaedic Cervical Pillow - Memory Foam Pillow (Universal Size, Black), One Size",
+      "slot": 7
+     },
+     {
+      "asin": "B08Y56CZJL",
+      "badge": null,
+      "price": "1,989",
+      "rating": "4.0",
+      "reviews": "3,622",
+      "title": "The White Willow Memory Foam for Neck & Shoulder Pain Relief-Orthopedic Cervical Pillow for Sleeping-Big Thick Support for Back, Side & Stomach Sleepers-Medium ",
+      "slot": 8
+     },
+     {
+      "asin": "B0CPPLGHN8",
+      "badge": null,
+      "price": "1,699",
+      "rating": "3.8",
+      "reviews": "238",
+      "title": "MY ARMOR Cervical Memory Foam Pillow for Neck Pain Relief | Butterfly Orthopedic Contour Pillow | Dual Height Ergonomic Design for Side, Back Sleepers | Shoulde",
+      "slot": 9
+     },
+     {
+      "asin": "B0G7XSWHW4",
+      "badge": null,
+      "price": "599",
+      "rating": "3.7",
+      "reviews": "123",
+      "title": "Lifelong Cervical Pillow for Neck Pain | Orthopedic Memory Foam Neck Pillow for Sleeping |Cervical Support for Spondylitis, Back & Shoulder Pain Relief |19x12x3",
+      "slot": 10
+     }
+    ],
+    "fridoOrganicRank": 5,
+    "fridoSponsoredSlot": null,
+    "fridoBadge": null,
+    "fridoAsin": "B0F2YY3JFZ",
+    "fridoUrl": "https://www.amazon.in/dp/B0F2YY3JFZ",
+    "resultCount": 60
+   },
+   "flipkart": {
+    "fetchOk": true,
+    "results": [
+     {
+      "pos": 1,
+      "title": "AYKA Microfibre Sleeping Pillow Pack of 1 Solid Soft Microfiber Pillow for Sleeping",
+      "brand": "AYKA",
+      "price": null,
+      "rating": 4.3,
+      "ratings": 150,
+      "isFrido": false
+     },
+     {
+      "pos": 2,
+      "title": "AYKA Microfibre Sleeping Pillow Pack of 1 Solid Soft Microfiber Pillows",
+      "brand": "AYKA",
+      "price": null,
+      "rating": 4.3,
+      "ratings": 2421,
+      "isFrido": false
+     },
+     {
+      "pos": 3,
+      "title": "AYKA Polyester Fibre, Cotton Sleeping Pillow Pack of 1 Geometric Cord Pillow",
+      "brand": "AYKA",
+      "price": null,
+      "rating": 4.3,
+      "ratings": 56,
+      "isFrido": false
+     },
+     {
+      "pos": 4,
+      "title": "AYKA Microfibre Sleeping Pillow Pack of 2 Solid Soft Microfiber Pillows",
+      "brand": "AYKA",
+      "price": null,
+      "rating": 4.2,
+      "ratings": 152,
+      "isFrido": false
+     },
+     {
+      "pos": 5,
+      "title": "Cervixa Memory Foam Orthopaedic Pillow Pack of 1 Geometric Orthopedic Cervical Memory Foam Pillow",
+      "brand": "Cervixa",
+      "price": null,
+      "rating": 4.1,
+      "ratings": 89,
+      "isFrido": false
+     },
+     {
+      "pos": 6,
+      "title": "LIVPURE Memory Foam Orthopaedic Pillow Pack of 1 Solid Breeze Contour Pillow with Perforated and Premium",
+      "brand": "LIVPURE",
+      "price": null,
+      "rating": 4,
+      "ratings": 537,
+      "isFrido": false
+     },
+     {
+      "pos": 7,
+      "title": "Flipkart SmartBuy Memory Foam, Polyester Fibre Orthopaedic Pillow Pack of 1 Solid",
+      "brand": "Flipkart SmartBuy",
+      "price": null,
+      "rating": 3.7,
+      "ratings": 11,
+      "isFrido": false
+     },
+     {
+      "pos": 8,
+      "title": "LA VERNE Memory Foam Sleeping Pillow Pack of 2 Abstract Luxury",
+      "brand": "LA VERNE",
+      "price": null,
+      "rating": 4.2,
+      "ratings": 53996,
+      "isFrido": false
+     },
+     {
+      "pos": 9,
+      "title": "FOVERA Memory Foam Cervical Pack of 1 Solid Cervical Pillow",
+      "brand": "FOVERA",
+      "price": null,
+      "rating": 5,
+      "ratings": 6,
+      "isFrido": false
+     },
+     {
+      "pos": 10,
+      "title": "araami Memory Foam Orthopaedic Pillow Pack of 1 Solid ORTHOPEDIC Solid Sleeping",
+      "brand": "araami",
+      "price": null,
+      "rating": 4,
+      "ratings": 4971,
+      "isFrido": false
+     },
+     {
+      "pos": 11,
+      "title": "velvure Memory Foam Orthopaedic Pillow Pack of 1 Geometric Cervical Contour Memory Foam Pillow, Stomached, Anti-Snoring, Side Sleepers",
+      "brand": "velvure",
+      "price": null,
+      "rating": 3,
+      "ratings": 3,
+      "isFrido": false
+     },
+     {
+      "pos": 12,
+      "title": "COO RIZZ Nap time Anytime Memory Foam Orthopaedic Pillow Pack of 1 Geometric Cooling Contour Gel Pillow for Sleeping and Neck Pain Relief",
+      "brand": "COO RIZZ Nap time Anytime",
+      "price": null,
+      "rating": 5,
+      "ratings": 2,
+      "isFrido": false
+     },
+     {
+      "pos": 13,
+      "title": "LA VERNE Memory Foam Sleeping Pillow Pack of 1 Geometric Luxury",
+      "brand": "LA VERNE",
+      "price": null,
+      "rating": 4.2,
+      "ratings": 53996,
+      "isFrido": false
+     }
+    ],
+    "fridoRank": null,
+    "fridoUrl": "https://www.flipkart.com/search?q=Ortho%20Memory%20Foam%20Pillow"
+   },
+   "status": "listed",
+   "capturedAt": "2026-07-08"
+  },
+  {
+   "category": "mattress-topper-protector",
+   "categoryName": "Mattress Topper & Protector",
+   "sku": "Ultimate Mattress Topper",
+   "searchKeyword": "Mattress Topper",
+   "brandKeyword": "Frido Ultimate Mattress Topper",
+   "amazon": {
+    "fetchOk": true,
+    "organic": [
+     {
+      "asin": "B07FF85N1J",
+      "badge": null,
+      "price": "1,858",
+      "rating": "3.9",
+      "reviews": "4,186",
+      "title": "AVI Super Soft 500 GSM Microfiber Bed Mattress Topper for King Size 78x72 Inch | All Season Comfortable Sleep 2 Inch Thick Mattresses Padding King Size -(Grey, ",
+      "rank": 1
+     },
+     {
+      "asin": "B07FF6YZFY",
+      "badge": null,
+      "price": "1,685",
+      "rating": "3.9",
+      "reviews": "4,186",
+      "title": "AVI Super Soft 500 GSM Microfiber Bed Mattress Topper for Queen Size 72x60 Inch | All Season Comfortable Sleep 2 Inch Thick Mattresses Padding Queen Size -(Whit",
+      "rank": 2
+     },
+     {
+      "asin": "B0H51N2GV8",
+      "badge": null,
+      "price": "1,999",
+      "rating": null,
+      "reviews": null,
+      "title": "1500 GSM Premium Mattress Topper 60x75 Inch Queen Size (Grey) – Ultra Soft Quilted Microfiber Bed Topper with Elastic Straps, 2–3 Inch Thick",
+      "rank": 3
+     },
+     {
+      "asin": "B0FHHXS6NJ",
+      "badge": "Bestseller",
+      "price": "4,199",
+      "rating": "4.2",
+      "reviews": "345",
+      "title": "SleepyCat Luxe AirGen™ Memory Foam Soft Mattress Topper - Motion Isolation | 2 Inch Thickness | Supersoft Knitted Fabrics with Ezie Zipper Cover Sleepers (Singl",
+      "rank": 4
+     },
+     {
+      "asin": "B07YFYF6Z8",
+      "badge": null,
+      "price": "2,925",
+      "rating": "3.6",
+      "reviews": "436",
+      "title": "AVI Luxury Soft 5D Spiral 2500 GSM Microfiber Queen Bed Mattress Topper, Extra Thick 3 Inch Mattress Padding, Cooling Breathable Cotton Pillow Top with Elastic ",
+      "rank": 5
+     },
+     {
+      "asin": "B0C599CRNQ",
+      "badge": null,
+      "price": "1,498",
+      "rating": "3.8",
+      "reviews": "387",
+      "title": "Cloth Fusion 600 GSM Mattress Topper Single Bed, Extra Thick 2\" Bed Topper for Improved Sleep Quality and Enhanced Comfort (72x36 inches, Navy)",
+      "rank": 6
+     },
+     {
+      "asin": "B0BTPVH48G",
+      "badge": null,
+      "price": "988",
+      "rating": "3.7",
+      "reviews": "1,133",
+      "title": "Rajasthan Crafts Ultra Soft Microfiber Mattress Topper/Padding (Small Single Bed (36inch x 72inch), Beige)",
+      "rank": 7
+     },
+     {
+      "asin": "B0CSFQGCVQ",
+      "badge": "Bestseller",
+      "price": "5,999",
+      "rating": "4.2",
+      "reviews": "345",
+      "title": "SleepyCat Cotton Microfiber Soft Mattress Topper Baffle Box Quilting 2 Inch Thickness Soft & Breathable Microfiber Fill Pefect for All Sleepers (King,78X72 Inch",
+      "rank": 8
+     },
+     {
+      "asin": "B0C6MKQDDN",
+      "badge": null,
+      "price": "7,106",
+      "rating": "4.0",
+      "reviews": "1,199",
+      "title": "Springtek Premium Multi Zoned Gel Memory Foam Mattress Topper for King Size Bed | King Bed Topper 78\"x72\" | 2\" Padding | Mattress Padding for Comfortable Sleep ",
+      "rank": 9
+     },
+     {
+      "asin": "B0GD7HYWXY",
+      "badge": null,
+      "price": "1,499",
+      "rating": "3.8",
+      "reviews": "387",
+      "title": "Cloth Fusion 600 GSM Mattress Topper Single Bed, Extra Thick 2\" Bed Topper for Improved Sleep Quality and Enhanced Comfort (72X36 Inches, Grey)",
+      "rank": 10
+     }
+    ],
+    "sponsored": [
+     {
+      "asin": "B0DHS3HGCG",
+      "badge": "Amazon's Choice",
+      "price": "4,799",
+      "rating": "4.4",
+      "reviews": "633",
+      "title": "Frido Ultimate Mattress Topper with Premium Cover for Single Bed | Single Bed Topper 72\"x36\" | 2\" Padding | Mattress Topper for Back Pain & Neck Pain | Soft & S",
+      "slot": 1,
+      "isFridoBrand": true
+     },
+     {
+      "asin": "B0FHHXS6NJ",
+      "badge": "Bestseller",
+      "price": "4,199",
+      "rating": "4.2",
+      "reviews": "345",
+      "title": "SleepyCat Luxe AirGen™ Memory Foam Soft Mattress Topper - Motion Isolation | 2 Inch Thickness | Supersoft Knitted Fabrics with Ezie Zipper Cover Sleepers (Singl",
+      "slot": 2
+     },
+     {
+      "asin": "B0B4VQTJJ7",
+      "badge": null,
+      "price": "2,889",
+      "rating": "4.0",
+      "reviews": "129",
+      "title": "The White Willow Bed Mattress Topper for Single Size Bed-Memory Foam Cool Gel-Medium Firm Single Bed Mattress Topper for Back Pain & Support-Pressure Relief & E",
+      "slot": 3
+     },
+     {
+      "asin": "B09SCPV9DL",
+      "badge": null,
+      "price": "5,885",
+      "rating": "4.3",
+      "reviews": "313",
+      "title": "SleepSmith Orthopedic Mattress Topper - Double/Diwan, 72\"x48\"x2\" Inch, 2-in-1 Reversible Memory Foam & Graphite Infused Cloud Foam | Mattress Topper for Back Pa",
+      "slot": 4
+     },
+     {
+      "asin": "B0BTPT7YL4",
+      "badge": null,
+      "price": "988",
+      "rating": "3.7",
+      "reviews": "1,133",
+      "title": "Rajasthan Crafts Ultra Soft Microfiber Mattress Topper/Padding (Small Single Bed (36inch x 72inch), Grey)",
+      "slot": 5
+     },
+     {
+      "asin": "B0C59FKT1S",
+      "badge": null,
+      "price": "2,299",
+      "rating": "3.8",
+      "reviews": "387",
+      "title": "Cloth Fusion 600 GSM Mattress Topper King Size Bed, Extra Thick 2\" Bed Topper for Improved Sleep Quality and Enhanced Comfort (78x72 inches, Navy)",
+      "slot": 6
+     },
+     {
+      "asin": "B07PVHMTZM",
+      "badge": null,
+      "price": "639",
+      "rating": "4.2",
+      "reviews": "38,176",
+      "title": "Amazon Brand - Solimo Water Resistant Cotton Mattress Protector 72\"x60\" - Queen Size, Grey",
+      "slot": 7
+     },
+     {
+      "asin": "B0CY9P7845",
+      "badge": null,
+      "price": "1,499",
+      "rating": "3.9",
+      "reviews": "363",
+      "title": "Amazon Brand – Umi Super Soft 600 GSM Mattress Padding Mattress Topper for Comfortable Sleep - Grey, 5ft x 6.5ft, Queen Bed (60x78 Inches)",
+      "slot": 8
+     },
+     {
+      "asin": "B0CYXXP9SQ",
+      "badge": null,
+      "price": "21,900",
+      "rating": "4.3",
+      "reviews": "13",
+      "title": "Dreamzee 100% Certified Natural Latex Mattress Topper with GOTS Fabric| Soft Comfort | 5 Year's Warranty | Mattress Padding Topper King Size (72x72x2 Inches)",
+      "slot": 9
+     },
+     {
+      "asin": "B0DVCC8C3T",
+      "badge": null,
+      "price": "3,599",
+      "rating": "3.8",
+      "reviews": "330",
+      "title": "AJISH Mattress Topper King Size 78x72 |1200 GSM Super Soft Microfiber Quilted Mattress Padding Bed Topper King Size | 4 Corner Elastic Band | All Season Comfort",
+      "slot": 10
+     }
+    ],
+    "fridoOrganicRank": null,
+    "fridoSponsoredSlot": 1,
+    "fridoBadge": "Amazon's Choice",
+    "fridoAsin": "B0DHS3HGCG",
+    "fridoUrl": "https://www.amazon.in/dp/B0DHS3HGCG",
+    "resultCount": 59
+   },
+   "flipkart": {
+    "fetchOk": true,
+    "results": [
+     {
+      "pos": 1,
+      "title": "SleepyHug 2 inch (5.08 cm) Queen Size Foam Breathable Mattress Topper",
+      "brand": "SleepyHug",
+      "price": null,
+      "rating": 4.3,
+      "ratings": 62,
+      "isFrido": false
+     },
+     {
+      "pos": 2,
+      "title": "AVI 2 inch (5.08 cm) Queen Size Poly Fiber Breathable Mattress Topper",
+      "brand": "AVI",
+      "price": null,
+      "rating": 3.9,
+      "ratings": 2825,
+      "isFrido": false
+     },
+     {
+      "pos": 3,
+      "title": "RRC King Size Microfibre Breathable, Stretchable, Waterproof Mattress Topper",
+      "brand": "RRC",
+      "price": null,
+      "rating": 4.2,
+      "ratings": 1978,
+      "isFrido": false
+     },
+     {
+      "pos": 4,
+      "title": "WELLGIVER 2 inch (5.08 cm) Queen Size Memory Foam Breathable Mattress Topper",
+      "brand": "WELLGIVER",
+      "price": null,
+      "rating": 5,
+      "ratings": 10,
+      "isFrido": false
+     },
+     {
+      "pos": 5,
+      "title": "LINENWALAS 3 inch (7.62 cm) King Size Microfibre Breathable Mattress Topper",
+      "brand": "LINENWALAS",
+      "price": null,
+      "rating": 4.3,
+      "ratings": 18,
+      "isFrido": false
+     },
+     {
+      "pos": 6,
+      "title": "Livpure Smart 4 inch (10.16 cm) Single Size Memory Foam Waterproof Mattress Topper",
+      "brand": "Livpure Smart",
+      "price": null,
+      "rating": 0,
+      "ratings": 0,
+      "isFrido": false
+     },
+     {
+      "pos": 7,
+      "title": "WELLGIVER 2 inch (5.08 cm) King Size Memory Foam Breathable Mattress Topper",
+      "brand": "WELLGIVER",
+      "price": null,
+      "rating": 5,
+      "ratings": 10,
+      "isFrido": false
+     },
+     {
+      "pos": 8,
+      "title": "Aeronix 2 inch (5.08 cm) Double Size Latex Breathable Mattress Topper",
+      "brand": "Aeronix",
+      "price": null,
+      "rating": 3.2,
+      "ratings": 36,
+      "isFrido": false
+     },
+     {
+      "pos": 9,
+      "title": "Shreewari Single Size Plain Waterproof Mattress Topper",
+      "brand": "Shreewari",
+      "price": null,
+      "rating": 0,
+      "ratings": 0,
+      "isFrido": false
+     }
+    ],
+    "fridoRank": null,
+    "fridoUrl": "https://www.flipkart.com/search?q=Mattress%20Topper"
+   },
+   "status": "listed",
+   "capturedAt": "2026-07-08"
   }
  ]
 }

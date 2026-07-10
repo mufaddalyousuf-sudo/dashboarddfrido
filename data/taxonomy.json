@@ -200,59 +200,59 @@
    "datasets": [
     {
      "id": "pillows-ultimate-deep-sleep-pillow",
-     "keyword": "Frido Ultimate Deep Sleep Pillow",
+     "keyword": "Deep Sleep Pillow",
      "primary": true
     },
     {
      "id": "pillows-ultimate-cozy-pillow",
-     "keyword": "Frido Ultimate Cozy Pillow"
+     "keyword": "Cozy Pillow"
     },
     {
      "id": "pillows-ultimate-neck-contour-cervical-plus-pillow",
-     "keyword": "Frido Ultimate Neck Contour Cervical Plus Pillow"
+     "keyword": "Neck Contour Cervical Plus Pillow"
     },
     {
      "id": "pillows-ultra-slim-deep-sleep-pillow",
-     "keyword": "Frido Ultra Slim Deep Sleep Pillow"
+     "keyword": "Ultra Slim Deep Sleep Pillow"
     },
     {
      "id": "pillows-cervical-butterfly-pillow",
-     "keyword": "Frido Cervical Butterfly Pillow"
+     "keyword": "Cervical Butterfly Pillow"
     },
     {
      "id": "pillows-latex-pillow",
-     "keyword": "Frido Latex Pillow"
+     "keyword": "Latex Pillow"
     },
     {
      "id": "pillows-crescent-adjustable-pillow",
-     "keyword": "Frido Crescent Adjustable Pillow"
+     "keyword": "Crescent Adjustable Pillow"
     },
     {
      "id": "pillows-cuddle-sleep-pillow",
-     "keyword": "Frido Cuddle Sleep Pillow"
+     "keyword": "Cuddle Sleep Pillow"
     },
     {
      "id": "pillows-ultimate-neck-contour-cervical-pillow",
-     "keyword": "Frido Ultimate Neck Contour Cervical Pillow"
+     "keyword": "Neck Contour Cervical Pillow"
     },
     {
      "id": "pillows-ultimate-cozy-classic-pillow",
-     "keyword": "Frido Ultimate Cozy Classic Pillow"
+     "keyword": "Cozy Pillow"
     },
     {
      "id": "pillows-deep-sleep-pillow-cover",
-     "keyword": "Frido Deep Sleep Pillow Cover"
+     "keyword": "Deep Sleep Pillow Cover"
     },
     {
      "id": "pillows-latex-pillow-cover",
-     "keyword": "Frido Latex Pillow Cover"
+     "keyword": "Latex Pillow Cover"
     },
     {
      "id": "pillows-ortho-memory-foam-pillow",
-     "keyword": "Frido Ortho Memory Foam Pillow"
+     "keyword": "Ortho Memory Foam Pillow"
     }
    ],
-   "skuSource": "frido-product-catalog.json (full base-SKU research, 2026-07-08)"
+   "skuSource": "frido-product-catalog.json searchKeyword (generic, brand-stripped), 2026-07-08"
   },
   {
    "id": "mattress-topper-protector",
