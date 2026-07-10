@@ -65,5 +65,10 @@
   "Specific Uses For Product": "Full Body Support"
  },
  "capturedAt": "2026-07-10",
- "fetchOk": true
+ "fetchOk": true,
+ "hasAplusContent": false,
+ "hasCoupon": false,
+ "bulletCount": 5,
+ "titleLength": 199,
+ "badge": null
 }

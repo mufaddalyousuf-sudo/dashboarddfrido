@@ -61,5 +61,10 @@
   "Fit Type": "regular"
  },
  "capturedAt": "2026-07-10",
- "fetchOk": true
+ "fetchOk": true,
+ "hasAplusContent": true,
+ "hasCoupon": false,
+ "bulletCount": 0,
+ "titleLength": 33,
+ "badge": null
 }

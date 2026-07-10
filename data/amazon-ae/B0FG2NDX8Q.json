@@ -56,5 +56,10 @@
   "Pattern": "Solid"
  },
  "capturedAt": "2026-07-10",
- "fetchOk": true
+ "fetchOk": true,
+ "hasAplusContent": false,
+ "hasCoupon": false,
+ "bulletCount": 5,
+ "titleLength": 145,
+ "badge": null
 }

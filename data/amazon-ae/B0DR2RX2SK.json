@@ -65,5 +65,10 @@
   "Required Assembly": "Yes"
  },
  "capturedAt": "2026-07-10",
- "fetchOk": true
+ "fetchOk": true,
+ "hasAplusContent": false,
+ "hasCoupon": false,
+ "bulletCount": 5,
+ "titleLength": 190,
+ "badge": null
 }

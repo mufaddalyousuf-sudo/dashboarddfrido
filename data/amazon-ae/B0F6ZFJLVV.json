@@ -61,5 +61,10 @@
   "Recommended Uses For Product": "Sitting"
  },
  "capturedAt": "2026-07-10",
- "fetchOk": true
+ "fetchOk": true,
+ "hasAplusContent": false,
+ "hasCoupon": false,
+ "bulletCount": 5,
+ "titleLength": 186,
+ "badge": null
 }

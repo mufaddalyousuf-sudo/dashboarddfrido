@@ -51,5 +51,10 @@
   "Material": "Air Mesh Fabric"
  },
  "capturedAt": "2026-07-10",
- "fetchOk": true
+ "fetchOk": true,
+ "hasAplusContent": true,
+ "hasCoupon": false,
+ "bulletCount": 3,
+ "titleLength": 198,
+ "badge": null
 }

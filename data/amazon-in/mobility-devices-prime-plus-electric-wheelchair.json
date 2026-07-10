@@ -1,67 +1,59 @@
 {
  "category": "mobility-devices-prime-plus-electric-wheelchair",
  "marketplace": "amazon-in",
- "keyword": "Frido Prime Plus Electric Wheelchair",
+ "keyword": "Electric Wheelchair",
+ "brandKeyword": "Frido Prime Plus Electric Wheelchair",
  "capturedAt": "2026-07-08",
- "method": "Live scrape amazon.in search page 1, query = exact SKU name (brand-qualified)",
+ "method": "Live scrape amazon.in search page 1, query = generic product keyword (brand + Frido product-line/marketing words stripped) — the competitive rank signal, not a brand-qualified existence check",
  "confidence": "High (live snapshot, single keyword)",
- "fridoOrganicRank": 1,
- "fridoSponsoredSlot": 5,
+ "fridoOrganicRank": null,
+ "fridoSponsoredSlot": null,
+ "fridoUrl": null,
  "organic": [
   {
-   "asin": "B0FR25ZBSD",
-   "badge": null,
-   "price": "79,999",
-   "rating": "5.0",
-   "reviews": "1",
-   "title": "Frido Prime Plus Electric Wheelchair with One Battery for Elderly & Disabled | Automatic Foldable Power Wheelchair with 360° Joystick, Up to 15km Range, Portabl",
-   "rank": 1,
-   "isFridoBrand": true
-  },
-  {
-   "asin": "B0DYQ9JGYP",
-   "badge": null,
-   "price": "38,500",
-   "rating": "3.9",
-   "reviews": "14",
-   "title": "Asmofit Zipmax Foldable Electric Wheelchair for Seniors | 360° Joystick Control, Lightweight, Anti-Tipper Wheels, Flip-Up Armrests, Reliable Side Brake, and 24V",
-   "rank": 2
-  },
-  {
-   "asin": "B0FH5QCKM4",
-   "badge": null,
-   "price": "35,999",
-   "rating": "4.2",
-   "reviews": "19",
-   "title": "EverActiv EcoMove | Foldable Electric Wheelchair | 22kg Lightweight Motorized with Joystick Control | Lead-Acid Battery | Portable Travel Chair for Elderly | Di",
-   "rank": 3
-  },
-  {
-   "asin": "B0FRSGZC2P",
-   "badge": "Bestseller",
-   "price": "49,159",
-   "rating": "4.7",
-   "reviews": "5",
-   "title": "KosmoCare PowerFlex Go Electric Wheelchair | Lightweight Foldable Motorized Wheelchair with Trolley Design for Seniors | Aluminium Frame | 100kg Load Capacity |",
-   "rank": 4
-  },
-  {
    "asin": "B0FMYVVLWQ",
-   "badge": null,
+   "badge": "Bestseller",
    "price": "33,999",
    "rating": "3.8",
    "reviews": "6",
    "title": "Foldable Electric Wheelchair by Veayva – 500W Dual Motor | 10Ah Removable Battery | 15 km Range | 100 kg Capacity | Lightweight Alloy Frame | Airline & Travel A",
-   "rank": 5
+   "rank": 1
   },
   {
-   "asin": "B0FRSWPMP7",
-   "badge": "Bestseller",
-   "price": "67,509",
-   "rating": "3.5",
+   "asin": "B0FH5QCKM4",
+   "badge": "Amazon's Choice",
+   "price": "35,999",
+   "rating": "4.2",
+   "reviews": "19",
+   "title": "EverActiv EcoMove | Foldable Electric Wheelchair | 22kg Lightweight Motorized with Joystick Control | Lead-Acid Battery | Portable Travel Chair for Elderly | Di",
+   "rank": 2
+  },
+  {
+   "asin": "B07TK33FY6",
+   "badge": null,
+   "price": "43,499",
+   "rating": "4.4",
+   "reviews": "101",
+   "title": "EVOX Electric Wheel Chair With (24 V 12AH) 12-15 km per Charge, Lithium Ion Battery Specially-abled WC-101",
+   "rank": 3
+  },
+  {
+   "asin": "B0GTZP1VN1",
+   "badge": null,
+   "price": "35,900",
+   "rating": null,
+   "reviews": null,
+   "title": "NEUSTRYD E-Stryd Eco A Electric Wheelchair, Motorized Power Wheelchair with Joystick Control, Foldable, Lightweight, 12-15Kms per Charge",
+   "rank": 4
+  },
+  {
+   "asin": "B0FH7DHSTH",
+   "badge": null,
+   "price": "38,499",
+   "rating": "4.3",
    "reviews": "4",
-   "title": "KosmoCare PowerFlex Heavy Duty Pro Electric Wheelchair| Foldable Motorized Wheelchair with Adjustable Reclining Backrest| Compact Long-Lasting Battery| Portable",
-   "rank": 6
+   "title": "Asmofit Zipmax Foldable Electric Wheelchair for Seniors | 360° Joystick Control, Lightweight, Anti-Tipper Wheels, Flip-Up Armrests, Reliable Side Brake, and 24V",
+   "rank": 5
   },
   {
    "asin": "B0F7LW8RZZ",
@@ -70,40 +62,49 @@
    "rating": "5.0",
    "reviews": "4",
    "title": "Power Plus Electric Wheelchair | Foldable | Reclining Backrest & Elevating Footrest | Smart Joystick | Red",
+   "rank": 6
+  },
+  {
+   "asin": "B0BRVDSNCS",
+   "badge": null,
+   "price": "51,499",
+   "rating": "4.5",
+   "reviews": "78",
+   "title": "EVOX ELECTRIC WHEELCHAIR WITH ELEGANT SMALL REAR WHEELS AND ELECTROMAGNETIC BRAKES | WC-105E CE & ISO CERTIFIED",
    "rank": 7
   },
   {
-   "asin": "B0DW8NKRRM",
+   "asin": "B0FTV8VMN9",
    "badge": null,
-   "price": "13,099",
-   "rating": "4.6",
-   "reviews": "121",
-   "title": "Frido Foldable Travel Wheelchair | Lightweight, Portable & Compact Wheel Chair for Travel, Seniors & Patients | Comfortable Foldable Wheel Chair for Short-Dista",
+   "price": "39,999",
+   "rating": "4.0",
+   "reviews": "91",
+   "title": "Vissco ZIP EZYFOLD Electric Wheelchair, Foldable, Lightweight Power Wheelchair for Elderly and Patients, Joystick Controller, 20km Range, 100kg Capacity, Adjust",
    "rank": 8
   },
   {
    "asin": "B0CNWB3FNJ",
    "badge": null,
-   "price": "49,999",
+   "price": "54,809",
    "rating": "4.1",
    "reviews": "37",
    "title": "EverActiv EcoRider Electric Wheelchair Automatic for Adults & Elderly | Air Travel Friendly 165° Reclining Foldable Motorized Wheelchair | Adjustable Headrest &",
    "rank": 9
   },
   {
-   "asin": "B0CN6NTHWC",
-   "badge": "Bestseller",
-   "price": "59,460",
-   "rating": "3.9",
-   "reviews": "27",
-   "title": "KosmoCare PowerFlex Heavy Duty Electric Wheelchair| Foldable Motorized Wheelchair with Adjustable Reclining Backrest| Compact Long-Lasting Battery| Portable Pow",
+   "asin": "B0G3V8272B",
+   "badge": null,
+   "price": "36,400",
+   "rating": null,
+   "reviews": null,
+   "title": "Light Weight Steel Electric Wheelchair G1F(30KG)",
    "rank": 10
   }
  ],
  "sponsored": [
   {
    "asin": "B0FH5QCKM4",
-   "badge": null,
+   "badge": "Amazon's Choice",
    "price": "35,999",
    "rating": "4.2",
    "reviews": "19",
@@ -111,85 +112,84 @@
    "slot": 1
   },
   {
-   "asin": "B0CNCM9JN1",
-   "badge": null,
-   "price": "78,999",
-   "rating": "4.7",
-   "reviews": "4",
-   "title": "Everactiv EcoPower Heavy Duty Electric Wheelchair | Lithium Ion Battery | Air Travel Friendly | Foldable & Portable Motorized Wheelchair | Comes With Remote for",
-   "slot": 2
-  },
-  {
    "asin": "B0CNWB3FNJ",
    "badge": null,
-   "price": "49,999",
+   "price": "54,809",
    "rating": "4.1",
    "reviews": "37",
    "title": "EverActiv EcoRider Electric Wheelchair Automatic for Adults & Elderly | Air Travel Friendly 165° Reclining Foldable Motorized Wheelchair | Adjustable Headrest &",
+   "slot": 2
+  },
+  {
+   "asin": "B07TK33FY6",
+   "badge": null,
+   "price": "43,499",
+   "rating": "4.4",
+   "reviews": "101",
+   "title": "EVOX Electric Wheel Chair With (24 V 12AH) 12-15 km per Charge, Lithium Ion Battery Specially-abled WC-101",
    "slot": 3
   },
   {
-   "asin": "B0CN6K49V8",
+   "asin": "B0GXPK9JG7",
    "badge": null,
-   "price": "6,799",
-   "rating": "3.5",
-   "reviews": "13",
-   "title": "Everactiv Everyday Economy Foldable Wheelchair with Safety Seat belt & Extra Soft Cushions, Weight Bearing Capacity 120 kg, Sturdy Frame and Easy Foldable Mecha",
+   "price": "74,900",
+   "rating": null,
+   "reviews": null,
+   "title": "NEUSTRYD E-STRYD ULTRA Foldable Electric Wheelchair | Air Travel Compliant Lithium Ion Battery |12-15 Kms per charge | 150 Kg Calacity | Aviation Aluminium Allo",
    "slot": 4
   },
   {
-   "asin": "B0FBK2NSFJ",
-   "badge": "Amazon's Choice",
-   "price": "15,999",
-   "rating": "4.6",
-   "reviews": "53",
-   "title": "Frido Foldable Travel Plus Wheelchair | Lightweight, Portable & Compact Wheelchair for Travel, Seniors & Patients | Comfortable Foldable Wheel Chair for Short-D",
-   "slot": 5,
-   "isFridoBrand": true
+   "asin": "B0FRSGZC2P",
+   "badge": null,
+   "price": "49,159",
+   "rating": "4.7",
+   "reviews": "5",
+   "title": "KosmoCare PowerFlex Go Electric Wheelchair | Lightweight Foldable Motorized Wheelchair with Trolley Design for Seniors | Aluminium Frame | 100kg Load Capacity |",
+   "slot": 5
   },
   {
-   "asin": "B077KTZHYC",
+   "asin": "B0DGQQFDPD",
    "badge": null,
-   "price": "78,657",
-   "rating": "4.1",
-   "reviews": "81",
-   "title": "Vissco Zip Lite Premium Electric Wheelchair, Foldable, Lightweight Power Wheelchair for Elderly, EXIDE Battery, 10-15Km Range, 100kg Capacity, Thick Cushion, Co",
+   "price": "47,999",
+   "rating": "4.5",
+   "reviews": "78",
+   "title": "EVOX WC-105E Electric Wheelchair with 24V 10Ah Lithium-Ion Battery, Foldable Mobility Chair for Specially-Abled Users, 12–15 km Range, Electromagnetic Brakes",
    "slot": 6
   },
   {
-   "asin": "B0D8Q5W2VV",
+   "asin": "B0GTZP1VN1",
    "badge": null,
-   "price": "4,449",
-   "rating": "3.8",
-   "reviews": "321",
-   "title": "Easycare Foldable Wheelchair for Old People and Patient, Suitable for Indoor & Travel-Friendly with Adjustable & Comfort Seat Belt with Footrests, Wheel Chair f",
+   "price": "35,900",
+   "rating": null,
+   "reviews": null,
+   "title": "NEUSTRYD E-Stryd Eco A Electric Wheelchair, Motorized Power Wheelchair with Joystick Control, Foldable, Lightweight, 12-15Kms per Charge",
    "slot": 7
   },
   {
-   "asin": "B0GDRH33V7",
+   "asin": "B0GXP75MJ8",
    "badge": null,
-   "price": "7,200",
-   "rating": "4.1",
-   "reviews": "506",
-   "title": "VMS Careline Airlite Lightweight Foldable Travel Wheelchair | Portable Transit Wheelchair for Elderly & Patients | 9.8kg Steel Frame | 12\" Honeycomb Wheels | At",
+   "price": "84,900",
+   "rating": null,
+   "reviews": null,
+   "title": "NEUSTRYD E-STRYD ELITE Foldable Electric Wheelchair | Reclining with Headrest | Lithium Ion Battery |12-15Kms per charge | 150Kg Capacity | Air Travel Compliant",
    "slot": 8
   },
   {
-   "asin": "B0D7SJXCDB",
-   "badge": "Bestseller",
-   "price": "5,760",
-   "rating": "4.0",
-   "reviews": "81",
-   "title": "KosmoCare EcoGlide Premium Imported Lightweight Transporter Wheelchair | Travel Wheelchair with Handbrakes | Portable Folding | Red",
+   "asin": "B0CN6NTHWC",
+   "badge": null,
+   "price": "59,460",
+   "rating": "3.9",
+   "reviews": "27",
+   "title": "KosmoCare PowerFlex Heavy Duty Electric Wheelchair| Foldable Motorized Wheelchair with Adjustable Reclining Backrest| Compact Long-Lasting Battery| Portable Pow",
    "slot": 9
   },
   {
-   "asin": "B0DYQ9JGYP",
+   "asin": "B0GX2C7BR3",
    "badge": null,
-   "price": "38,500",
-   "rating": "3.9",
-   "reviews": "14",
-   "title": "Asmofit Zipmax Foldable Electric Wheelchair for Seniors | 360° Joystick Control, Lightweight, Anti-Tipper Wheels, Flip-Up Armrests, Reliable Side Brake, and 24V",
+   "price": "49,900",
+   "rating": null,
+   "reviews": null,
+   "title": "NEUSTRYD E-Stryd Pro foldable Electric Wheelchair, Elliptical Frame, Lithium Ion Battery,12-15 Kms per charge, 20 inch Wide Seat, Air Travel Compliant",
    "slot": 10
   }
  ],

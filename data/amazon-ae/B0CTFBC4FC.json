@@ -54,5 +54,10 @@
   "ASIN": "B0CTFBC4FC"
  },
  "capturedAt": "2026-07-10",
- "fetchOk": true
+ "fetchOk": true,
+ "hasAplusContent": true,
+ "hasCoupon": false,
+ "bulletCount": 3,
+ "titleLength": 149,
+ "badge": null
 }

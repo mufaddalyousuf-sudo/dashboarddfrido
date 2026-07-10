@@ -700,23 +700,23 @@
    "datasets": [
     {
      "id": "mobility-devices-foldable-travel-wheelchair",
-     "keyword": "Frido Foldable Travel Wheelchair",
+     "keyword": "Foldable Travel Wheelchair",
      "primary": true
     },
     {
      "id": "mobility-devices-foldable-travel-plus-wheelchair",
-     "keyword": "Frido Foldable Travel Plus Wheelchair"
+     "keyword": "Foldable Travel Plus Wheelchair"
     },
     {
      "id": "mobility-devices-2000-wheelchair",
-     "keyword": "Frido 2000 Wheelchair"
+     "keyword": "2000 Wheelchair"
     },
     {
      "id": "mobility-devices-prime-plus-electric-wheelchair",
-     "keyword": "Frido Prime Plus Electric Wheelchair"
+     "keyword": "Electric Wheelchair"
     }
    ],
-   "skuSource": "frido-product-catalog.json (full base-SKU research, 2026-07-08)"
+   "skuSource": "frido-product-catalog.json searchKeyword (generic, brand-stripped), 2026-07-08"
   },
   {
    "id": "chairs",

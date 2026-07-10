@@ -62,5 +62,10 @@
   "Fit Type": "athletic fit"
  },
  "capturedAt": "2026-07-10",
- "fetchOk": true
+ "fetchOk": true,
+ "hasAplusContent": true,
+ "hasCoupon": false,
+ "bulletCount": 0,
+ "titleLength": 153,
+ "badge": null
 }

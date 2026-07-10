@@ -1,32 +1,37 @@
 {
  "category": "mobility-devices-2000-wheelchair",
  "marketplace": "flipkart",
- "keyword": "Frido 2000 Wheelchair",
+ "keyword": "2000 Wheelchair",
+ "brandKeyword": "Frido 2000 Wheelchair",
  "capturedAt": "2026-07-08",
- "method": "Live scrape flipkart.com mobile search page 1 (__INITIAL_STATE__), query = exact SKU name",
+ "method": "Live scrape flipkart.com mobile search page 1 (__INITIAL_STATE__), query = generic product keyword",
  "confidence": "Medium-High (live; sponsored flags not exposed on mobile)",
  "fridoRank": null,
  "fridoPresent": false,
+ "fridoUrl": "https://www.flipkart.com/search?q=2000%20Wheelchair",
  "results": [
   {
    "pos": 1,
    "title": "Entros KL875 Premium Aluminum, Foldable Design, Ideal for Patients & Handicaps Manual Wheelchair",
+   "brand": "Entros",
    "price": null,
    "rating": 4.3,
-   "ratings": 1467,
+   "ratings": 1471,
    "isFrido": false
   },
   {
    "pos": 2,
    "title": "Entros SC8005A Manual Wheelchair",
+   "brand": "Entros",
    "price": null,
    "rating": 4.1,
-   "ratings": 692,
+   "ratings": 695,
    "isFrido": false
   },
   {
    "pos": 3,
    "title": "Entros SC8005S Manual Wheelchair",
+   "brand": "Entros",
    "price": null,
    "rating": 4.1,
    "ratings": 665,
@@ -35,14 +40,16 @@
   {
    "pos": 4,
    "title": "Entros Liberty Foldable for Adults & Patients Manual Wheelchair",
+   "brand": "Entros",
    "price": null,
    "rating": 4.2,
-   "ratings": 192,
+   "ratings": 194,
    "isFrido": false
   },
   {
    "pos": 5,
    "title": "Entros SC5025C Manual Wheelchair",
+   "brand": "Entros",
    "price": null,
    "rating": 2.3,
    "ratings": 3,
@@ -50,42 +57,38 @@
   },
   {
    "pos": 6,
+   "title": "HealthEmate Magwheel Foldable with SEAT and Leg Belt Manual Wheelchair",
+   "brand": "HealthEmate",
+   "price": null,
+   "rating": 4.3,
+   "ratings": 1825,
+   "isFrido": false
+  },
+  {
+   "pos": 7,
    "title": "HealthEmate UltraLight Ryder 1 Pro IndoorOutdoor Stylish Manual Wheelchair",
+   "brand": "HealthEmate",
    "price": null,
    "rating": 4.3,
    "ratings": 71,
    "isFrido": false
   },
   {
-   "pos": 7,
-   "title": "HealthEmate Magwheel Foldable with SEAT and Leg Belt Manual Wheelchair",
-   "price": null,
-   "rating": 4.3,
-   "ratings": 1823,
-   "isFrido": false
-  },
-  {
    "pos": 8,
-   "title": "HealthEmate Lifemove Solid Magwheel with self brake 100 kg capacity Manual Wheelchair",
+   "title": "HealthEmate MagDualSupport Manual Wheelchair",
+   "brand": "HealthEmate",
    "price": null,
    "rating": 4.3,
-   "ratings": 138,
+   "ratings": 5087,
    "isFrido": false
   },
   {
    "pos": 9,
-   "title": "HealthEmate MagDualSupport Manual Wheelchair",
-   "price": null,
-   "rating": 4.3,
-   "ratings": 5086,
-   "isFrido": false
-  },
-  {
-   "pos": 10,
-   "title": "Karma Rainbow5 Manual Wheelchair",
+   "title": "VMS Careline Select Plus Foldable Manual Wheelchair",
+   "brand": "VMS Careline",
    "price": null,
    "rating": 4.1,
-   "ratings": 191,
+   "ratings": 345,
    "isFrido": false
   }
  ],

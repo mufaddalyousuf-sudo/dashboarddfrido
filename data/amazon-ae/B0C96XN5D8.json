@@ -61,5 +61,10 @@
   "ASIN": "B0C96XN5D8"
  },
  "capturedAt": "2026-07-10",
- "fetchOk": true
+ "fetchOk": true,
+ "hasAplusContent": true,
+ "hasCoupon": false,
+ "bulletCount": 5,
+ "titleLength": 199,
+ "badge": null
 }

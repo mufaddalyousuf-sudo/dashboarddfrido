@@ -76,5 +76,10 @@
   "Platform Height": "3 Millimeters"
  },
  "capturedAt": "2026-07-10",
- "fetchOk": true
+ "fetchOk": true,
+ "hasAplusContent": true,
+ "hasCoupon": false,
+ "bulletCount": 0,
+ "titleLength": 108,
+ "badge": null
 }

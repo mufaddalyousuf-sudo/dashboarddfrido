@@ -66,5 +66,10 @@
   "Specific Uses For Product": "Neck Pain, Sleep Apnea"
  },
  "capturedAt": "2026-07-10",
- "fetchOk": true
+ "fetchOk": true,
+ "hasAplusContent": true,
+ "hasCoupon": false,
+ "bulletCount": 5,
+ "titleLength": 193,
+ "badge": null
 }

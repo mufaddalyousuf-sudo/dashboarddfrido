@@ -1,12 +1,14 @@
 {
  "category": "mobility-devices-2000-wheelchair",
  "marketplace": "amazon-in",
- "keyword": "Frido 2000 Wheelchair",
+ "keyword": "2000 Wheelchair",
+ "brandKeyword": "Frido 2000 Wheelchair",
  "capturedAt": "2026-07-08",
- "method": "Live scrape amazon.in search page 1, query = exact SKU name (brand-qualified)",
+ "method": "Live scrape amazon.in search page 1, query = generic product keyword (brand + Frido product-line/marketing words stripped) — the competitive rank signal, not a brand-qualified existence check",
  "confidence": "High (live snapshot, single keyword)",
  "fridoOrganicRank": 1,
- "fridoSponsoredSlot": 5,
+ "fridoSponsoredSlot": null,
+ "fridoUrl": "https://www.amazon.in/dp/B07T8BDBHT",
  "organic": [
   {
    "asin": "B07T8BDBHT",
@@ -28,31 +30,22 @@
    "rank": 2
   },
   {
-   "asin": "B0DW8NKRRM",
-   "badge": null,
-   "price": "13,099",
-   "rating": "4.6",
-   "reviews": "121",
-   "title": "Frido Foldable Travel Wheelchair | Lightweight, Portable & Compact Wheel Chair for Travel, Seniors & Patients | Comfortable Foldable Wheel Chair for Short-Dista",
+   "asin": "B0CG9M3GG8",
+   "badge": "Bestseller",
+   "price": "4,449",
+   "rating": "4.3",
+   "reviews": "245",
+   "title": "Venante Wheelchair for Patients, Old People, Adults With Safety Belt, Foldable, Lightweight, Epoxy Coated, Weight Capacity 100 Kg, Wheel Chairs for Old People",
    "rank": 3
-  },
-  {
-   "asin": "B09HTVYRQ8",
-   "badge": null,
-   "price": "6,469",
-   "rating": "4.1",
-   "reviews": "376",
-   "title": "ARCATRON by Frido | FSS100 Foldable Wheelchair, Made in India, Lifetime Spare Parts Support Available - with Sturdy X-frame Easy Folding Mechanism, Chrome Plate",
-   "rank": 4
   },
   {
    "asin": "B0D9DGWB83",
    "badge": null,
    "price": "5,899",
    "rating": "3.4",
-   "reviews": "234",
+   "reviews": "235",
    "title": "Easycare Commode Wheelchair for Old People and Patient, Suitable for Indoor & Travel-Friendly with Adjustable & Comfort Seat Belt with Footrests, Wheel Chair fo",
-   "rank": 5
+   "rank": 4
   },
   {
    "asin": "B0D8Q5W2VV",
@@ -61,25 +54,25 @@
    "rating": "3.8",
    "reviews": "321",
    "title": "Easycare Foldable Wheelchair for Old People and Patient, Suitable for Indoor & Travel-Friendly with Adjustable & Comfort Seat Belt with Footrests, Wheel Chair f",
-   "rank": 6
-  },
-  {
-   "asin": "B0D6Y6XBZH",
-   "badge": null,
-   "price": "5,499",
-   "rating": "4.1",
-   "reviews": "18",
-   "title": "Everactiv Everyday Economy with Attendant Brakes | Foldable Wheelchair with Safety Seat belt | Weight Bearing Capacity 120 kg | Sturdy Frame and Easy Foldable M",
-   "rank": 7
+   "rank": 5
   },
   {
    "asin": "B0G5348LCC",
    "badge": null,
-   "price": "4,649",
+   "price": "4,184",
    "rating": "5.0",
    "reviews": "1",
    "title": "Amazon Basics Foldable Wheelchair | Adjustable Armrests & Footrests | Comfortable Cushioned Seat | Steel Frame | Easy to Manoeuvre for Indoor & Outdoor Use | El",
-   "rank": 8
+   "rank": 6
+  },
+  {
+   "asin": "B0CF63YJL2",
+   "badge": null,
+   "price": "4,439",
+   "rating": "4.3",
+   "reviews": "487",
+   "title": "EverActiv Economy Foldable Manual Wheelchair for Old People & Patients | Heavy-Duty Carbon Steel Frame, 120 kg Capacity | 19-inch Wide Padded Seat, Safety Belt,",
+   "rank": 7
   },
   {
    "asin": "B0CBC7HGFX",
@@ -88,26 +81,35 @@
    "rating": "4.2",
    "reviews": "86",
    "title": "Veayva Portable Folding Wheelchair double fold Backrest and 12-Inch Wheels - Lightweight and Compact for Easy Transport With Cushioned Seat (LIGHT WEIGHT)",
+   "rank": 8
+  },
+  {
+   "asin": "B0C4XYGVPD",
+   "badge": null,
+   "price": "6,849",
+   "rating": "4.5",
+   "reviews": "71",
+   "title": "Entros Foldable Premium Mag wheel Commode Wheelchair with Attendant Brake | Detachable Cushion Seat & Toilet Bucket | Ideal Wheelchair for Old People & Patients",
    "rank": 9
   },
   {
-   "asin": "B073PD7KF3",
+   "asin": "B0FC2ZLLTB",
    "badge": null,
-   "price": "4,299",
-   "rating": "4.0",
-   "reviews": "629",
-   "title": "Veayva Folding mag wheel chair with dual break and sharp black colour",
+   "price": "4,649",
+   "rating": "3.7",
+   "reviews": "75",
+   "title": "EASYCARE® Foldable Wheelchair for Old Age & Patients with Hand and Attendant Brakes, Travel-Friendly, Lightweight, Indoor Use, Adjustable Seat Belt & Footrest, ",
    "rank": 10
   }
  ],
  "sponsored": [
   {
-   "asin": "B0CN6J68YT",
+   "asin": "B07PFLKPKH",
    "badge": null,
-   "price": "6,799",
-   "rating": "4.2",
-   "reviews": "15",
-   "title": "Everactiv Everyday Economy Foldable Wheelchair with Safety Seat belt & Extra Soft Cushions, Weight Bearing Capacity 120 kg, Sturdy Frame and Easy Foldable Mecha",
+   "price": "5,699",
+   "rating": "4.1",
+   "reviews": "507",
+   "title": "VMS Careline Comfort Foldable Wheelchair for Elderly & Adults | Lightweight Manual Transport Wheelchair | Heavy-Duty Steel Frame | Safety Belt, Footrests & Atte",
    "slot": 1
   },
   {
@@ -120,50 +122,31 @@
    "slot": 2
   },
   {
-   "asin": "B0D8Q5W2VV",
+   "asin": "B07GBYYYH1",
    "badge": null,
-   "price": "4,449",
-   "rating": "3.8",
-   "reviews": "321",
-   "title": "Easycare Foldable Wheelchair for Old People and Patient, Suitable for Indoor & Travel-Friendly with Adjustable & Comfort Seat Belt with Footrests, Wheel Chair f",
+   "price": "19,780",
+   "rating": "4.0",
+   "reviews": "109",
+   "title": "KosmoCare Tranz Heavy Duty Transport Wheelchair",
    "slot": 3
   },
   {
-   "asin": "B0C4XYGVPD",
+   "asin": "B0G5348LCC",
    "badge": null,
-   "price": "6,849",
-   "rating": "4.5",
-   "reviews": "71",
-   "title": "Entros Foldable Premium Mag wheel Commode Wheelchair with Attendant Brake | Detachable Cushion Seat & Toilet Bucket | Ideal Wheelchair for Old People & Patients",
+   "price": "4,184",
+   "rating": "5.0",
+   "reviews": "1",
+   "title": "Amazon Basics Foldable Wheelchair | Adjustable Armrests & Footrests | Comfortable Cushioned Seat | Steel Frame | Easy to Manoeuvre for Indoor & Outdoor Use | El",
    "slot": 4
   },
   {
-   "asin": "B0B1QV2DQS",
-   "badge": "Bestseller",
-   "price": "7,469",
-   "rating": "4.2",
-   "reviews": "327",
-   "title": "ARCATRON MOBILITY Reinventing Assisted Living By Frido | FSC101 2 In 1 Foldable Wheelchair For Commode Use-Made In India,Lifetime Spare Parts Support-Easy Foldi",
-   "slot": 5,
-   "isFridoBrand": true
-  },
-  {
-   "asin": "B0GDRH33V7",
+   "asin": "B0DGQQFDPD",
    "badge": null,
-   "price": "7,200",
-   "rating": "4.1",
-   "reviews": "506",
-   "title": "VMS Careline Airlite Lightweight Foldable Travel Wheelchair | Portable Transit Wheelchair for Elderly & Patients | 9.8kg Steel Frame | 12\" Honeycomb Wheels | At",
-   "slot": 6
-  },
-  {
-   "asin": "B0BLVMQXBX",
-   "badge": null,
-   "price": "6,149",
-   "rating": "3.7",
-   "reviews": "60",
-   "title": "Entros 2-In-1 Foldable Commode Wheelchair with Premium Mag wheel & Detachable Cushion Seat | Manual Wheelchair for Old People & Patients, Matte Black -8005A",
-   "slot": 7
+   "price": "47,999",
+   "rating": "4.5",
+   "reviews": "78",
+   "title": "EVOX WC-105E Electric Wheelchair with 24V 10Ah Lithium-Ion Battery, Foldable Mobility Chair for Specially-Abled Users, 12–15 km Range, Electromagnetic Brakes",
+   "slot": 5
   },
   {
    "asin": "B07XLW5PC4",
@@ -172,24 +155,42 @@
    "rating": "4.1",
    "reviews": "293",
    "title": "KosmoCare Dura Black Spoke Wheelchair",
+   "slot": 6
+  },
+  {
+   "asin": "B076CMJCQ3",
+   "badge": null,
+   "price": "15,851",
+   "rating": "4.1",
+   "reviews": "117",
+   "title": "KosmoCare Elegant Plus Premium Lightweight Foldable Aluminium Wheelchair - Color Silver",
+   "slot": 7
+  },
+  {
+   "asin": "B07B6MB9NW",
+   "badge": null,
+   "price": "25,900",
+   "rating": "4.0",
+   "reviews": "17",
+   "title": "KosmoCare Light weight Folding Active Wheelchair Series I - Blue -Seat width 36 cms",
    "slot": 8
   },
   {
-   "asin": "B0DK3L8NWH",
+   "asin": "B07H1GHFCG",
    "badge": null,
-   "price": "7,384",
-   "rating": "3.9",
-   "reviews": "63",
-   "title": "Venante Wheelchair with Commode, 24\" Non-Pneumatic Rear Wheels, Foldable, Lightweight, Calf Support, Flip-Up Footrest, for Elderly and Patients, Weight Capacity",
+   "price": "14,000",
+   "rating": "4.3",
+   "reviews": "225",
+   "title": "KosmoCare Elegant Breeze Premium Imported Ultra Lightweight Wheelchair With Seat Belt - Crest Series - Light Blue",
    "slot": 9
   },
   {
-   "asin": "B071VZDJ9C",
+   "asin": "B00HYABP94",
    "badge": null,
-   "price": "17,920",
-   "rating": "3.8",
-   "reviews": "28",
-   "title": "KosmoCare Aluminium Quick Release Self Propelled Wheelchair (Black)",
+   "price": "12,779",
+   "rating": "3.3",
+   "reviews": "44",
+   "title": "KosmoCare Foldable Wheelchair (Deluxe)",
    "slot": 10
   }
  ],
