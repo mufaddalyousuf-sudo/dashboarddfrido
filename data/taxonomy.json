@@ -490,19 +490,19 @@
    "datasets": [
     {
      "id": "masks-ultimate-pro-face-mask",
-     "keyword": "Frido Ultimate Pro Face Mask",
+     "keyword": "Face Mask",
      "primary": true
     },
     {
      "id": "masks-silver-plus-face-mask",
-     "keyword": "Frido Silver Plus Face Mask"
+     "keyword": "Silver Plus Face Mask"
     },
     {
      "id": "masks-ultimate-face-mask",
-     "keyword": "Frido Ultimate Face Mask"
+     "keyword": "Face Mask"
     }
    ],
-   "skuSource": "frido-product-catalog.json (full base-SKU research, 2026-07-08)"
+   "skuSource": "frido-product-catalog.json searchKeyword (generic, brand-stripped), 2026-07-08"
   },
   {
    "id": "socks",

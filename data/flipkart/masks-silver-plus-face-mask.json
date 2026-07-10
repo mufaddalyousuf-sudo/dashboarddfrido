@@ -1,104 +1,136 @@
 {
  "category": "masks-silver-plus-face-mask",
  "marketplace": "flipkart",
- "keyword": "Frido Silver Plus Face Mask",
+ "keyword": "Silver Plus Face Mask",
+ "brandKeyword": "Frido Silver Plus Face Mask",
  "capturedAt": "2026-07-08",
- "method": "Live scrape flipkart.com mobile search page 1 (__INITIAL_STATE__), query = exact SKU name",
+ "method": "Live scrape flipkart.com mobile search page 1 (__INITIAL_STATE__), query = generic product keyword",
  "confidence": "Medium-High (live; sponsored flags not exposed on mobile)",
- "fridoRank": 9,
- "fridoPresent": true,
+ "fridoRank": null,
+ "fridoPresent": false,
+ "fridoUrl": "https://www.flipkart.com/search?q=Silver%20Plus%20Face%20Mask",
  "results": [
   {
    "pos": 1,
-   "title": "Corosafe 6 Pcs Cloth Mask for Men & Women Washable, Reusable Cloth Mask With Melt Blown Fabric Layer",
+   "title": "Elecious Multani Mitti powder for Face Pack | Fuller's Earth , Bentonite Clay",
+   "brand": "Elecious",
    "price": null,
-   "rating": 4.3,
-   "ratings": 408,
+   "rating": 4.2,
+   "ratings": 10253,
    "isFrido": false
   },
   {
    "pos": 2,
-   "title": "Corosafe Pollution Masks With Adjustable Earloop Mask for Men & Women Cloth Mask With Melt Blown Fabric Layer",
+   "title": "Elecious Mulethi Powder For Body, Skin, Face and Hair, Skin Whitening | Yashtimadhu Powder, Liquorice Powder for Eating",
+   "brand": "Elecious",
    "price": null,
-   "rating": 4,
-   "ratings": 205,
+   "rating": 4.3,
+   "ratings": 7602,
    "isFrido": false
   },
   {
    "pos": 3,
-   "title": "Corosafe Mask With Nose Clip 3 Layer Face Mask Surgical Mask With Melt Blown Fabric Layer",
+   "title": "Elecious Kasturi Haldi Powder for face (100 grams) | Wild turmeric powder| Kasturi Manjal",
+   "brand": "Elecious",
    "price": null,
-   "rating": 4.2,
-   "ratings": 1036,
+   "rating": 4.3,
+   "ratings": 1283,
    "isFrido": false
   },
   {
    "pos": 4,
-   "title": "Corosafe Mask with Nose clip Masks for men Masks for women Anti-Pollution Masks Surgical Mask With Melt Blown Fabric Layer",
+   "title": "Elecious Complete Skin care kit - Contains 6 Products",
+   "brand": "Elecious",
    "price": null,
-   "rating": 4.4,
-   "ratings": 158,
+   "rating": 4.3,
+   "ratings": 26,
    "isFrido": false
   },
   {
    "pos": 5,
-   "title": "Corosafe Kids Mask (7 -13 Years) Pollution Masks with Adjustable Earloop Reusable, Washable Cloth Mask With Melt Blown Fabric Layer",
+   "title": "Elecious Pure Rose Petals Powder for face and skin",
+   "brand": "Elecious",
    "price": null,
    "rating": 4.3,
-   "ratings": 32,
+   "ratings": 135,
    "isFrido": false
   },
   {
    "pos": 6,
-   "title": "Fidelis Healthcare FC004-1008 Full Face Mask CPAP/BiPAP Mask with Headgear, Compatible with CPAP/BPAP Machine",
+   "title": "LQZ UPF 50 Plus Outdoor Face Mask for Women with Adjustable Ties Party Mask",
+   "brand": "LQZ",
    "price": null,
-   "rating": 3.6,
-   "ratings": 187,
+   "rating": 4.6,
+   "ratings": 5,
    "isFrido": false
   },
   {
    "pos": 7,
-   "title": "Fidelis Healthcare Full Face Mask CPAP/BiPAP Mask with Headgear, Compatible with CPAP/BPAP Machine",
-   "price": null,
-   "rating": 3.6,
-   "ratings": 187,
-   "isFrido": false
-  },
-  {
-   "pos": 8,
-   "title": "Fidelis Healthcare FC004-3008 Full Face Mask CPAP/BiPAP Mask with Headgear, Compatible with CPAP/BPAP Machine",
-   "price": null,
-   "rating": 3.6,
-   "ratings": 187,
-   "isFrido": false
-  },
-  {
-   "pos": 9,
-   "title": "Frido Hot & Cold Therapy Cap for Migraine & Headache Relief | 360° Compression Head Support",
-   "price": null,
-   "rating": 4.4,
-   "ratings": 41,
-   "isFrido": true
-  },
-  {
-   "pos": 10,
-   "title": "Magnum N95 NIOSH Face Mask, ISI Marked, White N5",
-   "price": null,
-   "rating": 3.5,
-   "ratings": 55,
-   "isFrido": false
-  },
-  {
-   "pos": 11,
-   "title": "h&d craft Alovera Cooling Gel Relaxing face mask Gel Cool face mask(SET OF 1)  Face Shaping Mask",
+   "title": "ABH Silver Face Pack 200g – Radiance-Enhancing Face Mask with Pure Silver Extracts",
+   "brand": "ABH",
    "price": null,
    "rating": 0,
    "ratings": 0,
    "isFrido": false
   },
   {
+   "pos": 8,
+   "title": "ABNExports Silver Leaf Chandi Vark Decorative Showpiece  -  1 cm",
+   "brand": "ABNExports",
+   "price": null,
+   "rating": 0,
+   "ratings": 0,
+   "isFrido": false
+  },
+  {
+   "pos": 9,
+   "title": "PEARLISH Vendetta Face Mask Premium Quality Keychain Y-1 Key Chain",
+   "brand": "PEARLISH",
+   "price": null,
+   "rating": 0,
+   "ratings": 0,
+   "isFrido": false
+  },
+  {
+   "pos": 10,
+   "title": "O3+ Purifying Sulphur Cooling Facial Mask DeTan Face Pack for Acne",
+   "brand": "O3+",
+   "price": null,
+   "rating": 4.2,
+   "ratings": 214,
+   "isFrido": false
+  },
+  {
+   "pos": 11,
+   "title": "o3 plus Purifying Sulphur Cooling Facial Mask DeTan Face Pack for Acne",
+   "brand": "",
+   "price": null,
+   "rating": 3.8,
+   "ratings": 46,
+   "isFrido": false
+  },
+  {
    "pos": 12,
-   "title": "infinity deal FACE-MASK PACK OF TWO)  Face Shaping Mask",
+   "title": "Jashikumi Forehead Wrinkle Lightweight Safe Absorb Quickly Forehead Wrinkle Patches 1",
+   "brand": "Jashikumi",
+   "price": null,
+   "rating": 0,
+   "ratings": 0,
+   "isFrido": false
+  },
+  {
+   "pos": 13,
+   "title": "PEARLISH Vendetta Face Mask Premium Quality Keychain X-1 Key Chain",
+   "brand": "PEARLISH",
+   "price": null,
+   "rating": 0,
+   "ratings": 0,
+   "isFrido": false
+  },
+  {
+   "pos": 14,
+   "title": "Sparkel Youth - Anti-Aging Face Sheet Mask - Pack of 5",
+   "brand": "Sparkel",
    "price": null,
    "rating": 0,
    "ratings": 0,
