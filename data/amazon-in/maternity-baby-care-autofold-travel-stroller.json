@@ -1,102 +1,103 @@
 {
  "category": "maternity-baby-care-autofold-travel-stroller",
  "marketplace": "amazon-in",
- "keyword": "Frido Autofold Travel Stroller",
+ "keyword": "Autofold Travel Stroller",
+ "brandKeyword": "Frido Autofold Travel Stroller",
  "capturedAt": "2026-07-08",
- "method": "Live scrape amazon.in search page 1, query = exact SKU name (brand-qualified)",
+ "method": "Live scrape amazon.in search page 1, query = generic product keyword (brand + Frido product-line/marketing words stripped) — the competitive rank signal, not a brand-qualified existence check",
  "confidence": "High (live snapshot, single keyword)",
- "fridoOrganicRank": 1,
+ "fridoOrganicRank": null,
  "fridoSponsoredSlot": null,
+ "fridoUrl": null,
  "organic": [
-  {
-   "asin": "B0DW8NKRRM",
-   "badge": null,
-   "price": "13,099",
-   "rating": "4.6",
-   "reviews": "121",
-   "title": "Foldable Travel Wheelchair | Lightweight, Portable & Compact Wheel Chair for Travel, Seniors & Patients | Comfortable Foldable Wheel Chair for Short-Distance Mo",
-   "rank": 1,
-   "isFridoBrand": true
-  },
   {
    "asin": "B0DFQB8XJ4",
    "badge": null,
    "price": "7,918",
    "rating": "4.3",
-   "reviews": "346",
-   "title": "Street Smart Ace Auto Fold Stylish Newborn Baby Stroller| Aluminum Frame Pram with One Click Fold |Travel Friendly Cabin Trolley Stroller for 0-3 Years Kids||(B",
+   "reviews": "347",
+   "title": "R for Rabbit Street Smart Ace Auto Fold Stylish Newborn Baby Stroller| Aluminum Frame Pram with One Click Fold |Travel Friendly Cabin Trolley Stroller for 0-3 Y",
+   "rank": 1
+  },
+  {
+   "asin": "B015N4WS0M",
+   "badge": "Bestseller",
+   "price": "3,998",
+   "rating": "4.1",
+   "reviews": "15,257",
+   "title": "LuvLap Sunshine Baby Stroller/Pram for 0 to 3 Years, New Born/Toddler/Kid, 5 Point Safety Harness, Adjustable backrest, 360° Swivel Wheel, Large Storage Basket,",
    "rank": 2
+  },
+  {
+   "asin": "B0GNSR4L4R",
+   "badge": null,
+   "price": "3,298",
+   "rating": "4.0",
+   "reviews": "277",
+   "title": "Baybee Stroller Baby for Boy & Girl 0 to 3 Years | Foldable Strollers with Canopy, Parent Handle, 2-Position Adjustable Seat, 2-Point Safety Belt | Travel Pram ",
+   "rank": 3
+  },
+  {
+   "asin": "B0H2PV3ZXX",
+   "badge": null,
+   "price": "4,227",
+   "rating": "4.2",
+   "reviews": "1,330",
+   "title": "BabyGo Foldable Baby Stroller for Newborn, Infant & Toddler 0–3 Years | Lightweight Travel Pushchair | Safety Harness | Adjustable Recline Backrest | 360° Swive",
+   "rank": 4
+  },
+  {
+   "asin": "B0GTM2GQ5R",
+   "badge": null,
+   "price": "5,850",
+   "rating": "4.2",
+   "reviews": "118",
+   "title": "Infantso RIDE-X Premium Baby Stroller / Pram Auto Fold with 5 Points Safety Harness, Multi Level seat Recline & Spacious Cushioned seat, One-Hand Fold and 360° ",
+   "rank": 5
+  },
+  {
+   "asin": "B0FMYNW6DW",
+   "badge": null,
+   "price": "4,999",
+   "rating": "4.0",
+   "reviews": "18",
+   "title": "Mee Mee Easy Go Baby Stroller for 0–3 Years | Lightweight Foldable Pram | One-Hand Fold & Portable Travel-Friendly Stroller | Pre-Installed Baby Buggy for Newbo",
+   "rank": 6
+  },
+  {
+   "asin": "B0GX6CXQVN",
+   "badge": null,
+   "price": "5,599",
+   "rating": "4.1",
+   "reviews": "592",
+   "title": "StarAndDaisy Foldable Stroller for Baby 0-3 Years Infant & Toddler / Travel Pram for Baby with Adjustable Canopy & Footrest with Lockable Wheels, Multi-Level Re",
+   "rank": 7
   },
   {
    "asin": "B0G658C5FP",
    "badge": null,
-   "price": "4,255",
+   "price": "4,298",
    "rating": "4.4",
    "reviews": "61",
-   "title": "Poppins Neo Baby Stroller/Pram for 0-3 Years Newborn Kid | Foldable Design with 5-Point Safety Harness, Cushioned Seat, Smooth Suspension & Linked Brakes, 360° ",
-   "rank": 3
-  },
-  {
-   "asin": "B0H2ZG9FZ6",
-   "badge": null,
-   "price": "4,227",
-   "rating": "4.2",
-   "reviews": "1,329",
-   "title": "Foldable Baby Stroller for Newborn, Infant & Toddler 0–3 Years | Lightweight Travel Pushchair | Safety Harness | Adjustable Recline Backrest | 360° Swivel Wheel",
-   "rank": 4
-  },
-  {
-   "asin": "B0CVN9H593",
-   "badge": null,
-   "price": "11,185",
-   "rating": "4.4",
-   "reviews": "37",
-   "title": "Street Smart 360 Degree Rotatable Stroller for Newborn Baby| Aluminum Frame Pram with Quick Fold|Premium Travel Friendly Stroller for 0-3 Years Babies|(Pure Bla",
-   "rank": 5
-  },
-  {
-   "asin": "B0GWDHRWT6",
-   "badge": null,
-   "price": "5,599",
-   "rating": "4.1",
-   "reviews": "591",
-   "title": "Foldable Stroller for Baby 0-3 Years Infant & Toddler / Travel Pram for Baby with Adjustable Canopy & Footrest with Lockable Wheels, Multi-Level Recline , Remov",
-   "rank": 6
-  },
-  {
-   "asin": "B0H41M9G8H",
-   "badge": null,
-   "price": "2,999",
-   "rating": null,
-   "reviews": null,
-   "title": "Lightweight Travel Baby Stroller - Compact Fold Design with Large Storage Basket & Multi-Position Recline,Portable Compact Umbrella Stroller for Toddler",
-   "rank": 7
-  },
-  {
-   "asin": "B0BWFH8TQ2",
-   "badge": null,
-   "price": "6,326",
-   "rating": "3.8",
-   "reviews": "62",
-   "title": "Pocket Air Stroller|Portable Travel Friendly Pre Installed Stroller & Pram for Newborn Baby Boys & Girls of Age 0 to 3 Years (Black)",
+   "title": "R for Rabbit Poppins Neo Baby Stroller/Pram for 0-3 Years Newborn Kid | Foldable Design with 5-Point Safety Harness, Cushioned Seat, Smooth Suspension & Linked ",
    "rank": 8
   },
   {
-   "asin": "B0FDL61XRW",
+   "asin": "B0FJG31K2F",
    "badge": null,
-   "price": "3,799",
-   "rating": "4.1",
-   "reviews": "636",
-   "title": "Stroller for Baby Boy & Girl 0 to 3 Years, Foldable Stroller, Compact Pram for Toddler with Reversible Handle, Multi-Recline Seat, 5-Point Safety Harness & Stor",
+   "price": "2,999",
+   "rating": "3.6",
+   "reviews": "13",
+   "title": "Umbo Baby Stroller Pram for 0-3 Years 5 Point Safety Harness,360° Swivel Wheel Stroller (Black)",
    "rank": 9
   },
   {
-   "asin": "B0FN844WC6",
+   "asin": "B0FCRVX41Q",
    "badge": null,
-   "price": "7,099",
-   "rating": "4.1",
-   "reviews": "591",
-   "title": "Foldable Baby Stroller for 0-3 years Infant & Toddler / Travel Pram for Baby with 360° Swivel Lockable Front Wheels , Multi-Level Recline & Adjustable Footrest ",
+   "price": "10,999",
+   "rating": "3.5",
+   "reviews": "17",
+   "title": "Angels and MICE Travel Cruiser Baby Stroller for 2-7 Years |Safety Harness|Lightweight Travel Stroller with Wide Seat, Big Wheels, Compact Fold, High Weight Cap",
    "rank": 10
   }
  ],
@@ -107,26 +108,8 @@
    "price": "3,499",
    "rating": "4.1",
    "reviews": "636",
-   "title": "Stroller for Baby Boy & Girl 0 to 3 Years, Foldable Stroller, Compact Pram for Toddler with Reversible Handle, Multi-Recline Seat, 5-Point Safety Harness & Stor",
+   "title": "StarAndDaisy Stroller for Baby Boy & Girl 0 to 3 Years, Foldable Stroller, Compact Pram for Toddler with Reversible Handle, Multi-Recline Seat, 5-Point Safety H",
    "slot": 1
-  },
-  {
-   "asin": "B0CQP12P6L",
-   "badge": null,
-   "price": "8,908",
-   "rating": "4.3",
-   "reviews": "346",
-   "title": "Street Smart Auto Fold Stylish Newborn Baby Stroller| Aluminum Frame Pram with One Click Fold |Travel Friendly Cabin Trolley Stroller for 0-3 Years ||(Pure Blac",
-   "slot": 2
-  },
-  {
-   "asin": "B0H2PV3ZXX",
-   "badge": null,
-   "price": "4,227",
-   "rating": "4.2",
-   "reviews": "1,329",
-   "title": "Foldable Baby Stroller for Newborn, Infant & Toddler 0–3 Years | Lightweight Travel Pushchair | Safety Harness | Adjustable Recline Backrest | 360° Swivel Wheel",
-   "slot": 3
   },
   {
    "asin": "B0BN281HPD",
@@ -134,43 +117,61 @@
    "price": "6,928",
    "rating": "4.3",
    "reviews": "46",
-   "title": "Pocket Stroller Lite Stroller for Kids | Portable Travel Friendly Pre Installed Baby Trolley Pram for Newborn Boys & Girls of Age 0-3 Years (Black White)",
+   "title": "R for Rabbit Pocket Stroller Lite Stroller for Kids | Portable Travel Friendly Pre Installed Baby Trolley Pram for Newborn Boys & Girls of Age 0-3 Years (Black ",
+   "slot": 2
+  },
+  {
+   "asin": "B0D9HMY8LQ",
+   "badge": null,
+   "price": "3,599",
+   "rating": "4.2",
+   "reviews": "494",
+   "title": "Mee Mee Little Explorer Baby Stroller/Pram for 0–3 Years | Foldable with Reversible Handle | 5-Point Safety Harness | Adjustable 3-Position Recline | 360° Wheel",
+   "slot": 3
+  },
+  {
+   "asin": "B0CQP3HDYC",
+   "badge": null,
+   "price": "8,908",
+   "rating": "4.3",
+   "reviews": "347",
+   "title": "R for Rabbit Street Smart Auto Fold Stylish Newborn Baby Stroller| Aluminum Frame Pram with One Click Fold |Travel Friendly Trolley Stroller for 0-3 Years for B",
    "slot": 4
   },
   {
    "asin": "B0CQP436GH",
    "badge": null,
-   "price": "6,928",
+   "price": "6,998",
    "rating": "4.1",
    "reviews": "186",
-   "title": "Street Smart Nova Stylish Baby Stroller | Pram with Reversible Handle, One Hand Fold Mechanism for 0-3 Years Boy & Girl (Green Black)",
+   "title": "R for Rabbit Street Smart Nova Stylish Baby Stroller | Pram with Reversible Handle, One Hand Fold Mechanism for 0-3 Years Boy & Girl (Green Black)",
    "slot": 5
   },
   {
-   "asin": "B0C1VSSZB3",
+   "asin": "B0G3WJDB6Z",
    "badge": null,
-   "price": "6,999",
-   "rating": "4.2",
-   "reviews": "755",
-   "title": "Alpha Baby Stroller/Pram, One Fold, Travel Friendly, 5 Point Safety Harness, Reversible Handle bar, Multilevel Recline & Adjustable footrest, Extendable Canopy,",
+   "price": "2,199",
+   "rating": "2.0",
+   "reviews": "2",
+   "title": "MLU Lightweight Foldable Baby Stroller with Adjustable Canopy, Safety Harness, Swivel Wheels & Storage Basket – Portable Travel Pram for Kids (militry)",
    "slot": 6
-  },
-  {
-   "asin": "B0DWFMR6G4",
-   "badge": null,
-   "price": "8,908",
-   "rating": "4.3",
-   "reviews": "1,189",
-   "title": "Chocolate Ride Stylish Baby Stroller and Pram for Baby, Kids, Infants, Newborn, Boys & Girls of 6 Months to 3 Years (Grey Safari)",
-   "slot": 7
   },
   {
    "asin": "B08K7SLYY2",
    "badge": null,
    "price": "7,499",
    "rating": "4.1",
-   "reviews": "591",
-   "title": "Stroller for Baby Boy & Girl 0 to 5 Years, Foldable Baby Stroller for 0-3 Year, Compact Pram for Todler, Trolley with Reversible Handle, 5-Point Safety Harness ",
+   "reviews": "592",
+   "title": "StarAndDaisy Stroller for Baby Boy & Girl 0 to 5 Years, Foldable Baby Stroller for 0-3 Year, Compact Pram for Todler, Trolley with Reversible Handle, 5-Point Sa",
+   "slot": 7
+  },
+  {
+   "asin": "B01MZB0JOO",
+   "badge": null,
+   "price": "6,299",
+   "rating": "4.2",
+   "reviews": "8,121",
+   "title": "LuvLap Galaxy Baby Stroller, Pram for Baby with 5 Point Safety Harness, Spacious Cushioned seat with Multi Level seat Recline, Easy Fold, Lightweight Stroller f",
    "slot": 8
   }
  ],

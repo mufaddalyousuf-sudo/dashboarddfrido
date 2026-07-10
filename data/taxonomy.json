@@ -460,27 +460,27 @@
    "datasets": [
     {
      "id": "maternity-baby-care-maternity-pillow-plus",
-     "keyword": "Frido Maternity Pillow Plus",
+     "keyword": "Maternity Pillow Plus",
      "primary": true
     },
     {
      "id": "maternity-baby-care-autofold-travel-stroller",
-     "keyword": "Frido Autofold Travel Stroller"
+     "keyword": "Autofold Travel Stroller"
     },
     {
      "id": "maternity-baby-care-maternity-pillow",
-     "keyword": "Frido Maternity Pillow"
+     "keyword": "Maternity Pillow"
     },
     {
      "id": "maternity-baby-care-maternity-pillow-bundle-plus",
-     "keyword": "Frido Maternity Pillow Bundle Plus"
+     "keyword": "Maternity Pillow Bundle Plus"
     },
     {
      "id": "maternity-baby-care-maternity-u-shaped-pillow",
-     "keyword": "Frido Maternity U-Shaped Pillow"
+     "keyword": "Maternity U Shaped Pillow"
     }
    ],
-   "skuSource": "frido-product-catalog.json (full base-SKU research, 2026-07-08)"
+   "skuSource": "frido-product-catalog.json searchKeyword (generic, brand-stripped), 2026-07-08"
   },
   {
    "id": "masks",
