@@ -1,40 +1,46 @@
 {
  "category": "orthotics-mouse-wrist-support",
  "marketplace": "flipkart",
- "keyword": "Frido Mouse Wrist Support",
+ "keyword": "Mouse Wrist Support",
+ "brandKeyword": "Frido Mouse Wrist Support",
  "capturedAt": "2026-07-08",
- "method": "Live scrape flipkart.com mobile search page 1 (__INITIAL_STATE__), query = exact SKU name",
+ "method": "Live scrape flipkart.com mobile search page 1 (__INITIAL_STATE__), query = generic product keyword",
  "confidence": "Medium-High (live; sponsored flags not exposed on mobile)",
- "fridoRank": 1,
- "fridoPresent": true,
+ "fridoRank": null,
+ "fridoPresent": false,
+ "fridoUrl": "https://www.flipkart.com/search?q=Mouse%20Wrist%20Support",
  "results": [
   {
    "pos": 1,
-   "title": "Frido Mouse Wrist Rest for Pain & Carpal Tunnel Relief,Right-Hand Wrist Support",
+   "title": "TWINZEN Wrist Rest Mouse Wrist Support Mini Ergonomic Wrist pad Non Slip Base Dual Sided Mousepad",
+   "brand": "",
    "price": null,
-   "rating": 0,
-   "ratings": 0,
-   "isFrido": true
+   "rating": 3,
+   "ratings": 4,
+   "isFrido": false
   },
   {
    "pos": 2,
-   "title": "Frido Mouse Wrist Rest for Pain & Carpal Tunnel Relief, Left-Hand Wrist Support",
+   "title": "BVCA Mouse Pad with Wrist Rest Support Non Slip Base Mousepad",
+   "brand": "",
    "price": null,
    "rating": 0,
    "ratings": 0,
-   "isFrido": true
+   "isFrido": false
   },
   {
    "pos": 3,
-   "title": "Viresa Wrist brace with thumb Wrist Support",
+   "title": "GXHa Mouse Pad with Wrist Rest Support Non Slip Base Mousepad",
+   "brand": "",
    "price": null,
-   "rating": 3.8,
-   "ratings": 48,
+   "rating": 0,
+   "ratings": 0,
    "isFrido": false
   },
   {
    "pos": 4,
-   "title": "FITLOGAN ProGuard Wrist Brace Wrap for Gym Training Pain Relief & Hand Stability Support Wrist Support",
+   "title": "Crysendo Mouse Wrist Rest Support Gliding Palm Rest Pad with V-Shape Non Slip Base Mousepad",
+   "brand": "",
    "price": null,
    "rating": 0,
    "ratings": 0,
@@ -42,50 +48,56 @@
   },
   {
    "pos": 5,
-   "title": "Frido Orthotics Bunion Corrector, Pain Relief & Adjustable Toe Straightener, Pack of 2 Foot Support",
+   "title": "sounce Ergonomic,Comfortable Gel Wrist Rest Support| MPWG Non Slip Base Mousepad",
+   "brand": "",
    "price": null,
-   "rating": 0,
-   "ratings": 0,
-   "isFrido": true
+   "rating": 4.7,
+   "ratings": 228,
+   "isFrido": false
   },
   {
    "pos": 6,
-   "title": "Frido Wedge Plus Memory Foam Cushion for Sleeping, Acid Reflux Relief & Leg Elevator Back / Lumbar Support",
+   "title": "sounce Ergonomic,Comfortable Gel Wrist Rest Support| MPWGBU Non Slip Base Mousepad",
+   "brand": "",
    "price": null,
-   "rating": 4.2,
-   "ratings": 435,
-   "isFrido": true
+   "rating": 4.3,
+   "ratings": 59,
+   "isFrido": false
   },
   {
    "pos": 7,
-   "title": "FITLOGAN Breathable Mesh Support Splint for Pain Relief & CMC Joint Stability Wrist Support",
+   "title": "SHOPONIL Memory Foam Wrist Rest for Mouse,Ergonomic Memory Foam Wrist Cushion Support Pad Memory Foam, PU Leather Mouse Wrist Rest",
+   "brand": "",
    "price": null,
-   "rating": 0,
-   "ratings": 0,
+   "rating": 4,
+   "ratings": 3,
    "isFrido": false
   },
   {
    "pos": 8,
-   "title": "FITLOGAN Neoprene Thumb Support Brace with Integrated Splint Wrist Support",
+   "title": "Tizum Memory Foam Mouse Pad with Gel Wrist Support Ergonomic & Pain Relief Design Non Slip Base Mousepad",
+   "brand": "",
    "price": null,
-   "rating": 0,
-   "ratings": 0,
+   "rating": 4.6,
+   "ratings": 86,
    "isFrido": false
   },
   {
    "pos": 9,
-   "title": "betterhood Wrist Support, ZeroBulk Design for Sports & Injury Recovery, Pack of 1 Wrist Support",
+   "title": "FITIX Wrist Wrest Palm Memory Foam Smooth Movement Palm Support for Home/Office/Gaming | Relieves Wrist Pain Wrist Rest",
+   "brand": "",
    "price": null,
-   "rating": 4.1,
-   "ratings": 189,
+   "rating": 3.8,
+   "ratings": 4,
    "isFrido": false
   },
   {
    "pos": 10,
-   "title": "Leeford Thumb Spica Splint for Arthritis & Soft Tissue Injuries | Hand Brace for Comfort Splints",
+   "title": "Aliens Large Ergonomic Mouse Pad with Wrist Support, Memory Foam,Non-Slip Base for Desk Non Slip Base Mousepad",
+   "brand": "",
    "price": null,
-   "rating": 4.1,
-   "ratings": 2001,
+   "rating": 4.5,
+   "ratings": 87,
    "isFrido": false
   }
  ],

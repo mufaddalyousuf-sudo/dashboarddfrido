@@ -1,122 +1,23 @@
 {
  "category": "orthotics-orthotics-comfort-gym-gloves",
  "marketplace": "amazon-in",
- "keyword": "Frido Orthotics Comfort Gym Gloves",
+ "keyword": "Orthotics Comfort Gym Gloves",
+ "brandKeyword": "Frido Orthotics Comfort Gym Gloves",
  "capturedAt": "2026-07-08",
- "method": "Live scrape amazon.in search page 1, query = exact SKU name (brand-qualified)",
+ "method": "Live scrape amazon.in search page 1, query = generic product keyword (brand + Frido product-line/marketing words stripped) — the competitive rank signal, not a brand-qualified existence check",
  "confidence": "High (live snapshot, single keyword)",
  "fridoOrganicRank": null,
  "fridoSponsoredSlot": null,
+ "fridoUrl": null,
  "organic": [
   {
    "asin": "B0BN1V4GYB",
    "badge": "Bestseller",
    "price": "314",
    "rating": "4.0",
-   "reviews": "7,416",
-   "title": "Gym Gloves for Men Workout Unisex Hand Gloves for Gym for Men & Women with Wrist Support for Weightlifting, Workout Comfortable Fit Bike Riding, Cycling Handglo",
+   "reviews": "7,427",
+   "title": "Boldfit Gym Gloves for Men Workout Unisex Hand Gloves for Gym for Men & Women with Wrist Support for Weightlifting, Workout Comfortable Fit Bike Riding, Cycling",
    "rank": 1
-  },
-  {
-   "asin": "B0974QF2RQ",
-   "badge": null,
-   "price": "198",
-   "rating": "3.9",
-   "reviews": "4,149",
-   "title": "Neoprene Half Finger Workout Gym Gloves with Wrist Support Strap | 1 Pair - Free Size (Red-Black) | Fitness Gloves with Breathable Non-Slip Grip | Wrist Band fo",
-   "rank": 2
-  },
-  {
-   "asin": "B06Y4BSLNL",
-   "badge": null,
-   "price": "445",
-   "rating": "4.1",
-   "reviews": "15,494",
-   "title": "xMacho Gym Gloves with Wrist Support Strap for Men & Women Workout, Half-Finger Gloves for Weightlifting, Wrist Band for Dumbbell, Exercise & Gym Workout (XL, F",
-   "rank": 3
-  },
-  {
-   "asin": "B0FLPWZRBG",
-   "badge": null,
-   "price": "399",
-   "rating": "3.8",
-   "reviews": "576",
-   "title": "Gym Gloves for Men Workout Unisex Cushion Hand Gloves for Gym for Men for Cycling, Weightlifting, Workout Comfortable Fit Bike Riding, Cycling Handgloves",
-   "rank": 4
-  },
-  {
-   "asin": "B010SGKT60",
-   "badge": null,
-   "price": "359",
-   "rating": "4.0",
-   "reviews": "14,563",
-   "title": "WTG-05 Leather",
-   "rank": 5
-  },
-  {
-   "asin": "B0GTVFVTTQ",
-   "badge": null,
-   "price": "349",
-   "rating": "3.8",
-   "reviews": "576",
-   "title": "Gym Gloves for Men Workout Unisex Cushion Hand Gloves for Gym for Men for Cycling, Weightlifting, Workout Comfortable Fit Bike Riding, Cycling Handgloves",
-   "rank": 6
-  },
-  {
-   "asin": "B0GTVT9J9Q",
-   "badge": null,
-   "price": "349",
-   "rating": "3.8",
-   "reviews": "576",
-   "title": "Gym Gloves for Men Workout Unisex Cushion Hand Gloves for Gym for Men for Cycling, Weightlifting, Workout Comfortable Fit Bike Riding, Cycling Handgloves",
-   "rank": 7
-  },
-  {
-   "asin": "B0FSF2ZVZT",
-   "badge": null,
-   "price": "599",
-   "rating": "4.0",
-   "reviews": "87",
-   "title": "Gym Gloves for Men Workout Unisex Hand Gloves for Gym for Men & Women with Wrist Support for Weightlifting, Workout Comfortable Fit Bike Riding, Cycling Handglo",
-   "rank": 8
-  },
-  {
-   "asin": "B07GGG4G7N",
-   "badge": null,
-   "price": "429",
-   "rating": "4.0",
-   "reviews": "1,776",
-   "title": "Gym Gloves - Weight Lifting Hand Grips with Wrist Wrap Support - Workout, Excercise, Fitness, Training, Powerlifting - Men and Women (Medium, Neoprene, Black)",
-   "rank": 9
-  },
-  {
-   "asin": "B096ZYD1JK",
-   "badge": null,
-   "price": "282",
-   "rating": "3.9",
-   "reviews": "393",
-   "title": "Gym Gloves for Men Workout with Wrist Support | Fingerless Hand Gloves for Gym, Weightlifting, Cross Training, Sports | Gym Gloves for Women & Men with Grip & C",
-   "rank": 10
-  }
- ],
- "sponsored": [
-  {
-   "asin": "B07J68WV5F",
-   "badge": null,
-   "price": "995",
-   "rating": "4.2",
-   "reviews": "216",
-   "title": "Gym Gloves with 19” Wrist Support, Pro Padded Palm Weight Lifting Gloves, Cycling, Anti-Slip for Exercise, Powerlifting, Cross Training, Workout, Best for Men &",
-   "slot": 1
-  },
-  {
-   "asin": "B0BN1VJ4PG",
-   "badge": "Bestseller",
-   "price": "399",
-   "rating": "4.0",
-   "reviews": "7,416",
-   "title": "Gym Gloves for Men Workout Unisex Hand Gloves for Gym for Men & Women with Wrist Support for Weightlifting, Workout Comfortable Fit Bike Riding, Cycling Handglo",
-   "slot": 2
   },
   {
    "asin": "B08ZYFWXDB",
@@ -124,17 +25,62 @@
    "price": "523",
    "rating": "3.9",
    "reviews": "1,684",
-   "title": "Leosportz Workout Gloves With Wrist Support For Gym Workouts,Pull Ups,Cross Training,Weightlifting,Calisthenics,Wod- Silicone Padding - Great Hand Grip&No Callu",
-   "slot": 3
+   "title": "serveuttam Leosportz Workout Gloves With Wrist Support For Gym Workouts,Pull Ups,Cross Training,Weightlifting,Calisthenics,Wod- Silicone Padding - Great Hand Gr",
+   "rank": 2
   },
   {
-   "asin": "B0FBS76DDC",
+   "asin": "B0F1Y7PVDH",
    "badge": null,
-   "price": "549",
-   "rating": "4.3",
-   "reviews": "341",
-   "title": "Gym Gloves for Men Workout & Gym Gloves for Woman | Anti-Slip Leather Grip Workout Hand Gloves with Wrist Support for Weightlifting & Fitness Training (Camo)",
-   "slot": 4
+   "price": "159",
+   "rating": "3.6",
+   "reviews": "84",
+   "title": "Protoner Gym Gloves with Wrist Support, Unisex, Black and Orange, Fingerless Design",
+   "rank": 3
+  },
+  {
+   "asin": "B06Y46SMTD",
+   "badge": null,
+   "price": "499",
+   "rating": "4.1",
+   "reviews": "15,497",
+   "title": "XTRIM xMacho Gym Gloves with Wrist Support Strap for Men & Women Workout, Half-Finger Hand Gloves for Weightlifting, Wrist Band for Dumbbell, Exercise & Gym Wor",
+   "rank": 4
+  },
+  {
+   "asin": "B0GD6XJWYW",
+   "badge": null,
+   "price": "349",
+   "rating": "4.2",
+   "reviews": "3",
+   "title": "CULT Folding Open Gym Training Gloves & Hand Grips for Men & Women | Lightweight Half Finger Exercise Gloves for Home Workout, Calisthenics & Fitness Gym – Free",
+   "rank": 5
+  },
+  {
+   "asin": "B0FLPWZRBG",
+   "badge": null,
+   "price": "399",
+   "rating": "3.8",
+   "reviews": "577",
+   "title": "Boldfit Gym Gloves for Men Workout Unisex Cushion Hand Gloves for Gym for Men for Cycling, Weightlifting, Workout Comfortable Fit Bike Riding, Cycling Handglove",
+   "rank": 6
+  },
+  {
+   "asin": "B096ZYD1JK",
+   "badge": null,
+   "price": "282",
+   "rating": "3.9",
+   "reviews": "393",
+   "title": "ArrowMax Gym Gloves for Men Workout with Wrist Support | Fingerless Hand Gloves for Gym, Weightlifting, Cross Training, Sports | Gym Gloves for Women & Men with",
+   "rank": 7
+  },
+  {
+   "asin": "B0GTVT9J9Q",
+   "badge": null,
+   "price": "349",
+   "rating": "3.8",
+   "reviews": "577",
+   "title": "Boldfit Gym Gloves for Men Workout Unisex Cushion Hand Gloves for Gym for Men for Cycling, Weightlifting, Workout Comfortable Fit Bike Riding, Cycling Handglove",
+   "rank": 8
   },
   {
    "asin": "B096BMMM3C",
@@ -142,44 +88,73 @@
    "price": "114",
    "rating": "3.8",
    "reviews": "2,369",
-   "title": "Beginner Gym Gloves with Wrist Support Strap | 1 Pair - Free Size (Black) | Fitness Gloves with Leather Foam Fabric | Wrist Band for Dumbbell, Exercise & Gym Wo",
+   "title": "Aprodo Beginner Gym Gloves with Wrist Support Strap | 1 Pair - Free Size (Black) | Fitness Gloves with Leather Foam Fabric | Wrist Band for Dumbbell, Exercise &",
+   "rank": 9
+  },
+  {
+   "asin": "B07GGG4G7N",
+   "badge": null,
+   "price": "429",
+   "rating": "4.0",
+   "reviews": "1,776",
+   "title": "Hykes Gym Gloves - Weight Lifting Hand Grips with Wrist Wrap Support - Workout, Excercise, Fitness, Training, Powerlifting - Men and Women (Medium, Neoprene, Bl",
+   "rank": 10
+  }
+ ],
+ "sponsored": [
+  {
+   "asin": "B0DYK1XCFB",
+   "badge": null,
+   "price": "2,099",
+   "rating": "4.1",
+   "reviews": "22",
+   "title": "BURNLAB Flex Wirst Support Gym Gloves for Men and Women - Ideal for Weightlifting, Cycling, Crossfit, Offers Good Grip and Soft Padding (Black & Red, M)",
+   "slot": 1
+  },
+  {
+   "asin": "B0FBS76DDC",
+   "badge": null,
+   "price": "549",
+   "rating": "4.3",
+   "reviews": "341",
+   "title": "CULT Gym Gloves for Men Workout & Gym Gloves for Woman | Anti-Slip Leather Grip Workout Hand Gloves with Wrist Support for Weightlifting & Fitness Training (Cam",
+   "slot": 2
+  },
+  {
+   "asin": "B0BGGQMC79",
+   "badge": null,
+   "price": "258",
+   "rating": "3.8",
+   "reviews": "7,446",
+   "title": "Nivia Crystal 2.0 Gym Gloves for Men & Women, Dotted Padded Palm with Breathable Fabric & Stretch Gussets Between Fingers, Ideal for Cycling, Crossfit, Weightli",
+   "slot": 3
+  },
+  {
+   "asin": "B0FYTZWGVR",
+   "badge": null,
+   "price": "579",
+   "rating": "3.9",
+   "reviews": "12",
+   "title": "PROBEROS® Gym Gloves for Woman Workout, Breathable Fingerless Gym Gloves with Anti-Slip Silione Palm, Adjustable Wrist Closure Workout Gloves for Weightlifting,",
+   "slot": 4
+  },
+  {
+   "asin": "B0974QF2RQ",
+   "badge": null,
+   "price": "198",
+   "rating": "3.9",
+   "reviews": "4,149",
+   "title": "Aprodo Neoprene Half Finger Workout Gym Gloves with Wrist Support Strap | 1 Pair - Free Size (Red-Black) | Fitness Gloves with Breathable Non-Slip Grip | Wrist ",
    "slot": 5
   },
   {
-   "asin": "B0GTMF7Z1V",
+   "asin": "B08NJJKSMK",
    "badge": null,
-   "price": "999",
-   "rating": "4.1",
-   "reviews": "46",
-   "title": "Gym Gloves for Men Workout Unisex Cushion Hand Gloves for Gym for Men & Women for Cycling, Weightlifting, Workout Comfortable Fit Bike Riding, Cycling Handglove",
-   "slot": 6
-  },
-  {
-   "asin": "B0FLPWZRBG",
-   "badge": null,
-   "price": "399",
+   "price": "319",
    "rating": "3.8",
-   "reviews": "576",
-   "title": "Gym Gloves for Men Workout Unisex Cushion Hand Gloves for Gym for Men for Cycling, Weightlifting, Workout Comfortable Fit Bike Riding, Cycling Handgloves",
-   "slot": 7
-  },
-  {
-   "asin": "B0FSF2ZVZT",
-   "badge": null,
-   "price": "599",
-   "rating": "4.0",
-   "reviews": "87",
-   "title": "Gym Gloves for Men Workout Unisex Hand Gloves for Gym for Men & Women with Wrist Support for Weightlifting, Workout Comfortable Fit Bike Riding, Cycling Handglo",
-   "slot": 8
-  },
-  {
-   "asin": "B0GD73DMSY",
-   "badge": null,
-   "price": "549",
-   "rating": "3.7",
-   "reviews": "7",
-   "title": "Half Finger Gym Gloves with Wrist Support for Men & Women | Anti-Slip Silicone Grip Exercise Gloves for Weightlifting, Workout, Pull Ups & Cross Training (Size ",
-   "slot": 9
+   "reviews": "919",
+   "title": "serveuttam Foam Weight Lifting Gloves For Gym Workout,Crossfit,Weightlifting,Fitness&Cross Training-The Best For Men&Women(Pink),Free Size",
+   "slot": 6
   },
   {
    "asin": "B0D2ZN67WN",
@@ -187,7 +162,34 @@
    "price": "495",
    "rating": "4.1",
    "reviews": "241",
-   "title": "Women Workout Gloves for Gym, Crossfit Gym with Anti Slip Silione Pad Palm Design Compression Fitness Summer Breathable Fingerless Gloves, Size-S",
+   "title": "PROBEROS® Women Workout Gloves for Gym, Crossfit Gym with Anti Slip Silione Pad Palm Design Compression Fitness Summer Breathable Fingerless Gloves, Size-S",
+   "slot": 7
+  },
+  {
+   "asin": "B0BZRRGB83",
+   "badge": null,
+   "price": "399",
+   "rating": "3.9",
+   "reviews": "434",
+   "title": "Nivia Crystal 2.0 Gym Gloves for Men & Women, Dotted Padded Palm with Breathable Fabric & Stretch Gussets Between Fingers, Ideal for Cycling, Crossfit, Weightli",
+   "slot": 8
+  },
+  {
+   "asin": "B0FGJH4YP7",
+   "badge": null,
+   "price": "599",
+   "rating": "3.5",
+   "reviews": "41",
+   "title": "Nivia Spider Gym Gloves for Men & Women, Breathable & Lightweight Design, Padded Palm for Enhanced Grip, Wrist Support Strap, Ideal for Weightlifting, Cycling, ",
+   "slot": 9
+  },
+  {
+   "asin": "B0H7HKQY1T",
+   "badge": null,
+   "price": "499",
+   "rating": null,
+   "reviews": null,
+   "title": "Leosportz Gym Gloves for Women with Wrist Support – Anti-Slip Half Finger Workout Gloves | Weight Lifting Gloves Women for Fitness, Exercise & Training | Ladies",
    "slot": 10
   }
  ],

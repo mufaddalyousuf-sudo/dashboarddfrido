@@ -1,123 +1,139 @@
 {
  "category": "orthotics-lumbo-sacral-belt",
  "marketplace": "flipkart",
- "keyword": "Frido Lumbo Sacral Belt",
+ "keyword": "Lumbo Sacral Belt",
+ "brandKeyword": "Frido Lumbo Sacral Belt",
  "capturedAt": "2026-07-08",
- "method": "Live scrape flipkart.com mobile search page 1 (__INITIAL_STATE__), query = exact SKU name",
+ "method": "Live scrape flipkart.com mobile search page 1 (__INITIAL_STATE__), query = generic product keyword",
  "confidence": "Medium-High (live; sponsored flags not exposed on mobile)",
- "fridoRank": 6,
+ "fridoRank": 12,
  "fridoPresent": true,
+ "fridoUrl": "https://www.flipkart.com/search?q=Lumbo%20Sacral%20Belt",
  "results": [
   {
    "pos": 1,
-   "title": "TENACT Posture Corrector Belt for men & women Back Support & Posture Corrector",
+   "title": "TENACT Posture Corrector Belt Pro Fix for Men & Women Straight Back pain Relief Posture Corrector",
+   "brand": "TENACT",
    "price": null,
    "rating": 3.8,
-   "ratings": 3650,
+   "ratings": 8188,
    "isFrido": false
   },
   {
    "pos": 2,
-   "title": "TENACT Posture Corrector Belt Pro for Men & Women Adjustable Back & Quality Fabric Posture Corrector",
+   "title": "TENACT Posture Corrector Belt for men & women Back Support & Posture Corrector",
+   "brand": "TENACT",
    "price": null,
    "rating": 3.8,
-   "ratings": 3650,
+   "ratings": 3655,
    "isFrido": false
   },
   {
    "pos": 3,
-   "title": "TENACT Posture Corrector Belt Pro for Men & Women Straight Back Support Posture Corrector",
+   "title": "TENACT Premium Belt for Men & Women Pain Relief Posture Corrector",
+   "brand": "TENACT",
    "price": null,
-   "rating": 3.8,
-   "ratings": 8159,
+   "rating": 3.6,
+   "ratings": 1776,
    "isFrido": false
   },
   {
    "pos": 4,
-   "title": "TENACT Posture Corrector Belt for Men & Women for Straight Backbone Back Support Belt Posture Corrector",
+   "title": "TENACT Posture Corrector Belt Pro for Men & Women Back Support Belt for Straight Back Back / Lumbar Support",
+   "brand": "TENACT",
    "price": null,
-   "rating": 3.7,
-   "ratings": 80,
+   "rating": 3.9,
+   "ratings": 112,
    "isFrido": false
   },
   {
    "pos": 5,
-   "title": "TENACT Premium Belt for Men & Women Pain Relief Posture Corrector",
+   "title": "TENACT Posture Corrector Belt for Women & Men Back Support Belt for Posture Corrector",
+   "brand": "TENACT",
    "price": null,
-   "rating": 3.6,
-   "ratings": 1774,
+   "rating": 3.9,
+   "ratings": 292,
    "isFrido": false
   },
   {
    "pos": 6,
-   "title": "Frido Lumbo Sacral Belt For Women & Men | Waist Belt For Back Pain Relief (XL), Black Back / Lumbar Support",
+   "title": "Dr. Ortho Lumbo Sacral Support Belt (Waist & Back Support) - For Men & Women Abdominal Belt",
+   "brand": "Dr. Ortho",
    "price": null,
-   "rating": 4.1,
-   "ratings": 9,
-   "isFrido": true
+   "rating": 4.2,
+   "ratings": 4352,
+   "isFrido": false
   },
   {
    "pos": 7,
-   "title": "Frido Lumbo Sacral Belt For Women & Men | Waist Belt For Back Pain Relief (L), White Back / Lumbar Support",
+   "title": "TENACT Lumbar Support Belt for men and women LS Belt and Backpain Relief Belt Back / Lumbar Support",
+   "brand": "TENACT",
    "price": null,
-   "rating": 4.1,
-   "ratings": 9,
-   "isFrido": true
+   "rating": 4.2,
+   "ratings": 3160,
+   "isFrido": false
   },
   {
    "pos": 8,
-   "title": "Frido Lumbo Sacral Belt For Women & Men | Waist Belt For Back Pain Relief (S), White Back / Lumbar Support",
+   "title": "Leeford Lumbo Sacral Support Belt, Back Pain Relief Belt for Men and Women Back / Lumbar Support",
+   "brand": "Leeford",
    "price": null,
-   "rating": 4.1,
-   "ratings": 9,
-   "isFrido": true
+   "rating": 3.9,
+   "ratings": 39,
+   "isFrido": false
   },
   {
    "pos": 9,
-   "title": "Frido Lumbo Sacral Belt For Women & Men | Waist Belt For Back Pain Relief (S), Black Back / Lumbar Support",
+   "title": "TYNOR Lumbo Sacral Belt, Grey, Large, 1 Unit Back / Lumbar Support",
+   "brand": "TYNOR",
    "price": null,
-   "rating": 4.1,
-   "ratings": 9,
-   "isFrido": true
+   "rating": 4.2,
+   "ratings": 6649,
+   "isFrido": false
   },
   {
    "pos": 10,
-   "title": "Frido Lumbo Sacral Belt For Women & Men | Waist Belt For Back Pain Relief (M), Black Back / Lumbar Support",
+   "title": "LIYANSH Lumbo Sacral Lower Back Pain Relief Brace With Double Strapping Abdominal Belt",
+   "brand": "LIYANSH",
    "price": null,
-   "rating": 4.1,
-   "ratings": 9,
-   "isFrido": true
+   "rating": 4.3,
+   "ratings": 74,
+   "isFrido": false
   },
   {
    "pos": 11,
-   "title": "healntrust Lumbo Sacral (L.S Belt) Corset- Back Pain Belt Back / Lumbar Support",
+   "title": "TYNOR Lumbo Sacral Belt, Black, Large, 1 Unit Back / Lumbar Support",
+   "brand": "TYNOR",
    "price": null,
-   "rating": 4,
-   "ratings": 25,
+   "rating": 4.2,
+   "ratings": 6649,
    "isFrido": false
   },
   {
    "pos": 12,
-   "title": "CRETO Lumbo Sacral (L.S Belt) Corset- Back Pain Belt Abdominal Belt",
+   "title": "Frido Lumbo Sacral Belt For Women & Men | Waist Belt For Back Pain Relief (S), Black Back / Lumbar Support",
+   "brand": "Frido",
    "price": null,
    "rating": 4.1,
-   "ratings": 3489,
-   "isFrido": false
+   "ratings": 9,
+   "isFrido": true
   },
   {
    "pos": 13,
-   "title": "FIDO Lumbo Sacral Belt Spinal Brace Posture Correction Mild Lower Back Pain Posture Corrector",
+   "title": "TYNOR Lumbo Sacral Belt, Black, Medium, 1 Unit Back / Lumbar Support",
+   "brand": "TYNOR",
    "price": null,
-   "rating": 4.3,
-   "ratings": 30,
+   "rating": 4.2,
+   "ratings": 6649,
    "isFrido": false
   },
   {
    "pos": 14,
-   "title": "Relief LumboOne Lumbo Sacral Support Back / Lumbar Support",
+   "title": "PLETHEON Lumbar Sacral Support Belt back pain relief for Men & Women Back / Lumbar Support",
+   "brand": "PLETHEON",
    "price": null,
-   "rating": 4.5,
-   "ratings": 4,
+   "rating": 4.1,
+   "ratings": 3353,
    "isFrido": false
   }
  ],

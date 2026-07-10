@@ -1,67 +1,50 @@
 {
  "category": "orthotics-kinesiology-tape",
  "marketplace": "amazon-in",
- "keyword": "Frido Kinesiology Tape",
+ "keyword": "Kinesiology Tape",
+ "brandKeyword": "Frido Kinesiology Tape",
  "capturedAt": "2026-07-08",
- "method": "Live scrape amazon.in search page 1, query = exact SKU name (brand-qualified)",
+ "method": "Live scrape amazon.in search page 1, query = generic product keyword (brand + Frido product-line/marketing words stripped) — the competitive rank signal, not a brand-qualified existence check",
  "confidence": "High (live snapshot, single keyword)",
- "fridoOrganicRank": 1,
+ "fridoOrganicRank": null,
  "fridoSponsoredSlot": null,
+ "fridoUrl": null,
  "organic": [
   {
-   "asin": "B0GM6NB7PQ",
+   "asin": "B0GZ4RV81D",
    "badge": null,
-   "price": "499",
-   "rating": "4.0",
-   "reviews": "42",
-   "title": "Kinesiology Tape for Sports Injury Pain Relief, Muscle and Joint Support | Waterproof Cotton Elastic Athletic Tape with Stretch Indicators | K Tape For Knee, An",
-   "rank": 1,
-   "isFridoBrand": true
-  },
-  {
-   "asin": "B0GM6SJ8RQ",
-   "badge": null,
-   "price": "699",
-   "rating": "4.0",
-   "reviews": "42",
-   "title": "Kinesiology Tape for Sports Injury Pain Relief, Muscle and Joint Support | Waterproof Cotton Elastic Athletic Tape with Stretch Indicators | K Tape For Knee, An",
-   "rank": 2
-  },
-  {
-   "asin": "B09KY2LPYZ",
-   "badge": null,
-   "price": "199",
-   "rating": "4.1",
-   "reviews": "1,711",
-   "title": "Waterproof Kinesiology Tape 5 Metres Latex Free Breathable Athletic Sports Tape For Injury, Muscle Support, Pain Relief, Joint Support And Physiotherapy (Blue, ",
-   "rank": 3
+   "price": "169",
+   "rating": null,
+   "reviews": null,
+   "title": "ERBIL Kinesiology Tape (5 M x 5 CM) for Physiotherapy K tape for Pain Relief [ Blue 1-pcs ]",
+   "rank": 1
   },
   {
    "asin": "B0CLB39J26",
    "badge": null,
    "price": "199",
    "rating": "4.0",
-   "reviews": "1,207",
-   "title": "Kinesiology Tape for Physiotherapy Kinesio Tape for Sports Injury Pain Relief Muscle Tape for Shoulder, Wings, Arms, Ankle K Taping Waterproof Athletic Tape for",
+   "reviews": "1,209",
+   "title": "Boldfit Kinesiology Tape for Physiotherapy Kinesio Tape for Sports Injury Pain Relief Muscle Tape for Shoulder, Wings, Arms, Ankle K Taping Waterproof Athletic ",
+   "rank": 2
+  },
+  {
+   "asin": "B09KY4J4DJ",
+   "badge": "Amazon's Choice",
+   "price": "199",
+   "rating": "4.1",
+   "reviews": "1,712",
+   "title": "Aegon Waterproof Kinesiology Tape 5 Metres Breathable Athletic Sports Tape For Injury, Muscle Support, Pain Relief Bandage, Hand Leg Joint Support And Physiothe",
+   "rank": 3
+  },
+  {
+   "asin": "B0FVVR7FM4",
+   "badge": null,
+   "price": "174",
+   "rating": "3.5",
+   "reviews": "62",
+   "title": "Kinesiology Tape for Physiotherapy, Sports Injury, Pain Relief Muscle Tape, for Shoulder, Wings, Arms, Ankle K Taping Waterproof Athletic Tape for Pain Support ",
    "rank": 4
-  },
-  {
-   "asin": "B0GQBDYC7H",
-   "badge": null,
-   "price": "349",
-   "rating": "5.0",
-   "reviews": "5",
-   "title": "USA Kinesiology Tape For Sports Injury, Muscles Pain Relief, Waterproof Athletic Ktape For Arms, Knee, Shoulder, Legs, Ankle, Adhesive Compression Bandage 5 m X",
-   "rank": 5
-  },
-  {
-   "asin": "B0BJF8WDN2",
-   "badge": null,
-   "price": "360",
-   "rating": "4.2",
-   "reviews": "582",
-   "title": "Kinesiology Tape for Physiotherapy Kinesio Tape for Sports Injury Pain Relief Muscle Tape for Shoulder, Wings, Arms, Ankle Athletic Tape for All Body Exercise P",
-   "rank": 6
   },
   {
    "asin": "B0BJFC8L4B",
@@ -69,17 +52,109 @@
    "price": "399",
    "rating": "4.2",
    "reviews": "955",
-   "title": "Kinesiology Tape for Physiotherapy Precut Kinesio Tape for Sport Injury Pain Relief Muscle Tape for Shoulder, Wings, Arms, Ankle K Taping Waterproof Athletic Ta",
+   "title": "Boldfit Kinesiology Tape for Physiotherapy Precut Kinesio Tape for Sport Injury Pain Relief Muscle Tape for Shoulder, Wings, Arms, Ankle K Taping Waterproof Ath",
+   "rank": 5
+  },
+  {
+   "asin": "B0DHY984CK",
+   "badge": null,
+   "price": "99",
+   "rating": "3.9",
+   "reviews": "35",
+   "title": "SKDBPM Therapy Kinesiology Muscle Tape Sport Care Roll Cotton Elastic Adhesive Injury Supports Lastic Physio Therapeutic Tape 5mx5cm(Multicolor)",
+   "rank": 6
+  },
+  {
+   "asin": "B0F21YDSP5",
+   "badge": null,
+   "price": "189",
+   "rating": "3.7",
+   "reviews": "164",
+   "title": "Gadget DEALS-waterproof | Kinesiology Tape for pain |shoulder,ankle pain, Latex Free Breathable(5 m X 5 cm)- sports tape for injury |sports tape for muscles | k",
    "rank": 7
   },
   {
-   "asin": "B0G2CQ43HH",
+   "asin": "B0FVVSCSP4",
+   "badge": null,
+   "price": "169",
+   "rating": "3.4",
+   "reviews": "57",
+   "title": "Kinesiology Tape for Physiotherapy, Sports Injury, Pain Relief Muscle Tape, for Shoulder, Wings, Arms, Ankle K Taping Waterproof Athletic Tape for Pain Support ",
+   "rank": 8
+  },
+  {
+   "asin": "B0DR8Y477W",
+   "badge": null,
+   "price": "182",
+   "rating": "4.0",
+   "reviews": "15",
+   "title": "Kinesiology Tape Sports Tape Muscle Support Tape for Exercise, Sports & Injury Recovery 1pc (black)",
+   "rank": 9
+  },
+  {
+   "asin": "B0GPHMMTMH",
+   "badge": null,
+   "price": "169",
+   "rating": "5.0",
+   "reviews": "1",
+   "title": "Kinesiology Tape For Sports Injury, Muscles Pain Relief, Waterproof Athletic Ktape For Arms, Knee, Shoulder, Legs, Ankle, Adhesive Compression Bandage 5 m X 5 c",
+   "rank": 10
+  }
+ ],
+ "sponsored": [
+  {
+   "asin": "B0GK1PX6YW",
+   "badge": null,
+   "price": "499",
+   "rating": "4.1",
+   "reviews": "12",
+   "title": "Stoga Kinesiology Tape for Physiotherapy 5M Roll | Sports Injury, Muscle & Joint Support | Rayon+Spandex, Medical-Grade Adhesive, Waterproof | Knee, Shoulder, B",
+   "slot": 1
+  },
+  {
+   "asin": "B0BJFWC6K5",
+   "badge": null,
+   "price": "341",
+   "rating": "4.2",
+   "reviews": "955",
+   "title": "Boldfit Kinesiology Tape for Physiotherapy Precut Kinesio Tape for Sports Injury Pain Relief Muscle Tape for Shoulder, Wings, Arms, Ankle K Taping Waterproof At",
+   "slot": 2
+  },
+  {
+   "asin": "B07P74DYQM",
+   "badge": null,
+   "price": "249",
+   "rating": "3.9",
+   "reviews": "2,050",
+   "title": "Waterproof Kinesiology Sports Tape for Injury, Muscle Support, Pain Relief, Joint Support, Physiotherapy, 5M x 5CM (Blue)",
+   "slot": 3
+  },
+  {
+   "asin": "B0G92S6C5M",
    "badge": null,
    "price": "279",
    "rating": "4.0",
    "reviews": "21",
    "title": "Kinesiology Tape for Physiotherapy Kinesio Tape for Sports Injury Pain Relief Muscle Tape for Shoulder, Wings, Arms, Ankle K Taping Waterproof Athletic Tape for",
-   "rank": 8
+   "slot": 4
+  },
+  {
+   "asin": "B0B5LPQSLQ",
+   "badge": null,
+   "price": "399",
+   "rating": "4.2",
+   "reviews": "2,237",
+   "title": "Boldfit Kinesiology Tape for Physiotherapy Kinesio Tape for Sports Injury Pain Relief Muscle Tape for Shoulder, Wings, Arms, Ankle K Taping Waterproof Athletic ",
+   "slot": 5
+  },
+  {
+   "asin": "B0BJF8WDN2",
+   "badge": null,
+   "price": "360",
+   "rating": "4.2",
+   "reviews": "582",
+   "title": "Boldfit Kinesiology Tape for Physiotherapy Kinesio Tape for Sports Injury Pain Relief Muscle Tape for Shoulder, Wings, Arms, Ankle Athletic Tape for All Body Ex",
+   "slot": 6
   },
   {
    "asin": "B0G2MDCQY5",
@@ -87,100 +162,8 @@
    "price": "299",
    "rating": "3.5",
    "reviews": "2",
-   "title": "Kinesiology Tape for Physiotherapy, Sports Injury, Pain Relief Muscle Tape, for Shoulder, Wings, Arms, Athletic Tape for Pain Support - Black",
-   "rank": 9
-  },
-  {
-   "asin": "B0GGR9LDHH",
-   "badge": null,
-   "price": "164",
-   "rating": "3.5",
-   "reviews": "14",
-   "title": "Kinesiology Tape for Physiotherapy, Sports Injury, Pain Relief Muscle Tape, for Shoulder, Wings, Arms, Ankle K Taping Waterproof Athletic Tape for Pain Support ",
-   "rank": 10
-  }
- ],
- "sponsored": [
-  {
-   "asin": "B0GM6NB7PQ",
-   "badge": null,
-   "price": "499",
-   "rating": "4.0",
-   "reviews": "42",
-   "title": "Kinesiology Tape for Sports Injury Pain Relief, Muscle and Joint Support | Waterproof Cotton Elastic Athletic Tape with Stretch Indicators | K Tape For Knee, An",
-   "slot": 1
-  },
-  {
-   "asin": "B0GT9XCWM2",
-   "badge": null,
-   "price": "299",
-   "rating": "4.3",
-   "reviews": "15",
-   "title": "Kinesiology Tape for Physiotherapy | KT Kinesio K Tape for Pain Relief & Muscle Support (Standard)",
-   "slot": 2
-  },
-  {
-   "asin": "B0GK1PX6YW",
-   "badge": null,
-   "price": "499",
-   "rating": "4.1",
-   "reviews": "12",
-   "title": "Kinesiology Tape for Physiotherapy 5M Roll | Sports Injury, Muscle & Joint Support | Rayon+Spandex, Medical-Grade Adhesive, Waterproof | Knee, Shoulder, Back, A",
-   "slot": 3
-  },
-  {
-   "asin": "B0D41Z4856",
-   "badge": null,
-   "price": "456",
-   "rating": "4.2",
-   "reviews": "31",
-   "title": "Precut Kinesiology Tape for Pain Relief & Muscle Support – Waterproof, Breathable Physio Tape Strips for Sports, Gym, Yoga, Athletic Training & Injury Recovery ",
-   "slot": 4
-  },
-  {
-   "asin": "B0B5LQSRQV",
-   "badge": "Bestseller",
-   "price": "359",
-   "rating": "4.2",
-   "reviews": "2,237",
-   "title": "Kinesiology Tape for Physiotherapy Kinesio Tape for Sports Injury Pain Relief Muscle Tape for Shoulder, Wings, Arms, Ankle K Taping Waterproof Athletic Tape for",
-   "slot": 5
-  },
-  {
-   "asin": "B0FM41DVC5",
-   "badge": null,
-   "price": "349",
-   "rating": "3.5",
-   "reviews": "91",
-   "title": "PulseITSportsTape Kinesiology Tape– Waterproof & Sweatproof Sports Tape for Muscle Support, Pain Relief & Injury Recovery | Athletic Physio Tape for Knee, Shoul",
-   "slot": 6
-  },
-  {
-   "asin": "B0FWZTSBQ7",
-   "badge": null,
-   "price": "282",
-   "rating": "3.5",
-   "reviews": "49",
-   "title": "Athletic Kinesiology Tape Pink Design, 5 Pcs Waterproof Sports Muscle Support Tape for Pain Relief, Injury Recovery, Athletic Training, Joint & Tendon Support, ",
+   "title": "Cult Kinesiology Tape for Physiotherapy, Sports Injury, Pain Relief Muscle Tape, for Shoulder, Wings, Arms, Athletic Tape for Pain Support - Black",
    "slot": 7
-  },
-  {
-   "asin": "B0G2MD581M",
-   "badge": null,
-   "price": "256",
-   "rating": "3.5",
-   "reviews": "2",
-   "title": "Kinesiology Tape for Physiotherapy, Sports Injury, Pain Relief Muscle Tape, for Shoulder, Wings, Arms, Athletic Tape for Pain Support - Beige",
-   "slot": 8
-  },
-  {
-   "asin": "B0DS2FW1BJ",
-   "badge": null,
-   "price": "288",
-   "rating": "3.9",
-   "reviews": "207",
-   "title": "Zorrofit Kinesiology Tape for Physiotherapy Sports Injury Pain Relief Muscle for Shoulder Wings Arms Ankle KT Taping Waterproof Athletic for Pain Support",
-   "slot": 9
   },
   {
    "asin": "B0DJ13WLCF",
@@ -189,6 +172,24 @@
    "rating": null,
    "reviews": null,
    "title": "Breathable Self Adhesive Wrap, Athletic, Non Woven Cohesive Bandage – for Sports, First Aid Medical, Wrist, Swelling (2.5 cm, 4.5 mtr) Pack of 4 (Red)",
+   "slot": 8
+  },
+  {
+   "asin": "B0FWZTSBQ7",
+   "badge": null,
+   "price": "299",
+   "rating": "3.5",
+   "reviews": "49",
+   "title": "Wonder Care Athletic Kinesiology Tape Pink Design, 5 Pcs Waterproof Sports Muscle Support Tape for Pain Relief, Injury Recovery, Athletic Training, Joint & Tend",
+   "slot": 9
+  },
+  {
+   "asin": "B09KY2LPYZ",
+   "badge": null,
+   "price": "199",
+   "rating": "4.1",
+   "reviews": "1,712",
+   "title": "Aegon Waterproof Kinesiology Tape 5 Metres Latex Free Breathable Athletic Sports Tape For Injury, Muscle Support, Pain Relief, Joint Support And Physiotherapy (",
    "slot": 10
   }
  ],

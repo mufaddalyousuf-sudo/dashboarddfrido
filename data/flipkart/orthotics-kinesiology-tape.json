@@ -1,107 +1,94 @@
 {
  "category": "orthotics-kinesiology-tape",
  "marketplace": "flipkart",
- "keyword": "Frido Kinesiology Tape",
+ "keyword": "Kinesiology Tape",
+ "brandKeyword": "Frido Kinesiology Tape",
  "capturedAt": "2026-07-08",
- "method": "Live scrape flipkart.com mobile search page 1 (__INITIAL_STATE__), query = exact SKU name",
+ "method": "Live scrape flipkart.com mobile search page 1 (__INITIAL_STATE__), query = generic product keyword",
  "confidence": "Medium-High (live; sponsored flags not exposed on mobile)",
- "fridoRank": null,
- "fridoPresent": false,
+ "fridoRank": 5,
+ "fridoPresent": true,
+ "fridoUrl": "https://www.flipkart.com/search?q=Kinesiology%20Tape",
  "results": [
   {
    "pos": 1,
    "title": "BOLDFIT Kinesiology Tape Knee support Shoulder Muscle Tape Sports Injury Tape Pain Tape Kinesiology Tape",
+   "brand": "BOLDFIT",
    "price": null,
    "rating": 4.3,
-   "ratings": 3562,
+   "ratings": 3567,
    "isFrido": false
   },
   {
    "pos": 2,
-   "title": "BOLDFIT Kinesiology Tape for Pain K Tape Muscle Tape Pain Relief Tape Shoulder Tape Kinesiology Tape",
+   "title": "BOLDFIT kinesiology tape injury tape kinesiology sports tape k tape muscle tape Kinesio Kinesiology Tape",
+   "brand": "BOLDFIT",
    "price": null,
-   "rating": 4,
-   "ratings": 273,
+   "rating": 4.3,
+   "ratings": 848,
    "isFrido": false
   },
   {
    "pos": 3,
-   "title": "GJSHOP Muscles Support & Sports Injury Pain Relief Compression Bandage Sports Athletes Kinesiology Tape",
+   "title": "Shopeleven Athletic Sports Lifting Tape Physical Therapy Equipment Latex-Free Breathable Kinesiology Tape",
+   "brand": "Shopeleven",
    "price": null,
    "rating": 3.9,
-   "ratings": 582,
+   "ratings": 1568,
    "isFrido": false
   },
   {
    "pos": 4,
-   "title": "Shopeleven Athletic Sports Lifting Tape Physical Therapy Equipment Latex-Free Breathable Kinesiology Tape",
+   "title": "LaMensa Kinesiology Tape Sports 5 cm X 5 m (Pack of 1 Roll) Kinesiology Tape",
+   "brand": "LaMensa",
    "price": null,
-   "rating": 3.9,
-   "ratings": 1565,
+   "rating": 4.2,
+   "ratings": 23,
    "isFrido": false
   },
   {
    "pos": 5,
-   "title": "Dr Trust USA Muscles Support & Sports Injury Pain Relief Compression Bandage (5 m X 5 cm) Kinesiology Tape",
+   "title": "Frido Kinesiology Tape for Physiotherapy, Knee Pain Relief, Muscle & Planter Fasciitis Kinesiology Tape",
+   "brand": "Frido",
    "price": null,
-   "rating": 4.1,
-   "ratings": 409,
-   "isFrido": false
+   "rating": 0,
+   "ratings": 0,
+   "isFrido": true
   },
   {
    "pos": 6,
-   "title": "Fitness Scout Kinesiology Tape for Physiotherapy Kinesio Tape for Sports Injury Pain Relief Arm Support",
+   "title": "ADONYX Kinesiology Tape for Physical Therapy Sports Athletes – Latex Free Elastic Kinesiology Tape",
+   "brand": "ADONYX",
    "price": null,
-   "rating": 3.8,
-   "ratings": 98,
+   "rating": 3.7,
+   "ratings": 6327,
    "isFrido": false
   },
   {
    "pos": 7,
-   "title": "Shopeleven Elastic Muscle Pain Relief Sport Tape for Injury Joint Support, Sports Tape Kinesiology Tape",
+   "title": "GJSHOP Muscles Support & Sports Injury Pain Relief Compression Bandage Sports Athletes Kinesiology Tape",
+   "brand": "GJSHOP",
    "price": null,
-   "rating": 4.1,
-   "ratings": 17,
+   "rating": 3.9,
+   "ratings": 586,
    "isFrido": false
   },
   {
    "pos": 8,
-   "title": "Strivex Professional Wrap Band ,Strap For Gym and Fitness Wrist Support",
+   "title": "GAMA kinesology Tape/ sport tape /rehab tape -5CM*5M Kinesiology Tape",
+   "brand": "GAMA",
    "price": null,
-   "rating": 4.4,
-   "ratings": 150,
+   "rating": 4.1,
+   "ratings": 107,
    "isFrido": false
   },
   {
    "pos": 9,
-   "title": "Strivex GYM BELT LEATHER BLACK COLOUR MEDIUM Weight Lifting Belt",
+   "title": "lais enterprises Muscles Support & Sports Injury Pain Relief Compression Bandage Sports Athletes Kinesiology Tape",
+   "brand": "lais enterprises",
    "price": null,
-   "rating": 4.7,
-   "ratings": 14,
-   "isFrido": false
-  },
-  {
-   "pos": 10,
-   "title": "Strivex Fitness Mens Gym Gloves with half Wrist Support / Anti Slip Gloves Gym & Fitness Gloves",
-   "price": null,
-   "rating": 0,
-   "ratings": null,
-   "isFrido": false
-  },
-  {
-   "pos": 11,
-   "title": "Strivex POLYESTER BELT ADJUSTABLE X-LARGE Weight Lifting Belt",
-   "price": null,
-   "rating": 4.7,
-   "ratings": 14,
-   "isFrido": false
-  },
-  {
-   "pos": 12,
-   "title": "Strivex Fitness Mens Gym Gloves with half Wrist Support and Anti Slip Gloves Gym & Fitness Gloves",
-   "price": null,
-   "rating": 3.3,
-   "ratings": 3,
+   "rating": 3.7,
+   "ratings": 29,
    "isFrido": false
   }
  ],

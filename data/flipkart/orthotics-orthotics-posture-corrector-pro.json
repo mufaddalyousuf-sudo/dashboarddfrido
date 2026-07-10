@@ -1,14 +1,96 @@
 {
  "category": "orthotics-orthotics-posture-corrector-pro",
  "marketplace": "flipkart",
- "keyword": "Frido Orthotics Posture Corrector Pro",
+ "keyword": "Orthotics Posture Corrector",
+ "brandKeyword": "Frido Orthotics Posture Corrector Pro",
  "capturedAt": "2026-07-08",
- "method": "Live scrape flipkart.com mobile search page 1 (__INITIAL_STATE__), query = exact SKU name",
- "confidence": "Low (fetch blocked)",
+ "method": "Live scrape flipkart.com mobile search page 1 (__INITIAL_STATE__), query = generic product keyword",
+ "confidence": "Medium-High (live; sponsored flags not exposed on mobile)",
  "fridoRank": null,
  "fridoPresent": false,
- "results": [],
- "notes": [
-  "Live fetch failed after retries — needs re-verification."
- ]
+ "fridoUrl": "https://www.flipkart.com/search?q=Orthotics%20Posture%20Corrector",
+ "results": [
+  {
+   "pos": 1,
+   "title": "PLETHEON Posture corrector belt for men and women for back pain back (FREE SIZE) Back / Lumbar Support",
+   "brand": "PLETHEON",
+   "price": null,
+   "rating": 3.7,
+   "ratings": 26366,
+   "isFrido": false
+  },
+  {
+   "pos": 2,
+   "title": "Leeford Posture Corrector Belt for Men & Women, Back Support Belt for Back Pain Relief Back / Lumbar Support",
+   "brand": "Leeford",
+   "price": null,
+   "rating": 3.9,
+   "ratings": 598,
+   "isFrido": false
+  },
+  {
+   "pos": 3,
+   "title": "TENACT Posture Corrector Belt Pro Fix for Men & Women Straight Back pain Relief Posture Corrector",
+   "brand": "TENACT",
+   "price": null,
+   "rating": 3.8,
+   "ratings": 8188,
+   "isFrido": false
+  },
+  {
+   "pos": 4,
+   "title": "PLETHEON support posture corrector belt for men and women for back pain (FREE SIZE) Posture Corrector",
+   "brand": "PLETHEON",
+   "price": null,
+   "rating": 3.7,
+   "ratings": 78719,
+   "isFrido": false
+  },
+  {
+   "pos": 5,
+   "title": "Fitlux Care Back Brace Fixer for Men & Women | Shoulder Chest Straight Belt Posture Corrector",
+   "brand": "Fitlux Care",
+   "price": null,
+   "rating": 3.8,
+   "ratings": 2731,
+   "isFrido": false
+  },
+  {
+   "pos": 6,
+   "title": "PLETHEON Posture corrector belt for men and women for back pain back support (FREE SIZE) Back / Lumbar Support",
+   "brand": "PLETHEON",
+   "price": null,
+   "rating": 3.7,
+   "ratings": 26366,
+   "isFrido": false
+  },
+  {
+   "pos": 7,
+   "title": "PRO365 Adjustable Posture Corrector with Premium Fabric for Back Pain Posture Corrector",
+   "brand": "PRO365",
+   "price": null,
+   "rating": 3.8,
+   "ratings": 186,
+   "isFrido": false
+  },
+  {
+   "pos": 8,
+   "title": "TENACT Posture Corrector Belt for men & women Back Support & Posture Corrector",
+   "brand": "TENACT",
+   "price": null,
+   "rating": 3.8,
+   "ratings": 3655,
+   "isFrido": false
+  },
+  {
+   "pos": 9,
+   "title": "TYNOR Posture Corrector, Grey, Small, 1 Unit Posture Corrector",
+   "brand": "TYNOR",
+   "price": null,
+   "rating": 3.9,
+   "ratings": 1095,
+   "isFrido": false
+  }
+ ],
+ "notes": []
 }

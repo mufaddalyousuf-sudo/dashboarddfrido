@@ -1,14 +1,141 @@
 {
  "category": "orthotics-orthotics-wrist-support-brace",
  "marketplace": "flipkart",
- "keyword": "Frido Orthotics Wrist Support Brace",
+ "keyword": "Orthotics Wrist Support Brace",
+ "brandKeyword": "Frido Orthotics Wrist Support Brace",
  "capturedAt": "2026-07-08",
- "method": "Live scrape flipkart.com mobile search page 1 (__INITIAL_STATE__), query = exact SKU name",
- "confidence": "Low (fetch blocked)",
+ "method": "Live scrape flipkart.com mobile search page 1 (__INITIAL_STATE__), query = generic product keyword",
+ "confidence": "Medium-High (live; sponsored flags not exposed on mobile)",
  "fridoRank": null,
  "fridoPresent": false,
- "results": [],
- "notes": [
-  "Live fetch failed after retries — needs re-verification."
- ]
+ "fridoUrl": "https://www.flipkart.com/search?q=Orthotics%20Wrist%20Support%20Brace",
+ "results": [
+  {
+   "pos": 1,
+   "title": "BOLDFIT Wrist Band Belt Wrap Brace Strap for Men & Women Pain Gym Grip Supporter",
+   "brand": "BOLDFIT",
+   "price": null,
+   "rating": 4.4,
+   "ratings": 9193,
+   "isFrido": false
+  },
+  {
+   "pos": 2,
+   "title": "BOLDFIT Wrist Band for Men & Women, for Gym. Wrist Support",
+   "brand": "BOLDFIT",
+   "price": null,
+   "rating": 4.3,
+   "ratings": 5176,
+   "isFrido": false
+  },
+  {
+   "pos": 3,
+   "title": "Lumov Wrist Brace Adjustable Compression Wrist Support Pain Relief Stabilization Band Wrist Support",
+   "brand": "Lumov",
+   "price": null,
+   "rating": 5,
+   "ratings": 3,
+   "isFrido": false
+  },
+  {
+   "pos": 4,
+   "title": "Leeford Wrist Brace With Thumb | Adjustable & Better Grip for Pain Relief Wrist Support",
+   "brand": "Leeford",
+   "price": null,
+   "rating": 4.1,
+   "ratings": 4866,
+   "isFrido": false
+  },
+  {
+   "pos": 5,
+   "title": "ORTHOPEDIST The Force Behind Your Health Wrist Brace with Thumb Orthopedic Wrist Support",
+   "brand": "ORTHOPEDIST",
+   "price": null,
+   "rating": 0,
+   "ratings": 0,
+   "isFrido": false
+  },
+  {
+   "pos": 6,
+   "title": "Dr. Ortho Neoprene Double Lock Wrist Support",
+   "brand": "Dr. Ortho",
+   "price": null,
+   "rating": 4.3,
+   "ratings": 14,
+   "isFrido": false
+  },
+  {
+   "pos": 7,
+   "title": "Xfinity Fitness Wrist Support Brace Dual Splint Adjustable Right Hand Stabilizer Pain Relief Wrist Support",
+   "brand": "Xfinity Fitness",
+   "price": null,
+   "rating": 4.5,
+   "ratings": 19,
+   "isFrido": false
+  },
+  {
+   "pos": 8,
+   "title": "SLOVIC Wrist Support | Hand Support | Hand Brace for Pain Relief | Right Hand Support Wrist Support",
+   "brand": "SLOVIC",
+   "price": null,
+   "rating": 4,
+   "ratings": 146,
+   "isFrido": false
+  },
+  {
+   "pos": 9,
+   "title": "betterhood Wrist Support, ZeroBulk Design for Sports & Injury Recovery, Pack of 1 Wrist Support",
+   "brand": "betterhood",
+   "price": null,
+   "rating": 4.1,
+   "ratings": 193,
+   "isFrido": false
+  },
+  {
+   "pos": 10,
+   "title": "Orthotech Wrist Support Wrist Support",
+   "brand": "Orthotech",
+   "price": null,
+   "rating": 4.1,
+   "ratings": 40,
+   "isFrido": false
+  },
+  {
+   "pos": 11,
+   "title": "Xfinity Fitness Wrist Support Brace Dual Splint Adjustable Left Hand Stabilizer Pain Relief Wrist Support",
+   "brand": "Xfinity Fitness",
+   "price": null,
+   "rating": 4.2,
+   "ratings": 19,
+   "isFrido": false
+  },
+  {
+   "pos": 12,
+   "title": "JHON VEGAS POWER WEIGHTLIFTING GYM WRIST SUPPORTER BANDS WRIST STRAP FOR GRIP PAIN WHITE Wrist Support",
+   "brand": "JHON VEGAS",
+   "price": null,
+   "rating": 4.2,
+   "ratings": 39,
+   "isFrido": false
+  },
+  {
+   "pos": 13,
+   "title": "JHON VEGAS POWER WEIGHTLIFTING GYM WRIST SUPPORTER BANDS WRIST STRAP FOR GRIP PAIN BLACK Wrist Support",
+   "brand": "JHON VEGAS",
+   "price": null,
+   "rating": 4.2,
+   "ratings": 39,
+   "isFrido": false
+  },
+  {
+   "pos": 14,
+   "title": "JHON VEGAS CORE FIT WRIST SUPPORTER PROFESSIONAL APPROVED BAND WRIST STRAP FOR GYM & FITNES Wrist Support",
+   "brand": "JHON VEGAS",
+   "price": null,
+   "rating": 4.1,
+   "ratings": 28,
+   "isFrido": false
+  }
+ ],
+ "notes": []
 }

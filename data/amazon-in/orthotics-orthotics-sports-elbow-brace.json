@@ -1,30 +1,41 @@
 {
  "category": "orthotics-orthotics-sports-elbow-brace",
  "marketplace": "amazon-in",
- "keyword": "Frido Orthotics Sports Elbow Brace",
+ "keyword": "Orthotics Sports Elbow Brace",
+ "brandKeyword": "Frido Orthotics Sports Elbow Brace",
  "capturedAt": "2026-07-08",
- "method": "Live scrape amazon.in search page 1, query = exact SKU name (brand-qualified)",
+ "method": "Live scrape amazon.in search page 1, query = generic product keyword (brand + Frido product-line/marketing words stripped) — the competitive rank signal, not a brand-qualified existence check",
  "confidence": "High (live snapshot, single keyword)",
  "fridoOrganicRank": null,
  "fridoSponsoredSlot": null,
+ "fridoUrl": null,
  "organic": [
   {
-   "asin": "B0DP6NJZKF",
-   "badge": null,
-   "price": "301",
-   "rating": "4.1",
-   "reviews": "30",
-   "title": "Elbow Support Air, Black & Orange, Large, 1 Unit",
+   "asin": "B00ICJ8FJ4",
+   "badge": "Bestseller",
+   "price": "283",
+   "rating": "4.3",
+   "reviews": "4,591",
+   "title": "TYNOR Tennis Elbow Support, with Adjustable Compression for Pain Relief & Elbow Stability | for Sports, Gym, Running, Training & Injury Recovery for Men & Women",
    "rank": 1
   },
   {
+   "asin": "B00ICJ8LZC",
+   "badge": null,
+   "price": "189",
+   "rating": "3.8",
+   "reviews": "5,919",
+   "title": "Tynor Elbow Support, Grey, Large, 1 Unit",
+   "rank": 2
+  },
+  {
    "asin": "B09R233KJS",
-   "badge": "Bestseller",
+   "badge": null,
    "price": "499",
    "rating": "4.2",
-   "reviews": "3,226",
-   "title": "Elbow Support For Gym Elbow Band For Pain Relief Tennis Elbow Band For Men & Women Tennis Elbow Support For Badminton Cricket & Sports Elbow Sleeves Elbow Guard",
-   "rank": 2
+   "reviews": "3,229",
+   "title": "Boldfit Elbow Support For Gym Elbow Band For Pain Relief Tennis Elbow Band For Men & Women Tennis Elbow Support For Badminton Cricket & Sports Elbow Sleeves Elb",
+   "rank": 3
   },
   {
    "asin": "B0GDD739KB",
@@ -32,118 +43,127 @@
    "price": "199",
    "rating": "4.2",
    "reviews": "25",
-   "title": "USA 4606 Orthopedic Knitted Elbow Support Sleeve for Men & Women, Compression Elbow Brace for Pain & Stiffness Relief, Injury Prevention, Training, Fitness, Gym",
-   "rank": 3
-  },
-  {
-   "asin": "B00ICJ8FJ4",
-   "badge": null,
-   "price": "283",
-   "rating": "4.3",
-   "reviews": "4,591",
-   "title": "Tennis Elbow Support, with Adjustable Compression for Pain Relief & Elbow Stability | for Sports, Gym, Running, Training & Injury Recovery for Men & Women | Pac",
+   "title": "Dr Trust USA 4606 Orthopedic Knitted Elbow Support Sleeve for Men & Women, Compression Elbow Brace for Pain & Stiffness Relief, Injury Prevention, Training, Fit",
    "rank": 4
-  },
-  {
-   "asin": "B0GDF5DZZM",
-   "badge": null,
-   "price": "199",
-   "rating": "4.2",
-   "reviews": "25",
-   "title": "USA 4606 Orthopedic Knitted Elbow Support Sleeve for Men & Women, Compression Elbow Brace for Pain & Stiffness Relief, Injury Prevention, Training, Fitness, Gym",
-   "rank": 5
-  },
-  {
-   "asin": "B0GDDTWC8R",
-   "badge": null,
-   "price": "427",
-   "rating": "4.1",
-   "reviews": "119",
-   "title": "Elbow Wrap for Men and Women, Neoprene, Universal | Gym Workout, Badminton, Pain Relief & Joint Support, Tennis Elbow Guard",
-   "rank": 6
-  },
-  {
-   "asin": "B0CYLG3PD2",
-   "badge": null,
-   "price": "472",
-   "rating": "4.0",
-   "reviews": "71",
-   "title": "Elbow Wrap Neo, for Joint Pain Relief & Compression | Breathable & Lightweight for Sports, Workout, Gym & Exercise | Easy Elbow Movement With Comfort | Pack of ",
-   "rank": 7
   },
   {
    "asin": "B07VMNQY6J",
    "badge": null,
-   "price": "269",
+   "price": "219",
    "rating": "3.8",
    "reviews": "610",
-   "title": "Leosportz Elbow, Reversible Neoprene Support Brace for Joint, Arthritis Pain Relief, Tendonitis, Sports Injury Recovery, ES10, Black, 1 Count",
-   "rank": 8
+   "title": "serveuttam Leosportz Elbow, Reversible Neoprene Support Brace for Joint, Arthritis Pain Relief, Tendonitis, Sports Injury Recovery, ES10, Black, 1 Count",
+   "rank": 5
   },
   {
-   "asin": "B0FNRMN6HH",
+   "asin": "B0GT18FKP8",
    "badge": null,
-   "price": "299",
-   "rating": "3.6",
-   "reviews": "51",
-   "title": "Elbow Support Sleeve | Even Compression for Elbow Comfort | Breathable Fabric | Padded Design for Daily Stability | Unisex | Medium",
-   "rank": 9
+   "price": "589",
+   "rating": "4.5",
+   "reviews": "36",
+   "title": "betterhood Premium Elbow Support (1 Piece, L), with EasyMove StableMax Design for Gym, Sports, Day-long Use | Compression Elbow Sleeve for Tennis Elbow, Bursiti",
+   "rank": 6
+  },
+  {
+   "asin": "B0DK3J4SQH",
+   "badge": null,
+   "price": "285",
+   "rating": "3.9",
+   "reviews": "23",
+   "title": "Elbow Support – 1 Piece - Elbow Compression Sleeves for Men and Women – Breathable and Stretchy Nylon Elbow Brace – Elbow Brace for Elbow Pain Relief – Ideal fo",
+   "rank": 7
   },
   {
    "asin": "B0CW5R9W9K",
    "badge": null,
-   "price": "228",
+   "price": "231",
    "rating": "3.7",
    "reviews": "11",
-   "title": "Gel Elbow Support Brace | Elbow Sleeves Arm Brace For Sports, Gym, Joint Pain, Tendonitis And Weightlifting | Elbow Sleeves Band For Pain Relief | Beige | Mediu",
+   "title": "Flamingo Gel Elbow Support Brace | Elbow Sleeves Arm Brace For Sports, Gym, Joint Pain, Tendonitis And Weightlifting | Elbow Sleeves Band For Pain Relief | Beig",
+   "rank": 8
+  },
+  {
+   "asin": "B0CYLJS3HD",
+   "badge": null,
+   "price": "472",
+   "rating": "4.0",
+   "reviews": "71",
+   "title": "TYNOR Elbow Wrap Neo, for Joint Pain Relief & Compression | Breathable & Lightweight for Sports, Workout, Gym & Exercise | Easy Elbow Movement With Comfort | Pa",
+   "rank": 9
+  },
+  {
+   "asin": "B0CL53BZ3N",
+   "badge": null,
+   "price": "208",
+   "rating": "4.3",
+   "reviews": "768",
+   "title": "AGARO Tennis Elbow Support, For Pain Relief, Adjustable with Compression Pad, Elbow Support Strap for Gym, Ideal for Men & Women, Weightlifting, Volleyball & Ot",
    "rank": 10
   }
  ],
  "sponsored": [
   {
-   "asin": "B0GDDTWC8R",
+   "asin": "B0GT18FKP8",
    "badge": null,
-   "price": "427",
-   "rating": "4.1",
-   "reviews": "119",
-   "title": "Elbow Wrap for Men and Women, Neoprene, Universal | Gym Workout, Badminton, Pain Relief & Joint Support, Tennis Elbow Guard",
+   "price": "589",
+   "rating": "4.5",
+   "reviews": "36",
+   "title": "betterhood Premium Elbow Support (1 Piece, L), with EasyMove StableMax Design for Gym, Sports, Day-long Use | Compression Elbow Sleeve for Tennis Elbow, Bursiti",
    "slot": 1
   },
   {
-   "asin": "B0719X6WWP",
+   "asin": "B07VMNQY6J",
    "badge": null,
-   "price": "332",
-   "rating": "4.4",
-   "reviews": "354",
-   "title": "Tennis Elbow Support (Mild Support), Provides an Ideal Compression to the Strained Muscles of the Elbow (Black)",
+   "price": "219",
+   "rating": "3.8",
+   "reviews": "610",
+   "title": "serveuttam Leosportz Elbow, Reversible Neoprene Support Brace for Joint, Arthritis Pain Relief, Tendonitis, Sports Injury Recovery, ES10, Black, 1 Count",
    "slot": 2
   },
   {
    "asin": "B0FT1GGYHL",
    "badge": null,
    "price": "1,499",
-   "rating": "3.8",
-   "reviews": "7",
+   "rating": "3.2",
+   "reviews": "8",
    "title": "Elbow Support for Tennis & Golfer’s Elbow Pain Relief | Seamless Compression Elbow Brace with OptiFit+ Dial Micro Adjustment & Silicone Pressure Pad | Breathabl",
    "slot": 3
   },
   {
-   "asin": "B0BLZKJ2CP",
+   "asin": "B0719X6WWP",
    "badge": null,
-   "price": "215",
-   "rating": "4.2",
-   "reviews": "501",
-   "title": "Ortho Tennis Elbow Support, Neoprene Elbow Band for Pain Relief, with Adjustable Velcro Strap for Gym Workout, Lightweight, Skin-Friendly for Men and Women - Si",
+   "price": "314",
+   "rating": "4.4",
+   "reviews": "354",
+   "title": "Vissco Tennis Elbow Support (Mild Support), Provides an Ideal Compression to the Strained Muscles of the Elbow (Black)",
    "slot": 4
   },
   {
-   "asin": "B00ICJ8LZC",
+   "asin": "B0DP6NJZKF",
    "badge": null,
-   "price": "189",
-   "rating": "3.8",
-   "reviews": "5,908",
-   "title": "Elbow Support, Grey, Large, 1 Unit",
+   "price": "301",
+   "rating": "4.2",
+   "reviews": "31",
+   "title": "TYNOR Elbow Support Air, Black & Orange, Large, 1 Unit",
    "slot": 5
+  },
+  {
+   "asin": "B0DP2BJ1Y9",
+   "badge": null,
+   "price": "246",
+   "rating": "4.1",
+   "reviews": "338",
+   "title": "LifeWear Tennis Elbow Brace for Pain Relief, Adjustable Elbow Band with Compression Pad, Forearm Support Strap for Gym, Tennis, Badminton, Golf and Other Sports",
+   "slot": 6
+  },
+  {
+   "asin": "B085TK9CK8",
+   "badge": null,
+   "price": "2,099",
+   "rating": "4.5",
+   "reviews": "32",
+   "title": "Dyna ROM Elbow Brace-Universal Size-Range of Motion Elbow Support (Right)",
+   "slot": 7
   },
   {
    "asin": "B0FNRP6JVD",
@@ -151,43 +171,25 @@
    "price": "299",
    "rating": "3.6",
    "reviews": "51",
-   "title": "Elbow Support Sleeve | Even Compression for Elbow Comfort | Breathable Fabric | Padded Design for Daily Stability | Unisex | Small",
-   "slot": 6
-  },
-  {
-   "asin": "B0DHRS4K1W",
-   "badge": null,
-   "price": "213",
-   "rating": "4.2",
-   "reviews": "48",
-   "title": "Tennis Elbow Support for Gym with Adjustable Strap | Elbow band for pain relief in Bursitis, Tendonitis Support | Ideal for Men & Women, Weightlifting, Volleyba",
-   "slot": 7
-  },
-  {
-   "asin": "B0FNN46NZ2",
-   "badge": null,
-   "price": "223",
-   "rating": "3.7",
-   "reviews": "32",
-   "title": "Ortho Elbow Support Brace, Size L | Adjustable Neoprene Sleeve, Badminton & Gym Workout, Tennis Pain Relief, For Men and Women",
+   "title": "Amazon Basics Elbow Support Sleeve | Even Compression for Elbow Comfort | Breathable Fabric | Padded Design for Daily Stability | Unisex | Small",
    "slot": 8
   },
   {
-   "asin": "B0FB3Y1SY3",
+   "asin": "B0FNRQFZT4",
    "badge": null,
-   "price": "869",
-   "rating": "3.4",
-   "reviews": "4",
-   "title": "Elbow Immobilizer Brace for Arm Support – Adjustable Neoprene & Aluminium Splint for Fractures, Sprains, Ulnar Nerve, Cubital Tunnel & Post-Surgery Recovery",
+   "price": "179",
+   "rating": "4.2",
+   "reviews": "39",
+   "title": "Amazon Basics Tennis Elbow Support with Adjustable Strap | Targeted Compression for Elbow Comfort | Padded Design for Daily Use | Unisex",
    "slot": 9
   },
   {
-   "asin": "B07VMNQY6J",
+   "asin": "B0018D0M1A",
    "badge": null,
-   "price": "269",
-   "rating": "3.8",
-   "reviews": "610",
-   "title": "Leosportz Elbow, Reversible Neoprene Support Brace for Joint, Arthritis Pain Relief, Tendonitis, Sports Injury Recovery, ES10, Black, 1 Count",
+   "price": "2,786",
+   "rating": "4.1",
+   "reviews": "67",
+   "title": "LP Support Tennis/Golf Elbow Brace 551 (Extra Large)",
    "slot": 10
   }
  ],

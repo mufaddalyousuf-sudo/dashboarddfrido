@@ -1,12 +1,14 @@
 {
  "category": "orthotics-orthotics-posture-corrector-seat",
  "marketplace": "amazon-in",
- "keyword": "Frido Orthotics Posture Corrector Seat",
+ "keyword": "Orthotics Posture Corrector Seat",
+ "brandKeyword": "Frido Orthotics Posture Corrector Seat",
  "capturedAt": "2026-07-08",
- "method": "Live scrape amazon.in search page 1, query = exact SKU name (brand-qualified)",
+ "method": "Live scrape amazon.in search page 1, query = generic product keyword (brand + Frido product-line/marketing words stripped) — the competitive rank signal, not a brand-qualified existence check",
  "confidence": "High (live snapshot, single keyword)",
- "fridoOrganicRank": 7,
- "fridoSponsoredSlot": null,
+ "fridoOrganicRank": null,
+ "fridoSponsoredSlot": 10,
+ "fridoUrl": "https://www.amazon.in/dp/B0CJ8VYBQP",
  "organic": [
   {
    "asin": "B0GSVYCJVM",
@@ -18,59 +20,22 @@
    "rank": 1
   },
   {
-   "asin": "B0GM5V2J88",
+   "asin": "B0GWYDRHTG",
    "badge": null,
-   "price": "1,799",
-   "rating": "4.0",
-   "reviews": "84",
-   "title": "Ergova S2 Core Support Seat & Backrest Cushion, L-Shape, 100% Memory Foam, Enhanced Sitting Comfort, Pressure Relief, Reduced Muscle Fatigue, Non-Slip, Suitable",
+   "price": "649",
+   "rating": "3.0",
+   "reviews": "2",
+   "title": "SMITO Sitting Posture Corrector, Sitting Posture Correction Chair,Health & Beauty | Medical, Mobility & Disability | Orthopedics & Supports | Seat & Posture Cus",
    "rank": 2
   },
   {
    "asin": "B0FG8F7SCW",
-   "badge": null,
+   "badge": "Amazon's Choice",
    "price": "1,199",
    "rating": "4.5",
    "reviews": "13",
    "title": "Sitting Posture Corrector, Sitting Posture Correction Chair,Health & Beauty | Medical, Mobility & Disability | Orthopedics & Supports | Seat & Posture Cushions",
    "rank": 3
-  },
-  {
-   "asin": "B0CXSJG6S9",
-   "badge": null,
-   "price": "1,499",
-   "rating": "3.8",
-   "reviews": "18",
-   "title": "Sitting Posture Correction Lower Back Lumbar Support Back Pain Relief for Teenager",
-   "rank": 4
-  },
-  {
-   "asin": "B0GN3CTRQM",
-   "badge": null,
-   "price": "897",
-   "rating": null,
-   "reviews": null,
-   "title": "Ergonomic Lumbar Back Support with Seat Cushion – Orthopedic Posture Corrector for Lower Back Pain Relief, Spine Backrest Support for Office Chair, Floor Seatin",
-   "rank": 5
-  },
-  {
-   "asin": "B0G946BDVK",
-   "badge": null,
-   "price": "993",
-   "rating": "5.0",
-   "reviews": "1",
-   "title": "Lexara Ergonomic Folding Chair Back Support | Posture Corrector Backrest for Long Sitting | Portable Spine & Lower Back Support for Home, Office, Floor Sitting ",
-   "rank": 6
-  },
-  {
-   "asin": "B0CJ8VYBQP",
-   "badge": "Amazon's Choice",
-   "price": "2,999",
-   "rating": "4.0",
-   "reviews": "3,077",
-   "title": "Ultimate Pro Seat Cushion & Posture Corrector Backrest Cushion Combo | Relieves Back | Coccyx Pain | Hi-Per Foam Tech for Orthopedic Support | for Long Sitting ",
-   "rank": 7,
-   "isFridoBrand": true
   },
   {
    "asin": "B0C7NWWK69",
@@ -79,117 +44,154 @@
    "rating": "3.8",
    "reviews": "55",
    "title": "Lumbar Back Support for Chair, Ergonomic Cushion Lumbar Support Pillow for Office Chair Car, Reading Chair Office Chair Back Support Cushion, Back Straightener ",
+   "rank": 4
+  },
+  {
+   "asin": "B0CXSJG6S9",
+   "badge": null,
+   "price": "1,499",
+   "rating": "3.8",
+   "reviews": "18",
+   "title": "DIALDRCARE Sitting Posture Correction Lower Back Lumbar Support Back Pain Relief for Teenager",
+   "rank": 5
+  },
+  {
+   "asin": "B0F6K94MW7",
+   "badge": null,
+   "price": "834",
+   "rating": "3.8",
+   "reviews": "20",
+   "title": "Lower Back Support Chair Posture Corrector for Kids & Adults - Ergonomic Cushion for Floor Seats & Office - Multicolor - Orthopedic Body Positioner with Lumbar ",
+   "rank": 6
+  },
+  {
+   "asin": "B0GN3CTRQM",
+   "badge": null,
+   "price": "897",
+   "rating": null,
+   "reviews": null,
+   "title": "Ergonomic Lumbar Back Support with Seat Cushion – Orthopedic Posture Corrector for Lower Back Pain Relief, Spine Backrest Support for Office Chair, Floor Seatin",
+   "rank": 7
+  },
+  {
+   "asin": "B0GN33SB1J",
+   "badge": null,
+   "price": "897",
+   "rating": null,
+   "reviews": null,
+   "title": "Orthopedic Lower Back Pain Relief Cushion for Office Chair & Floor Seat – , Ergonomic Lumbar Back Support Posture Corrector Backrest with Seat Pad, Spine Suppor",
    "rank": 8
   },
   {
-   "asin": "B0GC51QJDY",
+   "asin": "B0GN3D5TFW",
    "badge": null,
-   "price": "1,899",
-   "rating": "5.0",
-   "reviews": "3",
-   "title": "Posture Correction Cushion with Washable Breathable Cover | Lumbar Support Cushion for Office Chair & Car Seat|Memory Foam Back Rest Pillow for Lower Back Pain ",
+   "price": "897",
+   "rating": null,
+   "reviews": null,
+   "title": "Ergonomic Lumbar Back Support with Seat Cushion – Orthopedic Posture Corrector for Lower Back Pain Relief, Spine Backrest Support for Office Chair, Floor Seatin",
    "rank": 9
   },
   {
-   "asin": "B0FFBHK26F",
+   "asin": "B0FZB479HX",
    "badge": null,
-   "price": "535",
-   "rating": "3.7",
-   "reviews": "527",
-   "title": "Posture Corrector | Ergonomic Design with Dual Metallic Plates for Spine Alignment & Pain Relief",
+   "price": "2,759",
+   "rating": "3.6",
+   "reviews": "6",
+   "title": "Posture Max Pro Foldable Ergonomic Posture Corrector Seat for Office Chair, Car Seat & Meditation, Breathable Honeycomb TPE Back Support Cushion, Durable, Light",
    "rank": 10
   }
  ],
  "sponsored": [
   {
-   "asin": "B0CJ8VYBQP",
-   "badge": "Amazon's Choice",
-   "price": "2,999",
-   "rating": "4.0",
-   "reviews": "3,077",
-   "title": "Ultimate Pro Seat Cushion & Posture Corrector Backrest Cushion Combo | Relieves Back | Coccyx Pain | Hi-Per Foam Tech for Orthopedic Support | for Long Sitting ",
+   "asin": "B086TPG5B8",
+   "badge": null,
+   "price": "1,519",
+   "rating": "3.8",
+   "reviews": "296",
+   "title": "Futuro Futuro Posture Corrector, Adjustable, One Size Fits Most (46832ENR)",
    "slot": 1
   },
   {
-   "asin": "B0GX6VW82W",
+   "asin": "B07GC5WGJB",
+   "badge": "Bestseller",
+   "price": "1,243",
+   "rating": "4.0",
+   "reviews": "7,676",
+   "title": "FOVERA Orthopedic Coccyx Seat Cushion for Tailbone Pain | 2-Years Warranty | Memory Foam Chair Pad for Sciatica & Back Pain Relief (18 x 17 Inch), Fits Up to 12",
+   "slot": 2
+  },
+  {
+   "asin": "B0GWV5T7ND",
+   "badge": null,
+   "price": "1,299",
+   "rating": "5.0",
+   "reviews": "1",
+   "title": "Memory Foam Coccyx Seat Cushion for Office Chair & Car Seat Orthopedic Hip & Tailbone Support Pillow for Sitting | Ergonomic U-Cut Cushion with Lumbar Support, ",
+   "slot": 3
+  },
+  {
+   "asin": "B0CYT69LRN",
+   "badge": null,
+   "price": "2,388",
+   "rating": "4.0",
+   "reviews": "837",
+   "title": "FOVERA Back Support for Office Chair & Coccyx Seat Cushion for Tailbone - Orthopedic Memory Foam Sitting Cushion Combo - Relieves Back, Sciatica, Hip, Seat Bone",
+   "slot": 4
+  },
+  {
+   "asin": "B0G946BDVK",
+   "badge": null,
+   "price": "993",
+   "rating": "5.0",
+   "reviews": "1",
+   "title": "Lexara Ergonomic Folding Chair Back Support | Posture Corrector Backrest for Long Sitting | Portable Spine & Lower Back Support for Home, Office, Floor Sitting ",
+   "slot": 5
+  },
+  {
+   "asin": "B0GRQLMR94",
+   "badge": null,
+   "price": "879",
+   "rating": "3.1",
+   "reviews": "8",
+   "title": "Back Support Chair Ergonomic Posture Corrector Cushion for Back Pain Relief Orthopedic Spine Support for Floor, Office, Car, Home Compact Seat for Kids Teens & ",
+   "slot": 6
+  },
+  {
+   "asin": "B0GWTTNB94",
    "badge": null,
    "price": "620",
    "rating": "4.6",
    "reviews": "6",
-   "title": "Posture Corrector for Men & Women | Adjustable Back Brace for Spine Alignment & Pain Relief | Upper Back Support Belt Black (XL)",
-   "slot": 2
-  },
-  {
-   "asin": "B0DHP1VR75",
-   "badge": "Bestseller",
-   "price": "2,390",
-   "rating": "4.0",
-   "reviews": "7,672",
-   "title": "Back Support for Chair & Coccyx Seat Cushion for Tailbone - Orthopedic Cool Gel Memory Foam Sitting Cushion Combo - Relieves Back, Sciatica & Hip Pain - for Off",
-   "slot": 3
-  },
-  {
-   "asin": "B0CYLL4MCF",
-   "badge": null,
-   "price": "641",
-   "rating": "3.6",
-   "reviews": "2,216",
-   "title": "Dr. Ortho Posture Corrector Belt For Back & Shoulder, Back Support Belt For Men & Women, Back Straightener Brace For Spine & Body Posture Correction (Large)",
-   "slot": 4
-  },
-  {
-   "asin": "B0GWYDRHTG",
-   "badge": null,
-   "price": "649",
-   "rating": "3.0",
-   "reviews": "2",
-   "title": "Sitting Posture Corrector, Sitting Posture Correction Chair,Health & Beauty | Medical, Mobility & Disability | Orthopedics & Supports | Seat & Posture Cushions ",
-   "slot": 5
-  },
-  {
-   "asin": "B0GG4H8KC2",
-   "badge": null,
-   "price": "349",
-   "rating": "4.0",
-   "reviews": "175",
-   "title": "Free Size Posture Corrector for Men & Women | Breathable Back & Shoulder Support Belt | Helps Improve Posture & Reduce Back Pain (Black)",
-   "slot": 6
-  },
-  {
-   "asin": "B0DTKMPPH6",
-   "badge": null,
-   "price": "999",
-   "rating": "3.9",
-   "reviews": "106",
-   "title": "(Max Group Unisex Posture Corrector Belt, Adjustable Back Brace for Upper Back & Shoulder Support, Breathable Back Straightener Belt with Soft Pads for Neck & B",
+   "title": "Posture Corrector for Men & Women | Adjustable Back Brace for Spine Alignment & Pain Relief | Upper Back Support Belt Black (M)",
    "slot": 7
   },
   {
-   "asin": "B086TPG5B8",
+   "asin": "B0DTKLMFW9",
    "badge": null,
-   "price": "1,412",
-   "rating": "3.8",
-   "reviews": "296",
-   "title": "Futuro Posture Corrector, Adjustable, One Size Fits Most (46832ENR)",
+   "price": "1,299",
+   "rating": "3.9",
+   "reviews": "106",
+   "title": "AGEasy (Max Group Unisex Posture Corrector Belt, Adjustable Back Brace for Upper Back & Shoulder Support, Breathable Back Straightener Belt with Soft Pads for N",
    "slot": 8
   },
   {
-   "asin": "B0H3TQV78C",
+   "asin": "B0F6CRFWHS",
    "badge": null,
-   "price": "2,599",
-   "rating": "5.0",
-   "reviews": "5",
-   "title": "Men's Posture Activation Back Support Compression T-Shirt for Upper Back and Shoulders, Black, XXL, Nylon",
+   "price": "549",
+   "rating": "3.4",
+   "reviews": "293",
+   "title": "CULT Posture Corrector Belt for Men & Women | Back Straightener Brace for Upper Back, Neck & Shoulder Support | Adjustable Back Support Pain Relief Belt for Spi",
    "slot": 9
   },
   {
-   "asin": "B0GJLRHL8C",
+   "asin": "B0CJ8VYBQP",
    "badge": null,
-   "price": "999",
-   "rating": "4.3",
-   "reviews": "19",
-   "title": "Memory Foam Lumbar Back Support Cushion for Office Chair & Car Seat | Ergonomic Lower Back Pillow for Posture Support & Sitting Comfort | Breathable Cover | 1 Y",
-   "slot": 10
+   "price": "2,999",
+   "rating": "4.0",
+   "reviews": "3,081",
+   "title": "Frido Ultimate Pro Seat Cushion & Posture Corrector Backrest Cushion Combo | Relieves Back | Coccyx Pain | Hi-Per Foam Tech for Orthopedic Support | for Long Si",
+   "slot": 10,
+   "isFridoBrand": true
   }
  ],
  "notes": []

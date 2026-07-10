@@ -1,159 +1,32 @@
 {
  "category": "orthotics-orthotics-compression-gloves",
  "marketplace": "amazon-in",
- "keyword": "Frido Orthotics Compression Gloves",
+ "keyword": "Orthotics Compression Gloves",
+ "brandKeyword": "Frido Orthotics Compression Gloves",
  "capturedAt": "2026-07-08",
- "method": "Live scrape amazon.in search page 1, query = exact SKU name (brand-qualified)",
+ "method": "Live scrape amazon.in search page 1, query = generic product keyword (brand + Frido product-line/marketing words stripped) — the competitive rank signal, not a brand-qualified existence check",
  "confidence": "High (live snapshot, single keyword)",
- "fridoOrganicRank": 3,
+ "fridoOrganicRank": null,
  "fridoSponsoredSlot": null,
+ "fridoUrl": null,
  "organic": [
-  {
-   "asin": "B0DJFN1Q9D",
-   "badge": null,
-   "price": "399",
-   "rating": "3.8",
-   "reviews": "256",
-   "title": "Compression Gloves for Arthritis for Women and Men, Bamboo Arthritis Compression Gloves for Pain Relief Rheumatoid and Osteoarthritis Gloves",
-   "rank": 1
-  },
-  {
-   "asin": "B0FH4RXPYB",
-   "badge": null,
-   "price": "799",
-   "rating": "5.0",
-   "reviews": "2",
-   "title": "Copper Infused Compression Arthritis Gloves for Hand & Finger Relief from Pain/swelling Caused by Rheumatoid Arthritis, Carpal Tunnel, Tendonitis, RSI, Swollen ",
-   "rank": 2
-  },
-  {
-   "asin": "B0F5X1R5DW",
-   "badge": "Bestseller",
-   "price": "899",
-   "rating": "4.3",
-   "reviews": "1,225",
-   "title": "Active Knee Cap Support for Men & Women | Active Compression for Pain Relief & Joint Support | Knee Sleeve for Gym, Running, Jogging, Sports & Workout | Anti-Sw",
-   "rank": 3,
-   "isFridoBrand": true
-  },
-  {
-   "asin": "B09HV43CMM",
-   "badge": null,
-   "price": "284",
-   "rating": "4.0",
-   "reviews": "547",
-   "title": "Arthritis Gloves Women Men Hand Fingerless Compression Gloves Wrist Support Therapy Gloves Relieve Pain from Rheumatoid RSI Carpal Tunnel for Typing Wirting Dai",
-   "rank": 4
-  },
-  {
-   "asin": "B0CKFJ1YM2",
-   "badge": null,
-   "price": "293",
-   "rating": "4.1",
-   "reviews": "626",
-   "title": "Wrist Brace With Thumb,Wrist Hand Brace For Men & Women, Wrist Support | Support for Pain Relief & Stabilization | Lightweight Wrist Support for Arthritis, Spra",
-   "rank": 5
-  },
-  {
-   "asin": "B0DSJ3PKKW",
-   "badge": null,
-   "price": "341",
-   "rating": "3.9",
-   "reviews": "81",
-   "title": "Compression Gloves for Arthritis – Bamboo Arthritis Gloves for Pain Relief, Rheumatoid and Osteoarthritis Support, Open Finger Design for Flexibility, Ideal for",
-   "rank": 6
-  },
-  {
-   "asin": "B09HV4BFLP",
-   "badge": null,
-   "price": "479",
-   "rating": "4.0",
-   "reviews": "547",
-   "title": "Arthritis Gloves Copper-Infused Fingerless Compression Gloves to Speed Up Recovery & Relieve Symptoms of Arthritis RSI Tendonitis & More for Men & Women - 1 Pai",
-   "rank": 7
-  },
-  {
-   "asin": "B0FHPT8YZ2",
-   "badge": null,
-   "price": "280",
-   "rating": "3.9",
-   "reviews": "21",
-   "title": "Premium Bamboo Arthritis Compression Gloves for Women & Men Fingerless, Breathable, Ergonomic Fit Pain Relief, Flexibility & Sleep Support Medium Gray, M",
-   "rank": 8
-  },
-  {
-   "asin": "B0BMWGLWW5",
-   "badge": null,
-   "price": "284",
-   "rating": "4.0",
-   "reviews": "547",
-   "title": "Arthritis Gloves Women Men Hand Fingerless Compression Wrist Support Therapy Relieve Pain from Rheumatoid RSI Carpal Tunnel for Typing-1 Pair, BlackSimple, M",
-   "rank": 9
-  },
-  {
-   "asin": "B0FNVHTDV9",
-   "badge": null,
-   "price": "937",
-   "rating": "4.7",
-   "reviews": "6",
-   "title": "Arthritis Gloves for Men and Women Hot Cold Compression Gloves with Reusable Gel Finger Therapy Mitts for Pain Relief Ice Heat Pack Treatment Adjustable Wrist S",
-   "rank": 10
-  }
- ],
- "sponsored": [
   {
    "asin": "B0DJFQYKJT",
    "badge": null,
    "price": "399",
    "rating": "3.8",
-   "reviews": "256",
-   "title": "Compression Gloves for Arthritis for Women and Men, Bamboo Arthritis Compression Gloves for Pain Relief Rheumatoid and Osteoarthritis Gloves",
-   "slot": 1
+   "reviews": "258",
+   "title": "Cetaplast Compression Gloves for Arthritis for Women and Men, Bamboo Arthritis Compression Gloves for Pain Relief Rheumatoid and Osteoarthritis Gloves",
+   "rank": 1
   },
   {
-   "asin": "B0FTT1NJ7J",
+   "asin": "B0DSJ6BYZJ",
    "badge": null,
-   "price": "1,559",
-   "rating": "4.2",
-   "reviews": "19",
-   "title": "Advanced Microfibre Medical Compression Stockings Class 2(23-32 mmHg) | Knee Length for Varicose Veins, DVT & Swelling | Men & Women",
-   "slot": 2
-  },
-  {
-   "asin": "B0D9BSDHB6",
-   "badge": null,
-   "price": "499",
-   "rating": "3.5",
-   "reviews": "172",
-   "title": "2 Pcs Neuropathy Socks, Compression Socks, Compression Socks for Men Foot Pain Relief Products Open Toe Foot Sleeves Compression Socks for Ankle Swelling Achill",
-   "slot": 3
-  },
-  {
-   "asin": "B0DQLLX648",
-   "badge": null,
-   "price": "17,990",
-   "rating": null,
-   "reviews": null,
-   "title": "KuMed Syrebo Robotic Rehabilitation Gloves for Paralysis Patients Model E12 Left Hand (Medium)",
-   "slot": 4
-  },
-  {
-   "asin": "B0DQTPHLS8",
-   "badge": null,
-   "price": "7,999",
-   "rating": "3.1",
-   "reviews": "21",
-   "title": "KuMed Syrebo Robotic Rehabilitation Hand Gloves for Paralysis Patients Model C10 Left Hand (Medium)",
-   "slot": 5
-  },
-  {
-   "asin": "B0FQW8NMLQ",
-   "badge": null,
-   "price": "13,899",
-   "rating": null,
-   "reviews": null,
-   "title": "Robotic Hand rehabilitation Glove Both hands Finger Rehabilitation Trainer Robot Gloves, Therapy Equipment For Stroke Fingers, Stroke Hand Recovery Equipment BO",
-   "slot": 6
+   "price": "378",
+   "rating": "3.9",
+   "reviews": "81",
+   "title": "TecoKart® Compression Gloves for Arthritis – Bamboo Arthritis Gloves for Pain Relief, Rheumatoid and Osteoarthritis Support, Open Finger Design for Flexibility,",
+   "rank": 2
   },
   {
    "asin": "B0FBRBJH83",
@@ -162,33 +35,161 @@
    "rating": "3.9",
    "reviews": "8",
    "title": "Black Grip Gloves, Arthritis Compression Gloves, Touch Screen Copper Arthritis Glove, Best Copper Infused Gaming Glove for Relieving RSI, Carpal Tunnel, Rheumat",
+   "rank": 3
+  },
+  {
+   "asin": "B0FHPT8YZ2",
+   "badge": null,
+   "price": "280",
+   "rating": "3.9",
+   "reviews": "21",
+   "title": "Zibuyu® Premium Bamboo Arthritis Compression Gloves for Women & Men Fingerless, Breathable, Ergonomic Fit Pain Relief, Flexibility & Sleep Support Medium Gray, ",
+   "rank": 4
+  },
+  {
+   "asin": "B09HV4BFLP",
+   "badge": null,
+   "price": "479",
+   "rating": "3.9",
+   "reviews": "546",
+   "title": "MOMISY Arthritis Gloves Copper-Infused Fingerless Compression Gloves to Speed Up Recovery & Relieve Symptoms of Arthritis RSI Tendonitis & More for Men & Women ",
+   "rank": 5
+  },
+  {
+   "asin": "B0FH4RXPYB",
+   "badge": null,
+   "price": "799",
+   "rating": "5.0",
+   "reviews": "2",
+   "title": "Copper Infused Compression Arthritis Gloves for Hand & Finger Relief from Pain/swelling Caused by Rheumatoid Arthritis, Carpal Tunnel, Tendonitis, RSI, Swollen ",
+   "rank": 6
+  },
+  {
+   "asin": "B0BMWGLWW5",
+   "badge": null,
+   "price": "284",
+   "rating": "3.9",
+   "reviews": "546",
+   "title": "MOMISY Arthritis Gloves Women Men Hand Fingerless Compression Wrist Support Therapy Relieve Pain from Rheumatoid RSI Carpal Tunnel for Typing-1 Pair, BlackSimpl",
+   "rank": 7
+  },
+  {
+   "asin": "B0DHH8RY4K",
+   "badge": null,
+   "price": "834",
+   "rating": "3.6",
+   "reviews": "4",
+   "title": "Medical Compression Hand Glove upto Mid-fore Arm | OUTSIDE ZIP | Open Fingers || HIGH COMPRESSION | COTTON | UNISEX | BURN Recovery Support | Control Swelling |",
+   "rank": 8
+  },
+  {
+   "asin": "B0FNRP2FCC",
+   "badge": null,
+   "price": "159",
+   "rating": "4.1",
+   "reviews": "76",
+   "title": "Amazon Basics Wrist Brace with Thumb Support | Adjustable Compression for Wrist & Comfort | Breathable Fabric | Padded Design for Daily Use | Unisex",
+   "rank": 9
+  },
+  {
+   "asin": "B0CYY2WWLK",
+   "badge": null,
+   "price": "790",
+   "rating": "3.2",
+   "reviews": "9",
+   "title": "Medical Compression Hand Glove Upto Wrist | Open Fingers | Inside ZIP | High Compression Cotton | Unisex | Burn Recovery & Post-Surgery Support | Swelling & Pai",
+   "rank": 10
+  }
+ ],
+ "sponsored": [
+  {
+   "asin": "B0DP3F884D",
+   "badge": null,
+   "price": "449",
+   "rating": "3.8",
+   "reviews": "121",
+   "title": "Thumb Compression Arthritis Gloves for Arthritis, Hand Pain Support, Carpel Tunnel, Breathable Wrist Brace Sleeves, Alleviate Rheumatoid, Joint Muscle Tension (",
+   "slot": 1
+  },
+  {
+   "asin": "B0GVDQHML8",
+   "badge": null,
+   "price": "509",
+   "rating": null,
+   "reviews": null,
+   "title": "Elastic Finger Sleeves for Sports, White Stretchy Knit Finger Support, Breathable Compression Guards for Basketball, Volleyball & Gym, Pack of 10",
+   "slot": 2
+  },
+  {
+   "asin": "B0CPXYRXDN",
+   "badge": null,
+   "price": "2,699",
+   "rating": "3.8",
+   "reviews": "6",
+   "title": "Medical Compression Arm Sleeves with Shoulder Strap and Support for Lymphedema | Graduated Compression - 20-30 mm/Hg | Post Mastectomy Sleeve for Lymphedema (Ri",
+   "slot": 3
+  },
+  {
+   "asin": "B01N23AX4A",
+   "badge": null,
+   "price": "1,599",
+   "rating": "3.9",
+   "reviews": "5",
+   "title": "Compression Arthritis Gloves for Hand Pain Relief – Fingerless Support Gloves for Carpal Tunnel, Joint Pain & Tendonitis – Breathable Stretch Fabric for Women &",
+   "slot": 4
+  },
+  {
+   "asin": "B09HV43CMM",
+   "badge": null,
+   "price": "284",
+   "rating": "3.9",
+   "reviews": "546",
+   "title": "MOMISY Arthritis Gloves Women Men Hand Fingerless Compression Gloves Wrist Support Therapy Gloves Relieve Pain from Rheumatoid RSI Carpal Tunnel for Typing Wirt",
+   "slot": 5
+  },
+  {
+   "asin": "B0FT1GGYHL",
+   "badge": null,
+   "price": "1,499",
+   "rating": "3.2",
+   "reviews": "8",
+   "title": "Elbow Support for Tennis & Golfer’s Elbow Pain Relief | Seamless Compression Elbow Brace with OptiFit+ Dial Micro Adjustment & Silicone Pressure Pad | Breathabl",
+   "slot": 6
+  },
+  {
+   "asin": "B0DSJ6BYZJ",
+   "badge": null,
+   "price": "378",
+   "rating": "3.9",
+   "reviews": "81",
+   "title": "TecoKart® Compression Gloves for Arthritis – Bamboo Arthritis Gloves for Pain Relief, Rheumatoid and Osteoarthritis Support, Open Finger Design for Flexibility,",
    "slot": 7
   },
   {
-   "asin": "B0BLZ42CC6",
-   "badge": "Bestseller",
-   "price": "188",
-   "rating": "4.1",
-   "reviews": "1,263",
-   "title": "Thumb Splint | Wrist band for pain relief | Right and left hand support | Wrist Support | Thumb Spica Splint | Universal Size - Grey",
+   "asin": "B0FBRBJH83",
+   "badge": null,
+   "price": "799",
+   "rating": "3.9",
+   "reviews": "8",
+   "title": "Black Grip Gloves, Arthritis Compression Gloves, Touch Screen Copper Arthritis Glove, Best Copper Infused Gaming Glove for Relieving RSI, Carpal Tunnel, Rheumat",
    "slot": 8
   },
   {
-   "asin": "B09N18N1VR",
+   "asin": "B08D7G68M7",
    "badge": null,
-   "price": "929",
-   "rating": "3.5",
-   "reviews": "5",
-   "title": "Unisex Compression Arthritis Gloves – Fingerless Hand Support for Pain Relief, Compression Gloves for Arthritis, Carpal Tunnel & Hand Support",
+   "price": "999",
+   "rating": "3.6",
+   "reviews": "6",
+   "title": "Compression Arthritis Gloves for Women & Men – Fingerless Hand Support Gloves for Arthritis, Carpal Tunnel, Joint Pain Relief, Breathable Stretch Fabric for Typ",
    "slot": 9
   },
   {
-   "asin": "B0GDDTWC8R",
+   "asin": "B01MQYUZYQ",
    "badge": null,
-   "price": "427",
-   "rating": "4.1",
-   "reviews": "119",
-   "title": "Elbow Wrap for Men and Women, Neoprene, Universal | Gym Workout, Badminton, Pain Relief & Joint Support, Tennis Elbow Guard",
+   "price": "999",
+   "rating": "3.7",
+   "reviews": "18",
+   "title": "Sira Copper Compression Open Finger Hand Gloves Arthritis Swelling Pain Relief, Rheumatoid, Osteoarthritis, Tingling or Numbness, Muscles, Palm & Finger Joint P",
    "slot": 10
   }
  ],

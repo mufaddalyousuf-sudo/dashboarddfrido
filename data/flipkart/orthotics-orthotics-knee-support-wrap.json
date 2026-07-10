@@ -1,14 +1,132 @@
 {
  "category": "orthotics-orthotics-knee-support-wrap",
  "marketplace": "flipkart",
- "keyword": "Frido Orthotics Knee Support Wrap",
+ "keyword": "Orthotics Knee Support Wrap",
+ "brandKeyword": "Frido Orthotics Knee Support Wrap",
  "capturedAt": "2026-07-08",
- "method": "Live scrape flipkart.com mobile search page 1 (__INITIAL_STATE__), query = exact SKU name",
- "confidence": "Low (fetch blocked)",
+ "method": "Live scrape flipkart.com mobile search page 1 (__INITIAL_STATE__), query = generic product keyword",
+ "confidence": "Medium-High (live; sponsored flags not exposed on mobile)",
  "fridoRank": null,
  "fridoPresent": false,
- "results": [],
- "notes": [
-  "Live fetch failed after retries — needs re-verification."
- ]
+ "fridoUrl": "https://www.flipkart.com/search?q=Orthotics%20Knee%20Support%20Wrap",
+ "results": [
+  {
+   "pos": 1,
+   "title": "FITPUT Knee Belt for Women and Men for Ligament injuries, Knee Pain, and Support Knee Support",
+   "brand": "FITPUT",
+   "price": null,
+   "rating": 3.8,
+   "ratings": 3032,
+   "isFrido": false
+  },
+  {
+   "pos": 2,
+   "title": "FITPUT Knee Support Patella for men and women|knee cap|Knee brace|Knee belt|1 Pair Knee Support",
+   "brand": "FITPUT",
+   "price": null,
+   "rating": 3.8,
+   "ratings": 156,
+   "isFrido": false
+  },
+  {
+   "pos": 3,
+   "title": "FITPUT Knee Caps For Women for Pain Relief (Black/Red) Knee Support",
+   "brand": "FITPUT",
+   "price": null,
+   "rating": 3.8,
+   "ratings": 440,
+   "isFrido": false
+  },
+  {
+   "pos": 4,
+   "title": "STEIGEN FITNESS Knee Wrap Knee Support Length 2 Meters (78 inches) Knee Support",
+   "brand": "STEIGEN FITNESS",
+   "price": null,
+   "rating": 4.3,
+   "ratings": 1266,
+   "isFrido": false
+  },
+  {
+   "pos": 5,
+   "title": "AGEasy Hinged Knee Cap, Max Comfort Knee Support",
+   "brand": "AGEasy",
+   "price": null,
+   "rating": 4.2,
+   "ratings": 544,
+   "isFrido": false
+  },
+  {
+   "pos": 6,
+   "title": "FOVERA Open Patella Knee Support Brace Knee Support",
+   "brand": "FOVERA",
+   "price": null,
+   "rating": 4.1,
+   "ratings": 42,
+   "isFrido": false
+  },
+  {
+   "pos": 7,
+   "title": "TYNOR Knee Wrap Hinged (Neo), Black, Large, 1 Unit Knee Support",
+   "brand": "TYNOR",
+   "price": null,
+   "rating": 4,
+   "ratings": 1985,
+   "isFrido": false
+  },
+  {
+   "pos": 8,
+   "title": "Malu Healthcare Open Patella Knee Brace Support for Pain Relief, Arthritis, Gym Running Knee Support",
+   "brand": "Malu Healthcare",
+   "price": null,
+   "rating": 0,
+   "ratings": 0,
+   "isFrido": false
+  },
+  {
+   "pos": 9,
+   "title": "VICTORY Wrist & Knee Wrap for Weightlifting-Adjustable Straps,Stretchable Fabric Knee Support",
+   "brand": "VICTORY",
+   "price": null,
+   "rating": 4.3,
+   "ratings": 32,
+   "isFrido": false
+  },
+  {
+   "pos": 10,
+   "title": "AGEasy Hinged Knee Cap, Max Comfort (Pair) Breathable for Injury Recovery & Joint Pain Knee Support",
+   "brand": "AGEasy",
+   "price": null,
+   "rating": 4.2,
+   "ratings": 544,
+   "isFrido": false
+  },
+  {
+   "pos": 11,
+   "title": "VICTORY Knee Wrap for Weightlifting-Adjustable Straps,Stretchable Fabric For Fitness Knee Support",
+   "brand": "VICTORY",
+   "price": null,
+   "rating": 4.3,
+   "ratings": 1280,
+   "isFrido": false
+  },
+  {
+   "pos": 12,
+   "title": "betterhood 4-Strap Knee Brace with Stabilizers for Pain & Injury Recovery, Pack of 1 Knee Support",
+   "brand": "betterhood",
+   "price": null,
+   "rating": 4.3,
+   "ratings": 179,
+   "isFrido": false
+  },
+  {
+   "pos": 13,
+   "title": "Expertomind Joint Protection with Hinge | Compression muscle | Gym Wrap Knee Support",
+   "brand": "Expertomind",
+   "price": null,
+   "rating": 4.1,
+   "ratings": 60,
+   "isFrido": false
+  }
+ ],
+ "notes": []
 }

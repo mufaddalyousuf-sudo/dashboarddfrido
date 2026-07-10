@@ -1,83 +1,94 @@
 {
  "category": "orthotics-orthotics-toe-separator",
  "marketplace": "flipkart",
- "keyword": "Frido Orthotics Toe Separator",
+ "keyword": "Orthotics Toe Separator",
+ "brandKeyword": "Frido Orthotics Toe Separator",
  "capturedAt": "2026-07-08",
- "method": "Live scrape flipkart.com mobile search page 1 (__INITIAL_STATE__), query = exact SKU name",
+ "method": "Live scrape flipkart.com mobile search page 1 (__INITIAL_STATE__), query = generic product keyword",
  "confidence": "Medium-High (live; sponsored flags not exposed on mobile)",
- "fridoRank": 1,
- "fridoPresent": true,
+ "fridoRank": null,
+ "fridoPresent": false,
+ "fridoUrl": "https://www.flipkart.com/search?q=Orthotics%20Toe%20Separator",
  "results": [
   {
    "pos": 1,
-   "title": "Frido Orthotics Bunion Corrector, Pain Relief & Adjustable Toe Straightener, Pack of 2 Foot Support",
+   "title": "JSHshield Broken Toe Wraps Toe Corrector for Overlapping Toe Splint Toe Tapes Hammer Toe",
+   "brand": "JSHshield",
    "price": null,
    "rating": 0,
    "ratings": 0,
-   "isFrido": true
+   "isFrido": false
   },
   {
    "pos": 2,
-   "title": "AGEasy Orthopedic Toe Straightener Bunion Corrector with Adjustable Rotating Knob",
+   "title": "wagmart Toe Separator Belt Hallux Valgus Corrector Big Toe Bone Trainer Strap",
+   "brand": "wagmart",
    "price": null,
-   "rating": 4,
-   "ratings": 1236,
+   "rating": 0,
+   "ratings": 0,
    "isFrido": false
   },
   {
    "pos": 3,
-   "title": "Frido Toe Separator for Bunion Relief and Alignment Blue Size S Finger Support",
+   "title": "Techpugg Toe Separator Bunion Orthotics Pedicure Corrector Pro Orthopedic Adjuster",
+   "brand": "Techpugg",
    "price": null,
-   "rating": 3.2,
-   "ratings": 14,
-   "isFrido": true
+   "rating": 3.4,
+   "ratings": 65,
+   "isFrido": false
   },
   {
    "pos": 4,
-   "title": "RADHADHIRAJ Anti Crack Toe Protector Soft Silica Gel Milk White Foot Protector Silicone Bunion Corrector & Relief Protector Treat Pain in Hallux Valgus Spacers ",
+   "title": "ketipo TOE GEL SEPARATOR FABRIC-1",
+   "brand": "ketipo",
    "price": null,
-   "rating": 3.1,
-   "ratings": 32,
+   "rating": 0,
+   "ratings": 0,
    "isFrido": false
   },
   {
    "pos": 5,
-   "title": "Frido Arch Support Rigid Insole for Flat Feet, Relieves Feet Pain, Large 9-11 UK PU Foam Arch Orthotic Shoe Insole",
+   "title": "AGEasy Orthopedic Toe Straightener Bunion Corrector with Adjustable Rotating Knob",
+   "brand": "AGEasy",
    "price": null,
-   "rating": 3.9,
-   "ratings": 225,
-   "isFrido": true
+   "rating": 4,
+   "ratings": 1241,
+   "isFrido": false
   },
   {
    "pos": 6,
-   "title": "jorex mart Gel Toe Spacers for Comfort, Pain Relief, and Better Foot Posture",
+   "title": "JERN Stretch Nylon Great Toe Cyst Foot Care Tool , Hallux Valgus Guard Cushion Bunion Toe Separator",
+   "brand": "JERN",
    "price": null,
-   "rating": 0,
-   "ratings": 0,
+   "rating": 3.6,
+   "ratings": 60,
    "isFrido": false
   },
   {
    "pos": 7,
-   "title": "jorex mart Reusable Toe Separators for Overlapping Toes and Foot Care",
+   "title": "FUTABA Straightener Hallux Valgus Bunion Adjuster",
+   "brand": "FUTABA",
    "price": null,
-   "rating": 0,
-   "ratings": 0,
+   "rating": 1.6,
+   "ratings": 5,
    "isFrido": false
   },
   {
    "pos": 8,
-   "title": "USOXO Cotton Foot Alignment Socks I Finger Toe Separator I Free Size for Men & Women Foot Support",
+   "title": "Wonder Care WC Silicone Gel Toe Separator Big Toe Corrector Bunion Toe Hammer Toe [Blue]",
+   "brand": "Wonder Care",
    "price": null,
-   "rating": 3.9,
-   "ratings": 461,
+   "rating": 3.8,
+   "ratings": 277,
    "isFrido": false
   },
   {
    "pos": 9,
-   "title": "Wonder Care Silicone Toe Separator | Bunion Corrector for Men | Women [1Pair] Foot Support",
+   "title": "Wagster Silicone Toe Separator Gel Bunion Guard Anti Crack Toe Protector",
+   "brand": "Wagster",
    "price": null,
-   "rating": 3.8,
-   "ratings": 167,
+   "rating": 3.5,
+   "ratings": 2,
    "isFrido": false
   }
  ],

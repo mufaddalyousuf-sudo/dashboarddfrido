@@ -1,77 +1,16 @@
 {
  "category": "orthotics-orthotics-bunion-corrector",
  "marketplace": "flipkart",
- "keyword": "Frido Orthotics Bunion Corrector",
+ "keyword": "Orthotics Bunion Corrector",
+ "brandKeyword": "Frido Orthotics Bunion Corrector",
  "capturedAt": "2026-07-08",
- "method": "Live scrape flipkart.com mobile search page 1 (__INITIAL_STATE__), query = exact SKU name",
- "confidence": "Medium-High (live; sponsored flags not exposed on mobile)",
+ "method": "Live scrape flipkart.com mobile search page 1 (__INITIAL_STATE__), query = generic product keyword",
+ "confidence": "Low (fetch blocked)",
  "fridoRank": null,
  "fridoPresent": false,
- "results": [
-  {
-   "pos": 1,
-   "title": "ATOM MEDTECH Gel Bunion Pads Toe Spreader for Hallux Valgus and Crooked Toe Relief",
-   "price": null,
-   "rating": 0,
-   "ratings": 0,
-   "isFrido": false
-  },
-  {
-   "pos": 2,
-   "title": "Wonder Care WC Silicone Gel Toe Separator Big Toe Corrector Bunion Toe Hammer Toe [Blue]",
-   "price": null,
-   "rating": 3.8,
-   "ratings": 275,
-   "isFrido": false
-  },
-  {
-   "pos": 3,
-   "title": "AGE CARE 2 Pcs Bunion Corrector Gel Pad Stretch Nylon Hallux Valgus Protector Guard Toe Separator Orthopedic",
-   "price": null,
-   "rating": 3.7,
-   "ratings": 16,
-   "isFrido": false
-  },
-  {
-   "pos": 4,
-   "title": "Haritack Adjustable Orthopedic Bunion Corrector Hallux Valgus Splint Toe Straightener Pro",
-   "price": null,
-   "rating": 0,
-   "ratings": 0,
-   "isFrido": false
-  },
-  {
-   "pos": 5,
-   "title": "AGEasy Orthopedic Toe Straightener Bunion Corrector with Adjustable Rotating Knob",
-   "price": null,
-   "rating": 4,
-   "ratings": 1236,
-   "isFrido": false
-  },
-  {
-   "pos": 6,
-   "title": "ATOM MEDTECH Silicone Gel Toe Separator & Big Toe Corrector Bunion Straightener for Foot Pain",
-   "price": null,
-   "rating": 4,
-   "ratings": 20,
-   "isFrido": false
-  },
-  {
-   "pos": 7,
-   "title": "Digital Shoppy Orthotic 4‑Toe Elastic Separator,Bunion Corrector | Toe Alignment Aid",
-   "price": null,
-   "rating": 0,
-   "ratings": 0,
-   "isFrido": false
-  },
-  {
-   "pos": 8,
-   "title": "Alino Bunion Splint Pad,Toe Straightener Bunion Corrector Support For Pain Relief",
-   "price": null,
-   "rating": 4.1,
-   "ratings": 15,
-   "isFrido": false
-  }
- ],
- "notes": []
+ "fridoUrl": null,
+ "results": [],
+ "notes": [
+  "Live fetch failed after retries — needs re-verification."
+ ]
 }
