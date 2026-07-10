@@ -70,6 +70,8 @@
       fridoFk: fkr.find((r) => r.frido) || null,
       keyword: az?.keyword || fk?.keyword,
       brandQualified: !!(az && /^frido /i.test(az.keyword || "")),
+      fridoAmazonUrl: az?.fridoUrl || null,
+      fridoFlipkartUrl: fk?.fridoUrl || null,
       verifiedAsin: az?.fridoVerifiedAsin || null,
       verifiedBadge: az?.fridoVerifiedBadge || null,
       verifiedPrice: num(az?.fridoVerifiedPrice), verifiedRating: num(az?.fridoVerifiedRating), verifiedReviews: num(az?.fridoVerifiedReviews),
@@ -372,7 +374,7 @@
     let summary;
     if (status === "listed") {
       const parts = [];
-      if (azR.kind === "rank") parts.push(`Amazon Rank #${fmtRankVal(azR.value)} avg across ${azR.n} SKU${azR.n === 1 ? "" : "s"}${fr?.badge === "Bestseller" ? " (Bestseller badge on its own name)" : ""}`);
+      if (azR.kind === "rank") parts.push(`Amazon Rank #${fmtRankVal(azR.value)} avg across ${azR.n} SKU${azR.n === 1 ? "" : "s"}${fr?.badge === "Bestseller" ? " (Bestseller badge)" : ""}`);
       else if (azR.kind === "sponsored") parts.push("sponsored-only on Amazon");
       else if (azR.kind === "listed") parts.push("a verified Amazon listing (rank unclear)");
       else parts.push("Amazon: Needs Verification");
@@ -460,6 +462,10 @@
       <div class="section glass glass-block">
         <div class="panel-head"><span class="ic">${I("target")}</span><h2 style="font-size:13.5px">Frido Position</h2></div>
         <div class="pos-grid">${posFacts.map(([l, v]) => `<div><div class="k">${v}</div><div class="l">${l}</div></div>`).join("")}</div>
+        ${prim.fridoAmazonUrl || prim.fridoFlipkartUrl ? `<p class="t-muted" style="margin-top:12px">${[
+          prim.fridoAmazonUrl ? `<a href="${prim.fridoAmazonUrl}" target="_blank" rel="noopener">Amazon listing ↗</a>` : "",
+          prim.fridoFlipkartUrl ? `<a href="${prim.fridoFlipkartUrl}" target="_blank" rel="noopener">Flipkart search ↗</a>` : "",
+        ].filter(Boolean).join(" · ")}</p>` : ""}
       </div>
 
       <div class="section glass glass-block">
