@@ -670,27 +670,27 @@
    "datasets": [
     {
      "id": "workspace-ergoluxe-monitor-arm-single",
-     "keyword": "Frido ErgoLuxe Monitor Arm - Single",
+     "keyword": "Monitor Arm Single",
      "primary": true
     },
     {
      "id": "workspace-ergoluxe-monitor-arm-dual",
-     "keyword": "Frido Ergoluxe Monitor Arm - Dual"
+     "keyword": "Monitor Arm Dual"
     },
     {
      "id": "workspace-ergoluxe-electric-standing-desk",
-     "keyword": "Frido Ergoluxe Electric Standing Desk"
+     "keyword": "Electric Standing Desk"
     },
     {
      "id": "workspace-portable-standing-desk",
-     "keyword": "Frido Portable Standing Desk"
+     "keyword": "Portable Standing Desk"
     },
     {
      "id": "workspace-standing-desk-converter",
-     "keyword": "Frido Standing Desk Converter"
+     "keyword": "Standing Desk Converter"
     }
    ],
-   "skuSource": "frido-product-catalog.json (full base-SKU research, 2026-07-08)"
+   "skuSource": "frido-product-catalog.json searchKeyword (generic, brand-stripped), 2026-07-08"
   },
   {
    "id": "mobility-devices",

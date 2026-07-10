@@ -1,99 +1,94 @@
 {
  "category": "workspace-ergoluxe-electric-standing-desk",
  "marketplace": "flipkart",
- "keyword": "Frido Ergoluxe Electric Standing Desk",
+ "keyword": "Electric Standing Desk",
+ "brandKeyword": "Frido Ergoluxe Electric Standing Desk",
  "capturedAt": "2026-07-08",
- "method": "Live scrape flipkart.com mobile search page 1 (__INITIAL_STATE__), query = exact SKU name",
+ "method": "Live scrape flipkart.com mobile search page 1 (__INITIAL_STATE__), query = generic product keyword",
  "confidence": "Medium-High (live; sponsored flags not exposed on mobile)",
- "fridoRank": 3,
- "fridoPresent": true,
+ "fridoRank": null,
+ "fridoPresent": false,
+ "fridoUrl": "https://www.flipkart.com/search?q=Electric%20Standing%20Desk",
  "results": [
   {
    "pos": 1,
    "title": "Flipkart Perfect Homes Portable Workstation Computer Desk with Storage, For Office, Home Engineered Wood Computer Desk",
+   "brand": "Flipkart Perfect Homes",
    "price": null,
    "rating": 3.8,
-   "ratings": 112,
+   "ratings": 116,
    "isFrido": false
   },
   {
    "pos": 2,
    "title": "Flipkart Perfect Homes Multipurpose Portable Study Desk with Hutch Storage & Shelves for Home Office Engineered Wood Study Table",
+   "brand": "Flipkart Perfect Homes",
    "price": null,
    "rating": 4,
-   "ratings": 126,
+   "ratings": 132,
    "isFrido": false
   },
   {
    "pos": 3,
-   "title": "Frido ErgoLuxe Electric Standing Desk For Office, Height Adjust, 120kg Cap. | Narrow Engineered Wood Office Table",
+   "title": "LUKZER Dual Motor Electric Height Adjustable Computer Desk (EST-002) Engineered Wood Office Table",
+   "brand": "LUKZER",
    "price": null,
    "rating": 0,
    "ratings": 0,
-   "isFrido": true
+   "isFrido": false
   },
   {
    "pos": 4,
-   "title": "Frido ErgoLuxe Electric Standing Desk For Office, Height Adjustable, 120kg Cap. | Wide Engineered Wood Office Table",
-   "price": null,
-   "rating": 0,
-   "ratings": 0,
-   "isFrido": true
-  },
-  {
-   "pos": 5,
    "title": "LUKZER Electric Height Adjustable Study Table Sit Stand Desk (EST-003) Engineered Wood Office Table",
+   "brand": "LUKZER",
    "price": null,
    "rating": 4,
    "ratings": 9,
    "isFrido": false
   },
   {
-   "pos": 6,
-   "title": "Artikel Artikel Phantom Electric Height Adjustable Gaming Table for Home & Office Engineered Wood Study Table",
+   "pos": 5,
+   "title": "LUKZER Electric Height Adjustable Desk with USB & Type-C Work from Home Table (EST-004) Engineered Wood Office Table",
+   "brand": "LUKZER",
    "price": null,
    "rating": 0,
    "ratings": 0,
    "isFrido": false
   },
   {
-   "pos": 7,
-   "title": "Artikel Eco Electric Height Adjustable Table Sit Stand Desk Home & Office Workspace Engineered Wood Multipurpose Table",
+   "pos": 6,
+   "title": "The Sleep Company AeroPlus Electrical Adjustable Desk 1600x700x700 | Sit-Stand Ergonomic Table | Engineered Wood Office Table",
+   "brand": "The Sleep Company",
    "price": null,
-   "rating": 4.5,
-   "ratings": 4,
+   "rating": 4.4,
+   "ratings": 278,
+   "isFrido": false
+  },
+  {
+   "pos": 7,
+   "title": "GREEN SOUL Imperium Multi-Purpose Electric Height Adjustable Study Table | Engineered Wood Office Table",
+   "brand": "GREEN SOUL",
+   "price": null,
+   "rating": 4.6,
+   "ratings": 55,
    "isFrido": false
   },
   {
    "pos": 8,
-   "title": "wow craft Folding Round Cornered Wall Mounted Engineered Wood Study Table",
+   "title": "Artikel Artikel Phantom Electric Height Adjustable Gaming Table for Home & Office Engineered Wood Study Table",
+   "brand": "Artikel",
    "price": null,
-   "rating": 4.4,
-   "ratings": 344,
+   "rating": 0,
+   "ratings": 0,
    "isFrido": false
   },
   {
    "pos": 9,
-   "title": "wow craft Multi Purpose Portable & Foldable Wooden /Desk for Home & Office Engineered Wood Study Table",
+   "title": "SPYDER HOME DECORE Multipurpose Portable Study Desk, Office Desk, Kids Desk Table Engineered Wood Study Table",
+   "brand": "SPYDER HOME DECORE",
    "price": null,
-   "rating": 4.4,
-   "ratings": 1933,
-   "isFrido": false
-  },
-  {
-   "pos": 10,
-   "title": "wow craft Multi Purpose Portable & Foldable Wooden Table/Desk for Home & Office Engineered Wood Study Table",
-   "price": null,
-   "rating": 4.4,
-   "ratings": 1933,
-   "isFrido": false
-  },
-  {
-   "pos": 11,
-   "title": "wow craft Wall-Mounted Foldable Study Table with Drawer & Cup Holder – 31x18.5 Inch Engineered Wood Study Table",
-   "price": null,
-   "rating": 2.7,
-   "ratings": 6,
+   "rating": 4.1,
+   "ratings": 1305,
    "isFrido": false
   }
  ],

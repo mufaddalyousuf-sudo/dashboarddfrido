@@ -1,40 +1,46 @@
 {
  "category": "workspace-standing-desk-converter",
  "marketplace": "flipkart",
- "keyword": "Frido Standing Desk Converter",
+ "keyword": "Standing Desk Converter",
+ "brandKeyword": "Frido Standing Desk Converter",
  "capturedAt": "2026-07-08",
- "method": "Live scrape flipkart.com mobile search page 1 (__INITIAL_STATE__), query = exact SKU name",
+ "method": "Live scrape flipkart.com mobile search page 1 (__INITIAL_STATE__), query = generic product keyword",
  "confidence": "Medium-High (live; sponsored flags not exposed on mobile)",
- "fridoRank": 7,
- "fridoPresent": true,
+ "fridoRank": null,
+ "fridoPresent": false,
+ "fridoUrl": "https://www.flipkart.com/search?q=Standing%20Desk%20Converter",
  "results": [
   {
    "pos": 1,
    "title": "SPYDER HOME DECORE Portable Work From Home Study Desk Engineered Wood Office Table Engineered Wood Study Table",
+   "brand": "SPYDER HOME DECORE",
    "price": null,
    "rating": 4.1,
-   "ratings": 1274,
+   "ratings": 1305,
    "isFrido": false
   },
   {
    "pos": 2,
-   "title": "SPYDER HOME DECORE Multipurpose Portable Study Desk, Office Desk, Kids Desk Table Engineered Wood Study Table",
+   "title": "Spyder Home Decore Portable Workstation Computer Desk with Storage, For Office, Home Engineered Wood Computer Desk",
+   "brand": "Spyder Home Decore",
    "price": null,
    "rating": 4.1,
-   "ratings": 1274,
+   "ratings": 45,
    "isFrido": false
   },
   {
    "pos": 3,
-   "title": "Spyder Home Decore Portable Workstation Computer Desk with Storage, For Office, Home Engineered Wood Computer Desk",
+   "title": "SPYDER HOME DECORE Multipurpose Portable Study Desk, Office Desk, Kids Desk Table Engineered Wood Study Table",
+   "brand": "SPYDER HOME DECORE",
    "price": null,
    "rating": 4.1,
-   "ratings": 44,
+   "ratings": 1305,
    "isFrido": false
   },
   {
    "pos": 4,
    "title": "DeskDock 2 Compartments P.S SHEET TABLE TOP ELEVATOR DESK Reading Desk Portable Laptop SMALL SIZE 12x15 INCH 8MM",
+   "brand": "DeskDock",
    "price": null,
    "rating": 3.8,
    "ratings": 111,
@@ -42,15 +48,17 @@
   },
   {
    "pos": 5,
-   "title": "Parikshit Sublimation 1 Compartments Acrylic computer monitor stand holder for table clear desktop pc printer tv stand 16X8X3",
+   "title": "Arizen Portable Work From Home Study Desk Engineered Wood Office Table Engineered Wood Multipurpose Table",
+   "brand": "Arizen",
    "price": null,
-   "rating": 1,
-   "ratings": 1,
+   "rating": 4,
+   "ratings": 76,
    "isFrido": false
   },
   {
    "pos": 6,
-   "title": "Parikshit Sublimation 1 Compartments Acrylic computer monitor stand holder for table clear desktop pc printer tv holder",
+   "title": "WELL KNOWN c desktop Wood Portable Laptop Table",
+   "brand": "WELL KNOWN",
    "price": null,
    "rating": 0,
    "ratings": 0,
@@ -58,15 +66,17 @@
   },
   {
    "pos": 7,
-   "title": "Frido ErgoLuxe Electric Standing Desk For Office, Height Adjust, 120kg Cap. | Narrow Engineered Wood Office Table",
+   "title": "LUKZER Electric Height Adjustable Study Table Sit Stand Desk (EST-003) Engineered Wood Office Table",
+   "brand": "LUKZER",
    "price": null,
-   "rating": 0,
-   "ratings": 0,
-   "isFrido": true
+   "rating": 4,
+   "ratings": 9,
+   "isFrido": false
   },
   {
    "pos": 8,
-   "title": "Artikel Artikel Phantom Electric Height Adjustable Gaming Table for Home & Office Engineered Wood Study Table",
+   "title": "Artikel Opulent L-Shaped Electric Height Adjustable Desk with Storage, 100kg Load Engineered Wood Office Table",
+   "brand": "Artikel",
    "price": null,
    "rating": 0,
    "ratings": 0,
@@ -74,15 +84,17 @@
   },
   {
    "pos": 9,
-   "title": "Artikel Eco Electric Height Adjustable Table Sit Stand Desk Home & Office Workspace Engineered Wood Multipurpose Table",
+   "title": "TEKAVO Double Workstation, Table for two people, Industrial use conference desk Engineered Wood Conference Table",
+   "brand": "TEKAVO",
    "price": null,
-   "rating": 4.5,
-   "ratings": 4,
+   "rating": 4.3,
+   "ratings": 6,
    "isFrido": false
   },
   {
    "pos": 10,
-   "title": "Artikel Opulent L-Shaped Electric Height Adjustable Desk with Storage, 100kg Load Engineered Wood Office Table",
+   "title": "UniShop 3 Compartments Engineered Wood Open",
+   "brand": "UniShop",
    "price": null,
    "rating": 0,
    "ratings": 0,
@@ -90,11 +102,21 @@
   },
   {
    "pos": 11,
-   "title": "Frido ErgoLuxe Electric Standing Desk For Office, Height Adjustable, 120kg Cap. | Wide Engineered Wood Office Table",
+   "title": "Artikel Artikel Phantom Electric Height Adjustable Gaming Table for Home & Office Engineered Wood Study Table",
+   "brand": "Artikel",
    "price": null,
    "rating": 0,
    "ratings": 0,
-   "isFrido": true
+   "isFrido": false
+  },
+  {
+   "pos": 12,
+   "title": "Krevia Portable, Wrist Rest, Multifunctional Slot Acrylic Portable Laptop Table",
+   "brand": "Krevia",
+   "price": null,
+   "rating": 0,
+   "ratings": 0,
+   "isFrido": false
   }
  ],
  "notes": []

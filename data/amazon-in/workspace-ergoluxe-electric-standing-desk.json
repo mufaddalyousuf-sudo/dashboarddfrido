@@ -1,194 +1,195 @@
 {
  "category": "workspace-ergoluxe-electric-standing-desk",
  "marketplace": "amazon-in",
- "keyword": "Frido Ergoluxe Electric Standing Desk",
+ "keyword": "Electric Standing Desk",
+ "brandKeyword": "Frido Ergoluxe Electric Standing Desk",
  "capturedAt": "2026-07-08",
- "method": "Live scrape amazon.in search page 1, query = exact SKU name (brand-qualified)",
+ "method": "Live scrape amazon.in search page 1, query = generic product keyword (brand + Frido product-line/marketing words stripped) — the competitive rank signal, not a brand-qualified existence check",
  "confidence": "High (live snapshot, single keyword)",
- "fridoOrganicRank": 8,
+ "fridoOrganicRank": null,
  "fridoSponsoredSlot": null,
+ "fridoUrl": null,
  "organic": [
   {
-   "asin": "B0FCMKYWPH",
-   "badge": null,
-   "price": "9,999",
-   "rating": "4.3",
-   "reviews": "124",
-   "title": "Frido Portable Standing Desk for Home & Office | Height-Adjustable Standing Desk with Lockable Wheels | Durable MDF Top & Mild Steel Stand | Lightweight & Folda",
-   "rank": 1
-  },
-  {
    "asin": "B0GVKHS6P9",
-   "badge": null,
+   "badge": "Amazon's Choice",
    "price": "10,888",
    "rating": "4.2",
-   "reviews": "172",
+   "reviews": "173",
    "title": "Lukzer Electric Automatic Height Adjustable Sit Stand Desk | Ergonomic Study Table with Digital Display & Memory Preset Option for Home & Office (EST-003/Black ",
-   "rank": 2
-  },
-  {
-   "asin": "B0FZL3G57B",
-   "badge": null,
-   "price": "12,599",
-   "rating": "4.6",
-   "reviews": "22",
-   "title": "CELLBELL Ergolift Electric Height Adjustable Standing Desk for Home & Office | Ergonomic Sit Stand Table with One-Piece Top Memory Preset Controller Quiet Motor",
-   "rank": 3
-  },
-  {
-   "asin": "B0H36YH6B4",
-   "badge": null,
-   "price": "13,990",
-   "rating": "4.3",
-   "reviews": "547",
-   "title": "ARTIKEL Artidesk Eco-Neo Height Adjustable Table for Office Work 120x60cm | Electric Standing Desk | Ergonomic Sit Stand Workstation | USB-A & Type-C Charging |",
-   "rank": 4
-  },
-  {
-   "asin": "B0FH7GC26M",
-   "badge": null,
-   "price": "11,990",
-   "rating": "4.3",
-   "reviews": "547",
-   "title": "ARTIKEL Artidesk Eco Electric Height Adjustable Table for Office Work & Home-Sit Stand Gaming Desk 80kg Load, Cup Holder, 2 Hooks,Cable Organizer 2Split Tableto",
-   "rank": 5
-  },
-  {
-   "asin": "B0CQNMXNBH",
-   "badge": null,
-   "price": "17,999",
-   "rating": "4.5",
-   "reviews": "470",
-   "title": "ERGOMAKER Electric Standing Desk 80x60cm (31\"x23.6\"), Height Adjustable Sit Stand Desk with Splice Board for Home Office, Computer Desk Memory Preset (White Fra",
-   "rank": 6
-  },
-  {
-   "asin": "B0G2G6GV6Z",
-   "badge": null,
-   "price": "17,999",
-   "rating": "4.7",
-   "reviews": "57",
-   "title": "FLEXISPOT EN1 Best Standing Desk | Anti-Collision Detection | 5Y Warranty | 80 KG | Ergonomic Electric Height Adjustable Sit Stand Table (White-Black, 120x75CM)",
-   "rank": 7
-  },
-  {
-   "asin": "B0FPCP1MMN",
-   "badge": null,
-   "price": "36,999",
-   "rating": "3.8",
-   "reviews": "14",
-   "title": "Frido ErgoLuxe Executive Chair | Premium Ergonomic Office Chair with Integrated Lumbar Support | 3D Adjustable Armrests, Retractable Footrest & 145° Reclining |",
-   "rank": 8,
-   "isFridoBrand": true
+   "rank": 1
   },
   {
    "asin": "B0GFX3V2W1",
    "badge": null,
-   "price": "11,990",
+   "price": "12,990",
    "rating": "4.7",
-   "reviews": "91",
+   "reviews": "94",
    "title": "Green Soul Imperium Neo Smart Height Adjustable Table for Office Work | Sit Stand Desk with Integrated Charging | Advance Memory Preset | 3 Year Warranty | (Whi",
-   "rank": 9
+   "rank": 2
   },
   {
-   "asin": "B0FPQP48SK",
+   "asin": "B0G71HP3FM",
+   "badge": null,
+   "price": "11,388",
+   "rating": "4.2",
+   "reviews": "173",
+   "title": "Lukzer Electric Automatic Height Adjustable Sit Stand Desk | Ergonomic Study Table with Digital Display & Memory Preset Option for Home Office (EST-003/White & ",
+   "rank": 3
+  },
+  {
+   "asin": "B0D66XX9H4",
+   "badge": null,
+   "price": "16,990",
+   "rating": "4.5",
+   "reviews": "661",
+   "title": "Green Soul Imperium Height Adjustable Table for Office Work | Everyday Ergonomic Desk with One Piece Top | Advance Memory Preset | 3 Year Warranty | Installatio",
+   "rank": 4
+  },
+  {
+   "asin": "B0C392TV28",
    "badge": null,
    "price": "19,490",
    "rating": "4.7",
-   "reviews": "535",
-   "title": "JIN OFFICE Octave Height Adjustable Table Electric | Standing Desk, 2 Year Warranty, 80 Kg Wt. Cap| Sit Stand Desk with Memory Preset, Cup Holder| Stability Cro",
-   "rank": 10
-  }
- ],
- "sponsored": [
-  {
-   "asin": "B0CPLP85FP",
-   "badge": null,
-   "price": "24,490",
-   "rating": "4.8",
-   "reviews": "472",
-   "title": "JIN OFFICE Zenith Electric Height Adjustable Table| Standing Desk with 100 Kg Wt. Capacity & 3 Year Warranty| Ergonomic Desk| Sit Stand Table with 3 Memory Pres",
-   "slot": 1
+   "reviews": "536",
+   "title": "JIN OFFICE Octave Height Adjustable Desk Electric | Sit Stand Table, 80 Kg Wt. Cap, 2 Year Warranty| Standing Desk with Memory Preset, Cup Holder| Stability Cro",
+   "rank": 5
   },
   {
-   "asin": "B0GHNMGYWW",
+   "asin": "B0FH7F4SJ1",
    "badge": null,
-   "price": "12,988",
-   "rating": "4.2",
-   "reviews": "172",
-   "title": "Lukzer Electric Height Adjustable Desk with USB & Type-C Ergonomic Work from Home Study Table Digital Display Advance Memory Preset Table | 3 Years Warranty (ES",
-   "slot": 2
-  },
-  {
-   "asin": "B0FPQQSKQB",
-   "badge": null,
-   "price": "20,990",
-   "rating": "4.7",
-   "reviews": "535",
-   "title": "JIN OFFICE Octave Height Adjustable Desk Electric | Standing Desk, 80 Kg Wt. Cap, 2 Year Warranty| Sit Stand Table with Memory Preset, Cup Holder| Stability Cro",
-   "slot": 3
-  },
-  {
-   "asin": "B0H5QTDRQD",
-   "badge": null,
-   "price": "24,490",
-   "rating": "4.9",
-   "reviews": "30",
-   "title": "JIN OFFICE Atlas L-Shaped Electric Height Adjustable Desk |Reversible Design L-Shape Adjustable Table | 3 Year Warranty,100 KG Wt. Cap, Memory Presets, Cup Hold",
-   "slot": 4
-  },
-  {
-   "asin": "B0GZW83BTB",
-   "badge": null,
-   "price": "19,999",
-   "rating": "4.4",
-   "reviews": "8,620",
-   "title": "Wakefit Study Table | 5 Yr Warranty | Standing desk, Computer Table for Home Pc, Electric Height adjustable, Digital Display & 4 Memory Presets, Free Installati",
-   "slot": 5
-  },
-  {
-   "asin": "B0FT8FH83H",
-   "badge": null,
-   "price": "10,990",
-   "rating": "4.1",
-   "reviews": "14",
-   "title": "KosmoCare Adjustable Electric Desk Frame | Height Adjustable Standing Desk Base | 70cm - 114 cm | Single Motor | 2 Memory Preset Controls | Mild Steel | White -",
-   "slot": 6
-  },
-  {
-   "asin": "B0DL65FPXT",
-   "badge": null,
-   "price": "17,848",
-   "rating": "4.6",
-   "reviews": "17",
-   "title": "ErgoYou Electric Height Adjustable Table Motorized Ergonomic Sit Stand Desk - 80 Kgs Max Weight Capacity - SM4 Series - 600 x 1200 mm - Walnut Laminate Table To",
-   "slot": 7
-  },
-  {
-   "asin": "B0B24QH7NK",
-   "badge": null,
-   "price": "35,990",
-   "rating": "4.8",
-   "reviews": "415",
-   "title": "JIN OFFICE Titan Premium Dual Motor 3-Stage Electric Height Adjustable Desk| Sit Stand Table| Standing Desk Ergonomic with 125Kg Wt. Cap, 3 Year Warranty| 3 Mem",
-   "slot": 8
-  },
-  {
-   "asin": "B0CWGNJ5XY",
-   "badge": null,
-   "price": "14,990",
-   "rating": "4.8",
-   "reviews": "574",
-   "title": "JIN OFFICE Nova Manual Height Adjustable Desk | Sit Stand Desk with Stability Crossbar| Standing Desk| Ergonomic Table for Home Office| Hand Crank Height Adjust",
-   "slot": 9
+   "price": "11,990",
+   "rating": "4.3",
+   "reviews": "549",
+   "title": "ARTIKEL Artidesk Eco Electric Height Adjustable Table for Office Work & Home-Sit Stand Gaming Desk 80kg Load, Cup Holder, 2 Hooks,Cable Organizer 2Split Tableto",
+   "rank": 6
   },
   {
    "asin": "B0GG9WDN4W",
    "badge": null,
    "price": "16,990",
    "rating": "4.8",
-   "reviews": "114",
+   "reviews": "116",
    "title": "JIN OFFICE EcoSmart Electric Height Adjustable Desk| Sit Stand Table,80 Kg Load, 2 Year Warranty| Standing Desk with Cup Holder, Memory Preset, Stability Crossb",
+   "rank": 7
+  },
+  {
+   "asin": "B0D7QFX2YG",
+   "badge": null,
+   "price": "20,999",
+   "rating": "4.4",
+   "reviews": "534",
+   "title": "The Sleep Company - AeroPlus Electric Height Adjustable Desk | Ergonomic Work from Home Table | 4 Memory Presets | 2 Years Warranty | 1600 x 700 Thick Top | Fre",
+   "rank": 8
+  },
+  {
+   "asin": "B0B218F7WT",
+   "badge": null,
+   "price": "24,490",
+   "rating": "4.8",
+   "reviews": "472",
+   "title": "JIN OFFICE Zenith Electric Height Adjustable Table| Standing Desk with 100 Kg Wt. Capacity & 3 Year Warranty| Sit Stand Table with 3 Memory Preset (White Frame ",
+   "rank": 9
+  },
+  {
+   "asin": "B0H3715L9R",
+   "badge": null,
+   "price": "12,990",
+   "rating": "4.3",
+   "reviews": "21",
+   "title": "ARTIKEL Move Electric Height Adjustable Standing Desk with Wheels for Home Office | 80 x 60 cm Sit-Stand Workstation | 72-118 cm Height Range | 2 Memory Presets",
+   "rank": 10
+  }
+ ],
+ "sponsored": [
+  {
+   "asin": "B0D7QHDZZG",
+   "badge": null,
+   "price": "17,999",
+   "rating": "4.4",
+   "reviews": "534",
+   "title": "The Sleep Company - AeroPlus Electric Height Adjustable Desk | Ergonomic Work from Home Table | 4 Memory Presets | 2 Years Warranty | 1200 x 600 Thick Top | Fre",
+   "slot": 1
+  },
+  {
+   "asin": "B0DNTKLMHX",
+   "badge": null,
+   "price": "32,999",
+   "rating": "4.5",
+   "reviews": "32",
+   "title": "ARTIKEL Stackon Electric Height Adjustable Standing Desk with Shelves, Keyboard Tray & Storage Drawers |Sit-Stand Desk for Home Office| Ergonomic Table with Hoo",
+   "slot": 2
+  },
+  {
+   "asin": "B0B4KR2JVZ",
+   "badge": null,
+   "price": "23,990",
+   "rating": "4.5",
+   "reviews": "248",
+   "title": "ARTIKEL Case 1.0 Electric Height Adjustable Office Table DIY|100 Kg Wt.|Smart Panel USB & Type C Collision Sensor|Sit Stand Computer Desk|120 X 60 Cm| Brown (Bl",
+   "slot": 3
+  },
+  {
+   "asin": "B0C392TV28",
+   "badge": null,
+   "price": "19,490",
+   "rating": "4.7",
+   "reviews": "536",
+   "title": "JIN OFFICE Octave Height Adjustable Desk Electric | Sit Stand Table, 80 Kg Wt. Cap, 2 Year Warranty| Standing Desk with Memory Preset, Cup Holder| Stability Cro",
+   "slot": 4
+  },
+  {
+   "asin": "B0GF79MKYW",
+   "badge": null,
+   "price": "12,990",
+   "rating": "4.3",
+   "reviews": "549",
+   "title": "ARTIKEL Artidesk Eco Electric Height Adjustable Table for Office Work & Home-Sit Stand Gaming Desk 80kg Load, Cup Holder, 2 Hooks,Cable Organizer 2Split Tableto",
+   "slot": 5
+  },
+  {
+   "asin": "B0FZL589WX",
+   "badge": null,
+   "price": "11,989",
+   "rating": "4.6",
+   "reviews": "22",
+   "title": "CELLBELL Ergolift Electric Height Adjustable Standing Desk for Home & Office | Ergonomic Sit Stand Table with One-Piece Top Memory Preset Controller Quiet Motor",
+   "slot": 6
+  },
+  {
+   "asin": "B0GQ3VWTN9",
+   "badge": null,
+   "price": "21,990",
+   "rating": "4.3",
+   "reviews": "34",
+   "title": "ARTIKEL Valor Lite Electric Height Adjustable Standing Desk with Storage Drawers & Shelves| Sit-Stand Desk for Home Office |Ergonomic Workspace Table|120x60cm|B",
+   "slot": 7
+  },
+  {
+   "asin": "B0FH7F66YW",
+   "badge": null,
+   "price": "11,990",
+   "rating": "4.3",
+   "reviews": "549",
+   "title": "ARTIKEL Artidesk Eco Electric Height Adjustable Table for Office Work & Home-Sit Stand Gaming Desk 80kg Load, Cup Holder, 2 Hooks,Cable Organizer 2Split Tableto",
+   "slot": 8
+  },
+  {
+   "asin": "B0GHNK7G4F",
+   "badge": null,
+   "price": "12,988",
+   "rating": "4.2",
+   "reviews": "173",
+   "title": "Lukzer Electric Height Adjustable Desk with USB & Type-C Ergonomic Work from Home Study Table Digital Display Advance Memory Preset Table DIY | 3 Years Warranty",
+   "slot": 9
+  },
+  {
+   "asin": "B0B6PMXMBB",
+   "badge": null,
+   "price": "11,490",
+   "rating": "4.8",
+   "reviews": "357",
+   "title": "JIN OFFICE Ergonomic Height Adjustable Laptop Desk| 1 Year Warranty| Sit Stand Table with Lockable Wheels| Standing Desk for Home Office| Thick Column and Wide ",
    "slot": 10
   }
  ],
