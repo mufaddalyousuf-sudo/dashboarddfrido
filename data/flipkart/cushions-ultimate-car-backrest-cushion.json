@@ -1,116 +1,140 @@
 {
  "category": "cushions-ultimate-car-backrest-cushion",
  "marketplace": "flipkart",
- "keyword": "Frido Ultimate Car Backrest Cushion",
+ "keyword": "Car Backrest Cushion",
+ "brandKeyword": "Frido Ultimate Car Backrest Cushion",
  "capturedAt": "2026-07-08",
- "method": "Live scrape flipkart.com mobile search page 1 (__INITIAL_STATE__), query = exact SKU name",
+ "method": "Live scrape flipkart.com mobile search page 1 (__INITIAL_STATE__), query = generic product keyword",
  "confidence": "Medium-High (live; sponsored flags not exposed on mobile)",
- "fridoRank": 6,
- "fridoPresent": true,
+ "fridoRank": null,
+ "fridoPresent": false,
+ "fridoUrl": "https://www.flipkart.com/search?q=Car%20Backrest%20Cushion",
  "results": [
   {
    "pos": 1,
-   "title": "TENACT Posture Corrector Belt Pro Fix for Men & Women Straight Back pain Relief Posture Corrector",
+   "title": "AUTOFIT Black, Red Leather Car Pillow Cushion for Universal For Car",
+   "brand": "AUTOFIT",
    "price": null,
-   "rating": 3.8,
-   "ratings": 8159,
+   "rating": 4.3,
+   "ratings": 129,
    "isFrido": false
   },
   {
    "pos": 2,
-   "title": "TENACT Posture Corrector Belt for men & women Back Support & Posture Corrector",
+   "title": "AUTOFIT Beige, Black Leather Car Pillow Cushion for Universal For Car",
+   "brand": "AUTOFIT",
    "price": null,
-   "rating": 3.8,
-   "ratings": 3650,
+   "rating": 4,
+   "ratings": 79,
    "isFrido": false
   },
   {
    "pos": 3,
-   "title": "TENACT Premium Belt for Men & Women Pain Relief Posture Corrector",
+   "title": "AUTOFIT Grey, Black Leather Car Pillow Cushion for Universal For Car",
+   "brand": "AUTOFIT",
    "price": null,
-   "rating": 3.6,
-   "ratings": 1774,
+   "rating": 4.3,
+   "ratings": 61,
    "isFrido": false
   },
   {
    "pos": 4,
-   "title": "TENACT Posture Corrector Belt Pro for Men & Women Back Support Belt for Straight Back Back / Lumbar Support",
+   "title": "AUTOFIT Black, Silver Leather Car Pillow Cushion for Universal For Car",
+   "brand": "AUTOFIT",
    "price": null,
-   "rating": 3.9,
-   "ratings": 111,
+   "rating": 4.2,
+   "ratings": 289,
    "isFrido": false
   },
   {
    "pos": 5,
-   "title": "TENACT Posture Corrector Belt for Women & Men Back Support Belt for Posture Corrector",
+   "title": "Cameron Adjustable Acupressure Back Support Lumbar Rest Cushion Office Chair & Car Seat Back / Lumbar Support",
+   "brand": "Cameron",
    "price": null,
    "rating": 3.9,
-   "ratings": 292,
+   "ratings": 2278,
    "isFrido": false
   },
   {
    "pos": 6,
-   "title": "Frido Black Memory Foam Car Pillow Cushion for Universal For Car",
+   "title": "DEBIK Back Rest Cushion for Chair and Car Seat Back / Lumbar Support",
+   "brand": "DEBIK",
    "price": null,
-   "rating": 4.1,
-   "ratings": 523,
-   "isFrido": true
+   "rating": 3.7,
+   "ratings": 1199,
+   "isFrido": false
   },
   {
    "pos": 7,
-   "title": "Frido Grey Memory Foam Car Pillow Cushion for Universal For Car",
+   "title": "betterhood PosturePro Premium Car Seat, Back and Neck Cushion Combo, Ergonomic Memory Foam Back / Lumbar Support",
+   "brand": "betterhood",
    "price": null,
-   "rating": 4.1,
-   "ratings": 523,
-   "isFrido": true
+   "rating": 4,
+   "ratings": 103,
+   "isFrido": false
   },
   {
    "pos": 8,
-   "title": "Frido Cloud Backrest & Seat Cushion | Grey | Memory Foam Support Pillow Back / Lumbar Support",
+   "title": "FOVERA Backrest Cushion Pillow for Chair & Car, Orthopedic Memory Foam Back / Lumbar Support",
+   "brand": "FOVERA",
    "price": null,
    "rating": 4.4,
-   "ratings": 7,
-   "isFrido": true
+   "ratings": 103,
+   "isFrido": false
   },
   {
    "pos": 9,
-   "title": "Frido Cloud Backrest & Seat Cushion | Lilly Pad | Memory Foam Support Back / Lumbar Support",
+   "title": "Doyelex Backrest Cushion for Car Seat – Lumbar Support for Comfortable Driving- Back / Lumbar Support",
+   "brand": "Doyelex",
    "price": null,
-   "rating": 4.4,
-   "ratings": 7,
-   "isFrido": true
+   "rating": 4.1,
+   "ratings": 38,
+   "isFrido": false
   },
   {
    "pos": 10,
-   "title": "Frido Cloud Backrest & Seat Cushion | Pink | Memory Foam Support Pillow Back / Lumbar Support",
+   "title": "AGEasy Orthopedic Back Rest Cushion for Chair &Car Seat, Memory Foam & Premium Air Mesh Back / Lumbar Support",
+   "brand": "AGEasy",
    "price": null,
-   "rating": 4.4,
-   "ratings": 7,
-   "isFrido": true
+   "rating": 4.2,
+   "ratings": 480,
+   "isFrido": false
   },
   {
    "pos": 11,
-   "title": "Frido Cloud Backrest Memory Foam Cushion, Lumbar Support For Chairs & Home Use, Grey Back / Lumbar Support",
+   "title": "CCMM Beige Nylon",
+   "brand": "CCMM",
    "price": null,
-   "rating": 4.5,
-   "ratings": 21,
-   "isFrido": true
+   "rating": 0,
+   "ratings": 0,
+   "isFrido": false
   },
   {
    "pos": 12,
-   "title": "Frido Cloud Backrest Memory Foam Cushion, Lumbar Support For Chairs & Home Use, Pink Back / Lumbar Support",
+   "title": "Leeford Back Rest Support for chair car seat cushion Improves Posture & Pain in Back / Lumbar Support",
+   "brand": "Leeford",
    "price": null,
-   "rating": 4.5,
-   "ratings": 21,
-   "isFrido": true
+   "rating": 4.2,
+   "ratings": 92,
+   "isFrido": false
   },
   {
    "pos": 13,
-   "title": "Frido Cloud Backrest Memory Foam Cushion, Lumbar Support For Chairs & Home Use, Green Back / Lumbar Support",
+   "title": "betterhood Black Memory Foam",
+   "brand": "betterhood",
    "price": null,
-   "rating": 4.5,
-   "ratings": 21,
-   "isFrido": true
+   "rating": 4.1,
+   "ratings": 194,
+   "isFrido": false
+  },
+  {
+   "pos": 14,
+   "title": "betterhood Grey Memory Foam",
+   "brand": "betterhood",
+   "price": null,
+   "rating": 4.3,
+   "ratings": 94,
+   "isFrido": false
   }
  ],
  "notes": []

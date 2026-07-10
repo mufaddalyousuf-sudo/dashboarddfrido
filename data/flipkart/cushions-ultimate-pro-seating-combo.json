@@ -1,123 +1,67 @@
 {
  "category": "cushions-ultimate-pro-seating-combo",
  "marketplace": "flipkart",
- "keyword": "Frido Ultimate Pro Seating Combo",
+ "keyword": "Seating Combo",
+ "brandKeyword": "Frido Ultimate Pro Seating Combo",
  "capturedAt": "2026-07-08",
- "method": "Live scrape flipkart.com mobile search page 1 (__INITIAL_STATE__), query = exact SKU name",
+ "method": "Live scrape flipkart.com mobile search page 1 (__INITIAL_STATE__), query = generic product keyword",
  "confidence": "Medium-High (live; sponsored flags not exposed on mobile)",
- "fridoRank": 6,
- "fridoPresent": true,
+ "fridoRank": null,
+ "fridoPresent": false,
+ "fridoUrl": "https://www.flipkart.com/search?q=Seating%20Combo",
  "results": [
   {
    "pos": 1,
-   "title": "Baben Free Size Posture Corrector For Men And Women Back / Lumbar Support",
+   "title": "ganiwood Pouf for Office Home Decoration & Dressing Table, 16x16x18 Inch, Combo Stool",
+   "brand": "ganiwood",
    "price": null,
-   "rating": 4.1,
-   "ratings": 377,
+   "rating": 0,
+   "ratings": 0,
    "isFrido": false
   },
   {
    "pos": 2,
-   "title": "Baben Posture corrector belt for men and women for back pain Posture Corrector Posture Corrector",
+   "title": "Nandrak Decor Solid Wood Table & Chair Set",
+   "brand": "Nandrak Decor",
    "price": null,
-   "rating": 4.2,
-   "ratings": 74,
+   "rating": 0,
+   "ratings": 0,
    "isFrido": false
   },
   {
    "pos": 3,
-   "title": "Baben Free Size Sciatica Pain Relief Belt – Adjustable Lower Back & Hip Support Abdominal Belt",
+   "title": "Storia Combo of 2 Unicorn Storage Stool|Ottoman|Sofa- Stool",
+   "brand": "Storia",
    "price": null,
-   "rating": 5,
-   "ratings": 21,
+   "rating": 4.1,
+   "ratings": 102,
    "isFrido": false
   },
   {
    "pos": 4,
-   "title": "Baben 3 in 1 Postpartum Support - Recovery Belly Belt Free Size Abdominal Support Abdominal Belt",
+   "title": "wooden luxury Fabric Pouf",
+   "brand": "wooden luxury",
    "price": null,
-   "rating": 0,
-   "ratings": null,
+   "rating": 2.7,
+   "ratings": 7,
    "isFrido": false
   },
   {
    "pos": 5,
-   "title": "Baben Posture Corrector Belt for Men & Women Back Support Brace Shoulder Pain Relief Posture Corrector",
+   "title": "FOVERA Memory Foam Tailbone Pain & Back Support Seat Cushion Combo for Chair, Back / Lumbar Support",
+   "brand": "FOVERA",
    "price": null,
-   "rating": 3.5,
-   "ratings": 4,
+   "rating": 5,
+   "ratings": 15,
    "isFrido": false
   },
   {
    "pos": 6,
-   "title": "Frido Ultimate Pro Seat Cushion for Hip & Tailbone Pain Relief- Light Grey Back / Lumbar Support",
+   "title": "RCLV Handmade and Natural Bamboo Mudda Stool With Multicolor - 15X15 Inch- set of-2 Outdoor & Cafeteria Stool",
+   "brand": "RCLV",
    "price": null,
-   "rating": 4.1,
-   "ratings": 297,
-   "isFrido": true
-  },
-  {
-   "pos": 7,
-   "title": "warmee Hand Warmer Pack of 4 Pair 8+ Hours of Safe & Natural Heat Travel Warmer Hand Support",
-   "price": null,
-   "rating": 4.4,
-   "ratings": 16,
-   "isFrido": false
-  },
-  {
-   "pos": 8,
-   "title": "MRRON COCCYX CRUZ SUPREME Supporter",
-   "price": null,
-   "rating": 0,
-   "ratings": 0,
-   "isFrido": false
-  },
-  {
-   "pos": 9,
-   "title": "Dr Touch Memory Foam Seat Cushion & Lumbar Support Pillow for Office Chair Car Wheelchair Back / Lumbar Support",
-   "price": null,
-   "rating": 3.9,
-   "ratings": 34,
-   "isFrido": false
-  },
-  {
-   "pos": 10,
-   "title": "SABAR Orthopedic & Ergonomic Backrest Lumbar Support Seat - Backguard 3090XC Back Rest Lumbar Support for Office Chair/ Car Seat/ Sofa Back / Lumbar Support",
-   "price": null,
-   "rating": 3.8,
-   "ratings": 4,
-   "isFrido": false
-  },
-  {
-   "pos": 11,
-   "title": "BLUHEAT Cramp Care Pack Of 3 Patches Supporter",
-   "price": null,
-   "rating": 0,
-   "ratings": 0,
-   "isFrido": false
-  },
-  {
-   "pos": 12,
-   "title": "AyurZiva Botanics Herbal Sleep Support Transdermal Patches – Night Sleep Aid Supporter",
-   "price": null,
-   "rating": 0,
-   "ratings": 0,
-   "isFrido": false
-  },
-  {
-   "pos": 13,
-   "title": "betterhood PosturePro Lumbar Backrest + Seat Cushion Combo for Chair, Ergonomic Memory Foam Back / Lumbar Support",
-   "price": null,
-   "rating": 4.1,
-   "ratings": 50,
-   "isFrido": false
-  },
-  {
-   "pos": 14,
-   "title": "QP360 NEW_Ultimate Pro Seat Cushion & Posture Corrector Backrest Cushion Combo-New756 Back / Lumbar Support",
-   "price": null,
-   "rating": 4.2,
-   "ratings": 13,
+   "rating": 4,
+   "ratings": 22,
    "isFrido": false
   }
  ],

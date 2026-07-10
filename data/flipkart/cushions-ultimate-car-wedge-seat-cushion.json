@@ -1,14 +1,105 @@
 {
  "category": "cushions-ultimate-car-wedge-seat-cushion",
  "marketplace": "flipkart",
- "keyword": "Frido Ultimate Car Wedge Seat Cushion",
+ "keyword": "Car Wedge Seat Cushion",
+ "brandKeyword": "Frido Ultimate Car Wedge Seat Cushion",
  "capturedAt": "2026-07-08",
- "method": "Live scrape flipkart.com mobile search page 1 (__INITIAL_STATE__), query = exact SKU name",
- "confidence": "Low (fetch blocked)",
+ "method": "Live scrape flipkart.com mobile search page 1 (__INITIAL_STATE__), query = generic product keyword",
+ "confidence": "Medium-High (live; sponsored flags not exposed on mobile)",
  "fridoRank": null,
  "fridoPresent": false,
- "results": [],
- "notes": [
-  "Live fetch failed after retries — needs re-verification."
- ]
+ "fridoUrl": "https://www.flipkart.com/search?q=Car%20Wedge%20Seat%20Cushion",
+ "results": [
+  {
+   "pos": 1,
+   "title": "betterhood Black Memory Foam",
+   "brand": "betterhood",
+   "price": null,
+   "rating": 4.1,
+   "ratings": 194,
+   "isFrido": false
+  },
+  {
+   "pos": 2,
+   "title": "betterhood Grey Memory Foam",
+   "brand": "betterhood",
+   "price": null,
+   "rating": 4.3,
+   "ratings": 94,
+   "isFrido": false
+  },
+  {
+   "pos": 3,
+   "title": "POSTURO Wedge Coccyx Cushion for Tailbone Pain Back Lumbar Support For Chair & Car Seats Back / Lumbar Support",
+   "brand": "POSTURO",
+   "price": null,
+   "rating": 3.3,
+   "ratings": 3,
+   "isFrido": false
+  },
+  {
+   "pos": 4,
+   "title": "HOMBOX Large Backrest for Chair & Car Seat, Orthopedic Memory Foam Lumbar Support Back / Lumbar Support",
+   "brand": "HOMBOX",
+   "price": null,
+   "rating": 4.1,
+   "ratings": 1803,
+   "isFrido": false
+  },
+  {
+   "pos": 5,
+   "title": "MRRON LUMBER COXXCY BLACK Supporter",
+   "brand": "MRRON",
+   "price": null,
+   "rating": 0,
+   "ratings": 0,
+   "isFrido": false
+  },
+  {
+   "pos": 6,
+   "title": "wheelyfine Black Fabric Car Pillow Cushion for Universal For Car",
+   "brand": "wheelyfine",
+   "price": null,
+   "rating": 0,
+   "ratings": 0,
+   "isFrido": false
+  },
+  {
+   "pos": 7,
+   "title": "ALOEEVEERA Black Cotton Car Pillow Cushion for Universal For Car",
+   "brand": "ALOEEVEERA",
+   "price": null,
+   "rating": 0,
+   "ratings": 0,
+   "isFrido": false
+  },
+  {
+   "pos": 8,
+   "title": "betterhood PosturePro Premium Car Seat Cushion, 100% Memory Foam, Ergonomic Orthopedic Back / Lumbar Support",
+   "brand": "betterhood",
+   "price": null,
+   "rating": 4.2,
+   "ratings": 63,
+   "isFrido": false
+  },
+  {
+   "pos": 9,
+   "title": "UGS Ultimate Car Wedge Seat Cushion Memory Foam Cushion with Coccyx Tailbone Cutout Back / Lumbar Support",
+   "brand": "UGS",
+   "price": null,
+   "rating": 0,
+   "ratings": 0,
+   "isFrido": false
+  },
+  {
+   "pos": 10,
+   "title": "FOVERA Memory Foam Car Back Support Cushion for Long Drive & Daily Commute Back / Lumbar Support",
+   "brand": "FOVERA",
+   "price": null,
+   "rating": 4.4,
+   "ratings": 335,
+   "isFrido": false
+  }
+ ],
+ "notes": []
 }

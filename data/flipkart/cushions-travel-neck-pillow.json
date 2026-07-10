@@ -1,48 +1,55 @@
 {
  "category": "cushions-travel-neck-pillow",
  "marketplace": "flipkart",
- "keyword": "Frido Travel Neck Pillow",
+ "keyword": "Travel Neck Pillow",
+ "brandKeyword": "Frido Travel Neck Pillow",
  "capturedAt": "2026-07-08",
- "method": "Live scrape flipkart.com mobile search page 1 (__INITIAL_STATE__), query = exact SKU name",
+ "method": "Live scrape flipkart.com mobile search page 1 (__INITIAL_STATE__), query = generic product keyword",
  "confidence": "Medium-High (live; sponsored flags not exposed on mobile)",
- "fridoRank": 1,
+ "fridoRank": 10,
  "fridoPresent": true,
+ "fridoUrl": "https://www.flipkart.com/search?q=Travel%20Neck%20Pillow",
  "results": [
   {
    "pos": 1,
-   "title": "Frido Adjustable Head Rest, 360� Neck & Chin Support, Sleeping Pillow for Car & Flight Neck Pillow",
+   "title": "o&t U-Shape Black Neck Pillow travelling headrest Neck Pillow & Eye Shade Neck Pillow & Eye Shade",
+   "brand": "o&t",
    "price": null,
-   "rating": 4.5,
-   "ratings": 32,
-   "isFrido": true
+   "rating": 4.1,
+   "ratings": 424,
+   "isFrido": false
   },
   {
    "pos": 2,
-   "title": "tyagicollection U Shape Neck Pillow travelling headrest, with Eye mask Neck Pillow (Black) Neck Pillow & Eye Shade",
-   "price": null,
-   "rating": 4.1,
-   "ratings": 636,
-   "isFrido": false
-  },
-  {
-   "pos": 3,
-   "title": "o&t U-Shape Black Neck Pillow travelling headrest Neck Pillow & Eye Shade Neck Pillow & Eye Shade",
-   "price": null,
-   "rating": 4.1,
-   "ratings": 413,
-   "isFrido": false
-  },
-  {
-   "pos": 4,
-   "title": "jara Doctor Recommended Orthopedic Travel Neck Pillow|Design for Car, Train & Plane Neck Pillow",
+   "title": "VIP Luxe Comfort Neck Pillow - Dark Grey Neck Pillow",
+   "brand": "VIP",
    "price": null,
    "rating": 0,
    "ratings": 0,
    "isFrido": false
   },
   {
+   "pos": 3,
+   "title": "Travalate Travel Super Soft Neck Pillow and Sleeping Eye Mask Neck Pillow",
+   "brand": "Travalate",
+   "price": null,
+   "rating": 4.3,
+   "ratings": 15,
+   "isFrido": false
+  },
+  {
+   "pos": 4,
+   "title": "tyagicollections U Shape travelling headrest, Multipurpose Neck Pillow & Eye Shade",
+   "brand": "tyagicollections",
+   "price": null,
+   "rating": 4,
+   "ratings": 28931,
+   "isFrido": false
+  },
+  {
    "pos": 5,
-   "title": "Vibento Travel Neck Pillow for Car, Flight, Office & Head Support Neck Pillow",
+   "title": "GHALIB Portable Memory Foam Neck Pillow U Shape Travel Support Cushion Grey Neck Pillow",
+   "brand": "GHALIB",
    "price": null,
    "rating": 0,
    "ratings": 0,
@@ -50,11 +57,48 @@
   },
   {
    "pos": 6,
-   "title": "o&t Premium Neck Pillow for Travel in Flight/Car/Train for Sleeping Neck Support Neck Pillow",
+   "title": "Vinodex Premium Travel Neck Pillow Memory Foam U Shape Head Support Cushion Neck Pillow",
+   "brand": "Vinodex",
    "price": null,
    "rating": 0,
    "ratings": 0,
    "isFrido": false
+  },
+  {
+   "pos": 7,
+   "title": "GHALIB Soft Travel Neck Pillow Cushion Memory Foam Head Support Grey Neck Pillow",
+   "brand": "GHALIB",
+   "price": null,
+   "rating": 0,
+   "ratings": 0,
+   "isFrido": false
+  },
+  {
+   "pos": 8,
+   "title": "Vinodex Portable Travel Neck Pillow Memory Foam Soft Rest Support Cushion Neck Pillow",
+   "brand": "Vinodex",
+   "price": null,
+   "rating": 0,
+   "ratings": 0,
+   "isFrido": false
+  },
+  {
+   "pos": 9,
+   "title": "VIP Luxe Comfort Neck Pillow - Dark Navy Neck Pillow",
+   "brand": "VIP",
+   "price": null,
+   "rating": 0,
+   "ratings": 0,
+   "isFrido": false
+  },
+  {
+   "pos": 10,
+   "title": "Frido Adjustable Head Rest, 360� Neck & Chin Support, Sleeping Pillow for Car & Flight Neck Pillow",
+   "brand": "Frido",
+   "price": null,
+   "rating": 4.5,
+   "ratings": 32,
+   "isFrido": true
   }
  ],
  "notes": []

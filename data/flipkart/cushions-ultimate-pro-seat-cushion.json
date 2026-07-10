@@ -1,123 +1,139 @@
 {
  "category": "cushions-ultimate-pro-seat-cushion",
  "marketplace": "flipkart",
- "keyword": "Frido Ultimate Pro Seat Cushion",
+ "keyword": "Seat Cushion",
+ "brandKeyword": "Frido Ultimate Pro Seat Cushion",
  "capturedAt": "2026-07-08",
- "method": "Live scrape flipkart.com mobile search page 1 (__INITIAL_STATE__), query = exact SKU name",
+ "method": "Live scrape flipkart.com mobile search page 1 (__INITIAL_STATE__), query = generic product keyword",
  "confidence": "Medium-High (live; sponsored flags not exposed on mobile)",
- "fridoRank": 6,
- "fridoPresent": true,
+ "fridoRank": null,
+ "fridoPresent": false,
+ "fridoUrl": "https://www.flipkart.com/search?q=Seat%20Cushion",
  "results": [
   {
    "pos": 1,
-   "title": "Baben Free Size Posture Corrector For Men And Women Back / Lumbar Support",
+   "title": "AYKA Microfibre Cushion Pack of 5 Solid Quilted_cushion_16x16_pack_5",
+   "brand": "AYKA",
    "price": null,
    "rating": 4.1,
-   "ratings": 377,
+   "ratings": 90,
    "isFrido": false
   },
   {
    "pos": 2,
-   "title": "Baben Posture corrector belt for men and women for back pain Posture Corrector Posture Corrector",
+   "title": "AYKA Microfibre Cushion Pack of 5 Solid White_cushion_16x16_pack_5",
+   "brand": "AYKA",
    "price": null,
-   "rating": 4.2,
-   "ratings": 74,
+   "rating": 4.1,
+   "ratings": 90,
    "isFrido": false
   },
   {
    "pos": 3,
-   "title": "Baben Free Size Sciatica Pain Relief Belt – Adjustable Lower Back & Hip Support Abdominal Belt",
+   "title": "AYKA Microfibre Cushion Pack of 5 Solid Zipper_cushion_16x16_pack_5",
+   "brand": "AYKA",
    "price": null,
-   "rating": 5,
-   "ratings": 21,
+   "rating": 4.1,
+   "ratings": 90,
    "isFrido": false
   },
   {
    "pos": 4,
-   "title": "Baben 3 in 1 Postpartum Support - Recovery Belly Belt Free Size Abdominal Support Abdominal Belt",
+   "title": "AYKA Microfibre Cushion Pack of 5 Solid white_plain_cushion_16x16",
+   "brand": "AYKA",
    "price": null,
-   "rating": 0,
-   "ratings": null,
+   "rating": 4.1,
+   "ratings": 90,
    "isFrido": false
   },
   {
    "pos": 5,
-   "title": "Baben Posture Corrector Belt for Men & Women Back Support Brace Shoulder Pain Relief Posture Corrector",
+   "title": "HOSPIKART Foam Cushion Pack of 1 Solid Seat Cushion for Chair – High-Resilience Foam Sitting Pad with Breathable Cover",
+   "brand": "HOSPIKART",
    "price": null,
-   "rating": 3.5,
-   "ratings": 4,
+   "rating": 4.3,
+   "ratings": 46,
    "isFrido": false
   },
   {
    "pos": 6,
-   "title": "Frido Ultimate Pro Seat Cushion for Hip & Tailbone Pain Relief- Light Grey Back / Lumbar Support",
+   "title": "SOFT SNOOZE Microfibre Chair Pad Pack of 1 Solid Soft",
+   "brand": "SOFT SNOOZE",
    "price": null,
-   "rating": 4.1,
-   "ratings": 297,
-   "isFrido": true
+   "rating": 4,
+   "ratings": 4,
+   "isFrido": false
   },
   {
    "pos": 7,
-   "title": "Frido Ultimate Backrest Cushion For Chair Ergonomic Memory Foam Pillow Pain Relief Back / Lumbar Support",
+   "title": "Zenvio Cotton Chair Pad Pack of 2 Solid Soft Searis",
+   "brand": "Zenvio",
    "price": null,
-   "rating": 4.2,
-   "ratings": 32,
-   "isFrido": true
+   "rating": 0,
+   "ratings": 0,
+   "isFrido": false
   },
   {
    "pos": 8,
-   "title": "Frido Cloud Backrest Memory Foam Cushion, Lumbar Support For Chairs & Home Use, Black Back / Lumbar Support",
+   "title": "Comfylabs Memory Foam Chair Pad Pack of 1 Solid",
+   "brand": "Comfylabs",
    "price": null,
    "rating": 4.5,
-   "ratings": 21,
-   "isFrido": true
+   "ratings": 4,
+   "isFrido": false
   },
   {
    "pos": 9,
-   "title": "Frido Cloud Seat Cushion with Memory Foam & Anti-Slip Base Supporter",
+   "title": "SOFT SNOOZE Microfibre Chair Pad Pack of 1 Solid Soft Luxury",
+   "brand": "SOFT SNOOZE",
    "price": null,
-   "rating": 4.3,
-   "ratings": 6,
-   "isFrido": true
+   "rating": 4.1,
+   "ratings": 24,
+   "isFrido": false
   },
   {
    "pos": 10,
-   "title": "ACTURAA Coccyx Cushion for Tailbone Pain Relief | Orthopedic Cushions for Chair - Back / Lumbar Support",
+   "title": "WELLGIVER Memory Foam Chair Pad Pack of 1 Solid Tailbone Lower Back Pain Relief, Office, Car Seats",
+   "brand": "WELLGIVER",
    "price": null,
    "rating": 3.9,
-   "ratings": 13,
+   "ratings": 17,
    "isFrido": false
   },
   {
    "pos": 11,
-   "title": "Frido Wedge Plus Memory Foam Cushion for Sleeping, Acid Reflux Relief & Leg Elevator Back / Lumbar Support",
+   "title": "SANJU BROTHER Microfibre Chair Pad Pack of 2 Solid",
+   "brand": "SANJU BROTHER",
    "price": null,
-   "rating": 4.2,
-   "ratings": 435,
-   "isFrido": true
+   "rating": 0,
+   "ratings": 0,
+   "isFrido": false
   },
   {
    "pos": 12,
-   "title": "Frido Cloud Backrest Memory Foam Cushion, Lumbar Support For Chairs & Home Use, Pink Back / Lumbar Support",
+   "title": "FRIDUP Memory Foam Cushion Pack of 1 Geometric Coccyx Cushion for Hip Support for Office & Home",
+   "brand": "FRIDUP",
    "price": null,
-   "rating": 4.5,
-   "ratings": 21,
-   "isFrido": true
+   "rating": 4.2,
+   "ratings": 403,
+   "isFrido": false
   },
   {
    "pos": 13,
-   "title": "Frido Cloud Backrest Memory Foam Cushion, Lumbar Support For Chairs & Home Use, Green Back / Lumbar Support",
+   "title": "CushyComfy Memory Foam Cushion Pack of 1 Solid Seat Cushion for Hip, Tailbone, Coccyx & Sciatica Pain Relief | For Office/Home",
+   "brand": "CushyComfy",
    "price": null,
-   "rating": 4.5,
-   "ratings": 21,
-   "isFrido": true
+   "rating": 0,
+   "ratings": 0,
+   "isFrido": false
   },
   {
    "pos": 14,
-   "title": "POSTURO Car Neck Rest Memory Foam Neck Cushion For Pain Free Long Driving Big Size Back / Lumbar Support",
+   "title": "SANJU BROTHER Microfibre Chair Pad Pack of 4 Solid",
+   "brand": "SANJU BROTHER",
    "price": null,
-   "rating": 3.5,
-   "ratings": 4,
+   "rating": 0,
+   "ratings": 0,
    "isFrido": false
   }
  ],

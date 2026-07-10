@@ -1,123 +1,130 @@
 {
  "category": "cushions-adjustable-wedge-max-cushion",
  "marketplace": "flipkart",
- "keyword": "Frido Adjustable Wedge Max Cushion",
+ "keyword": "Adjustable Wedge Max Cushion",
+ "brandKeyword": "Frido Adjustable Wedge Max Cushion",
  "capturedAt": "2026-07-08",
- "method": "Live scrape flipkart.com mobile search page 1 (__INITIAL_STATE__), query = exact SKU name",
+ "method": "Live scrape flipkart.com mobile search page 1 (__INITIAL_STATE__), query = generic product keyword",
  "confidence": "Medium-High (live; sponsored flags not exposed on mobile)",
- "fridoRank": 6,
+ "fridoRank": 8,
  "fridoPresent": true,
+ "fridoUrl": "https://www.flipkart.com/search?q=Adjustable%20Wedge%20Max%20Cushion",
  "results": [
   {
    "pos": 1,
-   "title": "Baben Free Size Posture Corrector For Men And Women Back / Lumbar Support",
+   "title": "FEXMY Heel Pain Relief Cracked Repair Foot Care Heel Pad and Heel Socks Combo Heel Support",
+   "brand": "FEXMY",
    "price": null,
-   "rating": 4.1,
-   "ratings": 377,
+   "rating": 3.8,
+   "ratings": 451,
    "isFrido": false
   },
   {
    "pos": 2,
-   "title": "Baben Posture corrector belt for men and women for back pain Posture Corrector Posture Corrector",
+   "title": "FEXMY Heel Grips Liner Cushions Inserts for Loose Shoes Insoles for Men Heel Support",
+   "brand": "FEXMY",
    "price": null,
-   "rating": 4.2,
-   "ratings": 74,
+   "rating": 3.8,
+   "ratings": 1481,
    "isFrido": false
   },
   {
    "pos": 3,
-   "title": "Baben Free Size Sciatica Pain Relief Belt – Adjustable Lower Back & Hip Support Abdominal Belt",
+   "title": "FEXMY Shoe Bite Protector Heel Grips, Liner Cushions & Inserts for Loose Shoes Support Heel Support",
+   "brand": "FEXMY",
    "price": null,
-   "rating": 5,
-   "ratings": 21,
+   "rating": 3.8,
+   "ratings": 1481,
    "isFrido": false
   },
   {
    "pos": 4,
-   "title": "Baben 3 in 1 Postpartum Support - Recovery Belly Belt Free Size Abdominal Support Abdominal Belt",
+   "title": "COO RIZZ Nap time Anytime Foam Orthopaedic Pillow Pack of 1 Solid Adjustable Wedge Pillow With Headrest | Neck, Back, Leg Elevation",
+   "brand": "COO RIZZ Nap time Anytime",
    "price": null,
    "rating": 0,
-   "ratings": null,
+   "ratings": 0,
    "isFrido": false
   },
   {
    "pos": 5,
-   "title": "Baben Posture Corrector Belt for Men & Women Back Support Brace Shoulder Pain Relief Posture Corrector",
+   "title": "HOMESO Memory Foam Orthopaedic Pillow Pack of 1 Solid Wedge Plus Pillow for Sleeping Back & Neck Pain Relief Leg Elevator",
+   "brand": "HOMESO",
    "price": null,
-   "rating": 3.5,
-   "ratings": 4,
+   "rating": 4.3,
+   "ratings": 877,
    "isFrido": false
   },
   {
    "pos": 6,
-   "title": "Frido Complete Back Support Wedge Cushion Made with Memory Foam, For Bed, Sofa & Chair Back / Lumbar Support",
+   "title": "FITBONEX Wedge Cushion, Orthopedic Back Support for Bed Back / Lumbar Support",
+   "brand": "FITBONEX",
    "price": null,
-   "rating": 4,
-   "ratings": 260,
-   "isFrido": true
+   "rating": 0,
+   "ratings": 0,
+   "isFrido": false
   },
   {
    "pos": 7,
-   "title": "Frido Ultimate Pro Seat Cushion for Hip & Tailbone Pain Relief- Light Grey Back / Lumbar Support",
+   "title": "Bodwear Advanced Adjustable Memory Foam Bed Wedge Pillow Back / Lumbar Support",
+   "brand": "Bodwear",
    "price": null,
-   "rating": 4.1,
-   "ratings": 297,
-   "isFrido": true
+   "rating": 4.3,
+   "ratings": 189,
+   "isFrido": false
   },
   {
    "pos": 8,
-   "title": "Frido Wedge Plus Memory Foam Cushion for Sleeping, Acid Reflux Relief & Leg Elevator Back / Lumbar Support",
+   "title": "Frido Ultimate Pro Seat Cushion for Hip & Tailbone Pain Relief- Light Grey Back / Lumbar Support",
+   "brand": "Frido",
    "price": null,
-   "rating": 4.2,
-   "ratings": 435,
+   "rating": 4.1,
+   "ratings": 298,
    "isFrido": true
   },
   {
    "pos": 9,
-   "title": "Frido Cloud Seat Cushion with Memory Foam & Anti-Slip Base Supporter",
+   "title": "FOVERA Gel Seat Cushion for Chair, Orthopedic Cooling Breathable Comfort Back / Lumbar Support",
+   "brand": "FOVERA",
    "price": null,
-   "rating": 4.3,
-   "ratings": 6,
-   "isFrido": true
+   "rating": 4.5,
+   "ratings": 24,
+   "isFrido": false
   },
   {
    "pos": 10,
-   "title": "Frido Cloud Backrest Memory Foam Cushion, Lumbar Support For Chairs & Home Use, Grey Back / Lumbar Support",
+   "title": "Frido Complete Back Support Wedge Cushion Made with Memory Foam, For Bed, Sofa & Chair Back / Lumbar Support",
+   "brand": "Frido",
    "price": null,
-   "rating": 4.5,
-   "ratings": 21,
+   "rating": 4,
+   "ratings": 261,
    "isFrido": true
   },
   {
    "pos": 11,
-   "title": "Frido Cloud Backrest Memory Foam Cushion, Lumbar Support For Chairs & Home Use, Green Back / Lumbar Support",
+   "title": "SUPERFINE COMFORT Bed Wedge Back Rest Pillow Back Support Cushion for Acid Reflux, GERD, Snoring Back / Lumbar Support",
+   "brand": "SUPERFINE COMFORT",
    "price": null,
    "rating": 4.5,
-   "ratings": 21,
-   "isFrido": true
-  },
-  {
-   "pos": 12,
-   "title": "Frido Cloud Seat Cushion with Memory Foam & Anti-Slip BaseLilly Pad Supporter",
-   "price": null,
-   "rating": 4.3,
-   "ratings": 6,
-   "isFrido": true
-  },
-  {
-   "pos": 13,
-   "title": "FEXMY Heel Pain Relief Cracked Repair Foot Care Heel Pad and Heel Socks Combo Heel Support",
-   "price": null,
-   "rating": 3.8,
-   "ratings": 450,
+   "ratings": 8,
    "isFrido": false
   },
   {
-   "pos": 14,
-   "title": "FEXMY Shoe Bite Protector Heel Grips, Liner Cushions & Inserts for Loose Shoes Support Heel Support",
+   "pos": 12,
+   "title": "Leeford Coccyx Seat for Tailbone Pain, Sciatica & Lower Back Pain | Improves Posture Back / Lumbar Support",
+   "brand": "Leeford",
    "price": null,
-   "rating": 3.8,
-   "ratings": 1478,
+   "rating": 4.2,
+   "ratings": 32,
+   "isFrido": false
+  },
+  {
+   "pos": 13,
+   "title": "CUSHIO Memory Foam Orthopaedic Pillow Pack of 1 Solid Adjustable Memory Foam Bed Wedge Pillow for Legs and Back Support -",
+   "brand": "CUSHIO",
+   "price": null,
+   "rating": 4.2,
+   "ratings": 26,
    "isFrido": false
   }
  ],

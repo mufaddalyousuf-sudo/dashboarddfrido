@@ -1,124 +1,113 @@
 {
  "category": "cushions-wedge-plus-cushion-cover",
  "marketplace": "flipkart",
- "keyword": "Frido Wedge Plus Cushion Cover",
+ "keyword": "Wedge Plus Cushion Cover",
+ "brandKeyword": "Frido Wedge Plus Cushion Cover",
  "capturedAt": "2026-07-08",
- "method": "Live scrape flipkart.com mobile search page 1 (__INITIAL_STATE__), query = exact SKU name",
+ "method": "Live scrape flipkart.com mobile search page 1 (__INITIAL_STATE__), query = generic product keyword",
  "confidence": "Medium-High (live; sponsored flags not exposed on mobile)",
  "fridoRank": 6,
  "fridoPresent": true,
+ "fridoUrl": "https://www.flipkart.com/search?q=Wedge%20Plus%20Cushion%20Cover",
  "results": [
   {
    "pos": 1,
-   "title": "Baben Free Size Posture Corrector For Men And Women Back / Lumbar Support",
+   "title": "Mattress Protector Cotton Pillows Cover",
+   "brand": "Mattress Protector",
    "price": null,
-   "rating": 4.1,
-   "ratings": 377,
+   "rating": 4,
+   "ratings": 2189,
    "isFrido": false
   },
   {
    "pos": 2,
-   "title": "Baben Posture corrector belt for men and women for back pain Posture Corrector Posture Corrector",
+   "title": "Mattress Protector Double Size Fitted Terry Cotton Waterproof, Stretchable, Breathable Mattress Cover",
+   "brand": "Mattress Protector",
    "price": null,
    "rating": 4.2,
-   "ratings": 74,
+   "ratings": 97762,
    "isFrido": false
   },
   {
    "pos": 3,
-   "title": "Baben Free Size Sciatica Pain Relief Belt – Adjustable Lower Back & Hip Support Abdominal Belt",
+   "title": "Mattress Protector Single Size Fitted Terry Cotton Waterproof, Stretchable, Breathable Mattress Cover",
+   "brand": "Mattress Protector",
    "price": null,
-   "rating": 5,
-   "ratings": 21,
+   "rating": 4.1,
+   "ratings": 9938,
    "isFrido": false
   },
   {
    "pos": 4,
-   "title": "Baben 3 in 1 Postpartum Support - Recovery Belly Belt Free Size Abdominal Support Abdominal Belt",
+   "title": "Mattress Protector King Size Fitted Polycotton Waterproof, Stretchable, Breathable Mattress Cover",
+   "brand": "Mattress Protector",
    "price": null,
-   "rating": 0,
-   "ratings": null,
+   "rating": 4.1,
+   "ratings": 4180,
    "isFrido": false
   },
   {
    "pos": 5,
-   "title": "Baben Posture Corrector Belt for Men & Women Back Support Brace Shoulder Pain Relief Posture Corrector",
+   "title": "Mattress Protector King Size Fitted Terry Cotton Waterproof, Stretchable, Breathable Mattress Cover",
+   "brand": "Mattress Protector",
    "price": null,
-   "rating": 3.5,
-   "ratings": 4,
+   "rating": 4.2,
+   "ratings": 97762,
    "isFrido": false
   },
   {
    "pos": 6,
-   "title": "Frido Wedge Plus Memory Foam Cushion for Sleeping, Acid Reflux Relief & Leg Elevator Back / Lumbar Support",
+   "title": "Frido Memory Foam Cushion Pack of 1 Solid Wedge Plus Cushion for Sleeping, Acid Reflux Relief, Leg Elevator, Pregnancy",
+   "brand": "Frido",
    "price": null,
    "rating": 4.2,
-   "ratings": 435,
+   "ratings": 217,
    "isFrido": true
   },
   {
    "pos": 7,
-   "title": "Frido Ultimate Pro Seat Cushion for Hip & Tailbone Pain Relief- Light Grey Back / Lumbar Support",
+   "title": "HOMBOX Foam Orthopaedic Pillow Pack of 1 Solid Bed Wedge Pack of 1 (Black)",
+   "brand": "HOMBOX",
    "price": null,
    "rating": 4.1,
-   "ratings": 297,
-   "isFrido": true
+   "ratings": 275,
+   "isFrido": false
   },
   {
    "pos": 8,
-   "title": "Frido Complete Back Support Wedge Cushion Made with Memory Foam, For Bed, Sofa & Chair Back / Lumbar Support",
+   "title": "Sassoon Memory Foam Cushion Pack of 1 Solid Anatolia Wedge Pillow | Bed Cushion, Sleeping, Sitting & Acid Reflux Relief",
+   "brand": "Sassoon",
    "price": null,
-   "rating": 4,
-   "ratings": 260,
-   "isFrido": true
+   "rating": 0,
+   "ratings": 0,
+   "isFrido": false
   },
   {
    "pos": 9,
-   "title": "FOVERA Donut Pillow Orthopedic Memory Foam Piles Cushion for Hemorrhoids Back / Lumbar Support",
+   "title": "Flipkart SmartBuy Memory Foam Sleeping Pillow Pack of 1 Solid Bed Sitting & Sleeping Support, Cervical Pain Relief, Coccyx, Pregnancy",
+   "brand": "Flipkart SmartBuy",
    "price": null,
-   "rating": 4.1,
-   "ratings": 816,
+   "rating": 4,
+   "ratings": 48,
    "isFrido": false
   },
   {
    "pos": 10,
-   "title": "Frido Slim Ortho Coccyx Seat Cushion |Tailbone & Sciatica Relief | Anti Slip Support Back / Lumbar Support",
+   "title": "YDHEK CREATIONS Cotton Cushions Cover",
+   "brand": "YDHEK CREATIONS",
    "price": null,
    "rating": 0,
    "ratings": 0,
-   "isFrido": true
+   "isFrido": false
   },
   {
    "pos": 11,
-   "title": "Frido Cloud Backrest & Seat Cushion | Lilly Pad | Memory Foam Support Back / Lumbar Support",
+   "title": "Frido Memory Foam Cushion Pack of 2 Solid Wedge Plus with Neck Rest Pillow | Back, Neck, Knee & Leg Support",
+   "brand": "Frido",
    "price": null,
-   "rating": 4.4,
-   "ratings": 7,
+   "rating": 4,
+   "ratings": 23,
    "isFrido": true
-  },
-  {
-   "pos": 12,
-   "title": "Frido Cloud Seat Cushion with Memory Foam & Anti-Slip Base Supporter",
-   "price": null,
-   "rating": 4.3,
-   "ratings": 6,
-   "isFrido": true
-  },
-  {
-   "pos": 13,
-   "title": "FEXMY Heel Pain Relief Cracked Repair Foot Care Heel Pad and Heel Socks Combo Heel Support",
-   "price": null,
-   "rating": 3.8,
-   "ratings": 450,
-   "isFrido": false
-  },
-  {
-   "pos": 14,
-   "title": "FEXMY Shoe Bite Protector Heel Grips, Liner Cushions & Inserts for Loose Shoes Support Heel Support",
-   "price": null,
-   "rating": 3.8,
-   "ratings": 1478,
-   "isFrido": false
   }
  ],
  "notes": []

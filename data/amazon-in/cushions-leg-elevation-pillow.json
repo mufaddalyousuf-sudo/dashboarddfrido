@@ -1,76 +1,42 @@
 {
  "category": "cushions-leg-elevation-pillow",
  "marketplace": "amazon-in",
- "keyword": "Frido Leg Elevation Pillow",
+ "keyword": "Leg Elevation Pillow",
+ "brandKeyword": "Frido Leg Elevation Pillow",
  "capturedAt": "2026-07-08",
- "method": "Live scrape amazon.in search page 1, query = exact SKU name (brand-qualified)",
+ "method": "Live scrape amazon.in search page 1, query = generic product keyword (brand + Frido product-line/marketing words stripped) — the competitive rank signal, not a brand-qualified existence check",
  "confidence": "High (live snapshot, single keyword)",
  "fridoOrganicRank": 1,
- "fridoSponsoredSlot": 5,
+ "fridoSponsoredSlot": 1,
+ "fridoUrl": "https://www.amazon.in/dp/B0FDBFW7PM",
  "organic": [
   {
    "asin": "B0FDBFW7PM",
    "badge": "Amazon's Choice",
-   "price": "1,893",
-   "rating": "4.6",
-   "reviews": "272",
+   "price": "2,194",
+   "rating": "4.5",
+   "reviews": "273",
    "title": "Frido Leg Elevation Wedge Pillow for Edema, Varicose Veins, Fracture | High Resilience Foam Cushion for Leg, Knee & Thigh Support | Back Pain & Swelling Relief ",
    "rank": 1,
    "isFridoBrand": true
   },
   {
-   "asin": "B0GF7JVKBS",
-   "badge": null,
-   "price": "2,199",
-   "rating": "4.6",
-   "reviews": "272",
-   "title": "Frido Leg Elevation Wedge Pillow for Edema, Varicose Veins, Fracture | High Resilience Foam Cushion for Leg, Knee & Thigh Support | Back Pain & Swelling Relief ",
-   "rank": 2
-  },
-  {
-   "asin": "B0GTQ26575",
-   "badge": null,
-   "price": "1,299",
-   "rating": null,
-   "reviews": null,
-   "title": "Orthopedic Leg Elevation Wedge Pillow – Premium Memory Foam Cushion for Pain Relief, Improved Circulation, Post-Surgery Recovery & Ultimate Comfort",
-   "rank": 3
-  },
-  {
-   "asin": "B0D3XTXGT4",
-   "badge": null,
-   "price": "2,199",
-   "rating": "4.2",
-   "reviews": "3,012",
-   "title": "Frido Wedge Plus Cushion for Sleeping & Acid Reflux Relief | Memory Foam Pillow | High Resillience Foam | Orthopedic Wedge Cushion for Leg Elevator | Pregnancy ",
-   "rank": 4
-  },
-  {
    "asin": "B0C2VNTLSG",
    "badge": null,
-   "price": "1,897",
+   "price": "1,974",
    "rating": "4.3",
    "reviews": "428",
    "title": "The White Willow Wedge Cushion for Elevation & Support – Pain Relief for Varicose Veins, Post-Surgery Recovery – HR Memory Foam Sleeping Support – Grey",
-   "rank": 5
+   "rank": 2
   },
   {
-   "asin": "B0C7BM7L45",
-   "badge": "Bestseller",
-   "price": "1,329",
-   "rating": "4.3",
-   "reviews": "1,763",
-   "title": "Amazon Basics Memory Foam Orthopedic Wedge Pillow |for Neck, Back Support, Cervical Pain, Acid Reflux, Snoring, GERD, Leg Elevation, Pregnancy -Ultra Soft Washa",
-   "rank": 6
-  },
-  {
-   "asin": "B0FG2GV83G",
+   "asin": "B0BQHQQPCN",
    "badge": null,
-   "price": "1,988",
-   "rating": "4.2",
-   "reviews": "14",
-   "title": "Orista Contour Leg Elevation Pillow I Orthopedic Memory Foam Wedge for Pain Relief, Swelling, Varicose Veins & Post-Surgery Recovery I Washable Cover & 2-Year W",
-   "rank": 7
+   "price": "2,197",
+   "rating": "4.3",
+   "reviews": "779",
+   "title": "FOVERA Leg Elevation Pillow - Relieves Leg, Hip & Knee Pain, Ideal for Post-Surgical Recovery - Relieves Discomfort of Varicose Veins, Phlebitis, Leg Surgery (M",
+   "rank": 3
   },
   {
    "asin": "B0GCN49S55",
@@ -79,117 +45,153 @@
    "rating": "5.0",
    "reviews": "1",
    "title": "amazon basics Wedge Leg Pillow | High Resilience Super-Soft Foam | Leg, Hip, Thigh & Knee Rest | Generous Size for Both Legs | Washable Cover | 22 x 20 x 7 in |",
+   "rank": 4
+  },
+  {
+   "asin": "B0GWQSJTKX",
+   "badge": null,
+   "price": "1,199",
+   "rating": null,
+   "reviews": null,
+   "title": "Leg Elevation Wedge Pillow | Orthopedic Support for Legs & Knees | Holland Velvet Fabric | Improves Circulation & Comfort,White",
+   "rank": 5
+  },
+  {
+   "asin": "B0FG2GV83G",
+   "badge": null,
+   "price": "2,099",
+   "rating": "4.2",
+   "reviews": "14",
+   "title": "Orista Contour Leg Elevation Pillow I Orthopedic Memory Foam Wedge for Pain Relief, Swelling, Varicose Veins & Post-Surgery Recovery I Washable Cover & 2-Year W",
+   "rank": 6
+  },
+  {
+   "asin": "B0GWR6XNJK",
+   "badge": null,
+   "price": "1,199",
+   "rating": null,
+   "reviews": null,
+   "title": "PUM PUM Leg Elevation Wedge Pillow | Orthopedic Support for Legs & Knees | Holland Velvet Fabric | Improves Circulation & Comfort,Purple",
+   "rank": 7
+  },
+  {
+   "asin": "B09F9MYZPX",
+   "badge": null,
+   "price": "1,995",
+   "rating": "4.4",
+   "reviews": "130",
+   "title": "Metron Leg Elevation Bed Wedge Pillow For Varicose Veins - Leg Elevation Support For Sleeping - Reduce Swelling, Improve Circulation - Orthopedic Leg Pillow-Med",
    "rank": 8
   },
   {
-   "asin": "B08WRS7P7G",
+   "asin": "B0DBGN2CGJ",
    "badge": null,
-   "price": "1,890",
-   "rating": "4.1",
-   "reviews": "152",
-   "title": "FOVERA Single Leg Elevation & Support Pillow for Surgery, Injury, or Rest - Aids in Reducing Edema (Grey)",
+   "price": "3,295",
+   "rating": "4.7",
+   "reviews": "60",
+   "title": "METRON Foam & Memory Foam Leg Elevation Pillow - Wedge Pillow for Varicose Veins, Reduces Leg & Back Pain, Improves Blood Circulation - Extra Soft Pillow, Grey,",
    "rank": 9
   },
   {
-   "asin": "B0FKBXJVQ2",
+   "asin": "B0GF7MHBDZ",
    "badge": null,
-   "price": "1,139",
-   "rating": "4.0",
-   "reviews": "264",
-   "title": "Frido Orthopedic Knee Pillow with Adjustable Strap | Memory Foam Leg Pillow for Side Sleepers | Sciatica Pain Relief, Hip, Back & Knee Support | Leg Rest Cushio",
+   "price": "2,199",
+   "rating": "4.5",
+   "reviews": "273",
+   "title": "Frido Leg Elevation Wedge Pillow for Edema, Varicose Veins, Fracture | High Resilience Foam Cushion for Leg, Knee & Thigh Support | Back Pain & Swelling Relief ",
    "rank": 10
   }
  ],
  "sponsored": [
   {
-   "asin": "B0D3XX9TJZ",
-   "badge": null,
-   "price": "1,799",
-   "rating": "4.2",
-   "reviews": "3,012",
-   "title": "Frido Wedge Plus Cushion for Sleeping, Sitting & Acid Reflux Relief | Memory Foam Pillow | High Resillience Foam | Orthopedic Wedge Cushion for Leg Elevator | P",
-   "slot": 1
-  },
-  {
-   "asin": "B0C2VNTLSG",
-   "badge": null,
-   "price": "1,897",
-   "rating": "4.3",
-   "reviews": "428",
-   "title": "The White Willow Wedge Cushion for Elevation & Support – Pain Relief for Varicose Veins, Post-Surgery Recovery – HR Memory Foam Sleeping Support – Grey",
-   "slot": 2
+   "asin": "B0FDBFW7PM",
+   "badge": "Amazon's Choice",
+   "price": "2,194",
+   "rating": "4.5",
+   "reviews": "273",
+   "title": "Frido Leg Elevation Wedge Pillow for Edema, Varicose Veins, Fracture | High Resilience Foam Cushion for Leg, Knee & Thigh Support | Back Pain & Swelling Relief ",
+   "slot": 1,
+   "isFridoBrand": true
   },
   {
    "asin": "B0FG2GV83G",
    "badge": null,
-   "price": "1,988",
+   "price": "2,099",
    "rating": "4.2",
    "reviews": "14",
    "title": "Orista Contour Leg Elevation Pillow I Orthopedic Memory Foam Wedge for Pain Relief, Swelling, Varicose Veins & Post-Surgery Recovery I Washable Cover & 2-Year W",
+   "slot": 2
+  },
+  {
+   "asin": "B07P73HBYX",
+   "badge": null,
+   "price": "1,974",
+   "rating": "4.3",
+   "reviews": "252",
+   "title": "The White Willow Orthopedic Memory Foam Bed Wedge Elevated Leg Rest Pillow for Improved Circulation, Acid Reflux,Back, Leg, Sciatica Pain Relief,Post Surgery (2",
    "slot": 3
   },
   {
-   "asin": "B0C5FD6BPD",
-   "badge": "Bestseller",
-   "price": "1,490",
-   "rating": "4.1",
-   "reviews": "3,206",
-   "title": "FOVERA Memory Foam Wedge Pillow | 2 Years Warranty | Bed Wedge Cushion, Orthopedic Back Support for Bed | for Acid Reflux, Snoring, GERD, Leg Elevation (Dark Gr",
+   "asin": "B0H1HFKXN4",
+   "badge": null,
+   "price": "1,880",
+   "rating": null,
+   "reviews": null,
+   "title": "JAMES STOKES Leg Elevation Wedge Pillow, White & Grey | High Resilience Foam Cushion, For Edema, Varicose Veins, Fracture, Leg, Knee & Thigh Support, Back Pain ",
    "slot": 4
   },
   {
-   "asin": "B0GF7CCDVY",
-   "badge": "Bestseller",
-   "price": "2,199",
-   "rating": "4.6",
-   "reviews": "272",
-   "title": "Frido Leg Elevation Wedge Pillow for Edema, Varicose Veins, Fracture | High Resilience Foam Cushion for Leg, Knee & Thigh Support | Back Pain & Swelling Relief ",
-   "slot": 5,
-   "isFridoBrand": true
+   "asin": "B0DFHNB3JJ",
+   "badge": null,
+   "price": "2,298",
+   "rating": "4.0",
+   "reviews": "24",
+   "title": "FOVERA Adjustable Single Leg Elevation Pillow | 4-Height Customizable Support | High Resilience Foam | Ideal for Surgery Recovery, Injuries, and Rest | Washable",
+   "slot": 5
   },
   {
-   "asin": "B0FYXFRM9J",
+   "asin": "B0GF7CCDVY",
    "badge": null,
-   "price": "1,199",
-   "rating": "4.2",
-   "reviews": "39",
-   "title": "CareFoam Orthopedic Wedge Pillow for Sleeping, Reading & Acid Reflux Relief | Premium Memory Foam Bed Cushion | Ideal for Back Support, Leg Elevation | 18 x 18 ",
+   "price": "2,199",
+   "rating": "4.5",
+   "reviews": "273",
+   "title": "Frido Leg Elevation Wedge Pillow for Edema, Varicose Veins, Fracture | High Resilience Foam Cushion for Leg, Knee & Thigh Support | Back Pain & Swelling Relief ",
    "slot": 6
   },
   {
-   "asin": "B0H1G6NFPF",
+   "asin": "B0FPQSXRFL",
    "badge": null,
-   "price": "1,900",
-   "rating": null,
-   "reviews": null,
-   "title": "JAMES STOKES Wedge Cushion for Sleeping, Sitting & Acid Reflux Relief | Memory Foam Pillow | High Resillience Foam | Orthopedic Wedge Cushion for Leg Elevator |",
+   "price": "1,699",
+   "rating": "4.0",
+   "reviews": "12",
+   "title": "CareFoam Adjustable Memory Foam Bed Wedge Pillow | 18 x 18 x 10 Inch | 2 Years Warranty | Orthopedic Pillow for Sleeping, Acid Reflux, GERD, Snoring, Back Suppo",
    "slot": 7
   },
   {
-   "asin": "B0F1KFT9Y7",
+   "asin": "B0GCN49S55",
    "badge": null,
-   "price": "1,999",
-   "rating": "4.3",
-   "reviews": "164",
-   "title": "The Sleep Company SmartGRID Wedge Pillow | 4-in-1 Multi-Purpose Support Cushion for Back Pain, Acid Reflux, Snoring, Pregnancy & Post-Surgery | Patented SmartGR",
+   "price": "1,699",
+   "rating": "5.0",
+   "reviews": "1",
+   "title": "amazon basics Wedge Leg Pillow | High Resilience Super-Soft Foam | Leg, Hip, Thigh & Knee Rest | Generous Size for Both Legs | Washable Cover | 22 x 20 x 7 in |",
    "slot": 8
   },
   {
-   "asin": "B0BRL1GDTB",
-   "badge": null,
-   "price": "2,999",
-   "rating": "4.1",
-   "reviews": "1,009",
-   "title": "FOVERA Wedge Pillow Memory Foam with Head Rest, Adjustable Wedge Cushion for Back Support, Acid Reflux, Leg Elevator, Pregnancy, GERD, Snoring (Navy Blue, 22 x ",
-   "slot": 9
-  },
-  {
-   "asin": "B0FKN7WSCM",
+   "asin": "B0D4ZFJFD5",
    "badge": null,
    "price": "1,199",
    "rating": "4.3",
-   "reviews": "20",
-   "title": "Memory Foam Orthopedic Wedge Pillow for Back, Neck, Leg Support, Pregnancy, GERD, Acid Reflux, Snoring & Post-Surgery Relief – Soft Washable Velvet Cover - Blac",
+   "reviews": "649",
+   "title": "CareFoam Memory Foam Wedge Pillow for Bed | 2 Years Warranty | Orthopedic Bed Wedge Cushion for Back Support, Acid Reflux, GERD, Snoring & Leg Elevation|18 x 18",
+   "slot": 9
+  },
+  {
+   "asin": "B0FPQZ3XGC",
+   "badge": null,
+   "price": "1,699",
+   "rating": "3.2",
+   "reviews": "17",
+   "title": "CareFoam Adjustable Memory Foam Bed Wedge Pillow | 18 x 18 x 10 Inch | 2 Years Warranty | Orthopedic Pillow for Sleeping, Acid Reflux, GERD, Snoring, Back Suppo",
    "slot": 10
   }
  ],

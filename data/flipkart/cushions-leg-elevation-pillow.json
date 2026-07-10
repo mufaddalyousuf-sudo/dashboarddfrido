@@ -1,76 +1,122 @@
 {
  "category": "cushions-leg-elevation-pillow",
  "marketplace": "flipkart",
- "keyword": "Frido Leg Elevation Pillow",
+ "keyword": "Leg Elevation Pillow",
+ "brandKeyword": "Frido Leg Elevation Pillow",
  "capturedAt": "2026-07-08",
- "method": "Live scrape flipkart.com mobile search page 1 (__INITIAL_STATE__), query = exact SKU name",
+ "method": "Live scrape flipkart.com mobile search page 1 (__INITIAL_STATE__), query = generic product keyword",
  "confidence": "Medium-High (live; sponsored flags not exposed on mobile)",
- "fridoRank": 6,
- "fridoPresent": true,
+ "fridoRank": null,
+ "fridoPresent": false,
+ "fridoUrl": "https://www.flipkart.com/search?q=Leg%20Elevation%20Pillow",
  "results": [
   {
    "pos": 1,
-   "title": "THE WOOD WHITE INDIA Microfibre Sleeping Pillow Pack of 2 Solid Soft Pillow Set of 2. 16 x 24 Inches",
+   "title": "THE WOOD WHITE INDIA Microfibre Sleeping Pillow Pack of 2 Stripes Soft Pillows",
+   "brand": "THE WOOD WHITE INDIA",
    "price": null,
    "rating": 4,
-   "ratings": 1970,
+   "ratings": 16576,
    "isFrido": false
   },
   {
    "pos": 2,
    "title": "THE WOOD WHITE INDIA Microfibre Sleeping Pillow Pack of 2 Abstract Self Grey Pillow Set of 2 in 16” x 24” Inch with 600 GMS of Plush Filling",
+   "brand": "THE WOOD WHITE INDIA",
    "price": null,
    "rating": 4,
-   "ratings": 16570,
+   "ratings": 16576,
    "isFrido": false
   },
   {
    "pos": 3,
-   "title": "THE WOOD WHITE INDIA Microfibre Sleeping Pillow Pack of 2 Solid Microfiber 16 x 24 Inches or 41 x 61 cm.",
+   "title": "THE WOOD WHITE INDIA Microfibre Sleeping Pillow Pack of 4 Stripes 16 x 24 Inch pillows set of 4",
+   "brand": "THE WOOD WHITE INDIA",
    "price": null,
    "rating": 4,
-   "ratings": 16570,
+   "ratings": 16576,
    "isFrido": false
   },
   {
    "pos": 4,
-   "title": "THE WOOD WHITE INDIA Microfibre Sleeping Pillow Pack of 2 Solid Soft Pillow Set of 2. size 16 x 24 Inches",
+   "title": "THE WOOD WHITE INDIA Microfibre Sleeping Pillow Pack of 4 Abstract Self Grey Pillow Set of 4 in 16” x 24” Inch with 600 GMS of Plush Filling",
+   "brand": "THE WOOD WHITE INDIA",
    "price": null,
    "rating": 4,
-   "ratings": 16570,
+   "ratings": 16576,
    "isFrido": false
   },
   {
    "pos": 5,
-   "title": "THE WOOD WHITE INDIA Microfibre Sleeping Pillow Pack of 2 Solid Basic White Pillow Set of 2 in 41 x 61 cm with Blue Border",
+   "title": "HOMESO Memory Foam Orthopaedic Pillow Pack of 1 Solid Wedge Plus Pillow for Sleeping Back & Neck Pain Relief Leg Elevator",
+   "brand": "HOMESO",
    "price": null,
-   "rating": 4,
-   "ratings": 401,
+   "rating": 4.3,
+   "ratings": 877,
    "isFrido": false
   },
   {
    "pos": 6,
-   "title": "Frido Memory Foam Cushion Pack of 2 Solid Wedge Plus with Neck Rest Pillow | Back, Neck, Knee & Leg Support",
+   "title": "CUSHIO Memory Foam Orthopaedic Pillow Pack of 1 Solid Adjustable Memory Foam Bed Wedge Pillow for Legs and Back Support -",
+   "brand": "CUSHIO",
    "price": null,
-   "rating": 4,
-   "ratings": 23,
-   "isFrido": true
+   "rating": 4.2,
+   "ratings": 26,
+   "isFrido": false
   },
   {
    "pos": 7,
-   "title": "Frido Memory Foam Cushion Pack of 1 Solid Wedge Plus Cushion for Sleeping, Acid Reflux Relief, Leg Elevator, Pregnancy",
+   "title": "CUSHIO Memory Foam Orthopaedic Pillow Pack of 1 Solid Memory Foam Bed Wedge Pillow for Back Support, Leg Elevation, Acid Reflux",
+   "brand": "CUSHIO",
    "price": null,
    "rating": 4.2,
-   "ratings": 217,
-   "isFrido": true
+   "ratings": 58,
+   "isFrido": false
   },
   {
    "pos": 8,
-   "title": "Frido Foam Orthopaedic Pillow Pack of 1 Solid High Density Foam Support Cushion",
+   "title": "HOMBOX Foam Orthopaedic Pillow Pack of 1 Solid Bed Wedge",
+   "brand": "HOMBOX",
    "price": null,
-   "rating": 4.4,
-   "ratings": 31,
-   "isFrido": true
+   "rating": 4.2,
+   "ratings": 774,
+   "isFrido": false
+  },
+  {
+   "pos": 9,
+   "title": "CUSHIO Memory Foam Orthopaedic Pillow Pack of 1 Solid Memory Foam Adjustable Wedge Pillow With Headrest | Neck, Back, Leg Elevation",
+   "brand": "CUSHIO",
+   "price": null,
+   "rating": 3.6,
+   "ratings": 5,
+   "isFrido": false
+  },
+  {
+   "pos": 10,
+   "title": "Cyson Memory Foam Orthopaedic Pillow Pack of 1 Polka",
+   "brand": "Cyson",
+   "price": null,
+   "rating": 0,
+   "ratings": 0,
+   "isFrido": false
+  },
+  {
+   "pos": 11,
+   "title": "Dr Trust Memory Foam Orthopaedic Pillow Pack of 1 Solid USA 354 Bed Wedge Pillow for Sleeping Back & Neck Pain Relief Leg Elevator",
+   "brand": "Dr Trust",
+   "price": null,
+   "rating": 4.2,
+   "ratings": 318,
+   "isFrido": false
+  },
+  {
+   "pos": 12,
+   "title": "COO RIZZ Nap time Anytime Foam Orthopaedic Pillow Pack of 1 Solid High Density Foam Leg Wedge Cushion",
+   "brand": "COO RIZZ Nap time Anytime",
+   "price": null,
+   "rating": 4.5,
+   "ratings": 13,
+   "isFrido": false
   }
  ],
  "notes": []

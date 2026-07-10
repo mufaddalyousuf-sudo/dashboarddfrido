@@ -1,67 +1,78 @@
 {
  "category": "cushions-ultimate-pro-seating-combo",
  "marketplace": "amazon-in",
- "keyword": "Frido Ultimate Pro Seating Combo",
+ "keyword": "Seating Combo",
+ "brandKeyword": "Frido Ultimate Pro Seating Combo",
  "capturedAt": "2026-07-08",
- "method": "Live scrape amazon.in search page 1, query = exact SKU name (brand-qualified)",
+ "method": "Live scrape amazon.in search page 1, query = generic product keyword (brand + Frido product-line/marketing words stripped) — the competitive rank signal, not a brand-qualified existence check",
  "confidence": "High (live snapshot, single keyword)",
- "fridoOrganicRank": 1,
- "fridoSponsoredSlot": 1,
+ "fridoOrganicRank": 2,
+ "fridoSponsoredSlot": 2,
+ "fridoUrl": "https://www.amazon.in/dp/B0CJ8VYBQP",
  "organic": [
-  {
-   "asin": "B0CJ8VYBQP",
-   "badge": "Amazon's Choice",
-   "price": "2,559",
-   "rating": "4.0",
-   "reviews": "3,077",
-   "title": "Frido Ultimate Pro Seat Cushion & Posture Corrector Backrest Cushion Combo | Relieves Back | Coccyx Pain | Hi-Per Foam Tech for Orthopedic Support | for Long Si",
-   "rank": 1,
-   "isFridoBrand": true
-  },
-  {
-   "asin": "B0FDWZLHT1",
-   "badge": null,
-   "price": "3,599",
-   "rating": "4.2",
-   "reviews": "61",
-   "title": "Frido Cloud Backrest & Seat Cushion Combo | High-Density Memory Foam | Lumber, Tailbone & Thighs Support Pillow | Breathable & Machine-Washable Cover | for Offi",
-   "rank": 2
-  },
   {
    "asin": "B0G7Y5BL4C",
    "badge": null,
    "price": "1,549",
    "rating": "4.0",
-   "reviews": "74",
+   "reviews": "76",
    "title": "Lifelong Backrest & Seat Cushion Combo for Pain Relief | High-Density Orthopedic Memory Foam Support for Back, Coccyx & Sciatica | Improves Posture & Comfort Du",
+   "rank": 1
+  },
+  {
+   "asin": "B0CJ8VYBQP",
+   "badge": null,
+   "price": "2,999",
+   "rating": "4.0",
+   "reviews": "3,081",
+   "title": "Frido Ultimate Pro Seat Cushion & Posture Corrector Backrest Cushion Combo | Relieves Back | Coccyx Pain | Hi-Per Foam Tech for Orthopedic Support | for Long Si",
+   "rank": 2,
+   "isFridoBrand": true
+  },
+  {
+   "asin": "B0FKZJXLHQ",
+   "badge": null,
+   "price": "2,388",
+   "rating": "4.3",
+   "reviews": "185",
+   "title": "Grin Health SitPlus Ergonomic Seating Combo | Dense Orthopedic Coccyx Seat Cushion & Patented Lumbar Back Support for Office Chair, Car & Long Sitting | Relief ",
    "rank": 3
   },
   {
-   "asin": "B0DHP1VR75",
-   "badge": "Bestseller",
-   "price": "2,390",
-   "rating": "4.0",
-   "reviews": "7,672",
-   "title": "FOVERA Back Support for Chair & Coccyx Seat Cushion for Tailbone - Orthopedic Cool Gel Memory Foam Sitting Cushion Combo - Relieves Back, Sciatica & Hip Pain - ",
+   "asin": "B0FJ5VSL26",
+   "badge": null,
+   "price": "749",
+   "rating": "4.5",
+   "reviews": "11",
+   "title": "Lumbar Support Pillow for Office Chair & Car Seat – Memory Foam Back Support Cushion for Lower Back Pain Relief, Orthopedic Backrest for Posture Correction, Sci",
    "rank": 4
   },
   {
-   "asin": "B0GH7VTQ57",
+   "asin": "B09F86P42S",
    "badge": null,
-   "price": "1,899",
-   "rating": "4.3",
-   "reviews": "12",
-   "title": "CareFoam Ultimate Orthopedic Coccyx Seat Cushion for Tailbone Pain Relief | Premium Memory Foam Ergonomic Seat Cushion for Office Chair, Car Seat & Wheelchair |",
+   "price": "999",
+   "rating": "4.0",
+   "reviews": "11",
+   "title": "Tender Care Polyurethane Foam Coccyx, Sciatica, Lower Back Support and Pain Relief Seat Cushion with Lumbar Tailbone Support Combo Offer (CUSHION + BACK SUPPORT",
    "rank": 5
   },
   {
-   "asin": "B0F3ND9HS6",
-   "badge": null,
-   "price": "1,849",
-   "rating": "3.8",
-   "reviews": "8",
-   "title": "Ultimate Pro Seat Cushion & Posture Corrector Backrest Cushion Combo | Coccyx Pain, Relieves Back, Back Pain Relief & Posture Support | Helps in Tailbone Pain R",
+   "asin": "B0DXFQL46P",
+   "badge": "Bestseller",
+   "price": "3,299",
+   "rating": "4.1",
+   "reviews": "894",
+   "title": "Frido Ultimate Car Comfort Combo | Neck Rest, Backrest & Wedge Seat Cushion Combo of 3 | Ergonomic Neck, Back & Seating Support | Driving & Daily Commutes | Pos",
    "rank": 6
+  },
+  {
+   "asin": "B0CYT69LRN",
+   "badge": null,
+   "price": "2,388",
+   "rating": "4.0",
+   "reviews": "836",
+   "title": "FOVERA Back Support for Office Chair & Coccyx Seat Cushion for Tailbone - Orthopedic Memory Foam Sitting Cushion Combo - Relieves Back, Sciatica, Hip, Seat Bone",
+   "rank": 7
   },
   {
    "asin": "B07QHGJ72L",
@@ -70,126 +81,117 @@
    "rating": "3.9",
    "reviews": "190",
    "title": "Grin Health Coccyx Seat Cushion for Pressure Relief & Lumbar Support Combo – Ultimate Comfy Pro for Office Chair, Car Seat Cushions, Memory Foam Sitting Pillow ",
-   "rank": 7
-  },
-  {
-   "asin": "B0D49Q1NTY",
-   "badge": null,
-   "price": "1,707",
-   "rating": "3.9",
-   "reviews": "634",
-   "title": "kossto Ultimate Pro Seat Cushion & Backrest Cushion Combo, Relieves Back, Coccyx Pain, Memory Foam for Orthopedic Support, for Long Sitting Hours on Office/Home",
    "rank": 8
   },
   {
-   "asin": "B0DVPJ6HB2",
-   "badge": "Bestseller",
-   "price": "2,039",
-   "rating": "4.2",
-   "reviews": "3,012",
-   "title": "Frido Wedge Plus Cushion for Sleeping & Acid Reflux Relief | Memory Foam Pillow | High Resillience Foam | Orthopedic Wedge Cushion for Leg Elevator | Pregnancy ",
+   "asin": "B0FJ8G6VXM",
+   "badge": null,
+   "price": "2,399",
+   "rating": "4.1",
+   "reviews": "195",
+   "title": "Orista™ ComfortCloud Seat Cushion & Full Length Back Support Combo | High-Density Memory Foam, Ergonomic Tailbone & Thigh Support Pillow Relieves Back | Coccyx ",
    "rank": 9
   },
   {
-   "asin": "B0GVPTLVCP",
-   "badge": "Bestseller",
-   "price": "3,999",
-   "rating": "4.2",
-   "reviews": "11",
-   "title": "Frido Premium Car Comfort Bundle with Memory Foam Neck Rest, Lumbar Backrest and Wedge Seat Cushion Set of 3, Ergonomic Neck Back and Tailbone Support for Long ",
+   "asin": "B0GL8XCLX5",
+   "badge": null,
+   "price": "2,379",
+   "rating": "3.5",
+   "reviews": "96",
+   "title": "Amazon Brand - Solimo 5XL Premium Faux Leather Bean Bag with Footstool & Cushion Combo for Living Room | Bean Bag Filled with Beans | Capacity Upto 6'7\" Height ",
    "rank": 10
   }
  ],
  "sponsored": [
   {
+   "asin": "B0DJMCNW3X",
+   "badge": null,
+   "price": "6,587",
+   "rating": "3.7",
+   "reviews": "57",
+   "title": "IAFA FURNITURE® Imperium | Leatherette Ergonomic Boss Chair | Spacious Cushioned Seat | High Back Executive Chair | Fixed Padded Armrests | Heavy Duty Metal Bas",
+   "slot": 1
+  },
+  {
    "asin": "B0CJ8VYBQP",
-   "badge": "Amazon's Choice",
-   "price": "2,559",
+   "badge": null,
+   "price": "2,999",
    "rating": "4.0",
-   "reviews": "3,077",
+   "reviews": "3,081",
    "title": "Frido Ultimate Pro Seat Cushion & Posture Corrector Backrest Cushion Combo | Relieves Back | Coccyx Pain | Hi-Per Foam Tech for Orthopedic Support | for Long Si",
-   "slot": 1,
+   "slot": 2,
    "isFridoBrand": true
+  },
+  {
+   "asin": "B0G1NBWTY3",
+   "badge": null,
+   "price": "2,949",
+   "rating": "4.4",
+   "reviews": "52",
+   "title": "DIYA Seating Solutions 360° Revolving Adjustable Height Bar Stool Chair with Chrome Metal Base for Kitchen, Cafe | 1 Year Warranty | Leatherette Upholstery | Co",
+   "slot": 3
+  },
+  {
+   "asin": "B0H2MJNC4Q",
+   "badge": null,
+   "price": "2,299",
+   "rating": "3.8",
+   "reviews": "4,715",
+   "title": "Sattva Classic 4XL Bean Bag Chair with Beans Filled | Faux Leather Sofa Style Bin Bags Combo with Footstool & Cushion | Comfortable Seating for Adults & Teens, ",
+   "slot": 4
+  },
+  {
+   "asin": "B0DHRTHQ9T",
+   "badge": null,
+   "price": "1,898",
+   "rating": "3.9",
+   "reviews": "635",
+   "title": "kossto Ultimate Pro Seat Cushion & Backrest Cushion Combo, Relieves Back, Coccyx Pain, Memory Foam for Orthopedic Support, for Long Sitting Hours on Office/Home",
+   "slot": 5
+  },
+  {
+   "asin": "B0CZ9NPSWM",
+   "badge": null,
+   "price": "1,099",
+   "rating": "4.0",
+   "reviews": "1,354",
+   "title": "Sleepsia Back Support for Office Chair, 1 Year Warranty, Lumbar Support for Office Chair Cushion with Contoured Memory Foam, Adjustable Strap Design, Car Back S",
+   "slot": 6
+  },
+  {
+   "asin": "B09Y281GGW",
+   "badge": null,
+   "price": "10,999",
+   "rating": "4.1",
+   "reviews": "3,009",
+   "title": "The Sleep Company Onyx Orthopedic Office Chair | Patented SmartGRID seat | Adjustable Lumbar Support | Ergonomic Sitting Posture | High Back Chair | Work, Home,",
+   "slot": 7
+  },
+  {
+   "asin": "B0GP74772B",
+   "badge": null,
+   "price": "9,999",
+   "rating": "4.0",
+   "reviews": "9",
+   "title": "Varaha Beast BIS Certified Ergonomic Office High Back Chair | 5 Year Warranty | Adjustable 2D Headrest, 3D PU Armrest, Seat Sliding Mechanism with 3 Multilock R",
+   "slot": 8
+  },
+  {
+   "asin": "B0CKP5VGKN",
+   "badge": null,
+   "price": "3,905",
+   "rating": "4.2",
+   "reviews": "51",
+   "title": "Solid Wood Seating Bench for Indoor and Outdoor Uses l Bench for Daining Room, Balcouny, Office, Gym, Garden l Easy DIY l Teak Finish l 44x14.5x17.5 Inch",
+   "slot": 9
   },
   {
    "asin": "B0DSSWT8M2",
    "badge": null,
-   "price": "2,689",
+   "price": "2,635",
    "rating": "4.2",
    "reviews": "103",
    "title": "betterhood PosturePro Seat Cushion & Back Support for Office Chair Combo, Ergonomic Memory Foam Sitting Pillow, Lumbar Support Seat Cushion for Chair, Coccyx Cu",
-   "slot": 2
-  },
-  {
-   "asin": "B0F3ND9HS6",
-   "badge": null,
-   "price": "1,849",
-   "rating": "3.8",
-   "reviews": "8",
-   "title": "Ultimate Pro Seat Cushion & Posture Corrector Backrest Cushion Combo | Coccyx Pain, Relieves Back, Back Pain Relief & Posture Support | Helps in Tailbone Pain R",
-   "slot": 3
-  },
-  {
-   "asin": "B0H5Q5GG89",
-   "badge": null,
-   "price": "2,989",
-   "rating": "4.8",
-   "reviews": "8",
-   "title": "betterhood PosturePro Plus Premium Seat Cushion & Back Support for Office Chair Combo, Ortho Memory Foam Sitting Pillow, Lumbar Support Seat Cushion, Coccyx Cus",
-   "slot": 4
-  },
-  {
-   "asin": "B0DXFR5H8N",
-   "badge": "Bestseller",
-   "price": "3,200",
-   "rating": "4.1",
-   "reviews": "889",
-   "title": "Frido Ultimate Car Comfort Combo | Neck Rest, Backrest & Wedge Seat Cushion Combo of 3 | Ergonomic Neck, Back & Seating Support | Driving & Daily Commutes | Pos",
-   "slot": 5
-  },
-  {
-   "asin": "B0FXXLNM3H",
-   "badge": null,
-   "price": "2,499",
-   "rating": "4.8",
-   "reviews": "8",
-   "title": "WELLGIVER Ultimate Pro Seat Cushion & Posture Corrector Backrest Cushion Combo Memory Foam for Hip, Back & Coccyx Pain Relief | Ergonomic Orthopedic Design | Lo",
-   "slot": 6
-  },
-  {
-   "asin": "B0DK3B5TY4",
-   "badge": null,
-   "price": "2,699",
-   "rating": "4.0",
-   "reviews": "24",
-   "title": "Dr.Ortho Coccyx Tailbone Seat Cushion & Backrest Memory Foam Cushion Combo, Coccyx Pain, Relieves Back, Orthopedic Support For Long Sitting Hours On Office Or H",
-   "slot": 7
-  },
-  {
-   "asin": "B0DQTP15TX",
-   "badge": null,
-   "price": "1,639",
-   "rating": "3.5",
-   "reviews": "23",
-   "title": "Chair Cushion Pad & Backrest Combo - Comfortable Seat Padded with Coccyx Pillow & Lumbar Cushion, Ergonomic Office Chair Support with Daily Comfort for Home & O",
-   "slot": 8
-  },
-  {
-   "asin": "B0GSWNJ1M4",
-   "badge": null,
-   "price": "2,999",
-   "rating": null,
-   "reviews": null,
-   "title": "WELLGIVER 3-in-1 Memory Foam Car Comfort Combo – Neck Pillow, Lumbar Back Support & Seat Cushion | Ergonomic Car Seat Cushion Set for Neck, Back & Tailbone Supp",
-   "slot": 9
-  },
-  {
-   "asin": "B0F19F61W1",
-   "badge": null,
-   "price": "1,389",
-   "rating": "4.0",
-   "reviews": "102",
-   "title": "betterhood PosturePro Coccyx Seat Cushion for Tailbone Pain Relief, Anti Slip Orthopedic Ergonomic Office Chair Memory Foam Sitting Pillow for Sciatica Pain Rel",
    "slot": 10
   }
  ],

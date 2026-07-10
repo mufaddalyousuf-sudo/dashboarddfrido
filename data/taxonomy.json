@@ -20,107 +20,107 @@
    "datasets": [
     {
      "id": "cushions-adjustable-wedge-max-cushion",
-     "keyword": "Frido Adjustable Wedge Max Cushion",
+     "keyword": "Adjustable Wedge Max Cushion",
      "primary": true
     },
     {
      "id": "cushions-ultimate-car-neck-rest-pillow",
-     "keyword": "Frido Ultimate Car Neck Rest Pillow"
+     "keyword": "Car Neck Rest Pillow"
     },
     {
      "id": "cushions-ultimate-wedge-plus-cushion",
-     "keyword": "Frido Ultimate Wedge Plus Cushion"
+     "keyword": "Wedge Plus Cushion"
     },
     {
      "id": "cushions-ultimate-car-comfort-bundle",
-     "keyword": "Frido Ultimate Car Comfort Bundle"
+     "keyword": "Car Comfort Bundle"
     },
     {
      "id": "cushions-travel-neck-pillow",
-     "keyword": "Frido Travel Neck Pillow"
+     "keyword": "Travel Neck Pillow"
     },
     {
      "id": "cushions-ultimate-car-backrest-cushion",
-     "keyword": "Frido Ultimate Car Backrest Cushion"
+     "keyword": "Car Backrest Cushion"
     },
     {
      "id": "cushions-ultimate-car-wedge-seat-cushion",
-     "keyword": "Frido Ultimate Car Wedge Seat Cushion"
+     "keyword": "Car Wedge Seat Cushion"
     },
     {
      "id": "cushions-maternity-pillow",
-     "keyword": "Frido Maternity Pillow"
+     "keyword": "Maternity Pillow"
     },
     {
      "id": "cushions-ultimate-pro-seat-cushion",
-     "keyword": "Frido Ultimate Pro Seat Cushion"
+     "keyword": "Seat Cushion"
     },
     {
      "id": "cushions-ultimate-pro-posture-corrector",
-     "keyword": "Frido Ultimate Pro Posture Corrector"
+     "keyword": "Posture Corrector"
     },
     {
      "id": "cushions-premium-car-comfort-bundle",
-     "keyword": "Frido Premium Car Comfort Bundle"
+     "keyword": "Car Comfort Bundle"
     },
     {
      "id": "cushions-cloud-backrest-cushion",
-     "keyword": "Frido Cloud Backrest Cushion"
+     "keyword": "Backrest Cushion"
     },
     {
      "id": "cushions-maternity-pillow-bundle-plus",
-     "keyword": "Frido Maternity Pillow Bundle Plus"
+     "keyword": "Maternity Pillow Bundle Plus"
     },
     {
      "id": "cushions-ultimate-wedge-plus-max-cushion",
-     "keyword": "Frido Ultimate Wedge Plus Max Cushion"
+     "keyword": "Wedge Plus Max Cushion"
     },
     {
      "id": "cushions-cloud-seat-cushion",
-     "keyword": "Frido Cloud Seat Cushion"
+     "keyword": "Seat Cushion"
     },
     {
      "id": "cushions-ultimate-tailbone-pain-relief-seat-cushion",
-     "keyword": "Frido Ultimate Tailbone Pain Relief Seat Cushion"
+     "keyword": "Tailbone Pain Relief Seat Cushion"
     },
     {
      "id": "cushions-leg-elevation-pillow",
-     "keyword": "Frido Leg Elevation Pillow"
+     "keyword": "Leg Elevation Pillow"
     },
     {
      "id": "cushions-ultimate-lap-desk-pillow",
-     "keyword": "Frido Ultimate Lap Desk Pillow"
+     "keyword": "Lap Desk Pillow"
     },
     {
      "id": "cushions-premium-car-neck-rest-cushion",
-     "keyword": "Frido Premium Car Neck Rest Cushion"
+     "keyword": "Car Neck Rest Cushion"
     },
     {
      "id": "cushions-slim-seat-cushion",
-     "keyword": "Frido Slim Seat Cushion"
+     "keyword": "Slim Seat Cushion"
     },
     {
      "id": "cushions-wedge-plus-cushion-cover",
-     "keyword": "Frido Wedge Plus Cushion Cover"
+     "keyword": "Wedge Plus Cushion Cover"
     },
     {
      "id": "cushions-knee-pillow",
-     "keyword": "Frido Knee Pillow"
+     "keyword": "Knee Pillow"
     },
     {
      "id": "cushions-dual-car-comfort-combo",
-     "keyword": "Frido Dual Car Comfort Combo"
+     "keyword": "Dual Car Comfort Combo"
     },
     {
      "id": "cushions-ultimate-wedge-cushion",
-     "keyword": "Frido Ultimate Wedge Cushion"
+     "keyword": "Wedge Cushion"
     },
     {
      "id": "cushions-ultimate-pro-seating-combo",
-     "keyword": "Frido Ultimate Pro Seating Combo"
+     "keyword": "Seating Combo"
     }
    ],
-   "skuSource": "frido-product-catalog.json (full base-SKU research, 2026-07-08)"
+   "skuSource": "frido-product-catalog.json searchKeyword (generic, brand-stripped), 2026-07-08"
   },
   {
    "id": "insoles",

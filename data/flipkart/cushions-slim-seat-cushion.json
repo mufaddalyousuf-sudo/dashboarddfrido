@@ -1,100 +1,131 @@
 {
  "category": "cushions-slim-seat-cushion",
  "marketplace": "flipkart",
- "keyword": "Frido Slim Seat Cushion",
+ "keyword": "Slim Seat Cushion",
+ "brandKeyword": "Frido Slim Seat Cushion",
  "capturedAt": "2026-07-08",
- "method": "Live scrape flipkart.com mobile search page 1 (__INITIAL_STATE__), query = exact SKU name",
+ "method": "Live scrape flipkart.com mobile search page 1 (__INITIAL_STATE__), query = generic product keyword",
  "confidence": "Medium-High (live; sponsored flags not exposed on mobile)",
  "fridoRank": 6,
  "fridoPresent": true,
+ "fridoUrl": "https://www.flipkart.com/search?q=Slim%20Seat%20Cushion",
  "results": [
   {
    "pos": 1,
-   "title": "Baben Free Size Posture Corrector For Men And Women Back / Lumbar Support",
+   "title": "TENACT Posture Corrector Belt Pro Fix for Men & Women Straight Back pain Relief Posture Corrector",
+   "brand": "TENACT",
    "price": null,
-   "rating": 4.1,
-   "ratings": 377,
+   "rating": 3.8,
+   "ratings": 8188,
    "isFrido": false
   },
   {
    "pos": 2,
-   "title": "Baben Posture corrector belt for men and women for back pain Posture Corrector Posture Corrector",
+   "title": "TENACT Posture Corrector Belt for men & women Back Support & Posture Corrector",
+   "brand": "TENACT",
    "price": null,
-   "rating": 4.2,
-   "ratings": 74,
+   "rating": 3.8,
+   "ratings": 3655,
    "isFrido": false
   },
   {
    "pos": 3,
-   "title": "Baben Free Size Sciatica Pain Relief Belt – Adjustable Lower Back & Hip Support Abdominal Belt",
+   "title": "TENACT Premium Belt for Men & Women Pain Relief Posture Corrector",
+   "brand": "TENACT",
    "price": null,
-   "rating": 5,
-   "ratings": 21,
+   "rating": 3.6,
+   "ratings": 1776,
    "isFrido": false
   },
   {
    "pos": 4,
-   "title": "Baben 3 in 1 Postpartum Support - Recovery Belly Belt Free Size Abdominal Support Abdominal Belt",
+   "title": "TENACT Posture Corrector Belt Pro for Men & Women Straight Back Support Posture Corrector",
+   "brand": "TENACT",
    "price": null,
-   "rating": 0,
-   "ratings": null,
+   "rating": 3.8,
+   "ratings": 8188,
    "isFrido": false
   },
   {
    "pos": 5,
-   "title": "Baben Posture Corrector Belt for Men & Women Back Support Brace Shoulder Pain Relief Posture Corrector",
+   "title": "TENACT Posture Corrector Belt Pro for Men & Women Back Support Belt for Straight Back Back / Lumbar Support",
+   "brand": "TENACT",
    "price": null,
-   "rating": 3.5,
-   "ratings": 4,
+   "rating": 3.9,
+   "ratings": 112,
    "isFrido": false
   },
   {
    "pos": 6,
-   "title": "Frido Ultimate Pro Seat Cushion for Hip & Tailbone Pain Relief- Light Grey Back / Lumbar Support",
+   "title": "Frido Slim Ortho Coccyx Seat Cushion |Tailbone & Sciatica Relief | Anti Slip Support Back / Lumbar Support",
+   "brand": "Frido",
    "price": null,
-   "rating": 4.1,
-   "ratings": 297,
+   "rating": 0,
+   "ratings": 0,
    "isFrido": true
   },
   {
    "pos": 7,
-   "title": "FOVERA Donut Pillow Orthopedic Memory Foam Piles Cushion for Hemorrhoids Back / Lumbar Support",
-   "price": null,
-   "rating": 4.1,
-   "ratings": 816,
-   "isFrido": false
-  },
-  {
-   "pos": 8,
-   "title": "Frido Ultimate Pro Seat Cushion & Posture Corrector Backrest Combo Back / Lumbar Support",
-   "price": null,
-   "rating": 4,
-   "ratings": 385,
-   "isFrido": true
-  },
-  {
-   "pos": 9,
    "title": "Frido Slim Seat Cushion for Car & Wheelchair Breathable Non-Slip Pad For Long Sitting Supporter",
+   "brand": "Frido",
    "price": null,
    "rating": 4.2,
    "ratings": 49,
    "isFrido": true
   },
   {
-   "pos": 10,
-   "title": "Wonder Care Orthopedic Coccyx Seat Cushion for Tailbone, Sciatica & Back Pain Relief Back / Lumbar Support",
+   "pos": 8,
+   "title": "DEBIK Coccyx, Tailbone, Sciatica, Lower Back Support Seat Cushion ( NAVY ) Back / Lumbar Support",
+   "brand": "DEBIK",
    "price": null,
-   "rating": 3.4,
-   "ratings": 22,
+   "rating": 3.9,
+   "ratings": 728,
+   "isFrido": false
+  },
+  {
+   "pos": 9,
+   "title": "SleepyCat Slim Seat Cushion | Wide Ergonomic Car Cushion | Perforated Memory Foam Pillow- Supporter",
+   "brand": "SleepyCat",
+   "price": null,
+   "rating": 0,
+   "ratings": 0,
+   "isFrido": false
+  },
+  {
+   "pos": 10,
+   "title": "AFCYCARE Coccyx Cushion Tailbone Lower Back Support and Pain Relief for Office, Car Seats Supporter",
+   "brand": "AFCYCARE",
+   "price": null,
+   "rating": 3.7,
+   "ratings": 26,
    "isFrido": false
   },
   {
    "pos": 11,
-   "title": "Frido Black Memory Foam Car Pillow Cushion for Universal For Car",
+   "title": "Frido Ultimate Pro Seat Cushion for Hip & Tailbone Pain Relief- Light Grey Back / Lumbar Support",
+   "brand": "Frido",
    "price": null,
    "rating": 4.1,
-   "ratings": 523,
+   "ratings": 298,
    "isFrido": true
+  },
+  {
+   "pos": 12,
+   "title": "starprim Cushion Seat Pillow, Gel Seat Cushion Pad for Car, Office Chair, Wheelchair Back / Lumbar Support",
+   "brand": "starprim",
+   "price": null,
+   "rating": 3.7,
+   "ratings": 16,
+   "isFrido": false
+  },
+  {
+   "pos": 13,
+   "title": "AFCYCARE Car Seat Cushions for ChairCoccyx Cushion for Tailbone PainSeat Cushion forChair Back / Lumbar Support",
+   "brand": "AFCYCARE",
+   "price": null,
+   "rating": 3.6,
+   "ratings": 12,
+   "isFrido": false
   }
  ],
  "notes": []

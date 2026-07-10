@@ -1,195 +1,195 @@
 {
  "category": "cushions-travel-neck-pillow",
  "marketplace": "amazon-in",
- "keyword": "Frido Travel Neck Pillow",
+ "keyword": "Travel Neck Pillow",
+ "brandKeyword": "Frido Travel Neck Pillow",
  "capturedAt": "2026-07-08",
- "method": "Live scrape amazon.in search page 1, query = exact SKU name (brand-qualified)",
+ "method": "Live scrape amazon.in search page 1, query = generic product keyword (brand + Frido product-line/marketing words stripped) — the competitive rank signal, not a brand-qualified existence check",
  "confidence": "High (live snapshot, single keyword)",
- "fridoOrganicRank": 1,
- "fridoSponsoredSlot": 1,
+ "fridoOrganicRank": null,
+ "fridoSponsoredSlot": null,
+ "fridoUrl": null,
  "organic": [
   {
-   "asin": "B0DMKCT2C5",
+   "asin": "B082F88NKP",
    "badge": "Amazon's Choice",
-   "price": "1,694",
-   "rating": "4.1",
-   "reviews": "1,120",
-   "title": "Frido Travel Neck Pillow, 100% Hi-Per Foam, Lightweight Neck Support Pillow, Neck Pillow for Flight Travel, Memory Foam, Adjustable Velcro Straps, Free Travel P",
-   "rank": 1,
-   "isFridoBrand": true
+   "price": "249",
+   "rating": "4.0",
+   "reviews": "15,624",
+   "title": "Billebon Premium Neck Pillow for Travelling Airplane Travel Pillow Comfortable Head Rest Neck Holder Pillow (Grey)",
+   "rank": 1
   },
   {
-   "asin": "B0DMKDY515",
+   "asin": "B0BVZPR2KW",
    "badge": null,
-   "price": "1,619",
-   "rating": "4.1",
-   "reviews": "1,120",
-   "title": "Frido Travel Neck Pillow, 100% Hi-Per Foam, Lightweight Neck Support Pillow, Neck Pillow for Flight Travel, Memory Foam Car Neck Pillow, Adjustable Velcro Strap",
+   "price": "1,699",
+   "rating": "4.2",
+   "reviews": "1,323",
+   "title": "MOKOBARA The Travel Pillow | Memory Foam Neck Support Cushion | Ergonomic Cervical Pain Relief | Adjustable Headrest for Airplane Car & Train |Washable Cover | ",
    "rank": 2
-  },
-  {
-   "asin": "B0DMKDVGB5",
-   "badge": null,
-   "price": "1,619",
-   "rating": "4.1",
-   "reviews": "1,120",
-   "title": "Frido Travel Neck Pillow, 100% Hi-Per Foam, Lightweight Neck Support Pillow, Neck Pillow for Flight Travel, Memory Foam Car Neck Pillow, Adjustable Velcro Strap",
-   "rank": 3
-  },
-  {
-   "asin": "B0DMKG9SMZ",
-   "badge": null,
-   "price": "1,619",
-   "rating": "4.1",
-   "reviews": "1,120",
-   "title": "Frido Travel Neck Pillow, 100% Hi-Per Foam, Lightweight Neck Support Pillow, Neck Pillow for Flight Travel, Memory Foam Car Neck Pillow, Adjustable Velcro Strap",
-   "rank": 4
   },
   {
    "asin": "B0BVZPP5NG",
    "badge": null,
-   "price": "1,299",
+   "price": "1,699",
    "rating": "4.2",
    "reviews": "1,323",
    "title": "MOKOBARA The Travel Pillow | Memory Foam Neck Support Cushion | Ergonomic Cervical Pain Relief | Adjustable Headrest for Airplane Car & Train |Washable Cover | ",
-   "rank": 5
+   "rank": 3
   },
   {
-   "asin": "B082F88NKP",
-   "badge": "Bestseller",
-   "price": "249",
-   "rating": "4.0",
-   "reviews": "15,613",
-   "title": "Billebon Premium Neck Pillow for Travelling Airplane Travel Pillow Comfortable Head Rest Neck Holder Pillow (Grey)",
-   "rank": 6
-  },
-  {
-   "asin": "B0BVZPR2KW",
+   "asin": "B0DRYFW363",
    "badge": null,
-   "price": "1,299",
-   "rating": "4.2",
-   "reviews": "1,323",
-   "title": "MOKOBARA The Travel Pillow | Memory Foam Neck Support Cushion | Ergonomic Cervical Pain Relief | Adjustable Headrest for Airplane Car & Train |Washable Cover | ",
-   "rank": 7
-  },
-  {
-   "asin": "B0GT91RBKK",
-   "badge": null,
-   "price": "2,560",
-   "rating": null,
-   "reviews": null,
-   "title": "Frido Travel Comfort Combo | 3D Blackout Eye Mask & Memory Foam Travel Neck Pillow with Free Pouch for Men & Women | Perfect for Flights, Car, Train Travel | Li",
-   "rank": 8
-  },
-  {
-   "asin": "B0F3HV8PGB",
-   "badge": null,
-   "price": "989",
-   "rating": "4.1",
-   "reviews": "78",
-   "title": "Lifelong Travel Neck Pillow | Premium Memory Foam Neck Support | Adjustable Headrest for Sleeping, Airplane Use | Portable Cushion with Case | Blue",
-   "rank": 9
-  },
-  {
-   "asin": "B0H33VBWX8",
-   "badge": null,
-   "price": "575",
-   "rating": "4.7",
-   "reviews": "18",
-   "title": "FLYNGO Memory Foam Neck Pillow for Travelling, Car, & Flight Head Rest Travel Neck Support Pillow with Adjustable Velcro Strap, Eye Mask (Ice Blue)",
-   "rank": 10
-  }
- ],
- "sponsored": [
-  {
-   "asin": "B0DMKCT2C5",
-   "badge": "Amazon's Choice",
-   "price": "1,694",
-   "rating": "4.1",
-   "reviews": "1,120",
-   "title": "Frido Travel Neck Pillow, 100% Hi-Per Foam, Lightweight Neck Support Pillow, Neck Pillow for Flight Travel, Memory Foam, Adjustable Velcro Straps, Free Travel P",
-   "slot": 1,
-   "isFridoBrand": true
-  },
-  {
-   "asin": "B0BVZPR2KW",
-   "badge": null,
-   "price": "1,299",
-   "rating": "4.2",
-   "reviews": "1,323",
-   "title": "MOKOBARA The Travel Pillow | Memory Foam Neck Support Cushion | Ergonomic Cervical Pain Relief | Adjustable Headrest for Airplane Car & Train |Washable Cover | ",
-   "slot": 2
-  },
-  {
-   "asin": "B0GY4PRT9H",
-   "badge": null,
-   "price": "549",
-   "rating": null,
-   "reviews": null,
-   "title": "DOLTAS Memory Foam Travel Pillow for Neck Pain Relief, Includes Eye Mask & Noise Isolating Ear Plugs, Portable Combo for Men & Women, Ideal for Long Flights & R",
-   "slot": 3
-  },
-  {
-   "asin": "B0G2JB8CG5",
-   "badge": null,
-   "price": "1,199",
-   "rating": "4.1",
-   "reviews": "6",
-   "title": "Eiderwell Travel Neck Pillow 100% Memory Foam, Adjustable Headrest Head & Neck Support for Flights & Car Rides, Adjustable Velcro Straps| 2-Year Warranty | Wine",
-   "slot": 4
-  },
-  {
-   "asin": "B0DMKGR2P6",
-   "badge": null,
-   "price": "1,619",
-   "rating": "4.1",
-   "reviews": "1,120",
-   "title": "Frido Travel Neck Pillow, 100% Hi-Per Foam, Lightweight Neck Support Pillow, Neck Pillow for Flight Travel, Memory Foam Car Neck Pillow, Adjustable Velcro Strap",
-   "slot": 5
-  },
-  {
-   "asin": "B0FWKTKV2D",
-   "badge": null,
-   "price": "599",
-   "rating": "4.0",
-   "reviews": "504",
-   "title": "Trajectory Travel Neck Pillow Memory Foam with Eye Mask and Carry Bag 3in1 Combo for Sleeping in Airplane Flight, Cab, Car, Train, Bus for Men and Women Grey(As",
-   "slot": 6
-  },
-  {
-   "asin": "B0GSBJG8C1",
-   "badge": null,
-   "price": "1,379",
-   "rating": "4.6",
-   "reviews": "3",
-   "title": "Urban Jungle Neck Pillow Pure Memory Foam Neck Pillow, Machine Washable, Comfortable & Breathable Cover, Airplane Travel Kit for Travelling",
-   "slot": 7
-  },
-  {
-   "asin": "B07WCZM3LN",
-   "badge": null,
-   "price": "640",
-   "rating": "4.1",
-   "reviews": "3,435",
-   "title": "Adofys Travel Pillow Premium Memory Foam, Comfortable & Supportive Neck Pillow, Pain Relief Sleeping Neck Pillows for Travel, Airplane Pillow for Sleeping Airpl",
-   "slot": 8
-  },
-  {
-   "asin": "B0FW5FB1T8",
-   "badge": null,
-   "price": "472",
-   "rating": "3.6",
-   "reviews": "80",
-   "title": "kossto Travel Neck Pillow - 100% Memory Foam Neck Support Pillow for Flight Travel, Adjustable Velcro Straps, Includes Eye Mask & Noise Isolating Ear Plugs with",
-   "slot": 9
+   "price": "1,141",
+   "rating": "4.4",
+   "reviews": "23",
+   "title": "American Tourister Memory Foam | Travel Pillow | Neck & Lumbar Support for Men and Women | Memory Foam Comfort | After Dark Grey",
+   "rank": 4
   },
   {
    "asin": "B0CF1PXZK5",
    "badge": null,
    "price": "255",
    "rating": "3.8",
-   "reviews": "855",
+   "reviews": "857",
    "title": "Premium Fiber Filled Neck Pillow, Aeroplane Travel Pillow Neck Adjustable 360 Degree Support Headrest Neck Support Comfortable Pillow with Eye Mask",
+   "rank": 5
+  },
+  {
+   "asin": "B0FPDLDY86",
+   "badge": null,
+   "price": "299",
+   "rating": "3.7",
+   "reviews": "3,294",
+   "title": "Trajectory Travel Neck Pillow for Travelling and Sleeping in Airplane Flight, Cab, Car, Train, Bus for Men and Women Blue (As seen on Shark Tank)",
+   "rank": 6
+  },
+  {
+   "asin": "B0GT99RHSG",
+   "badge": null,
+   "price": "199",
+   "rating": "3.6",
+   "reviews": "5",
+   "title": "Dark Blue Travel Neck Pillow with Button Closure & Eye Mask | Soft Fiber Filled U-Shape Head & Neck Support Cushion for Airplane, Car & Office Use | Button Clos",
+   "rank": 7
+  },
+  {
+   "asin": "B0FPDLT1CC",
+   "badge": null,
+   "price": "249",
+   "rating": "3.9",
+   "reviews": "19,405",
+   "title": "Trajectory Travel Neck Pillow for Travelling and Sleeping in Airplane Flight, Cab, Car, Train, Bus for Men and Women Grey (As seen on Shark Tank)",
+   "rank": 8
+  },
+  {
+   "asin": "B0FWKSY7MS",
+   "badge": null,
+   "price": "249",
+   "rating": "3.9",
+   "reviews": "19,405",
+   "title": "Trajectory Travel Neck Pillow with Sleeping Eye Mask Combo for Travelling and Sleeping in Airplane Flight, Cab, Car, Train, Bus for Men and Women Black(As seen ",
+   "rank": 9
+  },
+  {
+   "asin": "B0C7BM18PB",
+   "badge": null,
+   "price": "389",
+   "rating": "4.2",
+   "reviews": "10,790",
+   "title": "Amazon Basics Memory Foam Travel Neck Pillow with Eye Mask & Ear Plugs Combo|Ultra Soft Velvet Fabric|Ergonomically Designed for Ultimate Comfort for Air, Car, ",
+   "rank": 10
+  }
+ ],
+ "sponsored": [
+  {
+   "asin": "B0GVKDYWY6",
+   "badge": null,
+   "price": "599",
+   "rating": "5.0",
+   "reviews": "10",
+   "title": "LUXSIRA Travel Neck Pillow for Travelling | Premium Memory Foam Neck Pillow | Ergonomic Travel Pillow for Flight and Car | Lightweight Neck Support | Adjustable",
+   "slot": 1
+  },
+  {
+   "asin": "B0GGR3BYGH",
+   "badge": null,
+   "price": "799",
+   "rating": "4.0",
+   "reviews": "231",
+   "title": "CareFoam Virgin Memory Foam Travel Neck Pillow for Airplane, Car & Train – Dual Height (5\" & 4\") 360° Neck Support with Adjustable Velcro Fastening & Ultra-Soft",
+   "slot": 2
+  },
+  {
+   "asin": "B0GWTXYV88",
+   "badge": null,
+   "price": "999",
+   "rating": "4.5",
+   "reviews": "2",
+   "title": "VALORXUSA Travel Neck Support Pillow for Airplane, Car, Office & Long Trips, Memory Foam Neck Cushion with Ergonomic 360° Support, Soft Velvet Fabric, Lightweig",
+   "slot": 3
+  },
+  {
+   "asin": "B0BVZPR2KW",
+   "badge": null,
+   "price": "1,699",
+   "rating": "4.2",
+   "reviews": "1,323",
+   "title": "MOKOBARA The Travel Pillow | Memory Foam Neck Support Cushion | Ergonomic Cervical Pain Relief | Adjustable Headrest for Airplane Car & Train |Washable Cover | ",
+   "slot": 4
+  },
+  {
+   "asin": "B083YXBDZ3",
+   "badge": "Bestseller",
+   "price": "299",
+   "rating": "4.0",
+   "reviews": "15,624",
+   "title": "Billebon Premium Neck Pillow for Travelling Airplane Travel Pillow Comfortable Head Rest Neck Holder Pillow (Grey Neck Pillow with Eye Mask)",
+   "slot": 5
+  },
+  {
+   "asin": "B0BS3Y71L9",
+   "badge": "Bestseller",
+   "price": "249",
+   "rating": "4.0",
+   "reviews": "15,624",
+   "title": "Billebon Premium Neck Pillow for Travelling Airplane Travel Pillow Comfortable Head Rest Neck Holder Pillow (Navy Blue)",
+   "slot": 6
+  },
+  {
+   "asin": "B0CZ6VGB7H",
+   "badge": "Bestseller",
+   "price": "599",
+   "rating": "4.0",
+   "reviews": "15,624",
+   "title": "Billebon Premium Neck Pillow for Travelling Airplane Travel Pillow Comfortable Head Rest Neck Holder Pillow (Grey Raised Combo)",
+   "slot": 7
+  },
+  {
+   "asin": "B0CF1PXZK5",
+   "badge": null,
+   "price": "255",
+   "rating": "3.8",
+   "reviews": "857",
+   "title": "Premium Fiber Filled Neck Pillow, Aeroplane Travel Pillow Neck Adjustable 360 Degree Support Headrest Neck Support Comfortable Pillow with Eye Mask",
+   "slot": 8
+  },
+  {
+   "asin": "B0DYXWS7ZN",
+   "badge": null,
+   "price": "499",
+   "rating": "4.0",
+   "reviews": "227",
+   "title": "Billebon Memory Foam Neck Pillow with Cooling Gel, Snake Shape Travel Pillow with Snap Button, Neck Rest for Travelling & Flight Travel, Ergonomic Support for C",
+   "slot": 9
+  },
+  {
+   "asin": "B0CD7ZYPD4",
+   "badge": null,
+   "price": "599",
+   "rating": "3.9",
+   "reviews": "233",
+   "title": "Ultrasoft Memory Foam Neck Pillow for Travel, Lightweight Comfortable & Breathable Cover, Airplane Travel Pillow Combo with Premium Eye Mask and Carry Bag. (Gre",
    "slot": 10
   }
  ],

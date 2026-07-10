@@ -1,109 +1,16 @@
 {
  "category": "cushions-ultimate-car-neck-rest-pillow",
  "marketplace": "flipkart",
- "keyword": "Frido Ultimate Car Neck Rest Pillow",
+ "keyword": "Car Neck Rest Pillow",
+ "brandKeyword": "Frido Ultimate Car Neck Rest Pillow",
  "capturedAt": "2026-07-08",
- "method": "Live scrape flipkart.com mobile search page 1 (__INITIAL_STATE__), query = exact SKU name",
- "confidence": "Medium-High (live; sponsored flags not exposed on mobile)",
- "fridoRank": 3,
- "fridoPresent": true,
- "results": [
-  {
-   "pos": 1,
-   "title": "betterhood Grey Memory Foam",
-   "price": null,
-   "rating": 4.2,
-   "ratings": 66,
-   "isFrido": false
-  },
-  {
-   "pos": 2,
-   "title": "betterhood Black Memory Foam",
-   "price": null,
-   "rating": 4.3,
-   "ratings": 16,
-   "isFrido": false
-  },
-  {
-   "pos": 3,
-   "title": "Frido Black Memory Foam Car Pillow Cushion for Universal For Car",
-   "price": null,
-   "rating": 4.1,
-   "ratings": 879,
-   "isFrido": true
-  },
-  {
-   "pos": 4,
-   "title": "Frido Beige Memory Foam Car Pillow Cushion for Universal For Car",
-   "price": null,
-   "rating": 4.1,
-   "ratings": 879,
-   "isFrido": true
-  },
-  {
-   "pos": 5,
-   "title": "Frido Black Leatherite Car Pillow Cushion for Universal For Car",
-   "price": null,
-   "rating": 0,
-   "ratings": 0,
-   "isFrido": true
-  },
-  {
-   "pos": 6,
-   "title": "Frido Maroon Leatherite Car Pillow Cushion for Universal For Car",
-   "price": null,
-   "rating": 4.3,
-   "ratings": 7,
-   "isFrido": true
-  },
-  {
-   "pos": 7,
-   "title": "Frido Brown Memory Foam Car Pillow Cushion for Universal For Car",
-   "price": null,
-   "rating": 4.1,
-   "ratings": 879,
-   "isFrido": true
-  },
-  {
-   "pos": 8,
-   "title": "Frido Grey Memory Foam Car Pillow Cushion for Universal For Car",
-   "price": null,
-   "rating": 4.1,
-   "ratings": 523,
-   "isFrido": true
-  },
-  {
-   "pos": 9,
-   "title": "AUTOFIT Black, Silver Leather Car Pillow Cushion for Universal For Car",
-   "price": null,
-   "rating": 4.4,
-   "ratings": 116,
-   "isFrido": false
-  },
-  {
-   "pos": 10,
-   "title": "AUTOFIT Beige, Black Leather Car Pillow Cushion for Universal For Car",
-   "price": null,
-   "rating": 4.1,
-   "ratings": 78,
-   "isFrido": false
-  },
-  {
-   "pos": 11,
-   "title": "AUTOFIT Black, Red Leather Car Pillow Cushion for Universal For Car",
-   "price": null,
-   "rating": 4.3,
-   "ratings": 129,
-   "isFrido": false
-  },
-  {
-   "pos": 12,
-   "title": "AUTOFIT Beige Leather Car Pillow Cushion for Universal For Car",
-   "price": null,
-   "rating": 4.3,
-   "ratings": 65,
-   "isFrido": false
-  }
- ],
- "notes": []
+ "method": "Live scrape flipkart.com mobile search page 1 (__INITIAL_STATE__), query = generic product keyword",
+ "confidence": "Low (fetch blocked)",
+ "fridoRank": null,
+ "fridoPresent": false,
+ "fridoUrl": null,
+ "results": [],
+ "notes": [
+  "Live fetch failed after retries — needs re-verification."
+ ]
 }

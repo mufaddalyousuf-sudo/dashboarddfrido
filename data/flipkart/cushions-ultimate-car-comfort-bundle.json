@@ -1,123 +1,139 @@
 {
  "category": "cushions-ultimate-car-comfort-bundle",
  "marketplace": "flipkart",
- "keyword": "Frido Ultimate Car Comfort Bundle",
+ "keyword": "Car Comfort Bundle",
+ "brandKeyword": "Frido Ultimate Car Comfort Bundle",
  "capturedAt": "2026-07-08",
- "method": "Live scrape flipkart.com mobile search page 1 (__INITIAL_STATE__), query = exact SKU name",
+ "method": "Live scrape flipkart.com mobile search page 1 (__INITIAL_STATE__), query = generic product keyword",
  "confidence": "Medium-High (live; sponsored flags not exposed on mobile)",
- "fridoRank": 4,
+ "fridoRank": 7,
  "fridoPresent": true,
+ "fridoUrl": "https://www.flipkart.com/search?q=Car%20Comfort%20Bundle",
  "results": [
   {
    "pos": 1,
-   "title": "FEXMY Heel Pain Relief Cracked Repair Foot Care Heel Pad and Heel Socks Combo Heel Support",
+   "title": "betterhood Black Memory Foam",
+   "brand": "betterhood",
    "price": null,
-   "rating": 3.8,
-   "ratings": 450,
+   "rating": 4.1,
+   "ratings": 194,
    "isFrido": false
   },
   {
    "pos": 2,
-   "title": "FEXMY Shoe Bite Protector Heel Grips, Liner Cushions & Inserts for Loose Shoes Support Heel Support",
+   "title": "betterhood Grey Memory Foam",
+   "brand": "betterhood",
    "price": null,
-   "rating": 3.8,
-   "ratings": 1478,
+   "rating": 4.1,
+   "ratings": 71,
    "isFrido": false
   },
   {
    "pos": 3,
-   "title": "FEXMY Heel Grips Liner Cushions Inserts for Loose Shoes Insoles for Men Heel Support",
+   "title": "Neodrift ‎ArmEase Armrest - Beige Car Armrest Pad Cushion",
+   "brand": "Neodrift",
    "price": null,
-   "rating": 3.8,
-   "ratings": 1478,
+   "rating": 4.1,
+   "ratings": 57,
    "isFrido": false
   },
   {
    "pos": 4,
-   "title": "Frido Ultimate Pro Seat Cushion for Hip & Tailbone Pain Relief- Light Grey Back / Lumbar Support",
+   "title": "HAKA Natural Camphor Pouch Gift Pack of 3 | 100% Natural Air Freshener Car Air Purifier",
+   "brand": "HAKA",
    "price": null,
-   "rating": 4.1,
-   "ratings": 297,
-   "isFrido": true
-  },
-  {
-   "pos": 5,
-   "title": "Frido Wedge Plus Memory Foam Cushion for Sleeping, Acid Reflux Relief & Leg Elevator Back / Lumbar Support",
-   "price": null,
-   "rating": 4.2,
-   "ratings": 435,
-   "isFrido": true
-  },
-  {
-   "pos": 6,
-   "title": "Frido Ultimate Contour Cervical Neck Pillow for Pain Relief Sleep,Pack of 2 Cervical Pillow",
-   "price": null,
-   "rating": 4.1,
-   "ratings": 29,
-   "isFrido": true
-  },
-  {
-   "pos": 7,
-   "title": "POSTURO Car Neck Rest Memory Foam Neck Cushion For Pain Free Long Driving Big Size Back / Lumbar Support",
-   "price": null,
-   "rating": 3.5,
-   "ratings": 4,
+   "rating": 3.7,
+   "ratings": 22,
    "isFrido": false
   },
   {
-   "pos": 8,
-   "title": "NWLY Car Seat Back Support, Orthopedic Lumbar Back Rest for Back Pain Relief Back / Lumbar Support",
+   "pos": 5,
+   "title": "CamPure Insta Cone Combo (Pack of 3) Room, Car, Air Freshener & Mosquito Repellent Potpourri Camphor Insta Cone Combo (Pack of 3) Room, Car and Air Freshener & ",
+   "brand": "CamPure",
    "price": null,
-   "rating": 4.2,
-   "ratings": 31,
+   "rating": 3.8,
+   "ratings": 627,
+   "isFrido": false
+  },
+  {
+   "pos": 6,
+   "title": "ONISWELL Universal Car Armrest Console Organizer with Cup Holder & Storage Cushion Car Armrest Pad Cushion",
+   "brand": "ONISWELL",
+   "price": null,
+   "rating": 3.8,
+   "ratings": 120,
+   "isFrido": false
+  },
+  {
+   "pos": 7,
+   "title": "Frido Grey Memory Foam Car Pillow Cushion for Universal For Car",
+   "brand": "Frido",
+   "price": null,
+   "rating": 4.1,
+   "ratings": 529,
+   "isFrido": true
+  },
+  {
+   "pos": 8,
+   "title": "CYPAT 5IN1 Center Console, with Cup Holder, Tissue Holder, Phone Slot, & 2 Storage Bag Car Armrest Pad Cushion",
+   "brand": "CYPAT",
+   "price": null,
+   "rating": 3.4,
+   "ratings": 16,
    "isFrido": false
   },
   {
    "pos": 9,
-   "title": "MRRON PROTECH Neckrest LUMBER Back support or COCCYX Orthopaedic Cushion . Supporter",
+   "title": "Clefairy Car Armrest Cushion, Multifunctional Car Center Console Cover Car Armrest Cover",
+   "brand": "Clefairy",
+   "price": null,
+   "rating": 4,
+   "ratings": 5,
+   "isFrido": false
+  },
+  {
+   "pos": 10,
+   "title": "NISHIV Car Armrest Cushion 5 in 1 Console Cover with 2 Cup Holders Cushion for Most Car Armrest Cover",
+   "brand": "NISHIV",
    "price": null,
    "rating": 0,
    "ratings": 0,
    "isFrido": false
   },
   {
-   "pos": 10,
-   "title": "CURASIA Orthopedic Seat Cushion and Lumbar Support Pillow for Office Chair - BLACK COMBO Back / Lumbar Support",
-   "price": null,
-   "rating": 4,
-   "ratings": 24,
-   "isFrido": false
-  },
-  {
    "pos": 11,
-   "title": "JOYLY Orthopedic Coccyx Seat Cushion for Tailbone & Lower Back Pain Relief Support Back / Lumbar Support",
+   "title": "AUTOFIT Black, Red Leather Car Pillow Cushion for Universal For Car",
+   "brand": "AUTOFIT",
    "price": null,
-   "rating": 4.1,
-   "ratings": 11,
+   "rating": 4.3,
+   "ratings": 129,
    "isFrido": false
   },
   {
    "pos": 12,
-   "title": "Baben Free Size Posture Corrector For Men And Women Back / Lumbar Support",
+   "title": "AUTOFIT Beige, Black Leather Car Pillow Cushion for Universal For Car",
+   "brand": "AUTOFIT",
    "price": null,
-   "rating": 4.1,
-   "ratings": 377,
+   "rating": 4,
+   "ratings": 79,
    "isFrido": false
   },
   {
    "pos": 13,
-   "title": "Baben Posture corrector belt for men and women for back pain Posture Corrector Posture Corrector",
+   "title": "AUTOFIT Grey, Black Leather Car Pillow Cushion for Universal For Car",
+   "brand": "AUTOFIT",
    "price": null,
-   "rating": 4.2,
-   "ratings": 74,
+   "rating": 4.3,
+   "ratings": 61,
    "isFrido": false
   },
   {
    "pos": 14,
-   "title": "Baben Free Size Sciatica Pain Relief Belt – Adjustable Lower Back & Hip Support Abdominal Belt",
+   "title": "AUTOFIT Black, Silver Leather Car Pillow Cushion for Universal For Car",
+   "brand": "AUTOFIT",
    "price": null,
-   "rating": 5,
-   "ratings": 21,
+   "rating": 4.2,
+   "ratings": 289,
    "isFrido": false
   }
  ],

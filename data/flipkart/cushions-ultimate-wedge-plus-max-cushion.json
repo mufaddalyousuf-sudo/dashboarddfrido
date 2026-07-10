@@ -1,14 +1,105 @@
 {
  "category": "cushions-ultimate-wedge-plus-max-cushion",
  "marketplace": "flipkart",
- "keyword": "Frido Ultimate Wedge Plus Max Cushion",
+ "keyword": "Wedge Plus Max Cushion",
+ "brandKeyword": "Frido Ultimate Wedge Plus Max Cushion",
  "capturedAt": "2026-07-08",
- "method": "Live scrape flipkart.com mobile search page 1 (__INITIAL_STATE__), query = exact SKU name",
- "confidence": "Low (fetch blocked)",
- "fridoRank": null,
- "fridoPresent": false,
- "results": [],
- "notes": [
-  "Live fetch failed after retries — needs re-verification."
- ]
+ "method": "Live scrape flipkart.com mobile search page 1 (__INITIAL_STATE__), query = generic product keyword",
+ "confidence": "Medium-High (live; sponsored flags not exposed on mobile)",
+ "fridoRank": 4,
+ "fridoPresent": true,
+ "fridoUrl": "https://www.flipkart.com/search?q=Wedge%20Plus%20Max%20Cushion",
+ "results": [
+  {
+   "pos": 1,
+   "title": "WALKAROO Women Wedges",
+   "brand": "WALKAROO",
+   "price": null,
+   "rating": 4.3,
+   "ratings": 599,
+   "isFrido": false
+  },
+  {
+   "pos": 2,
+   "title": "WALKAROO Men Sandals",
+   "brand": "WALKAROO",
+   "price": null,
+   "rating": 4.2,
+   "ratings": 1285,
+   "isFrido": false
+  },
+  {
+   "pos": 3,
+   "title": "WALKAROO Men Casual",
+   "brand": "WALKAROO",
+   "price": null,
+   "rating": 4,
+   "ratings": 268,
+   "isFrido": false
+  },
+  {
+   "pos": 4,
+   "title": "Frido Polyester Fibre Cushion Pack of 1 Solid Wedge Plus Max Extra-Large Back Support Pillow for Neck & Back Pain Relief",
+   "brand": "Frido",
+   "price": null,
+   "rating": 0,
+   "ratings": 0,
+   "isFrido": true
+  },
+  {
+   "pos": 5,
+   "title": "Frido Memory Foam Cushion Pack of 1 Solid Wedge Plus Cushion for Sleeping, Acid Reflux Relief, Leg Elevator, Pregnancy",
+   "brand": "Frido",
+   "price": null,
+   "rating": 4.2,
+   "ratings": 217,
+   "isFrido": true
+  },
+  {
+   "pos": 6,
+   "title": "HOMESO Memory Foam Orthopaedic Pillow Pack of 1 Solid Wedge Plus Pillow for Sleeping Back & Neck Pain Relief Leg Elevator",
+   "brand": "HOMESO",
+   "price": null,
+   "rating": 4.3,
+   "ratings": 877,
+   "isFrido": false
+  },
+  {
+   "pos": 7,
+   "title": "CUSHIO Memory Foam Orthopaedic Pillow Pack of 1 Solid Memory Foam Adjustable Wedge Pillow With Headrest | Neck, Back, Leg Elevation",
+   "brand": "CUSHIO",
+   "price": null,
+   "rating": 3.6,
+   "ratings": 5,
+   "isFrido": false
+  },
+  {
+   "pos": 8,
+   "title": "Response Foam Orthopaedic Pillow Pack of 1 Solid Wedge Plus Pillow | Back & Head Elevation for Sleeping, Reading and Acid Reflux",
+   "brand": "Response",
+   "price": null,
+   "rating": 0,
+   "ratings": 0,
+   "isFrido": false
+  },
+  {
+   "pos": 9,
+   "title": "madhventerprise Memory Foam Orthopaedic Pillow Pack of 1 Solid",
+   "brand": "madhventerprise",
+   "price": null,
+   "rating": 0,
+   "ratings": 0,
+   "isFrido": false
+  },
+  {
+   "pos": 10,
+   "title": "HOMESO Memory Foam Orthopaedic Pillow Pack of 1 Solid Wedge Plus Memory Foam Cushion for Sleeping, Acid Reflux Relief & Leg Elevator",
+   "brand": "HOMESO",
+   "price": null,
+   "rating": 4.3,
+   "ratings": 877,
+   "isFrido": false
+  }
+ ],
+ "notes": []
 }

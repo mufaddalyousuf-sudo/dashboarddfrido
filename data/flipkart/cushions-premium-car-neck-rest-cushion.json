@@ -1,14 +1,87 @@
 {
  "category": "cushions-premium-car-neck-rest-cushion",
  "marketplace": "flipkart",
- "keyword": "Frido Premium Car Neck Rest Cushion",
+ "keyword": "Car Neck Rest Cushion",
+ "brandKeyword": "Frido Premium Car Neck Rest Cushion",
  "capturedAt": "2026-07-08",
- "method": "Live scrape flipkart.com mobile search page 1 (__INITIAL_STATE__), query = exact SKU name",
- "confidence": "Low (fetch blocked)",
- "fridoRank": null,
- "fridoPresent": false,
- "results": [],
- "notes": [
-  "Live fetch failed after retries — needs re-verification."
- ]
+ "method": "Live scrape flipkart.com mobile search page 1 (__INITIAL_STATE__), query = generic product keyword",
+ "confidence": "Medium-High (live; sponsored flags not exposed on mobile)",
+ "fridoRank": 5,
+ "fridoPresent": true,
+ "fridoUrl": "https://www.flipkart.com/search?q=Car%20Neck%20Rest%20Cushion",
+ "results": [
+  {
+   "pos": 1,
+   "title": "betterhood Black Memory Foam",
+   "brand": "betterhood",
+   "price": null,
+   "rating": 4.1,
+   "ratings": 194,
+   "isFrido": false
+  },
+  {
+   "pos": 2,
+   "title": "betterhood Grey Memory Foam",
+   "brand": "betterhood",
+   "price": null,
+   "rating": 4.3,
+   "ratings": 94,
+   "isFrido": false
+  },
+  {
+   "pos": 3,
+   "title": "aksmit Black, Red Leatherite Car Pillow Cushion for Universal For Car",
+   "brand": "aksmit",
+   "price": null,
+   "rating": 4.1,
+   "ratings": 9464,
+   "isFrido": false
+  },
+  {
+   "pos": 4,
+   "title": "SHOP N BUY Black Memory Foam",
+   "brand": "SHOP N BUY",
+   "price": null,
+   "rating": 4.1,
+   "ratings": 88,
+   "isFrido": false
+  },
+  {
+   "pos": 5,
+   "title": "Frido Black Memory Foam Car Pillow Cushion for Universal For Car",
+   "brand": "Frido",
+   "price": null,
+   "rating": 4.1,
+   "ratings": 881,
+   "isFrido": true
+  },
+  {
+   "pos": 6,
+   "title": "zontic Grey Memory Foam",
+   "brand": "zontic",
+   "price": null,
+   "rating": 4.2,
+   "ratings": 231,
+   "isFrido": false
+  },
+  {
+   "pos": 7,
+   "title": "FOVERA Black, Grey Memory Foam Car Pillow Cushion for Universal For Car",
+   "brand": "FOVERA",
+   "price": null,
+   "rating": 4.2,
+   "ratings": 149,
+   "isFrido": false
+  },
+  {
+   "pos": 8,
+   "title": "Srikrishna Black Memory Foam",
+   "brand": "Srikrishna",
+   "price": null,
+   "rating": 3.9,
+   "ratings": 64,
+   "isFrido": false
+  }
+ ],
+ "notes": []
 }

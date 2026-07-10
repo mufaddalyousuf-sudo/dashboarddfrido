@@ -1,123 +1,103 @@
 {
  "category": "cushions-ultimate-wedge-cushion",
  "marketplace": "flipkart",
- "keyword": "Frido Ultimate Wedge Cushion",
+ "keyword": "Wedge Cushion",
+ "brandKeyword": "Frido Ultimate Wedge Cushion",
  "capturedAt": "2026-07-08",
- "method": "Live scrape flipkart.com mobile search page 1 (__INITIAL_STATE__), query = exact SKU name",
+ "method": "Live scrape flipkart.com mobile search page 1 (__INITIAL_STATE__), query = generic product keyword",
  "confidence": "Medium-High (live; sponsored flags not exposed on mobile)",
  "fridoRank": 6,
  "fridoPresent": true,
+ "fridoUrl": "https://www.flipkart.com/search?q=Wedge%20Cushion",
  "results": [
   {
    "pos": 1,
-   "title": "Baben Free Size Posture Corrector For Men And Women Back / Lumbar Support",
+   "title": "AYKA Microfibre Sleeping Pillow Pack of 1 Solid Soft Microfiber Pillows",
+   "brand": "AYKA",
    "price": null,
-   "rating": 4.1,
-   "ratings": 377,
+   "rating": 4.3,
+   "ratings": 2421,
    "isFrido": false
   },
   {
    "pos": 2,
-   "title": "Baben Posture corrector belt for men and women for back pain Posture Corrector Posture Corrector",
+   "title": "AYKA Microfibre Sleeping Pillow Pack of 1 Solid Soft Microfiber Pillow for Sleeping",
+   "brand": "AYKA",
    "price": null,
-   "rating": 4.2,
-   "ratings": 74,
+   "rating": 4.3,
+   "ratings": 150,
    "isFrido": false
   },
   {
    "pos": 3,
-   "title": "Baben Free Size Sciatica Pain Relief Belt – Adjustable Lower Back & Hip Support Abdominal Belt",
+   "title": "AYKA Microfibre Sleeping Pillow Pack of 2 Solid Soft Microfiber Pillows",
+   "brand": "AYKA",
    "price": null,
-   "rating": 5,
-   "ratings": 21,
+   "rating": 4.3,
+   "ratings": 2421,
    "isFrido": false
   },
   {
    "pos": 4,
-   "title": "Baben 3 in 1 Postpartum Support - Recovery Belly Belt Free Size Abdominal Support Abdominal Belt",
+   "title": "HOMESO Memory Foam Orthopaedic Pillow Pack of 1 Solid Wedge Plus Pillow for Sleeping Back & Neck Pain Relief Leg Elevator",
+   "brand": "HOMESO",
    "price": null,
-   "rating": 0,
-   "ratings": null,
+   "rating": 4.3,
+   "ratings": 877,
    "isFrido": false
   },
   {
    "pos": 5,
-   "title": "Baben Posture Corrector Belt for Men & Women Back Support Brace Shoulder Pain Relief Posture Corrector",
+   "title": "SleepyHug Memory Foam Orthopaedic Pillow Pack of 1 Solid Wedge Pillow",
+   "brand": "SleepyHug",
    "price": null,
-   "rating": 3.5,
-   "ratings": 4,
+   "rating": 4.7,
+   "ratings": 41,
    "isFrido": false
   },
   {
    "pos": 6,
-   "title": "Frido Ultimate Pro Seat Cushion for Hip & Tailbone Pain Relief- Light Grey Back / Lumbar Support",
+   "title": "Frido Wedge Plus Memory Foam Cushion for Sleeping, Acid Reflux Relief & Leg Elevator Back / Lumbar Support",
+   "brand": "Frido",
    "price": null,
-   "rating": 4.1,
-   "ratings": 297,
+   "rating": 4.2,
+   "ratings": 437,
    "isFrido": true
   },
   {
    "pos": 7,
-   "title": "Frido Slim Ortho Coccyx Seat Cushion |Tailbone & Sciatica Relief | Anti Slip Support Back / Lumbar Support",
+   "title": "FOVERA Donut Pillow Orthopedic Memory Foam Piles Cushion for Hemorrhoids Back / Lumbar Support",
+   "brand": "FOVERA",
    "price": null,
-   "rating": 0,
-   "ratings": 0,
-   "isFrido": true
+   "rating": 4.1,
+   "ratings": 816,
+   "isFrido": false
   },
   {
    "pos": 8,
-   "title": "Frido Complete Back Support Wedge Cushion Made with Memory Foam, For Bed, Sofa & Chair Back / Lumbar Support",
+   "title": "MIVOR Memory Foam Orthopaedic Pillow Pack of 1 Solid",
+   "brand": "MIVOR",
    "price": null,
-   "rating": 4,
-   "ratings": 260,
-   "isFrido": true
+   "rating": 4.3,
+   "ratings": 4,
+   "isFrido": false
   },
   {
    "pos": 9,
-   "title": "Frido Cloud Seat Cushion with Memory Foam & Anti-Slip Base Supporter",
+   "title": "HOMBOX Foam Orthopaedic Pillow Pack of 1 Solid Bed Wedge",
+   "brand": "HOMBOX",
    "price": null,
-   "rating": 4.3,
-   "ratings": 6,
-   "isFrido": true
+   "rating": 4.2,
+   "ratings": 774,
+   "isFrido": false
   },
   {
    "pos": 10,
-   "title": "Frido Wedge Plus Memory Foam Cushion for Sleeping, Acid Reflux Relief & Leg Elevator Back / Lumbar Support",
+   "title": "HOMESO Memory Foam Orthopaedic Pillow Pack of 1 Solid Wedge Plus Memory Foam Cushion for Sleeping, Acid Reflux Relief & Leg Elevator",
+   "brand": "HOMESO",
    "price": null,
-   "rating": 4.2,
-   "ratings": 435,
-   "isFrido": true
-  },
-  {
-   "pos": 11,
-   "title": "Frido Cloud Backrest Memory Foam Cushion, Lumbar Support For Chairs & Home Use, Black Back / Lumbar Support",
-   "price": null,
-   "rating": 4.5,
-   "ratings": 21,
-   "isFrido": true
-  },
-  {
-   "pos": 12,
-   "title": "FEXMY Heel Pain Relief Cracked Repair Foot Care Heel Pad and Heel Socks Combo Heel Support",
-   "price": null,
-   "rating": 3.8,
-   "ratings": 450,
-   "isFrido": false
-  },
-  {
-   "pos": 13,
-   "title": "FEXMY Shoe Bite Protector Heel Grips, Liner Cushions & Inserts for Loose Shoes Support Heel Support",
-   "price": null,
-   "rating": 3.8,
-   "ratings": 1478,
-   "isFrido": false
-  },
-  {
-   "pos": 14,
-   "title": "FEXMY Heel Grips Liner Cushions Inserts for Loose Shoes Insoles for Men Heel Support",
-   "price": null,
-   "rating": 3.8,
-   "ratings": 1478,
+   "rating": 4.3,
+   "ratings": 877,
    "isFrido": false
   }
  ],

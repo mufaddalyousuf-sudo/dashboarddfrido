@@ -1,58 +1,86 @@
 {
  "category": "cushions-ultimate-pro-posture-corrector",
  "marketplace": "amazon-in",
- "keyword": "Frido Ultimate Pro Posture Corrector",
+ "keyword": "Posture Corrector",
+ "brandKeyword": "Frido Ultimate Pro Posture Corrector",
  "capturedAt": "2026-07-08",
- "method": "Live scrape amazon.in search page 1, query = exact SKU name (brand-qualified)",
+ "method": "Live scrape amazon.in search page 1, query = generic product keyword (brand + Frido product-line/marketing words stripped) — the competitive rank signal, not a brand-qualified existence check",
  "confidence": "High (live snapshot, single keyword)",
- "fridoOrganicRank": 1,
+ "fridoOrganicRank": null,
  "fridoSponsoredSlot": null,
+ "fridoUrl": null,
  "organic": [
-  {
-   "asin": "B0CJ5CWXQ5",
-   "badge": "Amazon's Choice",
-   "price": "1,809",
-   "rating": "4.0",
-   "reviews": "3,077",
-   "title": "Ultimate Pro Back Support (High Density) for Chair | Orthopedic Backrest Cushion for Lumbar&Posture Support | Relief Back Pain | Proprietary Hi-Per Foam Pillow ",
-   "rank": 1,
-   "isFridoBrand": true
-  },
   {
    "asin": "B0GHX848PP",
    "badge": "Bestseller",
    "price": "449",
    "rating": "3.9",
-   "reviews": "343",
-   "title": "Posture Corrector Belt for Men & Women, Adjustable Back Brace for Upper Back & Shoulder Support, Breathable Back Straightener Belt with Soft Pads for Neck & Bac",
+   "reviews": "348",
+   "title": "Boldfit Posture Corrector Belt for Men & Women, Adjustable Back Brace for Upper Back & Shoulder Support, Breathable Back Straightener Belt with Soft Pads for Ne",
+   "rank": 1
+  },
+  {
+   "asin": "B0CBMTNKPZ",
+   "badge": null,
+   "price": "289",
+   "rating": "3.7",
+   "reviews": "1,629",
+   "title": "Posture Corrector for Men & Women by Plethon – Adjustable Back Brace, Clavicle Support & Upper Back Straightener for Better Sitting and Standing Posture, Fits 3",
    "rank": 2
+  },
+  {
+   "asin": "B0GYJGNBMW",
+   "badge": null,
+   "price": "844",
+   "rating": "4.4",
+   "reviews": "16,016",
+   "title": "TOVIKI Posture Corrector Belt for Men & Women | Back Brace for Lower Back Pain Relief | Lumbar & Shoulder Support Straightener | Adjustable Orthopedic Back Belt",
+   "rank": 3
   },
   {
    "asin": "B0GHXGSMT3",
    "badge": "Bestseller",
    "price": "449",
    "rating": "3.9",
-   "reviews": "343",
-   "title": "Posture Corrector Belt for Men & Women, Adjustable Back Brace for Upper Back & Shoulder Support, Breathable Back Straightener Belt with Soft Pads for Neck & Bac",
-   "rank": 3
-  },
-  {
-   "asin": "B0GF2CBZ9D",
-   "badge": null,
-   "price": "1,199",
-   "rating": "4.6",
-   "reviews": "3",
-   "title": "Align Pro Posture Corrector Neoprene Foam Back Support Belt for Men & Women Adjustable Spine & Shoulder Brace Breathable, All-Day Comfort Upper Back, Neck & Sho",
+   "reviews": "348",
+   "title": "Boldfit Posture Corrector Belt for Men & Women, Adjustable Back Brace for Upper Back & Shoulder Support, Breathable Back Straightener Belt with Soft Pads for Ne",
    "rank": 4
   },
   {
-   "asin": "B0GFDYQM8C",
+   "asin": "B0FFBHK26F",
    "badge": null,
+   "price": "535",
+   "rating": "3.7",
+   "reviews": "528",
+   "title": "TATA 1MG Posture Corrector | Ergonomic Design with Dual Metallic Plates for Spine Alignment & Pain Relief",
+   "rank": 5
+  },
+  {
+   "asin": "B0GFDYQM8C",
+   "badge": "Amazon's Choice",
    "price": "219",
    "rating": "5.0",
    "reviews": "5",
    "title": "Free Size Posture Corrector For Men And Women Back Support Belt Back Pain Back Straight And Shoulder Support Belt (Universal Size) (1)",
-   "rank": 5
+   "rank": 6
+  },
+  {
+   "asin": "B0BDZPWY73",
+   "badge": null,
+   "price": "449",
+   "rating": "3.8",
+   "reviews": "11,661",
+   "title": "Sifoz Free Size Posture Corrector For Men And Women Back Support Belt Back Pain Back Straight And Shoulder Support Belt (Universal Size) (Metallic Belt) (Postur",
+   "rank": 7
+  },
+  {
+   "asin": "B0G4HN2FTJ",
+   "badge": null,
+   "price": "219",
+   "rating": "5.0",
+   "reviews": "2",
+   "title": "Free Size Posture Corrector For Men And Women Back Support Belt Back Pain Back Straight And Shoulder Support Belt (Universal Size) (Metallic Belt) (Posture Corr",
+   "rank": 8
   },
   {
    "asin": "B0F6CRFWHS",
@@ -60,99 +88,72 @@
    "price": "549",
    "rating": "3.4",
    "reviews": "293",
-   "title": "Posture Corrector Belt for Men & Women | Back Straightener Brace for Upper Back, Neck & Shoulder Support | Adjustable Back Support Pain Relief Belt for Spine & ",
-   "rank": 6
-  },
-  {
-   "asin": "B0BDZPWY73",
-   "badge": null,
-   "price": "349",
-   "rating": "3.8",
-   "reviews": "11,656",
-   "title": "Free Size Posture Corrector For Men And Women Back Support Belt Back Pain Back Straight And Shoulder Support Belt (Universal Size) (Metallic Belt) (Posture Corr",
-   "rank": 7
-  },
-  {
-   "asin": "B0GG4H8KC2",
-   "badge": null,
-   "price": "349",
-   "rating": "4.0",
-   "reviews": "175",
-   "title": "Free Size Posture Corrector for Men & Women | Breathable Back & Shoulder Support Belt | Helps Improve Posture & Reduce Back Pain (Black)",
-   "rank": 8
-  },
-  {
-   "asin": "B0G53417F1",
-   "badge": null,
-   "price": "294",
-   "rating": "3.9",
-   "reviews": "5",
-   "title": "Posture Corrector Support Belt | Adjustable Back & Shoulder Support for Improved Posture | Breathable & Lightweight Design | Men & Women | Large",
+   "title": "CULT Posture Corrector Belt for Men & Women | Back Straightener Brace for Upper Back, Neck & Shoulder Support | Adjustable Back Support Pain Relief Belt for Spi",
    "rank": 9
   },
   {
-   "asin": "B0DFQ6WSMY",
+   "asin": "B0GMJLWZ7S",
    "badge": null,
-   "price": "890",
-   "rating": "4.0",
-   "reviews": "347",
-   "title": "Neoprene X-Cross Posture Corrector Belt for Men & Women Universal Size Back Support Pain Relief Back Straightener & Shoulder Support, Posture Corrector Belt (Fu",
+   "price": "469",
+   "rating": "4.4",
+   "reviews": "35",
+   "title": "Amazon Brand - Solimo X-Cross Posture Corrector Belt – Universal Size Shoulder & Back Support Belt | Back Straightener Brace for Spine & Body Posture Correction",
    "rank": 10
   }
  ],
  "sponsored": [
   {
-   "asin": "B0H3TQV78C",
+   "asin": "B0FDQJQHL8",
    "badge": null,
-   "price": "2,599",
-   "rating": "5.0",
-   "reviews": "5",
-   "title": "Men's Posture Activation Back Support Compression T-Shirt for Upper Back and Shoulders, Black, XXL, Nylon",
-   "slot": 1
-  },
-  {
-   "asin": "B086TPG5B8",
-   "badge": null,
-   "price": "1,412",
+   "price": "474",
    "rating": "3.8",
-   "reviews": "296",
-   "title": "Futuro Posture Corrector, Adjustable, One Size Fits Most (46832ENR)",
-   "slot": 2
-  },
-  {
-   "asin": "B0GX6VW82W",
-   "badge": null,
-   "price": "620",
-   "rating": "4.6",
-   "reviews": "6",
-   "title": "Posture Corrector for Men & Women | Adjustable Back Brace for Spine Alignment & Pain Relief | Upper Back Support Belt Black (XL)",
-   "slot": 3
+   "reviews": "2,154",
+   "title": "DOLTAS Neoprene X-Cross Posture Corrector Belt Universal Size Shoulder & Back Support Belt | Back Straightener Brace For Spine & Body Posture Correction | Clavi",
+   "slot": 1
   },
   {
    "asin": "B0C1ZPY1H4",
    "badge": null,
    "price": "664",
    "rating": "3.9",
-   "reviews": "322",
-   "title": "Ortho Neoprene Posture Corrector Belt for Men & Women, Back Pain Relief | Back Support Belt | Lightweight, Breathable Shoulder Support, Adjustable Size - Medium",
+   "reviews": "324",
+   "title": "Leeford Ortho Neoprene Posture Corrector Belt for Men & Women, Back Pain Relief | Back Support Belt | Lightweight, Breathable Shoulder Support, Adjustable Size ",
+   "slot": 2
+  },
+  {
+   "asin": "B0CBMTNKPZ",
+   "badge": null,
+   "price": "289",
+   "rating": "3.7",
+   "reviews": "1,629",
+   "title": "Posture Corrector for Men & Women by Plethon – Adjustable Back Brace, Clavicle Support & Upper Back Straightener for Better Sitting and Standing Posture, Fits 3",
+   "slot": 3
+  },
+  {
+   "asin": "B0BDZPWY73",
+   "badge": null,
+   "price": "449",
+   "rating": "3.8",
+   "reviews": "11,661",
+   "title": "Sifoz Free Size Posture Corrector For Men And Women Back Support Belt Back Pain Back Straight And Shoulder Support Belt (Universal Size) (Metallic Belt) (Postur",
    "slot": 4
   },
   {
-   "asin": "B0FDQJQHL8",
+   "asin": "B07TBM7NT6",
    "badge": null,
-   "price": "399",
+   "price": "734",
    "rating": "3.8",
-   "reviews": "2,150",
-   "title": "Neoprene X-Cross Posture Corrector Belt Universal Size Shoulder & Back Support Belt | Back Straightener Brace For Spine & Body Posture Correction | Clavicle Sup",
+   "reviews": "4,949",
+   "title": "Tynor Posture Corrector, Grey, Medium, 1 Unit",
    "slot": 5
   },
   {
-   "asin": "B0GRNNLLNL",
+   "asin": "B086TPG5B8",
    "badge": null,
-   "price": "499",
-   "rating": "4.0",
-   "reviews": "175",
-   "title": "Free Size Posture Corrector for Men & Women | Breathable Back & Shoulder Support Belt | Helps Improve Posture & Reduce Back Pain (Gray)",
+   "price": "1,519",
+   "rating": "3.8",
+   "reviews": "296",
+   "title": "Futuro Futuro Posture Corrector, Adjustable, One Size Fits Most (46832ENR)",
    "slot": 6
   },
   {
@@ -161,34 +162,34 @@
    "price": "549",
    "rating": "3.4",
    "reviews": "293",
-   "title": "Posture Corrector Belt for Men & Women | Back Straightener Brace for Upper Back, Neck & Shoulder Support | Adjustable Back Support Pain Relief Belt for Spine & ",
+   "title": "CULT Posture Corrector Belt for Men & Women | Back Straightener Brace for Upper Back, Neck & Shoulder Support | Adjustable Back Support Pain Relief Belt for Spi",
    "slot": 7
   },
   {
-   "asin": "B0DTKLMFW9",
+   "asin": "B0FFBHK26F",
    "badge": null,
-   "price": "999",
-   "rating": "3.9",
-   "reviews": "106",
-   "title": "(Max Group Unisex Posture Corrector Belt, Adjustable Back Brace for Upper Back & Shoulder Support, Breathable Back Straightener Belt with Soft Pads for Neck & B",
+   "price": "535",
+   "rating": "3.7",
+   "reviews": "528",
+   "title": "TATA 1MG Posture Corrector | Ergonomic Design with Dual Metallic Plates for Spine Alignment & Pain Relief",
    "slot": 8
   },
   {
-   "asin": "B0BSC9FWNW",
+   "asin": "B0G539Q4YN",
    "badge": null,
-   "price": "949",
-   "rating": "3.8",
-   "reviews": "386",
-   "title": "Medical-Grade Posture Corrector Belt for Women| Premium Back Support Belt for Back Pain Relief & Shoulder Alignment | Ergonomic Adjustable & Breathable Design w",
+   "price": "296",
+   "rating": "3.9",
+   "reviews": "5",
+   "title": "Amazon Basics Posture Corrector Support Belt | Adjustable Back & Shoulder Support for Improved Posture | Breathable & Lightweight Design | Men & Women | Medium",
    "slot": 9
   },
   {
-   "asin": "B0DFQ6WSMY",
+   "asin": "B0CYLL4MCF",
    "badge": null,
-   "price": "890",
-   "rating": "4.0",
-   "reviews": "347",
-   "title": "Neoprene X-Cross Posture Corrector Belt for Men & Women Universal Size Back Support Pain Relief Back Straightener & Shoulder Support, Posture Corrector Belt (Fu",
+   "price": "641",
+   "rating": "3.6",
+   "reviews": "2,218",
+   "title": "Dr. Ortho Posture Corrector Belt For Back & Shoulder, Back Support Belt For Men & Women, Back Straightener Brace For Spine & Body Posture Correction (Large)",
    "slot": 10
   }
  ],

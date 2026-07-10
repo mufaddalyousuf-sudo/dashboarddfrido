@@ -1,14 +1,141 @@
 {
  "category": "cushions-dual-car-comfort-combo",
  "marketplace": "flipkart",
- "keyword": "Frido Dual Car Comfort Combo",
+ "keyword": "Dual Car Comfort Combo",
+ "brandKeyword": "Frido Dual Car Comfort Combo",
  "capturedAt": "2026-07-08",
- "method": "Live scrape flipkart.com mobile search page 1 (__INITIAL_STATE__), query = exact SKU name",
- "confidence": "Low (fetch blocked)",
+ "method": "Live scrape flipkart.com mobile search page 1 (__INITIAL_STATE__), query = generic product keyword",
+ "confidence": "Medium-High (live; sponsored flags not exposed on mobile)",
  "fridoRank": null,
  "fridoPresent": false,
- "results": [],
- "notes": [
-  "Live fetch failed after retries — needs re-verification."
- ]
+ "fridoUrl": "https://www.flipkart.com/search?q=Dual%20Car%20Comfort%20Combo",
+ "results": [
+  {
+   "pos": 1,
+   "title": "Wavex Wonder Wash Car Shampoo (1L) Car Washing Liquid",
+   "brand": "Wavex",
+   "price": null,
+   "rating": 4.3,
+   "ratings": 3077,
+   "isFrido": false
+  },
+  {
+   "pos": 2,
+   "title": "Wavex Graphene Ceramic Wash Shampoo Car Washing Liquid",
+   "brand": "Wavex",
+   "price": null,
+   "rating": 4.5,
+   "ratings": 210,
+   "isFrido": false
+  },
+  {
+   "pos": 3,
+   "title": "Wavex Car Shampoo Extreme Wash 5Ltr| Car Washing Liquid",
+   "brand": "Wavex",
+   "price": null,
+   "rating": 4.3,
+   "ratings": 1017,
+   "isFrido": false
+  },
+  {
+   "pos": 4,
+   "title": "Wavex Wash and Wax Car Shampoo 1 LTR Gives Wet Look Shine, pH Neutral - Leaves No Water Spots Car Washing Liquid",
+   "brand": "Wavex",
+   "price": null,
+   "rating": 4.3,
+   "ratings": 1055,
+   "isFrido": false
+  },
+  {
+   "pos": 5,
+   "title": "Wavex Wash and Wax Car Shampoo 500ml Gives Wet Look Shine,Buttery Smooth Feel, pH Neutral - Leaves no Water Spots Car Washing Liquid",
+   "brand": "Wavex",
+   "price": null,
+   "rating": 4.3,
+   "ratings": 2694,
+   "isFrido": false
+  },
+  {
+   "pos": 6,
+   "title": "Groommm Car Interior Cleaner & Dashboard Polish Combo (500Ml X 2) With Microfiber Cloth GRM_DASH_UPHOL_COMBO Vehicle Interior Cleaner",
+   "brand": "Groommm",
+   "price": null,
+   "rating": 4.1,
+   "ratings": 388,
+   "isFrido": false
+  },
+  {
+   "pos": 7,
+   "title": "betterhood Black Memory Foam",
+   "brand": "betterhood",
+   "price": null,
+   "rating": 4.3,
+   "ratings": 94,
+   "isFrido": false
+  },
+  {
+   "pos": 8,
+   "title": "Wavex 2 automotive combo Combo",
+   "brand": "Wavex",
+   "price": null,
+   "rating": 4,
+   "ratings": 10,
+   "isFrido": false
+  },
+  {
+   "pos": 9,
+   "title": "ORIDOR Duster With Extended Handle, Brush, Hand Duster, Glove, Cleaning Cloth Combo",
+   "brand": "ORIDOR",
+   "price": null,
+   "rating": 0,
+   "ratings": 0,
+   "isFrido": false
+  },
+  {
+   "pos": 10,
+   "title": "ORIDOR 2 Pcs Combo Of Exterior & Interior Cleaner Small Duster & Wash Mitt Combo",
+   "brand": "ORIDOR",
+   "price": null,
+   "rating": 0,
+   "ratings": 0,
+   "isFrido": false
+  },
+  {
+   "pos": 11,
+   "title": "Decozare BIG & SMALL CAR DUSTER, BIG & SMALL INNER BRUSH, MICROFIBER CLOTH, MITT GLOVE & SPONGE Combo",
+   "brand": "Decozare",
+   "price": null,
+   "rating": 3.8,
+   "ratings": 71,
+   "isFrido": false
+  },
+  {
+   "pos": 12,
+   "title": "ORIDOR 2 Pcs Combo Of Dashboard Cleaning Big Brush & Wash Mitt Combo",
+   "brand": "ORIDOR",
+   "price": null,
+   "rating": 0,
+   "ratings": 0,
+   "isFrido": false
+  },
+  {
+   "pos": 13,
+   "title": "AUTOFIT Black, Red Leather Car Pillow Cushion for Universal For Car",
+   "brand": "AUTOFIT",
+   "price": null,
+   "rating": 4.3,
+   "ratings": 129,
+   "isFrido": false
+  },
+  {
+   "pos": 14,
+   "title": "ORIDOR 5 in 1 combo-2 type of soft brush, Microfiber big & small duster, cloth-5 Pcs-A Combo",
+   "brand": "ORIDOR",
+   "price": null,
+   "rating": 0,
+   "ratings": 0,
+   "isFrido": false
+  }
+ ],
+ "notes": []
 }

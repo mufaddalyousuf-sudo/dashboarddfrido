@@ -1,123 +1,85 @@
 {
  "category": "cushions-knee-pillow",
  "marketplace": "flipkart",
- "keyword": "Frido Knee Pillow",
+ "keyword": "Knee Pillow",
+ "brandKeyword": "Frido Knee Pillow",
  "capturedAt": "2026-07-08",
- "method": "Live scrape flipkart.com mobile search page 1 (__INITIAL_STATE__), query = exact SKU name",
+ "method": "Live scrape flipkart.com mobile search page 1 (__INITIAL_STATE__), query = generic product keyword",
  "confidence": "Medium-High (live; sponsored flags not exposed on mobile)",
- "fridoRank": 6,
- "fridoPresent": true,
+ "fridoRank": null,
+ "fridoPresent": false,
+ "fridoUrl": "https://www.flipkart.com/search?q=Knee%20Pillow",
  "results": [
   {
    "pos": 1,
-   "title": "Baben Free Size Posture Corrector For Men And Women Back / Lumbar Support",
+   "title": "Sleepsia Multiuse Knee Support Memory Foam Pillow With Strap for Side Sleepers Knee Support",
+   "brand": "Sleepsia",
    "price": null,
-   "rating": 4.1,
-   "ratings": 377,
+   "rating": 4,
+   "ratings": 78,
    "isFrido": false
   },
   {
    "pos": 2,
-   "title": "Baben Posture corrector belt for men and women for back pain Posture Corrector Posture Corrector",
+   "title": "BoldFire 2 Pack Brace, Compression Sleeve Unisex, Running,Gym, Hiking Knee Support",
+   "brand": "BoldFire",
    "price": null,
-   "rating": 4.2,
-   "ratings": 74,
+   "rating": 4,
+   "ratings": 503,
    "isFrido": false
   },
   {
    "pos": 3,
-   "title": "Baben Free Size Sciatica Pain Relief Belt – Adjustable Lower Back & Hip Support Abdominal Belt",
+   "title": "SUPERFINE COMFORT Orthopedic Knee Sleeping Pillow Relief In Sciatica , Hip Pain, Knee & Pregnancy Knee Support",
+   "brand": "SUPERFINE COMFORT",
    "price": null,
-   "rating": 5,
-   "ratings": 21,
+   "rating": 3.7,
+   "ratings": 75,
    "isFrido": false
   },
   {
    "pos": 4,
-   "title": "Baben 3 in 1 Postpartum Support - Recovery Belly Belt Free Size Abdominal Support Abdominal Belt",
+   "title": "Dr Trust USA Memory Foam Pillow With Strap for Side Sleeper Sciatica Hip Pain Knee Relief Knee Support",
+   "brand": "Dr Trust",
    "price": null,
-   "rating": 0,
-   "ratings": null,
+   "rating": 4.1,
+   "ratings": 151,
    "isFrido": false
   },
   {
    "pos": 5,
-   "title": "Baben Posture Corrector Belt for Men & Women Back Support Brace Shoulder Pain Relief Posture Corrector",
+   "title": "HOMESO Memory Foam Orthopaedic Pillow Pack of 1 Solid Wedge Plus Pillow for Sleeping Back & Neck Pain Relief Leg Elevator",
+   "brand": "HOMESO",
    "price": null,
-   "rating": 3.5,
-   "ratings": 4,
+   "rating": 4.3,
+   "ratings": 877,
    "isFrido": false
   },
   {
    "pos": 6,
-   "title": "Frido Active Knee Cap for Pain Relief, Joint Support & Injury Recovery, Core Black, L Knee Support",
+   "title": "FOVERA Orthopedic Memory Foam Pillow for Side Sleepers, Relieves Pain, Ergonomic Knee Support",
+   "brand": "FOVERA",
    "price": null,
-   "rating": 4.4,
-   "ratings": 356,
-   "isFrido": true
+   "rating": 3.9,
+   "ratings": 1053,
+   "isFrido": false
   },
   {
    "pos": 7,
-   "title": "Frido Ultimate Pro Seat Cushion for Hip & Tailbone Pain Relief- Light Grey Back / Lumbar Support",
+   "title": "PilloWillo MemoryFoam Knee Pillow-Side Sleeper | Sciatica, Back, Hip, Between Legs Support Knee Support",
+   "brand": "PilloWillo",
    "price": null,
-   "rating": 4.1,
-   "ratings": 297,
-   "isFrido": true
+   "rating": 3.9,
+   "ratings": 54,
+   "isFrido": false
   },
   {
    "pos": 8,
-   "title": "PilloWillo MemoryFoam Knee Pillow-Side Sleeper | Sciatica, Back, Hip, Between Legs Support Knee Support",
-   "price": null,
-   "rating": 3.9,
-   "ratings": 55,
-   "isFrido": false
-  },
-  {
-   "pos": 9,
-   "title": "Dreamshop Sleeping Memory Foam Support Pillow - Smoothing Pain Relief for Sciatica Knee Support",
-   "price": null,
-   "rating": 3.6,
-   "ratings": 17,
-   "isFrido": false
-  },
-  {
-   "pos": 10,
-   "title": "FOVERA Donut Pillow Orthopedic Memory Foam Piles Cushion for Hemorrhoids Back / Lumbar Support",
-   "price": null,
-   "rating": 4.1,
-   "ratings": 816,
-   "isFrido": false
-  },
-  {
-   "pos": 11,
-   "title": "Frido Active Knee Cap for Pain Relief, Joint Support & Injury Recovery, XXL (2 Pair) Knee Support",
+   "title": "Overcmr Knee Cap for Men & Women, 1 Pair (Qty 2), Sports, Gym, Pain Relief (S) Knee Support",
+   "brand": "Overcmr",
    "price": null,
    "rating": 0,
    "ratings": 0,
-   "isFrido": true
-  },
-  {
-   "pos": 12,
-   "title": "Frido Active Knee Cap for Pain Relief, Joint Support & Injury Recovery, XXL (1 Pair) Knee Support",
-   "price": null,
-   "rating": 4.4,
-   "ratings": 356,
-   "isFrido": true
-  },
-  {
-   "pos": 13,
-   "title": "FOVERA Donut Ring Pillow for Piles, Coccyx Seat Cushion for Tailbone Pain, Back / Lumbar Support",
-   "price": null,
-   "rating": 4.6,
-   "ratings": 15,
-   "isFrido": false
-  },
-  {
-   "pos": 14,
-   "title": "Salo Orthotics Hip Abduction Pillow-After Hip Surgery, Relief in Sciatica,Hip, Leg,Knee(Child) Posture Corrector",
-   "price": null,
-   "rating": 4.3,
-   "ratings": 23,
    "isFrido": false
   }
  ],
