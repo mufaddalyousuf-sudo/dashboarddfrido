@@ -512,31 +512,31 @@
    "datasets": [
     {
      "id": "socks-five-toe-socks-patterned",
-     "keyword": "Frido Five Toe Socks - Patterned",
+     "keyword": "Five Toe Socks Patterned",
      "primary": true
     },
     {
      "id": "socks-five-toe-socks-solid",
-     "keyword": "Frido Five Toe Socks - Solid"
+     "keyword": "Five Toe Socks Solid"
     },
     {
      "id": "socks-active-socks",
-     "keyword": "Frido Active Socks"
+     "keyword": "Socks"
     },
     {
      "id": "socks-five-toe-socks",
-     "keyword": "Frido Five Toe Socks"
+     "keyword": "Five Toe Socks"
     },
     {
      "id": "socks-kids-socks",
-     "keyword": "Frido Kids Socks"
+     "keyword": "Kids Socks"
     },
     {
      "id": "socks-winter-socks",
-     "keyword": "Frido Winter Socks"
+     "keyword": "Winter Socks"
     }
    ],
-   "skuSource": "frido-product-catalog.json (full base-SKU research, 2026-07-08)"
+   "skuSource": "frido-product-catalog.json searchKeyword (generic, brand-stripped), 2026-07-08"
   },
   {
    "id": "orthotics",

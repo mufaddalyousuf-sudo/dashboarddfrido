@@ -30236,6 +30236,1508 @@
    },
    "status": "needs-verification",
    "capturedAt": "2026-07-08"
+  },
+  {
+   "category": "socks",
+   "categoryName": "Socks",
+   "sku": "Five Toe Socks - Solid",
+   "searchKeyword": "Five Toe Socks Solid",
+   "brandKeyword": "Frido Five Toe Socks - Solid",
+   "amazon": {
+    "fetchOk": true,
+    "organic": [
+     {
+      "asin": "B0DLVYL4RQ",
+      "badge": null,
+      "price": "499",
+      "rating": "4.4",
+      "reviews": "5,370",
+      "title": "Cotton Toe Socks Five Finger Socks No Show Crew Athletic Running Socks 4 Pairs,Size 7-11",
+      "rank": 1
+     },
+     {
+      "asin": "B0GG216Q6F",
+      "badge": null,
+      "price": "179",
+      "rating": "5.0",
+      "reviews": "2",
+      "title": "Finger Socks Five-Toe Forefoot Pads – Cushioned Support for High Heels & Calluses | Pain Relief & All-Day Comfort",
+      "rank": 2
+     },
+     {
+      "asin": "B0GZWDN586",
+      "badge": null,
+      "price": "127",
+      "rating": null,
+      "reviews": null,
+      "title": "Women girls fashion summer socks pack of 5 ankle length nylon solid pattern split toe type soft breathable stretch comfortable lightweight daily use socks set M",
+      "rank": 3
+     },
+     {
+      "asin": "B0GLY3KCVD",
+      "badge": null,
+      "price": "299",
+      "rating": "4.2",
+      "reviews": "281",
+      "title": "Comfortable Trainer Socks for Men and Women - Breathable, Soft Cotton Ankle Socks – Ideal for Running, Sports, Gym, and Everyday Wear – Low Cut, No-Show, Durabl",
+      "rank": 4
+     },
+     {
+      "asin": "B09P6KWHLG",
+      "badge": null,
+      "price": "229",
+      "rating": "4.1",
+      "reviews": "3",
+      "title": "Five Toes Sock Toe Women Toe Toppers Five-Finger No Show Nonslip Invisible Soft Half Socks",
+      "rank": 5
+     },
+     {
+      "asin": "B089DQV5FY",
+      "badge": null,
+      "price": "359",
+      "rating": "4.2",
+      "reviews": "2,444",
+      "title": "Women's Solid Plain Cotton Ankle Thumb Multicolored Socks (Pack of 5 Pairs)",
+      "rank": 6
+     },
+     {
+      "asin": "B08LVJ7VH1",
+      "badge": null,
+      "price": "799",
+      "rating": "4.1",
+      "reviews": "429",
+      "title": "Mens Toe Socks Cotton Athletic Running Ankle Five Finger Crew Socks Size 10-13",
+      "rank": 7
+     },
+     {
+      "asin": "B07D9YBXF5",
+      "badge": null,
+      "price": "499",
+      "rating": "4.4",
+      "reviews": "452",
+      "title": "Yoga Socks Women Pilates Socks with Grips, Ladies Non Slip Five Toe Socks for Yoga Pilates Fitness, 4 pairs",
+      "rank": 8
+     },
+     {
+      "asin": "B07JG19SFG",
+      "badge": null,
+      "price": "849",
+      "rating": "4.4",
+      "reviews": "5,529",
+      "title": "Toe Socks Women's Five Finger Socks Made of Cotton, Women's Trainer Socks with Toes for Sports, Running, Leisure, Breathable and Colourful Socks, 4/5 Pairs",
+      "rank": 9
+     },
+     {
+      "asin": "B0DGXQSM5G",
+      "badge": null,
+      "price": "250",
+      "rating": "3.8",
+      "reviews": "71",
+      "title": "Cotton Foot Alignment Socks for Women and Men, 5 Toe Separators for Hammer Toes, Plantar Fasciitis, Bunion Corrector and Foot Pain Relief",
+      "rank": 10
+     }
+    ],
+    "sponsored": [
+     {
+      "asin": "B0D3TR9KYX",
+      "badge": null,
+      "price": "799",
+      "rating": "4.2",
+      "reviews": "247",
+      "title": "Bamboo Toe Socks for Women | Ankle Length | Thumb Socks with Toe Split | 3X Softer Than Cotton | Breathable | Size (UK 3-7)",
+      "slot": 1
+     },
+     {
+      "asin": "B0DYJFY2SW",
+      "badge": null,
+      "price": "359",
+      "rating": "4.1",
+      "reviews": "173",
+      "title": "Premium Soft & Comfortable Socks – Breathable, Durable & Everyday Wearr - Free Size Multicolor (Pack Of - 10)",
+      "slot": 2
+     },
+     {
+      "asin": "B09ZGLW8T3",
+      "badge": null,
+      "price": "407",
+      "rating": "3.9",
+      "reviews": "1,653",
+      "title": "Cotton Socks for Men Full Length, Pack of 5 Pair Socks",
+      "slot": 3
+     },
+     {
+      "asin": "B072N658MK",
+      "badge": null,
+      "price": "399",
+      "rating": "3.8",
+      "reviews": "122",
+      "title": "NOFALL Antislip Full Length Cotton Socks for Men, Ideal for Yoga, Exercise, Home, Suitable for Daily Use, Soft and breathable, Color - Black (Pack of 2)",
+      "slot": 4
+     },
+     {
+      "asin": "B0F4DMV5QQ",
+      "badge": null,
+      "price": "648",
+      "rating": "4.2",
+      "reviews": "48",
+      "title": "3 Pairs Mens 5-Toe Yoga Socks, Moisture-Wicking Cotton, Anti-Skid Towel Sole, Athletic Ankle Socks for Exercise, Running & Yoga",
+      "slot": 5
+     },
+     {
+      "asin": "B0GZKZR528",
+      "badge": null,
+      "price": "711",
+      "rating": "3.8",
+      "reviews": "1,653",
+      "title": "4 Pair Toe Shocks For Men Women, No Show Running Five Finger Socks",
+      "slot": 6
+     },
+     {
+      "asin": "B01MRZQD1G",
+      "badge": null,
+      "price": "899",
+      "rating": "3.0",
+      "reviews": "1",
+      "title": "Antislip Full Length Cotton & Lycra Socks for Men, Ideal for Walking, Jogging, Yoga, Office and Home, Suitable for Daily Use (Pack of 5)",
+      "slot": 7
+     },
+     {
+      "asin": "B07RNZ66B8",
+      "badge": null,
+      "price": "199",
+      "rating": "4.0",
+      "reviews": "2,287",
+      "title": "Men's No-Show Cotton Socks",
+      "slot": 8
+     },
+     {
+      "asin": "B075M5VY8T",
+      "badge": null,
+      "price": "250",
+      "rating": "3.8",
+      "reviews": "9",
+      "title": "Antislip Full Length Cotton & Lycra Socks for Men, Ideal for Yoga, Exercise, Home, Suitable for Daily Use, Soft and Breathable (Pack of 1)",
+      "slot": 9
+     },
+     {
+      "asin": "B0F8BW9J2S",
+      "badge": null,
+      "price": "348",
+      "rating": "4.0",
+      "reviews": "90",
+      "title": "Unisex Two-Toe Grip Socks Anti-Slip Socks for Yoga, Pilates, Home & Elderly Use | Non-Skid Sole for Fall Prevention | Breathable & Stretch Fit",
+      "slot": 10
+     }
+    ],
+    "fridoOrganicRank": null,
+    "fridoSponsoredSlot": null,
+    "fridoBadge": null,
+    "fridoAsin": null,
+    "fridoUrl": null,
+    "resultCount": 60
+   },
+   "flipkart": {
+    "fetchOk": true,
+    "results": [
+     {
+      "pos": 1,
+      "title": "Bahuzo Men Solid Ankle Length, Low Cut",
+      "brand": "Bahuzo",
+      "price": null,
+      "rating": 4,
+      "ratings": 8795,
+      "isFrido": false
+     },
+     {
+      "pos": 2,
+      "title": "Bahuzo Men Solid Ankle Length",
+      "brand": "Bahuzo",
+      "price": null,
+      "rating": 4.1,
+      "ratings": 89,
+      "isFrido": false
+     },
+     {
+      "pos": 3,
+      "title": "Bahuzo Men Striped Ankle Length, Low Cut",
+      "brand": "Bahuzo",
+      "price": null,
+      "rating": 4,
+      "ratings": 658,
+      "isFrido": false
+     },
+     {
+      "pos": 4,
+      "title": "Frido Five Toe Socks for Toe Separator, Blisters Prevention, Running, Gym & Sports Men & Women Mid-Calf/Crew",
+      "brand": "Frido",
+      "price": null,
+      "rating": 4.5,
+      "ratings": 4,
+      "isFrido": true
+     },
+     {
+      "pos": 5,
+      "title": "BIG - CONFIDENCE Men & Women Solid Ankle Length",
+      "brand": "BIG - CONFIDENCE",
+      "price": null,
+      "rating": 4,
+      "ratings": 25,
+      "isFrido": false
+     },
+     {
+      "pos": 6,
+      "title": "RECKZOZ Men Solid Ankle Length",
+      "brand": "RECKZOZ",
+      "price": null,
+      "rating": 4,
+      "ratings": 7868,
+      "isFrido": false
+     },
+     {
+      "pos": 7,
+      "title": "VibeMatch Men Solid Mid-Calf/Crew",
+      "brand": "VibeMatch",
+      "price": null,
+      "rating": 0,
+      "ratings": 0,
+      "isFrido": false
+     },
+     {
+      "pos": 8,
+      "title": "Buyra Women Ankle Length",
+      "brand": "Buyra",
+      "price": null,
+      "rating": 0,
+      "ratings": 0,
+      "isFrido": false
+     },
+     {
+      "pos": 9,
+      "title": "Risezag Boys & Girls Solid Ankle Length",
+      "brand": "Risezag",
+      "price": null,
+      "rating": 0,
+      "ratings": 0,
+      "isFrido": false
+     },
+     {
+      "pos": 10,
+      "title": "AK SHINE Unisex Solid Ankle Length",
+      "brand": "AK SHINE",
+      "price": null,
+      "rating": 0,
+      "ratings": 0,
+      "isFrido": false
+     },
+     {
+      "pos": 11,
+      "title": "Darviloza Unisex Self Design Ankle Length",
+      "brand": "Darviloza",
+      "price": null,
+      "rating": 0,
+      "ratings": 0,
+      "isFrido": false
+     },
+     {
+      "pos": 12,
+      "title": "Brucella Men Solid Ankle Length",
+      "brand": "Brucella",
+      "price": null,
+      "rating": 4.1,
+      "ratings": 23461,
+      "isFrido": false
+     },
+     {
+      "pos": 13,
+      "title": "Brucella Men Self Design Ankle Length",
+      "brand": "Brucella",
+      "price": null,
+      "rating": 4,
+      "ratings": 370,
+      "isFrido": false
+     }
+    ],
+    "fridoRank": 4,
+    "fridoUrl": "https://www.flipkart.com/search?q=Five%20Toe%20Socks%20Solid"
+   },
+   "status": "listed",
+   "capturedAt": "2026-07-08"
+  },
+  {
+   "category": "socks",
+   "categoryName": "Socks",
+   "sku": "Active Socks",
+   "searchKeyword": "Socks",
+   "brandKeyword": "Frido Active Socks",
+   "amazon": {
+    "fetchOk": true,
+    "organic": [
+     {
+      "asin": "B0DGX12XXV",
+      "badge": "Amazon's Choice",
+      "price": "167",
+      "rating": "4.1",
+      "reviews": "6,522",
+      "title": "12 Pairs Sports Cotton Ankle Length Socks for Men, Pack of 12., Assorted",
+      "rank": 1
+     },
+     {
+      "asin": "B0DHSHNZ98",
+      "badge": "Bestseller",
+      "price": "103",
+      "rating": "4.0",
+      "reviews": "1,696",
+      "title": "Sports Crew Socks for Men Premimum Cotton Athletic Socks, Pack of 3, Free Size",
+      "rank": 2
+     },
+     {
+      "asin": "B0BWPGC2PR",
+      "badge": null,
+      "price": "88",
+      "rating": "3.8",
+      "reviews": "5,403",
+      "title": "Ankle Socks for Men & Women, Multicolor, Pack of 5, Free Size",
+      "rank": 3
+     },
+     {
+      "asin": "B0DC14CYKR",
+      "badge": null,
+      "price": "168",
+      "rating": "4.1",
+      "reviews": "4,038",
+      "title": "12 Pairs Solid Cotton Ankle Length Socks for Men Women, Pack of 12., Assorted",
+      "rank": 4
+     },
+     {
+      "asin": "B08R8X6QB2",
+      "badge": null,
+      "price": "299",
+      "rating": "4.0",
+      "reviews": "4,566",
+      "title": "Men Cotton Ankle Length Socks",
+      "rank": 5
+     },
+     {
+      "asin": "B0GS9XQ9JB",
+      "badge": null,
+      "price": "281",
+      "rating": "3.6",
+      "reviews": "46",
+      "title": "Socks for Men & Women | Pack of 7 Pairs | Multicolored Flame Print Cotton Crew Socks | Free Size Breathable & Casual Socks for Sports, Gym & Daily Use",
+      "rank": 6
+     },
+     {
+      "asin": "B0CW2ZGN38",
+      "badge": "Bestseller",
+      "price": "329",
+      "rating": "4.2",
+      "reviews": "1,012",
+      "title": "Unisex 3-Pair Sports Socks Quarter Length",
+      "rank": 7
+     },
+     {
+      "asin": "B07SKP7G6P",
+      "badge": null,
+      "price": "349",
+      "rating": "4.3",
+      "reviews": "2,023",
+      "title": "Men's Cotton Patterned Full Length Socks Pack Of 3",
+      "rank": 8
+     },
+     {
+      "asin": "B07JN95S5D",
+      "badge": null,
+      "price": "369",
+      "rating": "4.2",
+      "reviews": "3,371",
+      "title": "Men Classic Cotton Socks",
+      "rank": 9
+     },
+     {
+      "asin": "B0BZVZYXV5",
+      "badge": null,
+      "price": "199",
+      "rating": "4.1",
+      "reviews": "23,511",
+      "title": "Men and Women Solid Ankle Length Socks Multicolored (SJW-PLAIN-PACKOF12-B)",
+      "rank": 10
+     }
+    ],
+    "sponsored": [
+     {
+      "asin": "B093C3DNXH",
+      "badge": null,
+      "price": "719",
+      "rating": "4.2",
+      "reviews": "7,270",
+      "title": "Bamboo Ankle Socks for Men | Odour-Free and Breathable | Padded Base and Anti-bacterial | 3X Softer Than Regular Socks",
+      "slot": 1
+     },
+     {
+      "asin": "B099KPTW79",
+      "badge": null,
+      "price": "349",
+      "rating": "4.0",
+      "reviews": "1,022",
+      "title": "New Women's Colorful Socks Pure Cotton Shoe-Liner Socks, Free Size,(Pack of 3) Socks for women | Ankle socks for women | Socks for women ankle length |",
+      "slot": 2
+     },
+     {
+      "asin": "B0B77BHWF1",
+      "badge": null,
+      "price": "1,296",
+      "rating": "4.5",
+      "reviews": "428",
+      "title": "SocksXpress Marvel Men’s Crew Socks Gift Box|Pack of 8 Pairs |Calf-Length|100% Officially Licensed Avengers Superhero Combo|Combed Cotton Comfort, Durable Fit|B",
+      "slot": 3
+     },
+     {
+      "asin": "B0D9HYR32S",
+      "badge": null,
+      "price": "849",
+      "rating": "4.2",
+      "reviews": "112",
+      "title": "Pure Cotton Premium 5 Pairs Regular Socks Soft Fabric Pattern Contrast Colors High Ankle Full-Length Men & Women Stretchable Free Size Anti Odur Sweat Free Anti",
+      "slot": 4
+     },
+     {
+      "asin": "B0C3DH4XPJ",
+      "badge": null,
+      "price": "117",
+      "rating": "4.0",
+      "reviews": "4,667",
+      "title": "Unisex Cotton Men And Women Solid Ankle Length Socks (Pack Of 5) Sjw-2013, Assorted",
+      "slot": 5
+     },
+     {
+      "asin": "B0H34LMC9D",
+      "badge": null,
+      "price": "240",
+      "rating": null,
+      "reviews": null,
+      "title": "Unisex Adult 3 Pairs Compression Socks for Women and Men, Black White Gray Navy, Breathable Cotton Blend Cushioned Athletic Running Socks, Moisture Wicking Low ",
+      "slot": 6
+     },
+     {
+      "asin": "B0FDX579RP",
+      "badge": null,
+      "price": "367",
+      "rating": "3.9",
+      "reviews": "72",
+      "title": "Pure Premium Cotton 2 Pairs Crew Length Socks, Casual Athletic Wear For Men and Women - Stretchable Free Size Anti Odur Sweat Free Anti Slip",
+      "slot": 7
+     },
+     {
+      "asin": "B0F9XYJTKB",
+      "badge": null,
+      "price": "749",
+      "rating": "5.0",
+      "reviews": "2",
+      "title": "Pure Premium Cotton 5 Pairs, Multicolour Athletic Socks with Fire Pattern Crew Socks, For Men and Women - Stretchable Free Size Anti Odur Sweat Free Anti Slip",
+      "slot": 8
+     },
+     {
+      "asin": "B07JJZ52JZ",
+      "badge": null,
+      "price": "199",
+      "rating": "3.9",
+      "reviews": "4,237",
+      "title": "Unisex Loafer Socks No-Show Cotton Socks Multicolored Pack of 5",
+      "slot": 9
+     },
+     {
+      "asin": "B0H6GMTQJQ",
+      "badge": null,
+      "price": "199",
+      "rating": null,
+      "reviews": null,
+      "title": "Crew Length Socks, Black, Bamboo Cotton Blend, Moisture-Wicking, for Sports, Gym, Running & Everyday Use",
+      "slot": 10
+     }
+    ],
+    "fridoOrganicRank": null,
+    "fridoSponsoredSlot": null,
+    "fridoBadge": null,
+    "fridoAsin": null,
+    "fridoUrl": null,
+    "resultCount": 60
+   },
+   "flipkart": {
+    "fetchOk": true,
+    "results": [
+     {
+      "pos": 1,
+      "title": "PIIMA Unisex Solid Ankle Length",
+      "brand": "PIIMA",
+      "price": null,
+      "rating": 3.7,
+      "ratings": 13,
+      "isFrido": false
+     },
+     {
+      "pos": 2,
+      "title": "PIIMA Unisex Ankle Length",
+      "brand": "PIIMA",
+      "price": null,
+      "rating": 4,
+      "ratings": 6,
+      "isFrido": false
+     },
+     {
+      "pos": 3,
+      "title": "Bahuzo Men Solid Ankle Length, Low Cut",
+      "brand": "Bahuzo",
+      "price": null,
+      "rating": 4,
+      "ratings": 8795,
+      "isFrido": false
+     },
+     {
+      "pos": 4,
+      "title": "MJE Men & Women Striped, Color Block, Solid Ankle Length, Peds/Footie/No-Show",
+      "brand": "MJE",
+      "price": null,
+      "rating": 3.8,
+      "ratings": 328,
+      "isFrido": false
+     },
+     {
+      "pos": 5,
+      "title": "Bahuzo Unisex Self Design, Solid Ankle Length",
+      "brand": "Bahuzo",
+      "price": null,
+      "rating": 3.8,
+      "ratings": 817,
+      "isFrido": false
+     },
+     {
+      "pos": 6,
+      "title": "Swagr Men Solid Ankle Length",
+      "brand": "Swagr",
+      "price": null,
+      "rating": 4,
+      "ratings": 113621,
+      "isFrido": false
+     },
+     {
+      "pos": 7,
+      "title": "RAIMOHUB Men & Women Ankle Length",
+      "brand": "RAIMOHUB",
+      "price": null,
+      "rating": 0,
+      "ratings": 0,
+      "isFrido": false
+     },
+     {
+      "pos": 8,
+      "title": "genuinesock Men & Women Color Block Mid-Calf/Crew",
+      "brand": "genuinesock",
+      "price": null,
+      "rating": 0,
+      "ratings": 0,
+      "isFrido": false
+     },
+     {
+      "pos": 9,
+      "title": "premiumsock Men & Women Graphic Print Mid-Calf/Crew",
+      "brand": "premiumsock",
+      "price": null,
+      "rating": 0,
+      "ratings": 0,
+      "isFrido": false
+     },
+     {
+      "pos": 10,
+      "title": "RAIMOHUB Men & Women Solid Ankle Length",
+      "brand": "RAIMOHUB",
+      "price": null,
+      "rating": 0,
+      "ratings": 0,
+      "isFrido": false
+     },
+     {
+      "pos": 11,
+      "title": "Bahuzo Men Solid Ankle Length",
+      "brand": "Bahuzo",
+      "price": null,
+      "rating": 4.1,
+      "ratings": 89,
+      "isFrido": false
+     },
+     {
+      "pos": 12,
+      "title": "BIG - CONFIDENCE Unisex Printed Calf Length",
+      "brand": "BIG - CONFIDENCE",
+      "price": null,
+      "rating": 4.1,
+      "ratings": 115,
+      "isFrido": false
+     },
+     {
+      "pos": 13,
+      "title": "HICODE Men Solid Ankle Length",
+      "brand": "HICODE",
+      "price": null,
+      "rating": 4,
+      "ratings": 23382,
+      "isFrido": false
+     },
+     {
+      "pos": 14,
+      "title": "HICODE Men Ankle Length",
+      "brand": "HICODE",
+      "price": null,
+      "rating": 3.9,
+      "ratings": 59861,
+      "isFrido": false
+     }
+    ],
+    "fridoRank": null,
+    "fridoUrl": "https://www.flipkart.com/search?q=Socks"
+   },
+   "status": "needs-verification",
+   "capturedAt": "2026-07-08"
+  },
+  {
+   "category": "socks",
+   "categoryName": "Socks",
+   "sku": "Five Toe Socks",
+   "searchKeyword": "Five Toe Socks",
+   "brandKeyword": "Frido Five Toe Socks",
+   "amazon": {
+    "fetchOk": true,
+    "organic": [
+     {
+      "asin": "B0DLVYL4RQ",
+      "badge": null,
+      "price": "499",
+      "rating": "4.4",
+      "reviews": "5,370",
+      "title": "Cotton Toe Socks Five Finger Socks No Show Crew Athletic Running Socks 4 Pairs,Size 7-11",
+      "rank": 1
+     },
+     {
+      "asin": "B0F4DMV5QQ",
+      "badge": "Amazon's Choice",
+      "price": "648",
+      "rating": "4.2",
+      "reviews": "48",
+      "title": "3 Pairs Mens 5-Toe Yoga Socks, Moisture-Wicking Cotton, Anti-Skid Towel Sole, Athletic Ankle Socks for Exercise, Running & Yoga",
+      "rank": 2
+     },
+     {
+      "asin": "B08LVJ6BTK",
+      "badge": null,
+      "price": "811",
+      "rating": "4.3",
+      "reviews": "1,886",
+      "title": "Men's Toe Socks Crew Running Five Finger Socks Cotton",
+      "rank": 3
+     },
+     {
+      "asin": "B0FXFB8N5B",
+      "badge": null,
+      "price": "669",
+      "rating": "4.2",
+      "reviews": "48",
+      "title": "3 Pairs Mens 5-Toe Yoga Socks, Moisture-Wicking Cotton, Anti-Skid Towel Sole, Athletic Ankle Socks for Exercise, Running & Yoga",
+      "rank": 4
+     },
+     {
+      "asin": "B0GYPTK3D9",
+      "badge": null,
+      "price": "249",
+      "rating": "4.5",
+      "reviews": "45",
+      "title": "Foot Alignment Socks women 5 Finger Toe Separator for Men & Women (Free Size | Black) Plantar Fasciitis Leg Foot Pain Relief Bunion Corrector Hallux Valgus, Ort",
+      "rank": 5
+     },
+     {
+      "asin": "B07C3LY6DP",
+      "badge": "Bestseller",
+      "price": "675",
+      "rating": "4.4",
+      "reviews": "3,288",
+      "title": "Toe Socks No Show Cotton Low Cut Five Finger Socks Athletic for Women",
+      "rank": 6
+     },
+     {
+      "asin": "B08LVJ7VH1",
+      "badge": null,
+      "price": "799",
+      "rating": "4.1",
+      "reviews": "429",
+      "title": "Mens Toe Socks Cotton Athletic Running Ankle Five Finger Crew Socks Size 10-13",
+      "rank": 7
+     },
+     {
+      "asin": "B0GG216Q6F",
+      "badge": null,
+      "price": "179",
+      "rating": "5.0",
+      "reviews": "2",
+      "title": "Finger Socks Five-Toe Forefoot Pads – Cushioned Support for High Heels & Calluses | Pain Relief & All-Day Comfort",
+      "rank": 8
+     },
+     {
+      "asin": "B0DCG8HS2R",
+      "badge": null,
+      "price": "274",
+      "rating": "3.6",
+      "reviews": "138",
+      "title": "Yoga Socks for Women, Breathable Cotton 5-Toe Socks for Women, Anti Skid Women Socks, Elastic Strap Design for Pilates, Dance, Barre, Home Workout & Barefoot Fi",
+      "rank": 9
+     },
+     {
+      "asin": "B07C5LC7BY",
+      "badge": null,
+      "price": "889",
+      "rating": "4.4",
+      "reviews": "1,438",
+      "title": "Womens Toe Socks Animal Socks Cotton Five Finger Socks Colorful Funny Casual Crew Socks for Ladies",
+      "rank": 10
+     }
+    ],
+    "sponsored": [
+     {
+      "asin": "B0BRQFRBWH",
+      "badge": null,
+      "price": "719",
+      "rating": "4.1",
+      "reviews": "3,146",
+      "title": "Bamboo Crew Socks for Men | Formal Socks, Full Length | Odour Free & Cushioned Base | 3X Softer than Regular Socks",
+      "slot": 1
+     },
+     {
+      "asin": "B0BRQF5RHV",
+      "badge": null,
+      "price": "719",
+      "rating": "4.3",
+      "reviews": "327",
+      "title": "Bamboo Crew Socks for Men | Formal Socks, Full Length | Odour Free & Cushioned Base | 3X Softer than Regular Socks",
+      "slot": 2
+     },
+     {
+      "asin": "B0GYX7M7CN",
+      "badge": null,
+      "price": "299",
+      "rating": "3.5",
+      "reviews": "2",
+      "title": "Foot Alignment Socks|Cotton Finger Toe Separator|Easing Bunion Hammertoe And Arthritis Pain Relief|Improving Posture & Increasing Flexibility|Free Size For Offi",
+      "slot": 3
+     },
+     {
+      "asin": "B08NT6M2Z5",
+      "badge": null,
+      "price": "369",
+      "rating": "4.2",
+      "reviews": "7,042",
+      "title": "Hi-Tech Performance Sports Socks for Men (Badminton, Running, Gym & Indoor Training), Pack of 3",
+      "slot": 4
+     },
+     {
+      "asin": "B07Y9WQF3N",
+      "badge": null,
+      "price": "449",
+      "rating": "4.4",
+      "reviews": "1,868",
+      "title": "Mens Toe Socks Cotton Athletic Running Ankle Five Finger Crew Socks",
+      "slot": 5
+     },
+     {
+      "asin": "B0F4KPWKQ5",
+      "badge": null,
+      "price": "269",
+      "rating": "4.2",
+      "reviews": "64",
+      "title": "cotton Foot Alignment Socks 5 Finger Toe Separator for Men & Women, Plantar Fasciitis Leg Foot Pain Relief Bunion Corrector, Hallux Valgus, Orthopaedic Socks fo",
+      "slot": 6
+     },
+     {
+      "asin": "B0D8XQMWRJ",
+      "badge": null,
+      "price": "1,490",
+      "rating": "4.3",
+      "reviews": "6",
+      "title": "Compression Stockings for Pregnant women(Below knee) | Medical compression socks 20-30 mmhg with Firm Support | Pain Relief, Shin Splints & Swelling | Varicose ",
+      "slot": 7
+     },
+     {
+      "asin": "B072N658MK",
+      "badge": null,
+      "price": "399",
+      "rating": "3.8",
+      "reviews": "122",
+      "title": "NOFALL Antislip Full Length Cotton Socks for Men, Ideal for Yoga, Exercise, Home, Suitable for Daily Use, Soft and breathable, Color - Black (Pack of 2)",
+      "slot": 8
+     },
+     {
+      "asin": "B01MRZQD1G",
+      "badge": null,
+      "price": "899",
+      "rating": "3.0",
+      "reviews": "1",
+      "title": "Antislip Full Length Cotton & Lycra Socks for Men, Ideal for Walking, Jogging, Yoga, Office and Home, Suitable for Daily Use (Pack of 5)",
+      "slot": 9
+     },
+     {
+      "asin": "B075M5VY8T",
+      "badge": null,
+      "price": "250",
+      "rating": "3.8",
+      "reviews": "9",
+      "title": "Antislip Full Length Cotton & Lycra Socks for Men, Ideal for Yoga, Exercise, Home, Suitable for Daily Use, Soft and Breathable (Pack of 1)",
+      "slot": 10
+     }
+    ],
+    "fridoOrganicRank": null,
+    "fridoSponsoredSlot": null,
+    "fridoBadge": null,
+    "fridoAsin": null,
+    "fridoUrl": null,
+    "resultCount": 60
+   },
+   "flipkart": {
+    "fetchOk": true,
+    "results": [
+     {
+      "pos": 1,
+      "title": "KATAPOL Unisex Solid Ankle Length",
+      "brand": "KATAPOL",
+      "price": null,
+      "rating": 4,
+      "ratings": 309,
+      "isFrido": false
+     },
+     {
+      "pos": 2,
+      "title": "cartloom Men & Women Ankle Length",
+      "brand": "cartloom",
+      "price": null,
+      "rating": 0,
+      "ratings": 0,
+      "isFrido": false
+     },
+     {
+      "pos": 3,
+      "title": "ZH LOCKUP Women Self Design Ankle Length",
+      "brand": "ZH LOCKUP",
+      "price": null,
+      "rating": 0,
+      "ratings": 0,
+      "isFrido": false
+     },
+     {
+      "pos": 4,
+      "title": "BLUTE Men & Women Printed Calf Length",
+      "brand": "BLUTE",
+      "price": null,
+      "rating": 0,
+      "ratings": 0,
+      "isFrido": false
+     },
+     {
+      "pos": 5,
+      "title": "RAIMOHUB Men Solid Ankle Length",
+      "brand": "RAIMOHUB",
+      "price": null,
+      "rating": 0,
+      "ratings": 0,
+      "isFrido": false
+     },
+     {
+      "pos": 6,
+      "title": "KATAPOL Men & Women Solid Ankle Length",
+      "brand": "KATAPOL",
+      "price": null,
+      "rating": 3.9,
+      "ratings": 206,
+      "isFrido": false
+     },
+     {
+      "pos": 7,
+      "title": "Dev Men & Women Solid Ankle Length",
+      "brand": "Dev",
+      "price": null,
+      "rating": 3.9,
+      "ratings": 61,
+      "isFrido": false
+     },
+     {
+      "pos": 8,
+      "title": "QOZWEID Unisex Self Design, Solid Ankle Length, Calf Length",
+      "brand": "QOZWEID",
+      "price": null,
+      "rating": 4.5,
+      "ratings": 4,
+      "isFrido": false
+     },
+     {
+      "pos": 9,
+      "title": "Divyanshi Men & Women Self Design Calf Length",
+      "brand": "Divyanshi",
+      "price": null,
+      "rating": 0,
+      "ratings": 0,
+      "isFrido": false
+     },
+     {
+      "pos": 10,
+      "title": "leacom Women Self Design Ankle Length",
+      "brand": "leacom",
+      "price": null,
+      "rating": 3.8,
+      "ratings": 566,
+      "isFrido": false
+     }
+    ],
+    "fridoRank": null,
+    "fridoUrl": "https://www.flipkart.com/search?q=Five%20Toe%20Socks"
+   },
+   "status": "needs-verification",
+   "capturedAt": "2026-07-08"
+  },
+  {
+   "category": "socks",
+   "categoryName": "Socks",
+   "sku": "Kids Socks",
+   "searchKeyword": "Kids Socks",
+   "brandKeyword": "Frido Kids Socks",
+   "amazon": {
+    "fetchOk": true,
+    "organic": [
+     {
+      "asin": "B0CKXBDBQN",
+      "badge": null,
+      "price": "198",
+      "rating": "4.1",
+      "reviews": "125",
+      "title": "SYGA 5 Pairs Baby Girl & Baby Boy Socks, Toddlers Infant Cotton Stretch Crew Socks with Theme Design, Suitable for 2-5 Years baby",
+      "rank": 1
+     },
+     {
+      "asin": "B0DXCCKTBX",
+      "badge": "Amazon's Choice",
+      "price": "299",
+      "rating": "4.4",
+      "reviews": "19",
+      "title": "Girls Socks",
+      "rank": 2
+     },
+     {
+      "asin": "B09X5MVHS2",
+      "badge": null,
+      "price": "99",
+      "rating": "4.3",
+      "reviews": "1,980",
+      "title": "7801 Unisex Kid's Compact Cotton Stretch Solid Ankle Length Socks With Stay Fresh Treatment",
+      "rank": 3
+     },
+     {
+      "asin": "B0DZ76V9SM",
+      "badge": null,
+      "price": "279",
+      "rating": "4.3",
+      "reviews": "147",
+      "title": "Kids Boys Socks - Printed Cotton Kids Socks | Soft & Comfortable Sock for Boys | Durable Boy Sock for Everyday Wear- Pack of 5",
+      "rank": 4
+     },
+     {
+      "asin": "B0DWFZ2LPW",
+      "badge": null,
+      "price": "334",
+      "rating": "4.1",
+      "reviews": "42",
+      "title": "Boys Casual Cotton Blend Socks",
+      "rank": 5
+     },
+     {
+      "asin": "B0FP8S7Q69",
+      "badge": null,
+      "price": "249",
+      "rating": "3.3",
+      "reviews": "16",
+      "title": "5 Pairs Kids Cotton Ankle Socks, Cute Cartoon Design, Colorful Soft Breathable Socks for Boys & Girls, Suitable for 6-8 Years",
+      "rank": 6
+     },
+     {
+      "asin": "B0BJCBKRH5",
+      "badge": "Bestseller",
+      "price": "299",
+      "rating": "4.1",
+      "reviews": "2,339",
+      "title": "Boys & Girls Striped Organic Cotton Calf Length School Socks for Kids, Anti Odour Soft and Breathable Uniform Socks (Pack of 4 Pairs)",
+      "rank": 7
+     },
+     {
+      "asin": "B0G1GRM7CS",
+      "badge": null,
+      "price": "299",
+      "rating": "4.6",
+      "reviews": "14",
+      "title": "Cute Animal Face Non-Slip Grip Socks for Toddler Kids Boys Girls Warm Cozy Soft Cotton Winter Indoor Socks with Rubber Pads Non Skid Aged 1-3 Years",
+      "rank": 8
+     },
+     {
+      "asin": "B092LV4JNN",
+      "badge": "Bestseller",
+      "price": "474",
+      "rating": "4.2",
+      "reviews": "3,219",
+      "title": "Organic cotton Kids Socks - Pack of 6 Pairs - Star Stripe",
+      "rank": 9
+     },
+     {
+      "asin": "B0DSZ33J7C",
+      "badge": null,
+      "price": "311",
+      "rating": "4.4",
+      "reviews": "136",
+      "title": "Unisex Kids U.S. POLO ASSN. Kids High-Ankle Length KS002 Cotton Stretch Socks - Pack Of 3",
+      "rank": 10
+     }
+    ],
+    "sponsored": [
+     {
+      "asin": "B0BQ35N86W",
+      "badge": null,
+      "price": "349",
+      "rating": "4.3",
+      "reviews": "961",
+      "title": "Organic Cotton Anti-Skid Socks Non Slip Kids Toddler Socks with Grip | (Pack of 4,6 &12 Pair) (Color & Print May Vary) (0 to 5 years size)",
+      "slot": 1
+     },
+     {
+      "asin": "B09V15W92R",
+      "badge": null,
+      "price": "502",
+      "rating": "4.1",
+      "reviews": "248",
+      "title": "Superman Batman Superhero Character Full Length Socks for Kids- Pack Of 4",
+      "slot": 2
+     },
+     {
+      "asin": "B082V975SK",
+      "badge": null,
+      "price": "300",
+      "rating": "4.3",
+      "reviews": "274",
+      "title": "Baby Boy's & Baby Girl's Cotton Socks",
+      "slot": 3
+     },
+     {
+      "asin": "B0BJC68NRV",
+      "badge": null,
+      "price": "599",
+      "rating": "4.3",
+      "reviews": "1,097",
+      "title": "Organic Cotton Anti-Skid Socks | Pack of 6",
+      "slot": 4
+     },
+     {
+      "asin": "B0CQXDDYDP",
+      "badge": null,
+      "price": "239",
+      "rating": "4.1",
+      "reviews": "278",
+      "title": "5 Pairs Socks Baby Autumn And Winter Cotton Socks, Baby Mid-Calf Socks 2-5 Year",
+      "slot": 5
+     },
+     {
+      "asin": "B0FPXB5ZHS",
+      "badge": null,
+      "price": "249",
+      "rating": "4.1",
+      "reviews": "41",
+      "title": "Baby Boys & Girls Cotton Socks, 5 Pairs Soft & Breathable Mid-Calf Socks for 1-4 Years",
+      "slot": 6
+     },
+     {
+      "asin": "B0F7HRPJMH",
+      "badge": null,
+      "price": "299",
+      "rating": "4.6",
+      "reviews": "24",
+      "title": "Kids Boys Socks - Printed Cotton Kids Socks | Soft and Comfortable, Sock for Boys | Stylish & Durable Boy Sock for Everyday - Pack of 5 Pairs",
+      "slot": 7
+     },
+     {
+      "asin": "B0DZ76F78Q",
+      "badge": null,
+      "price": "280",
+      "rating": "4.3",
+      "reviews": "147",
+      "title": "Kids Boys Socks - Printed Cotton Kids Socks | Soft & Comfortable Sock for Boys | Durable Boy Sock for Everyday Wear- Pack of 5",
+      "slot": 8
+     },
+     {
+      "asin": "B0FT14KSNJ",
+      "badge": null,
+      "price": "599",
+      "rating": "4.4",
+      "reviews": "127",
+      "title": "Kids Cotton Socks | Assorted Colours, Breathable & Skin-Friendly, Anti-Skid Soft Socks for Baby, Toddler & Children (0–5 Years, Boys & Girls)",
+      "slot": 9
+     },
+     {
+      "asin": "B0GT18L8NN",
+      "badge": null,
+      "price": "499",
+      "rating": "3.0",
+      "reviews": "1",
+      "title": "Kids Cotton Socks | Multiple Colours, Breathable & Skin-Friendly, Soft Socks for Baby, Toddler & Children, Boys & Girls",
+      "slot": 10
+     }
+    ],
+    "fridoOrganicRank": null,
+    "fridoSponsoredSlot": null,
+    "fridoBadge": null,
+    "fridoAsin": null,
+    "fridoUrl": null,
+    "resultCount": 60
+   },
+   "flipkart": {
+    "fetchOk": true,
+    "results": [
+     {
+      "pos": 1,
+      "title": "NOMITH Baby Girls Knee High",
+      "brand": "NOMITH",
+      "price": null,
+      "rating": 4.4,
+      "ratings": 263,
+      "isFrido": false
+     },
+     {
+      "pos": 2,
+      "title": "NOMITH Baby Girls Ankle Length",
+      "brand": "NOMITH",
+      "price": null,
+      "rating": 4.7,
+      "ratings": 13,
+      "isFrido": false
+     },
+     {
+      "pos": 3,
+      "title": "Nihvi Boys Printed Ankle Length",
+      "brand": "Nihvi",
+      "price": null,
+      "rating": 4.4,
+      "ratings": 10,
+      "isFrido": false
+     },
+     {
+      "pos": 4,
+      "title": "PRIMESOX MOVE ON Boys Printed Mid-Calf/Crew",
+      "brand": "PRIMESOX MOVE ON",
+      "price": null,
+      "rating": 4.3,
+      "ratings": 2408,
+      "isFrido": false
+     },
+     {
+      "pos": 5,
+      "title": "Uvlog Boys & Girls Solid Mid-Calf/Crew",
+      "brand": "Uvlog",
+      "price": null,
+      "rating": 3.8,
+      "ratings": 3641,
+      "isFrido": false
+     },
+     {
+      "pos": 6,
+      "title": "FATON Boys & Girls Solid Calf Length",
+      "brand": "FATON",
+      "price": null,
+      "rating": 4.1,
+      "ratings": 6201,
+      "isFrido": false
+     },
+     {
+      "pos": 7,
+      "title": "Nihvi Girls Printed Ankle Length",
+      "brand": "Nihvi",
+      "price": null,
+      "rating": 4,
+      "ratings": 11,
+      "isFrido": false
+     },
+     {
+      "pos": 8,
+      "title": "cortica Boys & Girls Printed Ankle Length",
+      "brand": "cortica",
+      "price": null,
+      "rating": 0,
+      "ratings": 0,
+      "isFrido": false
+     },
+     {
+      "pos": 9,
+      "title": "Buyra Baby Girls Solid Ankle Length",
+      "brand": "Buyra",
+      "price": null,
+      "rating": 4.3,
+      "ratings": 11,
+      "isFrido": false
+     },
+     {
+      "pos": 10,
+      "title": "HIGHSOCKS Boys & Girls Printed Mid-Calf/Crew",
+      "brand": "HIGHSOCKS",
+      "price": null,
+      "rating": 0,
+      "ratings": 0,
+      "isFrido": false
+     },
+     {
+      "pos": 11,
+      "title": "VastraMilap Boys & Girls Animal Print Ankle Length",
+      "brand": "VastraMilap",
+      "price": null,
+      "rating": 4.2,
+      "ratings": 429,
+      "isFrido": false
+     },
+     {
+      "pos": 12,
+      "title": "Babyholic Baby Girls Solid Knee High Socks Baby Girls Solid Knee High",
+      "brand": "Babyholic",
+      "price": null,
+      "rating": 5,
+      "ratings": 3,
+      "isFrido": false
+     },
+     {
+      "pos": 13,
+      "title": "Nihvi Boys & Girls Printed Ankle Length",
+      "brand": "Nihvi",
+      "price": null,
+      "rating": 4.5,
+      "ratings": 55,
+      "isFrido": false
+     },
+     {
+      "pos": 14,
+      "title": "Nihvi Baby Boys & Baby Girls Printed Ankle Length",
+      "brand": "Nihvi",
+      "price": null,
+      "rating": 3.9,
+      "ratings": 45,
+      "isFrido": false
+     }
+    ],
+    "fridoRank": null,
+    "fridoUrl": "https://www.flipkart.com/search?q=Kids%20Socks"
+   },
+   "status": "needs-verification",
+   "capturedAt": "2026-07-08"
+  },
+  {
+   "category": "socks",
+   "categoryName": "Socks",
+   "sku": "Winter Socks",
+   "searchKeyword": "Winter Socks",
+   "brandKeyword": "Frido Winter Socks",
+   "amazon": {
+    "fetchOk": true,
+    "organic": [
+     {
+      "asin": "B0G7L9WMVQ",
+      "badge": null,
+      "price": "199",
+      "rating": "3.9",
+      "reviews": "226",
+      "title": "Winter Thermal Woollen Socks for Men and Women, Warm Cozy Unisex Socks (pack of 3)",
+      "rank": 1
+     },
+     {
+      "asin": "B07RSL1R5N",
+      "badge": "Amazon's Choice",
+      "price": "269",
+      "rating": "4.1",
+      "reviews": "7,379",
+      "title": "Winter Socks for Men Thick Terry Towel Cushion Socks, Free Size, Pack of 4",
+      "rank": 2
+     },
+     {
+      "asin": "B08R8X6CFP",
+      "badge": null,
+      "price": "479",
+      "rating": "4.2",
+      "reviews": "2,826",
+      "title": "Men Cotton Calf Length Socks",
+      "rank": 3
+     },
+     {
+      "asin": "B07YGR43WZ",
+      "badge": null,
+      "price": "399",
+      "rating": "4.3",
+      "reviews": "7,835",
+      "title": "Men's Woolen Calf Length Solid Thick Terry Winter Wear Socks (Multicolor, Free Size) - Combo Pack of 5 Pairs",
+      "rank": 4
+     },
+     {
+      "asin": "B0B9WQ6L1R",
+      "badge": "Bestseller",
+      "price": "199",
+      "rating": "4.3",
+      "reviews": "2,596",
+      "title": "7491 Women's Compact Cotton Stretch Solid Low Show Socks with Stay Fresh Treatment (Pack of 2)",
+      "rank": 5
+     },
+     {
+      "asin": "B0BJ9PFBK7",
+      "badge": null,
+      "price": "249",
+      "rating": "4.3",
+      "reviews": "2,140",
+      "title": "Men's Thick & Warm Woolen Calf Length Towel Multicolored Socks, Pack of 4, Winter Wear Terry Cushioned Thermal Socks For Men",
+      "rank": 6
+     },
+     {
+      "asin": "B09X5RLGY5",
+      "badge": null,
+      "price": "432",
+      "rating": "4.1",
+      "reviews": "4,287",
+      "title": "7036 Men's Compact Cotton Terry Ankle Length Socks With Stay Fresh Treatment (Pack of 3)",
+      "rank": 7
+     },
+     {
+      "asin": "B0CD5L21CJ",
+      "badge": null,
+      "price": "379",
+      "rating": "4.4",
+      "reviews": "1,394",
+      "title": "Thick Heavy Duty Thermal Socks For Men Cushioned Towel Warm Winter Woolen Socks, Calf Length Hi-Performance Soft Moisture Wicking Socks, Pack of 4 Pairs, Free S",
+      "rank": 8
+     },
+     {
+      "asin": "B0FHW4FNNJ",
+      "badge": null,
+      "price": "189",
+      "rating": "3.6",
+      "reviews": "116",
+      "title": "Alpine Fur-Lined Thermal Socks, Full-Calf Length, Sherpa Fleece Interior, Available in Black, Olive, Beige",
+      "rank": 9
+     },
+     {
+      "asin": "B0B84VL2YG",
+      "badge": null,
+      "price": "426",
+      "rating": "4.3",
+      "reviews": "6,526",
+      "title": "Mens Heavy Thick Wool Socks - Soft Warm Comfort Winter Crew Socks (Pack of 3/5),Multicolor,One Size 7-12",
+      "rank": 10
+     }
+    ],
+    "sponsored": [
+     {
+      "asin": "B0DMFMQ8SV",
+      "badge": null,
+      "price": "177",
+      "rating": "4.4",
+      "reviews": "248",
+      "title": "Thermal Woolen Winter Calf Length Socks for Men Thick Terry Towel Cushion Socks, Free Size, Pack of 5, Multicolour",
+      "slot": 1
+     },
+     {
+      "asin": "B07YGR43WZ",
+      "badge": null,
+      "price": "399",
+      "rating": "4.3",
+      "reviews": "7,835",
+      "title": "Men's Woolen Calf Length Solid Thick Terry Winter Wear Socks (Multicolor, Free Size) - Combo Pack of 5 Pairs",
+      "slot": 2
+     },
+     {
+      "asin": "B07RSL1R5N",
+      "badge": "Amazon's Choice",
+      "price": "269",
+      "rating": "4.1",
+      "reviews": "7,379",
+      "title": "Winter Socks for Men Thick Terry Towel Cushion Socks, Free Size, Pack of 4",
+      "slot": 3
+     },
+     {
+      "asin": "B0BJ9PFBK7",
+      "badge": null,
+      "price": "249",
+      "rating": "4.3",
+      "reviews": "2,140",
+      "title": "Men's Thick & Warm Woolen Calf Length Towel Multicolored Socks, Pack of 4, Winter Wear Terry Cushioned Thermal Socks For Men",
+      "slot": 4
+     },
+     {
+      "asin": "B0B4ZQJ8R3",
+      "badge": null,
+      "price": "477",
+      "rating": "4.3",
+      "reviews": "2,028",
+      "title": "Men's Crew Cotton Modern Socks",
+      "slot": 5
+     },
+     {
+      "asin": "B0CNVKJ4D9",
+      "badge": null,
+      "price": "395",
+      "rating": "4.4",
+      "reviews": "1,056",
+      "title": "Winter Thermal Regular Socks for Men | Cotton Rich | Extra Cushioning | Warm, Soft & Cozy Feel | Cold Weather Daily Wear | Pack of 3",
+      "slot": 6
+     },
+     {
+      "asin": "B0BYW9F7BW",
+      "badge": null,
+      "price": "299",
+      "rating": "4.5",
+      "reviews": "5",
+      "title": "R Kant Bamboo Socks for Men | Ankle Length | Odour-Free & Breathable | Padded Base & Anti-bacterial | Softer than Cotton Socks Pack of 2 Pairs",
+      "slot": 7
+     },
+     {
+      "asin": "B08L5LBPBX",
+      "badge": null,
+      "price": "249",
+      "rating": "4.1",
+      "reviews": "2,447",
+      "title": "Winter Thermal Toe Dark Colour Wool Heavy Duty Warm Ankle Length Anklet Socks Women/Girls Winter Socks (Set of 4 Pair)",
+      "slot": 8
+     },
+     {
+      "asin": "B084L9HS92",
+      "badge": null,
+      "price": "399",
+      "rating": "4.0",
+      "reviews": "2,287",
+      "title": "Men's No-Show Cotton Socks",
+      "slot": 9
+     },
+     {
+      "asin": "B084KWFCSS",
+      "badge": null,
+      "price": "359",
+      "rating": "3.6",
+      "reviews": "32",
+      "title": "Men's Cotton Full Length Formal Socks - Pack of 4 Pair",
+      "slot": 10
+     }
+    ],
+    "fridoOrganicRank": null,
+    "fridoSponsoredSlot": null,
+    "fridoBadge": null,
+    "fridoAsin": null,
+    "fridoUrl": null,
+    "resultCount": 60
+   },
+   "flipkart": {
+    "fetchOk": false,
+    "results": [],
+    "fridoRank": null
+   },
+   "status": "needs-verification",
+   "capturedAt": "2026-07-08"
   }
  ]
 }

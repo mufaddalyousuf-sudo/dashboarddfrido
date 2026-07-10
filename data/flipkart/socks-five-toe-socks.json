@@ -1,51 +1,103 @@
 {
  "category": "socks-five-toe-socks",
  "marketplace": "flipkart",
- "keyword": "Frido Five Toe Socks",
+ "keyword": "Five Toe Socks",
+ "brandKeyword": "Frido Five Toe Socks",
  "capturedAt": "2026-07-08",
- "method": "Live scrape flipkart.com mobile search page 1 (__INITIAL_STATE__), query = exact SKU name",
+ "method": "Live scrape flipkart.com mobile search page 1 (__INITIAL_STATE__), query = generic product keyword",
  "confidence": "Medium-High (live; sponsored flags not exposed on mobile)",
- "fridoRank": 2,
- "fridoPresent": true,
+ "fridoRank": null,
+ "fridoPresent": false,
+ "fridoUrl": "https://www.flipkart.com/search?q=Five%20Toe%20Socks",
  "results": [
   {
    "pos": 1,
-   "title": "Brucella Men Solid Ankle Length",
+   "title": "KATAPOL Unisex Solid Ankle Length",
+   "brand": "KATAPOL",
    "price": null,
-   "rating": 4.1,
-   "ratings": 23439,
+   "rating": 4,
+   "ratings": 309,
    "isFrido": false
   },
   {
    "pos": 2,
-   "title": "Frido Anti Sweat Active Socks for Badminton, Walking, Running, Gym & Sports, Odor-Free Men & Women Mid-Calf/Crew",
+   "title": "cartloom Men & Women Ankle Length",
+   "brand": "cartloom",
    "price": null,
-   "rating": 4.1,
-   "ratings": 98,
-   "isFrido": true
+   "rating": 0,
+   "ratings": 0,
+   "isFrido": false
   },
   {
    "pos": 3,
-   "title": "Frido Five Toe Socks for Toe Separator, Blisters Prevention, Running, Gym & Sports Men & Women Mid-Calf/Crew",
+   "title": "ZH LOCKUP Women Self Design Ankle Length",
+   "brand": "ZH LOCKUP",
    "price": null,
-   "rating": 4.3,
-   "ratings": 3,
-   "isFrido": true
+   "rating": 0,
+   "ratings": 0,
+   "isFrido": false
   },
   {
    "pos": 4,
-   "title": "Frido Anti Sweat Active Socks for Badminton, Walking, Running, Gym & Sports, Odor-Free Men & Women Printed Mid-Calf/Crew",
+   "title": "BLUTE Men & Women Printed Calf Length",
+   "brand": "BLUTE",
    "price": null,
-   "rating": 4.1,
-   "ratings": 98,
-   "isFrido": true
+   "rating": 0,
+   "ratings": 0,
+   "isFrido": false
   },
   {
    "pos": 5,
-   "title": "AKIDO Women Polka Print Ankle Length",
+   "title": "RAIMOHUB Men Solid Ankle Length",
+   "brand": "RAIMOHUB",
    "price": null,
-   "rating": 3,
-   "ratings": 9,
+   "rating": 0,
+   "ratings": 0,
+   "isFrido": false
+  },
+  {
+   "pos": 6,
+   "title": "KATAPOL Men & Women Solid Ankle Length",
+   "brand": "KATAPOL",
+   "price": null,
+   "rating": 3.9,
+   "ratings": 206,
+   "isFrido": false
+  },
+  {
+   "pos": 7,
+   "title": "Dev Men & Women Solid Ankle Length",
+   "brand": "Dev",
+   "price": null,
+   "rating": 3.9,
+   "ratings": 61,
+   "isFrido": false
+  },
+  {
+   "pos": 8,
+   "title": "QOZWEID Unisex Self Design, Solid Ankle Length, Calf Length",
+   "brand": "QOZWEID",
+   "price": null,
+   "rating": 4.5,
+   "ratings": 4,
+   "isFrido": false
+  },
+  {
+   "pos": 9,
+   "title": "Divyanshi Men & Women Self Design Calf Length",
+   "brand": "Divyanshi",
+   "price": null,
+   "rating": 0,
+   "ratings": 0,
+   "isFrido": false
+  },
+  {
+   "pos": 10,
+   "title": "leacom Women Self Design Ankle Length",
+   "brand": "leacom",
+   "price": null,
+   "rating": 3.8,
+   "ratings": 566,
    "isFrido": false
   }
  ],

@@ -1,75 +1,139 @@
 {
  "category": "socks-active-socks",
  "marketplace": "flipkart",
- "keyword": "Frido Active Socks",
+ "keyword": "Socks",
+ "brandKeyword": "Frido Active Socks",
  "capturedAt": "2026-07-08",
- "method": "Live scrape flipkart.com mobile search page 1 (__INITIAL_STATE__), query = exact SKU name",
+ "method": "Live scrape flipkart.com mobile search page 1 (__INITIAL_STATE__), query = generic product keyword",
  "confidence": "Medium-High (live; sponsored flags not exposed on mobile)",
- "fridoRank": 5,
- "fridoPresent": true,
+ "fridoRank": null,
+ "fridoPresent": false,
+ "fridoUrl": "https://www.flipkart.com/search?q=Socks",
  "results": [
   {
    "pos": 1,
-   "title": "Bahuzo Men Solid Ankle Length, Low Cut",
+   "title": "PIIMA Unisex Solid Ankle Length",
+   "brand": "PIIMA",
    "price": null,
-   "rating": 4,
-   "ratings": 8724,
+   "rating": 3.7,
+   "ratings": 13,
    "isFrido": false
   },
   {
    "pos": 2,
-   "title": "Bahuzo Men Solid Ankle Length",
+   "title": "PIIMA Unisex Ankle Length",
+   "brand": "PIIMA",
    "price": null,
-   "rating": 4.1,
-   "ratings": 86,
+   "rating": 4,
+   "ratings": 6,
    "isFrido": false
   },
   {
    "pos": 3,
-   "title": "Bahuzo Men Striped Ankle Length, Low Cut",
+   "title": "Bahuzo Men Solid Ankle Length, Low Cut",
+   "brand": "Bahuzo",
    "price": null,
    "rating": 4,
-   "ratings": 653,
+   "ratings": 8795,
    "isFrido": false
   },
   {
    "pos": 4,
-   "title": "Bahuzo Women Self Design Ankle Length",
+   "title": "MJE Men & Women Striped, Color Block, Solid Ankle Length, Peds/Footie/No-Show",
+   "brand": "MJE",
    "price": null,
-   "rating": 4,
-   "ratings": 208,
+   "rating": 3.8,
+   "ratings": 328,
    "isFrido": false
   },
   {
    "pos": 5,
-   "title": "Frido Anti Sweat Active Socks for Badminton, Walking, Running, Gym & Sports, Odor-Free Men & Women Mid-Calf/Crew",
+   "title": "Bahuzo Unisex Self Design, Solid Ankle Length",
+   "brand": "Bahuzo",
    "price": null,
-   "rating": 4.1,
-   "ratings": 98,
-   "isFrido": true
+   "rating": 3.8,
+   "ratings": 817,
+   "isFrido": false
   },
   {
    "pos": 6,
-   "title": "Frido Anti Sweat Active Socks for Badminton, Walking, Running, Gym & Sports, Odor-Free Men & Women Printed Mid-Calf/Crew",
+   "title": "Swagr Men Solid Ankle Length",
+   "brand": "Swagr",
    "price": null,
-   "rating": 4.1,
-   "ratings": 98,
-   "isFrido": true
+   "rating": 4,
+   "ratings": 113621,
+   "isFrido": false
   },
   {
    "pos": 7,
-   "title": "Frido Anti Sweat Active Socks for Badminton, Walking, Running, Gym & Sports, Odor-Free Men & Women Ankle Length",
+   "title": "RAIMOHUB Men & Women Ankle Length",
+   "brand": "RAIMOHUB",
    "price": null,
-   "rating": 4.3,
-   "ratings": 39,
-   "isFrido": true
+   "rating": 0,
+   "ratings": 0,
+   "isFrido": false
   },
   {
    "pos": 8,
-   "title": "Brucella Men Solid Ankle Length",
+   "title": "genuinesock Men & Women Color Block Mid-Calf/Crew",
+   "brand": "genuinesock",
+   "price": null,
+   "rating": 0,
+   "ratings": 0,
+   "isFrido": false
+  },
+  {
+   "pos": 9,
+   "title": "premiumsock Men & Women Graphic Print Mid-Calf/Crew",
+   "brand": "premiumsock",
+   "price": null,
+   "rating": 0,
+   "ratings": 0,
+   "isFrido": false
+  },
+  {
+   "pos": 10,
+   "title": "RAIMOHUB Men & Women Solid Ankle Length",
+   "brand": "RAIMOHUB",
+   "price": null,
+   "rating": 0,
+   "ratings": 0,
+   "isFrido": false
+  },
+  {
+   "pos": 11,
+   "title": "Bahuzo Men Solid Ankle Length",
+   "brand": "Bahuzo",
    "price": null,
    "rating": 4.1,
-   "ratings": 23439,
+   "ratings": 89,
+   "isFrido": false
+  },
+  {
+   "pos": 12,
+   "title": "BIG - CONFIDENCE Unisex Printed Calf Length",
+   "brand": "BIG - CONFIDENCE",
+   "price": null,
+   "rating": 4.1,
+   "ratings": 115,
+   "isFrido": false
+  },
+  {
+   "pos": 13,
+   "title": "HICODE Men Solid Ankle Length",
+   "brand": "HICODE",
+   "price": null,
+   "rating": 4,
+   "ratings": 23382,
+   "isFrido": false
+  },
+  {
+   "pos": 14,
+   "title": "HICODE Men Ankle Length",
+   "brand": "HICODE",
+   "price": null,
+   "rating": 3.9,
+   "ratings": 59861,
    "isFrido": false
   }
  ],

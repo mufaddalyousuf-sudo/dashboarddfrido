@@ -1,84 +1,23 @@
 {
  "category": "socks-five-toe-socks-patterned",
  "marketplace": "amazon-in",
- "keyword": "Frido Five Toe Socks - Patterned",
+ "keyword": "Five Toe Socks Patterned",
+ "brandKeyword": "Frido Five Toe Socks - Patterned",
  "capturedAt": "2026-07-08",
- "method": "Live scrape amazon.in search page 1, query = exact SKU name (brand-qualified)",
+ "method": "Live scrape amazon.in search page 1, query = generic product keyword (brand + Frido product-line/marketing words stripped) — the competitive rank signal, not a brand-qualified existence check",
  "confidence": "High (live snapshot, single keyword)",
  "fridoOrganicRank": null,
  "fridoSponsoredSlot": null,
+ "fridoUrl": null,
  "organic": [
   {
-   "asin": "B0GYPTK3D9",
-   "badge": "Bestseller",
-   "price": "249",
-   "rating": "4.5",
-   "reviews": "44",
-   "title": "Foot Alignment Socks women 5 Finger Toe Separator for Men & Women (Free Size | Black) Plantar Fasciitis Leg Foot Pain Relief Bunion Corrector Hallux Valgus, Ort",
+   "asin": "B07C5LC7BY",
+   "badge": null,
+   "price": "889",
+   "rating": "4.4",
+   "reviews": "1,438",
+   "title": "Womens Toe Socks Animal Socks Cotton Five Finger Socks Colorful Funny Casual Crew Socks for Ladies",
    "rank": 1
-  },
-  {
-   "asin": "B0FXFB8N5B",
-   "badge": null,
-   "price": "525",
-   "rating": "4.2",
-   "reviews": "48",
-   "title": "3 Pairs Mens 5-Toe Yoga Socks, Moisture-Wicking Cotton, Anti-Skid Towel Sole, Athletic Ankle Socks for Exercise, Running & Yoga",
-   "rank": 2
-  },
-  {
-   "asin": "B0B4RW75NV",
-   "badge": null,
-   "price": "799",
-   "rating": "4.4",
-   "reviews": "1,270",
-   "title": "Men's Five Finger Toe Socks Cotton Crew Casual Colorful Patterned 5/6 Pairs",
-   "rank": 3
-  },
-  {
-   "asin": "B0F4KQVV76",
-   "badge": null,
-   "price": "235",
-   "rating": "4.5",
-   "reviews": "29",
-   "title": "cotton Foot Alignment Socks 5 Finger Toe Separator for Men & Women, Plantar Fasciitis Leg Foot Pain Relief Bunion Corrector, Hallux Valgus, Orthopaedic Socks fo",
-   "rank": 4
-  },
-  {
-   "asin": "B0GYLH8MNW",
-   "badge": null,
-   "price": "299",
-   "rating": "4.6",
-   "reviews": "3",
-   "title": "BERYX Foot Alignment Socks for Men & Women | 5 Toe Separator | Bunion Corrector | Foot Pain Relief | Plantar Fasciitis Support | Improves Posture & Flexibility ",
-   "rank": 5
-  },
-  {
-   "asin": "B09P6KWHLG",
-   "badge": null,
-   "price": "229",
-   "rating": "4.1",
-   "reviews": "3",
-   "title": "Five Toes Sock Toe Women Toe Toppers Five-Finger No Show Nonslip Invisible Soft Half Socks",
-   "rank": 6
-  },
-  {
-   "asin": "B0DTKC8SJ2",
-   "badge": null,
-   "price": "298",
-   "rating": "3.8",
-   "reviews": "696",
-   "title": "Soxbae Foot Alignment Orthopedic Cotton Socks for Men & Women | Five Toe Separator | Foot Pain Relief | Bunion Corrector | Plantar Fasciitis Support | Improves ",
-   "rank": 7
-  },
-  {
-   "asin": "B07C3LY6DP",
-   "badge": null,
-   "price": "675",
-   "rating": "4.4",
-   "reviews": "3,288",
-   "title": "Toe Socks No Show Cotton Low Cut Five Finger Socks Athletic for Women",
-   "rank": 8
   },
   {
    "asin": "B0GWNRH27X",
@@ -87,90 +26,135 @@
    "rating": "5.0",
    "reviews": "1",
    "title": "Cute Korean Style Toe Socks for Women | Pack of 3 Assorted | Five Finger Cotton Socks | Breathable, Stretchable, Cartoon Design | Daily Wear, Anti-Slip Fit",
+   "rank": 2
+  },
+  {
+   "asin": "B079T6SRC4",
+   "badge": null,
+   "price": "325",
+   "rating": "3.4",
+   "reviews": "24",
+   "title": "Women's and Girl's Cute Casual 5-Toe Cotton Crew Athletic Finger Socks (Multicolour,Free Size) - Pack of 6 Pieces",
+   "rank": 3
+  },
+  {
+   "asin": "B0G2YKBN1Z",
+   "badge": null,
+   "price": "500",
+   "rating": "4.0",
+   "reviews": "1",
+   "title": "Women’s Cotton Floral and DOT Thumb (Angutha) Socks – Pack of 5 | Soft Breathable Split-Toe Socks | Cute Floral Print Ankle Socks",
+   "rank": 4
+  },
+  {
+   "asin": "B0F8Q1TB2V",
+   "badge": null,
+   "price": "379",
+   "rating": "3.8",
+   "reviews": "12",
+   "title": "Premium Cotton Ankle Thumb Socks For Women, Anti-Odour, Soft Elastic Grip, Women Casual/Formal/Gym/Regular Wear Printed Socks, Pack of 5 Pairs, Free Size, Multi",
+   "rank": 5
+  },
+  {
+   "asin": "B07YGVP3ZN",
+   "badge": null,
+   "price": "359",
+   "rating": "4.2",
+   "reviews": "2,183",
+   "title": "Women's Ankle Length Soft Cotton Thumb Multicolored Socks, Pack of 5, Free Size",
+   "rank": 6
+  },
+  {
+   "asin": "B0F2Z6QSNW",
+   "badge": null,
+   "price": "213",
+   "rating": "3.5",
+   "reviews": "2",
+   "title": "Women's Cotton Blend Floral Design Thumb Toe Ankle Socks-Multicolor-Free Size-Pack of 5",
+   "rank": 7
+  },
+  {
+   "asin": "B0CG2GSQTX",
+   "badge": null,
+   "price": "451",
+   "rating": "2.6",
+   "reviews": "4",
+   "title": "5 Pairs Women Toe Socks Colorful Stripe 5 Toes Socks Cotton",
+   "rank": 8
+  },
+  {
+   "asin": "B0DPPYRNFC",
+   "badge": null,
+   "price": "199",
+   "rating": "3.9",
+   "reviews": "32",
+   "title": "New Thumb Socks for Women's Girls Ankle Length Soft Cotton Multicolored Combo Pack of 5",
    "rank": 9
   },
   {
-   "asin": "B0H21R39KP",
+   "asin": "B0H5XCSZZF",
    "badge": null,
-   "price": "497",
-   "rating": "4.6",
-   "reviews": "65",
-   "title": "Vn care Foot Alignment Socks for Women & Men | Five Toe Separator | Foot Pain Relief | Bunion Corrector | Plantar Fasciitis | Improving Posture & Increasing Fle",
+   "price": "299",
+   "rating": null,
+   "reviews": null,
+   "title": "Women's Premium Cotton Ankle Socks | Breathable Polka Dot Cute Cat Patterned Short Socks with Frill Ruffle Cuff | Cozy Casual Sneaker Socks Combo - Pack of 5 Pa",
    "rank": 10
   }
  ],
  "sponsored": [
   {
-   "asin": "B09ZGLW8T3",
+   "asin": "B01N6SH6YB",
    "badge": null,
-   "price": "407",
-   "rating": "3.9",
-   "reviews": "1,652",
-   "title": "Cotton Socks for Men Full Length, Pack of 5 Pair Socks",
+   "price": "899",
+   "rating": "4.0",
+   "reviews": "117",
+   "title": "Antislip Split Toe Ankle Length Cotton & Lycra Socks for Women, Ideal for Yoga, Exercise, Home, Daily Use, Color - Brown X 2, Black, Dark Grey & Navy Blue (Pack",
    "slot": 1
   },
   {
-   "asin": "B0B77BHWF1",
+   "asin": "B08YZ12WQV",
    "badge": null,
-   "price": "1,296",
-   "rating": "4.5",
-   "reviews": "427",
-   "title": "SocksXpress Marvel Men’s Crew Socks Gift Box|Pack of 8 Pairs |Calf-Length|100% Officially Licensed Avengers Superhero Combo|Combed Cotton Comfort, Durable Fit|B",
+   "price": "425",
+   "rating": "4.3",
+   "reviews": "800",
+   "title": "Men's Bamboo Sports Crew Socks for Running & Gym, Pack of 3, Free Size",
    "slot": 2
   },
   {
-   "asin": "B01MRZQD1G",
+   "asin": "B00UZ3K5TI",
    "badge": null,
-   "price": "899",
-   "rating": "3.0",
-   "reviews": "1",
-   "title": "Antislip Full Length Cotton & Lycra Socks for Men, Ideal for Walking, Jogging, Yoga, Office and Home, Suitable for Daily Use (Pack of 5)",
+   "price": "569",
+   "rating": "4.1",
+   "reviews": "549",
+   "title": "Men's Formal Argyle Socks (Pack of 3 Pair) (BRO3806-P03_Multicolor)",
    "slot": 3
   },
   {
-   "asin": "B075M5VY8T",
+   "asin": "B077P98G6B",
    "badge": null,
-   "price": "250",
-   "rating": "3.8",
-   "reviews": "9",
-   "title": "Antislip Full Length Cotton & Lycra Socks for Men, Ideal for Yoga, Exercise, Home, Suitable for Daily Use, Soft and Breathable (Pack of 1)",
+   "price": "539",
+   "rating": "4.3",
+   "reviews": "180",
+   "title": "Men's Cotton Ankle Length Bold Striped Design 4 Pair Of Socks (Assorted)",
    "slot": 4
   },
   {
-   "asin": "B0GG216Q6F",
+   "asin": "B0FP958YM6",
    "badge": null,
-   "price": "179",
-   "rating": "5.0",
-   "reviews": "2",
-   "title": "Finger Socks Five-Toe Forefoot Pads – Cushioned Support for High Heels & Calluses | Pain Relief & All-Day Comfort",
+   "price": "379",
+   "rating": "4.1",
+   "reviews": "30",
+   "title": "Premium Cotton Calf Length Thumb Socks For Women, Anti-Odour, Soft Elastic Grip, Women Casual/Formal/Gym/Regular Wear Printed Socks, Pack of 5 Pairs, Free Size,",
    "slot": 5
   },
   {
-   "asin": "B07V3NS8QV",
+   "asin": "B07CH2BPWM",
    "badge": null,
-   "price": "528",
-   "rating": "4.2",
-   "reviews": "467",
-   "title": "Men's Cotton Ankle Socks (BROHPM-13B-PO3, Multicolour, Free Size)",
+   "price": "749",
+   "rating": "4.4",
+   "reviews": "689",
+   "title": "Womens No Show Toe Socks Low Cut Five Finger Cotton Liner Socks, 4/5 Pairs",
    "slot": 6
-  },
-  {
-   "asin": "B09S678GLL",
-   "badge": null,
-   "price": "1,134",
-   "rating": "4.2",
-   "reviews": "7,267",
-   "title": "Bamboo Ankle Socks for Men | Odour-Free and Breathable | Padded Base and Anti-bacterial | 3X Softer Than Regular Socks",
-   "slot": 7
-  },
-  {
-   "asin": "B07HCH3M8M",
-   "badge": null,
-   "price": "298",
-   "rating": "4.0",
-   "reviews": "3,088",
-   "title": "Men's Seamed Cotton Socks",
-   "slot": 8
   },
   {
    "asin": "B076THDCBM",
@@ -179,15 +163,33 @@
    "rating": "3.9",
    "reviews": "108",
    "title": "Men's Calf Length Pure Cotton Multicolored Socks (Pack of 5 Pairs)",
+   "slot": 7
+  },
+  {
+   "asin": "B0D9HYR32S",
+   "badge": null,
+   "price": "849",
+   "rating": "4.2",
+   "reviews": "112",
+   "title": "Pure Cotton Premium 5 Pairs Regular Socks Soft Fabric Pattern Contrast Colors High Ankle Full-Length Men & Women Stretchable Free Size Anti Odur Sweat Free Anti",
+   "slot": 8
+  },
+  {
+   "asin": "B0D3THRHN1",
+   "badge": null,
+   "price": "599",
+   "rating": "4.2",
+   "reviews": "247",
+   "title": "Bamboo Toe Socks for Women | Ankle Length | Thumb Socks with Toe Split | 3X Softer Than Cotton | Breathable | Size (UK 3-7)",
    "slot": 9
   },
   {
-   "asin": "B095K2TDRX",
+   "asin": "B01MRZQD1G",
    "badge": null,
-   "price": "578",
-   "rating": "4.5",
-   "reviews": "47",
-   "title": "Cotton Designer Office/Business/Formal Modern Crew Socks For Men - Pack Of 3, Multicolor",
+   "price": "899",
+   "rating": "3.0",
+   "reviews": "1",
+   "title": "Antislip Full Length Cotton & Lycra Socks for Men, Ideal for Walking, Jogging, Yoga, Office and Home, Suitable for Daily Use (Pack of 5)",
    "slot": 10
   }
  ],

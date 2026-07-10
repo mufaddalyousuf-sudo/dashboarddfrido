@@ -1,23 +1,15 @@
 {
  "category": "socks-kids-socks",
  "marketplace": "amazon-in",
- "keyword": "Frido Kids Socks",
+ "keyword": "Kids Socks",
+ "brandKeyword": "Frido Kids Socks",
  "capturedAt": "2026-07-08",
- "method": "Live scrape amazon.in search page 1, query = exact SKU name (brand-qualified)",
+ "method": "Live scrape amazon.in search page 1, query = generic product keyword (brand + Frido product-line/marketing words stripped) — the competitive rank signal, not a brand-qualified existence check",
  "confidence": "High (live snapshot, single keyword)",
- "fridoOrganicRank": 1,
+ "fridoOrganicRank": null,
  "fridoSponsoredSlot": null,
+ "fridoUrl": null,
  "organic": [
-  {
-   "asin": "B0DKYKVVW5",
-   "badge": null,
-   "price": "399",
-   "rating": "4.2",
-   "reviews": "333",
-   "title": "Active Socks for Men & Women | Cotton Nylon Grip | Anti-Sweat, Odor-Free | Ideal for Walking, Running, Training, Gym & Sports,",
-   "rank": 1,
-   "isFridoBrand": true
-  },
   {
    "asin": "B0CKXBDBQN",
    "badge": null,
@@ -25,126 +17,70 @@
    "rating": "4.1",
    "reviews": "125",
    "title": "SYGA 5 Pairs Baby Girl & Baby Boy Socks, Toddlers Infant Cotton Stretch Crew Socks with Theme Design, Suitable for 2-5 Years baby",
+   "rank": 1
+  },
+  {
+   "asin": "B0DXCCKTBX",
+   "badge": "Amazon's Choice",
+   "price": "299",
+   "rating": "4.4",
+   "reviews": "19",
+   "title": "Girls Socks",
    "rank": 2
   },
   {
-   "asin": "B0GGGTW4FH",
+   "asin": "B09X5MVHS2",
    "badge": null,
-   "price": "219",
-   "rating": null,
-   "reviews": null,
-   "title": "Baby Socks for Boys & Girls 3–4 Years, Cotton Kids Socks Set of 5, Soft Breathable Anti-Slip Toddler Socks, Comfortable Daily Wear Socks",
+   "price": "99",
+   "rating": "4.3",
+   "reviews": "1,980",
+   "title": "7801 Unisex Kid's Compact Cotton Stretch Solid Ankle Length Socks With Stay Fresh Treatment",
    "rank": 3
   },
   {
-   "asin": "B0DJRK5X58",
+   "asin": "B0DZ76V9SM",
    "badge": null,
-   "price": "554",
-   "rating": "4.5",
-   "reviews": "90",
-   "title": "Non Slip Grip Ankle Boys and Girls Athletic Crew Socks for Babies Toddlers and Kids",
+   "price": "279",
+   "rating": "4.3",
+   "reviews": "147",
+   "title": "Kids Boys Socks - Printed Cotton Kids Socks | Soft & Comfortable Sock for Boys | Durable Boy Sock for Everyday Wear- Pack of 5",
    "rank": 4
   },
   {
-   "asin": "B0F8R297KH",
+   "asin": "B0DWFZ2LPW",
    "badge": null,
-   "price": "313",
-   "rating": "3.9",
-   "reviews": "137",
-   "title": "Toddler Socks for Boys & Girls | Non-Slip Ankle Grips for Crawling & Walking | Soft Combed Cotton | Anti-Skid, Breathable & Comfortable Socks | Age 2-4 Years",
+   "price": "334",
+   "rating": "4.1",
+   "reviews": "42",
+   "title": "Boys Casual Cotton Blend Socks",
    "rank": 5
   },
   {
-   "asin": "B0GCP74NKZ",
+   "asin": "B0FP8S7Q69",
    "badge": null,
-   "price": "449",
-   "rating": "4.6",
-   "reviews": "21",
-   "title": "Baby Anti-Slip Cotton Ankle Socks with Grips, Toddler Non-Skid Ankle Socks for Boys & Girls, Cartoon Animal & Car Designs (Pack Of 5)",
+   "price": "249",
+   "rating": "3.3",
+   "reviews": "16",
+   "title": "5 Pairs Kids Cotton Ankle Socks, Cute Cartoon Design, Colorful Soft Breathable Socks for Boys & Girls, Suitable for 6-8 Years",
    "rank": 6
   },
   {
-   "asin": "B0BSXPW447",
-   "badge": null,
-   "price": "599",
-   "rating": "4.2",
-   "reviews": "234",
-   "title": "Colourful Socks for Kids, Ankle length, Soft Pure Cotton, Anti skid, Lightweight & Breathable, 1 to 12 Years, Pack of 6, Designer socks",
+   "asin": "B0BJCBKRH5",
+   "badge": "Bestseller",
+   "price": "299",
+   "rating": "4.1",
+   "reviews": "2,339",
+   "title": "Boys & Girls Striped Organic Cotton Calf Length School Socks for Kids, Anti Odour Soft and Breathable Uniform Socks (Pack of 4 Pairs)",
    "rank": 7
   },
   {
-   "asin": "B0F9TKDGN3",
+   "asin": "B0G1GRM7CS",
    "badge": null,
    "price": "299",
-   "rating": "4.3",
-   "reviews": "470",
-   "title": "Kids Socks for Boys 3-4 Years 4-5 Years | Anti Skid Socks for Kids with Rubber Grip | Cotton Rich Soft Socks Boys | Anti Slip Non Skid Grip Socks for Kids | Cut",
+   "rating": "4.6",
+   "reviews": "14",
+   "title": "Cute Animal Face Non-Slip Grip Socks for Toddler Kids Boys Girls Warm Cozy Soft Cotton Winter Indoor Socks with Rubber Pads Non Skid Aged 1-3 Years",
    "rank": 8
-  },
-  {
-   "asin": "B0DZSPKVZ5",
-   "badge": null,
-   "price": "284",
-   "rating": "4.0",
-   "reviews": "5",
-   "title": "Kid's Boy's Cotton Anti Slip Grip Socks(Colors & Print May Vary) (Pack of 5)_Multicolour",
-   "rank": 9
-  },
-  {
-   "asin": "B0CHQZ6DQW",
-   "badge": null,
-   "price": "395",
-   "rating": "4.3",
-   "reviews": "563",
-   "title": "Kid's Socks for Boys and Girls - Made with Soft & Breathable Cotton with Antibacterial Wash, Pack Of 5, Suitable for all day long use",
-   "rank": 10
-  }
- ],
- "sponsored": [
-  {
-   "asin": "B0FFH91Q8G",
-   "badge": null,
-   "price": "465",
-   "rating": "3.6",
-   "reviews": "21",
-   "title": "minmum Unisex Kids Ankle Length Cotton Socks | School Sock For Boys & Girls Pack of 6",
-   "slot": 1
-  },
-  {
-   "asin": "B09V17X8PF",
-   "badge": null,
-   "price": "502",
-   "rating": "4.1",
-   "reviews": "248",
-   "title": "Superman Batman Superhero Character Full Length Socks for Kids- Pack Of 4",
-   "slot": 2
-  },
-  {
-   "asin": "B0BQ2S3RTN",
-   "badge": "Bestseller",
-   "price": "349",
-   "rating": "4.3",
-   "reviews": "959",
-   "title": "Organic Cotton Anti-Skid Socks Non Slip Kids Toddler Socks with Grip | (Pack of 4,6 &12 Pair) (Color & Print May Vary) (0 to 5 years size)",
-   "slot": 3
-  },
-  {
-   "asin": "B09TXVDLZ8",
-   "badge": null,
-   "price": "335",
-   "rating": "4.1",
-   "reviews": "150",
-   "title": "Designer/Funky/Casual Ankle Length Socks for Kids-Girls- Pack Of 4",
-   "slot": 4
-  },
-  {
-   "asin": "B0BV6RGZYF",
-   "badge": "Bestseller",
-   "price": "349",
-   "rating": "4.3",
-   "reviews": "959",
-   "title": "Organic Cotton Anti-Skid Socks Non Slip Kids Toddler Socks with Grip | (Pack of 4,6 &12 Pair) (Color & Print May Vary) (0 to 5 years size)",
-   "slot": 5
   },
   {
    "asin": "B092LV4JNN",
@@ -153,42 +89,107 @@
    "rating": "4.2",
    "reviews": "3,219",
    "title": "Organic cotton Kids Socks - Pack of 6 Pairs - Star Stripe",
+   "rank": 9
+  },
+  {
+   "asin": "B0DSZ33J7C",
+   "badge": null,
+   "price": "311",
+   "rating": "4.4",
+   "reviews": "136",
+   "title": "Unisex Kids U.S. POLO ASSN. Kids High-Ankle Length KS002 Cotton Stretch Socks - Pack Of 3",
+   "rank": 10
+  }
+ ],
+ "sponsored": [
+  {
+   "asin": "B0BQ35N86W",
+   "badge": null,
+   "price": "349",
+   "rating": "4.3",
+   "reviews": "961",
+   "title": "Organic Cotton Anti-Skid Socks Non Slip Kids Toddler Socks with Grip | (Pack of 4,6 &12 Pair) (Color & Print May Vary) (0 to 5 years size)",
+   "slot": 1
+  },
+  {
+   "asin": "B09V15W92R",
+   "badge": null,
+   "price": "502",
+   "rating": "4.1",
+   "reviews": "248",
+   "title": "Superman Batman Superhero Character Full Length Socks for Kids- Pack Of 4",
+   "slot": 2
+  },
+  {
+   "asin": "B082V975SK",
+   "badge": null,
+   "price": "300",
+   "rating": "4.3",
+   "reviews": "274",
+   "title": "Baby Boy's & Baby Girl's Cotton Socks",
+   "slot": 3
+  },
+  {
+   "asin": "B0BJC68NRV",
+   "badge": null,
+   "price": "599",
+   "rating": "4.3",
+   "reviews": "1,097",
+   "title": "Organic Cotton Anti-Skid Socks | Pack of 6",
+   "slot": 4
+  },
+  {
+   "asin": "B0CQXDDYDP",
+   "badge": null,
+   "price": "239",
+   "rating": "4.1",
+   "reviews": "278",
+   "title": "5 Pairs Socks Baby Autumn And Winter Cotton Socks, Baby Mid-Calf Socks 2-5 Year",
+   "slot": 5
+  },
+  {
+   "asin": "B0FPXB5ZHS",
+   "badge": null,
+   "price": "249",
+   "rating": "4.1",
+   "reviews": "41",
+   "title": "Baby Boys & Girls Cotton Socks, 5 Pairs Soft & Breathable Mid-Calf Socks for 1-4 Years",
    "slot": 6
   },
   {
-   "asin": "B0FT16MXVY",
+   "asin": "B0F7HRPJMH",
    "badge": null,
-   "price": "356",
-   "rating": "4.4",
-   "reviews": "127",
-   "title": "Kids Cotton Socks | Assorted Colours, Breathable & Skin-Friendly, Anti-Skid Soft Socks for Baby, Toddler & Children (0–5 Years, Boys & Girls)",
+   "price": "299",
+   "rating": "4.6",
+   "reviews": "24",
+   "title": "Kids Boys Socks - Printed Cotton Kids Socks | Soft and Comfortable, Sock for Boys | Stylish & Durable Boy Sock for Everyday - Pack of 5 Pairs",
    "slot": 7
   },
   {
-   "asin": "B0BSXNH5FJ",
+   "asin": "B0DZ76F78Q",
    "badge": null,
-   "price": "599",
-   "rating": "4.2",
-   "reviews": "234",
-   "title": "Colourful Socks for Kids, Ankle length, Soft Pure Cotton, Anti skid, Lightweight & Breathable, 1 to 12 Years, Pack of 6, Designer socks",
+   "price": "280",
+   "rating": "4.3",
+   "reviews": "147",
+   "title": "Kids Boys Socks - Printed Cotton Kids Socks | Soft & Comfortable Sock for Boys | Durable Boy Sock for Everyday Wear- Pack of 5",
    "slot": 8
   },
   {
-   "asin": "B0B18K2WHF",
+   "asin": "B0FT14KSNJ",
    "badge": null,
-   "price": "436",
-   "rating": "4.0",
-   "reviews": "1",
-   "title": "Baby Boys Socks",
+   "price": "599",
+   "rating": "4.4",
+   "reviews": "127",
+   "title": "Kids Cotton Socks | Assorted Colours, Breathable & Skin-Friendly, Anti-Skid Soft Socks for Baby, Toddler & Children (0–5 Years, Boys & Girls)",
    "slot": 9
   },
   {
-   "asin": "B0DFGKWMGM",
+   "asin": "B0GT18L8NN",
    "badge": null,
-   "price": "474",
-   "rating": "3.9",
-   "reviews": "121",
-   "title": "Boys & Girls Ankle Length Cotton Multicolored Kids Socks (Pack of 10 Pairs)",
+   "price": "499",
+   "rating": "3.0",
+   "reviews": "1",
+   "title": "Kids Cotton Socks | Multiple Colours, Breathable & Skin-Friendly, Soft Socks for Baby, Toddler & Children, Boys & Girls",
    "slot": 10
   }
  ],

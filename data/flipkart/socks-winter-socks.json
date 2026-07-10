@@ -1,125 +1,16 @@
 {
  "category": "socks-winter-socks",
  "marketplace": "flipkart",
- "keyword": "Frido Winter Socks",
+ "keyword": "Winter Socks",
+ "brandKeyword": "Frido Winter Socks",
  "capturedAt": "2026-07-08",
- "method": "Live scrape flipkart.com mobile search page 1 (__INITIAL_STATE__), query = exact SKU name",
- "confidence": "Medium-High (live; sponsored flags not exposed on mobile)",
- "fridoRank": 5,
- "fridoPresent": true,
- "results": [
-  {
-   "pos": 1,
-   "title": "Bahuzo Men Solid Ankle Length, Low Cut",
-   "price": null,
-   "rating": 4,
-   "ratings": 8724,
-   "isFrido": false
-  },
-  {
-   "pos": 2,
-   "title": "Bahuzo Men Solid Ankle Length",
-   "price": null,
-   "rating": 4.1,
-   "ratings": 86,
-   "isFrido": false
-  },
-  {
-   "pos": 3,
-   "title": "Bahuzo Men Striped Ankle Length, Low Cut",
-   "price": null,
-   "rating": 4,
-   "ratings": 653,
-   "isFrido": false
-  },
-  {
-   "pos": 4,
-   "title": "Bahuzo Women Self Design Ankle Length",
-   "price": null,
-   "rating": 4,
-   "ratings": 208,
-   "isFrido": false
-  },
-  {
-   "pos": 5,
-   "title": "Frido Anti Sweat Active Socks for Badminton, Walking, Running, Gym & Sports, Odor-Free Men & Women Ankle Length",
-   "price": null,
-   "rating": 4.3,
-   "ratings": 39,
-   "isFrido": true
-  },
-  {
-   "pos": 6,
-   "title": "Frido Anti Sweat Active Socks for Badminton, Walking, Running, Gym & Sports, Odor-Free Men & Women Mid-Calf/Crew",
-   "price": null,
-   "rating": 4.1,
-   "ratings": 98,
-   "isFrido": true
-  },
-  {
-   "pos": 7,
-   "title": "DARKFISH Women Self Design Ankle Length",
-   "price": null,
-   "rating": 0,
-   "ratings": 0,
-   "isFrido": false
-  },
-  {
-   "pos": 8,
-   "title": "Sockscarving Men & Women Self Design Mid-Calf/Crew",
-   "price": null,
-   "rating": 4.2,
-   "ratings": 366,
-   "isFrido": false
-  },
-  {
-   "pos": 9,
-   "title": "Frido Five Toe Socks for Toe Separator, Blisters Prevention, Running, Gym & Sports Men & Women Mid-Calf/Crew",
-   "price": null,
-   "rating": 4.3,
-   "ratings": 3,
-   "isFrido": true
-  },
-  {
-   "pos": 10,
-   "title": "Navy Sport Men Solid Mid-Calf/Crew",
-   "price": null,
-   "rating": 4.2,
-   "ratings": 34529,
-   "isFrido": false
-  },
-  {
-   "pos": 11,
-   "title": "SOCKSXPRESS Marvel Avengers Men Self Design Ankle Length",
-   "price": null,
-   "rating": 4.4,
-   "ratings": 131,
-   "isFrido": false
-  },
-  {
-   "pos": 12,
-   "title": "SOCKSXPRESS Cotton Men Solid Calf Length",
-   "price": null,
-   "rating": 4.2,
-   "ratings": 2790,
-   "isFrido": false
-  },
-  {
-   "pos": 13,
-   "title": "SOCKSXPRESS Justice League Men Self Design Mid-Calf/Crew",
-   "price": null,
-   "rating": 4.4,
-   "ratings": 862,
-   "isFrido": false
-  },
-  {
-   "pos": 14,
-   "title": "SOCKSXPRESS Rick & Morty Men Printed Low Cut",
-   "price": null,
-   "rating": 4.2,
-   "ratings": 236,
-   "isFrido": false
-  }
- ],
- "notes": []
+ "method": "Live scrape flipkart.com mobile search page 1 (__INITIAL_STATE__), query = generic product keyword",
+ "confidence": "Low (fetch blocked)",
+ "fridoRank": null,
+ "fridoPresent": false,
+ "fridoUrl": null,
+ "results": [],
+ "notes": [
+  "Live fetch failed after retries — needs re-verification."
+ ]
 }

@@ -1,75 +1,139 @@
 {
  "category": "socks-five-toe-socks-patterned",
  "marketplace": "flipkart",
- "keyword": "Frido Five Toe Socks - Patterned",
+ "keyword": "Five Toe Socks Patterned",
+ "brandKeyword": "Frido Five Toe Socks - Patterned",
  "capturedAt": "2026-07-08",
- "method": "Live scrape flipkart.com mobile search page 1 (__INITIAL_STATE__), query = exact SKU name",
+ "method": "Live scrape flipkart.com mobile search page 1 (__INITIAL_STATE__), query = generic product keyword",
  "confidence": "Medium-High (live; sponsored flags not exposed on mobile)",
- "fridoRank": 2,
- "fridoPresent": true,
+ "fridoRank": null,
+ "fridoPresent": false,
+ "fridoUrl": "https://www.flipkart.com/search?q=Five%20Toe%20Socks%20Patterned",
  "results": [
   {
    "pos": 1,
-   "title": "Brucella Men Solid Ankle Length",
+   "title": "Bahuzo Men Solid Ankle Length, Low Cut",
+   "brand": "Bahuzo",
    "price": null,
-   "rating": 4.1,
-   "ratings": 23439,
+   "rating": 4,
+   "ratings": 8795,
    "isFrido": false
   },
   {
    "pos": 2,
-   "title": "Frido Five Toe Socks for Toe Separator, Blisters Prevention, Running, Gym & Sports Men & Women Mid-Calf/Crew",
+   "title": "Bahuzo Men Solid Ankle Length",
+   "brand": "Bahuzo",
    "price": null,
-   "rating": 4.3,
-   "ratings": 3,
-   "isFrido": true
+   "rating": 4.1,
+   "ratings": 89,
+   "isFrido": false
   },
   {
    "pos": 3,
-   "title": "AKIDO Women Polka Print Ankle Length",
+   "title": "Bahuzo Men Striped Ankle Length, Low Cut",
+   "brand": "Bahuzo",
    "price": null,
-   "rating": 3,
-   "ratings": 9,
+   "rating": 4,
+   "ratings": 658,
    "isFrido": false
   },
   {
    "pos": 4,
-   "title": "Shyam Hosiery Women Solid Mid-Calf/Crew",
+   "title": "RAMEVA Unisex Color Block Ankle Length",
+   "brand": "RAMEVA",
    "price": null,
-   "rating": 4.2,
-   "ratings": 5,
+   "rating": 0,
+   "ratings": 0,
    "isFrido": false
   },
   {
    "pos": 5,
-   "title": "Dirts Unisex Checkered Ankle Length",
+   "title": "Supersox Winter Thermal Regular Length Socks for Women Printed Calf Length",
+   "brand": "Supersox",
    "price": null,
-   "rating": 3.7,
-   "ratings": 73,
+   "rating": 4.5,
+   "ratings": 279,
    "isFrido": false
   },
   {
    "pos": 6,
-   "title": "Frido Anti Sweat Active Socks for Badminton, Walking, Running, Gym & Sports, Odor-Free Men & Women Mid-Calf/Crew",
-   "price": null,
-   "rating": 4.1,
-   "ratings": 98,
-   "isFrido": true
-  },
-  {
-   "pos": 7,
-   "title": "FEGURO Unisex Geometric Print Calf Length",
+   "title": "Dynamocks Unisex Polka Print Ankle Length",
+   "brand": "Dynamocks",
    "price": null,
    "rating": 0,
    "ratings": 0,
    "isFrido": false
   },
   {
+   "pos": 7,
+   "title": "Basketship Women Self Design Mid-Calf/Crew",
+   "brand": "Basketship",
+   "price": null,
+   "rating": 3.5,
+   "ratings": 31,
+   "isFrido": false
+  },
+  {
    "pos": 8,
-   "title": "Rajwada Fabrics Women Self Design Ankle Length",
+   "title": "Buyra Women Solid Ankle Length",
+   "brand": "Buyra",
    "price": null,
    "rating": 0,
    "ratings": 0,
+   "isFrido": false
+  },
+  {
+   "pos": 9,
+   "title": "The Souled Store Unisex Printed Calf Length",
+   "brand": "The Souled Store",
+   "price": null,
+   "rating": 0,
+   "ratings": 0,
+   "isFrido": false
+  },
+  {
+   "pos": 10,
+   "title": "Theater Men Solid Calf Length",
+   "brand": "Theater",
+   "price": null,
+   "rating": 0,
+   "ratings": 0,
+   "isFrido": false
+  },
+  {
+   "pos": 11,
+   "title": "BUYRAS Women Ankle Length",
+   "brand": "BUYRAS",
+   "price": null,
+   "rating": 0,
+   "ratings": 0,
+   "isFrido": false
+  },
+  {
+   "pos": 12,
+   "title": "BONJOUR Molecule Over All Dots Office/ Business/ Formal Full Length Men Mid-Calf/Crew",
+   "brand": "BONJOUR",
+   "price": null,
+   "rating": 4.6,
+   "ratings": 14,
+   "isFrido": false
+  },
+  {
+   "pos": 13,
+   "title": "RYSN Women Solid Ankle Length",
+   "brand": "RYSN",
+   "price": null,
+   "rating": 4.4,
+   "ratings": 551,
+   "isFrido": false
+  },
+  {
+   "pos": 14,
+   "title": "Brucella Men Solid Ankle Length",
+   "brand": "Brucella",
+   "price": null,
+   "rating": 4.1,
+   "ratings": 23461,
    "isFrido": false
   }
  ],
