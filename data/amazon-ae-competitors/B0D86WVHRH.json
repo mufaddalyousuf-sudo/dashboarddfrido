@@ -30,7 +30,11 @@
     "Shoe",
     "Inserts",
     "Standart"
-   ]
+   ],
+   "hasAplusContent": true,
+   "hasCoupon": false,
+   "titleLength": 97,
+   "bulletCount": 5
   },
   {
    "rank": 2,
@@ -65,7 +69,11 @@
     "Any",
     "Shoe",
     "One"
-   ]
+   ],
+   "hasAplusContent": true,
+   "hasCoupon": false,
+   "titleLength": 135,
+   "bulletCount": 4
   },
   {
    "rank": 3,
@@ -92,7 +100,11 @@
     "Insoles",
     "Full",
     "Length"
-   ]
+   ],
+   "hasAplusContent": true,
+   "hasCoupon": false,
+   "titleLength": 71,
+   "bulletCount": 5
   }
  ],
  "capturedAt": "2026-07-10"

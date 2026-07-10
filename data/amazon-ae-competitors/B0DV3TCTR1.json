@@ -27,7 +27,11 @@
     "Sports",
     "Tab",
     "Cotton"
-   ]
+   ],
+   "hasAplusContent": false,
+   "hasCoupon": false,
+   "titleLength": 107,
+   "bulletCount": 0
   },
   {
    "rank": 2,
@@ -53,7 +57,11 @@
     "Football",
     "Basketball",
     "Sports"
-   ]
+   ],
+   "hasAplusContent": false,
+   "hasCoupon": false,
+   "titleLength": 107,
+   "bulletCount": 0
   },
   {
    "rank": 3,
@@ -80,7 +88,11 @@
     "Tab",
     "Free",
     "Size"
-   ]
+   ],
+   "hasAplusContent": true,
+   "hasCoupon": false,
+   "titleLength": 102,
+   "bulletCount": 0
   }
  ],
  "capturedAt": "2026-07-10"

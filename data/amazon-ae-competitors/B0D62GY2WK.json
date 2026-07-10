@@ -37,7 +37,11 @@
     "Back",
     "Stomach",
     "Sleepers"
-   ]
+   ],
+   "hasAplusContent": true,
+   "hasCoupon": false,
+   "titleLength": 149,
+   "bulletCount": 4
   },
   {
    "rank": 2,
@@ -72,7 +76,11 @@
     "Stomach",
     "Sleepers",
     "Black"
-   ]
+   ],
+   "hasAplusContent": true,
+   "hasCoupon": false,
+   "titleLength": 157,
+   "bulletCount": 1
   },
   {
    "rank": 3,
@@ -106,7 +114,11 @@
     "Pillow",
     "Stretcher",
     "Black"
-   ]
+   ],
+   "hasAplusContent": false,
+   "hasCoupon": false,
+   "titleLength": 155,
+   "bulletCount": 2
   }
  ],
  "capturedAt": "2026-07-10"

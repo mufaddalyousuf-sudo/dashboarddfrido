@@ -30,7 +30,11 @@
     "Loose",
     "Shoes",
     "Pairs"
-   ]
+   ],
+   "hasAplusContent": false,
+   "hasCoupon": false,
+   "titleLength": 59,
+   "bulletCount": 6
   },
   {
    "rank": 2,
@@ -67,7 +71,11 @@
     "Small",
     "Size",
     "Black-"
-   ]
+   ],
+   "hasAplusContent": false,
+   "hasCoupon": false,
+   "titleLength": 168,
+   "bulletCount": 5
   },
   {
    "rank": 3,
@@ -108,7 +116,11 @@
     "Beige",
     "Paris",
     "Standard"
-   ]
+   ],
+   "hasAplusContent": false,
+   "hasCoupon": false,
+   "titleLength": 180,
+   "bulletCount": 5
   }
  ],
  "capturedAt": "2026-07-10"

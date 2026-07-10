@@ -33,7 +33,11 @@
     "Earplugs",
     "Luxury",
     "Bag"
-   ]
+   ],
+   "hasAplusContent": true,
+   "hasCoupon": false,
+   "titleLength": 143,
+   "bulletCount": 4
   },
   {
    "rank": 2,
@@ -74,7 +78,11 @@
     "Blue",
     "TR-PL",
     "BLU"
-   ]
+   ],
+   "hasAplusContent": false,
+   "hasCoupon": false,
+   "titleLength": 165,
+   "bulletCount": 6
   },
   {
    "rank": 3,
@@ -108,7 +116,11 @@
     "Foam",
     "Dark",
     "Gray"
-   ]
+   ],
+   "hasAplusContent": false,
+   "hasCoupon": false,
+   "titleLength": 121,
+   "bulletCount": 5
   }
  ],
  "capturedAt": "2026-07-10"

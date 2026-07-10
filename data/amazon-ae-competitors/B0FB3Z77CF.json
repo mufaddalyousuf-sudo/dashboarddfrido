@@ -34,7 +34,11 @@
     "Pregnant",
     "Support",
     "Sleeping"
-   ]
+   ],
+   "hasAplusContent": false,
+   "hasCoupon": false,
+   "titleLength": 126,
+   "bulletCount": 4
   },
   {
    "rank": 2,
@@ -67,7 +71,11 @@
     "Washable",
     "Velvet",
     "Cover"
-   ]
+   ],
+   "hasAplusContent": true,
+   "hasCoupon": false,
+   "titleLength": 136,
+   "bulletCount": 4
   },
   {
    "rank": 3,
@@ -103,7 +111,11 @@
     "Adults",
     "Must",
     "Haves"
-   ]
+   ],
+   "hasAplusContent": true,
+   "hasCoupon": false,
+   "titleLength": 198,
+   "bulletCount": 4
   }
  ],
  "capturedAt": "2026-07-10"

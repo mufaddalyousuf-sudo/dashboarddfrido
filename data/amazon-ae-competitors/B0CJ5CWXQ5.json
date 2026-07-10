@@ -28,7 +28,11 @@
     "Support",
     "Belt",
     "Large"
-   ]
+   ],
+   "hasAplusContent": false,
+   "hasCoupon": false,
+   "titleLength": 95,
+   "bulletCount": 2
   },
   {
    "rank": 2,
@@ -73,7 +77,11 @@
     "Recliner",
     "etc",
     "Black"
-   ]
+   ],
+   "hasAplusContent": true,
+   "hasCoupon": false,
+   "titleLength": 190,
+   "bulletCount": 5
   },
   {
    "rank": 3,
@@ -119,7 +127,11 @@
     "Restores",
     "spinal",
     "curve"
-   ]
+   ],
+   "hasAplusContent": false,
+   "hasCoupon": false,
+   "titleLength": 287,
+   "bulletCount": 5
   }
  ],
  "capturedAt": "2026-07-10"

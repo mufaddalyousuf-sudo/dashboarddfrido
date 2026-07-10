@@ -38,7 +38,11 @@
     "Gifts",
     "Inches",
     "Coral"
-   ]
+   ],
+   "hasAplusContent": false,
+   "hasCoupon": false,
+   "titleLength": 178,
+   "bulletCount": 4
   },
   {
    "rank": 2,
@@ -77,7 +81,11 @@
     "Relief",
     "Pillow",
     "White"
-   ]
+   ],
+   "hasAplusContent": true,
+   "hasCoupon": false,
+   "titleLength": 181,
+   "bulletCount": 3
   },
   {
    "rank": 3,
@@ -120,7 +128,11 @@
     "Sofa",
     "Floor",
     "Room"
-   ]
+   ],
+   "hasAplusContent": true,
+   "hasCoupon": false,
+   "titleLength": 191,
+   "bulletCount": 5
   }
  ],
  "capturedAt": "2026-07-10"

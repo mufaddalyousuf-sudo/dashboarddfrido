@@ -39,7 +39,11 @@
     "Running",
     "Joint",
     "Recovery"
-   ]
+   ],
+   "hasAplusContent": true,
+   "hasCoupon": false,
+   "titleLength": 183,
+   "bulletCount": 3
   },
   {
    "rank": 2,
@@ -68,7 +72,11 @@
     "Hiking",
     "Sports",
     "Medium"
-   ]
+   ],
+   "hasAplusContent": true,
+   "hasCoupon": false,
+   "titleLength": 122,
+   "bulletCount": 2
   },
   {
    "rank": 3,
@@ -99,7 +107,11 @@
     "other",
     "Sport-",
     "Sizes"
-   ]
+   ],
+   "hasAplusContent": true,
+   "hasCoupon": false,
+   "titleLength": 162,
+   "bulletCount": 0
   }
  ],
  "capturedAt": "2026-07-10"

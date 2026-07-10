@@ -23,7 +23,11 @@
     "Trail",
     "Runner",
     "Running"
-   ]
+   ],
+   "hasAplusContent": false,
+   "hasCoupon": false,
+   "titleLength": 105,
+   "bulletCount": 0
   },
   {
    "rank": 2,
@@ -43,7 +47,11 @@
     "mens",
     "Hiking",
     "Shoe"
-   ]
+   ],
+   "hasAplusContent": false,
+   "hasCoupon": false,
+   "titleLength": 37,
+   "bulletCount": 0
   },
   {
    "rank": 3,
@@ -67,7 +75,11 @@
     "Extra",
     "Stability",
     "Balance"
-   ]
+   ],
+   "hasAplusContent": true,
+   "hasCoupon": false,
+   "titleLength": 116,
+   "bulletCount": 0
   }
  ],
  "capturedAt": "2026-07-10"

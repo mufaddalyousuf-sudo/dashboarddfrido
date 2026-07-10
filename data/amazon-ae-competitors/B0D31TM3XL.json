@@ -41,7 +41,11 @@
     "Pain",
     "King",
     "White"
-   ]
+   ],
+   "hasAplusContent": false,
+   "hasCoupon": false,
+   "titleLength": 190,
+   "bulletCount": 3
   },
   {
    "rank": 2,
@@ -78,7 +82,11 @@
     "fluffy",
     "down",
     "alternative"
-   ]
+   ],
+   "hasAplusContent": true,
+   "hasCoupon": false,
+   "titleLength": 148,
+   "bulletCount": 4
   },
   {
    "rank": 3,
@@ -110,7 +118,11 @@
     "Down",
     "Alternative",
     "Filled"
-   ]
+   ],
+   "hasAplusContent": false,
+   "hasCoupon": false,
+   "titleLength": 119,
+   "bulletCount": 6
   }
  ],
  "capturedAt": "2026-07-10"
