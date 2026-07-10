@@ -516,14 +516,27 @@
     return uaeProducts;
   }
 
+  // Verbatim from Amazon.ae — never inferred. Only normalizes whitespace/trailing
+  // "- order soon." noise; the wording and any quantity shown are exactly what
+  // the product page displayed at capture time.
   function uaeStatus(p) {
-    const a = (p.availability || "").toLowerCase();
-    if (!p.fetchOk) return "Needs Verification";
-    if (!a) return "Unknown";
-    if (a.includes("out of stock") || a.includes("unavailable")) return "Out of Stock";
-    if (a.includes("left in stock") || a.includes("only")) return "Low Stock";
-    if (a.includes("in stock")) return "In Stock";
-    return "Unknown";
+    if (!p.fetchOk) return "Unknown";
+    const raw = (p.availability || "").trim();
+    if (!raw) return "Not Displayed";
+    const clean = raw.replace(/\s*-\s*order soon\.?$/i, "").replace(/\.$/, "").trim();
+    const lower = clean.toLowerCase();
+    const leftMatch = clean.match(/^only\s+(\d+)\s+left in stock/i);
+    if (leftMatch) return `Only ${leftMatch[1]} left in stock`;
+    if (/^usually ships/i.test(clean)) return clean;
+    if (lower.includes("currently unavailable")) return "Currently Unavailable";
+    if (lower.includes("out of stock")) return "Out of Stock";
+    if (lower.includes("in stock")) return "In Stock";
+    return clean; // unrecognized but real scraped text — shown verbatim, never guessed
+  }
+  function uaeStatusClass(status) {
+    if (status === "In Stock") return "listed";
+    if (status === "Out of Stock" || status === "Currently Unavailable") return "not-listed";
+    return "needs-verification"; // Unknown / Not Displayed / low-stock count / ships-in-X-days / unrecognized text
   }
   // the honest "best" rank for a product: lowest (best) subcategory rank if we have one, else the main category rank
   const uaeBestRank = (p) => p.subcategoryRank ?? p.mainCategoryRank ?? null;
@@ -627,7 +640,7 @@
           <td class="num">${p.rating ?? "—"}${p.rating ? "★" : ""}</td>
           <td class="num">${fmt(p.reviewCount)}</td>
           <td class="num">${aed(p.price)}</td>
-          <td><span class="status ${uaeStatus(p) === "Out of Stock" ? "not-listed" : uaeStatus(p) === "Needs Verification" || uaeStatus(p) === "Unknown" ? "needs-verification" : "listed"}"><i></i>${uaeStatus(p)}</span></td>
+          <td><span class="status ${uaeStatusClass(uaeStatus(p))}"><i></i>${esc(uaeStatus(p))}</span></td>
           <td>${esc(p.capturedAt || "—")}</td>
         </tr>`).join("") || `<tr><td colspan="12"><p class="t-muted" style="padding:16px 4px">No products match.</p></td></tr>`;
       $("#uaeTbody").querySelectorAll(".uae-row").forEach((r) => r.onclick = () => { location.hash = "#/uae/" + r.dataset.asin; });
@@ -816,7 +829,7 @@
       <div class="section glass glass-block">
         <div style="display:flex;align-items:baseline;gap:12px;flex-wrap:wrap">
           <h1 class="t-h1">${esc(p.productName || p.asin)}</h1>
-          <span class="status ${uaeStatus(p) === "Out of Stock" ? "not-listed" : uaeStatus(p) === "Needs Verification" || uaeStatus(p) === "Unknown" ? "needs-verification" : "listed"}"><i></i>${uaeStatus(p)}</span>
+          <span class="status ${uaeStatusClass(uaeStatus(p))}"><i></i>${esc(uaeStatus(p))}</span>
         </div>
         <p class="t-ink2" style="margin-top:8px"><a href="${p.productUrl}" target="_blank" rel="noopener">View on amazon.ae ↗</a> · ASIN ${esc(p.asin)} · Brand ${esc(p.brand || "—")}</p>
         ${p.images && p.images.length ? `<div style="display:flex;gap:10px;overflow-x:auto;margin-top:14px;padding-bottom:4px">${p.images.map((src) => `<img src="${src}" style="width:110px;height:110px;object-fit:contain;border-radius:12px;background:var(--glass-bg-strong);border:1px solid var(--glass-border)">`).join("")}</div>` : ""}
