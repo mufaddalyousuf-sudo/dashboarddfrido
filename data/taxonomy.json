@@ -438,19 +438,19 @@
    "datasets": [
     {
      "id": "accessories-wedge-neck-rest-pillow",
-     "keyword": "Frido Wedge Neck Rest Pillow",
+     "keyword": "Wedge Neck Rest Pillow",
      "primary": true
     },
     {
      "id": "accessories-anti-slip-bath-mat",
-     "keyword": "Frido Anti-Slip Bath Mat"
+     "keyword": "Anti Slip Bath Mat"
     },
     {
      "id": "accessories-wallet",
-     "keyword": "Frido Wallet"
+     "keyword": "Wallet"
     }
    ],
-   "skuSource": "frido-product-catalog.json (full base-SKU research, 2026-07-08)"
+   "skuSource": "frido-product-catalog.json searchKeyword (generic, brand-stripped), 2026-07-08"
   },
   {
    "id": "maternity-baby-care",

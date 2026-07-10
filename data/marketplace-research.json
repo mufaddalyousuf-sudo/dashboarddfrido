@@ -26661,6 +26661,649 @@
    },
    "status": "listed",
    "capturedAt": "2026-07-08"
+  },
+  {
+   "category": "accessories",
+   "categoryName": "Accessories",
+   "sku": "Anti-Slip Bath Mat",
+   "searchKeyword": "Anti Slip Bath Mat",
+   "brandKeyword": "Frido Anti-Slip Bath Mat",
+   "amazon": {
+    "fetchOk": true,
+    "organic": [
+     {
+      "asin": "B09MVT9JJ6",
+      "badge": "Amazon's Choice",
+      "price": "313",
+      "rating": "4.0",
+      "reviews": "1,108",
+      "title": "VHKD PVC Bathroom mats Anti Slip Bathroom mat Non Slip Bath Anti Skid Doormat Rectangle (Grey | 70 X 35)",
+      "rank": 1
+     },
+     {
+      "asin": "B0CFLDM7N8",
+      "badge": null,
+      "price": "339",
+      "rating": "4.1",
+      "reviews": "3,180",
+      "title": "VERVENIX Pack of 2 Bathroom Mats Anti Slip Quick Dry Soft Water Absorbing | Oval Anti-Skid Non-Slip Rubber Doormat for Home, Kitchen & Washroom | (Blue)",
+      "rank": 2
+     },
+     {
+      "asin": "B0C968RYY1",
+      "badge": "Bestseller",
+      "price": "474",
+      "rating": "4.3",
+      "reviews": "1,523",
+      "title": "Rubber Anti Skid & Multipurpose/Bathroom Mat/Shower Mat/Carpet/Rugs/Rainmat/Swimming Pool Mat|Waterproof Doormat For Indoor/Outdoor Home Office Entrance||(Grey,",
+      "rank": 3
+     },
+     {
+      "asin": "B0FGV7GMTL",
+      "badge": null,
+      "price": "249",
+      "rating": "4.0",
+      "reviews": "29",
+      "title": "Door mat Bathroom mats Anti Slip for Entrance Floor Foot Skid Bathtub Bath Shower Suction Cups (Beige 70x40cm)",
+      "rank": 4
+     },
+     {
+      "asin": "B0CB93VYW9",
+      "badge": null,
+      "price": "579",
+      "rating": "4.0",
+      "reviews": "689",
+      "title": "RichAxis Rectangular Anti Skid Bath Mat with Foot Scrubber for Bath Room Shower Mat with Suction Cups & Drain Holes Silicone Floor Mat for Kids & Adults (70 X 3",
+      "rank": 5
+     },
+     {
+      "asin": "B082P17SP5",
+      "badge": null,
+      "price": "1,297",
+      "rating": "4.4",
+      "reviews": "611",
+      "title": "Eurotex Rectangular Shower Mat Non Slip for Bathroom, Anti Skid Bathtub Mat (Plastic Stripped- Rubber Base, 46cm x 61cm)- Beige",
+      "rank": 6
+     },
+     {
+      "asin": "B0G1Y6J2T8",
+      "badge": null,
+      "price": "779",
+      "rating": "4.1",
+      "reviews": "46",
+      "title": "HOMEZE TPE Anti-Slip Shower Mat – Elevate Your Bathing Experience | Strong Suction Grips & Drain Holes | Anti-Skid Bath Mat for Elderly | Premium Bathtub & Show",
+      "rank": 7
+     },
+     {
+      "asin": "B0CKRJ8424",
+      "badge": null,
+      "price": "179",
+      "rating": "4.0",
+      "reviews": "5,966",
+      "title": "Cortina Pack of 1 Quick Dry Water Absorbing Rectangular Silicon Floor Mat | Anti-Skid & Non-Slip Cushion Doormat for Home, Kitchen, Office, Washroom | 60x40cm (",
+      "rank": 8
+     },
+     {
+      "asin": "B076ZRSLDJ",
+      "badge": null,
+      "price": "319",
+      "rating": "4.0",
+      "reviews": "5,225",
+      "title": "Amazon Brand - Solimo Premium Anti-Slip Microfibre Bathmat - 60cm x 40cm, Light Taupe",
+      "rank": 9
+     },
+     {
+      "asin": "B0F83JH72B",
+      "badge": null,
+      "price": "399",
+      "rating": "4.3",
+      "reviews": "103",
+      "title": "VHKD PVC Bathroom Door Bath mat Anti Slip Skid with Foot Scrubber for Room Shower Suction Cups Drain Holes Silicone Floor mat Rectangle (Pink)",
+      "rank": 10
+     }
+    ],
+    "sponsored": [
+     {
+      "asin": "B09C6DWSLT",
+      "badge": null,
+      "price": "499",
+      "rating": "4.3",
+      "reviews": "5,734",
+      "title": "ishro home Anti Skid & Multipurpose Rectangular Rubihr/Bathroom Mat/Shower Mat/Carpet/Rugs/Rainmat/Swimming Pool Mat||2X3 Feet",
+      "slot": 1
+     },
+     {
+      "asin": "B0C968RYY1",
+      "badge": "Bestseller",
+      "price": "474",
+      "rating": "4.3",
+      "reviews": "1,523",
+      "title": "Rubber Anti Skid & Multipurpose/Bathroom Mat/Shower Mat/Carpet/Rugs/Rainmat/Swimming Pool Mat|Waterproof Doormat For Indoor/Outdoor Home Office Entrance||(Grey,",
+      "slot": 2
+     },
+     {
+      "asin": "B0CBG192DY",
+      "badge": null,
+      "price": "539",
+      "rating": "4.1",
+      "reviews": "309",
+      "title": "JUGTE Anti Slip Bath Mat with with Foot Scrubber Rubber Bathroom Mat for Floor, Non-Slip Shower Mat with Drain Holes, Quick Dry Soft Foot Massage Mat for Bathro",
+      "slot": 3
+     },
+     {
+      "asin": "B082P17SP5",
+      "badge": null,
+      "price": "1,297",
+      "rating": "4.4",
+      "reviews": "611",
+      "title": "Eurotex Rectangular Shower Mat Non Slip for Bathroom, Anti Skid Bathtub Mat (Plastic Stripped- Rubber Base, 46cm x 61cm)- Beige",
+      "slot": 4
+     },
+     {
+      "asin": "B0D17BQG64",
+      "badge": null,
+      "price": "199",
+      "rating": "4.0",
+      "reviews": "1,867",
+      "title": "Yellow Weaves Synthetic Rubber 1 Pc Anti Slip Water Soaking Floor Mat,Water Absorbent Non Slip Bath Mat,Quick Dry Mat for Bathroom,Door Mat for Home,Kitchen,Off",
+      "slot": 5
+     },
+     {
+      "asin": "B076ZRSLDJ",
+      "badge": null,
+      "price": "319",
+      "rating": "4.0",
+      "reviews": "5,225",
+      "title": "Amazon Brand - Solimo Premium Anti-Slip Microfibre Bathmat - 60cm x 40cm, Light Taupe",
+      "slot": 6
+     },
+     {
+      "asin": "B0BR7LLMJ8",
+      "badge": null,
+      "price": "469",
+      "rating": "4.0",
+      "reviews": "1,046",
+      "title": "LUXE HOME INTERNATIONAL Microfiber Luxe Home Bath Mat Super Soft Non Slip Vegas Mats For Bathroom, Kitchen, Bedroom, And Door (40X60 Cm, Beige) Pack Of 1, Recta",
+      "slot": 7
+     },
+     {
+      "asin": "B0H3H9WG13",
+      "badge": null,
+      "price": "588",
+      "rating": "5.0",
+      "reviews": "4",
+      "title": "TIB Anti Skid Waterproof PVC Rubber Mat for Bathroom, Floor, Swimming Pool, Shower, Entrance & Rainy Areas | Multipurpose Dual Colour Floor Mat,2x3 Feet,Beige &",
+      "slot": 8
+     },
+     {
+      "asin": "B0G449MNQ5",
+      "badge": null,
+      "price": "659",
+      "rating": "4.1",
+      "reviews": "38",
+      "title": "enera Stella Microfibre Bathmat, Soft & Absorbent High GSM, Non-Slip Latex Backing, Quick Dry, Washable Multipurpose Floormat for Bathroom, Bedroom & Home (Beig",
+      "slot": 9
+     },
+     {
+      "asin": "B0F9WKGFCV",
+      "badge": null,
+      "price": "449",
+      "rating": null,
+      "reviews": null,
+      "title": "SpringVine Cotton Bath Mat | Quick Dry, Anti-Skid, Reversible, Ultra Absorbent, Machine Washable Rug | Soft Non-Slip Door Mat for Bathroom Bedroom and Floor Use",
+      "slot": 10
+     }
+    ],
+    "fridoOrganicRank": null,
+    "fridoSponsoredSlot": null,
+    "fridoBadge": null,
+    "fridoAsin": null,
+    "fridoUrl": null,
+    "resultCount": 59
+   },
+   "flipkart": {
+    "fetchOk": true,
+    "results": [
+     {
+      "pos": 1,
+      "title": "Sunvibe Rubber Bathroom Mat",
+      "brand": "Sunvibe",
+      "price": null,
+      "rating": 4.2,
+      "ratings": 3137,
+      "isFrido": false
+     },
+     {
+      "pos": 2,
+      "title": "HurryShoppy Rubber Bathroom Mat",
+      "brand": "HurryShoppy",
+      "price": null,
+      "rating": 4.2,
+      "ratings": 1534,
+      "isFrido": false
+     },
+     {
+      "pos": 3,
+      "title": "DestinyHome Rubber Bathroom Mat",
+      "brand": "DestinyHome",
+      "price": null,
+      "rating": 4.3,
+      "ratings": 116,
+      "isFrido": false
+     },
+     {
+      "pos": 4,
+      "title": "Helu International PVC (Polyvinyl Chloride) Bathroom Mat",
+      "brand": "Helu International",
+      "price": null,
+      "rating": 0,
+      "ratings": 0,
+      "isFrido": false
+     },
+     {
+      "pos": 5,
+      "title": "AAYOMAY Rubber Bathroom Mat",
+      "brand": "AAYOMAY",
+      "price": null,
+      "rating": 4.7,
+      "ratings": 3,
+      "isFrido": false
+     },
+     {
+      "pos": 6,
+      "title": "MODERN FAB Microfiber Bathroom Mat",
+      "brand": "MODERN FAB",
+      "price": null,
+      "rating": 4,
+      "ratings": 434,
+      "isFrido": false
+     },
+     {
+      "pos": 7,
+      "title": "Shoppingzone Rubber Bathroom Mat",
+      "brand": "Shoppingzone",
+      "price": null,
+      "rating": 4.2,
+      "ratings": 833,
+      "isFrido": false
+     },
+     {
+      "pos": 8,
+      "title": "Waterproof Rubber Bathroom Mat",
+      "brand": "Waterproof",
+      "price": null,
+      "rating": 4.1,
+      "ratings": 5163,
+      "isFrido": false
+     },
+     {
+      "pos": 9,
+      "title": "DALUCI Rubber Bathroom Mat",
+      "brand": "DALUCI",
+      "price": null,
+      "rating": 4.1,
+      "ratings": 4828,
+      "isFrido": false
+     },
+     {
+      "pos": 10,
+      "title": "GreenLife PVC (Polyvinyl Chloride) Bathroom Mat",
+      "brand": "GreenLife",
+      "price": null,
+      "rating": 3.9,
+      "ratings": 158,
+      "isFrido": false
+     },
+     {
+      "pos": 11,
+      "title": "JIDHA Polyester Bathroom Mat",
+      "brand": "JIDHA",
+      "price": null,
+      "rating": 0,
+      "ratings": 0,
+      "isFrido": false
+     }
+    ],
+    "fridoRank": null,
+    "fridoUrl": "https://www.flipkart.com/search?q=Anti%20Slip%20Bath%20Mat"
+   },
+   "status": "needs-verification",
+   "capturedAt": "2026-07-08"
+  },
+  {
+   "category": "accessories",
+   "categoryName": "Accessories",
+   "sku": "Wallet",
+   "searchKeyword": "Wallet",
+   "brandKeyword": "Frido Wallet",
+   "amazon": {
+    "fetchOk": true,
+    "organic": [
+     {
+      "asin": "B0GNZV9K7F",
+      "badge": null,
+      "price": "188",
+      "rating": "3.7",
+      "reviews": "113",
+      "title": "MARETTO Men’s Genuine Leather Wallet with Card Holder & Coin Pocket – Stylish Bifold Slim Wallet with Multiple Compartments for Cash & Cards (Black)",
+      "rank": 1
+     },
+     {
+      "asin": "B079TN3GCD",
+      "badge": "Amazon's Choice",
+      "price": "299",
+      "rating": "4.2",
+      "reviews": "5,691",
+      "title": "Genuine Leather Wallet for Men | Slim Bifold Wallet with RFID Blocking | Multiple Card Slots & Coin Pocket | Premium Leather Mens Wallet",
+      "rank": 2
+     },
+     {
+      "asin": "B08PKH9JPQ",
+      "badge": "Bestseller",
+      "price": "299",
+      "rating": "4.2",
+      "reviews": "5,691",
+      "title": "Genuine Leather Wallet for Men | Slim Bifold Wallet with RFID Blocking | Multiple Card Slots & Coin Pocket | Premium Leather Mens Wallet",
+      "rank": 3
+     },
+     {
+      "asin": "B0BN66KSFC",
+      "badge": null,
+      "price": "459",
+      "rating": "4.3",
+      "reviews": "1,900",
+      "title": "Travis Sand Leather Wallet for Men",
+      "rank": 4
+     },
+     {
+      "asin": "B07XTJDJHN",
+      "badge": null,
+      "price": "498",
+      "rating": "4.3",
+      "reviews": "21,635",
+      "title": "Oliver Black Leather Wallet for Men with RFID Protection",
+      "rank": 5
+     },
+     {
+      "asin": "B0FJ8R34DY",
+      "badge": null,
+      "price": "349",
+      "rating": "4.2",
+      "reviews": "121",
+      "title": "Wallet for Men Leather Original, Mens Wallet, Leather Wallets for Men Stylish, Bi-Fold Wallets for Man, 9 Card Slots, Secret Card Slots, Coin Pocket, Gift for M",
+      "rank": 6
+     },
+     {
+      "asin": "B08Z387RXH",
+      "badge": null,
+      "price": "489",
+      "rating": "4.2",
+      "reviews": "10,586",
+      "title": "Doger Olive Green Leather Wallet For Men, 2 Card Slot | RFID Wallet",
+      "rank": 7
+     },
+     {
+      "asin": "B0GP79XC4X",
+      "badge": null,
+      "price": "299",
+      "rating": "4.4",
+      "reviews": "45",
+      "title": "Premium Customized Wallet & Keychain Combo for Men – Stylish Nexon Leather Gift Set with Personalized Name & Charm – Ideal Birthday, Anniversary & Festival Pres",
+      "rank": 8
+     },
+     {
+      "asin": "B0GDQFK52X",
+      "badge": null,
+      "price": "199",
+      "rating": "4.4",
+      "reviews": "74",
+      "title": "VEMILIO Men’s Vegan Leather Wallet with Coin Pocket | Slim Bifold Wallet for Men | 2 Cash Compartments | 3 Card Slots & 2 Hidden Pockets | Stylish Wallet for Da",
+      "rank": 9
+     },
+     {
+      "asin": "B08QHQTJHS",
+      "badge": null,
+      "price": "498",
+      "rating": "4.1",
+      "reviews": "10,263",
+      "title": "Zeus Vintage Brown Leather Bi-Fold Wallet for Men, 6 Card Slot",
+      "rank": 10
+     }
+    ],
+    "sponsored": [
+     {
+      "asin": "B0GHKCLK96",
+      "badge": null,
+      "price": "799",
+      "rating": null,
+      "reviews": null,
+      "title": "Men's Genuine Leather Wallet | Bi-Fold | RFID-Protectd | Compact Everyday Wallet with 4 Card & 1 Currency Slots | Gift for Men- Black",
+      "slot": 1
+     },
+     {
+      "asin": "B0F5P7DWWQ",
+      "badge": null,
+      "price": "399",
+      "rating": "4.0",
+      "reviews": "798",
+      "title": "Thebaegift Personalized PU Leather Men's Wallet with Customized Name | Birthday Anniversary Corporate Gift for Men Male Husband Brother | Wallets for Men Man | ",
+      "slot": 2
+     },
+     {
+      "asin": "B0GF2P3H5G",
+      "badge": null,
+      "price": "2,199",
+      "rating": "4.2",
+      "reviews": "90",
+      "title": "Stash Bifold Wallet for Men | Monostriped | Genuine Leather | RFID Protected | Holds Up to 12 Cards | Double Currency Compartment | Money Moves (Black)",
+      "slot": 3
+     },
+     {
+      "asin": "B0919R6X2W",
+      "badge": null,
+      "price": "499",
+      "rating": "4.2",
+      "reviews": "9,514",
+      "title": "Wallet for Men Leather Original, Mens Wallet, Leather Wallets for Men Stylish, Bi-Fold Wallets for Man, 5 Card Slots, Easy Access Card Slots, Coin Pocket, Gift ",
+      "slot": 4
+     },
+     {
+      "asin": "B0B9X7NRFX",
+      "badge": null,
+      "price": "498",
+      "rating": "4.4",
+      "reviews": "2,245",
+      "title": "Seattle Green/Sand Leather Wallet for Men",
+      "slot": 5
+     },
+     {
+      "asin": "B0GZ3S4YNC",
+      "badge": null,
+      "price": "999",
+      "rating": "3.4",
+      "reviews": "7",
+      "title": "Flip 2.0 Genuine Leather Vertical Slim Wallet for Men | Easy Quick Card Access | Compact Front Cash Pocket & Button Lock | Minimalist Travel & Daily Carry Walle",
+      "slot": 6
+     },
+     {
+      "asin": "B0G44MW8ZW",
+      "badge": null,
+      "price": "1,495",
+      "rating": "3.8",
+      "reviews": "23",
+      "title": "Men's Genuine Leather, Aluminium Wallet | Brown & Black Casual/Formal | RFID Protected | 10 Card Slots | Cash & Coin Pocket | Id Window Slot | Stylish Lightweig",
+      "slot": 7
+     },
+     {
+      "asin": "B0GH258F5Z",
+      "badge": null,
+      "price": "349",
+      "rating": "4.1",
+      "reviews": "12,859",
+      "title": "Leather Wallet for Men (Black Hunter)",
+      "slot": 8
+     },
+     {
+      "asin": "B0FXGQLRVP",
+      "badge": null,
+      "price": "1,577",
+      "rating": "3.1",
+      "reviews": "8",
+      "title": "Staggo Trifold Wallet | Genuine Leather | Aluminium Cardholder | Side Slide Pop-Up Card Ejector | Carry Up to 6 Cards and 1 Slot for Carrying Cash & Folded Bill",
+      "slot": 9
+     },
+     {
+      "asin": "B09JFL5D7Z",
+      "badge": null,
+      "price": "599",
+      "rating": null,
+      "reviews": null,
+      "title": "Men's Original Leather Bi-fold RFID Blocking Wallet (Green)",
+      "slot": 10
+     }
+    ],
+    "fridoOrganicRank": null,
+    "fridoSponsoredSlot": null,
+    "fridoBadge": null,
+    "fridoAsin": null,
+    "fridoUrl": null,
+    "resultCount": 60
+   },
+   "flipkart": {
+    "fetchOk": true,
+    "results": [
+     {
+      "pos": 1,
+      "title": "watchstar Men & Women Casual, Formal, Trendy Brown Genuine Leather Card Holder",
+      "brand": "watchstar",
+      "price": null,
+      "rating": 4.1,
+      "ratings": 15563,
+      "isFrido": false
+     },
+     {
+      "pos": 2,
+      "title": "watchstar Men & Women Casual, Formal, Trendy Black Genuine Leather Card Holder",
+      "brand": "watchstar",
+      "price": null,
+      "rating": 4.1,
+      "ratings": 15563,
+      "isFrido": false
+     },
+     {
+      "pos": 3,
+      "title": "watchstar Men & Women Casual, Formal Black Genuine Leather Card Holder",
+      "brand": "watchstar",
+      "price": null,
+      "rating": 4.2,
+      "ratings": 10634,
+      "isFrido": false
+     },
+     {
+      "pos": 4,
+      "title": "watchstar Men & Women Casual, Formal Brown Genuine Leather Card Holder",
+      "brand": "watchstar",
+      "price": null,
+      "rating": 4.2,
+      "ratings": 10634,
+      "isFrido": false
+     },
+     {
+      "pos": 5,
+      "title": "watchstar Men & Women Casual, Formal Brown Genuine Leather Wallet",
+      "brand": "watchstar",
+      "price": null,
+      "rating": 4.1,
+      "ratings": 11578,
+      "isFrido": false
+     },
+     {
+      "pos": 6,
+      "title": "METRONAUT Men Casual, Travel, Trendy Blue, White Artificial Leather Wallet",
+      "brand": "METRONAUT",
+      "price": null,
+      "rating": 4.2,
+      "ratings": 8095,
+      "isFrido": false
+     },
+     {
+      "pos": 7,
+      "title": "PROVOGUE Men & Women Trendy, Travel, Evening/Party, Casual, Formal, Ethnic Brown Artificial Leather Wallet",
+      "brand": "PROVOGUE",
+      "price": null,
+      "rating": 4,
+      "ratings": 10422,
+      "isFrido": false
+     },
+     {
+      "pos": 8,
+      "title": "STORITE Men & Women Trendy, Formal, Casual, Travel Silver Aluminium Card Holder",
+      "brand": "STORITE",
+      "price": null,
+      "rating": 4.2,
+      "ratings": 553,
+      "isFrido": false
+     },
+     {
+      "pos": 9,
+      "title": "North Shore Men Casual, Evening/Party, Travel, Formal Brown Artificial Leather Wallet",
+      "brand": "North Shore",
+      "price": null,
+      "rating": 4.2,
+      "ratings": 33,
+      "isFrido": false
+     },
+     {
+      "pos": 10,
+      "title": "Atrani Girls Casual Multicolor Artificial Leather Wallet",
+      "brand": "Atrani",
+      "price": null,
+      "rating": 0,
+      "ratings": 0,
+      "isFrido": false
+     },
+     {
+      "pos": 11,
+      "title": "Atrani Women Formal Pink Artificial Leather Wrist Wallet",
+      "brand": "Atrani",
+      "price": null,
+      "rating": 0,
+      "ratings": 0,
+      "isFrido": false
+     },
+     {
+      "pos": 12,
+      "title": "BTB Girls Casual Blue Artificial Leather Wrist Wallet",
+      "brand": "BTB",
+      "price": null,
+      "rating": 0,
+      "ratings": 0,
+      "isFrido": false
+     },
+     {
+      "pos": 13,
+      "title": "THE KINGSMAN NEWYORK Men Brown Genuine Leather Wallet",
+      "brand": "THE KINGSMAN NEWYORK",
+      "price": null,
+      "rating": 4.3,
+      "ratings": 57,
+      "isFrido": false
+     },
+     {
+      "pos": 14,
+      "title": "PUMA Men Casual Brown Genuine Leather Wallet",
+      "brand": "PUMA",
+      "price": null,
+      "rating": 4.3,
+      "ratings": 734,
+      "isFrido": false
+     }
+    ],
+    "fridoRank": null,
+    "fridoUrl": "https://www.flipkart.com/search?q=Wallet"
+   },
+   "status": "needs-verification",
+   "capturedAt": "2026-07-08"
   }
  ]
 }

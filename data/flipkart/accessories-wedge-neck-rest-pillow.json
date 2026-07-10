@@ -1,84 +1,95 @@
 {
  "category": "accessories-wedge-neck-rest-pillow",
  "marketplace": "flipkart",
- "keyword": "Frido Wedge Neck Rest Pillow",
+ "keyword": "Wedge Neck Rest Pillow",
+ "brandKeyword": "Frido Wedge Neck Rest Pillow",
  "capturedAt": "2026-07-08",
- "method": "Live scrape flipkart.com mobile search page 1 (__INITIAL_STATE__), query = exact SKU name",
+ "method": "Live scrape flipkart.com mobile search page 1 (__INITIAL_STATE__), query = generic product keyword",
  "confidence": "Medium-High (live; sponsored flags not exposed on mobile)",
- "fridoRank": 5,
+ "fridoRank": 6,
  "fridoPresent": true,
+ "fridoUrl": "https://www.flipkart.com/search?q=Wedge%20Neck%20Rest%20Pillow",
  "results": [
   {
    "pos": 1,
-   "title": "AYKA Microfibre Sleeping Pillow Pack of 1 Solid Soft Microfiber Pillow for Sleeping",
+   "title": "AYKA Microfibre Sleeping Pillow Pack of 1 Solid Soft Microfiber Pillows",
+   "brand": "AYKA",
    "price": null,
    "rating": 4.3,
-   "ratings": 148,
+   "ratings": 2421,
    "isFrido": false
   },
   {
    "pos": 2,
-   "title": "AYKA Microfibre Sleeping Pillow Pack of 1 Solid Soft Microfiber Pillows",
+   "title": "AYKA Microfibre Sleeping Pillow Pack of 1 Solid Soft Microfiber Pillow for Sleeping",
+   "brand": "AYKA",
    "price": null,
    "rating": 4.3,
-   "ratings": 2410,
+   "ratings": 150,
    "isFrido": false
   },
   {
    "pos": 3,
-   "title": "AYKA Polyester Fibre, Cotton Sleeping Pillow Pack of 1 Geometric Cord Pillow",
+   "title": "AYKA Microfibre Sleeping Pillow Pack of 2 Solid Soft Microfiber Pillows",
+   "brand": "AYKA",
    "price": null,
    "rating": 4.3,
-   "ratings": 55,
+   "ratings": 2421,
    "isFrido": false
   },
   {
    "pos": 4,
-   "title": "AYKA Microfibre Sleeping Pillow Pack of 2 Solid Soft Microfiber Pillows",
+   "title": "HOMESO Memory Foam Orthopaedic Pillow Pack of 1 Solid Wedge Plus Pillow for Sleeping Back & Neck Pain Relief Leg Elevator",
+   "brand": "HOMESO",
    "price": null,
    "rating": 4.3,
-   "ratings": 147,
+   "ratings": 877,
    "isFrido": false
   },
   {
    "pos": 5,
+   "title": "HOMESO Memory Foam Orthopaedic Pillow Pack of 1 Solid Wedge Plus Memory Foam Cushion for Sleeping, Acid Reflux Relief & Leg Elevator",
+   "brand": "HOMESO",
+   "price": null,
+   "rating": 4.3,
+   "ratings": 877,
+   "isFrido": false
+  },
+  {
+   "pos": 6,
+   "title": "Frido Black Memory Foam Car Pillow Cushion for Universal For Car",
+   "brand": "Frido",
+   "price": null,
+   "rating": 4.1,
+   "ratings": 529,
+   "isFrido": true
+  },
+  {
+   "pos": 7,
    "title": "Frido Memory Foam Cushion Pack of 2 Solid Wedge Plus with Neck Rest Pillow | Back, Neck, Knee & Leg Support",
+   "brand": "Frido",
    "price": null,
    "rating": 4,
    "ratings": 23,
    "isFrido": true
   },
   {
-   "pos": 6,
-   "title": "Frido Memory Foam Cushion Pack of 1 Solid Wedge Plus Cushion for Sleeping, Acid Reflux Relief, Leg Elevator, Pregnancy",
-   "price": null,
-   "rating": 4.2,
-   "ratings": 217,
-   "isFrido": true
-  },
-  {
-   "pos": 7,
-   "title": "Frido Grey Memory Foam Car Pillow Cushion for Universal For Car",
-   "price": null,
-   "rating": 4.1,
-   "ratings": 523,
-   "isFrido": true
-  },
-  {
    "pos": 8,
-   "title": "Frido Black Memory Foam Car Pillow Cushion for Universal For Car",
+   "title": "Frido Grey Memory Foam Car Pillow Cushion for Universal For Car",
+   "brand": "Frido",
    "price": null,
    "rating": 4.1,
-   "ratings": 523,
+   "ratings": 529,
    "isFrido": true
   },
   {
    "pos": 9,
-   "title": "Frido Memory Foam Orthopaedic Pillow Pack of 1 Solid Ultimate Deep Sleep Pillow for Neck & Shoulder Pain Relief, King Size 5 Inch",
+   "title": "MIVOR Memory Foam Orthopaedic Pillow Pack of 1 Solid",
+   "brand": "MIVOR",
    "price": null,
-   "rating": 4.1,
-   "ratings": 805,
-   "isFrido": true
+   "rating": 4.3,
+   "ratings": 4,
+   "isFrido": false
   }
  ],
  "notes": []

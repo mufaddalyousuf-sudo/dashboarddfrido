@@ -1,64 +1,109 @@
 {
  "category": "accessories-anti-slip-bath-mat",
  "marketplace": "flipkart",
- "keyword": "Frido Anti-Slip Bath Mat",
+ "keyword": "Anti Slip Bath Mat",
+ "brandKeyword": "Frido Anti-Slip Bath Mat",
  "capturedAt": "2026-07-08",
- "method": "Live scrape flipkart.com mobile search page 1 (__INITIAL_STATE__), query = exact SKU name",
+ "method": "Live scrape flipkart.com mobile search page 1 (__INITIAL_STATE__), query = generic product keyword",
  "confidence": "Medium-High (live; sponsored flags not exposed on mobile)",
- "fridoRank": 2,
- "fridoPresent": true,
+ "fridoRank": null,
+ "fridoPresent": false,
+ "fridoUrl": "https://www.flipkart.com/search?q=Anti%20Slip%20Bath%20Mat",
  "results": [
   {
    "pos": 1,
    "title": "Sunvibe Rubber Bathroom Mat",
+   "brand": "Sunvibe",
    "price": null,
    "rating": 4.2,
-   "ratings": 3136,
+   "ratings": 3137,
    "isFrido": false
   },
   {
    "pos": 2,
-   "title": "Frido PVC (Polyvinyl Chloride) Bathroom Mat",
+   "title": "HurryShoppy Rubber Bathroom Mat",
+   "brand": "HurryShoppy",
    "price": null,
-   "rating": 0,
-   "ratings": 0,
-   "isFrido": true
+   "rating": 4.2,
+   "ratings": 1534,
+   "isFrido": false
   },
   {
    "pos": 3,
-   "title": "Frido PP (Polypropylene) Bathroom Mat",
+   "title": "DestinyHome Rubber Bathroom Mat",
+   "brand": "DestinyHome",
    "price": null,
-   "rating": 0,
-   "ratings": 0,
-   "isFrido": true
+   "rating": 4.3,
+   "ratings": 116,
+   "isFrido": false
   },
   {
    "pos": 4,
-   "title": "DALUCI Rubber Bathroom Mat",
+   "title": "Helu International PVC (Polyvinyl Chloride) Bathroom Mat",
+   "brand": "Helu International",
    "price": null,
-   "rating": 4.1,
-   "ratings": 4816,
+   "rating": 0,
+   "ratings": 0,
    "isFrido": false
   },
   {
    "pos": 5,
-   "title": "Helu International PVC (Polyvinyl Chloride) Bathroom Mat",
+   "title": "AAYOMAY Rubber Bathroom Mat",
+   "brand": "AAYOMAY",
    "price": null,
-   "rating": 0,
-   "ratings": 0,
+   "rating": 4.7,
+   "ratings": 3,
    "isFrido": false
   },
   {
    "pos": 6,
-   "title": "DALUCI Rubber Floor Mat",
+   "title": "MODERN FAB Microfiber Bathroom Mat",
+   "brand": "MODERN FAB",
    "price": null,
    "rating": 4,
-   "ratings": 367,
+   "ratings": 434,
    "isFrido": false
   },
   {
    "pos": 7,
-   "title": "DestinyHome Rubber Bathroom Mat",
+   "title": "Shoppingzone Rubber Bathroom Mat",
+   "brand": "Shoppingzone",
+   "price": null,
+   "rating": 4.2,
+   "ratings": 833,
+   "isFrido": false
+  },
+  {
+   "pos": 8,
+   "title": "Waterproof Rubber Bathroom Mat",
+   "brand": "Waterproof",
+   "price": null,
+   "rating": 4.1,
+   "ratings": 5163,
+   "isFrido": false
+  },
+  {
+   "pos": 9,
+   "title": "DALUCI Rubber Bathroom Mat",
+   "brand": "DALUCI",
+   "price": null,
+   "rating": 4.1,
+   "ratings": 4828,
+   "isFrido": false
+  },
+  {
+   "pos": 10,
+   "title": "GreenLife PVC (Polyvinyl Chloride) Bathroom Mat",
+   "brand": "GreenLife",
+   "price": null,
+   "rating": 3.9,
+   "ratings": 158,
+   "isFrido": false
+  },
+  {
+   "pos": 11,
+   "title": "JIDHA Polyester Bathroom Mat",
+   "brand": "JIDHA",
    "price": null,
    "rating": 0,
    "ratings": 0,
