@@ -19,103 +19,178 @@
    "skus": [
     {
      "sku": "Adjustable Wedge Max Cushion",
-     "keyword": "Frido Adjustable Wedge Max Cushion"
+     "brandKeyword": "Frido Adjustable Wedge Max Cushion",
+     "genericKeyword": "Adjustable Wedge Max Cushion",
+     "manualKeyword": null,
+     "searchKeyword": "Adjustable Wedge Max Cushion"
     },
     {
      "sku": "Ultimate Car Neck Rest Pillow",
-     "keyword": "Frido Ultimate Car Neck Rest Pillow"
+     "brandKeyword": "Frido Ultimate Car Neck Rest Pillow",
+     "genericKeyword": "Car Neck Rest Pillow",
+     "manualKeyword": null,
+     "searchKeyword": "Car Neck Rest Pillow"
     },
     {
      "sku": "Ultimate Wedge Plus Cushion",
-     "keyword": "Frido Ultimate Wedge Plus Cushion"
+     "brandKeyword": "Frido Ultimate Wedge Plus Cushion",
+     "genericKeyword": "Wedge Plus Cushion",
+     "manualKeyword": null,
+     "searchKeyword": "Wedge Plus Cushion"
     },
     {
      "sku": "Ultimate Car Comfort Bundle",
-     "keyword": "Frido Ultimate Car Comfort Bundle"
+     "brandKeyword": "Frido Ultimate Car Comfort Bundle",
+     "genericKeyword": "Car Comfort Bundle",
+     "manualKeyword": null,
+     "searchKeyword": "Car Comfort Bundle"
     },
     {
      "sku": "Travel Neck Pillow",
-     "keyword": "Frido Travel Neck Pillow"
+     "brandKeyword": "Frido Travel Neck Pillow",
+     "genericKeyword": "Travel Neck Pillow",
+     "manualKeyword": null,
+     "searchKeyword": "Travel Neck Pillow"
     },
     {
      "sku": "Ultimate Car Backrest Cushion",
-     "keyword": "Frido Ultimate Car Backrest Cushion"
+     "brandKeyword": "Frido Ultimate Car Backrest Cushion",
+     "genericKeyword": "Car Backrest Cushion",
+     "manualKeyword": null,
+     "searchKeyword": "Car Backrest Cushion"
     },
     {
      "sku": "Ultimate Car Wedge Seat Cushion",
-     "keyword": "Frido Ultimate Car Wedge Seat Cushion"
+     "brandKeyword": "Frido Ultimate Car Wedge Seat Cushion",
+     "genericKeyword": "Car Wedge Seat Cushion",
+     "manualKeyword": null,
+     "searchKeyword": "Car Wedge Seat Cushion"
     },
     {
      "sku": "Maternity Pillow",
-     "keyword": "Frido Maternity Pillow"
+     "brandKeyword": "Frido Maternity Pillow",
+     "genericKeyword": "Maternity Pillow",
+     "manualKeyword": null,
+     "searchKeyword": "Maternity Pillow"
     },
     {
      "sku": "Ultimate Pro Seat Cushion",
-     "keyword": "Frido Ultimate Pro Seat Cushion"
+     "brandKeyword": "Frido Ultimate Pro Seat Cushion",
+     "genericKeyword": "Seat Cushion",
+     "manualKeyword": null,
+     "searchKeyword": "Seat Cushion"
     },
     {
      "sku": "Ultimate Pro Posture Corrector",
-     "keyword": "Frido Ultimate Pro Posture Corrector"
+     "brandKeyword": "Frido Ultimate Pro Posture Corrector",
+     "genericKeyword": "Posture Corrector",
+     "manualKeyword": null,
+     "searchKeyword": "Posture Corrector"
     },
     {
      "sku": "Premium Car Comfort Bundle",
-     "keyword": "Frido Premium Car Comfort Bundle"
+     "brandKeyword": "Frido Premium Car Comfort Bundle",
+     "genericKeyword": "Car Comfort Bundle",
+     "manualKeyword": null,
+     "searchKeyword": "Car Comfort Bundle"
     },
     {
      "sku": "Cloud Backrest Cushion",
-     "keyword": "Frido Cloud Backrest Cushion"
+     "brandKeyword": "Frido Cloud Backrest Cushion",
+     "genericKeyword": "Backrest Cushion",
+     "manualKeyword": null,
+     "searchKeyword": "Backrest Cushion"
     },
     {
      "sku": "Maternity Pillow Bundle Plus",
-     "keyword": "Frido Maternity Pillow Bundle Plus"
+     "brandKeyword": "Frido Maternity Pillow Bundle Plus",
+     "genericKeyword": "Maternity Pillow Bundle Plus",
+     "manualKeyword": null,
+     "searchKeyword": "Maternity Pillow Bundle Plus"
     },
     {
      "sku": "Ultimate Wedge Plus Max Cushion",
-     "keyword": "Frido Ultimate Wedge Plus Max Cushion"
+     "brandKeyword": "Frido Ultimate Wedge Plus Max Cushion",
+     "genericKeyword": "Wedge Plus Max Cushion",
+     "manualKeyword": null,
+     "searchKeyword": "Wedge Plus Max Cushion"
     },
     {
      "sku": "Cloud Seat Cushion",
-     "keyword": "Frido Cloud Seat Cushion"
+     "brandKeyword": "Frido Cloud Seat Cushion",
+     "genericKeyword": "Seat Cushion",
+     "manualKeyword": null,
+     "searchKeyword": "Seat Cushion"
     },
     {
      "sku": "Ultimate Tailbone Pain Relief Seat Cushion",
-     "keyword": "Frido Ultimate Tailbone Pain Relief Seat Cushion"
+     "brandKeyword": "Frido Ultimate Tailbone Pain Relief Seat Cushion",
+     "genericKeyword": "Tailbone Pain Relief Seat Cushion",
+     "manualKeyword": null,
+     "searchKeyword": "Tailbone Pain Relief Seat Cushion"
     },
     {
      "sku": "Leg Elevation Pillow",
-     "keyword": "Frido Leg Elevation Pillow"
+     "brandKeyword": "Frido Leg Elevation Pillow",
+     "genericKeyword": "Leg Elevation Pillow",
+     "manualKeyword": null,
+     "searchKeyword": "Leg Elevation Pillow"
     },
     {
      "sku": "Ultimate Lap Desk Pillow",
-     "keyword": "Frido Ultimate Lap Desk Pillow"
+     "brandKeyword": "Frido Ultimate Lap Desk Pillow",
+     "genericKeyword": "Lap Desk Pillow",
+     "manualKeyword": null,
+     "searchKeyword": "Lap Desk Pillow"
     },
     {
      "sku": "Premium Car Neck Rest Cushion",
-     "keyword": "Frido Premium Car Neck Rest Cushion"
+     "brandKeyword": "Frido Premium Car Neck Rest Cushion",
+     "genericKeyword": "Car Neck Rest Cushion",
+     "manualKeyword": null,
+     "searchKeyword": "Car Neck Rest Cushion"
     },
     {
      "sku": "Slim Seat Cushion",
-     "keyword": "Frido Slim Seat Cushion"
+     "brandKeyword": "Frido Slim Seat Cushion",
+     "genericKeyword": "Slim Seat Cushion",
+     "manualKeyword": null,
+     "searchKeyword": "Slim Seat Cushion"
     },
     {
      "sku": "Wedge Plus Cushion Cover",
-     "keyword": "Frido Wedge Plus Cushion Cover"
+     "brandKeyword": "Frido Wedge Plus Cushion Cover",
+     "genericKeyword": "Wedge Plus Cushion Cover",
+     "manualKeyword": null,
+     "searchKeyword": "Wedge Plus Cushion Cover"
     },
     {
      "sku": "Knee Pillow",
-     "keyword": "Frido Knee Pillow"
+     "brandKeyword": "Frido Knee Pillow",
+     "genericKeyword": "Knee Pillow",
+     "manualKeyword": null,
+     "searchKeyword": "Knee Pillow"
     },
     {
      "sku": "Dual Car Comfort Combo",
-     "keyword": "Frido Dual Car Comfort Combo"
+     "brandKeyword": "Frido Dual Car Comfort Combo",
+     "genericKeyword": "Dual Car Comfort Combo",
+     "manualKeyword": null,
+     "searchKeyword": "Dual Car Comfort Combo"
     },
     {
      "sku": "Ultimate Wedge Cushion",
-     "keyword": "Frido Ultimate Wedge Cushion"
+     "brandKeyword": "Frido Ultimate Wedge Cushion",
+     "genericKeyword": "Wedge Cushion",
+     "manualKeyword": null,
+     "searchKeyword": "Wedge Cushion"
     },
     {
      "sku": "Ultimate Pro Seating Combo",
-     "keyword": "Frido Ultimate Pro Seating Combo"
+     "brandKeyword": "Frido Ultimate Pro Seating Combo",
+     "genericKeyword": "Seating Combo",
+     "manualKeyword": null,
+     "searchKeyword": "Seating Combo"
     }
    ]
   },
@@ -127,63 +202,108 @@
    "skus": [
     {
      "sku": "Arch Support Insoles",
-     "keyword": "Frido Arch Support Insoles"
+     "brandKeyword": "Frido Arch Support Insoles",
+     "genericKeyword": "Arch Support Insoles",
+     "manualKeyword": null,
+     "searchKeyword": "Arch Support Insoles"
     },
     {
      "sku": "Arch Sports Insole",
-     "keyword": "Frido Arch Sports Insole"
+     "brandKeyword": "Frido Arch Sports Insole",
+     "genericKeyword": "Arch Sports Insole",
+     "manualKeyword": null,
+     "searchKeyword": "Arch Sports Insole"
     },
     {
      "sku": "Dual Gel Pro Insoles",
-     "keyword": "Frido Dual Gel Pro Insoles"
+     "brandKeyword": "Frido Dual Gel Pro Insoles",
+     "genericKeyword": "Dual Gel Insoles",
+     "manualKeyword": null,
+     "searchKeyword": "Dual Gel Insoles"
     },
     {
      "sku": "Plantar Fasciitis Pain Relief Ortho Insoles",
-     "keyword": "Frido Plantar Fasciitis Pain Relief Ortho Insoles"
+     "brandKeyword": "Frido Plantar Fasciitis Pain Relief Ortho Insoles",
+     "genericKeyword": "Plantar Fasciitis Pain Relief Ortho Insoles",
+     "manualKeyword": null,
+     "searchKeyword": "Plantar Fasciitis Pain Relief Ortho Insoles"
     },
     {
      "sku": "Dual Gel Insoles",
-     "keyword": "Frido Dual Gel Insoles"
+     "brandKeyword": "Frido Dual Gel Insoles",
+     "genericKeyword": "Dual Gel Insoles",
+     "manualKeyword": null,
+     "searchKeyword": "Dual Gel Insoles"
     },
     {
      "sku": "Arch Support Insoles Rigid + Semi Rigid Combo",
-     "keyword": "Frido Arch Support Insoles Rigid + Semi Rigid Combo"
+     "brandKeyword": "Frido Arch Support Insoles Rigid + Semi Rigid Combo",
+     "genericKeyword": "Arch Support Insoles Rigid Semi Rigid Combo",
+     "manualKeyword": null,
+     "searchKeyword": "Arch Support Insoles Rigid Semi Rigid Combo"
     },
     {
      "sku": "Orthopedic Heel Pad",
-     "keyword": "Frido Orthopedic Heel Pad"
+     "brandKeyword": "Frido Orthopedic Heel Pad",
+     "genericKeyword": "Orthopedic Heel Pad",
+     "manualKeyword": null,
+     "searchKeyword": "Orthopedic Heel Pad"
     },
     {
      "sku": "Max Comfort Memory Hi-Per Foam Insole",
-     "keyword": "Frido Max Comfort Memory Hi-Per Foam Insole"
+     "brandKeyword": "Frido Max Comfort Memory Hi-Per Foam Insole",
+     "genericKeyword": "Max Comfort Memory Hi Per Foam Insole",
+     "manualKeyword": null,
+     "searchKeyword": "Max Comfort Memory Hi Per Foam Insole"
     },
     {
      "sku": "Orthopedic Heel Pad Pro Insole",
-     "keyword": "Frido Orthopedic Heel Pad Pro Insole"
+     "brandKeyword": "Frido Orthopedic Heel Pad Pro Insole",
+     "genericKeyword": "Orthopedic Heel Pad Insole",
+     "manualKeyword": null,
+     "searchKeyword": "Orthopedic Heel Pad Insole"
     },
     {
      "sku": "Gel Max Comfort Insole",
-     "keyword": "Frido Gel Max Comfort Insole"
+     "brandKeyword": "Frido Gel Max Comfort Insole",
+     "genericKeyword": "Gel Max Comfort Insole",
+     "manualKeyword": null,
+     "searchKeyword": "Gel Max Comfort Insole"
     },
     {
      "sku": "Silicone Gel Insole",
-     "keyword": "Frido Silicone Gel Insole"
+     "brandKeyword": "Frido Silicone Gel Insole",
+     "genericKeyword": "Silicone Gel Insole",
+     "manualKeyword": null,
+     "searchKeyword": "Silicone Gel Insole"
     },
     {
      "sku": "Ultimate Flat Feet Combo",
-     "keyword": "Frido Ultimate Flat Feet Combo"
+     "brandKeyword": "Frido Ultimate Flat Feet Combo",
+     "genericKeyword": "Flat Feet Combo",
+     "manualKeyword": null,
+     "searchKeyword": "Flat Feet Combo"
     },
     {
      "sku": "Orthotics Heel Protector",
-     "keyword": "Frido Orthotics Heel Protector"
+     "brandKeyword": "Frido Orthotics Heel Protector",
+     "genericKeyword": "Orthotics Heel Protector",
+     "manualKeyword": null,
+     "searchKeyword": "Orthotics Heel Protector"
     },
     {
      "sku": "Max Comfort Arch Cushion Insoles",
-     "keyword": "Frido Max Comfort Arch Cushion Insoles"
+     "brandKeyword": "Frido Max Comfort Arch Cushion Insoles",
+     "genericKeyword": "Max Comfort Arch Cushion Insoles",
+     "manualKeyword": null,
+     "searchKeyword": "Max Comfort Arch Cushion Insoles"
     },
     {
      "sku": "Ball of Foot Cushions Pro",
-     "keyword": "Frido Ball of Foot Cushions Pro"
+     "brandKeyword": "Frido Ball of Foot Cushions Pro",
+     "genericKeyword": "Ball of Foot Cushions",
+     "manualKeyword": null,
+     "searchKeyword": "Ball of Foot Cushions"
     }
    ]
   },
@@ -195,55 +315,94 @@
    "skus": [
     {
      "sku": "Ultimate Deep Sleep Pillow",
-     "keyword": "Frido Ultimate Deep Sleep Pillow"
+     "brandKeyword": "Frido Ultimate Deep Sleep Pillow",
+     "genericKeyword": "Deep Sleep Pillow",
+     "manualKeyword": null,
+     "searchKeyword": "Deep Sleep Pillow"
     },
     {
      "sku": "Ultimate Cozy Pillow",
-     "keyword": "Frido Ultimate Cozy Pillow"
+     "brandKeyword": "Frido Ultimate Cozy Pillow",
+     "genericKeyword": "Cozy Pillow",
+     "manualKeyword": null,
+     "searchKeyword": "Cozy Pillow"
     },
     {
      "sku": "Ultimate Neck Contour Cervical Plus Pillow",
-     "keyword": "Frido Ultimate Neck Contour Cervical Plus Pillow"
+     "brandKeyword": "Frido Ultimate Neck Contour Cervical Plus Pillow",
+     "genericKeyword": "Neck Contour Cervical Plus Pillow",
+     "manualKeyword": null,
+     "searchKeyword": "Neck Contour Cervical Plus Pillow"
     },
     {
      "sku": "Ultra Slim Deep Sleep Pillow",
-     "keyword": "Frido Ultra Slim Deep Sleep Pillow"
+     "brandKeyword": "Frido Ultra Slim Deep Sleep Pillow",
+     "genericKeyword": "Ultra Slim Deep Sleep Pillow",
+     "manualKeyword": null,
+     "searchKeyword": "Ultra Slim Deep Sleep Pillow"
     },
     {
      "sku": "Cervical Butterfly Pillow",
-     "keyword": "Frido Cervical Butterfly Pillow"
+     "brandKeyword": "Frido Cervical Butterfly Pillow",
+     "genericKeyword": "Cervical Butterfly Pillow",
+     "manualKeyword": null,
+     "searchKeyword": "Cervical Butterfly Pillow"
     },
     {
      "sku": "Latex Pillow",
-     "keyword": "Frido Latex Pillow"
+     "brandKeyword": "Frido Latex Pillow",
+     "genericKeyword": "Latex Pillow",
+     "manualKeyword": null,
+     "searchKeyword": "Latex Pillow"
     },
     {
      "sku": "Crescent Adjustable Pillow",
-     "keyword": "Frido Crescent Adjustable Pillow"
+     "brandKeyword": "Frido Crescent Adjustable Pillow",
+     "genericKeyword": "Crescent Adjustable Pillow",
+     "manualKeyword": null,
+     "searchKeyword": "Crescent Adjustable Pillow"
     },
     {
      "sku": "Cuddle Sleep Pillow",
-     "keyword": "Frido Cuddle Sleep Pillow"
+     "brandKeyword": "Frido Cuddle Sleep Pillow",
+     "genericKeyword": "Cuddle Sleep Pillow",
+     "manualKeyword": null,
+     "searchKeyword": "Cuddle Sleep Pillow"
     },
     {
      "sku": "Ultimate Neck Contour Cervical Pillow",
-     "keyword": "Frido Ultimate Neck Contour Cervical Pillow"
+     "brandKeyword": "Frido Ultimate Neck Contour Cervical Pillow",
+     "genericKeyword": "Neck Contour Cervical Pillow",
+     "manualKeyword": null,
+     "searchKeyword": "Neck Contour Cervical Pillow"
     },
     {
      "sku": "Ultimate Cozy Classic Pillow",
-     "keyword": "Frido Ultimate Cozy Classic Pillow"
+     "brandKeyword": "Frido Ultimate Cozy Classic Pillow",
+     "genericKeyword": "Cozy Pillow",
+     "manualKeyword": null,
+     "searchKeyword": "Cozy Pillow"
     },
     {
      "sku": "Deep Sleep Pillow Cover",
-     "keyword": "Frido Deep Sleep Pillow Cover"
+     "brandKeyword": "Frido Deep Sleep Pillow Cover",
+     "genericKeyword": "Deep Sleep Pillow Cover",
+     "manualKeyword": null,
+     "searchKeyword": "Deep Sleep Pillow Cover"
     },
     {
      "sku": "Latex Pillow Cover",
-     "keyword": "Frido Latex Pillow Cover"
+     "brandKeyword": "Frido Latex Pillow Cover",
+     "genericKeyword": "Latex Pillow Cover",
+     "manualKeyword": null,
+     "searchKeyword": "Latex Pillow Cover"
     },
     {
      "sku": "Ortho Memory Foam Pillow",
-     "keyword": "Frido Ortho Memory Foam Pillow"
+     "brandKeyword": "Frido Ortho Memory Foam Pillow",
+     "genericKeyword": "Ortho Memory Foam Pillow",
+     "manualKeyword": null,
+     "searchKeyword": "Ortho Memory Foam Pillow"
     }
    ]
   },
@@ -255,15 +414,24 @@
    "skus": [
     {
      "sku": "Ultimate Mattress Topper",
-     "keyword": "Frido Ultimate Mattress Topper"
+     "brandKeyword": "Frido Ultimate Mattress Topper",
+     "genericKeyword": "Mattress Topper",
+     "manualKeyword": null,
+     "searchKeyword": "Mattress Topper"
     },
     {
      "sku": "Mattress Protector",
-     "keyword": "Frido Mattress Protector"
+     "brandKeyword": "Frido Mattress Protector",
+     "genericKeyword": "Mattress Protector",
+     "manualKeyword": null,
+     "searchKeyword": "Mattress Protector"
     },
     {
      "sku": "Mattress Protector - Bamboo Terry Fabric",
-     "keyword": "Frido Mattress Protector - Bamboo Terry Fabric"
+     "brandKeyword": "Frido Mattress Protector - Bamboo Terry Fabric",
+     "genericKeyword": "Mattress Protector Bamboo Terry Fabric",
+     "manualKeyword": null,
+     "searchKeyword": "Mattress Protector Bamboo Terry Fabric"
     }
    ]
   },
@@ -275,15 +443,24 @@
    "skus": [
     {
      "sku": "Wedge Plus Cushion Cover",
-     "keyword": "Frido Wedge Plus Cushion Cover"
+     "brandKeyword": "Frido Wedge Plus Cushion Cover",
+     "genericKeyword": "Wedge Plus Cushion Cover",
+     "manualKeyword": null,
+     "searchKeyword": "Wedge Plus Cushion Cover"
     },
     {
      "sku": "Deep Sleep Pillow Cover",
-     "keyword": "Frido Deep Sleep Pillow Cover"
+     "brandKeyword": "Frido Deep Sleep Pillow Cover",
+     "genericKeyword": "Deep Sleep Pillow Cover",
+     "manualKeyword": null,
+     "searchKeyword": "Deep Sleep Pillow Cover"
     },
     {
      "sku": "Latex Pillow Cover",
-     "keyword": "Frido Latex Pillow Cover"
+     "brandKeyword": "Frido Latex Pillow Cover",
+     "genericKeyword": "Latex Pillow Cover",
+     "manualKeyword": null,
+     "searchKeyword": "Latex Pillow Cover"
     }
    ]
   },
@@ -295,15 +472,24 @@
    "skus": [
     {
      "sku": "Barefoot Sock Shoe Classic",
-     "keyword": "Frido Barefoot Sock Shoe Classic"
+     "brandKeyword": "Frido Barefoot Sock Shoe Classic",
+     "genericKeyword": "Barefoot Sock Shoe",
+     "manualKeyword": null,
+     "searchKeyword": "Barefoot Sock Shoe"
     },
     {
      "sku": "x HRX Barefoot Sock Shoe Pro",
-     "keyword": "Frido x HRX Barefoot Sock Shoe Pro"
+     "brandKeyword": "Frido x HRX Barefoot Sock Shoe Pro",
+     "genericKeyword": "Barefoot Sock Shoe",
+     "manualKeyword": null,
+     "searchKeyword": "Barefoot Sock Shoe"
     },
     {
      "sku": "Barefoot Sock Shoe Pro",
-     "keyword": "Frido Barefoot Sock Shoe Pro"
+     "brandKeyword": "Frido Barefoot Sock Shoe Pro",
+     "genericKeyword": "Barefoot Sock Shoe",
+     "manualKeyword": null,
+     "searchKeyword": "Barefoot Sock Shoe"
     }
    ]
   },
@@ -315,103 +501,178 @@
    "skus": [
     {
      "sku": "Women's Arch Comfort Wedge Sandals - Buckle Strap",
-     "keyword": "Frido Women's Arch Comfort Wedge Sandals - Buckle Strap"
+     "brandKeyword": "Frido Women's Arch Comfort Wedge Sandals - Buckle Strap",
+     "genericKeyword": "Women's Arch Comfort Wedge Sandals Buckle Strap",
+     "manualKeyword": null,
+     "searchKeyword": "Women's Arch Comfort Wedge Sandals Buckle Strap"
     },
     {
      "sku": "Women's Cloud Comfort Shoes - Slip Ons",
-     "keyword": "Frido Women's Cloud Comfort Shoes - Slip Ons"
+     "brandKeyword": "Frido Women's Cloud Comfort Shoes - Slip Ons",
+     "genericKeyword": "Women's Comfort Shoes Slip Ons",
+     "manualKeyword": null,
+     "searchKeyword": "Women's Comfort Shoes Slip Ons"
     },
     {
      "sku": "Women's Arch Support Wedge Sandals",
-     "keyword": "Frido Women's Arch Support Wedge Sandals"
+     "brandKeyword": "Frido Women's Arch Support Wedge Sandals",
+     "genericKeyword": "Women's Arch Support Wedge Sandals",
+     "manualKeyword": null,
+     "searchKeyword": "Women's Arch Support Wedge Sandals"
     },
     {
      "sku": "Cloud Comfort Arch Support Slippers",
-     "keyword": "Frido Cloud Comfort Arch Support Slippers"
+     "brandKeyword": "Frido Cloud Comfort Arch Support Slippers",
+     "genericKeyword": "Comfort Arch Support Slippers",
+     "manualKeyword": null,
+     "searchKeyword": "Comfort Arch Support Slippers"
     },
     {
      "sku": "Men's Comfort Dual Strap Sandals",
-     "keyword": "Frido Men's Comfort Dual Strap Sandals"
+     "brandKeyword": "Frido Men's Comfort Dual Strap Sandals",
+     "genericKeyword": "Men's Comfort Dual Strap Sandals",
+     "manualKeyword": null,
+     "searchKeyword": "Men's Comfort Dual Strap Sandals"
     },
     {
      "sku": "Cloud Comfort Slippers",
-     "keyword": "Frido Cloud Comfort Slippers"
+     "brandKeyword": "Frido Cloud Comfort Slippers",
+     "genericKeyword": "Comfort Slippers",
+     "manualKeyword": null,
+     "searchKeyword": "Comfort Slippers"
     },
     {
      "sku": "Women's Arch Comfort Sandals",
-     "keyword": "Frido Women's Arch Comfort Sandals"
+     "brandKeyword": "Frido Women's Arch Comfort Sandals",
+     "genericKeyword": "Women's Arch Comfort Sandals",
+     "manualKeyword": null,
+     "searchKeyword": "Women's Arch Comfort Sandals"
     },
     {
      "sku": "Men's Cloud Comfort Shoes - Slip Ons",
-     "keyword": "Frido Men's Cloud Comfort Shoes - Slip Ons"
+     "brandKeyword": "Frido Men's Cloud Comfort Shoes - Slip Ons",
+     "genericKeyword": "Men's Comfort Shoes Slip Ons",
+     "manualKeyword": null,
+     "searchKeyword": "Men's Comfort Shoes Slip Ons"
     },
     {
      "sku": "Women's Cloud Comfort Shoes - Lace ups",
-     "keyword": "Frido Women's Cloud Comfort Shoes - Lace ups"
+     "brandKeyword": "Frido Women's Cloud Comfort Shoes - Lace ups",
+     "genericKeyword": "Women's Comfort Shoes Lace ups",
+     "manualKeyword": null,
+     "searchKeyword": "Women's Comfort Shoes Lace ups"
     },
     {
      "sku": "Women's Cloud Comfort Sandal",
-     "keyword": "Frido Women's Cloud Comfort Sandal"
+     "brandKeyword": "Frido Women's Cloud Comfort Sandal",
+     "genericKeyword": "Women's Comfort Sandal",
+     "manualKeyword": null,
+     "searchKeyword": "Women's Comfort Sandal"
     },
     {
      "sku": "Men's Cloud Comfort Shoes - Lace Ups",
-     "keyword": "Frido Men's Cloud Comfort Shoes - Lace Ups"
+     "brandKeyword": "Frido Men's Cloud Comfort Shoes - Lace Ups",
+     "genericKeyword": "Men's Comfort Shoes Lace Ups",
+     "manualKeyword": null,
+     "searchKeyword": "Men's Comfort Shoes Lace Ups"
     },
     {
      "sku": "Men's Cloud Comfort Sandal",
-     "keyword": "Frido Men's Cloud Comfort Sandal"
+     "brandKeyword": "Frido Men's Cloud Comfort Sandal",
+     "genericKeyword": "Men's Comfort Sandal",
+     "manualKeyword": null,
+     "searchKeyword": "Men's Comfort Sandal"
     },
     {
      "sku": "Women's Comfort Flat Sandal",
-     "keyword": "Frido Women's Comfort Flat Sandal"
+     "brandKeyword": "Frido Women's Comfort Flat Sandal",
+     "genericKeyword": "Women's Comfort Flat Sandal",
+     "manualKeyword": null,
+     "searchKeyword": "Women's Comfort Flat Sandal"
     },
     {
      "sku": "Women's Ethnic Comfort Flat Sandal",
-     "keyword": "Frido Women's Ethnic Comfort Flat Sandal"
+     "brandKeyword": "Frido Women's Ethnic Comfort Flat Sandal",
+     "genericKeyword": "Women's Ethnic Comfort Flat Sandal",
+     "manualKeyword": null,
+     "searchKeyword": "Women's Ethnic Comfort Flat Sandal"
     },
     {
      "sku": "Women's Cloud Comfort Sandal - Toeless",
-     "keyword": "Frido Women's Cloud Comfort Sandal - Toeless"
+     "brandKeyword": "Frido Women's Cloud Comfort Sandal - Toeless",
+     "genericKeyword": "Women's Comfort Sandal Toeless",
+     "manualKeyword": null,
+     "searchKeyword": "Women's Comfort Sandal Toeless"
     },
     {
      "sku": "Comfort Formal Shoes",
-     "keyword": "Frido Comfort Formal Shoes"
+     "brandKeyword": "Frido Comfort Formal Shoes",
+     "genericKeyword": "Comfort Formal Shoes",
+     "manualKeyword": null,
+     "searchKeyword": "Comfort Formal Shoes"
     },
     {
      "sku": "Active Casual Sneakers - Men's",
-     "keyword": "Frido Active Casual Sneakers - Men's"
+     "brandKeyword": "Frido Active Casual Sneakers - Men's",
+     "genericKeyword": "Casual Sneakers Men's",
+     "manualKeyword": null,
+     "searchKeyword": "Casual Sneakers Men's"
     },
     {
      "sku": "Active Casual Sneakers - Women's",
-     "keyword": "Frido Active Casual Sneakers - Women's"
+     "brandKeyword": "Frido Active Casual Sneakers - Women's",
+     "genericKeyword": "Casual Sneakers Women's",
+     "manualKeyword": null,
+     "searchKeyword": "Casual Sneakers Women's"
     },
     {
      "sku": "Puneri Chappal - Men",
-     "keyword": "Frido Puneri Chappal - Men"
+     "brandKeyword": "Frido Puneri Chappal - Men",
+     "genericKeyword": "Puneri Chappal Men",
+     "manualKeyword": null,
+     "searchKeyword": "Puneri Chappal Men"
     },
     {
      "sku": "Active Walking Shoes - Men's",
-     "keyword": "Frido Active Walking Shoes - Men's"
+     "brandKeyword": "Frido Active Walking Shoes - Men's",
+     "genericKeyword": "Walking Shoes Men's",
+     "manualKeyword": null,
+     "searchKeyword": "Walking Shoes Men's"
     },
     {
      "sku": "Men's Puneri Arch Comfort Sandal",
-     "keyword": "Frido Men's Puneri Arch Comfort Sandal"
+     "brandKeyword": "Frido Men's Puneri Arch Comfort Sandal",
+     "genericKeyword": "Men's Puneri Arch Comfort Sandal",
+     "manualKeyword": null,
+     "searchKeyword": "Men's Puneri Arch Comfort Sandal"
     },
     {
      "sku": "Men's Orthotics Toe Ring Sandals",
-     "keyword": "Frido Men's Orthotics Toe Ring Sandals"
+     "brandKeyword": "Frido Men's Orthotics Toe Ring Sandals",
+     "genericKeyword": "Men's Orthotics Toe Ring Sandals",
+     "manualKeyword": null,
+     "searchKeyword": "Men's Orthotics Toe Ring Sandals"
     },
     {
      "sku": "Unisex Orthotics V-Strap Sandals",
-     "keyword": "Frido Unisex Orthotics V-Strap Sandals"
+     "brandKeyword": "Frido Unisex Orthotics V-Strap Sandals",
+     "genericKeyword": "Unisex Orthotics V Strap Sandals",
+     "manualKeyword": null,
+     "searchKeyword": "Unisex Orthotics V Strap Sandals"
     },
     {
      "sku": "Men's Orthotics Dual Strap Sandals",
-     "keyword": "Frido Men's Orthotics Dual Strap Sandals"
+     "brandKeyword": "Frido Men's Orthotics Dual Strap Sandals",
+     "genericKeyword": "Men's Orthotics Dual Strap Sandals",
+     "manualKeyword": null,
+     "searchKeyword": "Men's Orthotics Dual Strap Sandals"
     },
     {
      "sku": "Puneri Chappal - Women",
-     "keyword": "Frido Puneri Chappal - Women"
+     "brandKeyword": "Frido Puneri Chappal - Women",
+     "genericKeyword": "Puneri Chappal Women",
+     "manualKeyword": null,
+     "searchKeyword": "Puneri Chappal Women"
     }
    ]
   },
@@ -423,15 +684,24 @@
    "skus": [
     {
      "sku": "Wedge Neck Rest Pillow",
-     "keyword": "Frido Wedge Neck Rest Pillow"
+     "brandKeyword": "Frido Wedge Neck Rest Pillow",
+     "genericKeyword": "Wedge Neck Rest Pillow",
+     "manualKeyword": null,
+     "searchKeyword": "Wedge Neck Rest Pillow"
     },
     {
      "sku": "Anti-Slip Bath Mat",
-     "keyword": "Frido Anti-Slip Bath Mat"
+     "brandKeyword": "Frido Anti-Slip Bath Mat",
+     "genericKeyword": "Anti Slip Bath Mat",
+     "manualKeyword": null,
+     "searchKeyword": "Anti Slip Bath Mat"
     },
     {
      "sku": "Wallet",
-     "keyword": "Frido Wallet"
+     "brandKeyword": "Frido Wallet",
+     "genericKeyword": "Wallet",
+     "manualKeyword": null,
+     "searchKeyword": "Wallet"
     }
    ]
   },
@@ -443,23 +713,38 @@
    "skus": [
     {
      "sku": "Maternity Pillow Plus",
-     "keyword": "Frido Maternity Pillow Plus"
+     "brandKeyword": "Frido Maternity Pillow Plus",
+     "genericKeyword": "Maternity Pillow Plus",
+     "manualKeyword": null,
+     "searchKeyword": "Maternity Pillow Plus"
     },
     {
      "sku": "Autofold Travel Stroller",
-     "keyword": "Frido Autofold Travel Stroller"
+     "brandKeyword": "Frido Autofold Travel Stroller",
+     "genericKeyword": "Autofold Travel Stroller",
+     "manualKeyword": null,
+     "searchKeyword": "Autofold Travel Stroller"
     },
     {
      "sku": "Maternity Pillow",
-     "keyword": "Frido Maternity Pillow"
+     "brandKeyword": "Frido Maternity Pillow",
+     "genericKeyword": "Maternity Pillow",
+     "manualKeyword": null,
+     "searchKeyword": "Maternity Pillow"
     },
     {
      "sku": "Maternity Pillow Bundle Plus",
-     "keyword": "Frido Maternity Pillow Bundle Plus"
+     "brandKeyword": "Frido Maternity Pillow Bundle Plus",
+     "genericKeyword": "Maternity Pillow Bundle Plus",
+     "manualKeyword": null,
+     "searchKeyword": "Maternity Pillow Bundle Plus"
     },
     {
      "sku": "Maternity U-Shaped Pillow",
-     "keyword": "Frido Maternity U-Shaped Pillow"
+     "brandKeyword": "Frido Maternity U-Shaped Pillow",
+     "genericKeyword": "Maternity U Shaped Pillow",
+     "manualKeyword": null,
+     "searchKeyword": "Maternity U Shaped Pillow"
     }
    ]
   },
@@ -471,15 +756,24 @@
    "skus": [
     {
      "sku": "Ultimate Pro Face Mask",
-     "keyword": "Frido Ultimate Pro Face Mask"
+     "brandKeyword": "Frido Ultimate Pro Face Mask",
+     "genericKeyword": "Face Mask",
+     "manualKeyword": null,
+     "searchKeyword": "Face Mask"
     },
     {
      "sku": "Silver Plus Face Mask",
-     "keyword": "Frido Silver Plus Face Mask"
+     "brandKeyword": "Frido Silver Plus Face Mask",
+     "genericKeyword": "Silver Plus Face Mask",
+     "manualKeyword": null,
+     "searchKeyword": "Silver Plus Face Mask"
     },
     {
      "sku": "Ultimate Face Mask",
-     "keyword": "Frido Ultimate Face Mask"
+     "brandKeyword": "Frido Ultimate Face Mask",
+     "genericKeyword": "Face Mask",
+     "manualKeyword": null,
+     "searchKeyword": "Face Mask"
     }
    ]
   },
@@ -491,27 +785,45 @@
    "skus": [
     {
      "sku": "Five Toe Socks - Patterned",
-     "keyword": "Frido Five Toe Socks - Patterned"
+     "brandKeyword": "Frido Five Toe Socks - Patterned",
+     "genericKeyword": "Five Toe Socks Patterned",
+     "manualKeyword": null,
+     "searchKeyword": "Five Toe Socks Patterned"
     },
     {
      "sku": "Five Toe Socks - Solid",
-     "keyword": "Frido Five Toe Socks - Solid"
+     "brandKeyword": "Frido Five Toe Socks - Solid",
+     "genericKeyword": "Five Toe Socks Solid",
+     "manualKeyword": null,
+     "searchKeyword": "Five Toe Socks Solid"
     },
     {
      "sku": "Active Socks",
-     "keyword": "Frido Active Socks"
+     "brandKeyword": "Frido Active Socks",
+     "genericKeyword": "Socks",
+     "manualKeyword": null,
+     "searchKeyword": "Socks"
     },
     {
      "sku": "Five Toe Socks",
-     "keyword": "Frido Five Toe Socks"
+     "brandKeyword": "Frido Five Toe Socks",
+     "genericKeyword": "Five Toe Socks",
+     "manualKeyword": null,
+     "searchKeyword": "Five Toe Socks"
     },
     {
      "sku": "Kids Socks",
-     "keyword": "Frido Kids Socks"
+     "brandKeyword": "Frido Kids Socks",
+     "genericKeyword": "Kids Socks",
+     "manualKeyword": null,
+     "searchKeyword": "Kids Socks"
     },
     {
      "sku": "Winter Socks",
-     "keyword": "Frido Winter Socks"
+     "brandKeyword": "Frido Winter Socks",
+     "genericKeyword": "Winter Socks",
+     "manualKeyword": null,
+     "searchKeyword": "Winter Socks"
     }
    ]
   },
@@ -523,71 +835,122 @@
    "skus": [
     {
      "sku": "Orthotics Bamboo Knee Cap",
-     "keyword": "Frido Orthotics Bamboo Knee Cap"
+     "brandKeyword": "Frido Orthotics Bamboo Knee Cap",
+     "genericKeyword": "Orthotics Bamboo Knee Cap",
+     "manualKeyword": null,
+     "searchKeyword": "Orthotics Bamboo Knee Cap"
     },
     {
      "sku": "Orthotics Posture Corrector Pro",
-     "keyword": "Frido Orthotics Posture Corrector Pro"
+     "brandKeyword": "Frido Orthotics Posture Corrector Pro",
+     "genericKeyword": "Orthotics Posture Corrector",
+     "manualKeyword": null,
+     "searchKeyword": "Orthotics Posture Corrector"
     },
     {
      "sku": "Orthotics Posture Corrector",
-     "keyword": "Frido Orthotics Posture Corrector"
+     "brandKeyword": "Frido Orthotics Posture Corrector",
+     "genericKeyword": "Orthotics Posture Corrector",
+     "manualKeyword": null,
+     "searchKeyword": "Orthotics Posture Corrector"
     },
     {
      "sku": "Orthotics Heel Protector",
-     "keyword": "Frido Orthotics Heel Protector"
+     "brandKeyword": "Frido Orthotics Heel Protector",
+     "genericKeyword": "Orthotics Heel Protector",
+     "manualKeyword": null,
+     "searchKeyword": "Orthotics Heel Protector"
     },
     {
      "sku": "Orthotics Knee Support Wrap",
-     "keyword": "Frido Orthotics Knee Support Wrap"
+     "brandKeyword": "Frido Orthotics Knee Support Wrap",
+     "genericKeyword": "Orthotics Knee Support Wrap",
+     "manualKeyword": null,
+     "searchKeyword": "Orthotics Knee Support Wrap"
     },
     {
      "sku": "Active Knee Cap Support",
-     "keyword": "Frido Active Knee Cap Support"
+     "brandKeyword": "Frido Active Knee Cap Support",
+     "genericKeyword": "Knee Cap Support",
+     "manualKeyword": null,
+     "searchKeyword": "Knee Cap Support"
     },
     {
      "sku": "Orthotics Toe Separator",
-     "keyword": "Frido Orthotics Toe Separator"
+     "brandKeyword": "Frido Orthotics Toe Separator",
+     "genericKeyword": "Orthotics Toe Separator",
+     "manualKeyword": null,
+     "searchKeyword": "Orthotics Toe Separator"
     },
     {
      "sku": "Lumbo Sacral Belt",
-     "keyword": "Frido Lumbo Sacral Belt"
+     "brandKeyword": "Frido Lumbo Sacral Belt",
+     "genericKeyword": "Lumbo Sacral Belt",
+     "manualKeyword": null,
+     "searchKeyword": "Lumbo Sacral Belt"
     },
     {
      "sku": "Orthotics Bunion Corrector",
-     "keyword": "Frido Orthotics Bunion Corrector"
+     "brandKeyword": "Frido Orthotics Bunion Corrector",
+     "genericKeyword": "Orthotics Bunion Corrector",
+     "manualKeyword": null,
+     "searchKeyword": "Orthotics Bunion Corrector"
     },
     {
      "sku": "Kinesiology Tape",
-     "keyword": "Frido Kinesiology Tape"
+     "brandKeyword": "Frido Kinesiology Tape",
+     "genericKeyword": "Kinesiology Tape",
+     "manualKeyword": null,
+     "searchKeyword": "Kinesiology Tape"
     },
     {
      "sku": "Mouse Wrist Support",
-     "keyword": "Frido Mouse Wrist Support"
+     "brandKeyword": "Frido Mouse Wrist Support",
+     "genericKeyword": "Mouse Wrist Support",
+     "manualKeyword": null,
+     "searchKeyword": "Mouse Wrist Support"
     },
     {
      "sku": "Orthotics Compression Gloves",
-     "keyword": "Frido Orthotics Compression Gloves"
+     "brandKeyword": "Frido Orthotics Compression Gloves",
+     "genericKeyword": "Orthotics Compression Gloves",
+     "manualKeyword": null,
+     "searchKeyword": "Orthotics Compression Gloves"
     },
     {
      "sku": "Orthotics Sports Knee Cap Support",
-     "keyword": "Frido Orthotics Sports Knee Cap Support"
+     "brandKeyword": "Frido Orthotics Sports Knee Cap Support",
+     "genericKeyword": "Orthotics Sports Knee Cap Support",
+     "manualKeyword": null,
+     "searchKeyword": "Orthotics Sports Knee Cap Support"
     },
     {
      "sku": "Orthotics Wrist Support Brace",
-     "keyword": "Frido Orthotics Wrist Support Brace"
+     "brandKeyword": "Frido Orthotics Wrist Support Brace",
+     "genericKeyword": "Orthotics Wrist Support Brace",
+     "manualKeyword": null,
+     "searchKeyword": "Orthotics Wrist Support Brace"
     },
     {
      "sku": "Orthotics Comfort Gym Gloves",
-     "keyword": "Frido Orthotics Comfort Gym Gloves"
+     "brandKeyword": "Frido Orthotics Comfort Gym Gloves",
+     "genericKeyword": "Orthotics Comfort Gym Gloves",
+     "manualKeyword": null,
+     "searchKeyword": "Orthotics Comfort Gym Gloves"
     },
     {
      "sku": "Orthotics Posture Corrector Seat",
-     "keyword": "Frido Orthotics Posture Corrector Seat"
+     "brandKeyword": "Frido Orthotics Posture Corrector Seat",
+     "genericKeyword": "Orthotics Posture Corrector Seat",
+     "manualKeyword": null,
+     "searchKeyword": "Orthotics Posture Corrector Seat"
     },
     {
      "sku": "Orthotics Sports Elbow Brace",
-     "keyword": "Frido Orthotics Sports Elbow Brace"
+     "brandKeyword": "Frido Orthotics Sports Elbow Brace",
+     "genericKeyword": "Orthotics Sports Elbow Brace",
+     "manualKeyword": null,
+     "searchKeyword": "Orthotics Sports Elbow Brace"
     }
    ]
   },
@@ -599,39 +962,66 @@
    "skus": [
     {
      "sku": "Nasal Strip Pro",
-     "keyword": "Frido Nasal Strip Pro"
+     "brandKeyword": "Frido Nasal Strip Pro",
+     "genericKeyword": "Nasal Strip",
+     "manualKeyword": null,
+     "searchKeyword": "Nasal Strip"
     },
     {
      "sku": "Nasal Strips",
-     "keyword": "Frido Nasal Strips"
+     "brandKeyword": "Frido Nasal Strips",
+     "genericKeyword": "Nasal Strips",
+     "manualKeyword": null,
+     "searchKeyword": "Nasal Strips"
     },
     {
      "sku": "Cold & Hot Therapy Cap",
-     "keyword": "Frido Cold & Hot Therapy Cap"
+     "brandKeyword": "Frido Cold & Hot Therapy Cap",
+     "genericKeyword": "Cold and Hot Therapy Cap",
+     "manualKeyword": null,
+     "searchKeyword": "Cold and Hot Therapy Cap"
     },
     {
      "sku": "Electric Heating Pad",
-     "keyword": "Frido Electric Heating Pad"
+     "brandKeyword": "Frido Electric Heating Pad",
+     "genericKeyword": "Electric Heating Pad",
+     "manualKeyword": null,
+     "searchKeyword": "Electric Heating Pad"
     },
     {
      "sku": "Sleep Eye Mask",
-     "keyword": "Frido Sleep Eye Mask"
+     "brandKeyword": "Frido Sleep Eye Mask",
+     "genericKeyword": "Sleep Eye Mask",
+     "manualKeyword": null,
+     "searchKeyword": "Sleep Eye Mask"
     },
     {
      "sku": "3D Eye Mask",
-     "keyword": "Frido 3D Eye Mask"
+     "brandKeyword": "Frido 3D Eye Mask",
+     "genericKeyword": "3D Eye Mask",
+     "manualKeyword": null,
+     "searchKeyword": "3D Eye Mask"
     },
     {
      "sku": "Anti-Slip Bath Mat",
-     "keyword": "Frido Anti-Slip Bath Mat"
+     "brandKeyword": "Frido Anti-Slip Bath Mat",
+     "genericKeyword": "Anti Slip Bath Mat",
+     "manualKeyword": null,
+     "searchKeyword": "Anti Slip Bath Mat"
     },
     {
      "sku": "Five Finger Neck Massager",
-     "keyword": "Frido Five Finger Neck Massager"
+     "brandKeyword": "Frido Five Finger Neck Massager",
+     "genericKeyword": "Five Finger Neck Massager",
+     "manualKeyword": null,
+     "searchKeyword": "Five Finger Neck Massager"
     },
     {
      "sku": "Cramp Relief Belt",
-     "keyword": "Frido Cramp Relief Belt"
+     "brandKeyword": "Frido Cramp Relief Belt",
+     "genericKeyword": "Cramp Relief Belt",
+     "manualKeyword": null,
+     "searchKeyword": "Cramp Relief Belt"
     }
    ]
   },
@@ -643,23 +1033,38 @@
    "skus": [
     {
      "sku": "ErgoLuxe Monitor Arm - Single",
-     "keyword": "Frido ErgoLuxe Monitor Arm - Single"
+     "brandKeyword": "Frido ErgoLuxe Monitor Arm - Single",
+     "genericKeyword": "Monitor Arm Single",
+     "manualKeyword": null,
+     "searchKeyword": "Monitor Arm Single"
     },
     {
      "sku": "Ergoluxe Monitor Arm - Dual",
-     "keyword": "Frido Ergoluxe Monitor Arm - Dual"
+     "brandKeyword": "Frido Ergoluxe Monitor Arm - Dual",
+     "genericKeyword": "Monitor Arm Dual",
+     "manualKeyword": null,
+     "searchKeyword": "Monitor Arm Dual"
     },
     {
      "sku": "Ergoluxe Electric Standing Desk",
-     "keyword": "Frido Ergoluxe Electric Standing Desk"
+     "brandKeyword": "Frido Ergoluxe Electric Standing Desk",
+     "genericKeyword": "Electric Standing Desk",
+     "manualKeyword": null,
+     "searchKeyword": "Electric Standing Desk"
     },
     {
      "sku": "Portable Standing Desk",
-     "keyword": "Frido Portable Standing Desk"
+     "brandKeyword": "Frido Portable Standing Desk",
+     "genericKeyword": "Portable Standing Desk",
+     "manualKeyword": null,
+     "searchKeyword": "Portable Standing Desk"
     },
     {
      "sku": "Standing Desk Converter",
-     "keyword": "Frido Standing Desk Converter"
+     "brandKeyword": "Frido Standing Desk Converter",
+     "genericKeyword": "Standing Desk Converter",
+     "manualKeyword": null,
+     "searchKeyword": "Standing Desk Converter"
     }
    ]
   },
@@ -672,19 +1077,31 @@
    "skus": [
     {
      "sku": "Foldable Travel Wheelchair",
-     "keyword": "Frido Foldable Travel Wheelchair"
+     "brandKeyword": "Frido Foldable Travel Wheelchair",
+     "genericKeyword": "Foldable Travel Wheelchair",
+     "manualKeyword": null,
+     "searchKeyword": "Foldable Travel Wheelchair"
     },
     {
      "sku": "Foldable Travel Plus Wheelchair",
-     "keyword": "Frido Foldable Travel Plus Wheelchair"
+     "brandKeyword": "Frido Foldable Travel Plus Wheelchair",
+     "genericKeyword": "Foldable Travel Plus Wheelchair",
+     "manualKeyword": null,
+     "searchKeyword": "Foldable Travel Plus Wheelchair"
     },
     {
      "sku": "2000 Wheelchair",
-     "keyword": "Frido 2000 Wheelchair"
+     "brandKeyword": "Frido 2000 Wheelchair",
+     "genericKeyword": "2000 Wheelchair",
+     "manualKeyword": null,
+     "searchKeyword": "2000 Wheelchair"
     },
     {
      "sku": "Prime Plus Electric Wheelchair",
-     "keyword": "Frido Prime Plus Electric Wheelchair"
+     "brandKeyword": "Frido Prime Plus Electric Wheelchair",
+     "genericKeyword": "Plus Electric Wheelchair",
+     "manualKeyword": "Electric Wheelchair",
+     "searchKeyword": "Electric Wheelchair"
     }
    ]
   },
@@ -696,41 +1113,69 @@
    "skus": [
     {
      "sku": "Vajra Gaming Chair",
-     "keyword": "Frido Vajra Gaming Chair"
+     "brandKeyword": "Frido Vajra Gaming Chair",
+     "genericKeyword": "Gaming Chair",
+     "manualKeyword": null,
+     "searchKeyword": "Gaming Chair"
     },
     {
      "sku": "ErgoLuxe Executive Chair",
-     "keyword": "Frido ErgoLuxe Executive Chair"
+     "brandKeyword": "Frido ErgoLuxe Executive Chair",
+     "genericKeyword": "Executive Chair",
+     "manualKeyword": null,
+     "searchKeyword": "Executive Chair"
     },
     {
      "sku": "3D Posture Plus Ergonomic Chair",
-     "keyword": "Frido 3D Posture Plus Ergonomic Chair"
+     "brandKeyword": "Frido 3D Posture Plus Ergonomic Chair",
+     "genericKeyword": "3D Posture Plus Ergonomic Chair",
+     "manualKeyword": null,
+     "searchKeyword": "3D Posture Plus Ergonomic Chair"
     },
     {
      "sku": "AeroMesh Ergo Chair",
-     "keyword": "Frido AeroMesh Ergo Chair"
+     "brandKeyword": "Frido AeroMesh Ergo Chair",
+     "genericKeyword": "Ergo Chair",
+     "manualKeyword": null,
+     "searchKeyword": "Ergo Chair"
     },
     {
      "sku": "Glide Ergo Chair",
-     "keyword": "Frido Glide Ergo Chair"
+     "brandKeyword": "Frido Glide Ergo Chair",
+     "genericKeyword": "Ergo Chair",
+     "manualKeyword": null,
+     "searchKeyword": "Ergo Chair"
     },
     {
      "sku": "AeroMesh Classic Ergo Chair - Without Headrest",
-     "keyword": "Frido AeroMesh Classic Ergo Chair - Without Headrest"
+     "brandKeyword": "Frido AeroMesh Classic Ergo Chair - Without Headrest",
+     "genericKeyword": "Ergo Chair Without Headrest",
+     "manualKeyword": null,
+     "searchKeyword": "Ergo Chair Without Headrest"
     },
     {
      "sku": "Embrace Ergo Chair",
-     "keyword": "Frido Embrace Ergo Chair"
+     "brandKeyword": "Frido Embrace Ergo Chair",
+     "genericKeyword": "Ergo Chair",
+     "manualKeyword": null,
+     "searchKeyword": "Ergo Chair"
     },
     {
      "sku": "AeroMesh Classic Ergo Chair - With Headrest",
-     "keyword": "Frido AeroMesh Classic Ergo Chair - With Headrest"
+     "brandKeyword": "Frido AeroMesh Classic Ergo Chair - With Headrest",
+     "genericKeyword": "Ergo Chair With Headrest",
+     "manualKeyword": null,
+     "searchKeyword": "Ergo Chair With Headrest"
     },
     {
      "sku": "Aeroluxe Massage Chair",
-     "keyword": "Frido Aeroluxe Massage Chair"
+     "brandKeyword": "Frido Aeroluxe Massage Chair",
+     "genericKeyword": "Massage Chair",
+     "manualKeyword": null,
+     "searchKeyword": "Massage Chair"
     }
    ]
   }
- ]
+ ],
+ "keywordMethodology": "searchKeyword (used for all ranking calculations) = manualKeyword if set, else genericKeyword. genericKeyword is auto-derived from the SKU name by stripping 'Frido' and Frido-specific brand/product-line/marketing words (Ultimate, Premium, Pro, Cloud, ErgoLuxe, AeroMesh, Vajra, Embrace, Glide, etc.) — NOT colours/sizes/pack-counts, which were already excluded when the base SKU list was built. brandKeyword ('Frido <SKU>') is retained separately as a brand-qualified existence check only, never used for competitive ranking."
 }
